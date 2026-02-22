@@ -2,21 +2,34 @@
   "sportKey": "nascar-oreilly",
   "season": "2026",
   "events": [
-    { "id": "noaps-2026-daytona-practice", "weekend": "Daytona", "name": "Practice", "utc": "2026-02-13T21:30:00Z" },
-    { "id": "noaps-2026-daytona-qualifying", "weekend": "Daytona", "name": "Qualifying", "utc": "2026-02-14T15:00:00Z" },
-    { "id": "noaps-2026-daytona-race", "weekend": "Daytona", "name": "Race", "utc": "2026-02-14T22:00:00Z" },
+    { "id": "noaps-2026-sonoma-practice", "weekend": "Sonoma", "name": "Practice", "utc": "2026-06-26T20:00:00Z" },
+    { "id": "noaps-2026-sonoma-qualifying", "weekend": "Sonoma", "name": "Qualifying", "utc": "2026-06-26T22:05:00Z" },
+    { "id": "noaps-2026-sonoma-race", "weekend": "Sonoma", "name": "Race", "utc": "2026-06-27T21:30:00Z" },
 
-    { "id": "noaps-2026-echopark-qualifying", "weekend": "EchoPark", "name": "Qualifying", "utc": "2026-02-20T22:00:00Z" },
-    { "id": "noaps-2026-echopark-race", "weekend": "EchoPark", "name": "Race", "utc": "2026-02-21T22:00:00Z" },
+    { "id": "noaps-2026-chicagoland-practice", "weekend": "Chicagoland", "name": "Practice", "utc": "2026-07-03T20:30:00Z" },
+    { "id": "noaps-2026-chicagoland-qualifying", "weekend": "Chicagoland", "name": "Qualifying", "utc": "2026-07-04T18:00:00Z" },
+    { "id": "noaps-2026-chicagoland-race", "weekend": "Chicagoland", "name": "Race", "utc": "2026-07-04T21:30:00Z" },
 
-    { "id": "noaps-2026-cota-practice", "weekend": "COTA", "name": "Practice", "utc": "2026-02-27T22:00:00Z" },
-    { "id": "noaps-2026-cota-qualifying", "weekend": "COTA", "name": "Qualifying", "utc": "2026-02-27T23:05:00Z" },
-    { "id": "noaps-2026-cota-race", "weekend": "COTA", "name": "Race", "utc": "2026-02-28T20:00:00Z" },
+    { "id": "noaps-2026-echopark-qualifying", "weekend": "EchoPark", "name": "Qualifying", "utc": "2026-07-11T15:00:00Z" },
+    { "id": "noaps-2026-echopark-race", "weekend": "EchoPark", "name": "Race", "utc": "2026-07-11T23:00:00Z" },
 
-    { "id": "noaps-2026-phoenix-practice", "weekend": "Phoenix", "name": "Practice", "utc": "2026-03-07T00:50:00Z" },
-    { "id": "noaps-2026-phoenix-qualifying", "weekend": "Phoenix", "name": "Qualifying", "utc": "2026-03-07T02:05:00Z" },
-    { "id": "noaps-2026-phoenix-race", "weekend": "Phoenix", "name": "Race", "utc": "2026-03-08T01:30:00Z" },
+    { "id": "noaps-2026-indianapolis-practice", "weekend": "Indianapolis", "name": "Practice", "utc": "2026-07-24T16:00:00Z" },
+    { "id": "noaps-2026-indianapolis-qualifying", "weekend": "Indianapolis", "name": "Qualifying", "utc": "2026-07-25T16:30:00Z" },
+    { "id": "noaps-2026-indianapolis-race", "weekend": "Indianapolis", "name": "Race", "utc": "2026-07-25T20:00:00Z" },
 
-    { "id": "noaps-2026-placeholder-1", "weekend": "TBD", "name": "Schedule coming soon", "utc": "2026-03-15T20:00:00Z" }
+    { "id": "noaps-2026-iowa-practice", "weekend": "Iowa", "name": "Practice", "utc": "2026-08-08T15:30:00Z" },
+    { "id": "noaps-2026-iowa-qualifying", "weekend": "Iowa", "name": "Qualifying", "utc": "2026-08-08T16:35:00Z" },
+    { "id": "noaps-2026-iowa-race", "weekend": "Iowa", "name": "Race", "utc": "2026-08-08T21:00:00Z" },
+
+    { "id": "noaps-2026-daytona-qualifying", "weekend": "Daytona", "name": "Qualifying", "utc": "2026-08-28T19:00:00Z" },
+    { "id": "noaps-2026-daytona-race", "weekend": "Daytona", "name": "Race", "utc": "2026-08-28T23:30:00Z" },
+
+    { "id": "noaps-2026-darlington-practice", "weekend": "Darlington", "name": "Practice", "utc": "2026-09-05T18:00:00Z" },
+    { "id": "noaps-2026-darlington-qualifying", "weekend": "Darlington", "name": "Qualifying", "utc": "2026-09-05T19:05:00Z" },
+    { "id": "noaps-2026-darlington-race", "weekend": "Darlington", "name": "Race", "utc": "2026-09-05T23:30:00Z" },
+
+    { "id": "noaps-2026-wwtr-practice", "weekend": "World Wide Technology Raceway", "name": "Practice", "utc": "2026-09-12T17:00:00Z" },
+    { "id": "noaps-2026-wwtr-qualifying", "weekend": "World Wide Technology Raceway", "name": "Qualifying", "utc": "2026-09-12T18:05:00Z" },
+    { "id": "noaps-2026-wwtr-race", "weekend": "World Wide Technology Raceway", "name": "Race", "utc": "2026-09-12T23:30:00Z" }
   ]
 }
