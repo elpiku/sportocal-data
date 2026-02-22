@@ -1,0 +1,24 @@
+{
+  "sportKey": "nascar-cup",
+  "season": "2026",
+  "events": [
+    { "id": "cup-2026-daytona-practice-1", "weekend": "Daytona", "name": "Practice 1", "utc": "2026-02-11T15:00:00Z" },
+    { "id": "cup-2026-daytona-qualifying", "weekend": "Daytona", "name": "Qualifying", "utc": "2026-02-12T01:15:00Z" },
+    { "id": "cup-2026-daytona-practice-2", "weekend": "Daytona", "name": "Practice 2", "utc": "2026-02-13T22:35:00Z" },
+    { "id": "cup-2026-daytona-practice-3", "weekend": "Daytona", "name": "Practice 3", "utc": "2026-02-14T20:00:00Z" },
+    { "id": "cup-2026-daytona-race", "weekend": "Daytona", "name": "Race", "utc": "2026-02-15T19:30:00Z" },
+
+    { "id": "cup-2026-echopark-qualifying", "weekend": "EchoPark", "name": "Qualifying", "utc": "2026-02-21T16:00:00Z" },
+    { "id": "cup-2026-echopark-race", "weekend": "EchoPark", "name": "Race", "utc": "2026-02-22T20:00:00Z" },
+
+    { "id": "cup-2026-cota-practice", "weekend": "COTA", "name": "Practice", "utc": "2026-02-28T17:00:00Z" },
+    { "id": "cup-2026-cota-qualifying", "weekend": "COTA", "name": "Qualifying", "utc": "2026-02-28T18:10:00Z" },
+    { "id": "cup-2026-cota-race", "weekend": "COTA", "name": "Race", "utc": "2026-03-01T20:30:00Z" },
+
+    { "id": "cup-2026-phoenix-practice", "weekend": "Phoenix", "name": "Practice", "utc": "2026-03-07T17:00:00Z" },
+    { "id": "cup-2026-phoenix-qualifying", "weekend": "Phoenix", "name": "Qualifying", "utc": "2026-03-07T18:10:00Z" },
+    { "id": "cup-2026-phoenix-race", "weekend": "Phoenix", "name": "Race", "utc": "2026-03-08T19:30:00Z" },
+
+    { "id": "cup-2026-placeholder-1", "weekend": "TBD", "name": "Schedule coming soon", "utc": "2026-03-15T20:00:00Z" }
+  ]
+}
