@@ -1,0 +1,18 @@
+{
+  "sportKey": "nascar-craftsman",
+  "season": "2026",
+  "events": [
+    { "id": "ncts-2026-daytona-practice", "weekend": "Daytona", "name": "Practice", "utc": "2026-02-12T22:00:00Z" },
+    { "id": "ncts-2026-daytona-qualifying", "weekend": "Daytona", "name": "Qualifying", "utc": "2026-02-13T20:00:00Z" },
+    { "id": "ncts-2026-daytona-race", "weekend": "Daytona", "name": "Race", "utc": "2026-02-14T00:30:00Z" },
+
+    { "id": "ncts-2026-echopark-qualifying", "weekend": "EchoPark", "name": "Qualifying", "utc": "2026-02-20T20:00:00Z" },
+    { "id": "ncts-2026-echopark-race", "weekend": "EchoPark", "name": "Race", "utc": "2026-02-21T18:30:00Z" },
+
+    { "id": "ncts-2026-stpete-practice", "weekend": "St. Pete", "name": "Practice", "utc": "2026-02-27T21:00:00Z" },
+    { "id": "ncts-2026-stpete-qualifying", "weekend": "St. Pete", "name": "Qualifying", "utc": "2026-02-27T22:05:00Z" },
+    { "id": "ncts-2026-stpete-race", "weekend": "St. Pete", "name": "Race", "utc": "2026-02-28T17:00:00Z" },
+
+    { "id": "ncts-2026-placeholder-1", "weekend": "TBD", "name": "Schedule coming soon", "utc": "2026-03-15T20:00:00Z" }
+  ]
+}
