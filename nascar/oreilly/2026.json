@@ -1,0 +1,22 @@
+{
+  "sportKey": "nascar-oreilly",
+  "season": "2026",
+  "events": [
+    { "id": "noaps-2026-daytona-practice", "weekend": "Daytona", "name": "Practice", "utc": "2026-02-13T21:30:00Z" },
+    { "id": "noaps-2026-daytona-qualifying", "weekend": "Daytona", "name": "Qualifying", "utc": "2026-02-14T15:00:00Z" },
+    { "id": "noaps-2026-daytona-race", "weekend": "Daytona", "name": "Race", "utc": "2026-02-14T22:00:00Z" },
+
+    { "id": "noaps-2026-echopark-qualifying", "weekend": "EchoPark", "name": "Qualifying", "utc": "2026-02-20T22:00:00Z" },
+    { "id": "noaps-2026-echopark-race", "weekend": "EchoPark", "name": "Race", "utc": "2026-02-21T22:00:00Z" },
+
+    { "id": "noaps-2026-cota-practice", "weekend": "COTA", "name": "Practice", "utc": "2026-02-27T22:00:00Z" },
+    { "id": "noaps-2026-cota-qualifying", "weekend": "COTA", "name": "Qualifying", "utc": "2026-02-27T23:05:00Z" },
+    { "id": "noaps-2026-cota-race", "weekend": "COTA", "name": "Race", "utc": "2026-02-28T20:00:00Z" },
+
+    { "id": "noaps-2026-phoenix-practice", "weekend": "Phoenix", "name": "Practice", "utc": "2026-03-07T00:50:00Z" },
+    { "id": "noaps-2026-phoenix-qualifying", "weekend": "Phoenix", "name": "Qualifying", "utc": "2026-03-07T02:05:00Z" },
+    { "id": "noaps-2026-phoenix-race", "weekend": "Phoenix", "name": "Race", "utc": "2026-03-08T01:30:00Z" },
+
+    { "id": "noaps-2026-placeholder-1", "weekend": "TBD", "name": "Schedule coming soon", "utc": "2026-03-15T20:00:00Z" }
+  ]
+}
