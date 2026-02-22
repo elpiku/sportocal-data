@@ -2,17 +2,20 @@
   "sportKey": "nascar-craftsman",
   "season": "2026",
   "events": [
-    { "id": "ncts-2026-daytona-practice", "weekend": "Daytona", "name": "Practice", "utc": "2026-02-12T22:00:00Z" },
-    { "id": "ncts-2026-daytona-qualifying", "weekend": "Daytona", "name": "Qualifying", "utc": "2026-02-13T20:00:00Z" },
-    { "id": "ncts-2026-daytona-race", "weekend": "Daytona", "name": "Race", "utc": "2026-02-14T00:30:00Z" },
+    { "id": "ncts-2026-limerock-practice", "weekend": "Lime Rock", "name": "Practice", "utc": "2026-07-11T13:00:00Z" },
+    { "id": "ncts-2026-limerock-qualifying", "weekend": "Lime Rock", "name": "Qualifying", "utc": "2026-07-11T14:05:00Z" },
+    { "id": "ncts-2026-limerock-race", "weekend": "Lime Rock", "name": "Race", "utc": "2026-07-11T17:00:00Z" },
 
-    { "id": "ncts-2026-echopark-qualifying", "weekend": "EchoPark", "name": "Qualifying", "utc": "2026-02-20T20:00:00Z" },
-    { "id": "ncts-2026-echopark-race", "weekend": "EchoPark", "name": "Race", "utc": "2026-02-21T18:30:00Z" },
+    { "id": "ncts-2026-lucasoilirp-practice", "weekend": "Lucas Oil IRP", "name": "Practice", "utc": "2026-07-24T19:00:00Z" },
+    { "id": "ncts-2026-lucasoilirp-qualifying", "weekend": "Lucas Oil IRP", "name": "Qualifying", "utc": "2026-07-24T20:05:00Z" },
+    { "id": "ncts-2026-lucasoilirp-race", "weekend": "Lucas Oil IRP", "name": "Race", "utc": "2026-07-25T00:00:00Z" },
 
-    { "id": "ncts-2026-stpete-practice", "weekend": "St. Pete", "name": "Practice", "utc": "2026-02-27T21:00:00Z" },
-    { "id": "ncts-2026-stpete-qualifying", "weekend": "St. Pete", "name": "Qualifying", "utc": "2026-02-27T22:05:00Z" },
-    { "id": "ncts-2026-stpete-race", "weekend": "St. Pete", "name": "Race", "utc": "2026-02-28T17:00:00Z" },
+    { "id": "ncts-2026-richmond-practice", "weekend": "Richmond", "name": "Practice", "utc": "2026-08-14T17:00:00Z" },
+    { "id": "ncts-2026-richmond-qualifying", "weekend": "Richmond", "name": "Qualifying", "utc": "2026-08-14T18:05:00Z" },
+    { "id": "ncts-2026-richmond-race", "weekend": "Richmond", "name": "Race", "utc": "2026-08-14T23:30:00Z" },
 
-    { "id": "ncts-2026-placeholder-1", "weekend": "TBD", "name": "Schedule coming soon", "utc": "2026-03-15T20:00:00Z" }
+    { "id": "ncts-2026-newhampshire-practice", "weekend": "New Hampshire", "name": "Practice", "utc": "2026-08-21T20:00:00Z" },
+    { "id": "ncts-2026-newhampshire-qualifying", "weekend": "New Hampshire", "name": "Qualifying", "utc": "2026-08-21T21:05:00Z" },
+    { "id": "ncts-2026-newhampshire-race", "weekend": "New Hampshire", "name": "Race", "utc": "2026-08-22T17:30:00Z" }
   ]
 }
