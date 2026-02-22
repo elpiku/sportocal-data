@@ -1,35 +1,40 @@
 {
-  "sportKey": "nascar-oreilly",
-  "season": "2026",
-  "events": [
-    { "id": "noaps-2026-sonoma-practice", "weekend": "Sonoma", "name": "Practice", "utc": "2026-06-26T20:00:00Z" },
-    { "id": "noaps-2026-sonoma-qualifying", "weekend": "Sonoma", "name": "Qualifying", "utc": "2026-06-26T22:05:00Z" },
-    { "id": "noaps-2026-sonoma-race", "weekend": "Sonoma", "name": "Race", "utc": "2026-06-27T21:30:00Z" },
-
-    { "id": "noaps-2026-chicagoland-practice", "weekend": "Chicagoland", "name": "Practice", "utc": "2026-07-03T20:30:00Z" },
-    { "id": "noaps-2026-chicagoland-qualifying", "weekend": "Chicagoland", "name": "Qualifying", "utc": "2026-07-04T18:00:00Z" },
-    { "id": "noaps-2026-chicagoland-race", "weekend": "Chicagoland", "name": "Race", "utc": "2026-07-04T21:30:00Z" },
-
-    { "id": "noaps-2026-echopark-qualifying", "weekend": "EchoPark", "name": "Qualifying", "utc": "2026-07-11T15:00:00Z" },
-    { "id": "noaps-2026-echopark-race", "weekend": "EchoPark", "name": "Race", "utc": "2026-07-11T23:00:00Z" },
-
-    { "id": "noaps-2026-indianapolis-practice", "weekend": "Indianapolis", "name": "Practice", "utc": "2026-07-24T16:00:00Z" },
-    { "id": "noaps-2026-indianapolis-qualifying", "weekend": "Indianapolis", "name": "Qualifying", "utc": "2026-07-25T16:30:00Z" },
-    { "id": "noaps-2026-indianapolis-race", "weekend": "Indianapolis", "name": "Race", "utc": "2026-07-25T20:00:00Z" },
-
-    { "id": "noaps-2026-iowa-practice", "weekend": "Iowa", "name": "Practice", "utc": "2026-08-08T15:30:00Z" },
-    { "id": "noaps-2026-iowa-qualifying", "weekend": "Iowa", "name": "Qualifying", "utc": "2026-08-08T16:35:00Z" },
-    { "id": "noaps-2026-iowa-race", "weekend": "Iowa", "name": "Race", "utc": "2026-08-08T21:00:00Z" },
-
-    { "id": "noaps-2026-daytona-qualifying", "weekend": "Daytona", "name": "Qualifying", "utc": "2026-08-28T19:00:00Z" },
-    { "id": "noaps-2026-daytona-race", "weekend": "Daytona", "name": "Race", "utc": "2026-08-28T23:30:00Z" },
-
-    { "id": "noaps-2026-darlington-practice", "weekend": "Darlington", "name": "Practice", "utc": "2026-09-05T18:00:00Z" },
-    { "id": "noaps-2026-darlington-qualifying", "weekend": "Darlington", "name": "Qualifying", "utc": "2026-09-05T19:05:00Z" },
-    { "id": "noaps-2026-darlington-race", "weekend": "Darlington", "name": "Race", "utc": "2026-09-05T23:30:00Z" },
-
-    { "id": "noaps-2026-wwtr-practice", "weekend": "World Wide Technology Raceway", "name": "Practice", "utc": "2026-09-12T17:00:00Z" },
-    { "id": "noaps-2026-wwtr-qualifying", "weekend": "World Wide Technology Raceway", "name": "Qualifying", "utc": "2026-09-12T18:05:00Z" },
-    { "id": "noaps-2026-wwtr-race", "weekend": "World Wide Technology Raceway", "name": "Race", "utc": "2026-09-12T23:30:00Z" }
-  ]
-}
+    "sportKey": "nascar-oreilly",
+    "season": "2026",
+    "events": [
+      { "id": "noaps-2026-daytona-qualifying-race", "weekend": "Daytona", "name": "Qualifying Race", "utc": "2026-02-14T00:30:00Z" },
+      { "id": "noaps-2026-daytona-race", "weekend": "Daytona", "name": "Race", "utc": "2026-02-14T22:00:00Z" },
+      { "id": "noaps-2026-echopark-qualifying", "weekend": "EchoPark", "name": "Qualifying", "utc": "2026-02-20T23:30:00Z" },
+      { "id": "noaps-2026-echopark-race", "weekend": "EchoPark", "name": "Race", "utc": "2026-02-21T22:00:00Z" },
+      { "id": "noaps-2026-circuit-of-americas-qualifying", "weekend": "Circuit of the Americas", "name": "Qualifying", "utc": "2026-02-27T23:05:00Z" },
+      { "id": "noaps-2026-circuit-of-americas-race", "weekend": "Circuit of the Americas", "name": "Race", "utc": "2026-02-28T20:00:00Z" },
+      { "id": "noaps-2026-phoenix-qualifying", "weekend": "Phoenix", "name": "Qualifying", "utc": "2026-03-07T02:05:00Z" },
+      { "id": "noaps-2026-phoenix-race", "weekend": "Phoenix", "name": "Race", "utc": "2026-03-07T23:30:00Z" },
+      { "id": "noaps-2026-lasvegas-race", "weekend": "Las Vegas", "name": "Race", "utc": "2026-03-14T21:30:00Z" },
+      { "id": "noaps-2026-darlington-race", "weekend": "Darlington", "name": "Race", "utc": "2026-03-21T22:30:00Z" },
+      { "id": "noaps-2026-martinsville-race", "weekend": "Martinsville", "name": "Race", "utc": "2026-03-28T21:30:00Z" },
+      { "id": "noaps-2026-bristol-race", "weekend": "Bristol", "name": "Race", "utc": "2026-04-12T00:30:00Z" },
+      { "id": "noaps-2026-rockingham-race", "weekend": "Rockingham", "name": "Race", "utc": "2026-04-04T19:30:00Z" },
+      { "id": "noaps-2026-kansas-race", "weekend": "Kansas", "name": "Race", "utc": "2026-04-18T23:00:00Z" },
+      { "id": "noaps-2026-talladega-race", "weekend": "Talladega", "name": "Race", "utc": "2026-04-25T20:00:00Z" },
+      { "id": "noaps-2026-texas-race", "weekend": "Texas", "name": "Race", "utc": "2026-05-02T21:30:00Z" },
+      { "id": "noaps-2026-watkinsglen-race", "weekend": "Watkins Glen", "name": "Race", "utc": "2026-05-09T21:00:00Z" },
+      { "id": "noaps-2026-charlotte-race", "weekend": "Charlotte", "name": "Race", "utc": "2026-05-23T22:00:00Z" },
+      { "id": "noaps-2026-nashville-race", "weekend": "Nashville", "name": "Race", "utc": "2026-05-30T23:30:00Z" },
+      { "id": "noaps-2026-pocono-race", "weekend": "Pocono", "name": "Race", "utc": "2026-06-13T21:00:00Z" },
+      { "id": "noaps-2026-sonoma-race", "weekend": "Sonoma", "name": "Race", "utc": "2026-06-27T23:30:00Z" },
+      { "id": "noaps-2026-chicagoland-race", "weekend": "Chicagoland", "name": "Race", "utc": "2026-07-04T21:30:00Z" },
+      { "id": "noaps-2026-echopark-race2", "weekend": "EchoPark", "name": "Race", "utc": "2026-07-11T23:00:00Z" },
+      { "id": "noaps-2026-indianapolis-race", "weekend": "Indianapolis", "name": "Race", "utc": "2026-07-25T21:00:00Z" },
+      { "id": "noaps-2026-iowa-race", "weekend": "Iowa", "name": "Race", "utc": "2026-08-08T21:00:00Z" },
+      { "id": "noaps-2026-daytona-race2", "weekend": "Daytona", "name": "Race", "utc": "2026-08-29T00:30:00Z" },
+      { "id": "noaps-2026-darlington-race2", "weekend": "Darlington", "name": "Race", "utc": "2026-09-05T22:30:00Z" },
+      { "id": "noaps-2026-wwtr-race", "weekend": "World Wide Technology Raceway", "name": "Race", "utc": "2026-09-12T23:30:00Z" },
+      { "id": "noaps-2026-bristol-race2", "weekend": "Bristol", "name": "Race", "utc": "2026-09-19T00:30:00Z" },
+      { "id": "noaps-2026-kansas-race2", "weekend": "Kansas", "name": "Race", "utc": "2026-09-26T21:00:00Z" },
+      { "id": "noaps-2026-charlotte-road-race", "weekend": "Charlotte Roval", "name": "Race", "utc": "2026-10-10T21:00:00Z" },
+      { "id": "noaps-2026-lasvegas-race2", "weekend": "Las Vegas", "name": "Race", "utc": "2026-10-03T21:30:00Z" },
+      { "id": "noaps-2026-homestead-race", "weekend": "Homestead", "name": "Race", "utc": "2026-11-07T22:00:00Z" },
+      { "id": "noaps-2026-phoenix-race2", "weekend": "Phoenix", "name": "Race", "utc": "2026-11-07T23:30:00Z" }
+    ]
+  }
