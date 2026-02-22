@@ -1,30 +1,29 @@
 {
-    "sportKey": "nascar-craftsman",
-    "season": "2026",
-    "events": [
-      { "id": "ncts-2026-daytona-race", "weekend": "Daytona", "name": "Race", "utc": "2026-02-14T00:30:00Z" },
-      { "id": "ncts-2026-echopark-race", "weekend": "EchoPark", "name": "Race", "utc": "2026-02-21T18:30:00Z" },
-      { "id": "ncts-2026-stpete-race", "weekend": "St. Petersburg", "name": "Race", "utc": "2026-02-28T18:00:00Z" },
-      { "id": "ncts-2026-phoenix-race", "weekend": "Phoenix", "name": "Race", "utc": "2026-03-06T23:30:00Z" },
-      { "id": "ncts-2026-rockingham-race", "weekend": "Rockingham", "name": "Race", "utc": "2026-04-03T21:30:00Z" },
-      { "id": "ncts-2026-bristol-race", "weekend": "Bristol", "name": "Race", "utc": "2026-04-11T00:30:00Z" },
-      { "id": "ncts-2026-kansas-race", "weekend": "Kansas", "name": "Race", "utc": "2026-09-26T17:00:00Z" },
-      { "id": "ncts-2026-texas-race", "weekend": "Texas", "name": "Race", "utc": "2026-05-01T23:00:00Z" },
-      { "id": "ncts-2026-watkinsglen-race", "weekend": "Watkins Glen", "name": "Race", "utc": "2026-05-08T21:30:00Z" },
-      { "id": "ncts-2026-charlotte-race", "weekend": "Charlotte", "name": "Race", "utc": "2026-05-23T00:30:00Z" },
-      { "id": "ncts-2026-nashville-race", "weekend": "Nashville", "name": "Race", "utc": "2026-05-30T00:00:00Z" },
-      { "id": "ncts-2026-michigan-race", "weekend": "Michigan", "name": "Race", "utc": "2026-06-06T18:30:00Z" },
-      { "id": "ncts-2026-lime-rock-race", "weekend": "Lime Rock Park", "name": "Race", "utc": "2026-07-11T18:00:00Z" },
-      { "id": "ncts-2026-indianapolis-race", "weekend": "Lucas Oil Indianapolis Raceway", "name": "Race", "utc": "2026-07-24T23:00:00Z" },
-      { "id": "ncts-2026-richmond-race", "weekend": "Richmond", "name": "Race", "utc": "2026-08-14T23:30:00Z" },
-      { "id": "ncts-2026-newhampshire-race", "weekend": "New Hampshire", "name": "Race", "utc": "2026-08-22T18:30:00Z" },
-      { "id": "ncts-2026-milwaukee-race", "weekend": "Milwaukee", "name": "Race", "utc": "2026-08-29T22:00:00Z" },
-      { "id": "ncts-2026-darlington-race", "weekend": "Darlington", "name": "Race", "utc": "2026-09-05T22:30:00Z" },
-      { "id": "ncts-2026-bristol-race2", "weekend": "Bristol", "name": "Race", "utc": "2026-09-18T00:00:00Z" },
-      { "id": "ncts-2026-kansas-race2", "weekend": "Kansas", "name": "Race", "utc": "2026-09-26T19:00:00Z" },
-      { "id": "ncts-2026-charlotte-road-race", "weekend": "Charlotte Roval", "name": "Race", "utc": "2026-10-09T22:00:00Z" },
-      { "id": "ncts-2026-phoenix-race2", "weekend": "Phoenix", "name": "Race", "utc": "2026-10-16T21:30:00Z" },
-      { "id": "ncts-2026-homestead-race", "weekend": "Homestead", "name": "Race", "utc": "2026-11-06T23:30:00Z" }
-    ]
-  }
-]
+  "sportKey": "nascar-craftsman",
+  "season": "2026",
+  "events": [
+    { "id": "ncts-2026-daytona-race", "weekend": "Daytona", "name": "Race", "utc": "2026-02-14T00:30:00Z" },
+    { "id": "ncts-2026-echopark-race", "weekend": "EchoPark", "name": "Race", "utc": "2026-02-21T18:30:00Z" },
+    { "id": "ncts-2026-stpete-race", "weekend": "St. Petersburg", "name": "Race", "utc": "2026-02-28T18:00:00Z" },
+    { "id": "ncts-2026-phoenix-race", "weekend": "Phoenix", "name": "Race", "utc": "2026-03-06T23:30:00Z" },
+    { "id": "ncts-2026-rockingham-race", "weekend": "Rockingham", "name": "Race", "utc": "2026-04-03T21:30:00Z" },
+    { "id": "ncts-2026-bristol-race", "weekend": "Bristol", "name": "Race", "utc": "2026-04-11T00:30:00Z" },
+    { "id": "ncts-2026-kansas-race", "weekend": "Kansas", "name": "Race", "utc": "2026-09-26T17:00:00Z" },
+    { "id": "ncts-2026-texas-race", "weekend": "Texas", "name": "Race", "utc": "2026-05-01T23:00:00Z" },
+    { "id": "ncts-2026-watkinsglen-race", "weekend": "Watkins Glen", "name": "Race", "utc": "2026-05-08T21:30:00Z" },
+    { "id": "ncts-2026-charlotte-race", "weekend": "Charlotte", "name": "Race", "utc": "2026-05-23T00:30:00Z" },
+    { "id": "ncts-2026-nashville-race", "weekend": "Nashville", "name": "Race", "utc": "2026-05-30T00:00:00Z" },
+    { "id": "ncts-2026-michigan-race", "weekend": "Michigan", "name": "Race", "utc": "2026-06-06T18:30:00Z" },
+    { "id": "ncts-2026-lime-rock-race", "weekend": "Lime Rock Park", "name": "Race", "utc": "2026-07-11T18:00:00Z" },
+    { "id": "ncts-2026-indianapolis-race", "weekend": "Lucas Oil Indianapolis Raceway", "name": "Race", "utc": "2026-07-24T23:00:00Z" },
+    { "id": "ncts-2026-richmond-race", "weekend": "Richmond", "name": "Race", "utc": "2026-08-14T23:30:00Z" },
+    { "id": "ncts-2026-newhampshire-race", "weekend": "New Hampshire", "name": "Race", "utc": "2026-08-22T18:30:00Z" },
+    { "id": "ncts-2026-milwaukee-race", "weekend": "Milwaukee", "name": "Race", "utc": "2026-08-29T22:00:00Z" },
+    { "id": "ncts-2026-darlington-race", "weekend": "Darlington", "name": "Race", "utc": "2026-09-05T22:30:00Z" },
+    { "id": "ncts-2026-bristol-race2", "weekend": "Bristol", "name": "Race", "utc": "2026-09-18T00:00:00Z" },
+    { "id": "ncts-2026-kansas-race2", "weekend": "Kansas", "name": "Race", "utc": "2026-09-26T19:00:00Z" },
+    { "id": "ncts-2026-charlotte-road-race", "weekend": "Charlotte Roval", "name": "Race", "utc": "2026-10-09T22:00:00Z" },
+    { "id": "ncts-2026-phoenix-race2", "weekend": "Phoenix", "name": "Race", "utc": "2026-10-16T21:30:00Z" },
+    { "id": "ncts-2026-homestead-race", "weekend": "Homestead", "name": "Race", "utc": "2026-11-06T23:30:00Z" }
+  ]
+}
