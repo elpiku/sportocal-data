@@ -1,41 +1,31 @@
 {
+  "sportKey": "wrc",
   "season": "2026",
-  "series": "WRC",
-  "note": "Safari Rally Kenya 2026 itinerary. Times shown in source are UTC+3 (EAT). Store in UTC in this JSON.",
-  "rallies": [
-    {
-      "round": 3,
-      "rallyKey": "safari-rally-kenya",
-      "name": "Safari Rally Kenya",
-      "timezone": "UTC+3",
-      "startDate": "2026-03-12",
-      "endDate": "2026-03-15",
-      "stages": [
-        { "code": "SD", "name": "Shakedown", "distanceKm": 5.0, "utc": "2026-03-12T05:01:00Z" },
-        { "code": "SS1", "name": "Camp Moran 1", "distanceKm": 24.5, "utc": "2026-03-12T13:03:00Z" },
-        { "code": "SS2", "name": "Mzabibu 1", "distanceKm": 8.27, "utc": "2026-03-12T14:21:00Z" },
+  "events": [
+    { "id": "wrc-kenya-2026-sd", "weekend": "Safari Rally Kenya", "name": "Shakedown", "utc": "2026-03-12T05:01:00Z" },
 
-        { "code": "SS3", "name": "Camp Moran 2", "distanceKm": 24.5, "utc": "2026-03-13T05:03:00Z" },
-        { "code": "SS4", "name": "Loldia 1", "distanceKm": 25.6, "utc": "2026-03-13T06:06:00Z" },
-        { "code": "SS5", "name": "Kengen Geothermal 1", "distanceKm": 13.12, "utc": "2026-03-13T07:24:00Z" },
-        { "code": "SS6", "name": "Kedong 1", "distanceKm": 13.17, "utc": "2026-03-13T08:17:00Z" },
-        { "code": "SS7", "name": "Kedong 2", "distanceKm": 13.17, "utc": "2026-03-13T11:00:00Z" },
-        { "code": "SS8", "name": "Kengen Geothermal 2", "distanceKm": 13.12, "utc": "2026-03-13T11:58:00Z" },
-        { "code": "SS9", "name": "Loldia 2", "distanceKm": 25.6, "utc": "2026-03-13T12:56:00Z" },
-        { "code": "SS10", "name": "Mzabibu 2", "distanceKm": 8.27, "utc": "2026-03-13T13:59:00Z" },
+    { "id": "wrc-kenya-2026-ss1", "weekend": "Safari Rally Kenya", "name": "SS1 Camp Moran 1", "utc": "2026-03-12T13:03:00Z" },
+    { "id": "wrc-kenya-2026-ss2", "weekend": "Safari Rally Kenya", "name": "SS2 Mzabibu 1", "utc": "2026-03-12T14:21:00Z" },
 
-        { "code": "SS11", "name": "Soysambu 1", "distanceKm": 25.2, "utc": "2026-03-14T05:35:00Z" },
-        { "code": "SS12", "name": "Elmenteita 1", "distanceKm": 17.8, "utc": "2026-03-14T06:35:00Z" },
-        { "code": "SS13", "name": "Sleeping Warrior 1", "distanceKm": 18.49, "utc": "2026-03-14T07:33:00Z" },
-        { "code": "SS14", "name": "Soysambu 2", "distanceKm": 25.2, "utc": "2026-03-14T12:05:00Z" },
-        { "code": "SS15", "name": "Elmenteita 2", "distanceKm": 17.8, "utc": "2026-03-14T13:05:00Z" },
-        { "code": "SS16", "name": "Sleeping Warrior 2", "distanceKm": 18.49, "utc": "2026-03-14T14:03:00Z" },
+    { "id": "wrc-kenya-2026-ss3", "weekend": "Safari Rally Kenya", "name": "SS3 Camp Moran 2", "utc": "2026-03-13T05:03:00Z" },
+    { "id": "wrc-kenya-2026-ss4", "weekend": "Safari Rally Kenya", "name": "SS4 Loldia 1", "utc": "2026-03-13T06:06:00Z" },
+    { "id": "wrc-kenya-2026-ss5", "weekend": "Safari Rally Kenya", "name": "SS5 Kengen Geothermal 1", "utc": "2026-03-13T07:24:00Z" },
+    { "id": "wrc-kenya-2026-ss6", "weekend": "Safari Rally Kenya", "name": "SS6 Kedong 1", "utc": "2026-03-13T08:17:00Z" },
+    { "id": "wrc-kenya-2026-ss7", "weekend": "Safari Rally Kenya", "name": "SS7 Kedong 2", "utc": "2026-03-13T11:00:00Z" },
+    { "id": "wrc-kenya-2026-ss8", "weekend": "Safari Rally Kenya", "name": "SS8 Kengen Geothermal 2", "utc": "2026-03-13T11:58:00Z" },
+    { "id": "wrc-kenya-2026-ss9", "weekend": "Safari Rally Kenya", "name": "SS9 Loldia 2", "utc": "2026-03-13T12:56:00Z" },
+    { "id": "wrc-kenya-2026-ss10", "weekend": "Safari Rally Kenya", "name": "SS10 Mzabibu 2", "utc": "2026-03-13T13:59:00Z" },
 
-        { "code": "SS17", "name": "Oserengoni 1", "distanceKm": 18.33, "utc": "2026-03-15T05:09:00Z" },
-        { "code": "SS18", "name": "Hell's Gate 1", "distanceKm": 10.53, "utc": "2026-03-15T06:35:00Z" },
-        { "code": "SS19", "name": "Oserengoni 2", "distanceKm": 18.33, "utc": "2026-03-15T07:38:00Z" },
-        { "code": "SS20", "name": "Hell's Gate 2 - Wolf Power Stage", "distanceKm": 10.53, "utc": "2026-03-15T10:15:00Z" }
-      ]
-    }
+    { "id": "wrc-kenya-2026-ss11", "weekend": "Safari Rally Kenya", "name": "SS11 Soysambu 1", "utc": "2026-03-14T05:35:00Z" },
+    { "id": "wrc-kenya-2026-ss12", "weekend": "Safari Rally Kenya", "name": "SS12 Elmenteita 1", "utc": "2026-03-14T06:35:00Z" },
+    { "id": "wrc-kenya-2026-ss13", "weekend": "Safari Rally Kenya", "name": "SS13 Sleeping Warrior 1", "utc": "2026-03-14T07:33:00Z" },
+    { "id": "wrc-kenya-2026-ss14", "weekend": "Safari Rally Kenya", "name": "SS14 Soysambu 2", "utc": "2026-03-14T12:05:00Z" },
+    { "id": "wrc-kenya-2026-ss15", "weekend": "Safari Rally Kenya", "name": "SS15 Elmenteita 2", "utc": "2026-03-14T13:05:00Z" },
+    { "id": "wrc-kenya-2026-ss16", "weekend": "Safari Rally Kenya", "name": "SS16 Sleeping Warrior 2", "utc": "2026-03-14T14:03:00Z" },
+
+    { "id": "wrc-kenya-2026-ss17", "weekend": "Safari Rally Kenya", "name": "SS17 Oserengoni 1", "utc": "2026-03-15T05:09:00Z" },
+    { "id": "wrc-kenya-2026-ss18", "weekend": "Safari Rally Kenya", "name": "SS18 Hell's Gate 1", "utc": "2026-03-15T06:35:00Z" },
+    { "id": "wrc-kenya-2026-ss19", "weekend": "Safari Rally Kenya", "name": "SS19 Oserengoni 2", "utc": "2026-03-15T07:38:00Z" },
+    { "id": "wrc-kenya-2026-ss20", "weekend": "Safari Rally Kenya", "name": "SS20 Hell's Gate 2 Wolf Power Stage", "utc": "2026-03-15T10:15:00Z" }
   ]
 }
