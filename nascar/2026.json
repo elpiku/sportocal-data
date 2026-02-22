@@ -1,0 +1,131 @@
+{
+  "season": 2026,
+  "source": "Track weekend schedule PDFs (uploaded) + placeholders for remaining weekends",
+  "series": {
+    "cup": {
+      "code": "NCS",
+      "name": "NASCAR Cup Series",
+      "weekends": [
+        {
+          "weekendId": "2026-02-15-daytona",
+          "track": "Daytona International Speedway",
+          "localTimezoneLabel": "EST",
+          "sessions": [
+            { "name": "Practice 1", "startLocal": "2026-02-11T10:00:00", "startUtc": "2026-02-11T15:00:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" },
+            { "name": "Qualifying", "startLocal": "2026-02-11T20:15:00", "startUtc": "2026-02-12T01:15:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" },
+            { "name": "Duel 1 (Qualifying Race 1)", "startLocal": "2026-02-12T19:00:00", "startUtc": "2026-02-13T00:00:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" },
+            { "name": "Duel 2 (Qualifying Race 2)", "startLocal": "2026-02-12T20:45:00", "startUtc": "2026-02-13T01:45:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" },
+            { "name": "Practice 2", "startLocal": "2026-02-13T17:35:00", "startUtc": "2026-02-13T22:35:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" },
+            { "name": "Practice 3", "startLocal": "2026-02-14T15:00:00", "startUtc": "2026-02-14T20:00:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" },
+            { "name": "Race", "startLocal": "2026-02-15T14:30:00", "startUtc": "2026-02-15T19:30:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" }
+          ]
+        },
+        {
+          "weekendId": "2026-02-22-echopark",
+          "track": "EchoPark Speedway (Atlanta Motor Speedway)",
+          "localTimezoneLabel": "EST",
+          "sessions": [
+            { "name": "Qualifying", "startLocal": "2026-02-21T11:00:00", "startUtc": "2026-02-21T16:00:00Z", "sourceFile": "20260222-echopark-speedway-1.pdf" },
+            { "name": "Race", "startLocal": "2026-02-22T15:00:00", "startUtc": "2026-02-22T20:00:00Z", "sourceFile": "20260222-echopark-speedway-1.pdf" }
+          ]
+        },
+        {
+          "weekendId": "2026-03-01-cota",
+          "track": "Circuit of the Americas",
+          "localTimezoneLabel": "CST",
+          "sessions": [
+            { "name": "Practice", "startLocal": "2026-02-28T11:00:00", "startUtc": "2026-02-28T17:00:00Z", "sourceFile": "20260301-circuit-of-the-americas.pdf" },
+            { "name": "Qualifying", "startLocal": "2026-02-28T12:10:00", "startUtc": "2026-02-28T18:10:00Z", "sourceFile": "20260301-circuit-of-the-americas.pdf" },
+            { "name": "Race", "startLocal": "2026-03-01T14:30:00", "startUtc": "2026-03-01T20:30:00Z", "sourceFile": "20260301-circuit-of-the-americas.pdf" }
+          ]
+        },
+
+        { "weekendId": "2026-03-08-phoenix", "track": "Phoenix Raceway", "localTimezoneLabel": null, "sessions": [ { "name": "Schedule coming soon", "startUtc": "2026-03-08T20:00:00Z", "placeholder": true } ] },
+        { "weekendId": "2026-03-15-las-vegas", "track": "Las Vegas Motor Speedway", "localTimezoneLabel": null, "sessions": [ { "name": "Schedule coming soon", "startUtc": "2026-03-15T20:00:00Z", "placeholder": true } ] },
+        { "weekendId": "2026-03-22-darlington", "track": "Darlington Raceway", "localTimezoneLabel": null, "sessions": [ { "name": "Schedule coming soon", "startUtc": "2026-03-22T20:00:00Z", "placeholder": true } ] },
+        { "weekendId": "2026-03-29-martinsville", "track": "Martinsville Speedway", "localTimezoneLabel": null, "sessions": [ { "name": "Schedule coming soon", "startUtc": "2026-03-29T20:00:00Z", "placeholder": true } ] },
+
+        { "weekendId": "2026-04-05-unknown", "track": "TBD", "localTimezoneLabel": null, "sessions": [ { "name": "Schedule coming soon", "startUtc": "2026-04-05T18:00:00Z", "placeholder": true } ] },
+        { "weekendId": "2026-04-12-unknown", "track": "TBD", "localTimezoneLabel": null, "sessions": [ { "name": "Schedule coming soon", "startUtc": "2026-04-12T18:00:00Z", "placeholder": true } ] },
+
+        { "weekendId": "2026-11-08-unknown", "track": "TBD", "localTimezoneLabel": null, "sessions": [ { "name": "Schedule coming soon", "startUtc": "2026-11-08T18:00:00Z", "placeholder": true } ] }
+      ]
+    },
+
+    "oreilly": {
+      "code": "NOAPS",
+      "name": "NASCAR O'Reilly Auto Parts Series",
+      "weekends": [
+        {
+          "weekendId": "2026-02-15-daytona",
+          "track": "Daytona International Speedway",
+          "localTimezoneLabel": "EST",
+          "sessions": [
+            { "name": "Practice", "startLocal": "2026-02-13T16:30:00", "startUtc": "2026-02-13T21:30:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" },
+            { "name": "Qualifying", "startLocal": "2026-02-14T10:00:00", "startUtc": "2026-02-14T15:00:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" },
+            { "name": "Race", "startLocal": "2026-02-14T17:00:00", "startUtc": "2026-02-14T22:00:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" }
+          ]
+        },
+        {
+          "weekendId": "2026-02-22-echopark",
+          "track": "EchoPark Speedway (Atlanta Motor Speedway)",
+          "localTimezoneLabel": "EST",
+          "sessions": [
+            { "name": "Qualifying", "startLocal": "2026-02-20T17:00:00", "startUtc": "2026-02-20T22:00:00Z", "sourceFile": "20260222-echopark-speedway-1.pdf" },
+            { "name": "Race", "startLocal": "2026-02-21T17:00:00", "startUtc": "2026-02-21T22:00:00Z", "sourceFile": "20260222-echopark-speedway-1.pdf" }
+          ]
+        },
+        {
+          "weekendId": "2026-03-01-cota",
+          "track": "Circuit of the Americas",
+          "localTimezoneLabel": "CST",
+          "sessions": [
+            { "name": "Practice", "startLocal": "2026-02-27T16:00:00", "startUtc": "2026-02-27T22:00:00Z", "sourceFile": "20260301-circuit-of-the-americas.pdf" },
+            { "name": "Qualifying", "startLocal": "2026-02-27T17:05:00", "startUtc": "2026-02-27T23:05:00Z", "sourceFile": "20260301-circuit-of-the-americas.pdf" },
+            { "name": "Race", "startLocal": "2026-02-28T14:00:00", "startUtc": "2026-02-28T20:00:00Z", "sourceFile": "20260301-circuit-of-the-americas.pdf" }
+          ]
+        },
+
+        { "weekendId": "2026-03-08-phoenix", "track": "Phoenix Raceway", "localTimezoneLabel": null, "sessions": [ { "name": "Schedule coming soon", "startUtc": "2026-03-08T20:00:00Z", "placeholder": true } ] }
+      ]
+    },
+
+    "craftsman_trucks": {
+      "code": "NCTS",
+      "name": "NASCAR Craftsman Truck Series",
+      "weekends": [
+        {
+          "weekendId": "2026-02-15-daytona",
+          "track": "Daytona International Speedway",
+          "localTimezoneLabel": "EST",
+          "sessions": [
+            { "name": "Practice", "startLocal": "2026-02-12T17:00:00", "startUtc": "2026-02-12T22:00:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" },
+            { "name": "Qualifying", "startLocal": "2026-02-13T15:00:00", "startUtc": "2026-02-13T20:00:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" },
+            { "name": "Race", "startLocal": "2026-02-13T19:30:00", "startUtc": "2026-02-14T00:30:00Z", "sourceFile": "20260215-daytona-international-speedway-1.pdf" }
+          ]
+        },
+        {
+          "weekendId": "2026-02-22-echopark",
+          "track": "EchoPark Speedway (Atlanta Motor Speedway)",
+          "localTimezoneLabel": "EST",
+          "sessions": [
+            { "name": "Qualifying", "startLocal": "2026-02-20T15:00:00", "startUtc": "2026-02-20T20:00:00Z", "sourceFile": "20260222-echopark-speedway-1.pdf" },
+            { "name": "Race", "startLocal": "2026-02-21T13:30:00", "startUtc": "2026-02-21T18:30:00Z", "sourceFile": "20260222-echopark-speedway-1.pdf" }
+          ]
+        },
+        {
+          "weekendId": "2026-02-28-st-pete",
+          "track": "St. Petersburg Street Circuit",
+          "localTimezoneLabel": "EST",
+          "sessions": [
+            { "name": "Practice", "startLocal": "2026-02-27T16:00:00", "startUtc": "2026-02-27T21:00:00Z", "sourceFile": "20260228-st-petersburg-street-circuit.pdf" },
+            { "name": "Qualifying", "startLocal": "2026-02-27T17:05:00", "startUtc": "2026-02-27T22:05:00Z", "sourceFile": "20260228-st-petersburg-street-circuit.pdf" },
+            { "name": "Race", "startLocal": "2026-02-28T12:00:00", "startUtc": "2026-02-28T17:00:00Z", "sourceFile": "20260228-st-petersburg-street-circuit.pdf" }
+          ]
+        },
+
+        { "weekendId": "2026-03-08-phoenix", "track": "Phoenix Raceway", "localTimezoneLabel": null, "sessions": [ { "name": "Schedule coming soon", "startUtc": "2026-03-08T18:00:00Z", "placeholder": true } ] }
+      ]
+    }
+  }
+}
