@@ -1,0 +1,30 @@
+{
+  "sportKey": "ntt-indycar",
+  "season": "2026",
+  "events": [
+    { "id": "indycar-2026-st-petersburg-practice-1", "weekend": "Firestone Grand Prix of St. Petersburg", "name": "Practice 1", "utc": "2026-02-27T18:30:00Z" },
+    { "id": "indycar-2026-st-petersburg-practice-2", "weekend": "Firestone Grand Prix of St. Petersburg", "name": "Practice 2", "utc": "2026-02-28T14:30:00Z" },
+    { "id": "indycar-2026-st-petersburg-qualifying", "weekend": "Firestone Grand Prix of St. Petersburg", "name": "Qualifying", "utc": "2026-02-28T21:30:00Z" },
+    { "id": "indycar-2026-st-petersburg-race", "weekend": "Firestone Grand Prix of St. Petersburg", "name": "Race", "utc": "2026-03-01T17:00:00Z" },
+
+    { "id": "indycar-2026-phoenix-practice-1", "weekend": "Phoenix Raceway", "name": "Practice 1", "utc": "2026-03-06T15:00:00Z" },
+    { "id": "indycar-2026-phoenix-qualifying", "weekend": "Phoenix Raceway", "name": "Qualifying", "utc": "2026-03-06T19:00:00Z" },
+    { "id": "indycar-2026-phoenix-high-line-and-final-practice", "weekend": "Phoenix Raceway", "name": "High Line & Final Practice", "utc": "2026-03-06T21:30:00Z" },
+    { "id": "indycar-2026-phoenix-race", "weekend": "Phoenix Raceway", "name": "Race", "utc": "2026-03-07T20:00:00Z" },
+
+    { "id": "indycar-2026-arlington-practice-1", "weekend": "Streets of Arlington", "name": "Practice 1", "utc": "2026-03-13T21:00:00Z" },
+    { "id": "indycar-2026-arlington-practice-2", "weekend": "Streets of Arlington", "name": "Practice 2", "utc": "2026-03-14T14:30:00Z" },
+    { "id": "indycar-2026-arlington-qualifying", "weekend": "Streets of Arlington", "name": "Qualifying", "utc": "2026-03-14T19:30:00Z" },
+    { "id": "indycar-2026-arlington-race", "weekend": "Streets of Arlington", "name": "Race", "utc": "2026-03-15T16:30:00Z" },
+
+    { "id": "indycar-2026-barber-practice-1", "weekend": "Barber Motorsports Park", "name": "Practice 1", "utc": "2026-03-27T19:30:00Z" },
+    { "id": "indycar-2026-barber-practice-2", "weekend": "Barber Motorsports Park", "name": "Practice 2", "utc": "2026-03-28T15:00:00Z" },
+    { "id": "indycar-2026-barber-qualifying", "weekend": "Barber Motorsports Park", "name": "Qualifying", "utc": "2026-03-28T18:30:00Z" },
+    { "id": "indycar-2026-barber-race", "weekend": "Barber Motorsports Park", "name": "Race", "utc": "2026-03-29T17:00:00Z" },
+
+    { "id": "indycar-2026-long-beach-practice-1", "weekend": "Streets of Long Beach", "name": "Practice 1", "utc": "2026-04-17T22:00:00Z" },
+    { "id": "indycar-2026-long-beach-practice-2", "weekend": "Streets of Long Beach", "name": "Practice 2", "utc": "2026-04-18T17:30:00Z" },
+    { "id": "indycar-2026-long-beach-qualifying", "weekend": "Streets of Long Beach", "name": "Qualifying", "utc": "2026-04-18T22:30:00Z" },
+    { "id": "indycar-2026-long-beach-race", "weekend": "Streets of Long Beach", "name": "Race", "utc": "2026-04-19T21:30:00Z" }
+  ]
+}
