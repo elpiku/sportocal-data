@@ -1,45 +1,26 @@
 {
   "sportKey": "nba",
   "season": "2025-26",
-  "fromUtc": "2026-02-23T00:00:00Z",
+  "fromUtc": "2026-05-19T00:00:00Z",
   "events": [
-    { "id": "nba-2025-26-0824", "weekend": "Round 16", "name": "Minnesota Timberwolves vs Philadelphia 76ers", "utc": "2026-02-23T00:00:00Z" },
-    { "id": "nba-2025-26-0825", "weekend": "Round 16", "name": "Chicago Bulls vs New York Knicks", "utc": "2026-02-23T01:00:00Z" },
-    { "id": "nba-2025-26-0826", "weekend": "Round 16", "name": "Phoenix Suns vs Portland Trail Blazers", "utc": "2026-02-23T01:00:00Z" },
-    { "id": "nba-2025-26-0827", "weekend": "Round 16", "name": "LA Clippers vs Orlando Magic", "utc": "2026-02-23T02:00:00Z" },
 
-    { "id": "nba-2025-26-0828", "weekend": "Round 16", "name": "Detroit Pistons vs San Antonio Spurs", "utc": "2026-02-24T00:00:00Z" },
-    { "id": "nba-2025-26-0829", "weekend": "Round 16", "name": "Memphis Grizzlies vs Sacramento Kings", "utc": "2026-02-24T01:00:00Z" },
-    { "id": "nba-2025-26-0830", "weekend": "Round 16", "name": "Houston Rockets vs Utah Jazz", "utc": "2026-02-24T02:30:00Z" },
+    { "id": "nba-2025-26-ecf-01", "weekend": "Eastern Conference Finals", "name": "Cleveland Cavaliers vs New York Knicks - Game 1", "utc": "2026-05-19T00:00:00Z" },
+    { "id": "nba-2025-26-ecf-02", "weekend": "Eastern Conference Finals", "name": "Cleveland Cavaliers vs New York Knicks - Game 2", "utc": "2026-05-21T00:00:00Z" },
+    { "id": "nba-2025-26-wcf-01", "weekend": "Western Conference Finals", "name": "San Antonio Spurs vs Oklahoma City Thunder - Game 1", "utc": "2026-05-20T00:00:00Z" },
+    { "id": "nba-2025-26-wcf-02", "weekend": "Western Conference Finals", "name": "San Antonio Spurs vs Oklahoma City Thunder - Game 2", "utc": "2026-05-22T00:00:00Z" },
 
-    { "id": "nba-2025-26-0831", "weekend": "Round 16", "name": "Indiana Pacers vs Philadelphia 76ers", "utc": "2026-02-25T00:00:00Z" },
-    { "id": "nba-2025-26-0832", "weekend": "Round 16", "name": "Atlanta Hawks vs Washington Wizards", "utc": "2026-02-25T00:30:00Z" },
-    { "id": "nba-2025-26-0833", "weekend": "Round 16", "name": "Brooklyn Nets vs Dallas Mavericks", "utc": "2026-02-25T00:30:00Z" },
-    { "id": "nba-2025-26-0834", "weekend": "Round 16", "name": "Toronto Raptors vs Oklahoma City Thunder", "utc": "2026-02-25T00:30:00Z" },
-    { "id": "nba-2025-26-0835", "weekend": "Round 16", "name": "Cleveland Cavaliers vs New York Knicks", "utc": "2026-02-25T00:30:00Z" },
-    { "id": "nba-2025-26-0836", "weekend": "Round 16", "name": "Chicago Bulls vs Charlotte Hornets", "utc": "2026-02-25T01:00:00Z" },
-    { "id": "nba-2025-26-0837", "weekend": "Round 16", "name": "Milwaukee Bucks vs Miami Heat", "utc": "2026-02-25T01:00:00Z" },
-    { "id": "nba-2025-26-0838", "weekend": "Round 16", "name": "New Orleans Pelicans vs Golden State Warriors", "utc": "2026-02-25T01:00:00Z" },
-    { "id": "nba-2025-26-0839", "weekend": "Round 16", "name": "Phoenix Suns vs Boston Celtics", "utc": "2026-02-25T02:00:00Z" },
-    { "id": "nba-2025-26-0840", "weekend": "Round 16", "name": "Los Angeles Lakers vs Orlando Magic", "utc": "2026-02-25T03:00:00Z" },
-    { "id": "nba-2025-26-0841", "weekend": "Round 16", "name": "Portland Trail Blazers vs Minnesota Timberwolves", "utc": "2026-02-25T03:00:00Z" },
+    { "id": "nba-2025-26-ecf-03", "weekend": "Eastern Conference Finals", "name": "New York Knicks vs Cleveland Cavaliers - Game 3", "utc": "2026-05-24T00:00:00Z" },
+    { "id": "nba-2025-26-ecf-04", "weekend": "Eastern Conference Finals", "name": "New York Knicks vs Cleveland Cavaliers - Game 4", "utc": "2026-05-26T00:00:00Z" },
+    { "id": "nba-2025-26-wcf-03", "weekend": "Western Conference Finals", "name": "Oklahoma City Thunder vs San Antonio Spurs - Game 3", "utc": "2026-05-24T00:00:00Z" },
+    { "id": "nba-2025-26-wcf-04", "weekend": "Western Conference Finals", "name": "Oklahoma City Thunder vs San Antonio Spurs - Game 4", "utc": "2026-05-26T00:00:00Z" },
 
-    { "id": "nba-2025-26-0842", "weekend": "Round 17", "name": "Detroit Pistons vs Oklahoma City Thunder", "utc": "2026-02-26T00:30:00Z" },
-    { "id": "nba-2025-26-0843", "weekend": "Round 17", "name": "Toronto Raptors vs San Antonio Spurs", "utc": "2026-02-26T00:30:00Z" },
-    { "id": "nba-2025-26-0844", "weekend": "Round 17", "name": "Memphis Grizzlies vs Golden State Warriors", "utc": "2026-02-26T00:30:00Z" },
-    { "id": "nba-2025-26-0845", "weekend": "Round 17", "name": "Houston Rockets vs Sacramento Kings", "utc": "2026-02-26T01:00:00Z" },
-    { "id": "nba-2025-26-0846", "weekend": "Round 17", "name": "Milwaukee Bucks vs Cleveland Cavaliers", "utc": "2026-02-26T01:00:00Z" },
-    { "id": "nba-2025-26-0847", "weekend": "Round 17", "name": "Denver Nuggets vs Boston Celtics", "utc": "2026-02-26T03:00:00Z" },
+    { "id": "nba-2025-26-ecf-05", "weekend": "Eastern Conference Finals", "name": "Cleveland Cavaliers vs New York Knicks - Game 5 (if necessary)", "utc": "2026-05-28T00:00:00Z" },
+    { "id": "nba-2025-26-wcf-05", "weekend": "Western Conference Finals", "name": "San Antonio Spurs vs Oklahoma City Thunder - Game 5 (if necessary)", "utc": "2026-05-28T00:00:00Z" },
 
-    { "id": "nba-2025-26-0848", "weekend": "Round 17", "name": "Indiana Pacers vs Charlotte Hornets", "utc": "2026-02-27T00:00:00Z" },
-    { "id": "nba-2025-26-0849", "weekend": "Round 17", "name": "Philadelphia 76ers vs Miami Heat", "utc": "2026-02-27T00:00:00Z" },
-    { "id": "nba-2025-26-0850", "weekend": "Round 17", "name": "Atlanta Hawks vs Washington Wizards", "utc": "2026-02-27T00:30:00Z" },
-    { "id": "nba-2025-26-0851", "weekend": "Round 17", "name": "Brooklyn Nets vs San Antonio Spurs", "utc": "2026-02-27T00:30:00Z" },
-    { "id": "nba-2025-26-0852", "weekend": "Round 17", "name": "Orlando Magic vs Houston Rockets", "utc": "2026-02-27T00:30:00Z" },
-    { "id": "nba-2025-26-0853", "weekend": "Round 17", "name": "Chicago Bulls vs Portland Trail Blazers", "utc": "2026-02-27T01:00:00Z" },
-    { "id": "nba-2025-26-0854", "weekend": "Round 17", "name": "Dallas Mavericks vs Sacramento Kings", "utc": "2026-02-27T01:30:00Z" },
-    { "id": "nba-2025-26-0855", "weekend": "Round 17", "name": "Phoenix Suns vs Los Angeles Lakers", "utc": "2026-02-27T02:00:00Z" },
-    { "id": "nba-2025-26-0856", "weekend": "Round 17", "name": "Utah Jazz vs New Orleans Pelicans", "utc": "2026-02-27T02:00:00Z" },
-    { "id": "nba-2025-26-0857", "weekend": "Round 17", "name": "LA Clippers vs Minnesota Timberwolves", "utc": "2026-02-27T03:00:00Z" }
-  ]
+    { "id": "nba-2025-26-ecf-06", "weekend": "Eastern Conference Finals", "name": "New York Knicks vs Cleveland Cavaliers - Game 6 (if necessary)", "utc": "2026-05-30T00:00:00Z" },
+    { "id": "nba-2025-26-wcf-06", "weekend": "Western Conference Finals", "name": "Oklahoma City Thunder vs San Antonio Spurs - Game 6 (if necessary)", "utc": "2026-05-30T00:00:00Z" },
+
+    { "id": "nba-2025-26-ecf-07", "weekend": "Eastern Conference Finals", "name": "Cleveland Cavaliers vs New York Knicks - Game 7 (if necessary)", "utc": "2026-06-01T00:00:00Z" },
+    { "id": "nba-2025-26-wcf-07", "weekend": "Western Conference Finals", "name": "San Antonio Spurs vs Oklahoma City Thunder - Game 7 (if necessary)", "utc": "2026-06-01T00:00:00Z" }
+    ]
 }
