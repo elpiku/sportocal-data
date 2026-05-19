@@ -1,59 +1,22 @@
 {
   "sportKey": "premierleague",
   "season": "2025-26",
-  "fromUtc": "2026-02-23T00:00:00Z",
+  "fromUtc": "2026-05-19T00:00:00Z",
   "events": [
-    { "id": "pl-2025-26-2026-02-23-everton-man-utd", "weekend": "Matchweek 27", "name": "Everton v Man Utd", "utc": "2026-02-23T20:00:00Z" },
 
-    { "id": "pl-2025-26-2026-02-27-wolves-aston-villa", "weekend": "Matchweek 28", "name": "Wolves v Aston Villa", "utc": "2026-02-27T20:00:00Z" },
+    { "id": "pl-2025-26-2026-05-19-bournemouth-man-city", "weekend": "Matchweek 37", "name": "Bournemouth v Man City", "utc": "2026-05-19T19:30:00Z" },
+    { "id": "pl-2025-26-2026-05-19-chelsea-spurs", "weekend": "Matchweek 37", "name": "Chelsea v Spurs", "utc": "2026-05-19T20:15:00Z" },
 
-    { "id": "pl-2025-26-2026-02-28-bournemouth-sunderland", "weekend": "Matchweek 28", "name": "Bournemouth v Sunderland", "utc": "2026-02-28T12:30:00Z" },
-    { "id": "pl-2025-26-2026-02-28-brighton-nottingham-forest", "weekend": "Matchweek 28", "name": "Brighton v Nott'm Forest", "utc": "2026-02-28T15:00:00Z" },
-    { "id": "pl-2025-26-2026-02-28-burnley-brentford", "weekend": "Matchweek 28", "name": "Burnley v Brentford", "utc": "2026-02-28T15:00:00Z" },
-    { "id": "pl-2025-26-2026-02-28-liverpool-west-ham", "weekend": "Matchweek 28", "name": "Liverpool v West Ham", "utc": "2026-02-28T15:00:00Z" },
-    { "id": "pl-2025-26-2026-02-28-man-utd-crystal-palace", "weekend": "Matchweek 28", "name": "Man Utd v Crystal Palace", "utc": "2026-02-28T15:00:00Z" },
-    { "id": "pl-2025-26-2026-02-28-newcastle-everton", "weekend": "Matchweek 28", "name": "Newcastle United v Everton", "utc": "2026-02-28T15:00:00Z" },
-    { "id": "pl-2025-26-2026-02-28-leeds-man-city", "weekend": "Matchweek 28", "name": "Leeds v Man City", "utc": "2026-02-28T17:30:00Z" },
+    { "id": "pl-2025-26-2026-05-24-brighton-man-utd", "weekend": "Matchweek 38", "name": "Brighton v Man Utd", "utc": "2026-05-24T15:00:00Z" },
+    { "id": "pl-2025-26-2026-05-24-burnley-wolves", "weekend": "Matchweek 38", "name": "Burnley v Wolves", "utc": "2026-05-24T15:00:00Z" },
+    { "id": "pl-2025-26-2026-05-24-crystal-palace-arsenal", "weekend": "Matchweek 38", "name": "Crystal Palace v Arsenal", "utc": "2026-05-24T15:00:00Z" },
+    { "id": "pl-2025-26-2026-05-24-fulham-newcastle", "weekend": "Matchweek 38", "name": "Fulham v Newcastle", "utc": "2026-05-24T15:00:00Z" },
+    { "id": "pl-2025-26-2026-05-24-liverpool-brentford", "weekend": "Matchweek 38", "name": "Liverpool v Brentford", "utc": "2026-05-24T15:00:00Z" },
+    { "id": "pl-2025-26-2026-05-24-man-city-aston-villa", "weekend": "Matchweek 38", "name": "Man City v Aston Villa", "utc": "2026-05-24T15:00:00Z" },
+    { "id": "pl-2025-26-2026-05-24-nottingham-forest-bournemouth", "weekend": "Matchweek 38", "name": "Nott'm Forest v Bournemouth", "utc": "2026-05-24T15:00:00Z" },
+    { "id": "pl-2025-26-2026-05-24-sunderland-chelsea", "weekend": "Matchweek 38", "name": "Sunderland v Chelsea", "utc": "2026-05-24T15:00:00Z" },
+    { "id": "pl-2025-26-2026-05-24-spurs-everton", "weekend": "Matchweek 38", "name": "Spurs v Everton", "utc": "2026-05-24T15:00:00Z" },
+    { "id": "pl-2025-26-2026-05-24-west-ham-leeds", "weekend": "Matchweek 38", "name": "West Ham v Leeds", "utc": "2026-05-24T15:00:00Z" }
 
-    { "id": "pl-2025-26-2026-03-01-fulham-spurs", "weekend": "Matchweek 28", "name": "Fulham v Spurs", "utc": "2026-03-01T14:00:00Z" },
-    { "id": "pl-2025-26-2026-03-01-arsenal-chelsea", "weekend": "Matchweek 28", "name": "Arsenal v Chelsea", "utc": "2026-03-01T16:30:00Z" },
-
-    { "id": "pl-2025-26-2026-03-03-bournemouth-brentford", "weekend": "Matchweek 29", "name": "Bournemouth v Brentford", "utc": "2026-03-03T19:30:00Z" },
-    { "id": "pl-2025-26-2026-03-03-everton-burnley", "weekend": "Matchweek 29", "name": "Everton v Burnley", "utc": "2026-03-03T19:30:00Z" },
-    { "id": "pl-2025-26-2026-03-03-leeds-sunderland", "weekend": "Matchweek 29", "name": "Leeds v Sunderland", "utc": "2026-03-03T19:30:00Z" },
-    { "id": "pl-2025-26-2026-03-03-wolves-liverpool", "weekend": "Matchweek 29", "name": "Wolves v Liverpool", "utc": "2026-03-03T20:15:00Z", "note": "Listed time; post notes it could move to 4 March 19:30 if a condition applies." },
-
-    { "id": "pl-2025-26-2026-03-04-aston-villa-chelsea", "weekend": "Matchweek 29", "name": "Aston Villa v Chelsea", "utc": "2026-03-04T19:30:00Z" },
-    { "id": "pl-2025-26-2026-03-04-brighton-arsenal", "weekend": "Matchweek 29", "name": "Brighton v Arsenal", "utc": "2026-03-04T19:30:00Z" },
-    { "id": "pl-2025-26-2026-03-04-fulham-west-ham", "weekend": "Matchweek 29", "name": "Fulham v West Ham", "utc": "2026-03-04T19:30:00Z" },
-    { "id": "pl-2025-26-2026-03-04-man-city-nottingham-forest", "weekend": "Matchweek 29", "name": "Man City v Nott'm Forest", "utc": "2026-03-04T19:30:00Z" },
-    { "id": "pl-2025-26-2026-03-04-newcastle-man-utd", "weekend": "Matchweek 29", "name": "Newcastle v Man Utd", "utc": "2026-03-04T20:15:00Z" },
-
-    { "id": "pl-2025-26-2026-03-05-spurs-crystal-palace", "weekend": "Matchweek 29", "name": "Spurs v Crystal Palace", "utc": "2026-03-05T20:00:00Z" },
-
-    { "id": "pl-2025-26-2026-03-14-west-ham-man-city", "weekend": "Matchweek 30", "name": "West Ham v Man City", "utc": "2026-03-14T12:30:00Z", "note": "Listed time; post notes it may move depending on UCL scheduling." },
-    { "id": "pl-2025-26-2026-03-14-burnley-bournemouth", "weekend": "Matchweek 30", "name": "Burnley v Bournemouth", "utc": "2026-03-14T15:00:00Z" },
-    { "id": "pl-2025-26-2026-03-14-crystal-palace-leeds", "weekend": "Matchweek 30", "name": "Crystal Palace v Leeds", "utc": "2026-03-14T15:00:00Z" },
-    { "id": "pl-2025-26-2026-03-14-man-utd-aston-villa", "weekend": "Matchweek 30", "name": "Man Utd v Aston Villa", "utc": "2026-03-14T15:00:00Z" },
-    { "id": "pl-2025-26-2026-03-14-nottingham-forest-fulham", "weekend": "Matchweek 30", "name": "Nott'm Forest v Fulham", "utc": "2026-03-14T15:00:00Z" },
-    { "id": "pl-2025-26-2026-03-14-sunderland-brighton", "weekend": "Matchweek 30", "name": "Sunderland v Brighton", "utc": "2026-03-14T15:00:00Z" },
-    { "id": "pl-2025-26-2026-03-14-chelsea-newcastle", "weekend": "Matchweek 30", "name": "Chelsea v Newcastle", "utc": "2026-03-14T17:30:00Z", "note": "Listed time; post notes it may move to 20:00 depending on UCL." },
-
-    { "id": "pl-2025-26-2026-03-15-arsenal-everton", "weekend": "Matchweek 30", "name": "Arsenal v Everton", "utc": "2026-03-15T14:00:00Z" },
-    { "id": "pl-2025-26-2026-03-15-liverpool-spurs", "weekend": "Matchweek 30", "name": "Liverpool v Spurs", "utc": "2026-03-15T16:30:00Z" },
-
-    { "id": "pl-2025-26-2026-03-16-brentford-wolves", "weekend": "Matchweek 30", "name": "Brentford v Wolves", "utc": "2026-03-16T20:00:00Z" },
-
-    { "id": "pl-2025-26-2026-03-20-bournemouth-man-utd", "weekend": "Matchweek 31", "name": "Bournemouth v Man Utd", "utc": "2026-03-20T20:00:00Z" },
-
-    { "id": "pl-2025-26-2026-03-21-brighton-liverpool", "weekend": "Matchweek 31", "name": "Brighton v Liverpool", "utc": "2026-03-21T12:30:00Z", "note": "Listed time; post notes it could move depending on UCL." },
-    { "id": "pl-2025-26-2026-03-21-aston-villa-west-ham", "weekend": "Matchweek 31", "name": "Aston Villa v West Ham", "utc": "2026-03-21T15:00:00Z" },
-    { "id": "pl-2025-26-2026-03-21-fulham-burnley", "weekend": "Matchweek 31", "name": "Fulham v Burnley", "utc": "2026-03-21T15:00:00Z" },
-    { "id": "pl-2025-26-2026-03-21-man-city-crystal-palace", "weekend": "Matchweek 31", "name": "Man City v Crystal Palace", "utc": "2026-03-21T15:00:00Z", "note": "Post flags this match as subject to possible EFL Cup final participation." },
-    { "id": "pl-2025-26-2026-03-21-everton-chelsea", "weekend": "Matchweek 31", "name": "Everton v Chelsea", "utc": "2026-03-21T17:30:00Z" },
-    { "id": "pl-2025-26-2026-03-21-leeds-brentford", "weekend": "Matchweek 31", "name": "Leeds v Brentford", "utc": "2026-03-21T20:00:00Z", "note": "Post notes it could move earlier the same day; to be confirmed." },
-
-    { "id": "pl-2025-26-2026-03-22-newcastle-sunderland", "weekend": "Matchweek 31", "name": "Newcastle v Sunderland", "utc": "2026-03-22T12:00:00Z", "note": "Post flags as subject to possible EFL Cup final participation." },
-    { "id": "pl-2025-26-2026-03-22-spurs-nottingham-forest", "weekend": "Matchweek 31", "name": "Spurs v Nott'm Forest", "utc": "2026-03-22T14:15:00Z", "note": "Post flags as subject to possible EFL Cup final participation." }
   ]
 }
