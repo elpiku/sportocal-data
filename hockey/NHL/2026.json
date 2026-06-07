@@ -1,0 +1,33 @@
+{
+  "sportKey": "nhl",
+  "season": "2025-26",
+  "events": [
+    { "id": "nhl-2025-opener", "weekend": "NHL Season Opener", "name": "Opening Night Tripleheader", "utc": "2025-10-07T21:00:00Z" },
+    { "id": "nhl-2025-opener-g2", "weekend": "NHL Season Opener", "name": "Game 2 (PIT @ NYR)", "utc": "2025-10-08T00:00:00Z" },
+    { "id": "nhl-2025-opener-g3", "weekend": "NHL Season Opener", "name": "Game 3 (COL @ LAK)", "utc": "2025-10-08T02:30:00Z" },
+    { "id": "nhl-2025-tnt-debut", "weekend": "TNT Season Debut", "name": "TNT Doubleheader", "utc": "2025-10-08T23:30:00Z" },
+    { "id": "nhl-2025-all-32-g1", "weekend": "All 32 Teams Play", "name": "All 32 Teams in Action Day 1", "utc": "2025-10-11T17:00:00Z" },
+    { "id": "nhl-2025-thanksgiving", "weekend": "Canadian Thanksgiving Hockey", "name": "Prime Monday Night Hockey Doubleheader", "utc": "2025-10-13T20:00:00Z" },
+    { "id": "nhl-2025-all-32-g2", "weekend": "Frozen Frenzy", "name": "All 32 Teams in Action Day 2", "utc": "2025-10-29T00:00:00Z" },
+    { "id": "nhl-2025-global-s1", "weekend": "NHL Global Series Sweden", "name": "Game 1 (NSH @ PIT Stockholm)", "utc": "2025-11-14T19:00:00Z" },
+    { "id": "nhl-2025-global-s2", "weekend": "NHL Global Series Sweden", "name": "Game 2 (NSH @ PIT Stockholm)", "utc": "2025-11-16T18:00:00Z" },
+    { "id": "nhl-2025-sc-rematch", "weekend": "Stanley Cup Final Rematch", "name": "EDM @ FLA", "utc": "2025-11-22T00:00:00Z" },
+    { "id": "nhl-2025-thanksgiving-showdown", "weekend": "Thanksgiving Showdown", "name": "NYR @ BOS", "utc": "2025-11-29T00:00:00Z" },
+    { "id": "nhl-2026-winter-classic", "weekend": "NHL Winter Classic 2026", "name": "NYR @ FLA (Outdoor)", "utc": "2026-01-03T01:00:00Z" },
+    { "id": "nhl-2026-hockey-day", "weekend": "Scotiabank Hockey Day Canada", "name": "All 7 Canadian Teams Play", "utc": "2026-01-17T18:00:00Z" },
+    { "id": "nhl-2026-stadium-series", "weekend": "NHL Stadium Series 2026", "name": "TB @ BOS (Outdoor)", "utc": "2026-02-02T00:00:00Z" },
+    { "id": "nhl-2026-olympics-break", "weekend": "Olympic Break", "name": "Olympics Begin (Season Pauses)", "utc": "2026-02-06T00:00:00Z" },
+    { "id": "nhl-2026-olympics-resume", "weekend": "Olympic Break", "name": "Season Resumes", "utc": "2026-02-25T00:00:00Z" },
+    { "id": "nhl-2026-regular-season-end", "weekend": "Regular Season Finale", "name": "Regular Season Ends", "utc": "2026-04-17T02:00:00Z" },
+    { "id": "nhl-2026-playoffs-begin", "weekend": "Stanley Cup Playoffs Round 1", "name": "Playoffs Begin", "utc": "2026-04-18T19:00:00Z" },
+    { "id": "nhl-2026-playoffs-round2", "weekend": "Stanley Cup Playoffs Round 2", "name": "Second Round Begins", "utc": "2026-05-06T23:00:00Z" },
+    { "id": "nhl-2026-conference-finals-start", "weekend": "Conference Finals", "name": "Conference Finals Begin", "utc": "2026-05-22T23:00:00Z" },
+    { "id": "nhl-2026-finals-g1", "weekend": "Stanley Cup Final", "name": "Game 1", "utc": "2026-06-03T23:00:00Z" },
+    { "id": "nhl-2026-finals-g2", "weekend": "Stanley Cup Final", "name": "Game 2", "utc": "2026-06-05T23:00:00Z" },
+    { "id": "nhl-2026-finals-g3", "weekend": "Stanley Cup Final", "name": "Game 3", "utc": "2026-06-08T23:00:00Z" },
+    { "id": "nhl-2026-finals-g4", "weekend": "Stanley Cup Final", "name": "Game 4", "utc": "2026-06-12T00:00:00Z" },
+    { "id": "nhl-2026-finals-g5", "weekend": "Stanley Cup Final", "name": "Game 5 (if needed)", "utc": "2026-06-16T23:00:00Z" },
+    { "id": "nhl-2026-finals-g6", "weekend": "Stanley Cup Final", "name": "Game 6 (if needed)", "utc": "2026-06-18T23:00:00Z" },
+    { "id": "nhl-2026-finals-g7", "weekend": "Stanley Cup Final", "name": "Game 7 (if needed)", "utc": "2026-06-21T23:00:00Z" }
+  ]
+}
