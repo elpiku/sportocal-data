@@ -1,26 +1,11 @@
 {
   "sportKey": "nba",
   "season": "2025-26",
-  "fromUtc": "2026-05-19T00:00:00Z",
   "events": [
-
-    { "id": "nba-2025-26-ecf-01", "weekend": "Eastern Conference Finals", "name": "Cleveland Cavaliers vs New York Knicks - Game 1", "utc": "2026-05-19T00:00:00Z" },
-    { "id": "nba-2025-26-ecf-02", "weekend": "Eastern Conference Finals", "name": "Cleveland Cavaliers vs New York Knicks - Game 2", "utc": "2026-05-21T00:00:00Z" },
-    { "id": "nba-2025-26-wcf-01", "weekend": "Western Conference Finals", "name": "San Antonio Spurs vs Oklahoma City Thunder - Game 1", "utc": "2026-05-20T00:00:00Z" },
-    { "id": "nba-2025-26-wcf-02", "weekend": "Western Conference Finals", "name": "San Antonio Spurs vs Oklahoma City Thunder - Game 2", "utc": "2026-05-22T00:00:00Z" },
-
-    { "id": "nba-2025-26-ecf-03", "weekend": "Eastern Conference Finals", "name": "New York Knicks vs Cleveland Cavaliers - Game 3", "utc": "2026-05-24T00:00:00Z" },
-    { "id": "nba-2025-26-ecf-04", "weekend": "Eastern Conference Finals", "name": "New York Knicks vs Cleveland Cavaliers - Game 4", "utc": "2026-05-26T00:00:00Z" },
-    { "id": "nba-2025-26-wcf-03", "weekend": "Western Conference Finals", "name": "Oklahoma City Thunder vs San Antonio Spurs - Game 3", "utc": "2026-05-24T00:00:00Z" },
-    { "id": "nba-2025-26-wcf-04", "weekend": "Western Conference Finals", "name": "Oklahoma City Thunder vs San Antonio Spurs - Game 4", "utc": "2026-05-26T00:00:00Z" },
-
-    { "id": "nba-2025-26-ecf-05", "weekend": "Eastern Conference Finals", "name": "Cleveland Cavaliers vs New York Knicks - Game 5 (if necessary)", "utc": "2026-05-28T00:00:00Z" },
-    { "id": "nba-2025-26-wcf-05", "weekend": "Western Conference Finals", "name": "San Antonio Spurs vs Oklahoma City Thunder - Game 5 (if necessary)", "utc": "2026-05-28T00:00:00Z" },
-
-    { "id": "nba-2025-26-ecf-06", "weekend": "Eastern Conference Finals", "name": "New York Knicks vs Cleveland Cavaliers - Game 6 (if necessary)", "utc": "2026-05-30T00:00:00Z" },
-    { "id": "nba-2025-26-wcf-06", "weekend": "Western Conference Finals", "name": "Oklahoma City Thunder vs San Antonio Spurs - Game 6 (if necessary)", "utc": "2026-05-30T00:00:00Z" },
-
-    { "id": "nba-2025-26-ecf-07", "weekend": "Eastern Conference Finals", "name": "Cleveland Cavaliers vs New York Knicks - Game 7 (if necessary)", "utc": "2026-06-01T00:00:00Z" },
-    { "id": "nba-2025-26-wcf-07", "weekend": "Western Conference Finals", "name": "San Antonio Spurs vs Oklahoma City Thunder - Game 7 (if necessary)", "utc": "2026-06-01T00:00:00Z" }
-    ]
+    { "id": "nba-2026-finals-g3", "weekend": "NBA Finals", "name": "Game 3", "utc": "2026-06-09T00:30:00Z" },
+    { "id": "nba-2026-finals-g4", "weekend": "NBA Finals", "name": "Game 4", "utc": "2026-06-11T00:30:00Z" },
+    { "id": "nba-2026-finals-g5", "weekend": "NBA Finals", "name": "Game 5", "utc": "2026-06-14T00:00:00Z" },
+    { "id": "nba-2026-finals-g6", "weekend": "NBA Finals", "name": "Game 6", "utc": "2026-06-17T00:30:00Z" },
+    { "id": "nba-2026-finals-g7", "weekend": "NBA Finals", "name": "Game 7", "utc": "2026-06-20T00:00:00Z" }
+  ]
 }
