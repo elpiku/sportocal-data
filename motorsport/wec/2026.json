@@ -2,23 +2,177 @@
   "sportKey": "fia-wec",
   "season": "2026",
   "events": [
-    { "id": "wec-2026-prologue-qatar-placeholder", "weekend": "Official Prologue - QATAR", "name": "Schedule coming soon", "utc": "2026-03-22T08:00:00Z" },
+    {
+      "id": "wec-2026-prologue-imola-placeholder",
+      "weekend": "Official Prologue - Imola",
+      "name": "Schedule coming soon",
+      "utc": "2026-04-14T08:00:00Z"
+    },
 
-    { "id": "wec-2026-qatar-1812km-fp1", "weekend": "Qatar 1812km", "name": "Free Practice 1", "utc": "2026-03-26T12:00:00Z" },
-    { "id": "wec-2026-qatar-1812km-fp2", "weekend": "Qatar 1812km", "name": "Free Practice 2", "utc": "2026-03-26T16:30:00Z" },
-    { "id": "wec-2026-qatar-1812km-fp3", "weekend": "Qatar 1812km", "name": "Free Practice 3", "utc": "2026-03-27T10:00:00Z" },
-    { "id": "wec-2026-qatar-1812km-quali-lmgt3", "weekend": "Qatar 1812km", "name": "Qualifying - LMGT3", "utc": "2026-03-27T14:00:00Z" },
-    { "id": "wec-2026-qatar-1812km-hyperpole-lmgt3", "weekend": "Qatar 1812km", "name": "Hyperpole - LMGT3", "utc": "2026-03-27T14:20:00Z" },
-    { "id": "wec-2026-qatar-1812km-quali-hypercar", "weekend": "Qatar 1812km", "name": "Qualifying - HYPERCAR", "utc": "2026-03-27T14:40:00Z" },
-    { "id": "wec-2026-qatar-1812km-hyperpole-hypercar", "weekend": "Qatar 1812km", "name": "Hyperpole - HYPERCAR", "utc": "2026-03-27T15:00:00Z" },
-    { "id": "wec-2026-qatar-1812km-race", "weekend": "Qatar 1812km", "name": "Race", "utc": "2026-03-28T10:00:00Z" },
+    {
+      "id": "wec-2026-imola-fp1",
+      "weekend": "6 Hours of Imola",
+      "name": "Free Practice 1",
+      "utc": "2026-04-17T10:15:00Z"
+    },
+    {
+      "id": "wec-2026-imola-fp2",
+      "weekend": "6 Hours of Imola",
+      "name": "Free Practice 2",
+      "utc": "2026-04-17T15:15:00Z"
+    },
+    {
+      "id": "wec-2026-imola-fp3",
+      "weekend": "6 Hours of Imola",
+      "name": "Free Practice 3",
+      "utc": "2026-04-18T10:30:00Z"
+    },
+    {
+      "id": "wec-2026-imola-quali",
+      "weekend": "6 Hours of Imola",
+      "name": "Qualifying",
+      "utc": "2026-04-18T14:30:00Z"
+    },
+    {
+      "id": "wec-2026-imola-race",
+      "weekend": "6 Hours of Imola",
+      "name": "Race",
+      "utc": "2026-04-19T13:00:00Z"
+    },
 
-    { "id": "wec-2026-imola-placeholder", "weekend": "6 Hours of Imola", "name": "Schedule coming soon", "utc": "2026-04-17T08:00:00Z" },
-    { "id": "wec-2026-spa-placeholder", "weekend": "TotalEnergies 6 Hours of Spa-Francorchamps", "name": "Schedule coming soon", "utc": "2026-05-07T08:00:00Z" },
-    { "id": "wec-2026-lemans-placeholder", "weekend": "24 Hours of Le Mans", "name": "Schedule coming soon", "utc": "2026-06-10T08:00:00Z" },
-    { "id": "wec-2026-saopaulo-placeholder", "weekend": "Rolex 6 Hours of São Paulo", "name": "Schedule coming soon", "utc": "2026-07-10T08:00:00Z" },
-    { "id": "wec-2026-cota-placeholder", "weekend": "Lone Star Le Mans", "name": "Schedule coming soon", "utc": "2026-09-04T08:00:00Z" },
-    { "id": "wec-2026-fuji-placeholder", "weekend": "6 Hours of Fuji", "name": "Schedule coming soon", "utc": "2026-09-25T08:00:00Z" },
-    { "id": "wec-2026-bahrain-placeholder", "weekend": "Bapco Energies 8 Hours of Bahrain", "name": "Schedule coming soon", "utc": "2026-11-05T08:00:00Z" }
+    {
+      "id": "wec-2026-spa-fp1",
+      "weekend": "TotalEnergies 6 Hours of Spa-Francorchamps",
+      "name": "Free Practice 1",
+      "utc": "2026-05-07T11:00:00Z"
+    },
+    {
+      "id": "wec-2026-spa-fp2",
+      "weekend": "TotalEnergies 6 Hours of Spa-Francorchamps",
+      "name": "Free Practice 2",
+      "utc": "2026-05-07T15:40:00Z"
+    },
+    {
+      "id": "wec-2026-spa-fp3",
+      "weekend": "TotalEnergies 6 Hours of Spa-Francorchamps",
+      "name": "Free Practice 3",
+      "utc": "2026-05-08T10:10:00Z"
+    },
+    {
+      "id": "wec-2026-spa-quali",
+      "weekend": "TotalEnergies 6 Hours of Spa-Francorchamps",
+      "name": "Qualifying",
+      "utc": "2026-05-08T14:30:00Z"
+    },
+    {
+      "id": "wec-2026-spa-race",
+      "weekend": "TotalEnergies 6 Hours of Spa-Francorchamps",
+      "name": "Race",
+      "utc": "2026-05-09T14:00:00Z"
+    },
+
+    {
+      "id": "wec-2026-lemans-fp1",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Free Practice 1",
+      "utc": "2026-06-10T14:00:00Z"
+    },
+    {
+      "id": "wec-2026-lemans-quali-lmp2-lmgt3",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Qualifying - LMP2 & LMGT3",
+      "utc": "2026-06-10T18:45:00Z"
+    },
+    {
+      "id": "wec-2026-lemans-quali-hypercar",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Qualifying - HYPERCAR",
+      "utc": "2026-06-10T19:30:00Z"
+    },
+    {
+      "id": "wec-2026-lemans-fp2",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Free Practice 2",
+      "utc": "2026-06-10T22:00:00Z"
+    },
+    {
+      "id": "wec-2026-lemans-fp3",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Free Practice 3",
+      "utc": "2026-06-11T14:45:00Z"
+    },
+    {
+      "id": "wec-2026-lemans-hyperpole1-lmp2-lmgt3",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Hyperpole 1 - LMP2 & LMGT3",
+      "utc": "2026-06-11T20:00:00Z"
+    },
+    {
+      "id": "wec-2026-lemans-hyperpole2-lmp2-lmgt3",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Hyperpole 2 - LMP2 & LMGT3",
+      "utc": "2026-06-11T20:35:00Z"
+    },
+    {
+      "id": "wec-2026-lemans-hyperpole1-hypercar",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Hyperpole 1 - HYPERCAR",
+      "utc": "2026-06-11T21:05:00Z"
+    },
+    {
+      "id": "wec-2026-lemans-hyperpole2-hypercar",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Hyperpole 2 - HYPERCAR",
+      "utc": "2026-06-11T21:40:00Z"
+    },
+    {
+      "id": "wec-2026-lemans-fp4",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Free Practice 4",
+      "utc": "2026-06-11T23:00:00Z"
+    },
+    {
+      "id": "wec-2026-lemans-warmup",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Warm-up",
+      "utc": "2026-06-13T12:00:00Z"
+    },
+    {
+      "id": "wec-2026-lemans-race",
+      "weekend": "24 Hours of Le Mans",
+      "name": "Race",
+      "utc": "2026-06-13T16:00:00Z"
+    },
+
+    {
+      "id": "wec-2026-saopaulo-placeholder",
+      "weekend": "Rolex 6 Hours of São Paulo",
+      "name": "Schedule coming soon",
+      "utc": "2026-07-10T08:00:00Z"
+    },
+    {
+      "id": "wec-2026-cota-placeholder",
+      "weekend": "Lone Star Le Mans",
+      "name": "Schedule coming soon",
+      "utc": "2026-09-04T08:00:00Z"
+    },
+    {
+      "id": "wec-2026-fuji-placeholder",
+      "weekend": "6 Hours of Fuji",
+      "name": "Schedule coming soon",
+      "utc": "2026-09-25T08:00:00Z"
+    },
+    {
+      "id": "wec-2026-qatar-placeholder",
+      "weekend": "Qatar 1812km",
+      "name": "Schedule coming soon",
+      "utc": "2026-10-22T08:00:00Z"
+    },
+    {
+      "id": "wec-2026-bahrain-placeholder",
+      "weekend": "Bapco Energies 8 Hours of Bahrain",
+      "name": "Schedule coming soon",
+      "utc": "2026-11-05T08:00:00Z"
+    }
   ]
 }
