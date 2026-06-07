@@ -2,28 +2,19 @@
   "sportKey": "moto3",
   "season": "2026",
   "events": [
-    { "id": "moto3-2026-thaigp-fri-fp", "weekend": "Thai Grand Prix", "name": "Free Practice", "utc": "2026-02-27T02:00:00Z" },
+    { "id": "moto3-2026-thaigp-fp1", "weekend": "Thai Grand Prix", "name": "Free Practice 1", "utc": "2026-02-27T02:00:00Z" },
+    { "id": "moto3-2026-thaigp-practice", "weekend": "Thai Grand Prix", "name": "Practice", "utc": "2026-02-27T06:15:00Z" },
+    { "id": "moto3-2026-thaigp-race", "weekend": "Thai Grand Prix", "name": "Race", "utc": "2026-03-01T05:00:00Z" },
 
-    { "id": "moto3-2026-r2-placeholder", "weekend": "Brazilian Grand Prix", "name": "Schedule coming soon", "utc": "2026-03-20T08:00:00Z" },
-    { "id": "moto3-2026-r3-placeholder", "weekend": "Americas Grand Prix", "name": "Schedule coming soon", "utc": "2026-03-27T08:00:00Z" },
-    { "id": "moto3-2026-r4-placeholder", "weekend": "Qatar Grand Prix", "name": "Schedule coming soon", "utc": "2026-04-10T08:00:00Z" },
-    { "id": "moto3-2026-r5-placeholder", "weekend": "Spanish Grand Prix", "name": "Schedule coming soon", "utc": "2026-04-24T08:00:00Z" },
-    { "id": "moto3-2026-r6-placeholder", "weekend": "French Grand Prix", "name": "Schedule coming soon", "utc": "2026-05-08T08:00:00Z" },
-    { "id": "moto3-2026-r7-placeholder", "weekend": "Catalan Grand Prix", "name": "Schedule coming soon", "utc": "2026-05-15T08:00:00Z" },
-    { "id": "moto3-2026-r8-placeholder", "weekend": "Italian Grand Prix", "name": "Schedule coming soon", "utc": "2026-05-29T08:00:00Z" },
-    { "id": "moto3-2026-r9-placeholder", "weekend": "Hungarian Grand Prix", "name": "Schedule coming soon", "utc": "2026-06-05T08:00:00Z" },
-    { "id": "moto3-2026-r10-placeholder", "weekend": "Czech Republic Grand Prix", "name": "Schedule coming soon", "utc": "2026-06-19T08:00:00Z" },
-    { "id": "moto3-2026-r11-placeholder", "weekend": "Dutch TT", "name": "Schedule coming soon", "utc": "2026-06-26T08:00:00Z" },
-    { "id": "moto3-2026-r12-placeholder", "weekend": "German Grand Prix", "name": "Schedule coming soon", "utc": "2026-07-10T08:00:00Z" },
-    { "id": "moto3-2026-r13-placeholder", "weekend": "British Grand Prix", "name": "Schedule coming soon", "utc": "2026-08-07T08:00:00Z" },
-    { "id": "moto3-2026-r14-placeholder", "weekend": "Aragon Grand Prix", "name": "Schedule coming soon", "utc": "2026-08-28T08:00:00Z" },
-    { "id": "moto3-2026-r15-placeholder", "weekend": "San Marino Grand Prix", "name": "Schedule coming soon", "utc": "2026-09-11T08:00:00Z" },
-    { "id": "moto3-2026-r16-placeholder", "weekend": "Austrian Grand Prix", "name": "Schedule coming soon", "utc": "2026-09-18T08:00:00Z" },
-    { "id": "moto3-2026-r17-placeholder", "weekend": "Japanese Grand Prix", "name": "Schedule coming soon", "utc": "2026-10-02T08:00:00Z" },
-    { "id": "moto3-2026-r18-placeholder", "weekend": "Indonesian Grand Prix", "name": "Schedule coming soon", "utc": "2026-10-09T08:00:00Z" },
-    { "id": "moto3-2026-r19-placeholder", "weekend": "Australian Grand Prix", "name": "Schedule coming soon", "utc": "2026-10-23T08:00:00Z" },
-    { "id": "moto3-2026-r20-placeholder", "weekend": "Malaysian Grand Prix", "name": "Schedule coming soon", "utc": "2026-10-30T08:00:00Z" },
-    { "id": "moto3-2026-r21-placeholder", "weekend": "Portuguese Grand Prix", "name": "Schedule coming soon", "utc": "2026-11-13T08:00:00Z" },
-    { "id": "moto3-2026-r22-placeholder", "weekend": "Valencia Grand Prix", "name": "Schedule coming soon", "utc": "2026-11-20T08:00:00Z" }
+    { "id": "moto3-2026-brazilgp-fp1", "weekend": "Brazilian Grand Prix", "name": "Free Practice 1", "utc": "2026-03-20T13:00:00Z" },
+    { "id": "moto3-2026-brazilgp-practice", "weekend": "Brazilian Grand Prix", "name": "Practice", "utc": "2026-03-20T17:15:00Z" },
+    { "id": "moto3-2026-brazilgp-qualifying", "weekend": "Brazilian Grand Prix", "name": "Qualifying", "utc": "2026-03-22T20:10:00Z" },
+    { "id": "moto3-2026-brazilgp-race", "weekend": "Brazilian Grand Prix", "name": "Race", "utc": "2026-03-22T15:00:00Z" },
+
+    { "id": "moto3-2026-catalangp-fp1", "weekend": "Catalan Grand Prix", "name": "Free Practice 1", "utc": "2026-05-15T07:00:00Z" },
+    { "id": "moto3-2026-catalangp-practice", "weekend": "Catalan Grand Prix", "name": "Practice", "utc": "2026-05-15T11:15:00Z" },
+    { "id": "moto3-2026-catalangp-fp2", "weekend": "Catalan Grand Prix", "name": "Free Practice 2", "utc": "2026-05-16T06:40:00Z" },
+    { "id": "moto3-2026-catalangp-qualifying", "weekend": "Catalan Grand Prix", "name": "Qualifying", "utc": "2026-05-16T10:45:00Z" },
+    { "id": "moto3-2026-catalangp-race", "weekend": "Catalan Grand Prix", "name": "Race", "utc": "2026-05-17T09:00:00Z" }
   ]
 }
