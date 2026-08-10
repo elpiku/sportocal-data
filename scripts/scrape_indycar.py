@@ -36,7 +36,7 @@ from dateutil import parser as dateparser
 BASE_URL = "https://www.indycar.com"
 SCHEDULE_URL = f"{BASE_URL}/Schedule"
 SEASON_YEAR = 2026  # bump each year
-OUTPUT_PATH = Path(__file__).resolve().parent / "motorsport" / "indycar" / "ntt" / f"{SEASON_YEAR}.json"
+OUTPUT_PATH = Path(__file__).resolve().parent.parent / "motorsport" / "indycar" / "ntt" / f"{SEASON_YEAR}.json"
 EASTERN = ZoneInfo("America/New_York")
 UTC = ZoneInfo("UTC")
 REQUEST_DELAY_SECONDS = 1.5
