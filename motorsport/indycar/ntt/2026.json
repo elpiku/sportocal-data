@@ -1,63 +1,552 @@
 {
   "sportKey": "ntt-indycar",
   "season": "2026",
-  "fromUtc": "2026-05-19T00:00:00Z",
   "events": [
-
-    { "id": "indycar-2026-indy500-practice-1", "weekend": "110th Running of the Indianapolis 500", "name": "Practice 1", "utc": "2026-05-12T17:00:00Z" },
-    { "id": "indycar-2026-indy500-practice-2", "weekend": "110th Running of the Indianapolis 500", "name": "Practice 2", "utc": "2026-05-13T17:00:00Z" },
-    { "id": "indycar-2026-indy500-qualifying-1", "weekend": "110th Running of the Indianapolis 500", "name": "Qualifying Day 1", "utc": "2026-05-16T17:00:00Z" },
-    { "id": "indycar-2026-indy500-qualifying-2", "weekend": "110th Running of the Indianapolis 500", "name": "Qualifying Day 2", "utc": "2026-05-17T17:00:00Z" },
-    { "id": "indycar-2026-indy500-carb-day", "weekend": "110th Running of the Indianapolis 500", "name": "Carb Day / Final Practice", "utc": "2026-05-22T16:00:00Z" },
-    { "id": "indycar-2026-indy500-race", "weekend": "110th Running of the Indianapolis 500", "name": "Race", "utc": "2026-05-24T15:45:00Z" },
-
-    { "id": "indycar-2026-detroit-practice-1", "weekend": "Chevrolet Detroit Grand Prix", "name": "Practice 1", "utc": "2026-05-29T17:00:00Z" },
-    { "id": "indycar-2026-detroit-practice-2", "weekend": "Chevrolet Detroit Grand Prix", "name": "Practice 2", "utc": "2026-05-30T14:30:00Z" },
-    { "id": "indycar-2026-detroit-qualifying", "weekend": "Chevrolet Detroit Grand Prix", "name": "Qualifying", "utc": "2026-05-30T19:30:00Z" },
-    { "id": "indycar-2026-detroit-race", "weekend": "Chevrolet Detroit Grand Prix", "name": "Race", "utc": "2026-05-31T16:30:00Z" },
-
-    { "id": "indycar-2026-gateway-practice-1", "weekend": "Bommarito Automotive Group 500", "name": "Practice 1", "utc": "2026-06-06T18:00:00Z" },
-    { "id": "indycar-2026-gateway-qualifying", "weekend": "Bommarito Automotive Group 500", "name": "Qualifying", "utc": "2026-06-06T22:00:00Z" },
-    { "id": "indycar-2026-gateway-race", "weekend": "Bommarito Automotive Group 500", "name": "Race", "utc": "2026-06-08T01:00:00Z" },
-
-    { "id": "indycar-2026-road-america-practice-1", "weekend": "XPEL Grand Prix at Road America", "name": "Practice 1", "utc": "2026-06-19T18:00:00Z" },
-    { "id": "indycar-2026-road-america-practice-2", "weekend": "XPEL Grand Prix at Road America", "name": "Practice 2", "utc": "2026-06-20T14:30:00Z" },
-    { "id": "indycar-2026-road-america-qualifying", "weekend": "XPEL Grand Prix at Road America", "name": "Qualifying", "utc": "2026-06-20T19:30:00Z" },
-    { "id": "indycar-2026-road-america-race", "weekend": "XPEL Grand Prix at Road America", "name": "Race", "utc": "2026-06-21T17:00:00Z" },
-
-    { "id": "indycar-2026-mid-ohio-practice-1", "weekend": "Honda Indy 200 at Mid-Ohio", "name": "Practice 1", "utc": "2026-07-03T18:00:00Z" },
-    { "id": "indycar-2026-mid-ohio-practice-2", "weekend": "Honda Indy 200 at Mid-Ohio", "name": "Practice 2", "utc": "2026-07-04T14:30:00Z" },
-    { "id": "indycar-2026-mid-ohio-qualifying", "weekend": "Honda Indy 200 at Mid-Ohio", "name": "Qualifying", "utc": "2026-07-04T18:30:00Z" },
-    { "id": "indycar-2026-mid-ohio-race", "weekend": "Honda Indy 200 at Mid-Ohio", "name": "Race", "utc": "2026-07-05T16:30:00Z" },
-
-    { "id": "indycar-2026-nashville-practice-1", "weekend": "Borchetta Bourbon Music City Grand Prix", "name": "Practice 1", "utc": "2026-07-17T18:00:00Z" },
-    { "id": "indycar-2026-nashville-qualifying", "weekend": "Borchetta Bourbon Music City Grand Prix", "name": "Qualifying", "utc": "2026-07-17T22:00:00Z" },
-    { "id": "indycar-2026-nashville-race", "weekend": "Borchetta Bourbon Music City Grand Prix", "name": "Race", "utc": "2026-07-19T19:00:00Z" },
-
-    { "id": "indycar-2026-portland-practice-1", "weekend": "BitNile.com Grand Prix of Portland", "name": "Practice 1", "utc": "2026-08-07T18:00:00Z" },
-    { "id": "indycar-2026-portland-practice-2", "weekend": "BitNile.com Grand Prix of Portland", "name": "Practice 2", "utc": "2026-08-08T15:00:00Z" },
-    { "id": "indycar-2026-portland-qualifying", "weekend": "BitNile.com Grand Prix of Portland", "name": "Qualifying", "utc": "2026-08-08T19:00:00Z" },
-    { "id": "indycar-2026-portland-race", "weekend": "BitNile.com Grand Prix of Portland", "name": "Race", "utc": "2026-08-09T20:00:00Z" },
-
-    { "id": "indycar-2026-markham-practice-1", "weekend": "Ontario Honda Dealers Indy at Markham", "name": "Practice 1", "utc": "2026-08-14T18:00:00Z" },
-    { "id": "indycar-2026-markham-practice-2", "weekend": "Ontario Honda Dealers Indy at Markham", "name": "Practice 2", "utc": "2026-08-15T14:30:00Z" },
-    { "id": "indycar-2026-markham-qualifying", "weekend": "Ontario Honda Dealers Indy at Markham", "name": "Qualifying", "utc": "2026-08-15T19:30:00Z" },
-    { "id": "indycar-2026-markham-race", "weekend": "Ontario Honda Dealers Indy at Markham", "name": "Race", "utc": "2026-08-16T16:00:00Z" },
-
-    { "id": "indycar-2026-washington-practice-1", "weekend": "Freedom 250 Grand Prix of Washington D.C.", "name": "Practice 1", "utc": "2026-08-21T18:00:00Z" },
-    { "id": "indycar-2026-washington-practice-2", "weekend": "Freedom 250 Grand Prix of Washington D.C.", "name": "Practice 2", "utc": "2026-08-22T14:30:00Z" },
-    { "id": "indycar-2026-washington-qualifying", "weekend": "Freedom 250 Grand Prix of Washington D.C.", "name": "Qualifying", "utc": "2026-08-22T19:30:00Z" },
-    { "id": "indycar-2026-washington-race", "weekend": "Freedom 250 Grand Prix of Washington D.C.", "name": "Race", "utc": "2026-08-23T18:00:00Z" },
-
-    { "id": "indycar-2026-milwaukee-practice-1", "weekend": "Snap-on Milwaukee Mile 250", "name": "Practice 1", "utc": "2026-08-28T17:00:00Z" },
-    { "id": "indycar-2026-milwaukee-qualifying", "weekend": "Snap-on Milwaukee Mile 250", "name": "Qualifying", "utc": "2026-08-28T21:00:00Z" },
-    { "id": "indycar-2026-milwaukee-race-1", "weekend": "Snap-on Milwaukee Mile 250", "name": "Race 1", "utc": "2026-08-29T18:30:00Z" },
-    { "id": "indycar-2026-milwaukee-race-2", "weekend": "Snap-on Milwaukee Mile 250", "name": "Race 2", "utc": "2026-08-30T17:00:00Z" },
-
-    { "id": "indycar-2026-laguna-seca-practice-1", "weekend": "Java House Grand Prix of Monterey", "name": "Practice 1", "utc": "2026-09-04T18:00:00Z" },
-    { "id": "indycar-2026-laguna-seca-practice-2", "weekend": "Java House Grand Prix of Monterey", "name": "Practice 2", "utc": "2026-09-05T15:00:00Z" },
-    { "id": "indycar-2026-laguna-seca-qualifying", "weekend": "Java House Grand Prix of Monterey", "name": "Qualifying", "utc": "2026-09-05T19:00:00Z" },
-    { "id": "indycar-2026-laguna-seca-race", "weekend": "Java House Grand Prix of Monterey", "name": "Race", "utc": "2026-09-06T18:30:00Z" }
-
+    {
+      "id": "indycar-2026-st-petersburg-practice-1",
+      "weekend": "Firestone Grand Prix of St. Petersburg",
+      "name": "Practice 1",
+      "utc": "2026-02-27T18:30:00Z"
+    },
+    {
+      "id": "indycar-2026-st-petersburg-practice-2",
+      "weekend": "Firestone Grand Prix of St. Petersburg",
+      "name": "Practice 2",
+      "utc": "2026-02-28T14:30:00Z"
+    },
+    {
+      "id": "indycar-2026-st-petersburg-qualifications",
+      "weekend": "Firestone Grand Prix of St. Petersburg",
+      "name": "Qualifications",
+      "utc": "2026-02-28T21:30:00Z"
+    },
+    {
+      "id": "indycar-2026-st-petersburg-warmup",
+      "weekend": "Firestone Grand Prix of St. Petersburg",
+      "name": "Warmup",
+      "utc": "2026-03-01T14:00:00Z"
+    },
+    {
+      "id": "indycar-2026-st-petersburg-race",
+      "weekend": "Firestone Grand Prix of St. Petersburg",
+      "name": "Race",
+      "utc": "2026-03-01T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-arlington-practice-1",
+      "weekend": "Java House Grand Prix of Arlington",
+      "name": "Practice 1",
+      "utc": "2026-03-13T20:00:00Z"
+    },
+    {
+      "id": "indycar-2026-arlington-practice-2",
+      "weekend": "Java House Grand Prix of Arlington",
+      "name": "Practice 2",
+      "utc": "2026-03-14T13:30:00Z"
+    },
+    {
+      "id": "indycar-2026-arlington-qualifications",
+      "weekend": "Java House Grand Prix of Arlington",
+      "name": "Qualifications",
+      "utc": "2026-03-14T18:30:00Z"
+    },
+    {
+      "id": "indycar-2026-arlington-warmup",
+      "weekend": "Java House Grand Prix of Arlington",
+      "name": "Warmup",
+      "utc": "2026-03-15T13:30:00Z"
+    },
+    {
+      "id": "indycar-2026-arlington-race",
+      "weekend": "Java House Grand Prix of Arlington",
+      "name": "Race",
+      "utc": "2026-03-15T15:30:00Z"
+    },
+    {
+      "id": "indycar-2026-barber-practice-1",
+      "weekend": "Children's of Alabama Indy Grand Prix",
+      "name": "Practice 1",
+      "utc": "2026-03-27T19:30:00Z"
+    },
+    {
+      "id": "indycar-2026-barber-practice-2",
+      "weekend": "Children's of Alabama Indy Grand Prix",
+      "name": "Practice 2",
+      "utc": "2026-03-28T15:00:00Z"
+    },
+    {
+      "id": "indycar-2026-barber-qualifying",
+      "weekend": "Children's of Alabama Indy Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-03-28T18:30:00Z"
+    },
+    {
+      "id": "indycar-2026-barber-warmup",
+      "weekend": "Children's of Alabama Indy Grand Prix",
+      "name": "Warmup",
+      "utc": "2026-03-29T14:00:00Z"
+    },
+    {
+      "id": "indycar-2026-barber-race",
+      "weekend": "Children's of Alabama Indy Grand Prix",
+      "name": "Race",
+      "utc": "2026-03-29T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-long-beach-practice-1",
+      "weekend": "Acura Grand Prix of Long Beach",
+      "name": "Practice 1",
+      "utc": "2026-04-17T22:00:00Z"
+    },
+    {
+      "id": "indycar-2026-long-beach-practice-2",
+      "weekend": "Acura Grand Prix of Long Beach",
+      "name": "Practice 2",
+      "utc": "2026-04-18T17:30:00Z"
+    },
+    {
+      "id": "indycar-2026-long-beach-qualifying",
+      "weekend": "Acura Grand Prix of Long Beach",
+      "name": "Qualifying",
+      "utc": "2026-04-18T22:30:00Z"
+    },
+    {
+      "id": "indycar-2026-long-beach-warmup",
+      "weekend": "Acura Grand Prix of Long Beach",
+      "name": "Warmup",
+      "utc": "2026-04-19T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-long-beach-race",
+      "weekend": "Acura Grand Prix of Long Beach",
+      "name": "Race",
+      "utc": "2026-04-19T21:30:00Z"
+    },
+    {
+      "id": "indycar-2026-indianapolis-gp-practice-1",
+      "weekend": "Sonsio Grand Prix",
+      "name": "Practice 1",
+      "utc": "2026-05-08T13:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indianapolis-gp-practice-2",
+      "weekend": "Sonsio Grand Prix",
+      "name": "Practice 2",
+      "utc": "2026-05-08T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indianapolis-gp-qualifying-1",
+      "weekend": "Sonsio Grand Prix",
+      "name": "Qualifying 1",
+      "utc": "2026-05-09T14:30:00Z"
+    },
+    {
+      "id": "indycar-2026-indianapolis-gp-qualifying-2",
+      "weekend": "Sonsio Grand Prix",
+      "name": "Qualifying 2",
+      "utc": "2026-05-09T15:30:00Z"
+    },
+    {
+      "id": "indycar-2026-indianapolis-gp-race",
+      "weekend": "Sonsio Grand Prix",
+      "name": "Race",
+      "utc": "2026-05-09T20:30:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-practice-1",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Practice 1",
+      "utc": "2026-05-12T16:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-practice-1",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Practice 1",
+      "utc": "2026-05-12T20:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-practice-2",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Practice 2",
+      "utc": "2026-05-13T16:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-practice-2",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Practice 2",
+      "utc": "2026-05-13T20:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-practice-3",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Practice 3",
+      "utc": "2026-05-14T16:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-practice-3",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Practice 3",
+      "utc": "2026-05-14T20:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-fast-friday-1",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Fast Friday 1",
+      "utc": "2026-05-15T18:30:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-fast-friday-2",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Fast Friday 2",
+      "utc": "2026-05-15T19:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-fast-friday-3",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Fast Friday 3",
+      "utc": "2026-05-15T21:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-practice-6",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Practice 6",
+      "utc": "2026-05-17T13:30:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-qualifying-all-cars",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Qualifying (All Cars)",
+      "utc": "2026-05-17T16:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-qualifying-top-12",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Qualifying (Top-12)",
+      "utc": "2026-05-17T20:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-qualifying-firestone-fast-6",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Qualifying (Firestone Fast 6)",
+      "utc": "2026-05-17T22:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-practice-7",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Practice 7",
+      "utc": "2026-05-18T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-carb-day-final-practice",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Carb Day Final Practice",
+      "utc": "2026-05-22T15:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-pit-stop-competition",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Pit Stop Competition",
+      "utc": "2026-05-22T18:30:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-pre-race",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Pre-Race",
+      "utc": "2026-05-24T14:00:00Z"
+    },
+    {
+      "id": "indycar-2026-indy500-race",
+      "weekend": "110th Running of the Indianapolis 500",
+      "name": "Race",
+      "utc": "2026-05-24T16:30:00Z"
+    },
+    {
+      "id": "indycar-2026-detroit-practice-1",
+      "weekend": "Chevrolet Detroit Grand Prix",
+      "name": "Practice 1",
+      "utc": "2026-05-29T19:00:00Z"
+    },
+    {
+      "id": "indycar-2026-detroit-practice-2",
+      "weekend": "Chevrolet Detroit Grand Prix",
+      "name": "Practice 2",
+      "utc": "2026-05-30T13:00:00Z"
+    },
+    {
+      "id": "indycar-2026-detroit-qualifying",
+      "weekend": "Chevrolet Detroit Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-05-30T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-detroit-warmup",
+      "weekend": "Chevrolet Detroit Grand Prix",
+      "name": "Warmup",
+      "utc": "2026-05-31T13:30:00Z"
+    },
+    {
+      "id": "indycar-2026-detroit-race",
+      "weekend": "Chevrolet Detroit Grand Prix",
+      "name": "Race",
+      "utc": "2026-05-31T16:30:00Z"
+    },
+    {
+      "id": "indycar-2026-gateway-practice-1",
+      "weekend": "Bommarito Automotive Group 500",
+      "name": "Practice 1",
+      "utc": "2026-06-06T16:30:00Z"
+    },
+    {
+      "id": "indycar-2026-gateway-qualifying",
+      "weekend": "Bommarito Automotive Group 500",
+      "name": "Qualifying",
+      "utc": "2026-06-06T20:30:00Z"
+    },
+    {
+      "id": "indycar-2026-gateway-final-practice",
+      "weekend": "Bommarito Automotive Group 500",
+      "name": "Final Practice",
+      "utc": "2026-06-07T01:00:00Z"
+    },
+    {
+      "id": "indycar-2026-gateway-race",
+      "weekend": "Bommarito Automotive Group 500",
+      "name": "Race",
+      "utc": "2026-06-08T01:00:00Z"
+    },
+    {
+      "id": "indycar-2026-road-america-practice-1",
+      "weekend": "XPEL Grand Prix at Road America",
+      "name": "Practice 1",
+      "utc": "2026-06-19T20:00:00Z"
+    },
+    {
+      "id": "indycar-2026-road-america-practice-2",
+      "weekend": "XPEL Grand Prix at Road America",
+      "name": "Practice 2",
+      "utc": "2026-06-20T15:00:00Z"
+    },
+    {
+      "id": "indycar-2026-road-america-qualifying",
+      "weekend": "XPEL Grand Prix at Road America",
+      "name": "Qualifying",
+      "utc": "2026-06-20T18:00:00Z"
+    },
+    {
+      "id": "indycar-2026-road-america-warmup",
+      "weekend": "XPEL Grand Prix at Road America",
+      "name": "Warmup",
+      "utc": "2026-06-21T15:00:00Z"
+    },
+    {
+      "id": "indycar-2026-road-america-race",
+      "weekend": "XPEL Grand Prix at Road America",
+      "name": "Race",
+      "utc": "2026-06-21T18:00:00Z"
+    },
+    {
+      "id": "indycar-2026-mid-ohio-practice-1",
+      "weekend": "Honda Indy 200 at Mid-Ohio",
+      "name": "Practice 1",
+      "utc": "2026-07-03T19:00:00Z"
+    },
+    {
+      "id": "indycar-2026-mid-ohio-practice-2",
+      "weekend": "Honda Indy 200 at Mid-Ohio",
+      "name": "Practice 2",
+      "utc": "2026-07-04T14:00:00Z"
+    },
+    {
+      "id": "indycar-2026-mid-ohio-qualifying",
+      "weekend": "Honda Indy 200 at Mid-Ohio",
+      "name": "Qualifying",
+      "utc": "2026-07-04T21:15:00Z"
+    },
+    {
+      "id": "indycar-2026-mid-ohio-warmup",
+      "weekend": "Honda Indy 200 at Mid-Ohio",
+      "name": "Warmup",
+      "utc": "2026-07-05T13:00:00Z"
+    },
+    {
+      "id": "indycar-2026-mid-ohio-race",
+      "weekend": "Honda Indy 200 at Mid-Ohio",
+      "name": "Race",
+      "utc": "2026-07-05T16:30:00Z"
+    },
+    {
+      "id": "indycar-2026-nashville-practice-1",
+      "weekend": "Borchetta Bourbon Music City Grand Prix",
+      "name": "Practice 1",
+      "utc": "2026-07-18T14:00:00Z"
+    },
+    {
+      "id": "indycar-2026-nashville-qualifying",
+      "weekend": "Borchetta Bourbon Music City Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-07-18T19:00:00Z"
+    },
+    {
+      "id": "indycar-2026-nashville-final-practice",
+      "weekend": "Borchetta Bourbon Music City Grand Prix",
+      "name": "Final Practice",
+      "utc": "2026-07-18T22:00:00Z"
+    },
+    {
+      "id": "indycar-2026-nashville-race",
+      "weekend": "Borchetta Bourbon Music City Grand Prix",
+      "name": "Race",
+      "utc": "2026-07-20T19:00:00Z"
+    },
+    {
+      "id": "indycar-2026-portland-practice-1",
+      "weekend": "OnlyBulls Grand Prix of Portland",
+      "name": "Practice 1",
+      "utc": "2026-08-07T21:30:00Z"
+    },
+    {
+      "id": "indycar-2026-portland-practice-2",
+      "weekend": "OnlyBulls Grand Prix of Portland",
+      "name": "Practice 2",
+      "utc": "2026-08-08T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-portland-qualifying",
+      "weekend": "OnlyBulls Grand Prix of Portland",
+      "name": "Qualifying",
+      "utc": "2026-08-08T23:00:00Z"
+    },
+    {
+      "id": "indycar-2026-portland-warmup",
+      "weekend": "OnlyBulls Grand Prix of Portland",
+      "name": "Warmup",
+      "utc": "2026-08-09T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-portland-race",
+      "weekend": "OnlyBulls Grand Prix of Portland",
+      "name": "Race",
+      "utc": "2026-08-09T20:00:00Z"
+    },
+    {
+      "id": "indycar-2026-markham-practice-1",
+      "weekend": "Ontario Honda Dealers Indy at Markham",
+      "name": "Practice 1",
+      "utc": "2026-08-14T19:00:00Z"
+    },
+    {
+      "id": "indycar-2026-markham-practice-2",
+      "weekend": "Ontario Honda Dealers Indy at Markham",
+      "name": "Practice 2",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "indycar-2026-markham-qualifying",
+      "weekend": "Ontario Honda Dealers Indy at Markham",
+      "name": "Qualifying",
+      "utc": "2026-08-15T18:25:00Z"
+    },
+    {
+      "id": "indycar-2026-markham-warmup",
+      "weekend": "Ontario Honda Dealers Indy at Markham",
+      "name": "Warmup",
+      "utc": "2026-08-16T12:30:00Z"
+    },
+    {
+      "id": "indycar-2026-markham-race",
+      "weekend": "Ontario Honda Dealers Indy at Markham",
+      "name": "Race",
+      "utc": "2026-08-16T16:00:00Z"
+    },
+    {
+      "id": "indycar-2026-washington-practice-1",
+      "weekend": "Freedom 250 Grand Prix of Washington, D.C.",
+      "name": "Practice 1",
+      "utc": "2026-08-22T13:00:00Z"
+    },
+    {
+      "id": "indycar-2026-washington-practice-2",
+      "weekend": "Freedom 250 Grand Prix of Washington, D.C.",
+      "name": "Practice 2",
+      "utc": "2026-08-22T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-washington-qualifying",
+      "weekend": "Freedom 250 Grand Prix of Washington, D.C.",
+      "name": "Qualifying",
+      "utc": "2026-08-22T21:00:00Z"
+    },
+    {
+      "id": "indycar-2026-washington-warmup",
+      "weekend": "Freedom 250 Grand Prix of Washington, D.C.",
+      "name": "Warmup",
+      "utc": "2026-08-23T13:00:00Z"
+    },
+    {
+      "id": "indycar-2026-washington-pre-race-show",
+      "weekend": "Freedom 250 Grand Prix of Washington, D.C.",
+      "name": "Pre-Race Show",
+      "utc": "2026-08-23T15:30:00Z"
+    },
+    {
+      "id": "indycar-2026-washington-race",
+      "weekend": "Freedom 250 Grand Prix of Washington, D.C.",
+      "name": "Race",
+      "utc": "2026-08-23T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-milwaukee-practice",
+      "weekend": "Snap-on Makers and Fixers 250",
+      "name": "Practice",
+      "utc": "2026-08-28T22:00:00Z"
+    },
+    {
+      "id": "indycar-2026-milwaukee-qualifying",
+      "weekend": "Snap-on Makers and Fixers 250",
+      "name": "Qualifying",
+      "utc": "2026-08-29T15:00:00Z"
+    },
+    {
+      "id": "indycar-2026-milwaukee-race-1",
+      "weekend": "Snap-on Makers and Fixers 250",
+      "name": "Race 1",
+      "utc": "2026-08-29T18:30:00Z"
+    },
+    {
+      "id": "indycar-2026-milwaukee-race-2",
+      "weekend": "Snap-on Makers and Fixers 250",
+      "name": "Race 2",
+      "utc": "2026-08-30T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-laguna-seca-practice-1",
+      "weekend": "INDYCAR Grand Prix of Monterey",
+      "name": "Practice 1",
+      "utc": "2026-09-04T21:00:00Z"
+    },
+    {
+      "id": "indycar-2026-laguna-seca-practice-2",
+      "weekend": "INDYCAR Grand Prix of Monterey",
+      "name": "Practice 2",
+      "utc": "2026-09-05T17:00:00Z"
+    },
+    {
+      "id": "indycar-2026-laguna-seca-qualifying",
+      "weekend": "INDYCAR Grand Prix of Monterey",
+      "name": "Qualifying",
+      "utc": "2026-09-05T20:30:00Z"
+    },
+    {
+      "id": "indycar-2026-laguna-seca-final-practice",
+      "weekend": "INDYCAR Grand Prix of Monterey",
+      "name": "Final Practice",
+      "utc": "2026-09-06T00:00:00Z"
+    },
+    {
+      "id": "indycar-2026-laguna-seca-race",
+      "weekend": "INDYCAR Grand Prix of Monterey",
+      "name": "Race",
+      "utc": "2026-09-06T18:30:00Z"
+    }
   ]
 }
