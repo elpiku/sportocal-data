@@ -205,30 +205,64 @@ def build_repo_events(scraped_events: list[dict]) -> list[dict]:
             seen.add(key)
             deduped.append((name, dt))
 
-        # Disambiguate same-named sessions with different times
-        # (e.g. two distinct "Race" sessions on a doubleheader weekend
-        # -> "Race 1" / "Race 2"). Sessions are sorted by time first so
-        # numbering follows chronological order.
+        # Sort by time first so numbering/ordering follows chronological order.
         deduped.sort(key=lambda x: (x[1] is None, x[1]))
-        name_counts = {}
-        for name, _ in deduped:
-            name_counts[name] = name_counts.get(name, 0) + 1
 
+        # Build (display_name, dt, id) for every session, guaranteeing the
+        # final id is always unique even if:
+        #  - the same session name occurs on genuinely different days/times
+        #    on IndyCar's own page (e.g. Indy 500's "Practice 1" listed twice
+        #    on the same day for a morning + evening window), or
+        #  - two different-but-similarly-named sessions slugify to the same
+        #    string.
+        # We never skip disambiguation just because a name already ends in a
+        # digit (e.g. "Qualifying 1") -- instead we always check the *final
+        # id* for collisions and only append a suffix when one actually
+        # occurs, which handles both cases correctly.
+        # Count how many sessions share each base slug so numbering is
+        # applied consistently: when there's a genuine collision, every
+        # occurrence gets numbered ("Race 1" / "Race 2"), not just the
+        # second one onward.
+        base_slug_counts = {}
+        for name, dt in deduped:
+            if dt is None:
+                continue
+            base_slug_counts[slugify_session(name)] = base_slug_counts.get(slugify_session(name), 0) + 1
+
+        used_ids = set()
         occurrence = {}
         for name, dt in deduped:
             if dt is None:
                 continue  # skip anything we failed to parse a time for
-            display_name = name
-            if name_counts[name] > 1:
-                occurrence[name] = occurrence.get(name, 0) + 1
-                # Only rename if the base name has no number already
-                # (avoids "Qualifying Day 1" becoming "Qualifying Day 1 1")
-                if not re.search(r"\d$", name):
-                    display_name = f"{name} {occurrence[name]}"
 
-            session_slug = slugify_session(display_name)
+            base_slug = slugify_session(name)
+            base_id = f"indycar-{SEASON_YEAR}-{track_key}-{base_slug}"
+            already_numbered = bool(re.search(r"\d$", name))
+
+            if base_slug_counts[base_slug] > 1 and not already_numbered:
+                occurrence[base_slug] = occurrence.get(base_slug, 0) + 1
+                n = occurrence[base_slug]
+                display_name = f"{name} {n}"
+                candidate_id = f"{base_id}-{n}"
+            else:
+                display_name = name
+                candidate_id = base_id
+
+            # Final safety net: guarantee uniqueness no matter what
+            # (handles cases like two already-numbered names, e.g. two
+            # separate "Practice 1" sessions on the same day, that still
+            # collide after the logic above).
+            final_id = candidate_id
+            dedupe_suffix = 1
+            while final_id in used_ids:
+                dedupe_suffix += 1
+                final_id = f"{candidate_id}-{dedupe_suffix}"
+                display_name = f"{name} ({dedupe_suffix})"
+            candidate_id = final_id
+            used_ids.add(candidate_id)
+
             repo_events.append({
-                "id": f"indycar-{SEASON_YEAR}-{track_key}-{session_slug}",
+                "id": candidate_id,
                 "weekend": weekend_name,
                 "name": display_name,
                 "utc": dt.strftime("%Y-%m-%dT%H:%M:%SZ"),
