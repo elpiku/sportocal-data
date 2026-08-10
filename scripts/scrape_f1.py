@@ -2,18 +2,33 @@
 """
 F1 schedule scraper for the sportocal-data repo -- Sky Sports edition.
 
+FIXED (2026-08-11): Sky Sports changed their schedule page markup. Session
+rows used to render as a "Starting <Weekday> DD Mon, HH:MMam/pm" text node
+paired with a separate "<Session Name>" link to a /results/ sub-page. Sky
+has since dropped the word "Starting" entirely and now renders each row as
+a single combined string, e.g.:
+
+    "Practice 1 Fri 21 Aug, 11:30am"
+    "Sprint Qualifying Fri 21 Aug, 3:30pm"
+    "Race Sun 23 Aug, 2:00pm"
+
+Because the scraper's SESSION_LINE_RE required the literal word "Starting",
+every row failed to match, parse_schedule() returned 0 events, and
+common.write_output()'s safety net (min_events=5) correctly aborted the
+run rather than overwrite good data -- which is why the GitHub Action was
+failing with "ERROR: only parsed 0 events".
+
+This version matches the new combined "<Session Name> <Day> <DD> <Mon>,
+<HH:MM><am|pm>" string directly, so it no longer depends on the word
+"Starting" or on a separate /results/ link existing for each session.
+
 Why Sky Sports instead of formula1.com:
-  - ONE page (skysports.com/f1/schedule) covers the entire remaining season,
-    vs. needing to fetch a main page + a separate timetable article for
-    every single round on formula1.com (~2 requests x 23 rounds).
-  - Times are given as plain, unambiguous UK local time. No client-side
-    "My time / Track time" toggle to worry about (see the formula1.com
-    version of this script, kept for reference, for why that mattered).
-  - Cross-checked against formula1.com's official per-round timetable
-    article for the Dutch GP: converting Sky's UK times to UTC produced
-    the exact same UTC timestamps as formula1.com's explicit "N hours
-    ahead of/behind UTC" note. Good agreement between two independent
-    sources.
+- ONE page (skysports.com/f1/schedule) covers the entire remaining season,
+  vs. needing to fetch a main page + a separate timetable article for
+  every single round on formula1.com (~2 requests x 23 rounds).
+- Times are given as plain, unambiguous UK local time. No client-side
+  "My time / Track time" toggle to worry about (see the formula1.com
+  version of this script, kept for reference, for why that mattered).
 
 Trade-off to know about: this page only lists the *current and upcoming*
 rounds, not ones that already happened. Since this data feeds reminders
@@ -31,7 +46,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString, Tag
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import fetch, make_unique_id_assigner, write_output  # noqa: E402
@@ -43,8 +58,18 @@ UK_TZ = ZoneInfo("Europe/London")
 UTC = ZoneInfo("UTC")
 
 ROUND_LINK_RE = re.compile(r"/f1/grandprix/([a-z-]+)$")
+
+# Combined "<Session Name> <Day> <DD> <Mon>, <HH:MM><am|pm>" matcher.
+# Longer/more-specific session names must come before their prefixes in
+# the alternation (e.g. "Sprint Qualifying" before "Sprint") so re
+# doesn't stop at a shorter match.
+SESSION_NAMES_RE_PART = "|".join([
+    "Free Practice 1", "Free Practice 2", "Free Practice 3",
+    "Practice 1", "Practice 2", "Practice 3",
+    "Sprint Qualifying", "Sprint", "Qualifying", "Race",
+])
 SESSION_LINE_RE = re.compile(
-    r"Starting\s+\w+\s+(\d{1,2})\s+([A-Za-z]{3})[a-z]*,\s+(\d{1,2}):(\d{2})(am|pm)",
+    rf"({SESSION_NAMES_RE_PART})\s+\w+\s+(\d{{1,2}})\s+([A-Za-z]{{3}})[a-z]*,\s*(\d{{1,2}}):(\d{{2}})\s*(am|pm)",
     re.IGNORECASE,
 )
 
@@ -53,7 +78,7 @@ MONTH_MAP = {
     "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12,
 }
 
-# Site slug (from the /f1/grandprix/<slug> URL) -> repo track key.
+# Site slug (from the /f1/grandprix/ URL) -> repo track key.
 # Same convention as scripts/scrape_indycar.py's TRACK_KEY_MAP: add an
 # entry here if a new round's slug doesn't already match the repo key
 # you want. Pre-filled from this repo's existing motorsport/f1/2026.json.
@@ -84,15 +109,18 @@ GP_NAME_OVERRIDES = {
 
 # Sky's session names are already close to this repo's convention but not
 # identical (e.g. "Practice 1" vs repo's "Free Practice 1"). Map display
-# name -> (repo display name, id slug).
+# name -> (repo display name, id slug). Keys are lowercased for matching.
 SESSION_NAME_MAP = {
-    "Practice 1": ("Free Practice 1", "fp1"),
-    "Practice 2": ("Free Practice 2", "fp2"),
-    "Practice 3": ("Free Practice 3", "fp3"),
-    "Sprint Qualifying": ("Sprint Qualifying", "sprint-quali"),
-    "Sprint": ("Sprint", "sprint"),
-    "Qualifying": ("Qualifying", "quali"),
-    "Race": ("Race", "race"),
+    "free practice 1": ("Free Practice 1", "fp1"),
+    "practice 1": ("Free Practice 1", "fp1"),
+    "free practice 2": ("Free Practice 2", "fp2"),
+    "practice 2": ("Free Practice 2", "fp2"),
+    "free practice 3": ("Free Practice 3", "fp3"),
+    "practice 3": ("Free Practice 3", "fp3"),
+    "sprint qualifying": ("Sprint Qualifying", "sprint-quali"),
+    "sprint": ("Sprint", "sprint"),
+    "qualifying": ("Qualifying", "quali"),
+    "race": ("Race", "race"),
 }
 
 
@@ -109,36 +137,23 @@ def parse_schedule():
     soup = BeautifulSoup(html, "html.parser")
 
     # Walk the page in strict document order (soup.descendants), tracking:
-    #   - the current round, set whenever we pass a link to
-    #     /f1/grandprix/<slug> (and it's not a session-result sub-link)
-    #   - the current pending session name, set whenever we pass a link to
-    #     /f1/grandprix/<slug>/results/... whose text matches a known
-    #     session name
-    #   - as soon as we hit a text node containing "Starting ...", pair it
-    #     with the pending session name and current round.
+    # - the current round, set whenever we pass a link to
+    #   /f1/grandprix/<slug> (and it's not a session-result sub-link)
+    # - as soon as we hit a text node matching SESSION_LINE_RE (session
+    #   name + day/date/time all in one string -- Sky's current format),
+    #   record an event for the current round.
     # This sequential approach doesn't depend on exact parent/child DOM
-    # nesting (unlike a sibling/find_next traversal), which matters since
-    # this scraper can't be tested against Sky's real live markup ahead of
-    # time -- only against the page's extracted text content.
+    # nesting, and no longer depends on a separate /results/ link or the
+    # word "Starting" existing anywhere on the page.
     events = []
     current_slug = None
     current_track_key = None
     current_weekend_name = None
     assign_id = None
-    pending_session = None  # (repo_name, id_slug)
-
-    from bs4 import NavigableString, Tag
 
     for node in soup.descendants:
         if isinstance(node, Tag) and node.name == "a" and node.get("href"):
             href = node["href"]
-
-            results_match = re.search(r"/f1/grandprix/([a-z-]+)/results/", href)
-            if results_match:
-                session_display = node.get_text(strip=True)
-                if session_display in SESSION_NAME_MAP:
-                    pending_session = SESSION_NAME_MAP[session_display]
-                continue
 
             round_match = ROUND_LINK_RE.search(href)
             if round_match:
@@ -148,41 +163,39 @@ def parse_schedule():
                     current_track_key = repo_track_key(slug)
                     current_weekend_name = gp_weekend_name(node.get_text(strip=True))
                     assign_id = make_unique_id_assigner()
-                    pending_session = None
                 continue
 
         elif isinstance(node, NavigableString):
             text = str(node)
-            if "Starting" not in text or pending_session is None or current_slug is None:
+            if current_slug is None:
                 continue
 
-            time_match = SESSION_LINE_RE.search(text)
-            if not time_match:
-                continue
+            for match in SESSION_LINE_RE.finditer(text):
+                session_name_raw, day, mon, hh, mm, ampm = match.groups()
+                normalized = SESSION_NAME_MAP.get(session_name_raw.strip().lower())
+                if not normalized:
+                    continue
+                repo_name, id_slug = normalized
 
-            day, mon, hh, mm, ampm = time_match.groups()
-            day, hh, mm = int(day), int(hh), int(mm)
-            month = MONTH_MAP.get(mon.title())
-            if not month:
-                pending_session = None
-                continue
-            if ampm.lower() == "pm" and hh != 12:
-                hh += 12
-            if ampm.lower() == "am" and hh == 12:
-                hh = 0
+                day, hh, mm = int(day), int(hh), int(mm)
+                month = MONTH_MAP.get(mon.title())
+                if not month:
+                    continue
+                if ampm.lower() == "pm" and hh != 12:
+                    hh += 12
+                if ampm.lower() == "am" and hh == 12:
+                    hh = 0
 
-            local_dt = datetime(SEASON_YEAR, month, day, hh, mm, tzinfo=UK_TZ)
-            utc_dt = local_dt.astimezone(UTC)
+                local_dt = datetime(SEASON_YEAR, month, day, hh, mm, tzinfo=UK_TZ)
+                utc_dt = local_dt.astimezone(UTC)
 
-            repo_name, id_slug = pending_session
-            base_id = f"f1-{SEASON_YEAR}-{current_track_key}-{id_slug}"
-            events.append({
-                "id": assign_id(base_id),
-                "weekend": current_weekend_name,
-                "name": repo_name,
-                "utc": utc_dt.strftime("%Y-%m-%dT%H:%M:%SZ"),
-            })
-            pending_session = None  # consumed
+                base_id = f"f1-{SEASON_YEAR}-{current_track_key}-{id_slug}"
+                events.append({
+                    "id": assign_id(base_id),
+                    "weekend": current_weekend_name,
+                    "name": repo_name,
+                    "utc": utc_dt.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                })
 
     return events
 
@@ -197,6 +210,7 @@ def main():
         "season": str(SEASON_YEAR),
         "events": events,
     }
+
     write_output(OUTPUT_PATH, output, min_events=5)
 
 
