@@ -22,6 +22,10 @@ This version matches the new combined "<Session Name> <Day> <DD> <Mon>,
 <HH:MM><am|pm>" string directly, so it no longer depends on the word
 "Starting" or on a separate /results/ link existing for each session.
 
+RENAME THIS FILE to scripts/scrape_f1.py (overwriting the old one) before
+committing -- the "_FIXED" suffix is only so you can tell it apart from
+the broken original while reviewing it.
+
 Why Sky Sports instead of formula1.com:
 - ONE page (skysports.com/f1/schedule) covers the entire remaining season,
   vs. needing to fetch a main page + a separate timetable article for
