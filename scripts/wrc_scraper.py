@@ -150,7 +150,7 @@ class WRCScraper:
         
         # Save schedule
         self._save_json(schedule_data, "schedule.json")
-        print(f"  â" Saved schedule.json")
+        print("  - Saved schedule.json")
         
         return schedule_data
     
@@ -182,7 +182,7 @@ class WRCScraper:
             filename = f"event_{event_id}.json"
         
         self._save_json(event_data, filename)
-        print(f"  â" Saved {filename}")
+        print(f"  - Saved {filename}")
         
         return event_data
     
@@ -209,7 +209,7 @@ class WRCScraper:
         }
         
         self._save_json(standings_data, "championship.json")
-        print(f"  â" Saved championship.json")
+        print("  - Saved championship.json")
         
         return standings_data
     
@@ -236,7 +236,7 @@ class WRCScraper:
                     event_data = self.scrape_event(event_id, event.get("name"))
                     upcoming.append(event_data)
         
-        print(f"  â" Scraped {len(upcoming)} upcoming events")
+        print(f"  - Scraped {len(upcoming)} upcoming events")
         return upcoming
     
     def _save_json(self, data: dict, filename: str):
