@@ -1,178 +1,273 @@
 {
-  "sportKey": "fia-wec",
-  "season": "2026",
+  "scraped_at": "2026-08-11T13:04:55.328694",
+  "season": 2026,
+  "championship": "FIA World Endurance Championship",
   "events": [
     {
-      "id": "wec-2026-prologue-imola-placeholder",
-      "weekend": "Official Prologue - Imola",
-      "name": "Schedule coming soon",
-      "utc": "2026-04-14T08:00:00Z"
-    },
-
-    {
-      "id": "wec-2026-imola-fp1",
-      "weekend": "6 Hours of Imola",
-      "name": "Free Practice 1",
-      "utc": "2026-04-17T10:15:00Z"
-    },
-    {
-      "id": "wec-2026-imola-fp2",
-      "weekend": "6 Hours of Imola",
-      "name": "Free Practice 2",
-      "utc": "2026-04-17T15:15:00Z"
-    },
-    {
-      "id": "wec-2026-imola-fp3",
-      "weekend": "6 Hours of Imola",
-      "name": "Free Practice 3",
-      "utc": "2026-04-18T10:30:00Z"
-    },
-    {
-      "id": "wec-2026-imola-quali",
-      "weekend": "6 Hours of Imola",
-      "name": "Qualifying",
-      "utc": "2026-04-18T14:30:00Z"
+      "round": 1,
+      "name": "Qatar 1812 KM",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "date": "2026-03-28",
+      "sessions": [
+        {
+          "type": "Practice 1",
+          "date": "2026-03-27",
+          "time": "11:00:00"
+        },
+        {
+          "type": "Practice 2",
+          "date": "2026-03-27",
+          "time": "15:00:00"
+        },
+        {
+          "type": "Qualifying",
+          "date": "2026-03-27",
+          "time": "19:00:00"
+        },
+        {
+          "type": "Race",
+          "date": "2026-03-28",
+          "time": "14:00:00"
+        }
+      ]
     },
     {
-      "id": "wec-2026-imola-race",
-      "weekend": "6 Hours of Imola",
-      "name": "Race",
-      "utc": "2026-04-19T13:00:00Z"
-    },
-
-    {
-      "id": "wec-2026-spa-fp1",
-      "weekend": "TotalEnergies 6 Hours of Spa-Francorchamps",
-      "name": "Free Practice 1",
-      "utc": "2026-05-07T11:00:00Z"
-    },
-    {
-      "id": "wec-2026-spa-fp2",
-      "weekend": "TotalEnergies 6 Hours of Spa-Francorchamps",
-      "name": "Free Practice 2",
-      "utc": "2026-05-07T15:40:00Z"
-    },
-    {
-      "id": "wec-2026-spa-fp3",
-      "weekend": "TotalEnergies 6 Hours of Spa-Francorchamps",
-      "name": "Free Practice 3",
-      "utc": "2026-05-08T10:10:00Z"
-    },
-    {
-      "id": "wec-2026-spa-quali",
-      "weekend": "TotalEnergies 6 Hours of Spa-Francorchamps",
-      "name": "Qualifying",
-      "utc": "2026-05-08T14:30:00Z"
+      "round": 2,
+      "name": "6 Hours of Imola",
+      "circuit": "Autodromo Enzo e Dino Ferrari",
+      "country": "Italy",
+      "date": "2026-04-19",
+      "sessions": [
+        {
+          "type": "Practice 1",
+          "date": "2026-04-18",
+          "time": "09:00:00"
+        },
+        {
+          "type": "Practice 2",
+          "date": "2026-04-18",
+          "time": "13:00:00"
+        },
+        {
+          "type": "Qualifying",
+          "date": "2026-04-18",
+          "time": "17:00:00"
+        },
+        {
+          "type": "Race",
+          "date": "2026-04-19",
+          "time": "13:00:00"
+        }
+      ]
     },
     {
-      "id": "wec-2026-spa-race",
-      "weekend": "TotalEnergies 6 Hours of Spa-Francorchamps",
-      "name": "Race",
-      "utc": "2026-05-09T14:00:00Z"
-    },
-
-    {
-      "id": "wec-2026-lemans-fp1",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Free Practice 1",
-      "utc": "2026-06-10T14:00:00Z"
-    },
-    {
-      "id": "wec-2026-lemans-quali-lmp2-lmgt3",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Qualifying - LMP2 & LMGT3",
-      "utc": "2026-06-10T18:45:00Z"
-    },
-    {
-      "id": "wec-2026-lemans-quali-hypercar",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Qualifying - HYPERCAR",
-      "utc": "2026-06-10T19:30:00Z"
-    },
-    {
-      "id": "wec-2026-lemans-fp2",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Free Practice 2",
-      "utc": "2026-06-10T22:00:00Z"
+      "round": 3,
+      "name": "TotalEnergies 6 Hours of Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "country": "Belgium",
+      "date": "2026-05-09",
+      "sessions": [
+        {
+          "type": "Practice 1",
+          "date": "2026-05-08",
+          "time": "09:00:00"
+        },
+        {
+          "type": "Practice 2",
+          "date": "2026-05-08",
+          "time": "13:00:00"
+        },
+        {
+          "type": "Qualifying",
+          "date": "2026-05-08",
+          "time": "17:00:00"
+        },
+        {
+          "type": "Race",
+          "date": "2026-05-09",
+          "time": "13:00:00"
+        }
+      ]
     },
     {
-      "id": "wec-2026-lemans-fp3",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Free Practice 3",
-      "utc": "2026-06-11T14:45:00Z"
+      "round": 4,
+      "name": "24 Hours of Le Mans",
+      "circuit": "Circuit de la Sarthe",
+      "country": "France",
+      "date": "2026-06-13",
+      "sessions": [
+        {
+          "type": "Practice 1",
+          "date": "2026-06-10",
+          "time": "10:00:00"
+        },
+        {
+          "type": "Practice 2",
+          "date": "2026-06-10",
+          "time": "14:00:00"
+        },
+        {
+          "type": "Practice 3",
+          "date": "2026-06-11",
+          "time": "10:00:00"
+        },
+        {
+          "type": "Hyperpole",
+          "date": "2026-06-11",
+          "time": "16:00:00"
+        },
+        {
+          "type": "Race",
+          "date": "2026-06-13",
+          "time": "15:00:00"
+        }
+      ]
     },
     {
-      "id": "wec-2026-lemans-hyperpole1-lmp2-lmgt3",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Hyperpole 1 - LMP2 & LMGT3",
-      "utc": "2026-06-11T20:00:00Z"
+      "round": 5,
+      "name": "Rolex 6 Hours of Sao Paulo",
+      "circuit": "Autodromo Jose Carlos Pace",
+      "country": "Brazil",
+      "date": "2026-07-12",
+      "sessions": [
+        {
+          "type": "Practice 1",
+          "date": "2026-07-11",
+          "time": "08:00:00"
+        },
+        {
+          "type": "Practice 2",
+          "date": "2026-07-11",
+          "time": "12:00:00"
+        },
+        {
+          "type": "Qualifying",
+          "date": "2026-07-11",
+          "time": "16:00:00"
+        },
+        {
+          "type": "Race",
+          "date": "2026-07-12",
+          "time": "12:00:00"
+        }
+      ]
     },
     {
-      "id": "wec-2026-lemans-hyperpole2-lmp2-lmgt3",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Hyperpole 2 - LMP2 & LMGT3",
-      "utc": "2026-06-11T20:35:00Z"
+      "round": 6,
+      "name": "Lone Star Le Mans",
+      "circuit": "Circuit of the Americas",
+      "country": "USA",
+      "date": "2026-09-06",
+      "sessions": [
+        {
+          "type": "Practice 1",
+          "date": "2026-09-05",
+          "time": "10:00:00"
+        },
+        {
+          "type": "Practice 2",
+          "date": "2026-09-05",
+          "time": "14:00:00"
+        },
+        {
+          "type": "Qualifying",
+          "date": "2026-09-05",
+          "time": "18:00:00"
+        },
+        {
+          "type": "Race",
+          "date": "2026-09-06",
+          "time": "13:00:00"
+        }
+      ]
     },
     {
-      "id": "wec-2026-lemans-hyperpole1-hypercar",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Hyperpole 1 - HYPERCAR",
-      "utc": "2026-06-11T21:05:00Z"
+      "round": 7,
+      "name": "6 Hours of Fuji",
+      "circuit": "Fuji Speedway",
+      "country": "Japan",
+      "date": "2026-09-27",
+      "sessions": [
+        {
+          "type": "Practice 1",
+          "date": "2026-09-26",
+          "time": "02:00:00"
+        },
+        {
+          "type": "Practice 2",
+          "date": "2026-09-26",
+          "time": "06:00:00"
+        },
+        {
+          "type": "Qualifying",
+          "date": "2026-09-26",
+          "time": "10:00:00"
+        },
+        {
+          "type": "Race",
+          "date": "2026-09-27",
+          "time": "05:00:00"
+        }
+      ]
     },
     {
-      "id": "wec-2026-lemans-hyperpole2-hypercar",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Hyperpole 2 - HYPERCAR",
-      "utc": "2026-06-11T21:40:00Z"
+      "round": 8,
+      "name": "6 Hours of Barcelona",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "date": "2026-10-18",
+      "sessions": [
+        {
+          "type": "Practice 1",
+          "date": "2026-10-17",
+          "time": "09:00:00"
+        },
+        {
+          "type": "Practice 2",
+          "date": "2026-10-17",
+          "time": "13:00:00"
+        },
+        {
+          "type": "Qualifying",
+          "date": "2026-10-17",
+          "time": "17:00:00"
+        },
+        {
+          "type": "Race",
+          "date": "2026-10-18",
+          "time": "13:00:00"
+        }
+      ]
     },
     {
-      "id": "wec-2026-lemans-fp4",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Free Practice 4",
-      "utc": "2026-06-11T23:00:00Z"
-    },
-    {
-      "id": "wec-2026-lemans-warmup",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Warm-up",
-      "utc": "2026-06-13T12:00:00Z"
-    },
-    {
-      "id": "wec-2026-lemans-race",
-      "weekend": "24 Hours of Le Mans",
-      "name": "Race",
-      "utc": "2026-06-13T16:00:00Z"
-    },
-
-    {
-      "id": "wec-2026-saopaulo-placeholder",
-      "weekend": "Rolex 6 Hours of São Paulo",
-      "name": "Schedule coming soon",
-      "utc": "2026-07-10T08:00:00Z"
-    },
-    {
-      "id": "wec-2026-cota-placeholder",
-      "weekend": "Lone Star Le Mans",
-      "name": "Schedule coming soon",
-      "utc": "2026-09-04T08:00:00Z"
-    },
-    {
-      "id": "wec-2026-fuji-placeholder",
-      "weekend": "6 Hours of Fuji",
-      "name": "Schedule coming soon",
-      "utc": "2026-09-25T08:00:00Z"
-    },
-    {
-      "id": "wec-2026-qatar-placeholder",
-      "weekend": "Qatar 1812km",
-      "name": "Schedule coming soon",
-      "utc": "2026-10-22T08:00:00Z"
-    },
-    {
-      "id": "wec-2026-bahrain-placeholder",
-      "weekend": "Bapco Energies 8 Hours of Bahrain",
-      "name": "Schedule coming soon",
-      "utc": "2026-11-05T08:00:00Z"
+      "round": 9,
+      "name": "6 Hours of Monza",
+      "circuit": "Autodromo Nazionale Monza",
+      "country": "Italy",
+      "date": "2026-11-08",
+      "sessions": [
+        {
+          "type": "Practice 1",
+          "date": "2026-11-07",
+          "time": "09:00:00"
+        },
+        {
+          "type": "Practice 2",
+          "date": "2026-11-07",
+          "time": "13:00:00"
+        },
+        {
+          "type": "Qualifying",
+          "date": "2026-11-07",
+          "time": "17:00:00"
+        },
+        {
+          "type": "Race",
+          "date": "2026-11-08",
+          "time": "13:00:00"
+        }
+      ]
     }
   ]
 }
