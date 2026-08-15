@@ -18,9 +18,7 @@ OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "../motorsport/nascar/cup/
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Origin": "https://www.nascar.com",
-    "Referer": "https://www.nascar.com/schedule/"
+    "Accept-Language": "en-US,en;q=0.9"
 }
 
 def slugify(text: str) -> str:
@@ -45,7 +43,7 @@ def parse_iso_utc(date_str: str, default_tz: str = "America/New_York") -> str:
         return None
 
 def normalize_session_key(raw_name: str) -> tuple[str, str]:
-    """Categorizes session type into standard keys."""
+    """Standardizes session names across practice, qualifying, and race."""
     name_lower = raw_name.lower().strip()
     if "practice 1" in name_lower or "first practice" in name_lower:
         return "practice_1", "Practice 1"
@@ -63,111 +61,67 @@ def normalize_session_key(raw_name: str) -> tuple[str, str]:
         key = slugify(raw_name).replace("-", "_")
         return key, raw_name
 
-def fetch_from_nascar_api(season_year: int) -> list:
-    """Tries official NASCAR CDN endpoints."""
-    urls = [
-        f"https://cf.nascar.com/c/nascar-api/season/{season_year}/series/1/schedule.json",
-        f"https://cf.nascar.com/c/nascar-api/season/schedule.json"
-    ]
-    for url in urls:
-        try:
-            print(f"Trying NASCAR endpoint: {url}")
-            res = requests.get(url, headers=HEADERS, timeout=12)
-            if res.status_code == 200 and res.content:
-                data = res.json()
-                races = data.get("response", data) if isinstance(data, dict) else data
-                if isinstance(races, list) and len(races) > 0:
-                    events = []
-                    round_num = 1
-                    for item in races:
-                        if item.get("series_id") and item.get("series_id") != 1:
-                            continue
-                        name = item.get("race_name") or item.get("event_name", f"NASCAR Cup Race {round_num}")
-                        circuit = item.get("track_name", "Unknown Track")
-                        sessions = {}
-
-                        for s in item.get("weekend_schedule") or item.get("schedule") or []:
-                            s_name = s.get("session_name") or s.get("description", "")
-                            s_start = s.get("start_time_utc") or s.get("start_time")
-                            s_end = s.get("end_time_utc") or s.get("end_time")
-                            if s_start:
-                                k, display = normalize_session_key(s_name)
-                                sessions[k] = {
-                                    "name": display,
-                                    "start": parse_iso_utc(s_start),
-                                    "end": parse_iso_utc(s_end) if s_end else None,
-                                    "status": s.get("status", "scheduled").lower()
-                                }
-
-                        if "race" not in sessions and (item.get("race_date") or item.get("start_time")):
-                            sessions["race"] = {
-                                "name": name,
-                                "start": parse_iso_utc(item.get("race_date") or item.get("start_time")),
-                                "end": None,
-                                "status": item.get("race_status", "scheduled").lower()
-                            }
-
-                        events.append({
-                            "id": f"{season_year}-{slugify(name)}",
-                            "round": round_num,
-                            "name": name,
-                            "circuit": {
-                                "name": circuit,
-                                "city": item.get("city", ""),
-                                "state": item.get("state", ""),
-                                "country": item.get("country", "USA")
-                            },
-                            "sessions": sessions
-                        })
-                        round_num += 1
-                    if events:
-                        return events
-        except Exception as e:
-            print(f"Error on {url}: {e}")
-    return []
-
-def fetch_from_espn_api(season_year: int) -> list:
-    """Fetches complete full-season schedule from ESPN."""
-    url = f"https://site.api.espn.com/apis/site/v2/sports/racing/nascar-premier/scoreboard?limit=100&dates={season_year}"
-    print(f"Fetching from ESPN API: {url}")
+def fetch_espn_season_schedule(season_year: int = 2026) -> list:
+    """
+    Fetches the entire season calendar across all racing events from ESPN.
+    """
+    url = f"https://site.api.espn.com/apis/site/v2/sports/racing/nascar-premier/scoreboard?limit=1000&dates={season_year}"
+    print(f"Requesting ESPN NASCAR Cup schedule: {url}")
+    
+    events_list = []
     try:
-        res = requests.get(url, headers=HEADERS, timeout=12)
+        res = requests.get(url, headers=HEADERS, timeout=15)
         if res.status_code != 200:
-            return []
+            # Try alternate sport slug if nascar-premier didn't return 200
+            alt_url = f"https://site.api.espn.com/apis/site/v2/sports/racing/nascar-cup/scoreboard?limit=1000&dates={season_year}"
+            res = requests.get(alt_url, headers=HEADERS, timeout=15)
+            
         data = res.json()
         raw_events = data.get("events", [])
-        events = []
+        print(f"Found {len(raw_events)} raw events from ESPN")
+
         round_num = 1
         for ev in raw_events:
             name = ev.get("name") or ev.get("shortName", f"NASCAR Cup Race {round_num}")
-            venue = ev.get("competitions", [{}])[0].get("venue", {}) if ev.get("competitions") else {}
-            circuit_name = venue.get("fullName", "Unknown Track")
+            
+            competitions = ev.get("competitions", [])
+            venue = competitions[0].get("venue", {}) if competitions else {}
+            circuit_name = venue.get("fullName") or ev.get("circuit", {}).get("name", "Unknown Track")
             city = venue.get("address", {}).get("city", "")
             state = venue.get("address", {}).get("state", "")
+            country = venue.get("address", {}).get("country", "USA")
 
             sessions = {}
-            for comp in ev.get("competitions", []):
-                c_type = comp.get("type", {}).get("text", "")
-                c_date = comp.get("date")
-                status = "completed" if "final" in comp.get("status", {}).get("type", {}).get("name", "").lower() else "scheduled"
-                if c_date:
-                    k, display = normalize_session_key(c_type or name)
-                    sessions[k] = {
-                        "name": display,
-                        "start": parse_iso_utc(c_date),
-                        "end": None,
-                        "status": status
-                    }
 
+            # Parse sub-sessions (Practices, Qualifying, Main Race)
+            for comp in competitions:
+                comp_type = comp.get("type", {}).get("text", "")
+                comp_date = comp.get("date")
+                status = comp.get("status", {}).get("type", {}).get("name", "STATUS_SCHEDULED").lower()
+                status_clean = "completed" if "final" in status else "scheduled"
+
+                if not comp_date:
+                    continue
+
+                session_key, display_name = normalize_session_key(comp_type or name)
+                sessions[session_key] = {
+                    "name": display_name,
+                    "start": parse_iso_utc(comp_date),
+                    "end": None,
+                    "status": status_clean
+                }
+
+            # Top-level fallback for main race
             if "race" not in sessions and ev.get("date"):
+                race_status = "completed" if "final" in ev.get("status", {}).get("type", {}).get("name", "").lower() else "scheduled"
                 sessions["race"] = {
                     "name": name,
                     "start": parse_iso_utc(ev.get("date")),
                     "end": None,
-                    "status": "completed" if "final" in ev.get("status", {}).get("type", {}).get("name", "").lower() else "scheduled"
+                    "status": race_status
                 }
 
-            events.append({
+            events_list.append({
                 "id": f"{season_year}-{slugify(name)}",
                 "round": round_num,
                 "name": name,
@@ -175,22 +129,20 @@ def fetch_from_espn_api(season_year: int) -> list:
                     "name": circuit_name,
                     "city": city,
                     "state": state,
-                    "country": "USA"
+                    "country": country
                 },
                 "sessions": sessions
             })
             round_num += 1
-        return events
+
     except Exception as e:
-        print(f"Error on ESPN fetch: {e}")
-        return []
+        print(f"Failed to parse ESPN feed: {e}")
+
+    return events_list
 
 def main():
     season_year = 2026
-    events = fetch_from_nascar_api(season_year)
-    if not events:
-        print("NASCAR direct API returned no events. Falling back to ESPN...")
-        events = fetch_from_espn_api(season_year)
+    events = fetch_espn_season_schedule(season_year)
 
     payload = {
         "sport": "nascar-cup",
@@ -204,7 +156,7 @@ def main():
     with open(target_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
 
-    print(f"Successfully written {len(events)} events to {target_path}")
+    print(f"Wrote {len(events)} events to {target_path}")
 
 if __name__ == "__main__":
     main()
