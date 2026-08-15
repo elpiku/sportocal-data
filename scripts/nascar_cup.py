@@ -1,206 +1,230 @@
+#!/usr/bin/env python3
 """
-NASCAR Cup Series Schedule Scraper
-Scrapes complete weekend schedules (Practice, Qualifying, Race) from motorsport.com
-and writes to motorsport/nascar/cup/2026.json matching the Sportocal F1 format.
+NASCAR Cup Series schedule scraper for the sportocal-data repo.
+
+Two sources, two different jobs:
+  - ESPN's public Core API (sports.core.api.espn.com) is the source of
+    truth for *when* each event happens. It lists every event for the
+    season with an exact UTC timestamp per event. Unlike F1, it does not
+    expose separate practice/qualifying/race sessions for NASCAR Cup - each
+    ESPN "event" is effectively a single session, so unlike scrape_f1.py
+    there's no per-session fan-out here, just one output event per ESPN
+    event.
+  - Jayski's schedule page (jayski.com) is scraped only to enrich *what
+    to call* each event: ESPN's own event names are sometimes generic
+    (e.g. "NASCAR Cup Series at Atlanta") where Jayski has the actual
+    sponsor race name (e.g. "Autotrader 400"). Jayski's dates (just
+    "Sun., Feb 22", no time) are matched against each ESPN event's
+    Eastern-time calendar date to borrow its title; if nothing matches,
+    the ESPN name is kept as-is.
+
+Two other sources were considered and dropped:
+  - motorsport.com/nascar-cup/schedule/2026 renders its whole schedule
+    table client-side via JS after page load - the server-rendered HTML
+    contains no event data (just column headers), so there's nothing to
+    scrape without a headless browser.
+  - nascar.com/nascar-cup-series/2026/schedule is the same story (its
+    schedule widget literally ships a "Loading race information..."
+    placeholder in the server HTML).
+  If either of those starts server-rendering actual data, they'd be a
+  good replacement for the Jayski enrichment step above.
+
+Run this from the repo root: python scripts/nascar_cup.py
 """
 
-import json
 import re
-import os
 import sys
 from datetime import datetime, timezone
-import requests
+from pathlib import Path
+from zoneinfo import ZoneInfo
+
 from bs4 import BeautifulSoup
-from dateutil import parser as dt_parser
-import pytz
+import requests
 
-OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "../motorsport/nascar/cup/2026.json")
-SOURCE_URL = "https://www.motorsport.com/nascar-cup/schedule/2026/"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import HEADERS, fetch, slugify, make_unique_id_assigner, write_output  # noqa: E402
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Referer": "https://www.motorsport.com/"
+SEASON_YEAR = 2026  # bump each year
+OUTPUT_PATH = Path(__file__).resolve().parent.parent / "motorsport" / "nascar" / "cup" / f"{SEASON_YEAR}.json"
+
+CORE_API_URL = (
+    f"https://sports.core.api.espn.com/v2/sports/racing/leagues/nascar-premier/"
+    f"seasons/{SEASON_YEAR}/types/2/events?limit=100"
+)
+JAYSKI_SCHEDULE_URL = f"https://www.jayski.com/nascar-cup-series/{SEASON_YEAR}-nascar-cup-series-schedule/"
+
+ET_TZ = ZoneInfo("America/New_York")
+UTC = ZoneInfo("UTC")
+
+MONTH_MAP = {
+    "Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6,
+    "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12,
 }
+JAYSKI_DATE_RE = re.compile(r"([A-Za-z]{3,9})\.?,?\s+(\d{1,2})")
 
-def slugify(text: str) -> str:
-    """Transforms race/track names into URL-friendly identifiers."""
-    if not text:
-        return "event"
-    text = text.lower().strip()
-    text = re.sub(r"[^\w\s-]", "", text)
-    return re.sub(r"[\s_-]+", "-", text)
+# ESPN's event "name"/"shortName" text -> this repo's session-naming
+# convention (id slug, repo display name). Same idea as scrape_f1.py's
+# SESSION_NAME_MAP, just matched against ESPN's vocabulary instead of
+# Sky Sports'. Cup weekends are effectively single-session in ESPN's
+# feed, so this is applied to the whole event name rather than a
+# per-competition type.
+NAME_PATTERNS = [
+    (("practice 1", "first practice"), ("fp1", "Practice 1")),
+    (("practice 2", "final practice"), ("fp2", "Practice 2")),
+    (("practice",), ("fp1", "Practice")),
+    (("qualifying", "pole", "time trials"), ("qualifying", "Qualifying")),
+    (("duel", "heat"), ("duels", None)),  # None -> keep ESPN's own label
+    (("race", "400", "500"), ("race", "Race")),
+]
 
-def parse_iso_utc(date_str: str) -> str:
-    """Converts string dates to UTC ISO-8601 strings."""
+
+def match_name_pattern(text: str) -> tuple[str, str] | None:
+    """Returns (id slug, repo display name) if `text` matches a known
+    session keyword, else None."""
+    n = text.lower().strip()
+    for keywords, (id_slug, display_name) in NAME_PATTERNS:
+        if any(k in n for k in keywords):
+            return id_slug, display_name or text
+    return None
+
+
+def classify_session(espn_name: str, weekend_name: str) -> tuple[str, str]:
+    """(id slug, repo display name) for one event. Tries ESPN's own event
+    name first - this is what preserves distinct labels like "Duel #1" vs
+    "Duel #2", which the (identical, per-duel) Jayski title can't. Falls
+    back to the enriched Jayski weekend title, since ESPN's raw names are
+    often too generic to contain a "400"/"500"/etc. keyword (e.g.
+    "NASCAR Cup Series at Atlanta" vs Jayski's "Autotrader 400")."""
+    return (
+        match_name_pattern(espn_name)
+        or match_name_pattern(weekend_name)
+        or (slugify(weekend_name), weekend_name)
+    )
+
+
+def to_utc_iso(date_str: str) -> str | None:
+    """Normalizes an ESPN date string to this repo's 'YYYY-MM-DDTHH:MM:SSZ' form."""
     if not date_str:
         return None
+    d = date_str.strip()
+    if d.endswith("Z"):
+        d = d[:-1] + "+00:00"
     try:
-        dt = dt_parser.parse(str(date_str))
-        if dt.tzinfo is None:
-            local_tz = pytz.timezone("America/New_York")
-            dt = local_tz.localize(dt)
-        return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    except Exception:
+        dt = datetime.fromisoformat(d)
+    except ValueError:
         return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=UTC)
+    return dt.astimezone(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-def normalize_session_key(raw_name: str) -> tuple[str, str]:
-    """Standardizes session names to match F1 conventions (fp1, fp2, qualifying, race)."""
-    n = raw_name.lower().strip()
-    if "practice 1" in n or "first practice" in n:
-        return "fp1", "Practice 1"
-    elif "practice 2" in n or "final practice" in n:
-        return "fp2", "Practice 2"
-    elif "practice" in n:
-        return "fp1", "Practice"
-    elif "qualifying" in n or "pole" in n or "time trials" in n:
-        return "qualifying", "Qualifying"
-    elif "duel" in n or "heat" in n:
-        return "duels", raw_name
-    elif "race" in n or "400" in n or "500" in n:
-        return "race", "Race"
-    return slugify(raw_name).replace("-", "_"), raw_name
 
-def parse_json_ld(soup: BeautifulSoup, season_year: int) -> list:
-    """Extracts structured SportsEvent JSON-LD data from motorsport.com."""
+def et_month_day(utc_iso: str) -> tuple[int, int]:
+    """The (month, day) an ISO UTC timestamp falls on in US Eastern time -
+    used to match an ESPN event to its Jayski schedule row, since NASCAR
+    dates/times are always communicated in ET and a late-night UTC
+    timestamp can land on the *next* calendar day."""
+    dt = datetime.strptime(utc_iso, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=UTC)
+    local = dt.astimezone(ET_TZ)
+    return local.month, local.day
+
+
+def fetch_espn_events() -> list[dict]:
+    """Pulls every NASCAR Cup event for the season from ESPN's Core API.
+    Each item is {"name": <espn event name>, "utc": <iso utc timestamp>}."""
+    res = requests.get(CORE_API_URL, headers=HEADERS, timeout=15)
+    res.raise_for_status()
+    items = res.json().get("items", [])
+
     events = []
-    scripts = soup.find_all("script", type="application/ld+json")
-    
-    round_idx = 1
-    for s in scripts:
-        if not s.string:
+    for item in items:
+        event_url = item.get("$ref") if isinstance(item, dict) else item
+        if not event_url:
             continue
         try:
-            data = json.loads(s.string)
-            items = data if isinstance(data, list) else [data]
-            
-            for item in items:
-                # Target SportsEvent or Event types
-                if item.get("@type") in ["SportsEvent", "Event"]:
-                    name = item.get("name", f"NASCAR Cup Race {round_idx}")
-                    location = item.get("location", {})
-                    circuit_name = location.get("name", "Unknown Circuit")
-                    address = location.get("address", {})
-                    
-                    city = address.get("addressLocality", "") if isinstance(address, dict) else ""
-                    country = address.get("addressCountry", "USA") if isinstance(address, dict) else "USA"
-                    
-                    sessions = {}
-                    # Check sub-events for Practice / Qualifying
-                    sub_events = item.get("subEvent", [])
-                    if isinstance(sub_events, dict):
-                        sub_events = [sub_events]
-                        
-                    for sub in sub_events:
-                        sub_name = sub.get("name", "")
-                        sub_date = sub.get("startDate")
-                        if sub_date:
-                            s_key, display_name = normalize_session_key(sub_name)
-                            sessions[s_key] = {
-                                "name": display_name,
-                                "start": parse_iso_utc(sub_date),
-                                "status": "scheduled"
-                            }
-                            
-                    # Main race start
-                    main_start = item.get("startDate")
-                    if "race" not in sessions and main_start:
-                        sessions["race"] = {
-                            "name": name,
-                            "start": parse_iso_utc(main_start),
-                            "status": "scheduled"
-                        }
-
-                    events.append({
-                        "id": f"{season_year}-{slugify(name)}",
-                        "round": round_idx,
-                        "name": name,
-                        "circuit": {
-                            "name": circuit_name,
-                            "city": city,
-                            "country": country
-                        },
-                        "sessions": sessions
-                    })
-                    round_idx += 1
-        except Exception:
+            ev_res = requests.get(event_url, headers=HEADERS, timeout=10)
+            if ev_res.status_code != 200:
+                continue
+            ev = ev_res.json()
+        except requests.RequestException:
             continue
+
+        utc_iso = to_utc_iso(ev.get("date"))
+        if not utc_iso:
+            continue
+        name = ev.get("name") or ev.get("shortName") or "NASCAR Cup Race"
+        events.append({"name": name, "utc": utc_iso})
 
     return events
 
-def parse_html_table(soup: BeautifulSoup, season_year: int) -> list:
-    """Fallback HTML table parser for motorsport.com schedule page."""
+
+def fetch_jayski_titles() -> dict[tuple[int, int], str]:
+    """Scrapes Jayski's schedule table -> {(month, day): official race title}.
+    Skips off weeks (no linked race name) and non-date rows."""
+    html = fetch(JAYSKI_SCHEDULE_URL)
+    soup = BeautifulSoup(html, "html.parser")
+
+    titles = {}
+    for row in soup.find_all("tr"):
+        cells = row.find_all("td")
+        if len(cells) < 3:
+            continue
+
+        date_match = JAYSKI_DATE_RE.search(cells[1].get_text(" ", strip=True))
+        if not date_match:
+            continue
+        mon_text, day_text = date_match.groups()
+        month = MONTH_MAP.get(mon_text[:3].title())
+        if not month:
+            continue
+
+        title = cells[2].get_text(strip=True)
+        if not title or "OFF WEEK" in row.get_text(" ", strip=True).upper():
+            continue
+
+        titles[(month, int(day_text))] = title
+
+    return titles
+
+
+def build_events(espn_events: list[dict], jayski_titles: dict) -> list[dict]:
+    assign_id = make_unique_id_assigner()
     events = []
-    rows = soup.select(".ms-schedule-table-item, .ms-schedule-table tbody tr, .ms-grid-row, tr[data-race-id]")
-    
-    round_idx = 1
-    for row in rows:
-        title_el = row.select_one(".ms-schedule-table-item__title, .title, .event-title a, a[title]")
-        if not title_el:
-            continue
-        race_name = title_el.get_text(strip=True)
-
-        circuit_el = row.select_one(".ms-schedule-table-item__track, .track, .circuit")
-        circuit_name = circuit_el.get_text(strip=True) if circuit_el else "Unknown Track"
-
-        date_el = row.select_one(".ms-schedule-table-item__date, .date, time")
-        date_val = date_el.get("datetime") or date_el.get_text(strip=True) if date_el else None
-
-        sessions = {}
-        if date_val:
-            sessions["race"] = {
-                "name": race_name,
-                "start": parse_iso_utc(date_val),
-                "status": "scheduled"
-            }
-
+    for ev in espn_events:
+        weekend_name = jayski_titles.get(et_month_day(ev["utc"]), ev["name"])
+        session_slug, display_name = classify_session(ev["name"], weekend_name)
+        base_id = f"cup-{SEASON_YEAR}-{slugify(weekend_name)}-{session_slug}"
         events.append({
-            "id": f"{season_year}-{slugify(race_name)}",
-            "round": round_idx,
-            "name": race_name,
-            "circuit": {
-                "name": circuit_name,
-                "city": "",
-                "country": "USA"
-            },
-            "sessions": sessions
+            "id": assign_id(base_id),
+            "weekend": weekend_name,
+            "name": display_name,
+            "utc": ev["utc"],
         })
-        round_idx += 1
-
+    events.sort(key=lambda e: e["utc"])
     return events
 
-def scrape_motorsport_schedule(season_year: int = 2026) -> dict:
-    print(f"Scraping schedule from: {SOURCE_URL}")
-    res = requests.get(SOURCE_URL, headers=HEADERS, timeout=20)
-    res.raise_for_status()
-    
-    soup = BeautifulSoup(res.text, "html.parser")
-    
-    # 1. Try structured JSON-LD (contains full session metadata)
-    events = parse_json_ld(soup, season_year)
-    
-    # 2. Fallback to HTML table structure if JSON-LD is absent
-    if not events:
-        print("Falling back to HTML table parsing...")
-        events = parse_html_table(soup, season_year)
-
-    return {
-        "sport": "nascar-cup",
-        "season": season_year,
-        "events": events
-    }
 
 def main():
-    season_year = 2026
-    data = scrape_motorsport_schedule(season_year)
+    print("Fetching NASCAR Cup event dates from ESPN...", file=sys.stderr)
+    espn_events = fetch_espn_events()
+    print(f"Got {len(espn_events)} events from ESPN", file=sys.stderr)
 
-    target_path = os.path.abspath(OUTPUT_PATH)
-    os.makedirs(os.path.dirname(target_path), exist_ok=True)
-    with open(target_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+    print("Fetching official race titles from Jayski...", file=sys.stderr)
+    try:
+        jayski_titles = fetch_jayski_titles()
+        print(f"Got {len(jayski_titles)} titled dates from Jayski", file=sys.stderr)
+    except requests.RequestException as err:
+        print(f"Jayski fetch failed ({err}), falling back to ESPN names only", file=sys.stderr)
+        jayski_titles = {}
 
-    print(f"Successfully scraped {len(data['events'])} events to {target_path}")
+    events = build_events(espn_events, jayski_titles)
+
+    output = {
+        "sportKey": "nascar-cup",
+        "season": str(SEASON_YEAR),
+        "events": events,
+    }
+    write_output(OUTPUT_PATH, output, min_events=5)
+
 
 if __name__ == "__main__":
     main()
