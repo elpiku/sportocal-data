@@ -1,5 +1,246 @@
 {
-  "sport": "nascar-cup",
-  "season": 2026,
-  "events": []
+  "sportKey": "nascar-cup",
+  "season": "2026",
+  "events": [
+    {
+      "id": "cup-2026-cook-out-clash-cook-out-clash",
+      "weekend": "Cook Out Clash",
+      "name": "Cook Out Clash",
+      "utc": "2026-02-04T23:00:00Z"
+    },
+    {
+      "id": "cup-2026-daytona-500-duels-duels",
+      "weekend": "Daytona 500 Duels",
+      "name": "Duel #1",
+      "utc": "2026-02-13T00:00:00Z"
+    },
+    {
+      "id": "cup-2026-daytona-500-duels-duels-2",
+      "weekend": "Daytona 500 Duels",
+      "name": "Duel #2",
+      "utc": "2026-02-13T01:45:00Z"
+    },
+    {
+      "id": "cup-2026-daytona-500-race",
+      "weekend": "DAYTONA 500",
+      "name": "Race",
+      "utc": "2026-02-15T18:30:00Z"
+    },
+    {
+      "id": "cup-2026-autotrader-400-race",
+      "weekend": "Autotrader 400",
+      "name": "Race",
+      "utc": "2026-02-22T20:00:00Z"
+    },
+    {
+      "id": "cup-2026-duramax-grand-prix-duramax-grand-prix",
+      "weekend": "DuraMAX Grand Prix",
+      "name": "DuraMAX Grand Prix",
+      "utc": "2026-03-01T20:30:00Z"
+    },
+    {
+      "id": "cup-2026-straight-talk-wireless-500-race",
+      "weekend": "Straight Talk Wireless 500",
+      "name": "Race",
+      "utc": "2026-03-08T19:30:00Z"
+    },
+    {
+      "id": "cup-2026-pennzoil-400-race",
+      "weekend": "Pennzoil 400",
+      "name": "Race",
+      "utc": "2026-03-15T20:00:00Z"
+    },
+    {
+      "id": "cup-2026-goodyear-400-race",
+      "weekend": "Goodyear 400",
+      "name": "Race",
+      "utc": "2026-03-22T19:00:00Z"
+    },
+    {
+      "id": "cup-2026-cook-out-400-race",
+      "weekend": "Cook Out 400",
+      "name": "Race",
+      "utc": "2026-03-29T19:30:00Z"
+    },
+    {
+      "id": "cup-2026-food-city-500-race",
+      "weekend": "Food City 500",
+      "name": "Race",
+      "utc": "2026-04-12T19:00:00Z"
+    },
+    {
+      "id": "cup-2026-adventhealth-400-race",
+      "weekend": "AdventHealth 400",
+      "name": "Race",
+      "utc": "2026-04-19T18:00:00Z"
+    },
+    {
+      "id": "cup-2026-jack-link-s-500-race",
+      "weekend": "Jack Link\u2019s 500",
+      "name": "Race",
+      "utc": "2026-04-26T19:00:00Z"
+    },
+    {
+      "id": "cup-2026-w-rth-400-race",
+      "weekend": "W\u00fcrth 400",
+      "name": "Race",
+      "utc": "2026-05-03T19:30:00Z"
+    },
+    {
+      "id": "cup-2026-go-bowling-at-the-glen-go-bowling-at-the-glen",
+      "weekend": "Go Bowling at the Glen",
+      "name": "Go Bowling at the Glen",
+      "utc": "2026-05-10T19:00:00Z"
+    },
+    {
+      "id": "cup-2026-all-star-race-race",
+      "weekend": "All-Star Race",
+      "name": "Race",
+      "utc": "2026-05-17T17:00:00Z"
+    },
+    {
+      "id": "cup-2026-coca-cola-600-coca-cola-600",
+      "weekend": "Coca-Cola 600",
+      "name": "Coca-Cola 600",
+      "utc": "2026-05-24T22:00:00Z"
+    },
+    {
+      "id": "cup-2026-cracker-barrel-400-race",
+      "weekend": "Cracker Barrel 400",
+      "name": "Race",
+      "utc": "2026-05-31T23:00:00Z"
+    },
+    {
+      "id": "cup-2026-firekeepers-casino-400-race",
+      "weekend": "FireKeepers Casino 400",
+      "name": "Race",
+      "utc": "2026-06-07T19:00:00Z"
+    },
+    {
+      "id": "cup-2026-great-american-getaway-400-race",
+      "weekend": "Great American Getaway 400",
+      "name": "Race",
+      "utc": "2026-06-14T17:00:00Z"
+    },
+    {
+      "id": "cup-2026-anduril-250-race-the-base-race",
+      "weekend": "Anduril 250 Race the Base",
+      "name": "Race",
+      "utc": "2026-06-21T20:00:00Z"
+    },
+    {
+      "id": "cup-2026-toyota-save-mart-350-toyota-save-mart-350",
+      "weekend": "Toyota / Save Mart 350",
+      "name": "Toyota / Save Mart 350",
+      "utc": "2026-06-28T19:30:00Z"
+    },
+    {
+      "id": "cup-2026-eero-400-race",
+      "weekend": "eero 400",
+      "name": "Race",
+      "utc": "2026-07-05T22:00:00Z"
+    },
+    {
+      "id": "cup-2026-quaker-state-400-race",
+      "weekend": "Quaker State 400",
+      "name": "Race",
+      "utc": "2026-07-12T23:00:00Z"
+    },
+    {
+      "id": "cup-2026-window-world-450-window-world-450",
+      "weekend": "Window World 450",
+      "name": "Window World 450",
+      "utc": "2026-07-19T23:00:00Z"
+    },
+    {
+      "id": "cup-2026-brickyard-400-race",
+      "weekend": "Brickyard 400",
+      "name": "Race",
+      "utc": "2026-07-26T18:00:00Z"
+    },
+    {
+      "id": "cup-2026-iowa-corn-350-iowa-corn-350",
+      "weekend": "Iowa Corn 350",
+      "name": "Iowa Corn 350",
+      "utc": "2026-08-09T19:30:00Z"
+    },
+    {
+      "id": "cup-2026-cook-out-400-race-2",
+      "weekend": "Cook Out 400",
+      "name": "Race",
+      "utc": "2026-08-15T23:00:00Z"
+    },
+    {
+      "id": "cup-2026-dollar-tree-301-dollar-tree-301",
+      "weekend": "Dollar Tree 301",
+      "name": "Dollar Tree 301",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "cup-2026-coke-zero-sugar-400-race",
+      "weekend": "Coke Zero Sugar 400",
+      "name": "Race",
+      "utc": "2026-08-29T23:30:00Z"
+    },
+    {
+      "id": "cup-2026-cook-out-southern-500-race",
+      "weekend": "Cook Out Southern 500",
+      "name": "Race",
+      "utc": "2026-09-06T21:00:00Z"
+    },
+    {
+      "id": "cup-2026-enjoy-illinois-300-race",
+      "weekend": "Enjoy Illinois 300",
+      "name": "Race",
+      "utc": "2026-09-13T19:00:00Z"
+    },
+    {
+      "id": "cup-2026-bass-pro-shops-night-race-race",
+      "weekend": "Bass Pro Shops Night Race",
+      "name": "Race",
+      "utc": "2026-09-19T23:30:00Z"
+    },
+    {
+      "id": "cup-2026-hollywood-casino-400-race",
+      "weekend": "Hollywood Casino 400",
+      "name": "Race",
+      "utc": "2026-09-27T19:00:00Z"
+    },
+    {
+      "id": "cup-2026-south-point-400-race",
+      "weekend": "South Point 400",
+      "name": "Race",
+      "utc": "2026-10-04T21:30:00Z"
+    },
+    {
+      "id": "cup-2026-bank-of-america-400-race",
+      "weekend": "Bank of America 400",
+      "name": "Race",
+      "utc": "2026-10-11T19:00:00Z"
+    },
+    {
+      "id": "cup-2026-freeway-insurance-500-race",
+      "weekend": "Freeway Insurance 500",
+      "name": "Race",
+      "utc": "2026-10-18T19:00:00Z"
+    },
+    {
+      "id": "cup-2026-yellawood-500-race",
+      "weekend": "YellaWood 500",
+      "name": "Race",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "cup-2026-xfinity-500-race",
+      "weekend": "Xfinity 500",
+      "name": "Race",
+      "utc": "2026-11-01T19:00:00Z"
+    },
+    {
+      "id": "cup-2026-nascar-cup-series-championship-nascar-cup-series-championship",
+      "weekend": "NASCAR Cup Series Championship",
+      "name": "NASCAR Cup Series Championship",
+      "utc": "2026-11-08T20:00:00Z"
+    }
+  ]
 }
