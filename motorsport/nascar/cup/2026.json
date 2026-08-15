@@ -1,6 +1,989 @@
 {
   "sport": "nascar-cup",
   "season": 2026,
-  "last_updated": "2026-08-15T19:25:24Z",
-  "events": []
+  "last_updated": "2026-08-15T19:31:58Z",
+  "events": [
+    {
+      "id": "2026-clash-at-bowman-gray",
+      "round": 1,
+      "name": "Clash at Bowman Gray",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "clash_at_bowman_gray": {
+          "name": "Clash at Bowman Gray",
+          "start": "2026-02-04T23:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "Clash at Bowman Gray",
+          "start": "2026-02-04T23:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-duel-1",
+      "round": 2,
+      "name": "Duel #1",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "duels": {
+          "name": "Duel #1",
+          "start": "2026-02-13T00:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "Duel #1",
+          "start": "2026-02-13T00:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-duel-2",
+      "round": 3,
+      "name": "Duel #2",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "duels": {
+          "name": "Duel #2",
+          "start": "2026-02-13T01:45:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "Duel #2",
+          "start": "2026-02-13T01:45:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-daytona-500",
+      "round": 4,
+      "name": "Daytona 500",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "race": {
+          "name": "Race",
+          "start": "2026-02-15T18:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-atlanta",
+      "round": 5,
+      "name": "NASCAR Cup Series at Atlanta",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_atlanta": {
+          "name": "NASCAR Cup Series at Atlanta",
+          "start": "2026-02-22T20:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Atlanta",
+          "start": "2026-02-22T20:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-circuit-of-the-americas",
+      "round": 6,
+      "name": "NASCAR Cup Series at Circuit of the Americas",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_circuit_of_the_americas": {
+          "name": "NASCAR Cup Series at Circuit of the Americas",
+          "start": "2026-03-01T20:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Circuit of the Americas",
+          "start": "2026-03-01T20:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-phoenix",
+      "round": 7,
+      "name": "NASCAR Cup Series at Phoenix",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_phoenix": {
+          "name": "NASCAR Cup Series at Phoenix",
+          "start": "2026-03-08T19:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Phoenix",
+          "start": "2026-03-08T19:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-las-vegas",
+      "round": 8,
+      "name": "NASCAR Cup Series at Las Vegas",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_las_vegas": {
+          "name": "NASCAR Cup Series at Las Vegas",
+          "start": "2026-03-15T20:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Las Vegas",
+          "start": "2026-03-15T20:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-darlington",
+      "round": 9,
+      "name": "NASCAR Cup Series at Darlington",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_darlington": {
+          "name": "NASCAR Cup Series at Darlington",
+          "start": "2026-03-22T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Darlington",
+          "start": "2026-03-22T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-martinsville",
+      "round": 10,
+      "name": "NASCAR Cup Series at Martinsville",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_martinsville": {
+          "name": "NASCAR Cup Series at Martinsville",
+          "start": "2026-03-29T19:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Martinsville",
+          "start": "2026-03-29T19:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-bristol",
+      "round": 11,
+      "name": "NASCAR Cup Series at Bristol",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_bristol": {
+          "name": "NASCAR Cup Series at Bristol",
+          "start": "2026-04-12T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Bristol",
+          "start": "2026-04-12T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-kansas",
+      "round": 12,
+      "name": "NASCAR Cup Series at Kansas",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_kansas": {
+          "name": "NASCAR Cup Series at Kansas",
+          "start": "2026-04-19T18:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Kansas",
+          "start": "2026-04-19T18:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-talladega",
+      "round": 13,
+      "name": "NASCAR Cup Series at Talladega",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_talladega": {
+          "name": "NASCAR Cup Series at Talladega",
+          "start": "2026-04-26T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Talladega",
+          "start": "2026-04-26T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-texas",
+      "round": 14,
+      "name": "NASCAR Cup Series at Texas",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_texas": {
+          "name": "NASCAR Cup Series at Texas",
+          "start": "2026-05-03T19:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Texas",
+          "start": "2026-05-03T19:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-watkins-glen",
+      "round": 15,
+      "name": "NASCAR Cup Series at Watkins Glen",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_watkins_glen": {
+          "name": "NASCAR Cup Series at Watkins Glen",
+          "start": "2026-05-10T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Watkins Glen",
+          "start": "2026-05-10T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-all-star-race",
+      "round": 16,
+      "name": "NASCAR Cup Series All Star Race",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "race": {
+          "name": "Race",
+          "start": "2026-05-17T17:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-charlotte",
+      "round": 17,
+      "name": "NASCAR Cup Series at Charlotte",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_charlotte": {
+          "name": "NASCAR Cup Series at Charlotte",
+          "start": "2026-05-24T22:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Charlotte",
+          "start": "2026-05-24T22:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-nashville",
+      "round": 18,
+      "name": "NASCAR Cup Series at Nashville",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_nashville": {
+          "name": "NASCAR Cup Series at Nashville",
+          "start": "2026-05-31T23:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Nashville",
+          "start": "2026-05-31T23:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-michigan",
+      "round": 19,
+      "name": "NASCAR Cup Series at Michigan",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_michigan": {
+          "name": "NASCAR Cup Series at Michigan",
+          "start": "2026-06-07T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Michigan",
+          "start": "2026-06-07T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-pocono",
+      "round": 20,
+      "name": "NASCAR Cup Series at Pocono",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_pocono": {
+          "name": "NASCAR Cup Series at Pocono",
+          "start": "2026-06-14T17:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Pocono",
+          "start": "2026-06-14T17:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-truck-series-at-san-diego",
+      "round": 21,
+      "name": "NASCAR Truck Series at San Diego",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_truck_series_at_san_diego": {
+          "name": "NASCAR Truck Series at San Diego",
+          "start": "2026-06-21T20:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Truck Series at San Diego",
+          "start": "2026-06-21T20:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-sonoma",
+      "round": 22,
+      "name": "NASCAR Cup Series at Sonoma",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_sonoma": {
+          "name": "NASCAR Cup Series at Sonoma",
+          "start": "2026-06-28T19:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Sonoma",
+          "start": "2026-06-28T19:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-chicago",
+      "round": 23,
+      "name": "NASCAR Cup Series at Chicago",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_chicago": {
+          "name": "NASCAR Cup Series at Chicago",
+          "start": "2026-07-05T22:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Chicago",
+          "start": "2026-07-05T22:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-atlanta",
+      "round": 24,
+      "name": "NASCAR Cup Series at Atlanta",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_atlanta": {
+          "name": "NASCAR Cup Series at Atlanta",
+          "start": "2026-07-12T23:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Atlanta",
+          "start": "2026-07-12T23:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-north-wilkesboro",
+      "round": 25,
+      "name": "NASCAR Cup Series at North Wilkesboro",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_north_wilkesboro": {
+          "name": "NASCAR Cup Series at North Wilkesboro",
+          "start": "2026-07-19T23:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at North Wilkesboro",
+          "start": "2026-07-19T23:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-indianapolis",
+      "round": 26,
+      "name": "NASCAR Cup Series at Indianapolis",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_indianapolis": {
+          "name": "NASCAR Cup Series at Indianapolis",
+          "start": "2026-07-26T18:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Indianapolis",
+          "start": "2026-07-26T18:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-iowa",
+      "round": 27,
+      "name": "NASCAR Cup Series at Iowa",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_iowa": {
+          "name": "NASCAR Cup Series at Iowa",
+          "start": "2026-08-09T19:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Iowa",
+          "start": "2026-08-09T19:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-richmond",
+      "round": 28,
+      "name": "NASCAR Cup Series at Richmond",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_richmond": {
+          "name": "NASCAR Cup Series at Richmond",
+          "start": "2026-08-15T23:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Richmond",
+          "start": "2026-08-15T23:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-new-hampshire",
+      "round": 29,
+      "name": "NASCAR Cup Series at New Hampshire",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_new_hampshire": {
+          "name": "NASCAR Cup Series at New Hampshire",
+          "start": "2026-08-23T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at New Hampshire",
+          "start": "2026-08-23T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-daytona",
+      "round": 30,
+      "name": "NASCAR Cup Series at Daytona",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_daytona": {
+          "name": "NASCAR Cup Series at Daytona",
+          "start": "2026-08-29T23:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Daytona",
+          "start": "2026-08-29T23:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-darlington",
+      "round": 31,
+      "name": "NASCAR Cup Series at Darlington",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_darlington": {
+          "name": "NASCAR Cup Series at Darlington",
+          "start": "2026-09-06T21:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Darlington",
+          "start": "2026-09-06T21:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-world-wide-technology-raceway",
+      "round": 32,
+      "name": "NASCAR Cup Series at World Wide Technology Raceway",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "race": {
+          "name": "Race",
+          "start": "2026-09-13T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-bristol",
+      "round": 33,
+      "name": "NASCAR Cup Series at Bristol",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_bristol": {
+          "name": "NASCAR Cup Series at Bristol",
+          "start": "2026-09-19T23:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Bristol",
+          "start": "2026-09-19T23:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-kansas",
+      "round": 34,
+      "name": "NASCAR Cup Series at Kansas",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_kansas": {
+          "name": "NASCAR Cup Series at Kansas",
+          "start": "2026-09-27T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Kansas",
+          "start": "2026-09-27T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-las-vegas",
+      "round": 35,
+      "name": "NASCAR Cup Series at Las Vegas",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_las_vegas": {
+          "name": "NASCAR Cup Series at Las Vegas",
+          "start": "2026-10-04T21:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Las Vegas",
+          "start": "2026-10-04T21:30:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-charlotte",
+      "round": 36,
+      "name": "NASCAR Cup Series at Charlotte",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_charlotte": {
+          "name": "NASCAR Cup Series at Charlotte",
+          "start": "2026-10-11T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Charlotte",
+          "start": "2026-10-11T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-phoenix",
+      "round": 37,
+      "name": "NASCAR Cup Series at Phoenix",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_phoenix": {
+          "name": "NASCAR Cup Series at Phoenix",
+          "start": "2026-10-18T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Phoenix",
+          "start": "2026-10-18T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-talladega",
+      "round": 38,
+      "name": "NASCAR Cup Series at Talladega",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_talladega": {
+          "name": "NASCAR Cup Series at Talladega",
+          "start": "2026-10-25T18:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Talladega",
+          "start": "2026-10-25T18:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-martinsville",
+      "round": 39,
+      "name": "NASCAR Cup Series at Martinsville",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_martinsville": {
+          "name": "NASCAR Cup Series at Martinsville",
+          "start": "2026-11-01T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Martinsville",
+          "start": "2026-11-01T19:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "id": "2026-nascar-cup-series-at-miami",
+      "round": 40,
+      "name": "NASCAR Cup Series at Miami",
+      "circuit": {
+        "name": "Unknown Track",
+        "city": "",
+        "state": "",
+        "country": "USA"
+      },
+      "sessions": {
+        "nascar_cup_series_at_miami": {
+          "name": "NASCAR Cup Series at Miami",
+          "start": "2026-11-08T20:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        },
+        "race": {
+          "name": "NASCAR Cup Series at Miami",
+          "start": "2026-11-08T20:00:00Z",
+          "end": null,
+          "status": "scheduled"
+        }
+      }
+    }
+  ]
 }
