@@ -1,194 +1,213 @@
-#!/usr/bin/env python3
 """
-NASCAR Cup Series schedule scraper for the sportocal-data repo -- ESPN edition.
-
-Source: ESPN's public "Core API" for racing/nascar-premier
-(sports.core.api.espn.com), which lists every event for the season and
-links out to per-event and per-competition detail pages (practice,
-qualifying, duels, race, ...). If that returns nothing (e.g. ESPN changes
-the endpoint shape), this falls back to ESPN's simpler public Scoreboard
-API, which is less detailed (usually just gives a single "race" session
-per event) but more resilient.
-
-Run this from the repo root: python scripts/nascar_cup.py
+NASCAR Cup Series Schedule Scraper
+Scrapes directly from https://www.nascar.com/nascar-cup-series/2026/schedule/
+Extracts weekend sessions (Practice, Qualifying, Duels, Race) and outputs
+the exact sportocal F1 JSON format.
 """
 
+import json
+import re
+import os
 import sys
 from datetime import datetime, timezone
-from pathlib import Path
-
 import requests
+from bs4 import BeautifulSoup
+from dateutil import parser as dt_parser
+import pytz
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import HEADERS, slugify, make_unique_id_assigner, write_output  # noqa: E402
+OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "../motorsport/nascar/cup/2026.json")
+SCHEDULE_PAGE_URL = "https://www.nascar.com/nascar-cup-series/2026/schedule/"
 
-SEASON_YEAR = 2026  # bump each year
-OUTPUT_PATH = Path(__file__).resolve().parent.parent / "motorsport" / "nascar" / "cup" / f"{SEASON_YEAR}.json"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.nascar.com/"
+}
 
-CORE_API_URL = (
-    f"https://sports.core.api.espn.com/v2/sports/racing/leagues/nascar-premier/"
-    f"seasons/{SEASON_YEAR}/types/2/events?limit=100"
-)
-SCOREBOARD_URL = (
-    f"https://site.api.espn.com/apis/site/v2/sports/racing/nascar-premier/"
-    f"scoreboard?limit=100&dates={SEASON_YEAR}"
-)
+def slugify(text: str) -> str:
+    """Transforms race/track names into URL-friendly identifiers."""
+    if not text:
+        return "event"
+    text = text.lower().strip()
+    text = re.sub(r"[^\w\s-]", "", text)
+    return re.sub(r"[\s_-]+", "-", text)
 
-# ESPN's competition "type.text" strings -> this repo's session-naming
-# convention (id slug, display name). Same idea as scrape_f1.py's
-# SESSION_NAME_MAP, just matched against ESPN's vocabulary instead of
-# Sky Sports'.
-SESSION_PATTERNS = [
-    (("practice 1", "first practice"), ("fp1", "Practice 1")),
-    (("practice 2", "final practice"), ("fp2", "Practice 2")),
-    (("practice",), ("fp1", "Practice")),
-    (("qualifying", "pole", "time trials"), ("qualifying", "Qualifying")),
-    (("duel", "heat"), ("duels", None)),  # None -> keep ESPN's own label
-    (("race", "400", "500"), ("race", "Race")),
-]
-
-
-def normalize_session(raw_name: str) -> tuple[str, str]:
-    """ESPN competition-type text -> (id slug, repo display name)."""
-    n = raw_name.lower().strip()
-    for keywords, (id_slug, display_name) in SESSION_PATTERNS:
-        if any(k in n for k in keywords):
-            return id_slug, display_name or raw_name
-    return slugify(raw_name), raw_name
-
-
-def to_utc_iso(date_str: str) -> str | None:
-    """Normalizes an ESPN date string to this repo's 'YYYY-MM-DDTHH:MM:SSZ' form."""
+def parse_iso_utc(date_str: str) -> str:
+    """Parses date string into UTC ISO-8601 string."""
     if not date_str:
         return None
-    d = date_str.strip()
-    if d.endswith("Z"):
-        d = d[:-1] + "+00:00"
     try:
-        dt = datetime.fromisoformat(d)
-    except ValueError:
+        dt = dt_parser.parse(str(date_str))
+        if dt.tzinfo is None:
+            local_tz = pytz.timezone("America/New_York")
+            dt = local_tz.localize(dt)
+        return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    except Exception:
         return None
-    if dt.tzinfo is None:
-        dt = dt.replace(tzinfo=timezone.utc)
-    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
+def normalize_session_type(raw_name: str) -> tuple[str, str]:
+    """Standardizes session naming to match F1 conventions (fp1, fp2, qualifying, race)."""
+    n = raw_name.lower().strip()
+    if "practice 1" in n or "first practice" in n:
+        return "fp1", "Practice 1"
+    elif "practice 2" in n or "final practice" in n:
+        return "fp2", "Practice 2"
+    elif "practice" in n:
+        return "fp1", "Practice"
+    elif "qualifying" in n or "pole" in n or "time trials" in n:
+        return "qualifying", "Qualifying"
+    elif "duel" in n or "heat" in n:
+        return "duels", raw_name
+    elif "race" in n or "500" in n or "400" in n:
+        return "race", "Race"
+    return slugify(raw_name).replace("-", "_"), raw_name
 
-def event_sessions(competitions: list, weekend_name: str, fallback_date: str):
-    """Yields (session_key, display_name, utc_iso) for one ESPN event,
-    resolving each competition's own detail page ($ref) for its date/type
-    where needed. Falls back to a single "race" session at the event's own
-    date if no competition yielded one (mirrors this script's original
-    behavior)."""
-    found_race = False
-    for comp in competitions:
-        comp_data = comp
-        comp_url = comp.get("$ref") if isinstance(comp, dict) else None
-        if comp_url:
-            try:
-                r = requests.get(comp_url, headers=HEADERS, timeout=10)
-                if r.status_code == 200:
-                    comp_data = r.json()
-            except requests.RequestException:
-                pass
-
-        c_type = comp_data.get("type", {}).get("text", "")
-        utc_iso = to_utc_iso(comp_data.get("date"))
-        if not utc_iso:
-            continue
-
-        session_key, display_name = normalize_session(c_type or weekend_name)
-        found_race = found_race or session_key == "race"
-        yield session_key, display_name, utc_iso
-
-    if not found_race:
-        fallback_utc = to_utc_iso(fallback_date)
-        if fallback_utc:
-            yield "race", "Race", fallback_utc
-
-
-def weekend_events(name: str, competitions: list, fallback_date: str) -> list:
-    """Flattens one NASCAR weekend into this repo's per-session event schema."""
-    assign_id = make_unique_id_assigner()
-    events = []
-    for session_key, display_name, utc_iso in event_sessions(competitions, name, fallback_date):
-        base_id = f"cup-{SEASON_YEAR}-{slugify(name)}-{session_key}"
-        events.append({
-            "id": assign_id(base_id),
-            "weekend": name,
-            "name": display_name,
-            "utc": utc_iso,
-        })
-    return events
-
-
-def parse_core_api() -> list:
-    res = requests.get(CORE_API_URL, headers=HEADERS, timeout=15)
-    res.raise_for_status()
-    items = res.json().get("items", [])
-
-    events = []
-    for item in items:
-        event_url = item.get("$ref") if isinstance(item, dict) else item
-        if not event_url:
-            continue
-        try:
-            ev_res = requests.get(event_url, headers=HEADERS, timeout=10)
-            if ev_res.status_code != 200:
-                continue
-            ev = ev_res.json()
-        except requests.RequestException:
-            continue
-
-        name = ev.get("name") or ev.get("shortName") or "NASCAR Cup Race"
-        events.extend(weekend_events(name, ev.get("competitions", []), ev.get("date")))
-
-    return events
-
-
-def parse_scoreboard_fallback() -> list:
-    res = requests.get(SCOREBOARD_URL, headers=HEADERS, timeout=15)
-    res.raise_for_status()
-    data = res.json()
-
-    events = []
-    for ev in data.get("events", []):
-        name = ev.get("name") or ev.get("shortName") or "NASCAR Cup Race"
-        events.extend(weekend_events(name, ev.get("competitions", []), ev.get("date")))
-
-    return events
-
-
-def fetch_schedule() -> list:
+def parse_from_next_data(html_text: str, season_year: int) -> list:
+    """Extracts schedule data directly from embedded Next.js __NEXT_DATA__ JSON script if present."""
+    soup = BeautifulSoup(html_text, "html.parser")
+    next_script = soup.find("script", id="__NEXT_DATA__")
+    
+    if not next_script or not next_script.string:
+        return []
+    
+    events_output = []
     try:
-        events = parse_core_api()
-    except requests.RequestException as err:
-        print(f"ESPN Core API error: {err}", file=sys.stderr)
-        events = []
+        payload = json.loads(next_script.string)
+        page_props = payload.get("props", {}).get("pageProps", {})
+        races = page_props.get("scheduleData", {}).get("races", []) or page_props.get("races", [])
 
+        for idx, r in enumerate(races, start=1):
+            name = r.get("race_name") or r.get("event_name", f"NASCAR Cup Race {idx}")
+            track_name = r.get("track_name", "Unknown Track")
+            city = r.get("city", "")
+            state = r.get("state", "")
+            country = r.get("country", "USA")
+
+            sessions = {}
+            for s in r.get("weekend_schedule", []) or r.get("schedule", []):
+                s_name = s.get("session_name") or s.get("name", "")
+                s_start = s.get("start_time_utc") or s.get("start_time")
+                if s_start:
+                    s_key, display_name = normalize_session_type(s_name)
+                    sessions[s_key] = {
+                        "name": display_name,
+                        "start": parse_iso_utc(s_start),
+                        "status": "scheduled"
+                    }
+
+            if "race" not in sessions and (r.get("race_date") or r.get("start_time")):
+                sessions["race"] = {
+                    "name": name,
+                    "start": parse_iso_utc(r.get("race_date") or r.get("start_time")),
+                    "status": "scheduled"
+                }
+
+            events_output.append({
+                "id": f"{season_year}-{slugify(name)}",
+                "round": idx,
+                "name": name,
+                "circuit": {
+                    "name": track_name,
+                    "city": f"{city}, {state}".strip(", "),
+                    "country": country
+                },
+                "sessions": sessions
+            })
+    except Exception as e:
+        print(f"Failed parsing __NEXT_DATA__: {e}")
+
+    return events_output
+
+def parse_from_html_dom(html_text: str, season_year: int) -> list:
+    """Parses standard schedule card/row elements from NASCAR DOM structure."""
+    soup = BeautifulSoup(html_text, "html.parser")
+    race_cards = soup.select(".schedule-row, .race-card, [data-event-id], .event-card")
+    
+    events_output = []
+    round_counter = 1
+
+    for card in race_cards:
+        name_el = card.select_one(".race-name, .event-title, h3, h4")
+        if not name_el:
+            continue
+        race_name = name_el.get_text(strip=True)
+
+        track_el = card.select_one(".track-name, .venue-name, .circuit-name")
+        track_name = track_el.get_text(strip=True) if track_el else "Unknown Track"
+
+        location_el = card.select_one(".track-location, .location")
+        location_text = location_el.get_text(strip=True) if location_el else ""
+
+        date_el = card.select_one(".date, .race-date, time")
+        date_str = date_el.get("datetime") or date_el.get_text(strip=True) if date_el else None
+
+        sessions = {}
+        sub_sessions = card.select(".session-row, .weekend-activity, .schedule-session")
+        for sub in sub_sessions:
+            s_name_el = sub.select_one(".session-name, .title")
+            s_time_el = sub.select_one(".session-time, time")
+            if s_name_el and s_time_el:
+                s_name = s_name_el.get_text(strip=True)
+                s_time = s_time_el.get("datetime") or s_time_el.get_text(strip=True)
+                s_key, display_name = normalize_session_type(s_name)
+                sessions[s_key] = {
+                    "name": display_name,
+                    "start": parse_iso_utc(s_time),
+                    "status": "scheduled"
+                }
+
+        if "race" not in sessions and date_str:
+            sessions["race"] = {
+                "name": race_name,
+                "start": parse_iso_utc(date_str),
+                "status": "scheduled"
+            }
+
+        events_output.append({
+            "id": f"{season_year}-{slugify(race_name)}",
+            "round": round_counter,
+            "name": race_name,
+            "circuit": {
+                "name": track_name,
+                "city": location_text,
+                "country": "USA"
+            },
+            "sessions": sessions
+        })
+        round_counter += 1
+
+    return events_output
+
+def scrape_nascar_schedule(season_year: int = 2026) -> dict:
+    print(f"Fetching official web schedule: {SCHEDULE_PAGE_URL}")
+    res = requests.get(SCHEDULE_PAGE_URL, headers=HEADERS, timeout=20)
+    res.raise_for_status()
+
+    # Strategy 1: Hydrated Next.js JSON extraction (Most accurate)
+    events = parse_from_next_data(res.text, season_year)
+
+    # Strategy 2: DOM markup parsing fallback
     if not events:
-        print("Core API returned nothing, falling back to Scoreboard endpoint...", file=sys.stderr)
-        try:
-            events = parse_scoreboard_fallback()
-        except requests.RequestException as err:
-            print(f"Scoreboard fallback error: {err}", file=sys.stderr)
-            events = []
+        print("Fallback to DOM HTML parsing...")
+        events = parse_from_html_dom(res.text, season_year)
 
-    events.sort(key=lambda e: e["utc"])
-    return events
-
+    return {
+        "sport": "nascar-cup",
+        "season": season_year,
+        "events": events
+    }
 
 def main():
-    print("Fetching NASCAR Cup schedule from ESPN...", file=sys.stderr)
-    events = fetch_schedule()
-    print(f"Parsed {len(events)} sessions", file=sys.stderr)
+    season_year = 2026
+    data = scrape_nascar_schedule(season_year)
 
-    output = {
-        "sportKey": "nascar-cup",
-        "season": str(SEASON_YEAR),
-        "events": events,
-    }
-    write_output(OUTPUT_PATH, output, min_events=5)
+    target_path = os.path.abspath(OUTPUT_PATH)
+    os.makedirs(os.path.dirname(target_path), exist_ok=True)
+    with open(target_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
+    print(f"Successfully scraped {len(data['events'])} events to {target_path}")
 
 if __name__ == "__main__":
     main()
