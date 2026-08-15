@@ -14,7 +14,7 @@ from dateutil import parser as dt_parser
 import pytz
 
 NASCAR_SCHEDULE_URL = "https://cf.nascar.com/c/nascar-api/season/schedule.json"
-OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "../data/nascar-cup.json")
+OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "../motorsport/nascar/cup/2026.json")
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
