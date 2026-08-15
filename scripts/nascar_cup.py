@@ -1,8 +1,7 @@
 """
 NASCAR Cup Series Schedule Scraper
-Scrapes directly from https://www.nascar.com/nascar-cup-series/2026/schedule/
-Extracts weekend sessions (Practice, Qualifying, Duels, Race) and outputs
-the exact sportocal F1 JSON format.
+Scrapes complete weekend schedules (Practice, Qualifying, Race) from motorsport.com
+and writes to motorsport/nascar/cup/2026.json matching the Sportocal F1 format.
 """
 
 import json
@@ -16,13 +15,13 @@ from dateutil import parser as dt_parser
 import pytz
 
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "../motorsport/nascar/cup/2026.json")
-SCHEDULE_PAGE_URL = "https://www.nascar.com/nascar-cup-series/2026/schedule/"
+SOURCE_URL = "https://www.motorsport.com/nascar-cup/schedule/2026/"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
-    "Referer": "https://www.nascar.com/"
+    "Referer": "https://www.motorsport.com/"
 }
 
 def slugify(text: str) -> str:
@@ -34,7 +33,7 @@ def slugify(text: str) -> str:
     return re.sub(r"[\s_-]+", "-", text)
 
 def parse_iso_utc(date_str: str) -> str:
-    """Parses date string into UTC ISO-8601 string."""
+    """Converts string dates to UTC ISO-8601 strings."""
     if not date_str:
         return None
     try:
@@ -46,8 +45,8 @@ def parse_iso_utc(date_str: str) -> str:
     except Exception:
         return None
 
-def normalize_session_type(raw_name: str) -> tuple[str, str]:
-    """Standardizes session naming to match F1 conventions (fp1, fp2, qualifying, race)."""
+def normalize_session_key(raw_name: str) -> tuple[str, str]:
+    """Standardizes session names to match F1 conventions (fp1, fp2, qualifying, race)."""
     n = raw_name.lower().strip()
     if "practice 1" in n or "first practice" in n:
         return "fp1", "Practice 1"
@@ -59,138 +58,132 @@ def normalize_session_type(raw_name: str) -> tuple[str, str]:
         return "qualifying", "Qualifying"
     elif "duel" in n or "heat" in n:
         return "duels", raw_name
-    elif "race" in n or "500" in n or "400" in n:
+    elif "race" in n or "400" in n or "500" in n:
         return "race", "Race"
     return slugify(raw_name).replace("-", "_"), raw_name
 
-def parse_from_next_data(html_text: str, season_year: int) -> list:
-    """Extracts schedule data directly from embedded Next.js __NEXT_DATA__ JSON script if present."""
-    soup = BeautifulSoup(html_text, "html.parser")
-    next_script = soup.find("script", id="__NEXT_DATA__")
+def parse_json_ld(soup: BeautifulSoup, season_year: int) -> list:
+    """Extracts structured SportsEvent JSON-LD data from motorsport.com."""
+    events = []
+    scripts = soup.find_all("script", type="application/ld+json")
     
-    if not next_script or not next_script.string:
-        return []
-    
-    events_output = []
-    try:
-        payload = json.loads(next_script.string)
-        page_props = payload.get("props", {}).get("pageProps", {})
-        races = page_props.get("scheduleData", {}).get("races", []) or page_props.get("races", [])
-
-        for idx, r in enumerate(races, start=1):
-            name = r.get("race_name") or r.get("event_name", f"NASCAR Cup Race {idx}")
-            track_name = r.get("track_name", "Unknown Track")
-            city = r.get("city", "")
-            state = r.get("state", "")
-            country = r.get("country", "USA")
-
-            sessions = {}
-            for s in r.get("weekend_schedule", []) or r.get("schedule", []):
-                s_name = s.get("session_name") or s.get("name", "")
-                s_start = s.get("start_time_utc") or s.get("start_time")
-                if s_start:
-                    s_key, display_name = normalize_session_type(s_name)
-                    sessions[s_key] = {
-                        "name": display_name,
-                        "start": parse_iso_utc(s_start),
-                        "status": "scheduled"
-                    }
-
-            if "race" not in sessions and (r.get("race_date") or r.get("start_time")):
-                sessions["race"] = {
-                    "name": name,
-                    "start": parse_iso_utc(r.get("race_date") or r.get("start_time")),
-                    "status": "scheduled"
-                }
-
-            events_output.append({
-                "id": f"{season_year}-{slugify(name)}",
-                "round": idx,
-                "name": name,
-                "circuit": {
-                    "name": track_name,
-                    "city": f"{city}, {state}".strip(", "),
-                    "country": country
-                },
-                "sessions": sessions
-            })
-    except Exception as e:
-        print(f"Failed parsing __NEXT_DATA__: {e}")
-
-    return events_output
-
-def parse_from_html_dom(html_text: str, season_year: int) -> list:
-    """Parses standard schedule card/row elements from NASCAR DOM structure."""
-    soup = BeautifulSoup(html_text, "html.parser")
-    race_cards = soup.select(".schedule-row, .race-card, [data-event-id], .event-card")
-    
-    events_output = []
-    round_counter = 1
-
-    for card in race_cards:
-        name_el = card.select_one(".race-name, .event-title, h3, h4")
-        if not name_el:
+    round_idx = 1
+    for s in scripts:
+        if not s.string:
             continue
-        race_name = name_el.get_text(strip=True)
+        try:
+            data = json.loads(s.string)
+            items = data if isinstance(data, list) else [data]
+            
+            for item in items:
+                # Target SportsEvent or Event types
+                if item.get("@type") in ["SportsEvent", "Event"]:
+                    name = item.get("name", f"NASCAR Cup Race {round_idx}")
+                    location = item.get("location", {})
+                    circuit_name = location.get("name", "Unknown Circuit")
+                    address = location.get("address", {})
+                    
+                    city = address.get("addressLocality", "") if isinstance(address, dict) else ""
+                    country = address.get("addressCountry", "USA") if isinstance(address, dict) else "USA"
+                    
+                    sessions = {}
+                    # Check sub-events for Practice / Qualifying
+                    sub_events = item.get("subEvent", [])
+                    if isinstance(sub_events, dict):
+                        sub_events = [sub_events]
+                        
+                    for sub in sub_events:
+                        sub_name = sub.get("name", "")
+                        sub_date = sub.get("startDate")
+                        if sub_date:
+                            s_key, display_name = normalize_session_key(sub_name)
+                            sessions[s_key] = {
+                                "name": display_name,
+                                "start": parse_iso_utc(sub_date),
+                                "status": "scheduled"
+                            }
+                            
+                    # Main race start
+                    main_start = item.get("startDate")
+                    if "race" not in sessions and main_start:
+                        sessions["race"] = {
+                            "name": name,
+                            "start": parse_iso_utc(main_start),
+                            "status": "scheduled"
+                        }
 
-        track_el = card.select_one(".track-name, .venue-name, .circuit-name")
-        track_name = track_el.get_text(strip=True) if track_el else "Unknown Track"
+                    events.append({
+                        "id": f"{season_year}-{slugify(name)}",
+                        "round": round_idx,
+                        "name": name,
+                        "circuit": {
+                            "name": circuit_name,
+                            "city": city,
+                            "country": country
+                        },
+                        "sessions": sessions
+                    })
+                    round_idx += 1
+        except Exception:
+            continue
 
-        location_el = card.select_one(".track-location, .location")
-        location_text = location_el.get_text(strip=True) if location_el else ""
+    return events
 
-        date_el = card.select_one(".date, .race-date, time")
-        date_str = date_el.get("datetime") or date_el.get_text(strip=True) if date_el else None
+def parse_html_table(soup: BeautifulSoup, season_year: int) -> list:
+    """Fallback HTML table parser for motorsport.com schedule page."""
+    events = []
+    rows = soup.select(".ms-schedule-table-item, .ms-schedule-table tbody tr, .ms-grid-row, tr[data-race-id]")
+    
+    round_idx = 1
+    for row in rows:
+        title_el = row.select_one(".ms-schedule-table-item__title, .title, .event-title a, a[title]")
+        if not title_el:
+            continue
+        race_name = title_el.get_text(strip=True)
+
+        circuit_el = row.select_one(".ms-schedule-table-item__track, .track, .circuit")
+        circuit_name = circuit_el.get_text(strip=True) if circuit_el else "Unknown Track"
+
+        date_el = row.select_one(".ms-schedule-table-item__date, .date, time")
+        date_val = date_el.get("datetime") or date_el.get_text(strip=True) if date_el else None
 
         sessions = {}
-        sub_sessions = card.select(".session-row, .weekend-activity, .schedule-session")
-        for sub in sub_sessions:
-            s_name_el = sub.select_one(".session-name, .title")
-            s_time_el = sub.select_one(".session-time, time")
-            if s_name_el and s_time_el:
-                s_name = s_name_el.get_text(strip=True)
-                s_time = s_time_el.get("datetime") or s_time_el.get_text(strip=True)
-                s_key, display_name = normalize_session_type(s_name)
-                sessions[s_key] = {
-                    "name": display_name,
-                    "start": parse_iso_utc(s_time),
-                    "status": "scheduled"
-                }
-
-        if "race" not in sessions and date_str:
+        if date_val:
             sessions["race"] = {
                 "name": race_name,
-                "start": parse_iso_utc(date_str),
+                "start": parse_iso_utc(date_val),
                 "status": "scheduled"
             }
 
-        events_output.append({
+        events.append({
             "id": f"{season_year}-{slugify(race_name)}",
-            "round": round_counter,
+            "round": round_idx,
             "name": race_name,
             "circuit": {
-                "name": track_name,
-                "city": location_text,
+                "name": circuit_name,
+                "city": "",
                 "country": "USA"
             },
             "sessions": sessions
         })
-        round_counter += 1
+        round_idx += 1
 
-    return events_output
+    return events
 
-def scrape_nascar_schedule(season_year: int = 2026) -> dict:
-    print(f"Fetching official web schedule: {SCHEDULE_PAGE_URL}")
-    res = requests.get(SCHEDULE_PAGE_URL, headers=HEADERS, timeout=20)
+def scrape_motorsport_schedule(season_year: int = 2026) -> dict:
+    print(f"Scraping schedule from: {SOURCE_URL}")
+    res = requests.get(SOURCE_URL, headers=HEADERS, timeout=20)
     res.raise_for_status()
-
-    # Strategy 1: Hydrated Next.js JSON extraction (Most accurate)
-    events = parse_from_next_data(res.text, season_year)
-
-    # Strategy 2: DOM markup parsing fallback
+    
+    soup = BeautifulSoup(res.text, "html.parser")
+    
+    # 1. Try structured JSON-LD (contains full session metadata)
+    events = parse_json_ld(soup, season_year)
+    
+    # 2. Fallback to HTML table structure if JSON-LD is absent
     if not events:
-        print("Fallback to DOM HTML parsing...")
-        events = parse_from_html_dom(res.text, season_year)
+        print("Falling back to HTML table parsing...")
+        events = parse_html_table(soup, season_year)
 
     return {
         "sport": "nascar-cup",
@@ -200,7 +193,7 @@ def scrape_nascar_schedule(season_year: int = 2026) -> dict:
 
 def main():
     season_year = 2026
-    data = scrape_nascar_schedule(season_year)
+    data = scrape_motorsport_schedule(season_year)
 
     target_path = os.path.abspath(OUTPUT_PATH)
     os.makedirs(os.path.dirname(target_path), exist_ok=True)
