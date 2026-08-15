@@ -1,39 +1,40 @@
-name: NASCAR Schedule Scraper
+name: Update Sport Schedules
 
 on:
   schedule:
-    # Run every 6 hours at 00:00, 06:00, 12:00, 18:00 UTC
-    - cron: '0 0,6,12,18 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
-    # Allow manual trigger
+
+permissions:
+  contents: write
 
 jobs:
-  scrape-nascar:
+  scrape-and-update:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+          cache: 'pip'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
-      
-      - name: Run NASCAR scraper
+          pip install -r requirements.txt
+
+      - name: Run F1 Scraper
+        run: python scrapers/f1.py
+
+      - name: Run NASCAR Cup Scraper
+        run: python scrapers/nascar_cup.py
+
+      - name: Commit and push changes
         run: |
-          python scripts/nascar_schedule_scraper.py
-      
-      - name: Commit and push if changed
-        run: |
-          git config --local user.email "github-actions[bot]@github.com"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add motorsport/nascar/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update NASCAR schedule $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update sports schedules [skip ci]" && git push)
