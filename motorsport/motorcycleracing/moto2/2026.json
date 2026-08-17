@@ -1,380 +1,804 @@
 {
-  "sport": "moto2",
-  "season": 2026,
+  "sportKey": "moto2",
+  "season": "2026",
   "events": [
     {
-      "id": "2026-grand-prix-of-thailand",
-      "round": 1,
-      "name": "GRAND PRIX OF THAILAND",
-      "circuit": {
-        "name": "Chang International Circuit",
-        "city": "",
-        "country": "Thailand"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF THAILAND Race",
-          "start": "2026-02-27T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-thailand-fp",
+      "weekend": "GRAND PRIX OF THAILAND",
+      "name": "FP",
+      "utc": "2026-02-27T09:50:00Z"
     },
     {
-      "id": "2026-grand-prix-of-brazil",
-      "round": 2,
-      "name": "GRAND PRIX OF BRAZIL",
-      "circuit": {
-        "name": "Autódromo Internacional de Goiânia - Ayrton Senna",
-        "city": "",
-        "country": "Brazil"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF BRAZIL Race",
-          "start": "2026-03-20T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-thailand-practice",
+      "weekend": "GRAND PRIX OF THAILAND",
+      "name": "Practice",
+      "utc": "2026-02-27T14:05:00Z"
     },
     {
-      "id": "2026-grand-prix-of-the-united-states",
-      "round": 3,
-      "name": "GRAND PRIX OF THE UNITED STATES",
-      "circuit": {
-        "name": "Circuit Of The Americas",
-        "city": "",
-        "country": "United States of America"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF THE UNITED STATES Race",
-          "start": "2026-03-27T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-thailand-fp-2",
+      "weekend": "GRAND PRIX OF THAILAND",
+      "name": "FP",
+      "utc": "2026-02-28T09:25:00Z"
     },
     {
-      "id": "2026-grand-prix-of-spain",
-      "round": 4,
-      "name": "GRAND PRIX OF SPAIN",
-      "circuit": {
-        "name": "Circuito de Jerez - Ángel Nieto",
-        "city": "",
-        "country": "Spain"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF SPAIN Race",
-          "start": "2026-04-24T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-thailand-qualifying",
+      "weekend": "GRAND PRIX OF THAILAND",
+      "name": "Qualifying",
+      "utc": "2026-02-28T13:40:00Z"
     },
     {
-      "id": "2026-grand-prix-de-france",
-      "round": 5,
-      "name": "GRAND PRIX DE FRANCE",
-      "circuit": {
-        "name": "Le Mans",
-        "city": "",
-        "country": "France"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX DE FRANCE Race",
-          "start": "2026-05-08T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-thailand-qualifying-2",
+      "weekend": "GRAND PRIX OF THAILAND",
+      "name": "Qualifying",
+      "utc": "2026-02-28T14:05:00Z"
     },
     {
-      "id": "2026-grand-prix-of-catalonia",
-      "round": 6,
-      "name": "GRAND PRIX OF CATALONIA",
-      "circuit": {
-        "name": "Circuit de Barcelona-Catalunya",
-        "city": "",
-        "country": "Spain"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF CATALONIA Race",
-          "start": "2026-05-15T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-thailand-race",
+      "weekend": "GRAND PRIX OF THAILAND",
+      "name": "Race",
+      "utc": "2026-03-01T13:15:00Z"
     },
     {
-      "id": "2026-grand-prix-of-italy",
-      "round": 7,
-      "name": "GRAND PRIX OF ITALY",
-      "circuit": {
-        "name": "Autodromo Internazionale del Mugello",
-        "city": "",
-        "country": "Italy"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF ITALY Race",
-          "start": "2026-05-29T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-thailand-race-2",
+      "weekend": "GRAND PRIX OF THAILAND",
+      "name": "Race",
+      "utc": "2026-03-01T13:45:00Z"
     },
     {
-      "id": "2026-grand-prix-of-hungary",
-      "round": 8,
-      "name": "GRAND PRIX OF HUNGARY",
-      "circuit": {
-        "name": "Balaton Park Circuit",
-        "city": "",
-        "country": "Hungary"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF HUNGARY Race",
-          "start": "2026-06-05T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-brazil-fp",
+      "weekend": "GRAND PRIX OF BRAZIL",
+      "name": "FP",
+      "utc": "2026-03-20T11:00:00Z"
     },
     {
-      "id": "2026-grand-prix-of-czechia",
-      "round": 9,
-      "name": "GRAND PRIX OF CZECHIA",
-      "circuit": {
-        "name": "CREDITAS Autodrom Brno",
-        "city": "",
-        "country": "Czechia"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF CZECHIA Race",
-          "start": "2026-06-19T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-brazil-practice",
+      "weekend": "GRAND PRIX OF BRAZIL",
+      "name": "Practice",
+      "utc": "2026-03-20T15:05:00Z"
     },
     {
-      "id": "2026-grand-prix-of-the-netherlands",
-      "round": 10,
-      "name": "GRAND PRIX OF THE NETHERLANDS",
-      "circuit": {
-        "name": "TT Circuit Assen",
-        "city": "",
-        "country": "Netherlands"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF THE NETHERLANDS Race",
-          "start": "2026-06-26T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-brazil-fp-2",
+      "weekend": "GRAND PRIX OF BRAZIL",
+      "name": "FP",
+      "utc": "2026-03-21T09:25:00Z"
     },
     {
-      "id": "2026-grand-prix-of-germany",
-      "round": 11,
-      "name": "GRAND PRIX OF GERMANY",
-      "circuit": {
-        "name": "Sachsenring",
-        "city": "",
-        "country": "Germany"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF GERMANY Race",
-          "start": "2026-07-10T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-brazil-qualifying",
+      "weekend": "GRAND PRIX OF BRAZIL",
+      "name": "Qualifying",
+      "utc": "2026-03-22T09:40:00Z"
     },
     {
-      "id": "2026-grand-prix-of-great-britain",
-      "round": 12,
-      "name": "GRAND PRIX OF GREAT BRITAIN",
-      "circuit": {
-        "name": "Silverstone Circuit",
-        "city": "",
-        "country": "United Kingdom of Great Britain and Northern Ireland"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF GREAT BRITAIN Race",
-          "start": "2026-08-07T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-brazil-qualifying-2",
+      "weekend": "GRAND PRIX OF BRAZIL",
+      "name": "Qualifying",
+      "utc": "2026-03-22T10:05:00Z"
     },
     {
-      "id": "2026-grand-prix-of-aragon",
-      "round": 13,
-      "name": "GRAND PRIX OF ARAGON",
-      "circuit": {
-        "name": "MotorLand Aragón",
-        "city": "",
-        "country": "Spain"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF ARAGON Race",
-          "start": "2026-08-28T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-brazil-race",
+      "weekend": "GRAND PRIX OF BRAZIL",
+      "name": "Race",
+      "utc": "2026-03-22T13:25:00Z"
     },
     {
-      "id": "2026-grand-prix-of-san-marino",
-      "round": 14,
-      "name": "GRAND PRIX OF SAN MARINO",
-      "circuit": {
-        "name": "Misano World Circuit Marco Simoncelli",
-        "city": "",
-        "country": "San Marino"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF SAN MARINO Race",
-          "start": "2026-09-11T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-the-united-states-fp",
+      "weekend": "GRAND PRIX OF THE UNITED STATES",
+      "name": "FP",
+      "utc": "2026-03-27T09:50:00Z"
     },
     {
-      "id": "2026-grand-prix-of-austria",
-      "round": 15,
-      "name": "GRAND PRIX OF AUSTRIA",
-      "circuit": {
-        "name": "Red Bull Ring - Spielberg",
-        "city": "",
-        "country": "Austria"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF AUSTRIA Race",
-          "start": "2026-09-18T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-the-united-states-practice",
+      "weekend": "GRAND PRIX OF THE UNITED STATES",
+      "name": "Practice",
+      "utc": "2026-03-27T14:05:00Z"
     },
     {
-      "id": "2026-grand-prix-of-japan",
-      "round": 16,
-      "name": "GRAND PRIX OF JAPAN",
-      "circuit": {
-        "name": "Mobility Resort Motegi",
-        "city": "",
-        "country": "Japan"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF JAPAN Race",
-          "start": "2026-10-02T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-the-united-states-fp-2",
+      "weekend": "GRAND PRIX OF THE UNITED STATES",
+      "name": "FP",
+      "utc": "2026-03-28T09:25:00Z"
     },
     {
-      "id": "2026-grand-prix-of-indonesia",
-      "round": 17,
-      "name": "GRAND PRIX OF INDONESIA",
-      "circuit": {
-        "name": "Pertamina Mandalika Circuit",
-        "city": "",
-        "country": "Indonesia"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF INDONESIA Race",
-          "start": "2026-10-09T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-the-united-states-qualifying",
+      "weekend": "GRAND PRIX OF THE UNITED STATES",
+      "name": "Qualifying",
+      "utc": "2026-03-28T13:40:00Z"
     },
     {
-      "id": "2026-grand-prix-of-australia",
-      "round": 18,
-      "name": "GRAND PRIX OF AUSTRALIA",
-      "circuit": {
-        "name": "Phillip Island",
-        "city": "",
-        "country": "Australia"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF AUSTRALIA Race",
-          "start": "2026-10-23T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-the-united-states-qualifying-2",
+      "weekend": "GRAND PRIX OF THE UNITED STATES",
+      "name": "Qualifying",
+      "utc": "2026-03-28T14:17:00Z"
     },
     {
-      "id": "2026-grand-prix-of-malaysia",
-      "round": 19,
-      "name": "GRAND PRIX OF MALAYSIA",
-      "circuit": {
-        "name": "Petronas Sepang International Circuit",
-        "city": "",
-        "country": "Malaysia"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF MALAYSIA Race",
-          "start": "2026-10-30T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-the-united-states-race",
+      "weekend": "GRAND PRIX OF THE UNITED STATES",
+      "name": "Race",
+      "utc": "2026-03-29T13:50:00Z"
     },
     {
-      "id": "2026-grand-prix-of-qatar",
-      "round": 20,
-      "name": "GRAND PRIX OF QATAR",
-      "circuit": {
-        "name": "Lusail International Circuit",
-        "city": "",
-        "country": "Qatar"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF QATAR Race",
-          "start": "2026-11-06T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-spain-fp",
+      "weekend": "GRAND PRIX OF SPAIN",
+      "name": "FP",
+      "utc": "2026-04-24T09:50:00Z"
     },
     {
-      "id": "2026-grand-prix-of-portugal",
-      "round": 21,
-      "name": "GRAND PRIX OF PORTUGAL",
-      "circuit": {
-        "name": "Autódromo Internacional do Algarve",
-        "city": "",
-        "country": "Portugal"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF PORTUGAL Race",
-          "start": "2026-11-20T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-spain-practice",
+      "weekend": "GRAND PRIX OF SPAIN",
+      "name": "Practice",
+      "utc": "2026-04-24T14:05:00Z"
     },
     {
-      "id": "2026-grand-prix-of-valencia",
-      "round": 22,
-      "name": "GRAND PRIX OF VALENCIA",
-      "circuit": {
-        "name": "Circuit Ricardo Tormo",
-        "city": "",
-        "country": "Spain"
-      },
-      "sessions": {
-        "race": {
-          "name": "GRAND PRIX OF VALENCIA Race",
-          "start": "2026-11-27T00:00:00Z",
-          "status": "scheduled"
-        }
-      }
+      "id": "moto2-2026-grand-prix-of-spain-fp-2",
+      "weekend": "GRAND PRIX OF SPAIN",
+      "name": "FP",
+      "utc": "2026-04-25T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-spain-qualifying",
+      "weekend": "GRAND PRIX OF SPAIN",
+      "name": "Qualifying",
+      "utc": "2026-04-25T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-spain-qualifying-2",
+      "weekend": "GRAND PRIX OF SPAIN",
+      "name": "Qualifying",
+      "utc": "2026-04-25T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-spain-race",
+      "weekend": "GRAND PRIX OF SPAIN",
+      "name": "Race",
+      "utc": "2026-04-26T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-de-france-fp",
+      "weekend": "GRAND PRIX DE FRANCE",
+      "name": "FP",
+      "utc": "2026-05-08T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-de-france-practice",
+      "weekend": "GRAND PRIX DE FRANCE",
+      "name": "Practice",
+      "utc": "2026-05-08T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-de-france-fp-2",
+      "weekend": "GRAND PRIX DE FRANCE",
+      "name": "FP",
+      "utc": "2026-05-09T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-de-france-qualifying",
+      "weekend": "GRAND PRIX DE FRANCE",
+      "name": "Qualifying",
+      "utc": "2026-05-09T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-de-france-qualifying-2",
+      "weekend": "GRAND PRIX DE FRANCE",
+      "name": "Qualifying",
+      "utc": "2026-05-09T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-de-france-race",
+      "weekend": "GRAND PRIX DE FRANCE",
+      "name": "Race",
+      "utc": "2026-05-10T12:20:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-catalonia-fp",
+      "weekend": "GRAND PRIX OF CATALONIA",
+      "name": "FP",
+      "utc": "2026-05-15T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-catalonia-practice",
+      "weekend": "GRAND PRIX OF CATALONIA",
+      "name": "Practice",
+      "utc": "2026-05-15T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-catalonia-fp-2",
+      "weekend": "GRAND PRIX OF CATALONIA",
+      "name": "FP",
+      "utc": "2026-05-16T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-catalonia-qualifying",
+      "weekend": "GRAND PRIX OF CATALONIA",
+      "name": "Qualifying",
+      "utc": "2026-05-16T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-catalonia-qualifying-2",
+      "weekend": "GRAND PRIX OF CATALONIA",
+      "name": "Qualifying",
+      "utc": "2026-05-16T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-catalonia-race",
+      "weekend": "GRAND PRIX OF CATALONIA",
+      "name": "Race",
+      "utc": "2026-05-17T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-italy-fp",
+      "weekend": "GRAND PRIX OF ITALY",
+      "name": "FP",
+      "utc": "2026-05-29T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-italy-practice",
+      "weekend": "GRAND PRIX OF ITALY",
+      "name": "Practice",
+      "utc": "2026-05-29T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-italy-fp-2",
+      "weekend": "GRAND PRIX OF ITALY",
+      "name": "FP",
+      "utc": "2026-05-30T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-italy-qualifying",
+      "weekend": "GRAND PRIX OF ITALY",
+      "name": "Qualifying",
+      "utc": "2026-05-30T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-italy-qualifying-2",
+      "weekend": "GRAND PRIX OF ITALY",
+      "name": "Qualifying",
+      "utc": "2026-05-30T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-italy-race",
+      "weekend": "GRAND PRIX OF ITALY",
+      "name": "Race",
+      "utc": "2026-05-31T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-hungary-fp",
+      "weekend": "GRAND PRIX OF HUNGARY",
+      "name": "FP",
+      "utc": "2026-06-05T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-hungary-practice",
+      "weekend": "GRAND PRIX OF HUNGARY",
+      "name": "Practice",
+      "utc": "2026-06-05T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-hungary-fp-2",
+      "weekend": "GRAND PRIX OF HUNGARY",
+      "name": "FP",
+      "utc": "2026-06-06T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-hungary-qualifying",
+      "weekend": "GRAND PRIX OF HUNGARY",
+      "name": "Qualifying",
+      "utc": "2026-06-06T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-hungary-qualifying-2",
+      "weekend": "GRAND PRIX OF HUNGARY",
+      "name": "Qualifying",
+      "utc": "2026-06-06T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-hungary-race",
+      "weekend": "GRAND PRIX OF HUNGARY",
+      "name": "Race",
+      "utc": "2026-06-07T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-czechia-fp",
+      "weekend": "GRAND PRIX OF CZECHIA",
+      "name": "FP",
+      "utc": "2026-06-19T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-czechia-practice",
+      "weekend": "GRAND PRIX OF CZECHIA",
+      "name": "Practice",
+      "utc": "2026-06-19T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-czechia-fp-2",
+      "weekend": "GRAND PRIX OF CZECHIA",
+      "name": "FP",
+      "utc": "2026-06-20T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-czechia-qualifying",
+      "weekend": "GRAND PRIX OF CZECHIA",
+      "name": "Qualifying",
+      "utc": "2026-06-20T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-czechia-qualifying-2",
+      "weekend": "GRAND PRIX OF CZECHIA",
+      "name": "Qualifying",
+      "utc": "2026-06-20T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-czechia-race",
+      "weekend": "GRAND PRIX OF CZECHIA",
+      "name": "Race",
+      "utc": "2026-06-21T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-the-netherlands-fp",
+      "weekend": "GRAND PRIX OF THE NETHERLANDS",
+      "name": "FP",
+      "utc": "2026-06-26T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-the-netherlands-practice",
+      "weekend": "GRAND PRIX OF THE NETHERLANDS",
+      "name": "Practice",
+      "utc": "2026-06-26T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-the-netherlands-fp-2",
+      "weekend": "GRAND PRIX OF THE NETHERLANDS",
+      "name": "FP",
+      "utc": "2026-06-27T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-the-netherlands-qualifying",
+      "weekend": "GRAND PRIX OF THE NETHERLANDS",
+      "name": "Qualifying",
+      "utc": "2026-06-27T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-the-netherlands-qualifying-2",
+      "weekend": "GRAND PRIX OF THE NETHERLANDS",
+      "name": "Qualifying",
+      "utc": "2026-06-27T14:08:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-the-netherlands-race",
+      "weekend": "GRAND PRIX OF THE NETHERLANDS",
+      "name": "Race",
+      "utc": "2026-06-28T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-germany-fp",
+      "weekend": "GRAND PRIX OF GERMANY",
+      "name": "FP",
+      "utc": "2026-07-10T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-germany-practice",
+      "weekend": "GRAND PRIX OF GERMANY",
+      "name": "Practice",
+      "utc": "2026-07-10T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-germany-fp-2",
+      "weekend": "GRAND PRIX OF GERMANY",
+      "name": "FP",
+      "utc": "2026-07-11T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-germany-qualifying",
+      "weekend": "GRAND PRIX OF GERMANY",
+      "name": "Qualifying",
+      "utc": "2026-07-11T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-germany-qualifying-2",
+      "weekend": "GRAND PRIX OF GERMANY",
+      "name": "Qualifying",
+      "utc": "2026-07-11T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-germany-race",
+      "weekend": "GRAND PRIX OF GERMANY",
+      "name": "Race",
+      "utc": "2026-07-12T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-great-britain-fp",
+      "weekend": "GRAND PRIX OF GREAT BRITAIN",
+      "name": "FP",
+      "utc": "2026-08-07T10:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-great-britain-practice",
+      "weekend": "GRAND PRIX OF GREAT BRITAIN",
+      "name": "Practice",
+      "utc": "2026-08-07T15:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-great-britain-fp-2",
+      "weekend": "GRAND PRIX OF GREAT BRITAIN",
+      "name": "FP",
+      "utc": "2026-08-08T10:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-great-britain-qualifying",
+      "weekend": "GRAND PRIX OF GREAT BRITAIN",
+      "name": "Qualifying",
+      "utc": "2026-08-08T14:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-great-britain-qualifying-2",
+      "weekend": "GRAND PRIX OF GREAT BRITAIN",
+      "name": "Qualifying",
+      "utc": "2026-08-08T15:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-great-britain-race",
+      "weekend": "GRAND PRIX OF GREAT BRITAIN",
+      "name": "Race",
+      "utc": "2026-08-09T11:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-aragon-fp",
+      "weekend": "GRAND PRIX OF ARAGON",
+      "name": "FP",
+      "utc": "2026-08-28T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-aragon-practice",
+      "weekend": "GRAND PRIX OF ARAGON",
+      "name": "Practice",
+      "utc": "2026-08-28T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-aragon-fp-2",
+      "weekend": "GRAND PRIX OF ARAGON",
+      "name": "FP",
+      "utc": "2026-08-29T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-aragon-qualifying",
+      "weekend": "GRAND PRIX OF ARAGON",
+      "name": "Qualifying",
+      "utc": "2026-08-29T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-aragon-qualifying-2",
+      "weekend": "GRAND PRIX OF ARAGON",
+      "name": "Qualifying",
+      "utc": "2026-08-29T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-aragon-race",
+      "weekend": "GRAND PRIX OF ARAGON",
+      "name": "Race",
+      "utc": "2026-08-30T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-san-marino-fp",
+      "weekend": "GRAND PRIX OF SAN MARINO",
+      "name": "FP",
+      "utc": "2026-09-11T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-san-marino-practice",
+      "weekend": "GRAND PRIX OF SAN MARINO",
+      "name": "Practice",
+      "utc": "2026-09-11T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-san-marino-fp-2",
+      "weekend": "GRAND PRIX OF SAN MARINO",
+      "name": "FP",
+      "utc": "2026-09-12T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-san-marino-qualifying",
+      "weekend": "GRAND PRIX OF SAN MARINO",
+      "name": "Qualifying",
+      "utc": "2026-09-12T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-san-marino-qualifying-2",
+      "weekend": "GRAND PRIX OF SAN MARINO",
+      "name": "Qualifying",
+      "utc": "2026-09-12T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-san-marino-race",
+      "weekend": "GRAND PRIX OF SAN MARINO",
+      "name": "Race",
+      "utc": "2026-09-13T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-austria-fp",
+      "weekend": "GRAND PRIX OF AUSTRIA",
+      "name": "FP",
+      "utc": "2026-09-18T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-austria-practice",
+      "weekend": "GRAND PRIX OF AUSTRIA",
+      "name": "Practice",
+      "utc": "2026-09-18T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-austria-fp-2",
+      "weekend": "GRAND PRIX OF AUSTRIA",
+      "name": "FP",
+      "utc": "2026-09-19T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-austria-qualifying",
+      "weekend": "GRAND PRIX OF AUSTRIA",
+      "name": "Qualifying",
+      "utc": "2026-09-19T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-austria-qualifying-2",
+      "weekend": "GRAND PRIX OF AUSTRIA",
+      "name": "Qualifying",
+      "utc": "2026-09-19T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-austria-race",
+      "weekend": "GRAND PRIX OF AUSTRIA",
+      "name": "Race",
+      "utc": "2026-09-20T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-japan-fp",
+      "weekend": "GRAND PRIX OF JAPAN",
+      "name": "FP",
+      "utc": "2026-10-02T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-japan-practice",
+      "weekend": "GRAND PRIX OF JAPAN",
+      "name": "Practice",
+      "utc": "2026-10-02T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-japan-fp-2",
+      "weekend": "GRAND PRIX OF JAPAN",
+      "name": "FP",
+      "utc": "2026-10-03T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-japan-qualifying",
+      "weekend": "GRAND PRIX OF JAPAN",
+      "name": "Qualifying",
+      "utc": "2026-10-03T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-japan-qualifying-2",
+      "weekend": "GRAND PRIX OF JAPAN",
+      "name": "Qualifying",
+      "utc": "2026-10-03T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-japan-race",
+      "weekend": "GRAND PRIX OF JAPAN",
+      "name": "Race",
+      "utc": "2026-10-04T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-indonesia-fp",
+      "weekend": "GRAND PRIX OF INDONESIA",
+      "name": "FP",
+      "utc": "2026-10-09T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-indonesia-practice",
+      "weekend": "GRAND PRIX OF INDONESIA",
+      "name": "Practice",
+      "utc": "2026-10-09T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-indonesia-fp-2",
+      "weekend": "GRAND PRIX OF INDONESIA",
+      "name": "FP",
+      "utc": "2026-10-10T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-indonesia-qualifying",
+      "weekend": "GRAND PRIX OF INDONESIA",
+      "name": "Qualifying",
+      "utc": "2026-10-10T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-indonesia-qualifying-2",
+      "weekend": "GRAND PRIX OF INDONESIA",
+      "name": "Qualifying",
+      "utc": "2026-10-10T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-indonesia-race",
+      "weekend": "GRAND PRIX OF INDONESIA",
+      "name": "Race",
+      "utc": "2026-10-11T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-australia-fp",
+      "weekend": "GRAND PRIX OF AUSTRALIA",
+      "name": "FP",
+      "utc": "2026-10-23T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-australia-practice",
+      "weekend": "GRAND PRIX OF AUSTRALIA",
+      "name": "Practice",
+      "utc": "2026-10-23T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-australia-fp-2",
+      "weekend": "GRAND PRIX OF AUSTRALIA",
+      "name": "FP",
+      "utc": "2026-10-24T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-australia-qualifying",
+      "weekend": "GRAND PRIX OF AUSTRALIA",
+      "name": "Qualifying",
+      "utc": "2026-10-24T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-australia-qualifying-2",
+      "weekend": "GRAND PRIX OF AUSTRALIA",
+      "name": "Qualifying",
+      "utc": "2026-10-24T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-australia-race",
+      "weekend": "GRAND PRIX OF AUSTRALIA",
+      "name": "Race",
+      "utc": "2026-10-25T12:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-malaysia-fp",
+      "weekend": "GRAND PRIX OF MALAYSIA",
+      "name": "FP",
+      "utc": "2026-10-30T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-malaysia-practice",
+      "weekend": "GRAND PRIX OF MALAYSIA",
+      "name": "Practice",
+      "utc": "2026-10-30T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-malaysia-fp-2",
+      "weekend": "GRAND PRIX OF MALAYSIA",
+      "name": "FP",
+      "utc": "2026-10-31T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-malaysia-qualifying",
+      "weekend": "GRAND PRIX OF MALAYSIA",
+      "name": "Qualifying",
+      "utc": "2026-10-31T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-malaysia-qualifying-2",
+      "weekend": "GRAND PRIX OF MALAYSIA",
+      "name": "Qualifying",
+      "utc": "2026-10-31T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-malaysia-race",
+      "weekend": "GRAND PRIX OF MALAYSIA",
+      "name": "Race",
+      "utc": "2026-11-01T13:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-qatar-fp",
+      "weekend": "GRAND PRIX OF QATAR",
+      "name": "FP",
+      "utc": "2026-11-04T14:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-qatar-practice",
+      "weekend": "GRAND PRIX OF QATAR",
+      "name": "Practice",
+      "utc": "2026-11-04T19:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-qatar-fp-2",
+      "weekend": "GRAND PRIX OF QATAR",
+      "name": "FP",
+      "utc": "2026-11-05T14:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-qatar-qualifying",
+      "weekend": "GRAND PRIX OF QATAR",
+      "name": "Qualifying",
+      "utc": "2026-11-05T18:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-qatar-qualifying-2",
+      "weekend": "GRAND PRIX OF QATAR",
+      "name": "Qualifying",
+      "utc": "2026-11-05T19:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-qatar-race",
+      "weekend": "GRAND PRIX OF QATAR",
+      "name": "Race",
+      "utc": "2026-11-06T18:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-portugal-fp",
+      "weekend": "GRAND PRIX OF PORTUGAL",
+      "name": "FP",
+      "utc": "2026-11-13T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-portugal-practice",
+      "weekend": "GRAND PRIX OF PORTUGAL",
+      "name": "Practice",
+      "utc": "2026-11-13T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-portugal-fp-2",
+      "weekend": "GRAND PRIX OF PORTUGAL",
+      "name": "FP",
+      "utc": "2026-11-14T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-portugal-qualifying",
+      "weekend": "GRAND PRIX OF PORTUGAL",
+      "name": "Qualifying",
+      "utc": "2026-11-14T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-portugal-qualifying-2",
+      "weekend": "GRAND PRIX OF PORTUGAL",
+      "name": "Qualifying",
+      "utc": "2026-11-14T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-portugal-race",
+      "weekend": "GRAND PRIX OF PORTUGAL",
+      "name": "Race",
+      "utc": "2026-11-15T11:15:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-valencia-fp",
+      "weekend": "GRAND PRIX OF VALENCIA",
+      "name": "FP",
+      "utc": "2026-11-20T09:50:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-valencia-practice",
+      "weekend": "GRAND PRIX OF VALENCIA",
+      "name": "Practice",
+      "utc": "2026-11-20T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-valencia-fp-2",
+      "weekend": "GRAND PRIX OF VALENCIA",
+      "name": "FP",
+      "utc": "2026-11-21T09:25:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-valencia-qualifying",
+      "weekend": "GRAND PRIX OF VALENCIA",
+      "name": "Qualifying",
+      "utc": "2026-11-21T13:40:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-valencia-qualifying-2",
+      "weekend": "GRAND PRIX OF VALENCIA",
+      "name": "Qualifying",
+      "utc": "2026-11-21T14:05:00Z"
+    },
+    {
+      "id": "moto2-2026-grand-prix-of-valencia-race",
+      "weekend": "GRAND PRIX OF VALENCIA",
+      "name": "Race",
+      "utc": "2026-11-22T12:15:00Z"
     }
   ]
 }
