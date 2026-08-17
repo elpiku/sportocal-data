@@ -28,11 +28,11 @@ jobs:
           pip install -r scripts/requirements.txt
 
       - name: Run MotoGP Scraper
-        run: python scripts/scrape_motogp.py
+        run: python scripts/motogp.py
 
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add motorsport/motorcycleracing/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update MotoGP/Moto2/Moto3 schedules [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update MotoGP schedules [skip ci]" && git push)
