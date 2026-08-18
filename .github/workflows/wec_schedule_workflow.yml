@@ -1,44 +1,41 @@
-# .github/workflows/wec_schedule_workflow.yml
-name: Scrape WEC Schedule
+name: WEC Schedule Scraper
 
 on:
   schedule:
-    # Runs at 00:00 UTC on the 1st of every month
-    - cron: '0 0 1 * *'
+    # Run every 6 hours at 00:00, 06:00, 12:00, 18:00 UTC
+    - cron: '0 0,6,12,18 * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
+    # Allow manual trigger
 
 jobs:
-  scrape-and-update:
+  scrape-wec:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
+      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
+          cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
+      
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
-
-      - name: Run WEC schedule scraper
-        run: python scripts/wec_schedule_scraper.py
-
-      - name: Commit and push changes
+      
+      - name: Run WEC scraper
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          python scripts/wec_schedule_scraper.py
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@github.com"
+          git config --local user.name "github-actions[bot]"
           git add motorsport/wec/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Auto-update WEC schedule"
-            git push
-          fi
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update WEC schedule $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
