@@ -46,12 +46,14 @@ OUTPUT_PATH = Path(__file__).resolve().parent.parent / "motorsport" / "wec" / f"
 HOMEPAGE_URL = "https://www.fiawec.com/"
 RACE_HREF_RE = re.compile(rf"^/en/race/[a-z0-9-]+-{SEASON_YEAR}$")
 
-DATE_HEADER_RE = re.compile(r'^([A-Za-z]+)\s+(\d{1,2})(?:st|nd|rd|th)$')
-TIME_RE = re.compile(r'^(\d{1,2}):(\d{2})\s*(AM|PM)$', re.IGNORECASE)
+DATE_HEADER_RE = re.compile(r'^([A-Za-z]+)\s+(\d{1,2})(?:st|nd|rd|th)?$')
+ORDINAL_SUFFIX_RE = re.compile(r'^(?:st|nd|rd|th)$', re.IGNORECASE)
+TIME_RE = re.compile(r'^(\d{1,2}):(\d{2})\s*(AM|PM)?$', re.IGNORECASE)
 MONTHS = {
     'january': 1, 'february': 2, 'march': 3, 'april': 4, 'may': 5, 'june': 6,
     'july': 7, 'august': 8, 'september': 9, 'october': 10, 'november': 11, 'december': 12,
 }
+DEBUG = True  # print the rendered text whenever a race yields 0 sessions
 
 # fiawec.com shows session times in the circuit's local time - matched
 # against the race URL slug (substring, checked in order - more specific
@@ -93,15 +95,45 @@ def discover_race_urls() -> list[str]:
 
 def render_race_page_html(page, url: str) -> str:
     """Loads a race page in the given Playwright page and waits for the
-    timetable to actually render before returning the HTML. "Track info"
-    is the heading immediately after the timetable on every race page, so
-    waiting for it is a reliable signal the async content has loaded."""
+    timetable to actually render before returning the HTML. Waits for any
+    text matching a clock-time pattern (e.g. "10:15") to appear, since
+    that's what we actually need - more robust than waiting on a specific
+    heading label we can't independently confirm exists on the live page.
+    Falls back to a plain network-idle wait if no such text ever shows up
+    (e.g. every session on this weekend is still marked TBC)."""
     page.goto(url, wait_until="domcontentloaded", timeout=30000)
     try:
-        page.wait_for_selector("text=Track info", timeout=15000)
+        page.wait_for_selector(r"text=/\d{1,2}:\d{2}/", timeout=15000)
     except PlaywrightTimeoutError:
-        pass  # fall through and parse whatever did load - parse_race_page handles empty results
+        try:
+            page.wait_for_load_state("networkidle", timeout=15000)
+        except PlaywrightTimeoutError:
+            pass  # fall through and parse whatever did load - parse_race_page handles empty results
     return page.content()
+
+
+def merge_split_date_headers(lines: list[str]) -> list[str]:
+    """A date header can be split across several inline tags (e.g. a
+    styled "17ᵗʰ" superscript rendering "April", "17", and "th" as three
+    separate text nodes/lines instead of one "April 17th" line) -
+    collapse a bare month name followed by a bare day number (and
+    optional bare ordinal suffix) into one combined line before the main
+    parsing loop, which expects one date header per line."""
+    merged = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if line.lower() in MONTHS and i + 1 < len(lines) and lines[i + 1].isdigit():
+            combined = f"{line} {lines[i + 1]}"
+            skip = 2
+            if i + 2 < len(lines) and ORDINAL_SUFFIX_RE.match(lines[i + 2]):
+                skip = 3
+            merged.append(combined)
+            i += skip
+            continue
+        merged.append(line)
+        i += 1
+    return merged
 
 
 def parse_race_page(html: str) -> tuple[str, list[dict]]:
@@ -116,7 +148,8 @@ def parse_race_page(html: str) -> tuple[str, list[dict]]:
     event_name = title_tag.get_text(strip=True) if title_tag else "WEC Race"
     event_name = re.sub(rf"\s*{SEASON_YEAR}\s*$", "", event_name).strip()
 
-    lines = [ln.strip() for ln in soup.get_text("\n", strip=True).split("\n") if ln.strip()]
+    raw_lines = [ln.strip() for ln in soup.get_text("\n", strip=True).split("\n") if ln.strip()]
+    lines = merge_split_date_headers(raw_lines)
 
     sessions = []
     current_month = current_day = None
@@ -133,6 +166,11 @@ def parse_race_page(html: str) -> tuple[str, list[dict]]:
             if month:
                 current_month, current_day = month, int(day_text)
             i += 1
+            # Ordinal suffix sometimes renders as its own text node right
+            # after the day number (e.g. a styled <sup>th</sup>) - if so,
+            # it'll show up as a standalone "th"/"st"/etc. line; skip it.
+            if i < len(lines) and ORDINAL_SUFFIX_RE.match(lines[i]):
+                i += 1
             continue
 
         if line == "Track info":  # end of the session timetable
@@ -143,9 +181,12 @@ def parse_race_page(html: str) -> tuple[str, list[dict]]:
             time_match = TIME_RE.match(next_line)
             if time_match:
                 hour, minute, meridiem = time_match.groups()
-                hour = int(hour) % 12
-                if meridiem.upper() == "PM":
-                    hour += 12
+                hour = int(hour)
+                if meridiem:  # 12-hour clock with AM/PM
+                    hour = hour % 12
+                    if meridiem.upper() == "PM":
+                        hour += 12
+                # else: already 24-hour clock, use as-is
                 sessions.append({
                     "name": line,
                     "month": current_month,
@@ -160,6 +201,11 @@ def parse_race_page(html: str) -> tuple[str, list[dict]]:
                 continue
 
         i += 1
+
+    if DEBUG and not sessions:
+        print(f"  DEBUG: 0 sessions parsed for '{event_name}'. First 60 rendered text lines:", file=sys.stderr)
+        for ln in lines[:60]:
+            print(f"    | {ln}", file=sys.stderr)
 
     return event_name, sessions
 
