@@ -42,6 +42,21 @@ from common import HEADERS, slugify, make_unique_id_assigner, write_output  # no
 
 SITE_API_BASE = "https://site.api.espn.com/apis/site/v2/sports/soccer"
 
+# site.api.espn.com directly powers espn.com's own website widgets and
+# appears to reject requests without a browser-like Referer/Origin - a
+# uniform, immediate 403 on every single call (not a gradual/intermittent
+# failure) is the signature of that kind of edge/CDN check, as opposed to
+# rate limiting (which responds 429, not 403) or a broader IP block
+# (which tends to be inconsistent, not literally 100%). This is scoped to
+# just these soccer scrapers rather than added to common.HEADERS globally,
+# since every other scraper in this repo is already working fine without it.
+ESPN_SITE_HEADERS = {
+    **HEADERS,
+    "Referer": "https://www.espn.com/",
+    "Origin": "https://www.espn.com",
+    "Accept": "application/json, text/plain, */*",
+}
+
 
 def to_utc_iso(date_str: str) -> str | None:
     if not date_str:
@@ -74,7 +89,7 @@ def fetch_day_scoreboard(league_slug: str, yyyymmdd: str, retries: int = 3) -> t
     last_error = None
     for attempt in range(1, retries + 1):
         try:
-            res = requests.get(url, headers=HEADERS, params=params, timeout=15)
+            res = requests.get(url, headers=ESPN_SITE_HEADERS, params=params, timeout=15)
         except requests.RequestException as err:
             last_error = f"request error: {err}"
             continue
