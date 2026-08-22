@@ -1,0 +1,2286 @@
+{
+  "sportKey": "seriea",
+  "season": "2026-27",
+  "events": [
+    {
+      "id": "seriea-2026-08-22-internazionale-monza",
+      "weekend": "2026-08-22",
+      "name": "Internazionale v Monza",
+      "utc": "2026-08-22T16:30:00Z"
+    },
+    {
+      "id": "seriea-2026-08-22-udinese-como",
+      "weekend": "2026-08-22",
+      "name": "Udinese v Como",
+      "utc": "2026-08-22T16:30:00Z"
+    },
+    {
+      "id": "seriea-2026-08-22-genoa-napoli",
+      "weekend": "2026-08-22",
+      "name": "Genoa v Napoli",
+      "utc": "2026-08-22T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-08-22-parma-cagliari",
+      "weekend": "2026-08-22",
+      "name": "Parma v Cagliari",
+      "utc": "2026-08-22T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-08-23-frosinone-juventus",
+      "weekend": "2026-08-23",
+      "name": "Frosinone v Juventus",
+      "utc": "2026-08-23T16:30:00Z"
+    },
+    {
+      "id": "seriea-2026-08-23-venezia-lecce",
+      "weekend": "2026-08-23",
+      "name": "Venezia v Lecce",
+      "utc": "2026-08-23T16:30:00Z"
+    },
+    {
+      "id": "seriea-2026-08-23-atalanta-sassuolo",
+      "weekend": "2026-08-23",
+      "name": "Atalanta v Sassuolo",
+      "utc": "2026-08-23T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-08-23-torino-ac-milan",
+      "weekend": "2026-08-23",
+      "name": "Torino v AC Milan",
+      "utc": "2026-08-23T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-08-24-bologna-lazio",
+      "weekend": "2026-08-24",
+      "name": "Bologna v Lazio",
+      "utc": "2026-08-24T16:30:00Z"
+    },
+    {
+      "id": "seriea-2026-08-24-as-roma-fiorentina",
+      "weekend": "2026-08-24",
+      "name": "AS Roma v Fiorentina",
+      "utc": "2026-08-24T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-08-28-ac-milan-venezia",
+      "weekend": "2026-08-28",
+      "name": "AC Milan v Venezia",
+      "utc": "2026-08-28T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-08-29-fiorentina-frosinone",
+      "weekend": "2026-08-29",
+      "name": "Fiorentina v Frosinone",
+      "utc": "2026-08-29T16:30:00Z"
+    },
+    {
+      "id": "seriea-2026-08-29-monza-udinese",
+      "weekend": "2026-08-29",
+      "name": "Monza v Udinese",
+      "utc": "2026-08-29T16:30:00Z"
+    },
+    {
+      "id": "seriea-2026-08-29-sassuolo-torino",
+      "weekend": "2026-08-29",
+      "name": "Sassuolo v Torino",
+      "utc": "2026-08-29T16:30:00Z"
+    },
+    {
+      "id": "seriea-2026-08-29-juventus-parma",
+      "weekend": "2026-08-29",
+      "name": "Juventus v Parma",
+      "utc": "2026-08-29T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-08-30-napoli-como",
+      "weekend": "2026-08-30",
+      "name": "Napoli v Como",
+      "utc": "2026-08-30T16:30:00Z"
+    },
+    {
+      "id": "seriea-2026-08-30-cagliari-internazionale",
+      "weekend": "2026-08-30",
+      "name": "Cagliari v Internazionale",
+      "utc": "2026-08-30T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-08-30-lazio-genoa",
+      "weekend": "2026-08-30",
+      "name": "Lazio v Genoa",
+      "utc": "2026-08-30T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-08-31-lecce-as-roma",
+      "weekend": "2026-08-31",
+      "name": "Lecce v AS Roma",
+      "utc": "2026-08-31T16:30:00Z"
+    },
+    {
+      "id": "seriea-2026-08-31-atalanta-bologna",
+      "weekend": "2026-08-31",
+      "name": "Atalanta v Bologna",
+      "utc": "2026-08-31T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-09-04-genoa-como",
+      "weekend": "2026-09-04",
+      "name": "Genoa v Como",
+      "utc": "2026-09-04T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-09-05-fiorentina-torino",
+      "weekend": "2026-09-05",
+      "name": "Fiorentina v Torino",
+      "utc": "2026-09-05T13:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-05-internazionale-napoli",
+      "weekend": "2026-09-05",
+      "name": "Internazionale v Napoli",
+      "utc": "2026-09-05T16:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-05-as-roma-atalanta",
+      "weekend": "2026-09-05",
+      "name": "AS Roma v Atalanta",
+      "utc": "2026-09-05T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-09-06-frosinone-venezia",
+      "weekend": "2026-09-06",
+      "name": "Frosinone v Venezia",
+      "utc": "2026-09-06T13:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-06-parma-monza",
+      "weekend": "2026-09-06",
+      "name": "Parma v Monza",
+      "utc": "2026-09-06T13:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-06-bologna-sassuolo",
+      "weekend": "2026-09-06",
+      "name": "Bologna v Sassuolo",
+      "utc": "2026-09-06T16:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-06-juventus-ac-milan",
+      "weekend": "2026-09-06",
+      "name": "Juventus v AC Milan",
+      "utc": "2026-09-06T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-09-07-cagliari-lecce",
+      "weekend": "2026-09-07",
+      "name": "Cagliari v Lecce",
+      "utc": "2026-09-07T16:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-07-udinese-lazio",
+      "weekend": "2026-09-07",
+      "name": "Udinese v Lazio",
+      "utc": "2026-09-07T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-09-11-venezia-fiorentina",
+      "weekend": "2026-09-11",
+      "name": "Venezia v Fiorentina",
+      "utc": "2026-09-11T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-09-12-genoa-frosinone",
+      "weekend": "2026-09-12",
+      "name": "Genoa v Frosinone",
+      "utc": "2026-09-12T13:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-12-sassuolo-juventus",
+      "weekend": "2026-09-12",
+      "name": "Sassuolo v Juventus",
+      "utc": "2026-09-12T16:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-12-atalanta-cagliari",
+      "weekend": "2026-09-12",
+      "name": "Atalanta v Cagliari",
+      "utc": "2026-09-12T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-09-13-torino-as-roma",
+      "weekend": "2026-09-13",
+      "name": "Torino v AS Roma",
+      "utc": "2026-09-13T10:30:00Z"
+    },
+    {
+      "id": "seriea-2026-09-13-como-parma",
+      "weekend": "2026-09-13",
+      "name": "Como v Parma",
+      "utc": "2026-09-13T13:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-13-lecce-monza",
+      "weekend": "2026-09-13",
+      "name": "Lecce v Monza",
+      "utc": "2026-09-13T13:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-13-napoli-bologna",
+      "weekend": "2026-09-13",
+      "name": "Napoli v Bologna",
+      "utc": "2026-09-13T16:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-13-lazio-ac-milan",
+      "weekend": "2026-09-13",
+      "name": "Lazio v AC Milan",
+      "utc": "2026-09-13T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-09-14-internazionale-udinese",
+      "weekend": "2026-09-14",
+      "name": "Internazionale v Udinese",
+      "utc": "2026-09-14T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-09-18-monza-sassuolo",
+      "weekend": "2026-09-18",
+      "name": "Monza v Sassuolo",
+      "utc": "2026-09-18T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-09-19-bologna-torino",
+      "weekend": "2026-09-19",
+      "name": "Bologna v Torino",
+      "utc": "2026-09-19T13:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-19-udinese-cagliari",
+      "weekend": "2026-09-19",
+      "name": "Udinese v Cagliari",
+      "utc": "2026-09-19T13:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-19-as-roma-internazionale",
+      "weekend": "2026-09-19",
+      "name": "AS Roma v Internazionale",
+      "utc": "2026-09-19T16:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-19-venezia-lazio",
+      "weekend": "2026-09-19",
+      "name": "Venezia v Lazio",
+      "utc": "2026-09-19T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-09-20-fiorentina-napoli",
+      "weekend": "2026-09-20",
+      "name": "Fiorentina v Napoli",
+      "utc": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "seriea-2026-09-20-frosinone-como",
+      "weekend": "2026-09-20",
+      "name": "Frosinone v Como",
+      "utc": "2026-09-20T13:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-20-parma-genoa",
+      "weekend": "2026-09-20",
+      "name": "Parma v Genoa",
+      "utc": "2026-09-20T13:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-20-juventus-atalanta",
+      "weekend": "2026-09-20",
+      "name": "Juventus v Atalanta",
+      "utc": "2026-09-20T16:00:00Z"
+    },
+    {
+      "id": "seriea-2026-09-20-ac-milan-lecce",
+      "weekend": "2026-09-20",
+      "name": "AC Milan v Lecce",
+      "utc": "2026-09-20T18:45:00Z"
+    },
+    {
+      "id": "seriea-2026-10-11-atalanta-venezia",
+      "weekend": "2026-10-11",
+      "name": "Atalanta v Venezia",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-11-cagliari-juventus",
+      "weekend": "2026-10-11",
+      "name": "Cagliari v Juventus",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-11-como-as-roma",
+      "weekend": "2026-10-11",
+      "name": "Como v AS Roma",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-11-genoa-fiorentina",
+      "weekend": "2026-10-11",
+      "name": "Genoa v Fiorentina",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-11-internazionale-parma",
+      "weekend": "2026-10-11",
+      "name": "Internazionale v Parma",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-11-lazio-monza",
+      "weekend": "2026-10-11",
+      "name": "Lazio v Monza",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-11-lecce-bologna",
+      "weekend": "2026-10-11",
+      "name": "Lecce v Bologna",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-11-napoli-frosinone",
+      "weekend": "2026-10-11",
+      "name": "Napoli v Frosinone",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-11-sassuolo-ac-milan",
+      "weekend": "2026-10-11",
+      "name": "Sassuolo v AC Milan",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-11-torino-udinese",
+      "weekend": "2026-10-11",
+      "name": "Torino v Udinese",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-17-ac-milan-atalanta",
+      "weekend": "2026-10-17",
+      "name": "AC Milan v Atalanta",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-17-as-roma-genoa",
+      "weekend": "2026-10-17",
+      "name": "AS Roma v Genoa",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-17-bologna-internazionale",
+      "weekend": "2026-10-17",
+      "name": "Bologna v Internazionale",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-17-fiorentina-como",
+      "weekend": "2026-10-17",
+      "name": "Fiorentina v Como",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-17-frosinone-sassuolo",
+      "weekend": "2026-10-17",
+      "name": "Frosinone v Sassuolo",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-17-juventus-lazio",
+      "weekend": "2026-10-17",
+      "name": "Juventus v Lazio",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-17-monza-cagliari",
+      "weekend": "2026-10-17",
+      "name": "Monza v Cagliari",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-17-parma-torino",
+      "weekend": "2026-10-17",
+      "name": "Parma v Torino",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-17-udinese-lecce",
+      "weekend": "2026-10-17",
+      "name": "Udinese v Lecce",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-17-venezia-napoli",
+      "weekend": "2026-10-17",
+      "name": "Venezia v Napoli",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-25-atalanta-frosinone",
+      "weekend": "2026-10-25",
+      "name": "Atalanta v Frosinone",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-25-cagliari-bologna",
+      "weekend": "2026-10-25",
+      "name": "Cagliari v Bologna",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-25-como-sassuolo",
+      "weekend": "2026-10-25",
+      "name": "Como v Sassuolo",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-25-genoa-venezia",
+      "weekend": "2026-10-25",
+      "name": "Genoa v Venezia",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-25-internazionale-fiorentina",
+      "weekend": "2026-10-25",
+      "name": "Internazionale v Fiorentina",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-25-lazio-parma",
+      "weekend": "2026-10-25",
+      "name": "Lazio v Parma",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-25-lecce-juventus",
+      "weekend": "2026-10-25",
+      "name": "Lecce v Juventus",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-25-napoli-as-roma",
+      "weekend": "2026-10-25",
+      "name": "Napoli v AS Roma",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-25-torino-monza",
+      "weekend": "2026-10-25",
+      "name": "Torino v Monza",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-25-udinese-ac-milan",
+      "weekend": "2026-10-25",
+      "name": "Udinese v AC Milan",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-28-ac-milan-bologna",
+      "weekend": "2026-10-28",
+      "name": "AC Milan v Bologna",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-28-as-roma-cagliari",
+      "weekend": "2026-10-28",
+      "name": "AS Roma v Cagliari",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-28-fiorentina-atalanta",
+      "weekend": "2026-10-28",
+      "name": "Fiorentina v Atalanta",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-28-frosinone-lecce",
+      "weekend": "2026-10-28",
+      "name": "Frosinone v Lecce",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-28-genoa-juventus",
+      "weekend": "2026-10-28",
+      "name": "Genoa v Juventus",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-28-monza-napoli",
+      "weekend": "2026-10-28",
+      "name": "Monza v Napoli",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-28-parma-udinese",
+      "weekend": "2026-10-28",
+      "name": "Parma v Udinese",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-28-sassuolo-lazio",
+      "weekend": "2026-10-28",
+      "name": "Sassuolo v Lazio",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-28-torino-como",
+      "weekend": "2026-10-28",
+      "name": "Torino v Como",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-10-28-venezia-internazionale",
+      "weekend": "2026-10-28",
+      "name": "Venezia v Internazionale",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-01-ac-milan-internazionale",
+      "weekend": "2026-11-01",
+      "name": "AC Milan v Internazionale",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-01-atalanta-parma",
+      "weekend": "2026-11-01",
+      "name": "Atalanta v Parma",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-01-bologna-monza",
+      "weekend": "2026-11-01",
+      "name": "Bologna v Monza",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-01-como-venezia",
+      "weekend": "2026-11-01",
+      "name": "Como v Venezia",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-01-frosinone-torino",
+      "weekend": "2026-11-01",
+      "name": "Frosinone v Torino",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-01-juventus-napoli",
+      "weekend": "2026-11-01",
+      "name": "Juventus v Napoli",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-01-lazio-cagliari",
+      "weekend": "2026-11-01",
+      "name": "Lazio v Cagliari",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-01-lecce-genoa",
+      "weekend": "2026-11-01",
+      "name": "Lecce v Genoa",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-01-sassuolo-fiorentina",
+      "weekend": "2026-11-01",
+      "name": "Sassuolo v Fiorentina",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-01-udinese-as-roma",
+      "weekend": "2026-11-01",
+      "name": "Udinese v AS Roma",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-08-as-roma-sassuolo",
+      "weekend": "2026-11-08",
+      "name": "AS Roma v Sassuolo",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-08-cagliari-frosinone",
+      "weekend": "2026-11-08",
+      "name": "Cagliari v Frosinone",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-08-fiorentina-juventus",
+      "weekend": "2026-11-08",
+      "name": "Fiorentina v Juventus",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-08-genoa-ac-milan",
+      "weekend": "2026-11-08",
+      "name": "Genoa v AC Milan",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-08-internazionale-como",
+      "weekend": "2026-11-08",
+      "name": "Internazionale v Como",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-08-monza-atalanta",
+      "weekend": "2026-11-08",
+      "name": "Monza v Atalanta",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-08-napoli-lazio",
+      "weekend": "2026-11-08",
+      "name": "Napoli v Lazio",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-08-parma-bologna",
+      "weekend": "2026-11-08",
+      "name": "Parma v Bologna",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-08-torino-lecce",
+      "weekend": "2026-11-08",
+      "name": "Torino v Lecce",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-08-venezia-udinese",
+      "weekend": "2026-11-08",
+      "name": "Venezia v Udinese",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-22-ac-milan-frosinone",
+      "weekend": "2026-11-22",
+      "name": "AC Milan v Frosinone",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-22-atalanta-internazionale",
+      "weekend": "2026-11-22",
+      "name": "Atalanta v Internazionale",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-22-bologna-udinese",
+      "weekend": "2026-11-22",
+      "name": "Bologna v Udinese",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-22-como-cagliari",
+      "weekend": "2026-11-22",
+      "name": "Como v Cagliari",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-22-juventus-venezia",
+      "weekend": "2026-11-22",
+      "name": "Juventus v Venezia",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-22-lazio-lecce",
+      "weekend": "2026-11-22",
+      "name": "Lazio v Lecce",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-22-monza-fiorentina",
+      "weekend": "2026-11-22",
+      "name": "Monza v Fiorentina",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-22-napoli-torino",
+      "weekend": "2026-11-22",
+      "name": "Napoli v Torino",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-22-parma-as-roma",
+      "weekend": "2026-11-22",
+      "name": "Parma v AS Roma",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-22-sassuolo-genoa",
+      "weekend": "2026-11-22",
+      "name": "Sassuolo v Genoa",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-29-as-roma-monza",
+      "weekend": "2026-11-29",
+      "name": "AS Roma v Monza",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-29-cagliari-ac-milan",
+      "weekend": "2026-11-29",
+      "name": "Cagliari v AC Milan",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-29-como-juventus",
+      "weekend": "2026-11-29",
+      "name": "Como v Juventus",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-29-frosinone-parma",
+      "weekend": "2026-11-29",
+      "name": "Frosinone v Parma",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-29-internazionale-genoa",
+      "weekend": "2026-11-29",
+      "name": "Internazionale v Genoa",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-29-lecce-atalanta",
+      "weekend": "2026-11-29",
+      "name": "Lecce v Atalanta",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-29-sassuolo-napoli",
+      "weekend": "2026-11-29",
+      "name": "Sassuolo v Napoli",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-29-torino-lazio",
+      "weekend": "2026-11-29",
+      "name": "Torino v Lazio",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-29-udinese-fiorentina",
+      "weekend": "2026-11-29",
+      "name": "Udinese v Fiorentina",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-11-29-venezia-bologna",
+      "weekend": "2026-11-29",
+      "name": "Venezia v Bologna",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-06-ac-milan-parma",
+      "weekend": "2026-12-06",
+      "name": "AC Milan v Parma",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-06-bologna-as-roma",
+      "weekend": "2026-12-06",
+      "name": "Bologna v AS Roma",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-06-fiorentina-cagliari",
+      "weekend": "2026-12-06",
+      "name": "Fiorentina v Cagliari",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-06-frosinone-internazionale",
+      "weekend": "2026-12-06",
+      "name": "Frosinone v Internazionale",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-06-genoa-torino",
+      "weekend": "2026-12-06",
+      "name": "Genoa v Torino",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-06-juventus-udinese",
+      "weekend": "2026-12-06",
+      "name": "Juventus v Udinese",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-06-lazio-atalanta",
+      "weekend": "2026-12-06",
+      "name": "Lazio v Atalanta",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-06-monza-como",
+      "weekend": "2026-12-06",
+      "name": "Monza v Como",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-06-napoli-lecce",
+      "weekend": "2026-12-06",
+      "name": "Napoli v Lecce",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-06-venezia-sassuolo",
+      "weekend": "2026-12-06",
+      "name": "Venezia v Sassuolo",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-13-atalanta-genoa",
+      "weekend": "2026-12-13",
+      "name": "Atalanta v Genoa",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-13-cagliari-venezia",
+      "weekend": "2026-12-13",
+      "name": "Cagliari v Venezia",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-13-como-bologna",
+      "weekend": "2026-12-13",
+      "name": "Como v Bologna",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-13-internazionale-torino",
+      "weekend": "2026-12-13",
+      "name": "Internazionale v Torino",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-13-juventus-monza",
+      "weekend": "2026-12-13",
+      "name": "Juventus v Monza",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-13-lazio-as-roma",
+      "weekend": "2026-12-13",
+      "name": "Lazio v AS Roma",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-13-lecce-sassuolo",
+      "weekend": "2026-12-13",
+      "name": "Lecce v Sassuolo",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-13-napoli-ac-milan",
+      "weekend": "2026-12-13",
+      "name": "Napoli v AC Milan",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-13-parma-fiorentina",
+      "weekend": "2026-12-13",
+      "name": "Parma v Fiorentina",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-13-udinese-frosinone",
+      "weekend": "2026-12-13",
+      "name": "Udinese v Frosinone",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-20-ac-milan-como",
+      "weekend": "2026-12-20",
+      "name": "AC Milan v Como",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-20-as-roma-juventus",
+      "weekend": "2026-12-20",
+      "name": "AS Roma v Juventus",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-20-atalanta-napoli",
+      "weekend": "2026-12-20",
+      "name": "Atalanta v Napoli",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-20-fiorentina-bologna",
+      "weekend": "2026-12-20",
+      "name": "Fiorentina v Bologna",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-20-frosinone-lazio",
+      "weekend": "2026-12-20",
+      "name": "Frosinone v Lazio",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-20-genoa-udinese",
+      "weekend": "2026-12-20",
+      "name": "Genoa v Udinese",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-20-lecce-internazionale",
+      "weekend": "2026-12-20",
+      "name": "Lecce v Internazionale",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-20-sassuolo-parma",
+      "weekend": "2026-12-20",
+      "name": "Sassuolo v Parma",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-20-torino-cagliari",
+      "weekend": "2026-12-20",
+      "name": "Torino v Cagliari",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "seriea-2026-12-20-venezia-monza",
+      "weekend": "2026-12-20",
+      "name": "Venezia v Monza",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-03-as-roma-frosinone",
+      "weekend": "2027-01-03",
+      "name": "AS Roma v Frosinone",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-03-bologna-juventus",
+      "weekend": "2027-01-03",
+      "name": "Bologna v Juventus",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-03-cagliari-genoa",
+      "weekend": "2027-01-03",
+      "name": "Cagliari v Genoa",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-03-como-lecce",
+      "weekend": "2027-01-03",
+      "name": "Como v Lecce",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-03-fiorentina-lazio",
+      "weekend": "2027-01-03",
+      "name": "Fiorentina v Lazio",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-03-internazionale-sassuolo",
+      "weekend": "2027-01-03",
+      "name": "Internazionale v Sassuolo",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-03-monza-ac-milan",
+      "weekend": "2027-01-03",
+      "name": "Monza v AC Milan",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-03-parma-napoli",
+      "weekend": "2027-01-03",
+      "name": "Parma v Napoli",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-03-torino-venezia",
+      "weekend": "2027-01-03",
+      "name": "Torino v Venezia",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-03-udinese-atalanta",
+      "weekend": "2027-01-03",
+      "name": "Udinese v Atalanta",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-06-ac-milan-fiorentina",
+      "weekend": "2027-01-06",
+      "name": "AC Milan v Fiorentina",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-06-atalanta-como",
+      "weekend": "2027-01-06",
+      "name": "Atalanta v Como",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-06-frosinone-bologna",
+      "weekend": "2027-01-06",
+      "name": "Frosinone v Bologna",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-06-genoa-monza",
+      "weekend": "2027-01-06",
+      "name": "Genoa v Monza",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-06-juventus-torino",
+      "weekend": "2027-01-06",
+      "name": "Juventus v Torino",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-06-lazio-internazionale",
+      "weekend": "2027-01-06",
+      "name": "Lazio v Internazionale",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-06-lecce-parma",
+      "weekend": "2027-01-06",
+      "name": "Lecce v Parma",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-06-napoli-cagliari",
+      "weekend": "2027-01-06",
+      "name": "Napoli v Cagliari",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-06-sassuolo-udinese",
+      "weekend": "2027-01-06",
+      "name": "Sassuolo v Udinese",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-06-venezia-as-roma",
+      "weekend": "2027-01-06",
+      "name": "Venezia v AS Roma",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-10-as-roma-ac-milan",
+      "weekend": "2027-01-10",
+      "name": "AS Roma v AC Milan",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-10-bologna-genoa",
+      "weekend": "2027-01-10",
+      "name": "Bologna v Genoa",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-10-cagliari-sassuolo",
+      "weekend": "2027-01-10",
+      "name": "Cagliari v Sassuolo",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-10-como-lazio",
+      "weekend": "2027-01-10",
+      "name": "Como v Lazio",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-10-fiorentina-lecce",
+      "weekend": "2027-01-10",
+      "name": "Fiorentina v Lecce",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-10-internazionale-juventus",
+      "weekend": "2027-01-10",
+      "name": "Internazionale v Juventus",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-10-monza-frosinone",
+      "weekend": "2027-01-10",
+      "name": "Monza v Frosinone",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-10-parma-venezia",
+      "weekend": "2027-01-10",
+      "name": "Parma v Venezia",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-10-torino-atalanta",
+      "weekend": "2027-01-10",
+      "name": "Torino v Atalanta",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-10-udinese-napoli",
+      "weekend": "2027-01-10",
+      "name": "Udinese v Napoli",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-17-ac-milan-torino",
+      "weekend": "2027-01-17",
+      "name": "AC Milan v Torino",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-17-atalanta-as-roma",
+      "weekend": "2027-01-17",
+      "name": "Atalanta v AS Roma",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-17-cagliari-como",
+      "weekend": "2027-01-17",
+      "name": "Cagliari v Como",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-17-juventus-genoa",
+      "weekend": "2027-01-17",
+      "name": "Juventus v Genoa",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-17-lazio-bologna",
+      "weekend": "2027-01-17",
+      "name": "Lazio v Bologna",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-17-lecce-udinese",
+      "weekend": "2027-01-17",
+      "name": "Lecce v Udinese",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-17-napoli-fiorentina",
+      "weekend": "2027-01-17",
+      "name": "Napoli v Fiorentina",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-17-parma-internazionale",
+      "weekend": "2027-01-17",
+      "name": "Parma v Internazionale",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-17-sassuolo-monza",
+      "weekend": "2027-01-17",
+      "name": "Sassuolo v Monza",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-17-venezia-frosinone",
+      "weekend": "2027-01-17",
+      "name": "Venezia v Frosinone",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-24-as-roma-udinese",
+      "weekend": "2027-01-24",
+      "name": "AS Roma v Udinese",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-24-bologna-atalanta",
+      "weekend": "2027-01-24",
+      "name": "Bologna v Atalanta",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-24-como-napoli",
+      "weekend": "2027-01-24",
+      "name": "Como v Napoli",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-24-fiorentina-sassuolo",
+      "weekend": "2027-01-24",
+      "name": "Fiorentina v Sassuolo",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-24-frosinone-ac-milan",
+      "weekend": "2027-01-24",
+      "name": "Frosinone v AC Milan",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-24-genoa-parma",
+      "weekend": "2027-01-24",
+      "name": "Genoa v Parma",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-24-internazionale-venezia",
+      "weekend": "2027-01-24",
+      "name": "Internazionale v Venezia",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-24-juventus-cagliari",
+      "weekend": "2027-01-24",
+      "name": "Juventus v Cagliari",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-24-lecce-torino",
+      "weekend": "2027-01-24",
+      "name": "Lecce v Torino",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-24-monza-lazio",
+      "weekend": "2027-01-24",
+      "name": "Monza v Lazio",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-31-ac-milan-juventus",
+      "weekend": "2027-01-31",
+      "name": "AC Milan v Juventus",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-31-atalanta-fiorentina",
+      "weekend": "2027-01-31",
+      "name": "Atalanta v Fiorentina",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-31-cagliari-parma",
+      "weekend": "2027-01-31",
+      "name": "Cagliari v Parma",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-31-genoa-lecce",
+      "weekend": "2027-01-31",
+      "name": "Genoa v Lecce",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-31-lazio-venezia",
+      "weekend": "2027-01-31",
+      "name": "Lazio v Venezia",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-31-monza-as-roma",
+      "weekend": "2027-01-31",
+      "name": "Monza v AS Roma",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-31-napoli-internazionale",
+      "weekend": "2027-01-31",
+      "name": "Napoli v Internazionale",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-31-sassuolo-como",
+      "weekend": "2027-01-31",
+      "name": "Sassuolo v Como",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-31-torino-frosinone",
+      "weekend": "2027-01-31",
+      "name": "Torino v Frosinone",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-01-31-udinese-bologna",
+      "weekend": "2027-01-31",
+      "name": "Udinese v Bologna",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-07-as-roma-torino",
+      "weekend": "2027-02-07",
+      "name": "AS Roma v Torino",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-07-atalanta-lazio",
+      "weekend": "2027-02-07",
+      "name": "Atalanta v Lazio",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-07-bologna-ac-milan",
+      "weekend": "2027-02-07",
+      "name": "Bologna v AC Milan",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-07-como-monza",
+      "weekend": "2027-02-07",
+      "name": "Como v Monza",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-07-fiorentina-udinese",
+      "weekend": "2027-02-07",
+      "name": "Fiorentina v Udinese",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-07-internazionale-cagliari",
+      "weekend": "2027-02-07",
+      "name": "Internazionale v Cagliari",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-07-juventus-sassuolo",
+      "weekend": "2027-02-07",
+      "name": "Juventus v Sassuolo",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-07-lecce-napoli",
+      "weekend": "2027-02-07",
+      "name": "Lecce v Napoli",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-07-parma-frosinone",
+      "weekend": "2027-02-07",
+      "name": "Parma v Frosinone",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-07-venezia-genoa",
+      "weekend": "2027-02-07",
+      "name": "Venezia v Genoa",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-14-as-roma-parma",
+      "weekend": "2027-02-14",
+      "name": "AS Roma v Parma",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-14-bologna-como",
+      "weekend": "2027-02-14",
+      "name": "Bologna v Como",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-14-cagliari-lazio",
+      "weekend": "2027-02-14",
+      "name": "Cagliari v Lazio",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-14-frosinone-fiorentina",
+      "weekend": "2027-02-14",
+      "name": "Frosinone v Fiorentina",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-14-genoa-atalanta",
+      "weekend": "2027-02-14",
+      "name": "Genoa v Atalanta",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-14-internazionale-ac-milan",
+      "weekend": "2027-02-14",
+      "name": "Internazionale v AC Milan",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-14-monza-lecce",
+      "weekend": "2027-02-14",
+      "name": "Monza v Lecce",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-14-napoli-juventus",
+      "weekend": "2027-02-14",
+      "name": "Napoli v Juventus",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-14-torino-sassuolo",
+      "weekend": "2027-02-14",
+      "name": "Torino v Sassuolo",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-14-udinese-venezia",
+      "weekend": "2027-02-14",
+      "name": "Udinese v Venezia",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-21-ac-milan-genoa",
+      "weekend": "2027-02-21",
+      "name": "AC Milan v Genoa",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-21-atalanta-monza",
+      "weekend": "2027-02-21",
+      "name": "Atalanta v Monza",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-21-como-torino",
+      "weekend": "2027-02-21",
+      "name": "Como v Torino",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-21-fiorentina-internazionale",
+      "weekend": "2027-02-21",
+      "name": "Fiorentina v Internazionale",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-21-juventus-bologna",
+      "weekend": "2027-02-21",
+      "name": "Juventus v Bologna",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-21-lazio-napoli",
+      "weekend": "2027-02-21",
+      "name": "Lazio v Napoli",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-21-lecce-frosinone",
+      "weekend": "2027-02-21",
+      "name": "Lecce v Frosinone",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-21-sassuolo-as-roma",
+      "weekend": "2027-02-21",
+      "name": "Sassuolo v AS Roma",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-21-udinese-parma",
+      "weekend": "2027-02-21",
+      "name": "Udinese v Parma",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-21-venezia-cagliari",
+      "weekend": "2027-02-21",
+      "name": "Venezia v Cagliari",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-28-as-roma-venezia",
+      "weekend": "2027-02-28",
+      "name": "AS Roma v Venezia",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-28-bologna-lecce",
+      "weekend": "2027-02-28",
+      "name": "Bologna v Lecce",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-28-cagliari-udinese",
+      "weekend": "2027-02-28",
+      "name": "Cagliari v Udinese",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-28-como-ac-milan",
+      "weekend": "2027-02-28",
+      "name": "Como v AC Milan",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-28-frosinone-napoli",
+      "weekend": "2027-02-28",
+      "name": "Frosinone v Napoli",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-28-genoa-lazio",
+      "weekend": "2027-02-28",
+      "name": "Genoa v Lazio",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-28-internazionale-atalanta",
+      "weekend": "2027-02-28",
+      "name": "Internazionale v Atalanta",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-28-monza-juventus",
+      "weekend": "2027-02-28",
+      "name": "Monza v Juventus",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-28-parma-sassuolo",
+      "weekend": "2027-02-28",
+      "name": "Parma v Sassuolo",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-02-28-torino-fiorentina",
+      "weekend": "2027-02-28",
+      "name": "Torino v Fiorentina",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-07-ac-milan-cagliari",
+      "weekend": "2027-03-07",
+      "name": "AC Milan v Cagliari",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-07-atalanta-torino",
+      "weekend": "2027-03-07",
+      "name": "Atalanta v Torino",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-07-fiorentina-venezia",
+      "weekend": "2027-03-07",
+      "name": "Fiorentina v Venezia",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-07-juventus-as-roma",
+      "weekend": "2027-03-07",
+      "name": "Juventus v AS Roma",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-07-lazio-frosinone",
+      "weekend": "2027-03-07",
+      "name": "Lazio v Frosinone",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-07-lecce-como",
+      "weekend": "2027-03-07",
+      "name": "Lecce v Como",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-07-monza-genoa",
+      "weekend": "2027-03-07",
+      "name": "Monza v Genoa",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-07-napoli-parma",
+      "weekend": "2027-03-07",
+      "name": "Napoli v Parma",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-07-sassuolo-bologna",
+      "weekend": "2027-03-07",
+      "name": "Sassuolo v Bologna",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-07-udinese-internazionale",
+      "weekend": "2027-03-07",
+      "name": "Udinese v Internazionale",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-14-ac-milan-sassuolo",
+      "weekend": "2027-03-14",
+      "name": "AC Milan v Sassuolo",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-14-bologna-napoli",
+      "weekend": "2027-03-14",
+      "name": "Bologna v Napoli",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-14-cagliari-fiorentina",
+      "weekend": "2027-03-14",
+      "name": "Cagliari v Fiorentina",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-14-como-udinese",
+      "weekend": "2027-03-14",
+      "name": "Como v Udinese",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-14-frosinone-monza",
+      "weekend": "2027-03-14",
+      "name": "Frosinone v Monza",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-14-genoa-as-roma",
+      "weekend": "2027-03-14",
+      "name": "Genoa v AS Roma",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-14-lazio-juventus",
+      "weekend": "2027-03-14",
+      "name": "Lazio v Juventus",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-14-parma-lecce",
+      "weekend": "2027-03-14",
+      "name": "Parma v Lecce",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-14-torino-internazionale",
+      "weekend": "2027-03-14",
+      "name": "Torino v Internazionale",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-14-venezia-atalanta",
+      "weekend": "2027-03-14",
+      "name": "Venezia v Atalanta",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-21-as-roma-lecce",
+      "weekend": "2027-03-21",
+      "name": "AS Roma v Lecce",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-21-atalanta-ac-milan",
+      "weekend": "2027-03-21",
+      "name": "Atalanta v AC Milan",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-21-fiorentina-genoa",
+      "weekend": "2027-03-21",
+      "name": "Fiorentina v Genoa",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-21-internazionale-frosinone",
+      "weekend": "2027-03-21",
+      "name": "Internazionale v Frosinone",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-21-juventus-como",
+      "weekend": "2027-03-21",
+      "name": "Juventus v Como",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-21-monza-bologna",
+      "weekend": "2027-03-21",
+      "name": "Monza v Bologna",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-21-napoli-venezia",
+      "weekend": "2027-03-21",
+      "name": "Napoli v Venezia",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-21-parma-lazio",
+      "weekend": "2027-03-21",
+      "name": "Parma v Lazio",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-21-sassuolo-cagliari",
+      "weekend": "2027-03-21",
+      "name": "Sassuolo v Cagliari",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-03-21-udinese-torino",
+      "weekend": "2027-03-21",
+      "name": "Udinese v Torino",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-04-ac-milan-monza",
+      "weekend": "2027-04-04",
+      "name": "AC Milan v Monza",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-04-as-roma-bologna",
+      "weekend": "2027-04-04",
+      "name": "AS Roma v Bologna",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-04-cagliari-napoli",
+      "weekend": "2027-04-04",
+      "name": "Cagliari v Napoli",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-04-como-fiorentina",
+      "weekend": "2027-04-04",
+      "name": "Como v Fiorentina",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-04-frosinone-udinese",
+      "weekend": "2027-04-04",
+      "name": "Frosinone v Udinese",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-04-genoa-internazionale",
+      "weekend": "2027-04-04",
+      "name": "Genoa v Internazionale",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-04-lecce-lazio",
+      "weekend": "2027-04-04",
+      "name": "Lecce v Lazio",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-04-sassuolo-atalanta",
+      "weekend": "2027-04-04",
+      "name": "Sassuolo v Atalanta",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-04-torino-juventus",
+      "weekend": "2027-04-04",
+      "name": "Torino v Juventus",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-04-venezia-parma",
+      "weekend": "2027-04-04",
+      "name": "Venezia v Parma",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-11-bologna-venezia",
+      "weekend": "2027-04-11",
+      "name": "Bologna v Venezia",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-11-cagliari-atalanta",
+      "weekend": "2027-04-11",
+      "name": "Cagliari v Atalanta",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-11-fiorentina-ac-milan",
+      "weekend": "2027-04-11",
+      "name": "Fiorentina v AC Milan",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-11-frosinone-genoa",
+      "weekend": "2027-04-11",
+      "name": "Frosinone v Genoa",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-11-internazionale-as-roma",
+      "weekend": "2027-04-11",
+      "name": "Internazionale v AS Roma",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-11-juventus-lecce",
+      "weekend": "2027-04-11",
+      "name": "Juventus v Lecce",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-11-lazio-torino",
+      "weekend": "2027-04-11",
+      "name": "Lazio v Torino",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-11-napoli-sassuolo",
+      "weekend": "2027-04-11",
+      "name": "Napoli v Sassuolo",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-11-parma-como",
+      "weekend": "2027-04-11",
+      "name": "Parma v Como",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-11-udinese-monza",
+      "weekend": "2027-04-11",
+      "name": "Udinese v Monza",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-18-ac-milan-napoli",
+      "weekend": "2027-04-18",
+      "name": "AC Milan v Napoli",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-18-as-roma-lazio",
+      "weekend": "2027-04-18",
+      "name": "AS Roma v Lazio",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-18-atalanta-udinese",
+      "weekend": "2027-04-18",
+      "name": "Atalanta v Udinese",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-18-bologna-cagliari",
+      "weekend": "2027-04-18",
+      "name": "Bologna v Cagliari",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-18-como-frosinone",
+      "weekend": "2027-04-18",
+      "name": "Como v Frosinone",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-18-fiorentina-parma",
+      "weekend": "2027-04-18",
+      "name": "Fiorentina v Parma",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-18-monza-internazionale",
+      "weekend": "2027-04-18",
+      "name": "Monza v Internazionale",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-18-sassuolo-lecce",
+      "weekend": "2027-04-18",
+      "name": "Sassuolo v Lecce",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-18-torino-genoa",
+      "weekend": "2027-04-18",
+      "name": "Torino v Genoa",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-18-venezia-juventus",
+      "weekend": "2027-04-18",
+      "name": "Venezia v Juventus",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-25-cagliari-monza",
+      "weekend": "2027-04-25",
+      "name": "Cagliari v Monza",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-25-frosinone-as-roma",
+      "weekend": "2027-04-25",
+      "name": "Frosinone v AS Roma",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-25-genoa-sassuolo",
+      "weekend": "2027-04-25",
+      "name": "Genoa v Sassuolo",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-25-internazionale-bologna",
+      "weekend": "2027-04-25",
+      "name": "Internazionale v Bologna",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-25-juventus-fiorentina",
+      "weekend": "2027-04-25",
+      "name": "Juventus v Fiorentina",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-25-lazio-como",
+      "weekend": "2027-04-25",
+      "name": "Lazio v Como",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-25-lecce-ac-milan",
+      "weekend": "2027-04-25",
+      "name": "Lecce v AC Milan",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-25-napoli-udinese",
+      "weekend": "2027-04-25",
+      "name": "Napoli v Udinese",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-25-parma-atalanta",
+      "weekend": "2027-04-25",
+      "name": "Parma v Atalanta",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-04-25-venezia-torino",
+      "weekend": "2027-04-25",
+      "name": "Venezia v Torino",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-02-ac-milan-lazio",
+      "weekend": "2027-05-02",
+      "name": "AC Milan v Lazio",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-02-as-roma-napoli",
+      "weekend": "2027-05-02",
+      "name": "AS Roma v Napoli",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-02-atalanta-juventus",
+      "weekend": "2027-05-02",
+      "name": "Atalanta v Juventus",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-02-bologna-fiorentina",
+      "weekend": "2027-05-02",
+      "name": "Bologna v Fiorentina",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-02-como-internazionale",
+      "weekend": "2027-05-02",
+      "name": "Como v Internazionale",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-02-lecce-cagliari",
+      "weekend": "2027-05-02",
+      "name": "Lecce v Cagliari",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-02-monza-venezia",
+      "weekend": "2027-05-02",
+      "name": "Monza v Venezia",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-02-sassuolo-frosinone",
+      "weekend": "2027-05-02",
+      "name": "Sassuolo v Frosinone",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-02-torino-parma",
+      "weekend": "2027-05-02",
+      "name": "Torino v Parma",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-02-udinese-genoa",
+      "weekend": "2027-05-02",
+      "name": "Udinese v Genoa",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-09-fiorentina-as-roma",
+      "weekend": "2027-05-09",
+      "name": "Fiorentina v AS Roma",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-09-frosinone-atalanta",
+      "weekend": "2027-05-09",
+      "name": "Frosinone v Atalanta",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-09-genoa-cagliari",
+      "weekend": "2027-05-09",
+      "name": "Genoa v Cagliari",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-09-internazionale-lecce",
+      "weekend": "2027-05-09",
+      "name": "Internazionale v Lecce",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-09-lazio-sassuolo",
+      "weekend": "2027-05-09",
+      "name": "Lazio v Sassuolo",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-09-napoli-monza",
+      "weekend": "2027-05-09",
+      "name": "Napoli v Monza",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-09-parma-ac-milan",
+      "weekend": "2027-05-09",
+      "name": "Parma v AC Milan",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-09-torino-bologna",
+      "weekend": "2027-05-09",
+      "name": "Torino v Bologna",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-09-udinese-juventus",
+      "weekend": "2027-05-09",
+      "name": "Udinese v Juventus",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-09-venezia-como",
+      "weekend": "2027-05-09",
+      "name": "Venezia v Como",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-16-ac-milan-as-roma",
+      "weekend": "2027-05-16",
+      "name": "AC Milan v AS Roma",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-16-bologna-frosinone",
+      "weekend": "2027-05-16",
+      "name": "Bologna v Frosinone",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-16-cagliari-torino",
+      "weekend": "2027-05-16",
+      "name": "Cagliari v Torino",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-16-como-atalanta",
+      "weekend": "2027-05-16",
+      "name": "Como v Atalanta",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-16-juventus-internazionale",
+      "weekend": "2027-05-16",
+      "name": "Juventus v Internazionale",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-16-lazio-udinese",
+      "weekend": "2027-05-16",
+      "name": "Lazio v Udinese",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-16-lecce-fiorentina",
+      "weekend": "2027-05-16",
+      "name": "Lecce v Fiorentina",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-16-monza-parma",
+      "weekend": "2027-05-16",
+      "name": "Monza v Parma",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-16-napoli-genoa",
+      "weekend": "2027-05-16",
+      "name": "Napoli v Genoa",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-16-sassuolo-venezia",
+      "weekend": "2027-05-16",
+      "name": "Sassuolo v Venezia",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-23-as-roma-como",
+      "weekend": "2027-05-23",
+      "name": "AS Roma v Como",
+      "utc": "2027-05-23T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-23-atalanta-lecce",
+      "weekend": "2027-05-23",
+      "name": "Atalanta v Lecce",
+      "utc": "2027-05-23T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-23-fiorentina-monza",
+      "weekend": "2027-05-23",
+      "name": "Fiorentina v Monza",
+      "utc": "2027-05-23T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-23-frosinone-cagliari",
+      "weekend": "2027-05-23",
+      "name": "Frosinone v Cagliari",
+      "utc": "2027-05-23T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-23-genoa-bologna",
+      "weekend": "2027-05-23",
+      "name": "Genoa v Bologna",
+      "utc": "2027-05-23T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-23-internazionale-lazio",
+      "weekend": "2027-05-23",
+      "name": "Internazionale v Lazio",
+      "utc": "2027-05-23T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-23-parma-juventus",
+      "weekend": "2027-05-23",
+      "name": "Parma v Juventus",
+      "utc": "2027-05-23T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-23-torino-napoli",
+      "weekend": "2027-05-23",
+      "name": "Torino v Napoli",
+      "utc": "2027-05-23T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-23-udinese-sassuolo",
+      "weekend": "2027-05-23",
+      "name": "Udinese v Sassuolo",
+      "utc": "2027-05-23T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-23-venezia-ac-milan",
+      "weekend": "2027-05-23",
+      "name": "Venezia v AC Milan",
+      "utc": "2027-05-23T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-30-ac-milan-udinese",
+      "weekend": "2027-05-30",
+      "name": "AC Milan v Udinese",
+      "utc": "2027-05-30T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-30-bologna-parma",
+      "weekend": "2027-05-30",
+      "name": "Bologna v Parma",
+      "utc": "2027-05-30T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-30-cagliari-as-roma",
+      "weekend": "2027-05-30",
+      "name": "Cagliari v AS Roma",
+      "utc": "2027-05-30T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-30-como-genoa",
+      "weekend": "2027-05-30",
+      "name": "Como v Genoa",
+      "utc": "2027-05-30T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-30-juventus-frosinone",
+      "weekend": "2027-05-30",
+      "name": "Juventus v Frosinone",
+      "utc": "2027-05-30T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-30-lazio-fiorentina",
+      "weekend": "2027-05-30",
+      "name": "Lazio v Fiorentina",
+      "utc": "2027-05-30T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-30-lecce-venezia",
+      "weekend": "2027-05-30",
+      "name": "Lecce v Venezia",
+      "utc": "2027-05-30T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-30-monza-torino",
+      "weekend": "2027-05-30",
+      "name": "Monza v Torino",
+      "utc": "2027-05-30T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-30-napoli-atalanta",
+      "weekend": "2027-05-30",
+      "name": "Napoli v Atalanta",
+      "utc": "2027-05-30T18:00:00Z"
+    },
+    {
+      "id": "seriea-2027-05-30-sassuolo-internazionale",
+      "weekend": "2027-05-30",
+      "name": "Sassuolo v Internazionale",
+      "utc": "2027-05-30T18:00:00Z"
+    }
+  ]
+}
