@@ -8,6 +8,7 @@ from here to avoid re-implementing the same fetch/id-safety/write logic.
 import json
 import sys
 import re
+import time
 from pathlib import Path
 
 import requests
@@ -20,11 +21,56 @@ HEADERS = {
 }
 
 
-def fetch(url: str, timeout: int = 20) -> str:
-    """GET a URL with a normal browser User-Agent and raise on HTTP errors."""
-    resp = requests.get(url, headers=HEADERS, timeout=timeout)
-    resp.raise_for_status()
-    return resp.text
+def fetch(url: str, timeout: int = 20, retries: int = 3, backoff: float = 2.0) -> str:
+    """GET a URL with a normal browser User-Agent and raise on HTTP errors.
+
+    Retries on timeouts/connection errors (transient network issues - e.g.
+    a slow response from a CI runner's shared IP) with exponential
+    backoff, but does not retry on a real HTTP error status (404/500/etc
+    from raise_for_status) since that's not going to fix itself on a
+    second try. A single unlucky timeout on a page like Jayski's schedule
+    table used to be enough to abort an entire scrape run for lack of a
+    retry - this is what actually fixes that, not a bigger timeout number.
+    """
+    last_err = None
+    for attempt in range(1, retries + 1):
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=timeout)
+            resp.raise_for_status()
+            return resp.text
+        except (requests.ConnectionError, requests.Timeout) as err:
+            last_err = err
+            if attempt < retries:
+                sleep_for = backoff ** (attempt - 1)
+                print(
+                    f"  fetch({url}) attempt {attempt}/{retries} failed ({err}), "
+                    f"retrying in {sleep_for:.0f}s...",
+                    file=sys.stderr,
+                )
+                time.sleep(sleep_for)
+    raise last_err
+
+
+def fetch_bytes(url: str, timeout: int = 20, retries: int = 3, backoff: float = 2.0) -> bytes:
+    """Same as fetch(), but for binary content (e.g. PDFs) - returns raw
+    bytes instead of decoded text."""
+    last_err = None
+    for attempt in range(1, retries + 1):
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=timeout)
+            resp.raise_for_status()
+            return resp.content
+        except (requests.ConnectionError, requests.Timeout) as err:
+            last_err = err
+            if attempt < retries:
+                sleep_for = backoff ** (attempt - 1)
+                print(
+                    f"  fetch_bytes({url}) attempt {attempt}/{retries} failed ({err}), "
+                    f"retrying in {sleep_for:.0f}s...",
+                    file=sys.stderr,
+                )
+                time.sleep(sleep_for)
+    raise last_err
 
 
 def slugify(text: str) -> str:
