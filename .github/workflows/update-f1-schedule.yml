@@ -33,7 +33,14 @@ jobs:
           git add motorsport/f1/2026.json
           if git diff --cached --quiet; then
             echo "No schedule changes detected."
-          else
-            git commit -m "Auto-update F1 2026 schedule ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-            git push
+            exit 0
           fi
+          git commit -m "Auto-update F1 2026 schedule ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "Push rejected (another workflow likely pushed first) - pulling and retrying ($i/5)..."
+            git pull --rebase origin main
+            sleep $((RANDOM % 10 + 1))
+          done
+          echo "Failed to push after 5 attempts" >&2
+          exit 1

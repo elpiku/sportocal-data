@@ -39,6 +39,15 @@ jobs:
           git config --local user.email "github-actions[bot]@github.com"
           git config --local user.name "github-actions[bot]"
           git add motorsport/wec/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update WEC schedule $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)
+          git diff --quiet && git diff --staged --quiet && exit 0
+          git commit -m "Update WEC schedule $(date -u '+%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "Push rejected (another workflow likely pushed first) - pulling and retrying ($i/5)..."
+            git pull --rebase origin main
+            sleep $((RANDOM % 10 + 1))
+          done
+          echo "Failed to push after 5 attempts" >&2
+          exit 1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
