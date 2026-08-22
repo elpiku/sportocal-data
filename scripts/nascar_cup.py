@@ -42,7 +42,7 @@ from pypdf import PdfReader
 import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import HEADERS, fetch, slugify, make_unique_id_assigner, write_output  # noqa: E402
+from common import HEADERS, fetch, fetch_bytes, slugify, make_unique_id_assigner, write_output  # noqa: E402
 
 SEASON_YEAR = 2026  # bump each year
 OUTPUT_PATH = Path(__file__).resolve().parent.parent / "motorsport" / "nascar" / "cup" / f"{SEASON_YEAR}.json"
@@ -264,14 +264,13 @@ def fetch_pdf_based_events(jayski_titles: dict) -> list[dict]:
     events = []
     for pdf_url in pdf_urls:
         try:
-            res = requests.get(pdf_url, headers=HEADERS, timeout=20)
-            res.raise_for_status()
+            pdf_bytes = fetch_bytes(pdf_url)
         except requests.RequestException as err:
             print(f"  Failed to fetch PDF {pdf_url}: {err}", file=sys.stderr)
             continue
 
         try:
-            sessions = parse_pdf_sessions(res.content)
+            sessions = parse_pdf_sessions(pdf_bytes)
         except Exception as err:  # malformed/unreadable PDF shouldn't kill the run
             print(f"  Failed to parse PDF {pdf_url}: {err}", file=sys.stderr)
             continue
