@@ -30,7 +30,9 @@ Run any of the per-league scripts from the repo root, e.g.:
   python scripts/premier_league.py
 """
 
+import json
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -64,14 +66,49 @@ def fetch_event_refs(league_slug: str, date_from: str, date_to: str) -> list[str
     return [item["$ref"] for item in items if isinstance(item, dict) and item.get("$ref")]
 
 
-def fetch_event(ref_url: str) -> dict | None:
-    try:
-        res = requests.get(ref_url, headers=HEADERS, timeout=15)
+def fetch_event(ref_url: str, retries: int = 3) -> tuple[dict | None, str | None]:
+    """Returns (event_json, error_reason). error_reason is None on success,
+    otherwise a short string describing why it failed - callers use this
+    for diagnostics rather than treating every failure as opaque.
+
+    Retries on HTTP 429 (rate limited) with backoff - ESPN's API is
+    reported to have a daily/burst rate limit, and since GitHub Actions
+    runners share IPs across many unrelated jobs also hitting ESPN, a
+    limit can get hit well before this scraper's own request count would
+    normally justify it. A uniform 100% failure rate across every event
+    in a league (despite a correct total count from the list endpoint)
+    is the signature of this, not a parsing bug.
+    """
+    last_error = None
+    for attempt in range(1, retries + 1):
+        try:
+            res = requests.get(ref_url, headers=HEADERS, timeout=15)
+        except requests.RequestException as err:
+            last_error = f"request error: {err}"
+            continue
+
+        if res.status_code == 429:
+            last_error = "HTTP 429 (rate limited)"
+            if attempt < retries:
+                retry_after = res.headers.get("Retry-After")
+                sleep_for = float(retry_after) if retry_after else 2.0 ** attempt
+                print(
+                    f"  Rate limited fetching {ref_url}, waiting {sleep_for:.0f}s "
+                    f"(attempt {attempt}/{retries})...",
+                    file=sys.stderr,
+                )
+                time.sleep(sleep_for)
+            continue
+
         if res.status_code != 200:
-            return None
-        return res.json()
-    except requests.RequestException:
-        return None
+            return None, f"HTTP {res.status_code}"
+
+        try:
+            return res.json(), None
+        except ValueError as err:
+            return None, f"invalid JSON: {err}"
+
+    return None, last_error
 
 
 def extract_teams(event: dict) -> tuple[str, str] | None:
@@ -141,14 +178,31 @@ def build_events(
 
     assign_id = make_unique_id_assigner()
     events = []
+    fetch_failures = 0
+    extract_failures = 0
+    debug_printed = 0
+
     for i, ref in enumerate(refs, 1):
-        event = fetch_event(ref)
-        if not event:
+        event, error = fetch_event(ref)
+        if error:
+            fetch_failures += 1
+            if fetch_failures <= 3:
+                print(f"  DEBUG: fetch failed for {ref}: {error}", file=sys.stderr)
             continue
 
         utc_iso = to_utc_iso(event.get("date"))
         teams = extract_teams(event)
         if not utc_iso or not teams:
+            extract_failures += 1
+            if debug_printed < 2:
+                print(
+                    f"  DEBUG: couldn't extract utc/teams from event at {ref}. "
+                    f"Top-level keys: {sorted(event.keys())}",
+                    file=sys.stderr,
+                )
+                print(f"  DEBUG: raw event JSON (first 2000 chars):", file=sys.stderr)
+                print(f"    {json.dumps(event)[:2000]}", file=sys.stderr)
+                debug_printed += 1
             continue
         home, away = teams
 
@@ -165,6 +219,14 @@ def build_events(
 
         if i % 50 == 0:
             print(f"  ...{i}/{len(refs)}", file=sys.stderr)
+
+    if fetch_failures or extract_failures:
+        print(
+            f"  {fetch_failures} event(s) failed to fetch, "
+            f"{extract_failures} fetched but couldn't be parsed "
+            f"(out of {len(refs)} total)",
+            file=sys.stderr,
+        )
 
     events.sort(key=lambda e: e["utc"])
     return events
