@@ -1,0 +1,763 @@
+{
+  "sportKey": "soccer-mex.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "mex.1-2026-08-15-atlante-toluca",
+      "weekend": "2026-08-15",
+      "name": "Atlante v Toluca",
+      "utc": "2026-08-15T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-16-monterrey-fc-juarez",
+      "weekend": "2026-08-16",
+      "name": "Monterrey v FC Juarez",
+      "utc": "2026-08-16T01:10:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-16-atlas-tigres-uanl",
+      "weekend": "2026-08-16",
+      "name": "Atlas v Tigres UANL",
+      "utc": "2026-08-16T03:10:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-16-pumas-unam-quer-taro",
+      "weekend": "2026-08-16",
+      "name": "Pumas UNAM v Quer\u00e9taro",
+      "utc": "2026-08-16T18:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-16-am-rica-atl-tico-de-san-luis",
+      "weekend": "2026-08-16",
+      "name": "Am\u00e9rica v Atl\u00e9tico de San Luis",
+      "utc": "2026-08-16T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-17-santos-guadalajara",
+      "weekend": "2026-08-17",
+      "name": "Santos v Guadalajara",
+      "utc": "2026-08-17T01:10:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-17-tijuana-cruz-azul",
+      "weekend": "2026-08-17",
+      "name": "Tijuana v Cruz Azul",
+      "utc": "2026-08-17T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-18-necaxa-le-n",
+      "weekend": "2026-08-18",
+      "name": "Necaxa v Le\u00f3n",
+      "utc": "2026-08-18T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-18-pachuca-puebla",
+      "weekend": "2026-08-18",
+      "name": "Pachuca v Puebla",
+      "utc": "2026-08-18T03:06:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-22-le-n-monterrey",
+      "weekend": "2026-08-22",
+      "name": "Le\u00f3n v Monterrey",
+      "utc": "2026-08-22T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-22-tigres-uanl-atlante",
+      "weekend": "2026-08-22",
+      "name": "Tigres UANL v Atlante",
+      "utc": "2026-08-22T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-22-fc-juarez-am-rica",
+      "weekend": "2026-08-22",
+      "name": "FC Juarez v Am\u00e9rica",
+      "utc": "2026-08-22T03:10:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-22-quer-taro-toluca",
+      "weekend": "2026-08-22",
+      "name": "Quer\u00e9taro v Toluca",
+      "utc": "2026-08-22T03:10:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-22-guadalajara-tijuana",
+      "weekend": "2026-08-22",
+      "name": "Guadalajara v Tijuana",
+      "utc": "2026-08-22T23:07:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-23-puebla-santos",
+      "weekend": "2026-08-23",
+      "name": "Puebla v Santos",
+      "utc": "2026-08-23T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-23-cruz-azul-atlas",
+      "weekend": "2026-08-23",
+      "name": "Cruz Azul v Atlas",
+      "utc": "2026-08-23T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-23-atl-tico-de-san-luis-pachuca",
+      "weekend": "2026-08-23",
+      "name": "Atl\u00e9tico de San Luis v Pachuca",
+      "utc": "2026-08-23T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-24-pumas-unam-necaxa",
+      "weekend": "2026-08-24",
+      "name": "Pumas UNAM v Necaxa",
+      "utc": "2026-08-24T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-29-atlante-le-n",
+      "weekend": "2026-08-29",
+      "name": "Atlante v Le\u00f3n",
+      "utc": "2026-08-29T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-29-necaxa-cruz-azul",
+      "weekend": "2026-08-29",
+      "name": "Necaxa v Cruz Azul",
+      "utc": "2026-08-29T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-29-tijuana-pumas-unam",
+      "weekend": "2026-08-29",
+      "name": "Tijuana v Pumas UNAM",
+      "utc": "2026-08-29T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-29-atlas-quer-taro",
+      "weekend": "2026-08-29",
+      "name": "Atlas v Quer\u00e9taro",
+      "utc": "2026-08-29T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-29-pachuca-guadalajara",
+      "weekend": "2026-08-29",
+      "name": "Pachuca v Guadalajara",
+      "utc": "2026-08-29T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-30-am-rica-puebla",
+      "weekend": "2026-08-30",
+      "name": "Am\u00e9rica v Puebla",
+      "utc": "2026-08-30T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-30-santos-tigres-uanl",
+      "weekend": "2026-08-30",
+      "name": "Santos v Tigres UANL",
+      "utc": "2026-08-30T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-31-toluca-fc-juarez",
+      "weekend": "2026-08-31",
+      "name": "Toluca v FC Juarez",
+      "utc": "2026-08-31T00:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-08-31-monterrey-atl-tico-de-san-luis",
+      "weekend": "2026-08-31",
+      "name": "Monterrey v Atl\u00e9tico de San Luis",
+      "utc": "2026-08-31T02:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-05-puebla-toluca",
+      "weekend": "2026-09-05",
+      "name": "Puebla v Toluca",
+      "utc": "2026-09-05T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-05-fc-juarez-pachuca",
+      "weekend": "2026-09-05",
+      "name": "FC Juarez v Pachuca",
+      "utc": "2026-09-05T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-05-atl-tico-de-san-luis-guadalajara",
+      "weekend": "2026-09-05",
+      "name": "Atl\u00e9tico de San Luis v Guadalajara",
+      "utc": "2026-09-05T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-05-quer-taro-monterrey",
+      "weekend": "2026-09-05",
+      "name": "Quer\u00e9taro v Monterrey",
+      "utc": "2026-09-05T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-06-am-rica-tijuana",
+      "weekend": "2026-09-06",
+      "name": "Am\u00e9rica v Tijuana",
+      "utc": "2026-09-06T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-06-tigres-uanl-necaxa",
+      "weekend": "2026-09-06",
+      "name": "Tigres UANL v Necaxa",
+      "utc": "2026-09-06T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-06-atlas-atlante",
+      "weekend": "2026-09-06",
+      "name": "Atlas v Atlante",
+      "utc": "2026-09-06T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-06-pumas-unam-le-n",
+      "weekend": "2026-09-06",
+      "name": "Pumas UNAM v Le\u00f3n",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-07-cruz-azul-santos",
+      "weekend": "2026-09-07",
+      "name": "Cruz Azul v Santos",
+      "utc": "2026-09-07T02:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-12-necaxa-puebla",
+      "weekend": "2026-09-12",
+      "name": "Necaxa v Puebla",
+      "utc": "2026-09-12T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-12-atlante-pachuca",
+      "weekend": "2026-09-12",
+      "name": "Atlante v Pachuca",
+      "utc": "2026-09-12T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-12-tijuana-quer-taro",
+      "weekend": "2026-09-12",
+      "name": "Tijuana v Quer\u00e9taro",
+      "utc": "2026-09-12T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-12-cruz-azul-am-rica",
+      "weekend": "2026-09-12",
+      "name": "Cruz Azul v Am\u00e9rica",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-12-toluca-atlas",
+      "weekend": "2026-09-12",
+      "name": "Toluca v Atlas",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-12-le-n-atl-tico-de-san-luis",
+      "weekend": "2026-09-12",
+      "name": "Le\u00f3n v Atl\u00e9tico de San Luis",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-14-santos-fc-juarez",
+      "weekend": "2026-09-14",
+      "name": "Santos v FC Juarez",
+      "utc": "2026-09-14T00:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-14-guadalajara-pumas-unam",
+      "weekend": "2026-09-14",
+      "name": "Guadalajara v Pumas UNAM",
+      "utc": "2026-09-14T00:07:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-14-monterrey-tigres-uanl",
+      "weekend": "2026-09-14",
+      "name": "Monterrey v Tigres UANL",
+      "utc": "2026-09-14T02:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-19-puebla-atlante",
+      "weekend": "2026-09-19",
+      "name": "Puebla v Atlante",
+      "utc": "2026-09-19T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-19-fc-juarez-tigres-uanl",
+      "weekend": "2026-09-19",
+      "name": "FC Juarez v Tigres UANL",
+      "utc": "2026-09-19T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-19-atlas-pumas-unam",
+      "weekend": "2026-09-19",
+      "name": "Atlas v Pumas UNAM",
+      "utc": "2026-09-19T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-19-atl-tico-de-san-luis-necaxa",
+      "weekend": "2026-09-19",
+      "name": "Atl\u00e9tico de San Luis v Necaxa",
+      "utc": "2026-09-19T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-20-monterrey-cruz-azul",
+      "weekend": "2026-09-20",
+      "name": "Monterrey v Cruz Azul",
+      "utc": "2026-09-20T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-20-am-rica-guadalajara",
+      "weekend": "2026-09-20",
+      "name": "Am\u00e9rica v Guadalajara",
+      "utc": "2026-09-20T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-21-pachuca-tijuana",
+      "weekend": "2026-09-21",
+      "name": "Pachuca v Tijuana",
+      "utc": "2026-09-21T00:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-21-toluca-santos",
+      "weekend": "2026-09-21",
+      "name": "Toluca v Santos",
+      "utc": "2026-09-21T00:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-21-quer-taro-le-n",
+      "weekend": "2026-09-21",
+      "name": "Quer\u00e9taro v Le\u00f3n",
+      "utc": "2026-09-21T02:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-26-atlante-monterrey",
+      "weekend": "2026-09-26",
+      "name": "Atlante v Monterrey",
+      "utc": "2026-09-26T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-26-tijuana-atlas",
+      "weekend": "2026-09-26",
+      "name": "Tijuana v Atlas",
+      "utc": "2026-09-26T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-26-guadalajara-quer-taro",
+      "weekend": "2026-09-26",
+      "name": "Guadalajara v Quer\u00e9taro",
+      "utc": "2026-09-26T23:07:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-27-santos-pachuca",
+      "weekend": "2026-09-27",
+      "name": "Santos v Pachuca",
+      "utc": "2026-09-27T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-27-tigres-uanl-puebla",
+      "weekend": "2026-09-27",
+      "name": "Tigres UANL v Puebla",
+      "utc": "2026-09-27T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-27-cruz-azul-toluca",
+      "weekend": "2026-09-27",
+      "name": "Cruz Azul v Toluca",
+      "utc": "2026-09-27T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-27-pumas-unam-atl-tico-de-san-luis",
+      "weekend": "2026-09-27",
+      "name": "Pumas UNAM v Atl\u00e9tico de San Luis",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-28-le-n-fc-juarez",
+      "weekend": "2026-09-28",
+      "name": "Le\u00f3n v FC Juarez",
+      "utc": "2026-09-28T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-09-28-necaxa-am-rica",
+      "weekend": "2026-09-28",
+      "name": "Necaxa v Am\u00e9rica",
+      "utc": "2026-09-28T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-10-puebla-le-n",
+      "weekend": "2026-10-10",
+      "name": "Puebla v Le\u00f3n",
+      "utc": "2026-10-10T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-10-quer-taro-atlante",
+      "weekend": "2026-10-10",
+      "name": "Quer\u00e9taro v Atlante",
+      "utc": "2026-10-10T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-10-tigres-uanl-toluca",
+      "weekend": "2026-10-10",
+      "name": "Tigres UANL v Toluca",
+      "utc": "2026-10-10T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-10-fc-juarez-tijuana",
+      "weekend": "2026-10-10",
+      "name": "FC Juarez v Tijuana",
+      "utc": "2026-10-10T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-11-atlas-guadalajara",
+      "weekend": "2026-10-11",
+      "name": "Atlas v Guadalajara",
+      "utc": "2026-10-11T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-11-am-rica-monterrey",
+      "weekend": "2026-10-11",
+      "name": "Am\u00e9rica v Monterrey",
+      "utc": "2026-10-11T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-11-atl-tico-de-san-luis-santos",
+      "weekend": "2026-10-11",
+      "name": "Atl\u00e9tico de San Luis v Santos",
+      "utc": "2026-10-11T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-11-pachuca-necaxa",
+      "weekend": "2026-10-11",
+      "name": "Pachuca v Necaxa",
+      "utc": "2026-10-11T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-12-pumas-unam-cruz-azul",
+      "weekend": "2026-10-12",
+      "name": "Pumas UNAM v Cruz Azul",
+      "utc": "2026-10-12T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-17-necaxa-atlas",
+      "weekend": "2026-10-17",
+      "name": "Necaxa v Atlas",
+      "utc": "2026-10-17T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-17-atlante-pumas-unam",
+      "weekend": "2026-10-17",
+      "name": "Atlante v Pumas UNAM",
+      "utc": "2026-10-17T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-17-tijuana-puebla",
+      "weekend": "2026-10-17",
+      "name": "Tijuana v Puebla",
+      "utc": "2026-10-17T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-17-guadalajara-tigres-uanl",
+      "weekend": "2026-10-17",
+      "name": "Guadalajara v Tigres UANL",
+      "utc": "2026-10-17T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-17-santos-quer-taro",
+      "weekend": "2026-10-17",
+      "name": "Santos v Quer\u00e9taro",
+      "utc": "2026-10-17T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-18-le-n-am-rica",
+      "weekend": "2026-10-18",
+      "name": "Le\u00f3n v Am\u00e9rica",
+      "utc": "2026-10-18T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-18-toluca-atl-tico-de-san-luis",
+      "weekend": "2026-10-18",
+      "name": "Toluca v Atl\u00e9tico de San Luis",
+      "utc": "2026-10-18T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-18-cruz-azul-fc-juarez",
+      "weekend": "2026-10-18",
+      "name": "Cruz Azul v FC Juarez",
+      "utc": "2026-10-18T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-19-monterrey-pachuca",
+      "weekend": "2026-10-19",
+      "name": "Monterrey v Pachuca",
+      "utc": "2026-10-19T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-21-atl-tico-de-san-luis-quer-taro",
+      "weekend": "2026-10-21",
+      "name": "Atl\u00e9tico de San Luis v Quer\u00e9taro",
+      "utc": "2026-10-21T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-21-fc-juarez-atlante",
+      "weekend": "2026-10-21",
+      "name": "FC Juarez v Atlante",
+      "utc": "2026-10-21T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-21-guadalajara-necaxa",
+      "weekend": "2026-10-21",
+      "name": "Guadalajara v Necaxa",
+      "utc": "2026-10-21T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-21-tigres-uanl-le-n",
+      "weekend": "2026-10-21",
+      "name": "Tigres UANL v Le\u00f3n",
+      "utc": "2026-10-21T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-22-atlas-am-rica",
+      "weekend": "2026-10-22",
+      "name": "Atlas v Am\u00e9rica",
+      "utc": "2026-10-22T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-22-puebla-monterrey",
+      "weekend": "2026-10-22",
+      "name": "Puebla v Monterrey",
+      "utc": "2026-10-22T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-22-toluca-tijuana",
+      "weekend": "2026-10-22",
+      "name": "Toluca v Tijuana",
+      "utc": "2026-10-22T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-22-pachuca-cruz-azul",
+      "weekend": "2026-10-22",
+      "name": "Pachuca v Cruz Azul",
+      "utc": "2026-10-22T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-22-santos-pumas-unam",
+      "weekend": "2026-10-22",
+      "name": "Santos v Pumas UNAM",
+      "utc": "2026-10-22T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-24-necaxa-fc-juarez",
+      "weekend": "2026-10-24",
+      "name": "Necaxa v FC Juarez",
+      "utc": "2026-10-24T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-24-atlante-atl-tico-de-san-luis",
+      "weekend": "2026-10-24",
+      "name": "Atlante v Atl\u00e9tico de San Luis",
+      "utc": "2026-10-24T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-24-le-n-toluca",
+      "weekend": "2026-10-24",
+      "name": "Le\u00f3n v Toluca",
+      "utc": "2026-10-24T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-25-monterrey-guadalajara",
+      "weekend": "2026-10-25",
+      "name": "Monterrey v Guadalajara",
+      "utc": "2026-10-25T00:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-25-pumas-unam-tigres-uanl",
+      "weekend": "2026-10-25",
+      "name": "Pumas UNAM v Tigres UANL",
+      "utc": "2026-10-25T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-25-am-rica-pachuca",
+      "weekend": "2026-10-25",
+      "name": "Am\u00e9rica v Pachuca",
+      "utc": "2026-10-25T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-25-atlas-puebla",
+      "weekend": "2026-10-25",
+      "name": "Atlas v Puebla",
+      "utc": "2026-10-25T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-26-quer-taro-cruz-azul",
+      "weekend": "2026-10-26",
+      "name": "Quer\u00e9taro v Cruz Azul",
+      "utc": "2026-10-26T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-26-tijuana-santos",
+      "weekend": "2026-10-26",
+      "name": "Tijuana v Santos",
+      "utc": "2026-10-26T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-31-atl-tico-de-san-luis-atlas",
+      "weekend": "2026-10-31",
+      "name": "Atl\u00e9tico de San Luis v Atlas",
+      "utc": "2026-10-31T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-31-fc-juarez-quer-taro",
+      "weekend": "2026-10-31",
+      "name": "FC Juarez v Quer\u00e9taro",
+      "utc": "2026-10-31T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-31-puebla-pumas-unam",
+      "weekend": "2026-10-31",
+      "name": "Puebla v Pumas UNAM",
+      "utc": "2026-10-31T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-10-31-pachuca-tigres-uanl",
+      "weekend": "2026-10-31",
+      "name": "Pachuca v Tigres UANL",
+      "utc": "2026-10-31T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-01-guadalajara-atlante",
+      "weekend": "2026-11-01",
+      "name": "Guadalajara v Atlante",
+      "utc": "2026-11-01T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-01-monterrey-tijuana",
+      "weekend": "2026-11-01",
+      "name": "Monterrey v Tijuana",
+      "utc": "2026-11-01T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-01-am-rica-toluca",
+      "weekend": "2026-11-01",
+      "name": "Am\u00e9rica v Toluca",
+      "utc": "2026-11-01T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-01-santos-necaxa",
+      "weekend": "2026-11-01",
+      "name": "Santos v Necaxa",
+      "utc": "2026-11-01T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-02-cruz-azul-le-n",
+      "weekend": "2026-11-02",
+      "name": "Cruz Azul v Le\u00f3n",
+      "utc": "2026-11-02T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-07-atl-tico-de-san-luis-fc-juarez",
+      "weekend": "2026-11-07",
+      "name": "Atl\u00e9tico de San Luis v FC Juarez",
+      "utc": "2026-11-07T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-07-necaxa-tijuana",
+      "weekend": "2026-11-07",
+      "name": "Necaxa v Tijuana",
+      "utc": "2026-11-07T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-07-atlante-santos",
+      "weekend": "2026-11-07",
+      "name": "Atlante v Santos",
+      "utc": "2026-11-07T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-07-atlas-pachuca",
+      "weekend": "2026-11-07",
+      "name": "Atlas v Pachuca",
+      "utc": "2026-11-07T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-07-tigres-uanl-cruz-azul",
+      "weekend": "2026-11-07",
+      "name": "Tigres UANL v Cruz Azul",
+      "utc": "2026-11-07T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-08-toluca-monterrey",
+      "weekend": "2026-11-08",
+      "name": "Toluca v Monterrey",
+      "utc": "2026-11-08T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-08-pumas-unam-am-rica",
+      "weekend": "2026-11-08",
+      "name": "Pumas UNAM v Am\u00e9rica",
+      "utc": "2026-11-08T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-09-quer-taro-puebla",
+      "weekend": "2026-11-09",
+      "name": "Quer\u00e9taro v Puebla",
+      "utc": "2026-11-09T00:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-09-le-n-guadalajara",
+      "weekend": "2026-11-09",
+      "name": "Le\u00f3n v Guadalajara",
+      "utc": "2026-11-09T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-21-puebla-atl-tico-de-san-luis",
+      "weekend": "2026-11-21",
+      "name": "Puebla v Atl\u00e9tico de San Luis",
+      "utc": "2026-11-21T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-21-fc-juarez-atlas",
+      "weekend": "2026-11-21",
+      "name": "FC Juarez v Atlas",
+      "utc": "2026-11-21T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-21-tijuana-atlante",
+      "weekend": "2026-11-21",
+      "name": "Tijuana v Atlante",
+      "utc": "2026-11-21T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-21-pachuca-toluca",
+      "weekend": "2026-11-21",
+      "name": "Pachuca v Toluca",
+      "utc": "2026-11-21T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-21-santos-le-n",
+      "weekend": "2026-11-21",
+      "name": "Santos v Le\u00f3n",
+      "utc": "2026-11-21T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-22-pumas-unam-monterrey",
+      "weekend": "2026-11-22",
+      "name": "Pumas UNAM v Monterrey",
+      "utc": "2026-11-22T01:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-22-tigres-uanl-am-rica",
+      "weekend": "2026-11-22",
+      "name": "Tigres UANL v Am\u00e9rica",
+      "utc": "2026-11-22T03:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-22-guadalajara-cruz-azul",
+      "weekend": "2026-11-22",
+      "name": "Guadalajara v Cruz Azul",
+      "utc": "2026-11-22T23:00:00Z"
+    },
+    {
+      "id": "mex.1-2026-11-23-quer-taro-necaxa",
+      "weekend": "2026-11-23",
+      "name": "Quer\u00e9taro v Necaxa",
+      "utc": "2026-11-23T01:00:00Z"
+    }
+  ]
+}

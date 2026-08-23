@@ -1,0 +1,1735 @@
+{
+  "sportKey": "soccer-fra.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "fra.1-2026-08-21-marseille-strasbourg",
+      "weekend": "2026-08-21",
+      "name": "Marseille v Strasbourg",
+      "utc": "2026-08-21T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-22-lens-aj-auxerre",
+      "weekend": "2026-08-22",
+      "name": "Lens v AJ Auxerre",
+      "utc": "2026-08-22T15:15:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-22-le-mans-brest",
+      "weekend": "2026-08-22",
+      "name": "Le Mans v Brest",
+      "utc": "2026-08-22T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-22-nice-lorient",
+      "weekend": "2026-08-22",
+      "name": "Nice v Lorient",
+      "utc": "2026-08-22T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-22-toulouse-lyon",
+      "weekend": "2026-08-22",
+      "name": "Toulouse v Lyon",
+      "utc": "2026-08-22T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-22-troyes-paris-fc",
+      "weekend": "2026-08-22",
+      "name": "Troyes v Paris FC",
+      "utc": "2026-08-22T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-23-angers-lille",
+      "weekend": "2026-08-23",
+      "name": "Angers v Lille",
+      "utc": "2026-08-23T13:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-23-le-havre-ac-as-monaco",
+      "weekend": "2026-08-23",
+      "name": "Le Havre AC v AS Monaco",
+      "utc": "2026-08-23T15:15:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-23-stade-rennais-paris-saint-germain",
+      "weekend": "2026-08-23",
+      "name": "Stade Rennais v Paris Saint-Germain",
+      "utc": "2026-08-23T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-28-lille-paris-saint-germain",
+      "weekend": "2026-08-28",
+      "name": "Lille v Paris Saint-Germain",
+      "utc": "2026-08-28T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-29-strasbourg-lens",
+      "weekend": "2026-08-29",
+      "name": "Strasbourg v Lens",
+      "utc": "2026-08-29T15:15:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-29-aj-auxerre-angers",
+      "weekend": "2026-08-29",
+      "name": "AJ Auxerre v Angers",
+      "utc": "2026-08-29T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-29-brest-toulouse",
+      "weekend": "2026-08-29",
+      "name": "Brest v Toulouse",
+      "utc": "2026-08-29T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-29-lorient-troyes",
+      "weekend": "2026-08-29",
+      "name": "Lorient v Troyes",
+      "utc": "2026-08-29T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-29-lyon-le-havre-ac",
+      "weekend": "2026-08-29",
+      "name": "Lyon v Le Havre AC",
+      "utc": "2026-08-29T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-30-paris-fc-nice",
+      "weekend": "2026-08-30",
+      "name": "Paris FC v Nice",
+      "utc": "2026-08-30T13:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-30-stade-rennais-le-mans",
+      "weekend": "2026-08-30",
+      "name": "Stade Rennais v Le Mans",
+      "utc": "2026-08-30T15:15:00Z"
+    },
+    {
+      "id": "fra.1-2026-08-30-as-monaco-marseille",
+      "weekend": "2026-08-30",
+      "name": "AS Monaco v Marseille",
+      "utc": "2026-08-30T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-03-toulouse-lille",
+      "weekend": "2026-09-03",
+      "name": "Toulouse v Lille",
+      "utc": "2026-09-03T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-04-lyon-aj-auxerre",
+      "weekend": "2026-09-04",
+      "name": "Lyon v AJ Auxerre",
+      "utc": "2026-09-04T17:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-04-paris-saint-germain-as-monaco",
+      "weekend": "2026-09-04",
+      "name": "Paris Saint-Germain v AS Monaco",
+      "utc": "2026-09-04T19:05:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-05-lens-lorient",
+      "weekend": "2026-09-05",
+      "name": "Lens v Lorient",
+      "utc": "2026-09-05T15:15:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-05-le-havre-ac-brest",
+      "weekend": "2026-09-05",
+      "name": "Le Havre AC v Brest",
+      "utc": "2026-09-05T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-05-nice-le-mans",
+      "weekend": "2026-09-05",
+      "name": "Nice v Le Mans",
+      "utc": "2026-09-05T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-06-troyes-strasbourg",
+      "weekend": "2026-09-06",
+      "name": "Troyes v Strasbourg",
+      "utc": "2026-09-06T13:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-06-angers-stade-rennais",
+      "weekend": "2026-09-06",
+      "name": "Angers v Stade Rennais",
+      "utc": "2026-09-06T15:15:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-06-marseille-paris-fc",
+      "weekend": "2026-09-06",
+      "name": "Marseille v Paris FC",
+      "utc": "2026-09-06T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-11-stade-rennais-marseille",
+      "weekend": "2026-09-11",
+      "name": "Stade Rennais v Marseille",
+      "utc": "2026-09-11T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-12-strasbourg-as-monaco",
+      "weekend": "2026-09-12",
+      "name": "Strasbourg v AS Monaco",
+      "utc": "2026-09-12T15:15:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-12-aj-auxerre-nice",
+      "weekend": "2026-09-12",
+      "name": "AJ Auxerre v Nice",
+      "utc": "2026-09-12T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-12-le-havre-ac-angers",
+      "weekend": "2026-09-12",
+      "name": "Le Havre AC v Angers",
+      "utc": "2026-09-12T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-12-lorient-toulouse",
+      "weekend": "2026-09-12",
+      "name": "Lorient v Toulouse",
+      "utc": "2026-09-12T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-12-paris-fc-lyon",
+      "weekend": "2026-09-12",
+      "name": "Paris FC v Lyon",
+      "utc": "2026-09-12T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-13-lille-troyes",
+      "weekend": "2026-09-13",
+      "name": "Lille v Troyes",
+      "utc": "2026-09-13T13:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-13-le-mans-lens",
+      "weekend": "2026-09-13",
+      "name": "Le Mans v Lens",
+      "utc": "2026-09-13T15:15:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-13-brest-paris-saint-germain",
+      "weekend": "2026-09-13",
+      "name": "Brest v Paris Saint-Germain",
+      "utc": "2026-09-13T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-19-aj-auxerre-brest",
+      "weekend": "2026-09-19",
+      "name": "AJ Auxerre v Brest",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-19-angers-troyes",
+      "weekend": "2026-09-19",
+      "name": "Angers v Troyes",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-19-as-monaco-lens",
+      "weekend": "2026-09-19",
+      "name": "AS Monaco v Lens",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-19-le-mans-lorient",
+      "weekend": "2026-09-19",
+      "name": "Le Mans v Lorient",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-19-lyon-stade-rennais",
+      "weekend": "2026-09-19",
+      "name": "Lyon v Stade Rennais",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-19-nice-lille",
+      "weekend": "2026-09-19",
+      "name": "Nice v Lille",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-19-paris-fc-strasbourg",
+      "weekend": "2026-09-19",
+      "name": "Paris FC v Strasbourg",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-19-toulouse-le-havre-ac",
+      "weekend": "2026-09-19",
+      "name": "Toulouse v Le Havre AC",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-09-20-marseille-paris-saint-germain",
+      "weekend": "2026-09-20",
+      "name": "Marseille v Paris Saint-Germain",
+      "utc": "2026-09-20T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-10-as-monaco-toulouse",
+      "weekend": "2026-10-10",
+      "name": "AS Monaco v Toulouse",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-10-brest-angers",
+      "weekend": "2026-10-10",
+      "name": "Brest v Angers",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-10-lens-lyon",
+      "weekend": "2026-10-10",
+      "name": "Lens v Lyon",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-10-lille-le-havre-ac",
+      "weekend": "2026-10-10",
+      "name": "Lille v Le Havre AC",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-10-lorient-paris-fc",
+      "weekend": "2026-10-10",
+      "name": "Lorient v Paris FC",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-10-nice-strasbourg",
+      "weekend": "2026-10-10",
+      "name": "Nice v Strasbourg",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-10-paris-saint-germain-le-mans",
+      "weekend": "2026-10-10",
+      "name": "Paris Saint-Germain v Le Mans",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-10-stade-rennais-aj-auxerre",
+      "weekend": "2026-10-10",
+      "name": "Stade Rennais v AJ Auxerre",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-10-troyes-marseille",
+      "weekend": "2026-10-10",
+      "name": "Troyes v Marseille",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-17-angers-marseille",
+      "weekend": "2026-10-17",
+      "name": "Angers v Marseille",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-17-le-havre-ac-aj-auxerre",
+      "weekend": "2026-10-17",
+      "name": "Le Havre AC v AJ Auxerre",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-17-le-mans-toulouse",
+      "weekend": "2026-10-17",
+      "name": "Le Mans v Toulouse",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-17-lille-brest",
+      "weekend": "2026-10-17",
+      "name": "Lille v Brest",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-17-lorient-as-monaco",
+      "weekend": "2026-10-17",
+      "name": "Lorient v AS Monaco",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-17-lyon-nice",
+      "weekend": "2026-10-17",
+      "name": "Lyon v Nice",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-17-paris-fc-stade-rennais",
+      "weekend": "2026-10-17",
+      "name": "Paris FC v Stade Rennais",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-17-strasbourg-paris-saint-germain",
+      "weekend": "2026-10-17",
+      "name": "Strasbourg v Paris Saint-Germain",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-17-troyes-lens",
+      "weekend": "2026-10-17",
+      "name": "Troyes v Lens",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-24-aj-auxerre-le-mans",
+      "weekend": "2026-10-24",
+      "name": "AJ Auxerre v Le Mans",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-24-angers-lorient",
+      "weekend": "2026-10-24",
+      "name": "Angers v Lorient",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-24-as-monaco-lille",
+      "weekend": "2026-10-24",
+      "name": "AS Monaco v Lille",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-24-brest-nice",
+      "weekend": "2026-10-24",
+      "name": "Brest v Nice",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-24-lens-paris-fc",
+      "weekend": "2026-10-24",
+      "name": "Lens v Paris FC",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-24-marseille-le-havre-ac",
+      "weekend": "2026-10-24",
+      "name": "Marseille v Le Havre AC",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-24-stade-rennais-strasbourg",
+      "weekend": "2026-10-24",
+      "name": "Stade Rennais v Strasbourg",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-24-toulouse-troyes",
+      "weekend": "2026-10-24",
+      "name": "Toulouse v Troyes",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-25-paris-saint-germain-lyon",
+      "weekend": "2026-10-25",
+      "name": "Paris Saint-Germain v Lyon",
+      "utc": "2026-10-25T19:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-31-le-havre-ac-paris-saint-germain",
+      "weekend": "2026-10-31",
+      "name": "Le Havre AC v Paris Saint-Germain",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-31-lille-lens",
+      "weekend": "2026-10-31",
+      "name": "Lille v Lens",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-31-lorient-brest",
+      "weekend": "2026-10-31",
+      "name": "Lorient v Brest",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-31-lyon-angers",
+      "weekend": "2026-10-31",
+      "name": "Lyon v Angers",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-31-marseille-toulouse",
+      "weekend": "2026-10-31",
+      "name": "Marseille v Toulouse",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-31-nice-stade-rennais",
+      "weekend": "2026-10-31",
+      "name": "Nice v Stade Rennais",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-31-paris-fc-as-monaco",
+      "weekend": "2026-10-31",
+      "name": "Paris FC v AS Monaco",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-31-strasbourg-aj-auxerre",
+      "weekend": "2026-10-31",
+      "name": "Strasbourg v AJ Auxerre",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-10-31-troyes-le-mans",
+      "weekend": "2026-10-31",
+      "name": "Troyes v Le Mans",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-07-lens-marseille",
+      "weekend": "2026-11-07",
+      "name": "Lens v Marseille",
+      "utc": "2026-11-07T19:45:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-07-aj-auxerre-paris-fc",
+      "weekend": "2026-11-07",
+      "name": "AJ Auxerre v Paris FC",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-07-angers-nice",
+      "weekend": "2026-11-07",
+      "name": "Angers v Nice",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-07-brest-lyon",
+      "weekend": "2026-11-07",
+      "name": "Brest v Lyon",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-07-le-havre-ac-lorient",
+      "weekend": "2026-11-07",
+      "name": "Le Havre AC v Lorient",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-07-le-mans-as-monaco",
+      "weekend": "2026-11-07",
+      "name": "Le Mans v AS Monaco",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-07-paris-saint-germain-troyes",
+      "weekend": "2026-11-07",
+      "name": "Paris Saint-Germain v Troyes",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-07-stade-rennais-lille",
+      "weekend": "2026-11-07",
+      "name": "Stade Rennais v Lille",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-07-toulouse-strasbourg",
+      "weekend": "2026-11-07",
+      "name": "Toulouse v Strasbourg",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-21-as-monaco-aj-auxerre",
+      "weekend": "2026-11-21",
+      "name": "AS Monaco v AJ Auxerre",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-21-lens-toulouse",
+      "weekend": "2026-11-21",
+      "name": "Lens v Toulouse",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-21-lille-lyon",
+      "weekend": "2026-11-21",
+      "name": "Lille v Lyon",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-21-lorient-stade-rennais",
+      "weekend": "2026-11-21",
+      "name": "Lorient v Stade Rennais",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-21-marseille-le-mans",
+      "weekend": "2026-11-21",
+      "name": "Marseille v Le Mans",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-21-nice-paris-saint-germain",
+      "weekend": "2026-11-21",
+      "name": "Nice v Paris Saint-Germain",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-21-paris-fc-angers",
+      "weekend": "2026-11-21",
+      "name": "Paris FC v Angers",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-21-strasbourg-brest",
+      "weekend": "2026-11-21",
+      "name": "Strasbourg v Brest",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-21-troyes-le-havre-ac",
+      "weekend": "2026-11-21",
+      "name": "Troyes v Le Havre AC",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-28-aj-auxerre-marseille",
+      "weekend": "2026-11-28",
+      "name": "AJ Auxerre v Marseille",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-28-angers-lens",
+      "weekend": "2026-11-28",
+      "name": "Angers v Lens",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-28-brest-paris-fc",
+      "weekend": "2026-11-28",
+      "name": "Brest v Paris FC",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-28-le-havre-ac-strasbourg",
+      "weekend": "2026-11-28",
+      "name": "Le Havre AC v Strasbourg",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-28-le-mans-lille",
+      "weekend": "2026-11-28",
+      "name": "Le Mans v Lille",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-28-lyon-as-monaco",
+      "weekend": "2026-11-28",
+      "name": "Lyon v AS Monaco",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-28-nice-troyes",
+      "weekend": "2026-11-28",
+      "name": "Nice v Troyes",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-28-paris-saint-germain-lorient",
+      "weekend": "2026-11-28",
+      "name": "Paris Saint-Germain v Lorient",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-11-28-toulouse-stade-rennais",
+      "weekend": "2026-11-28",
+      "name": "Toulouse v Stade Rennais",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-05-as-monaco-angers",
+      "weekend": "2026-12-05",
+      "name": "AS Monaco v Angers",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-05-lens-le-havre-ac",
+      "weekend": "2026-12-05",
+      "name": "Lens v Le Havre AC",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-05-lille-aj-auxerre",
+      "weekend": "2026-12-05",
+      "name": "Lille v AJ Auxerre",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-05-marseille-nice",
+      "weekend": "2026-12-05",
+      "name": "Marseille v Nice",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-05-paris-fc-le-mans",
+      "weekend": "2026-12-05",
+      "name": "Paris FC v Le Mans",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-05-stade-rennais-brest",
+      "weekend": "2026-12-05",
+      "name": "Stade Rennais v Brest",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-05-strasbourg-lorient",
+      "weekend": "2026-12-05",
+      "name": "Strasbourg v Lorient",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-05-toulouse-paris-saint-germain",
+      "weekend": "2026-12-05",
+      "name": "Toulouse v Paris Saint-Germain",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-05-troyes-lyon",
+      "weekend": "2026-12-05",
+      "name": "Troyes v Lyon",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-12-aj-auxerre-toulouse",
+      "weekend": "2026-12-12",
+      "name": "AJ Auxerre v Toulouse",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-12-angers-strasbourg",
+      "weekend": "2026-12-12",
+      "name": "Angers v Strasbourg",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-12-brest-troyes",
+      "weekend": "2026-12-12",
+      "name": "Brest v Troyes",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-12-le-havre-ac-le-mans",
+      "weekend": "2026-12-12",
+      "name": "Le Havre AC v Le Mans",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-12-lorient-lille",
+      "weekend": "2026-12-12",
+      "name": "Lorient v Lille",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-12-nice-lens",
+      "weekend": "2026-12-12",
+      "name": "Nice v Lens",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-12-paris-saint-germain-paris-fc",
+      "weekend": "2026-12-12",
+      "name": "Paris Saint-Germain v Paris FC",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-12-stade-rennais-as-monaco",
+      "weekend": "2026-12-12",
+      "name": "Stade Rennais v AS Monaco",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2026-12-13-lyon-marseille",
+      "weekend": "2026-12-13",
+      "name": "Lyon v Marseille",
+      "utc": "2026-12-13T19:45:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-02-as-monaco-nice",
+      "weekend": "2027-01-02",
+      "name": "AS Monaco v Nice",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-02-brest-marseille",
+      "weekend": "2027-01-02",
+      "name": "Brest v Marseille",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-02-le-mans-lyon",
+      "weekend": "2027-01-02",
+      "name": "Le Mans v Lyon",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-02-lille-strasbourg",
+      "weekend": "2027-01-02",
+      "name": "Lille v Strasbourg",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-02-lorient-aj-auxerre",
+      "weekend": "2027-01-02",
+      "name": "Lorient v AJ Auxerre",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-02-paris-fc-le-havre-ac",
+      "weekend": "2027-01-02",
+      "name": "Paris FC v Le Havre AC",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-02-toulouse-angers",
+      "weekend": "2027-01-02",
+      "name": "Toulouse v Angers",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-02-troyes-stade-rennais",
+      "weekend": "2027-01-02",
+      "name": "Troyes v Stade Rennais",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-03-lens-paris-saint-germain",
+      "weekend": "2027-01-03",
+      "name": "Lens v Paris Saint-Germain",
+      "utc": "2027-01-03T19:45:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-16-aj-auxerre-troyes",
+      "weekend": "2027-01-16",
+      "name": "AJ Auxerre v Troyes",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-16-angers-paris-saint-germain",
+      "weekend": "2027-01-16",
+      "name": "Angers v Paris Saint-Germain",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-16-as-monaco-brest",
+      "weekend": "2027-01-16",
+      "name": "AS Monaco v Brest",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-16-lyon-lorient",
+      "weekend": "2027-01-16",
+      "name": "Lyon v Lorient",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-16-marseille-lille",
+      "weekend": "2027-01-16",
+      "name": "Marseille v Lille",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-16-nice-le-havre-ac",
+      "weekend": "2027-01-16",
+      "name": "Nice v Le Havre AC",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-16-paris-fc-toulouse",
+      "weekend": "2027-01-16",
+      "name": "Paris FC v Toulouse",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-16-stade-rennais-lens",
+      "weekend": "2027-01-16",
+      "name": "Stade Rennais v Lens",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-16-strasbourg-le-mans",
+      "weekend": "2027-01-16",
+      "name": "Strasbourg v Le Mans",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-23-le-havre-ac-stade-rennais",
+      "weekend": "2027-01-23",
+      "name": "Le Havre AC v Stade Rennais",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-23-le-mans-angers",
+      "weekend": "2027-01-23",
+      "name": "Le Mans v Angers",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-23-lens-brest",
+      "weekend": "2027-01-23",
+      "name": "Lens v Brest",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-23-lille-paris-fc",
+      "weekend": "2027-01-23",
+      "name": "Lille v Paris FC",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-23-lorient-marseille",
+      "weekend": "2027-01-23",
+      "name": "Lorient v Marseille",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-23-paris-saint-germain-aj-auxerre",
+      "weekend": "2027-01-23",
+      "name": "Paris Saint-Germain v AJ Auxerre",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-23-strasbourg-lyon",
+      "weekend": "2027-01-23",
+      "name": "Strasbourg v Lyon",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-23-toulouse-nice",
+      "weekend": "2027-01-23",
+      "name": "Toulouse v Nice",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-23-troyes-as-monaco",
+      "weekend": "2027-01-23",
+      "name": "Troyes v AS Monaco",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-30-angers-le-havre-ac",
+      "weekend": "2027-01-30",
+      "name": "Angers v Le Havre AC",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-30-as-monaco-paris-saint-germain",
+      "weekend": "2027-01-30",
+      "name": "AS Monaco v Paris Saint-Germain",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-30-brest-strasbourg",
+      "weekend": "2027-01-30",
+      "name": "Brest v Strasbourg",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-30-le-mans-nice",
+      "weekend": "2027-01-30",
+      "name": "Le Mans v Nice",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-30-lyon-lille",
+      "weekend": "2027-01-30",
+      "name": "Lyon v Lille",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-30-marseille-troyes",
+      "weekend": "2027-01-30",
+      "name": "Marseille v Troyes",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-30-paris-fc-aj-auxerre",
+      "weekend": "2027-01-30",
+      "name": "Paris FC v AJ Auxerre",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-30-stade-rennais-lorient",
+      "weekend": "2027-01-30",
+      "name": "Stade Rennais v Lorient",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-01-30-toulouse-lens",
+      "weekend": "2027-01-30",
+      "name": "Toulouse v Lens",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-06-aj-auxerre-as-monaco",
+      "weekend": "2027-02-06",
+      "name": "AJ Auxerre v AS Monaco",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-06-le-havre-ac-toulouse",
+      "weekend": "2027-02-06",
+      "name": "Le Havre AC v Toulouse",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-06-lens-angers",
+      "weekend": "2027-02-06",
+      "name": "Lens v Angers",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-06-lorient-le-mans",
+      "weekend": "2027-02-06",
+      "name": "Lorient v Le Mans",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-06-nice-brest",
+      "weekend": "2027-02-06",
+      "name": "Nice v Brest",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-06-stade-rennais-lyon",
+      "weekend": "2027-02-06",
+      "name": "Stade Rennais v Lyon",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-06-strasbourg-paris-fc",
+      "weekend": "2027-02-06",
+      "name": "Strasbourg v Paris FC",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-06-troyes-lille",
+      "weekend": "2027-02-06",
+      "name": "Troyes v Lille",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-07-paris-saint-germain-marseille",
+      "weekend": "2027-02-07",
+      "name": "Paris Saint-Germain v Marseille",
+      "utc": "2027-02-07T19:45:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-13-aj-auxerre-strasbourg",
+      "weekend": "2027-02-13",
+      "name": "AJ Auxerre v Strasbourg",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-13-brest-stade-rennais",
+      "weekend": "2027-02-13",
+      "name": "Brest v Stade Rennais",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-13-le-mans-paris-saint-germain",
+      "weekend": "2027-02-13",
+      "name": "Le Mans v Paris Saint-Germain",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-13-lille-nice",
+      "weekend": "2027-02-13",
+      "name": "Lille v Nice",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-13-lorient-le-havre-ac",
+      "weekend": "2027-02-13",
+      "name": "Lorient v Le Havre AC",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-13-lyon-lens",
+      "weekend": "2027-02-13",
+      "name": "Lyon v Lens",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-13-marseille-angers",
+      "weekend": "2027-02-13",
+      "name": "Marseille v Angers",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-13-paris-fc-troyes",
+      "weekend": "2027-02-13",
+      "name": "Paris FC v Troyes",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-13-toulouse-as-monaco",
+      "weekend": "2027-02-13",
+      "name": "Toulouse v AS Monaco",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-20-angers-paris-fc",
+      "weekend": "2027-02-20",
+      "name": "Angers v Paris FC",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-20-as-monaco-le-mans",
+      "weekend": "2027-02-20",
+      "name": "AS Monaco v Le Mans",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-20-le-havre-ac-lyon",
+      "weekend": "2027-02-20",
+      "name": "Le Havre AC v Lyon",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-20-lens-troyes",
+      "weekend": "2027-02-20",
+      "name": "Lens v Troyes",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-20-lille-lorient",
+      "weekend": "2027-02-20",
+      "name": "Lille v Lorient",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-20-nice-aj-auxerre",
+      "weekend": "2027-02-20",
+      "name": "Nice v AJ Auxerre",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-20-paris-saint-germain-brest",
+      "weekend": "2027-02-20",
+      "name": "Paris Saint-Germain v Brest",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-20-stade-rennais-toulouse",
+      "weekend": "2027-02-20",
+      "name": "Stade Rennais v Toulouse",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-20-strasbourg-marseille",
+      "weekend": "2027-02-20",
+      "name": "Strasbourg v Marseille",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-27-aj-auxerre-lille",
+      "weekend": "2027-02-27",
+      "name": "AJ Auxerre v Lille",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-27-brest-as-monaco",
+      "weekend": "2027-02-27",
+      "name": "Brest v AS Monaco",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-27-le-mans-paris-fc",
+      "weekend": "2027-02-27",
+      "name": "Le Mans v Paris FC",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-27-lorient-angers",
+      "weekend": "2027-02-27",
+      "name": "Lorient v Angers",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-27-lyon-toulouse",
+      "weekend": "2027-02-27",
+      "name": "Lyon v Toulouse",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-27-marseille-stade-rennais",
+      "weekend": "2027-02-27",
+      "name": "Marseille v Stade Rennais",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-27-strasbourg-le-havre-ac",
+      "weekend": "2027-02-27",
+      "name": "Strasbourg v Le Havre AC",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-27-troyes-nice",
+      "weekend": "2027-02-27",
+      "name": "Troyes v Nice",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-02-28-paris-saint-germain-lens",
+      "weekend": "2027-02-28",
+      "name": "Paris Saint-Germain v Lens",
+      "utc": "2027-02-28T19:45:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-06-angers-aj-auxerre",
+      "weekend": "2027-03-06",
+      "name": "Angers v AJ Auxerre",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-06-as-monaco-lyon",
+      "weekend": "2027-03-06",
+      "name": "AS Monaco v Lyon",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-06-le-havre-ac-nice",
+      "weekend": "2027-03-06",
+      "name": "Le Havre AC v Nice",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-06-lens-strasbourg",
+      "weekend": "2027-03-06",
+      "name": "Lens v Strasbourg",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-06-lille-marseille",
+      "weekend": "2027-03-06",
+      "name": "Lille v Marseille",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-06-paris-fc-brest",
+      "weekend": "2027-03-06",
+      "name": "Paris FC v Brest",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-06-stade-rennais-paris-saint-germain",
+      "weekend": "2027-03-06",
+      "name": "Stade Rennais v Paris Saint-Germain",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-06-toulouse-le-mans",
+      "weekend": "2027-03-06",
+      "name": "Toulouse v Le Mans",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-06-troyes-lorient",
+      "weekend": "2027-03-06",
+      "name": "Troyes v Lorient",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-13-aj-auxerre-paris-saint-germain",
+      "weekend": "2027-03-13",
+      "name": "AJ Auxerre v Paris Saint-Germain",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-13-brest-lille",
+      "weekend": "2027-03-13",
+      "name": "Brest v Lille",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-13-le-havre-ac-lens",
+      "weekend": "2027-03-13",
+      "name": "Le Havre AC v Lens",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-13-le-mans-stade-rennais",
+      "weekend": "2027-03-13",
+      "name": "Le Mans v Stade Rennais",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-13-lyon-troyes",
+      "weekend": "2027-03-13",
+      "name": "Lyon v Troyes",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-13-marseille-as-monaco",
+      "weekend": "2027-03-13",
+      "name": "Marseille v AS Monaco",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-13-nice-toulouse",
+      "weekend": "2027-03-13",
+      "name": "Nice v Toulouse",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-13-paris-fc-lorient",
+      "weekend": "2027-03-13",
+      "name": "Paris FC v Lorient",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-13-strasbourg-angers",
+      "weekend": "2027-03-13",
+      "name": "Strasbourg v Angers",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-20-angers-le-mans",
+      "weekend": "2027-03-20",
+      "name": "Angers v Le Mans",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-20-as-monaco-le-havre-ac",
+      "weekend": "2027-03-20",
+      "name": "AS Monaco v Le Havre AC",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-20-lens-lille",
+      "weekend": "2027-03-20",
+      "name": "Lens v Lille",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-20-lorient-nice",
+      "weekend": "2027-03-20",
+      "name": "Lorient v Nice",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-20-paris-saint-germain-strasbourg",
+      "weekend": "2027-03-20",
+      "name": "Paris Saint-Germain v Strasbourg",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-20-stade-rennais-paris-fc",
+      "weekend": "2027-03-20",
+      "name": "Stade Rennais v Paris FC",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-20-toulouse-brest",
+      "weekend": "2027-03-20",
+      "name": "Toulouse v Brest",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-20-troyes-aj-auxerre",
+      "weekend": "2027-03-20",
+      "name": "Troyes v AJ Auxerre",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-03-21-marseille-lyon",
+      "weekend": "2027-03-21",
+      "name": "Marseille v Lyon",
+      "utc": "2027-03-21T19:45:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-03-aj-auxerre-lens",
+      "weekend": "2027-04-03",
+      "name": "AJ Auxerre v Lens",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-03-angers-as-monaco",
+      "weekend": "2027-04-03",
+      "name": "Angers v AS Monaco",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-03-brest-lorient",
+      "weekend": "2027-04-03",
+      "name": "Brest v Lorient",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-03-le-havre-ac-troyes",
+      "weekend": "2027-04-03",
+      "name": "Le Havre AC v Troyes",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-03-le-mans-marseille",
+      "weekend": "2027-04-03",
+      "name": "Le Mans v Marseille",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-03-lille-stade-rennais",
+      "weekend": "2027-04-03",
+      "name": "Lille v Stade Rennais",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-03-nice-lyon",
+      "weekend": "2027-04-03",
+      "name": "Nice v Lyon",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-03-paris-fc-paris-saint-germain",
+      "weekend": "2027-04-03",
+      "name": "Paris FC v Paris Saint-Germain",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-03-strasbourg-toulouse",
+      "weekend": "2027-04-03",
+      "name": "Strasbourg v Toulouse",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-10-as-monaco-stade-rennais",
+      "weekend": "2027-04-10",
+      "name": "AS Monaco v Stade Rennais",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-10-le-mans-aj-auxerre",
+      "weekend": "2027-04-10",
+      "name": "Le Mans v AJ Auxerre",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-10-lille-toulouse",
+      "weekend": "2027-04-10",
+      "name": "Lille v Toulouse",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-10-lorient-lens",
+      "weekend": "2027-04-10",
+      "name": "Lorient v Lens",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-10-lyon-strasbourg",
+      "weekend": "2027-04-10",
+      "name": "Lyon v Strasbourg",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-10-marseille-brest",
+      "weekend": "2027-04-10",
+      "name": "Marseille v Brest",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-10-nice-paris-fc",
+      "weekend": "2027-04-10",
+      "name": "Nice v Paris FC",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-10-paris-saint-germain-le-havre-ac",
+      "weekend": "2027-04-10",
+      "name": "Paris Saint-Germain v Le Havre AC",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-10-troyes-angers",
+      "weekend": "2027-04-10",
+      "name": "Troyes v Angers",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-17-aj-auxerre-lorient",
+      "weekend": "2027-04-17",
+      "name": "AJ Auxerre v Lorient",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-17-angers-lyon",
+      "weekend": "2027-04-17",
+      "name": "Angers v Lyon",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-17-as-monaco-strasbourg",
+      "weekend": "2027-04-17",
+      "name": "AS Monaco v Strasbourg",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-17-brest-le-mans",
+      "weekend": "2027-04-17",
+      "name": "Brest v Le Mans",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-17-le-havre-ac-marseille",
+      "weekend": "2027-04-17",
+      "name": "Le Havre AC v Marseille",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-17-lens-nice",
+      "weekend": "2027-04-17",
+      "name": "Lens v Nice",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-17-paris-saint-germain-lille",
+      "weekend": "2027-04-17",
+      "name": "Paris Saint-Germain v Lille",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-17-stade-rennais-troyes",
+      "weekend": "2027-04-17",
+      "name": "Stade Rennais v Troyes",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-17-toulouse-paris-fc",
+      "weekend": "2027-04-17",
+      "name": "Toulouse v Paris FC",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-24-le-mans-le-havre-ac",
+      "weekend": "2027-04-24",
+      "name": "Le Mans v Le Havre AC",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-24-lille-as-monaco",
+      "weekend": "2027-04-24",
+      "name": "Lille v AS Monaco",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-24-lorient-paris-saint-germain",
+      "weekend": "2027-04-24",
+      "name": "Lorient v Paris Saint-Germain",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-24-lyon-brest",
+      "weekend": "2027-04-24",
+      "name": "Lyon v Brest",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-24-marseille-aj-auxerre",
+      "weekend": "2027-04-24",
+      "name": "Marseille v AJ Auxerre",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-24-nice-angers",
+      "weekend": "2027-04-24",
+      "name": "Nice v Angers",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-24-paris-fc-lens",
+      "weekend": "2027-04-24",
+      "name": "Paris FC v Lens",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-24-strasbourg-stade-rennais",
+      "weekend": "2027-04-24",
+      "name": "Strasbourg v Stade Rennais",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-04-24-troyes-toulouse",
+      "weekend": "2027-04-24",
+      "name": "Troyes v Toulouse",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-01-aj-auxerre-lyon",
+      "weekend": "2027-05-01",
+      "name": "AJ Auxerre v Lyon",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-01-as-monaco-lorient",
+      "weekend": "2027-05-01",
+      "name": "AS Monaco v Lorient",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-01-le-havre-ac-paris-fc",
+      "weekend": "2027-05-01",
+      "name": "Le Havre AC v Paris FC",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-01-lens-le-mans",
+      "weekend": "2027-05-01",
+      "name": "Lens v Le Mans",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-01-paris-saint-germain-angers",
+      "weekend": "2027-05-01",
+      "name": "Paris Saint-Germain v Angers",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-01-stade-rennais-nice",
+      "weekend": "2027-05-01",
+      "name": "Stade Rennais v Nice",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-01-strasbourg-lille",
+      "weekend": "2027-05-01",
+      "name": "Strasbourg v Lille",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-01-toulouse-marseille",
+      "weekend": "2027-05-01",
+      "name": "Toulouse v Marseille",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-01-troyes-brest",
+      "weekend": "2027-05-01",
+      "name": "Troyes v Brest",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-08-angers-toulouse",
+      "weekend": "2027-05-08",
+      "name": "Angers v Toulouse",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-08-brest-aj-auxerre",
+      "weekend": "2027-05-08",
+      "name": "Brest v AJ Auxerre",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-08-le-mans-troyes",
+      "weekend": "2027-05-08",
+      "name": "Le Mans v Troyes",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-08-lens-as-monaco",
+      "weekend": "2027-05-08",
+      "name": "Lens v AS Monaco",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-08-lorient-strasbourg",
+      "weekend": "2027-05-08",
+      "name": "Lorient v Strasbourg",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-08-nice-marseille",
+      "weekend": "2027-05-08",
+      "name": "Nice v Marseille",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-08-paris-fc-lille",
+      "weekend": "2027-05-08",
+      "name": "Paris FC v Lille",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-08-stade-rennais-le-havre-ac",
+      "weekend": "2027-05-08",
+      "name": "Stade Rennais v Le Havre AC",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-09-lyon-paris-saint-germain",
+      "weekend": "2027-05-09",
+      "name": "Lyon v Paris Saint-Germain",
+      "utc": "2027-05-09T18:45:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-16-aj-auxerre-stade-rennais",
+      "weekend": "2027-05-16",
+      "name": "AJ Auxerre v Stade Rennais",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-16-as-monaco-paris-fc",
+      "weekend": "2027-05-16",
+      "name": "AS Monaco v Paris FC",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-16-brest-le-havre-ac",
+      "weekend": "2027-05-16",
+      "name": "Brest v Le Havre AC",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-16-lille-angers",
+      "weekend": "2027-05-16",
+      "name": "Lille v Angers",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-16-lyon-le-mans",
+      "weekend": "2027-05-16",
+      "name": "Lyon v Le Mans",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-16-marseille-lens",
+      "weekend": "2027-05-16",
+      "name": "Marseille v Lens",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-16-paris-saint-germain-nice",
+      "weekend": "2027-05-16",
+      "name": "Paris Saint-Germain v Nice",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-16-strasbourg-troyes",
+      "weekend": "2027-05-16",
+      "name": "Strasbourg v Troyes",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "fra.1-2027-05-16-toulouse-lorient",
+      "weekend": "2027-05-16",
+      "name": "Toulouse v Lorient",
+      "utc": "2027-05-16T18:00:00Z"
+    }
+  ]
+}
