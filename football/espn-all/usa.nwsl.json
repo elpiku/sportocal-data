@@ -1,0 +1,583 @@
+{
+  "sportKey": "soccer-usa.nwsl",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "usa.nwsl-2026-08-09-boston-legacy-fc-portland-thorns-fc",
+      "weekend": "2026-08-09",
+      "name": "Boston Legacy FC v Portland Thorns FC",
+      "utc": "2026-08-09T20:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-09-chicago-stars-fc-bay-fc",
+      "weekend": "2026-08-09",
+      "name": "Chicago Stars FC v Bay FC",
+      "utc": "2026-08-09T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-10-seattle-reign-fc-angel-city-fc",
+      "weekend": "2026-08-10",
+      "name": "Seattle Reign FC v Angel City FC",
+      "utc": "2026-08-10T01:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-15-gotham-fc-kansas-city-current",
+      "weekend": "2026-08-15",
+      "name": "Gotham FC v Kansas City Current",
+      "utc": "2026-08-15T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-15-san-diego-wave-fc-denver-summit-fc",
+      "weekend": "2026-08-15",
+      "name": "San Diego Wave FC v Denver Summit FC",
+      "utc": "2026-08-15T02:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-15-seattle-reign-fc-chicago-stars-fc",
+      "weekend": "2026-08-15",
+      "name": "Seattle Reign FC v Chicago Stars FC",
+      "utc": "2026-08-15T02:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-15-utah-royals-bay-fc",
+      "weekend": "2026-08-15",
+      "name": "Utah Royals v Bay FC",
+      "utc": "2026-08-15T02:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-15-racing-louisville-fc-boston-legacy-fc",
+      "weekend": "2026-08-15",
+      "name": "Racing Louisville FC v Boston Legacy FC",
+      "utc": "2026-08-15T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-16-portland-thorns-fc-orlando-pride",
+      "weekend": "2026-08-16",
+      "name": "Portland Thorns FC v Orlando Pride",
+      "utc": "2026-08-16T00:45:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-16-north-carolina-courage-houston-dash",
+      "weekend": "2026-08-16",
+      "name": "North Carolina Courage v Houston Dash",
+      "utc": "2026-08-16T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-17-angel-city-fc-washington-spirit",
+      "weekend": "2026-08-17",
+      "name": "Angel City FC v Washington Spirit",
+      "utc": "2026-08-17T01:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-19-racing-louisville-fc-seattle-reign-fc",
+      "weekend": "2026-08-19",
+      "name": "Racing Louisville FC v Seattle Reign FC",
+      "utc": "2026-08-19T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-20-houston-dash-chicago-stars-fc",
+      "weekend": "2026-08-20",
+      "name": "Houston Dash v Chicago Stars FC",
+      "utc": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-22-san-diego-wave-fc-utah-royals",
+      "weekend": "2026-08-22",
+      "name": "San Diego Wave FC v Utah Royals",
+      "utc": "2026-08-22T02:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-22-kansas-city-current-seattle-reign-fc",
+      "weekend": "2026-08-22",
+      "name": "Kansas City Current v Seattle Reign FC",
+      "utc": "2026-08-22T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-22-north-carolina-courage-boston-legacy-fc",
+      "weekend": "2026-08-22",
+      "name": "North Carolina Courage v Boston Legacy FC",
+      "utc": "2026-08-22T23:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-23-portland-thorns-fc-denver-summit-fc",
+      "weekend": "2026-08-23",
+      "name": "Portland Thorns FC v Denver Summit FC",
+      "utc": "2026-08-23T00:45:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-23-chicago-stars-fc-racing-louisville-fc",
+      "weekend": "2026-08-23",
+      "name": "Chicago Stars FC v Racing Louisville FC",
+      "utc": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-23-washington-spirit-orlando-pride",
+      "weekend": "2026-08-23",
+      "name": "Washington Spirit v Orlando Pride",
+      "utc": "2026-08-23T20:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-23-bay-fc-houston-dash",
+      "weekend": "2026-08-23",
+      "name": "Bay FC v Houston Dash",
+      "utc": "2026-08-23T22:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-24-angel-city-fc-gotham-fc",
+      "weekend": "2026-08-24",
+      "name": "Angel City FC v Gotham FC",
+      "utc": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-27-north-carolina-courage-angel-city-fc",
+      "weekend": "2026-08-27",
+      "name": "North Carolina Courage v Angel City FC",
+      "utc": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-29-gotham-fc-portland-thorns-fc",
+      "weekend": "2026-08-29",
+      "name": "Gotham FC v Portland Thorns FC",
+      "utc": "2026-08-29T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-29-san-diego-wave-fc-racing-louisville-fc",
+      "weekend": "2026-08-29",
+      "name": "San Diego Wave FC v Racing Louisville FC",
+      "utc": "2026-08-29T02:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-29-kansas-city-current-north-carolina-courage",
+      "weekend": "2026-08-29",
+      "name": "Kansas City Current v North Carolina Courage",
+      "utc": "2026-08-29T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-29-orlando-pride-utah-royals",
+      "weekend": "2026-08-29",
+      "name": "Orlando Pride v Utah Royals",
+      "utc": "2026-08-29T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-30-denver-summit-fc-chicago-stars-fc",
+      "weekend": "2026-08-30",
+      "name": "Denver Summit FC v Chicago Stars FC",
+      "utc": "2026-08-30T00:45:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-30-washington-spirit-bay-fc",
+      "weekend": "2026-08-30",
+      "name": "Washington Spirit v Bay FC",
+      "utc": "2026-08-30T16:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-08-30-seattle-reign-fc-houston-dash",
+      "weekend": "2026-08-30",
+      "name": "Seattle Reign FC v Houston Dash",
+      "utc": "2026-08-30T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-01-boston-legacy-fc-angel-city-fc",
+      "weekend": "2026-09-01",
+      "name": "Boston Legacy FC v Angel City FC",
+      "utc": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-05-utah-royals-boston-legacy-fc",
+      "weekend": "2026-09-05",
+      "name": "Utah Royals v Boston Legacy FC",
+      "utc": "2026-09-05T01:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-05-bay-fc-kansas-city-current",
+      "weekend": "2026-09-05",
+      "name": "Bay FC v Kansas City Current",
+      "utc": "2026-09-05T02:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-05-racing-louisville-fc-angel-city-fc",
+      "weekend": "2026-09-05",
+      "name": "Racing Louisville FC v Angel City FC",
+      "utc": "2026-09-05T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-06-denver-summit-fc-gotham-fc",
+      "weekend": "2026-09-06",
+      "name": "Denver Summit FC v Gotham FC",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-06-chicago-stars-fc-north-carolina-courage",
+      "weekend": "2026-09-06",
+      "name": "Chicago Stars FC v North Carolina Courage",
+      "utc": "2026-09-06T20:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-06-portland-thorns-fc-washington-spirit",
+      "weekend": "2026-09-06",
+      "name": "Portland Thorns FC v Washington Spirit",
+      "utc": "2026-09-06T20:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-06-orlando-pride-houston-dash",
+      "weekend": "2026-09-06",
+      "name": "Orlando Pride v Houston Dash",
+      "utc": "2026-09-06T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-07-seattle-reign-fc-san-diego-wave-fc",
+      "weekend": "2026-09-07",
+      "name": "Seattle Reign FC v San Diego Wave FC",
+      "utc": "2026-09-07T01:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-11-racing-louisville-fc-gotham-fc",
+      "weekend": "2026-09-11",
+      "name": "Racing Louisville FC v Gotham FC",
+      "utc": "2026-09-11T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-12-kansas-city-current-orlando-pride",
+      "weekend": "2026-09-12",
+      "name": "Kansas City Current v Orlando Pride",
+      "utc": "2026-09-12T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-12-angel-city-fc-denver-summit-fc",
+      "weekend": "2026-09-12",
+      "name": "Angel City FC v Denver Summit FC",
+      "utc": "2026-09-12T02:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-12-san-diego-wave-fc-north-carolina-courage",
+      "weekend": "2026-09-12",
+      "name": "San Diego Wave FC v North Carolina Courage",
+      "utc": "2026-09-12T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-13-seattle-reign-fc-bay-fc",
+      "weekend": "2026-09-13",
+      "name": "Seattle Reign FC v Bay FC",
+      "utc": "2026-09-13T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-13-houston-dash-utah-royals",
+      "weekend": "2026-09-13",
+      "name": "Houston Dash v Utah Royals",
+      "utc": "2026-09-13T00:45:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-13-washington-spirit-boston-legacy-fc",
+      "weekend": "2026-09-13",
+      "name": "Washington Spirit v Boston Legacy FC",
+      "utc": "2026-09-13T17:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-13-portland-thorns-fc-chicago-stars-fc",
+      "weekend": "2026-09-13",
+      "name": "Portland Thorns FC v Chicago Stars FC",
+      "utc": "2026-09-13T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-17-denver-summit-fc-bay-fc",
+      "weekend": "2026-09-17",
+      "name": "Denver Summit FC v Bay FC",
+      "utc": "2026-09-17T01:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-17-angel-city-fc-seattle-reign-fc",
+      "weekend": "2026-09-17",
+      "name": "Angel City FC v Seattle Reign FC",
+      "utc": "2026-09-17T02:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-19-san-diego-wave-fc-kansas-city-current",
+      "weekend": "2026-09-19",
+      "name": "San Diego Wave FC v Kansas City Current",
+      "utc": "2026-09-19T02:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-19-orlando-pride-portland-thorns-fc",
+      "weekend": "2026-09-19",
+      "name": "Orlando Pride v Portland Thorns FC",
+      "utc": "2026-09-19T20:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-19-north-carolina-courage-gotham-fc",
+      "weekend": "2026-09-19",
+      "name": "North Carolina Courage v Gotham FC",
+      "utc": "2026-09-19T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-20-denver-summit-fc-seattle-reign-fc",
+      "weekend": "2026-09-20",
+      "name": "Denver Summit FC v Seattle Reign FC",
+      "utc": "2026-09-20T00:45:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-20-boston-legacy-fc-houston-dash",
+      "weekend": "2026-09-20",
+      "name": "Boston Legacy FC v Houston Dash",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-20-chicago-stars-fc-washington-spirit",
+      "weekend": "2026-09-20",
+      "name": "Chicago Stars FC v Washington Spirit",
+      "utc": "2026-09-20T21:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-20-bay-fc-racing-louisville-fc",
+      "weekend": "2026-09-20",
+      "name": "Bay FC v Racing Louisville FC",
+      "utc": "2026-09-20T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-20-utah-royals-angel-city-fc",
+      "weekend": "2026-09-20",
+      "name": "Utah Royals v Angel City FC",
+      "utc": "2026-09-20T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-25-racing-louisville-fc-san-diego-wave-fc",
+      "weekend": "2026-09-25",
+      "name": "Racing Louisville FC v San Diego Wave FC",
+      "utc": "2026-09-25T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-26-gotham-fc-chicago-stars-fc",
+      "weekend": "2026-09-26",
+      "name": "Gotham FC v Chicago Stars FC",
+      "utc": "2026-09-26T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-26-seattle-reign-fc-boston-legacy-fc",
+      "weekend": "2026-09-26",
+      "name": "Seattle Reign FC v Boston Legacy FC",
+      "utc": "2026-09-26T00:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-26-kansas-city-current-denver-summit-fc",
+      "weekend": "2026-09-26",
+      "name": "Kansas City Current v Denver Summit FC",
+      "utc": "2026-09-26T16:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-26-washington-spirit-angel-city-fc",
+      "weekend": "2026-09-26",
+      "name": "Washington Spirit v Angel City FC",
+      "utc": "2026-09-26T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-27-portland-thorns-fc-houston-dash",
+      "weekend": "2026-09-27",
+      "name": "Portland Thorns FC v Houston Dash",
+      "utc": "2026-09-27T00:45:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-27-bay-fc-orlando-pride",
+      "weekend": "2026-09-27",
+      "name": "Bay FC v Orlando Pride",
+      "utc": "2026-09-27T21:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-09-27-utah-royals-north-carolina-courage",
+      "weekend": "2026-09-27",
+      "name": "Utah Royals v North Carolina Courage",
+      "utc": "2026-09-27T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-03-orlando-pride-san-diego-wave-fc",
+      "weekend": "2026-10-03",
+      "name": "Orlando Pride v San Diego Wave FC",
+      "utc": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-03-seattle-reign-fc-north-carolina-courage",
+      "weekend": "2026-10-03",
+      "name": "Seattle Reign FC v North Carolina Courage",
+      "utc": "2026-10-03T02:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-03-racing-louisville-fc-utah-royals",
+      "weekend": "2026-10-03",
+      "name": "Racing Louisville FC v Utah Royals",
+      "utc": "2026-10-03T20:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-03-kansas-city-current-bay-fc",
+      "weekend": "2026-10-03",
+      "name": "Kansas City Current v Bay FC",
+      "utc": "2026-10-03T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-04-portland-thorns-fc-boston-legacy-fc",
+      "weekend": "2026-10-04",
+      "name": "Portland Thorns FC v Boston Legacy FC",
+      "utc": "2026-10-04T00:45:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-04-gotham-fc-angel-city-fc",
+      "weekend": "2026-10-04",
+      "name": "Gotham FC v Angel City FC",
+      "utc": "2026-10-04T16:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-04-chicago-stars-fc-denver-summit-fc",
+      "weekend": "2026-10-04",
+      "name": "Chicago Stars FC v Denver Summit FC",
+      "utc": "2026-10-04T20:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-04-houston-dash-washington-spirit",
+      "weekend": "2026-10-04",
+      "name": "Houston Dash v Washington Spirit",
+      "utc": "2026-10-04T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-17-boston-legacy-fc-racing-louisville-fc",
+      "weekend": "2026-10-17",
+      "name": "Boston Legacy FC v Racing Louisville FC",
+      "utc": "2026-10-17T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-17-washington-spirit-gotham-fc",
+      "weekend": "2026-10-17",
+      "name": "Washington Spirit v Gotham FC",
+      "utc": "2026-10-17T16:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-17-utah-royals-kansas-city-current",
+      "weekend": "2026-10-17",
+      "name": "Utah Royals v Kansas City Current",
+      "utc": "2026-10-17T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-17-north-carolina-courage-san-diego-wave-fc",
+      "weekend": "2026-10-17",
+      "name": "North Carolina Courage v San Diego Wave FC",
+      "utc": "2026-10-17T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-18-denver-summit-fc-angel-city-fc",
+      "weekend": "2026-10-18",
+      "name": "Denver Summit FC v Angel City FC",
+      "utc": "2026-10-18T00:45:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-18-houston-dash-orlando-pride",
+      "weekend": "2026-10-18",
+      "name": "Houston Dash v Orlando Pride",
+      "utc": "2026-10-18T17:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-18-bay-fc-portland-thorns-fc",
+      "weekend": "2026-10-18",
+      "name": "Bay FC v Portland Thorns FC",
+      "utc": "2026-10-18T21:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-18-chicago-stars-fc-seattle-reign-fc",
+      "weekend": "2026-10-18",
+      "name": "Chicago Stars FC v Seattle Reign FC",
+      "utc": "2026-10-18T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-24-chicago-stars-fc-houston-dash",
+      "weekend": "2026-10-24",
+      "name": "Chicago Stars FC v Houston Dash",
+      "utc": "2026-10-24T00:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-24-utah-royals-seattle-reign-fc",
+      "weekend": "2026-10-24",
+      "name": "Utah Royals v Seattle Reign FC",
+      "utc": "2026-10-24T01:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-24-portland-thorns-fc-north-carolina-courage",
+      "weekend": "2026-10-24",
+      "name": "Portland Thorns FC v North Carolina Courage",
+      "utc": "2026-10-24T02:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-24-denver-summit-fc-racing-louisville-fc",
+      "weekend": "2026-10-24",
+      "name": "Denver Summit FC v Racing Louisville FC",
+      "utc": "2026-10-24T22:30:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-25-angel-city-fc-bay-fc",
+      "weekend": "2026-10-25",
+      "name": "Angel City FC v Bay FC",
+      "utc": "2026-10-25T00:45:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-25-orlando-pride-gotham-fc",
+      "weekend": "2026-10-25",
+      "name": "Orlando Pride v Gotham FC",
+      "utc": "2026-10-25T19:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-25-kansas-city-current-washington-spirit",
+      "weekend": "2026-10-25",
+      "name": "Kansas City Current v Washington Spirit",
+      "utc": "2026-10-25T21:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-10-25-san-diego-wave-fc-boston-legacy-fc",
+      "weekend": "2026-10-25",
+      "name": "San Diego Wave FC v Boston Legacy FC",
+      "utc": "2026-10-25T23:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-11-01-angel-city-fc-boston-legacy-fc",
+      "weekend": "2026-11-01",
+      "name": "Angel City FC v Boston Legacy FC",
+      "utc": "2026-11-01T22:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-11-01-bay-fc-san-diego-wave-fc",
+      "weekend": "2026-11-01",
+      "name": "Bay FC v San Diego Wave FC",
+      "utc": "2026-11-01T22:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-11-01-gotham-fc-utah-royals",
+      "weekend": "2026-11-01",
+      "name": "Gotham FC v Utah Royals",
+      "utc": "2026-11-01T22:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-11-01-houston-dash-portland-thorns-fc",
+      "weekend": "2026-11-01",
+      "name": "Houston Dash v Portland Thorns FC",
+      "utc": "2026-11-01T22:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-11-01-north-carolina-courage-denver-summit-fc",
+      "weekend": "2026-11-01",
+      "name": "North Carolina Courage v Denver Summit FC",
+      "utc": "2026-11-01T22:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-11-01-racing-louisville-fc-kansas-city-current",
+      "weekend": "2026-11-01",
+      "name": "Racing Louisville FC v Kansas City Current",
+      "utc": "2026-11-01T22:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-11-01-seattle-reign-fc-orlando-pride",
+      "weekend": "2026-11-01",
+      "name": "Seattle Reign FC v Orlando Pride",
+      "utc": "2026-11-01T22:00:00Z"
+    },
+    {
+      "id": "usa.nwsl-2026-11-01-washington-spirit-chicago-stars-fc",
+      "weekend": "2026-11-01",
+      "name": "Washington Spirit v Chicago Stars FC",
+      "utc": "2026-11-01T22:00:00Z"
+    }
+  ]
+}
