@@ -1,0 +1,427 @@
+{
+  "sportKey": "soccer-chn.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "chn.1-2026-08-09-henan-qingdao-west-coast",
+      "weekend": "2026-08-09",
+      "name": "Henan v Qingdao West Coast",
+      "utc": "2026-08-09T11:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-09-chongqing-tonglianglong-shanghai-port",
+      "weekend": "2026-08-09",
+      "name": "Chongqing Tonglianglong v Shanghai Port",
+      "utc": "2026-08-09T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-09-shandong-taishan-tianjin-jinmen-tiger",
+      "weekend": "2026-08-09",
+      "name": "Shandong Taishan v Tianjin Jinmen Tiger",
+      "utc": "2026-08-09T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-14-shandong-taishan-qingdao-hainiu",
+      "weekend": "2026-08-14",
+      "name": "Shandong Taishan v Qingdao Hainiu",
+      "utc": "2026-08-14T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-14-wuhan-three-towns-shanghai-port",
+      "weekend": "2026-08-14",
+      "name": "Wuhan Three Towns v Shanghai Port",
+      "utc": "2026-08-14T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-14-qingdao-west-coast-chongqing-tonglianglong",
+      "weekend": "2026-08-14",
+      "name": "Qingdao West Coast v Chongqing Tonglianglong",
+      "utc": "2026-08-14T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-15-liaoning-tieren-shenzhen-xinpengcheng",
+      "weekend": "2026-08-15",
+      "name": "Liaoning Tieren v Shenzhen Xinpengcheng",
+      "utc": "2026-08-15T11:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-15-tianjin-jinmen-tiger-beijing-guoan",
+      "weekend": "2026-08-15",
+      "name": "Tianjin Jinmen Tiger v Beijing Guoan",
+      "utc": "2026-08-15T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-15-zhejiang-professional-fc-chengdu-rongcheng",
+      "weekend": "2026-08-15",
+      "name": "Zhejiang Professional FC v Chengdu Rongcheng",
+      "utc": "2026-08-15T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-15-shanghai-shenhua-henan",
+      "weekend": "2026-08-15",
+      "name": "Shanghai Shenhua v Henan",
+      "utc": "2026-08-15T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-15-yunnan-yukun-dalian-yingbo",
+      "weekend": "2026-08-15",
+      "name": "Yunnan Yukun v Dalian Yingbo",
+      "utc": "2026-08-15T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-18-shanghai-shenhua-beijing-guoan",
+      "weekend": "2026-08-18",
+      "name": "Shanghai Shenhua v Beijing Guoan",
+      "utc": "2026-08-18T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-19-shanghai-port-dalian-yingbo",
+      "weekend": "2026-08-19",
+      "name": "Shanghai Port v Dalian Yingbo",
+      "utc": "2026-08-19T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-22-wuhan-three-towns-tianjin-jinmen-tiger",
+      "weekend": "2026-08-22",
+      "name": "Wuhan Three Towns v Tianjin Jinmen Tiger",
+      "utc": "2026-08-22T11:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-22-chengdu-rongcheng-shanghai-shenhua",
+      "weekend": "2026-08-22",
+      "name": "Chengdu Rongcheng v Shanghai Shenhua",
+      "utc": "2026-08-22T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-22-shenzhen-xinpengcheng-zhejiang-professional-fc",
+      "weekend": "2026-08-22",
+      "name": "Shenzhen Xinpengcheng v Zhejiang Professional FC",
+      "utc": "2026-08-22T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-22-beijing-guoan-yunnan-yukun",
+      "weekend": "2026-08-22",
+      "name": "Beijing Guoan v Yunnan Yukun",
+      "utc": "2026-08-22T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-22-qingdao-west-coast-shandong-taishan",
+      "weekend": "2026-08-22",
+      "name": "Qingdao West Coast v Shandong Taishan",
+      "utc": "2026-08-22T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-23-liaoning-tieren-henan",
+      "weekend": "2026-08-23",
+      "name": "Liaoning Tieren v Henan",
+      "utc": "2026-08-23T11:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-23-shanghai-port-qingdao-hainiu",
+      "weekend": "2026-08-23",
+      "name": "Shanghai Port v Qingdao Hainiu",
+      "utc": "2026-08-23T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-23-chongqing-tonglianglong-dalian-yingbo",
+      "weekend": "2026-08-23",
+      "name": "Chongqing Tonglianglong v Dalian Yingbo",
+      "utc": "2026-08-23T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-28-dalian-yingbo-beijing-guoan",
+      "weekend": "2026-08-28",
+      "name": "Dalian Yingbo v Beijing Guoan",
+      "utc": "2026-08-28T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-28-shanghai-shenhua-shandong-taishan",
+      "weekend": "2026-08-28",
+      "name": "Shanghai Shenhua v Shandong Taishan",
+      "utc": "2026-08-28T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-28-shenzhen-xinpengcheng-shanghai-port",
+      "weekend": "2026-08-28",
+      "name": "Shenzhen Xinpengcheng v Shanghai Port",
+      "utc": "2026-08-28T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-29-qingdao-hainiu-wuhan-three-towns",
+      "weekend": "2026-08-29",
+      "name": "Qingdao Hainiu v Wuhan Three Towns",
+      "utc": "2026-08-29T09:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-29-tianjin-jinmen-tiger-qingdao-west-coast",
+      "weekend": "2026-08-29",
+      "name": "Tianjin Jinmen Tiger v Qingdao West Coast",
+      "utc": "2026-08-29T11:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-29-zhejiang-professional-fc-yunnan-yukun",
+      "weekend": "2026-08-29",
+      "name": "Zhejiang Professional FC v Yunnan Yukun",
+      "utc": "2026-08-29T11:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-29-chengdu-rongcheng-liaoning-tieren",
+      "weekend": "2026-08-29",
+      "name": "Chengdu Rongcheng v Liaoning Tieren",
+      "utc": "2026-08-29T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-08-29-henan-chongqing-tonglianglong",
+      "weekend": "2026-08-29",
+      "name": "Henan v Chongqing Tonglianglong",
+      "utc": "2026-08-29T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-09-05-wuhan-three-towns-qingdao-west-coast",
+      "weekend": "2026-09-05",
+      "name": "Wuhan Three Towns v Qingdao West Coast",
+      "utc": "2026-09-05T11:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-09-05-dalian-yingbo-qingdao-hainiu",
+      "weekend": "2026-09-05",
+      "name": "Dalian Yingbo v Qingdao Hainiu",
+      "utc": "2026-09-05T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-09-05-shanghai-port-beijing-guoan",
+      "weekend": "2026-09-05",
+      "name": "Shanghai Port v Beijing Guoan",
+      "utc": "2026-09-05T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-09-05-shandong-taishan-shenzhen-xinpengcheng",
+      "weekend": "2026-09-05",
+      "name": "Shandong Taishan v Shenzhen Xinpengcheng",
+      "utc": "2026-09-05T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-09-06-chongqing-tonglianglong-shanghai-shenhua",
+      "weekend": "2026-09-06",
+      "name": "Chongqing Tonglianglong v Shanghai Shenhua",
+      "utc": "2026-09-06T11:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-09-06-henan-chengdu-rongcheng",
+      "weekend": "2026-09-06",
+      "name": "Henan v Chengdu Rongcheng",
+      "utc": "2026-09-06T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-09-06-yunnan-yukun-liaoning-tieren",
+      "weekend": "2026-09-06",
+      "name": "Yunnan Yukun v Liaoning Tieren",
+      "utc": "2026-09-06T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-09-06-tianjin-jinmen-tiger-zhejiang-professional-fc",
+      "weekend": "2026-09-06",
+      "name": "Tianjin Jinmen Tiger v Zhejiang Professional FC",
+      "utc": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-09-12-tianjin-jinmen-tiger-liaoning-tieren",
+      "weekend": "2026-09-12",
+      "name": "Tianjin Jinmen Tiger v Liaoning Tieren",
+      "utc": "2026-09-12T11:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-09-shenzhen-xinpengcheng-henan",
+      "weekend": "2026-10-09",
+      "name": "Shenzhen Xinpengcheng v Henan",
+      "utc": "2026-10-09T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-09-zhejiang-professional-fc-shanghai-port",
+      "weekend": "2026-10-09",
+      "name": "Zhejiang Professional FC v Shanghai Port",
+      "utc": "2026-10-09T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-10-chengdu-rongcheng-tianjin-jinmen-tiger",
+      "weekend": "2026-10-10",
+      "name": "Chengdu Rongcheng v Tianjin Jinmen Tiger",
+      "utc": "2026-10-10T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-10-shanghai-shenhua-yunnan-yukun",
+      "weekend": "2026-10-10",
+      "name": "Shanghai Shenhua v Yunnan Yukun",
+      "utc": "2026-10-10T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-10-qingdao-hainiu-beijing-guoan",
+      "weekend": "2026-10-10",
+      "name": "Qingdao Hainiu v Beijing Guoan",
+      "utc": "2026-10-10T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-11-qingdao-west-coast-dalian-yingbo",
+      "weekend": "2026-10-11",
+      "name": "Qingdao West Coast v Dalian Yingbo",
+      "utc": "2026-10-11T10:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-11-chongqing-tonglianglong-shandong-taishan",
+      "weekend": "2026-10-11",
+      "name": "Chongqing Tonglianglong v Shandong Taishan",
+      "utc": "2026-10-11T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-11-liaoning-tieren-wuhan-three-towns",
+      "weekend": "2026-10-11",
+      "name": "Liaoning Tieren v Wuhan Three Towns",
+      "utc": "2026-10-11T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-16-henan-tianjin-jinmen-tiger",
+      "weekend": "2026-10-16",
+      "name": "Henan v Tianjin Jinmen Tiger",
+      "utc": "2026-10-16T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-17-dalian-yingbo-shenzhen-xinpengcheng",
+      "weekend": "2026-10-17",
+      "name": "Dalian Yingbo v Shenzhen Xinpengcheng",
+      "utc": "2026-10-17T11:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-17-qingdao-hainiu-liaoning-tieren",
+      "weekend": "2026-10-17",
+      "name": "Qingdao Hainiu v Liaoning Tieren",
+      "utc": "2026-10-17T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-17-yunnan-yukun-chongqing-tonglianglong",
+      "weekend": "2026-10-17",
+      "name": "Yunnan Yukun v Chongqing Tonglianglong",
+      "utc": "2026-10-17T11:35:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-17-shandong-taishan-zhejiang-professional-fc",
+      "weekend": "2026-10-17",
+      "name": "Shandong Taishan v Zhejiang Professional FC",
+      "utc": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-18-wuhan-three-towns-shanghai-shenhua",
+      "weekend": "2026-10-18",
+      "name": "Wuhan Three Towns v Shanghai Shenhua",
+      "utc": "2026-10-18T10:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-18-beijing-guoan-qingdao-west-coast",
+      "weekend": "2026-10-18",
+      "name": "Beijing Guoan v Qingdao West Coast",
+      "utc": "2026-10-18T11:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-18-shanghai-port-chengdu-rongcheng",
+      "weekend": "2026-10-18",
+      "name": "Shanghai Port v Chengdu Rongcheng",
+      "utc": "2026-10-18T12:00:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-24-chengdu-rongcheng-dalian-yingbo",
+      "weekend": "2026-10-24",
+      "name": "Chengdu Rongcheng v Dalian Yingbo",
+      "utc": "2026-10-24T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-24-chongqing-tonglianglong-qingdao-hainiu",
+      "weekend": "2026-10-24",
+      "name": "Chongqing Tonglianglong v Qingdao Hainiu",
+      "utc": "2026-10-24T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-24-henan-beijing-guoan",
+      "weekend": "2026-10-24",
+      "name": "Henan v Beijing Guoan",
+      "utc": "2026-10-24T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-24-liaoning-tieren-zhejiang-professional-fc",
+      "weekend": "2026-10-24",
+      "name": "Liaoning Tieren v Zhejiang Professional FC",
+      "utc": "2026-10-24T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-24-qingdao-west-coast-yunnan-yukun",
+      "weekend": "2026-10-24",
+      "name": "Qingdao West Coast v Yunnan Yukun",
+      "utc": "2026-10-24T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-24-shenzhen-xinpengcheng-shanghai-shenhua",
+      "weekend": "2026-10-24",
+      "name": "Shenzhen Xinpengcheng v Shanghai Shenhua",
+      "utc": "2026-10-24T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-24-tianjin-jinmen-tiger-shanghai-port",
+      "weekend": "2026-10-24",
+      "name": "Tianjin Jinmen Tiger v Shanghai Port",
+      "utc": "2026-10-24T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-10-24-wuhan-three-towns-shandong-taishan",
+      "weekend": "2026-10-24",
+      "name": "Wuhan Three Towns v Shandong Taishan",
+      "utc": "2026-10-24T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-11-08-beijing-guoan-chongqing-tonglianglong",
+      "weekend": "2026-11-08",
+      "name": "Beijing Guoan v Chongqing Tonglianglong",
+      "utc": "2026-11-08T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-11-08-dalian-yingbo-tianjin-jinmen-tiger",
+      "weekend": "2026-11-08",
+      "name": "Dalian Yingbo v Tianjin Jinmen Tiger",
+      "utc": "2026-11-08T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-11-08-qingdao-hainiu-shenzhen-xinpengcheng",
+      "weekend": "2026-11-08",
+      "name": "Qingdao Hainiu v Shenzhen Xinpengcheng",
+      "utc": "2026-11-08T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-11-08-shandong-taishan-chengdu-rongcheng",
+      "weekend": "2026-11-08",
+      "name": "Shandong Taishan v Chengdu Rongcheng",
+      "utc": "2026-11-08T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-11-08-shanghai-port-liaoning-tieren",
+      "weekend": "2026-11-08",
+      "name": "Shanghai Port v Liaoning Tieren",
+      "utc": "2026-11-08T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-11-08-shanghai-shenhua-qingdao-west-coast",
+      "weekend": "2026-11-08",
+      "name": "Shanghai Shenhua v Qingdao West Coast",
+      "utc": "2026-11-08T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-11-08-yunnan-yukun-wuhan-three-towns",
+      "weekend": "2026-11-08",
+      "name": "Yunnan Yukun v Wuhan Three Towns",
+      "utc": "2026-11-08T07:30:00Z"
+    },
+    {
+      "id": "chn.1-2026-11-08-zhejiang-professional-fc-henan",
+      "weekend": "2026-11-08",
+      "name": "Zhejiang Professional FC v Henan",
+      "utc": "2026-11-08T07:30:00Z"
+    }
+  ]
+}

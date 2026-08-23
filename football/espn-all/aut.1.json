@@ -1,0 +1,745 @@
+{
+  "sportKey": "soccer-aut.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "aut.1-2026-08-09-sv-josko-ried-rapid-vienna",
+      "weekend": "2026-08-09",
+      "name": "SV Josko Ried v Rapid Vienna",
+      "utc": "2026-08-09T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-09-wolfsberger-rb-salzburg",
+      "weekend": "2026-08-09",
+      "name": "Wolfsberger v RB Salzburg",
+      "utc": "2026-08-09T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-09-austria-vienna-lask-linz",
+      "weekend": "2026-08-09",
+      "name": "Austria Vienna v LASK Linz",
+      "utc": "2026-08-09T17:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-14-lask-linz-sv-josko-ried",
+      "weekend": "2026-08-14",
+      "name": "LASK Linz v SV Josko Ried",
+      "utc": "2026-08-14T17:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-15-austria-lustenau-wolfsberger",
+      "weekend": "2026-08-15",
+      "name": "Austria Lustenau v Wolfsberger",
+      "utc": "2026-08-15T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-15-sk-sturm-graz-sc-rheindorf-altach",
+      "weekend": "2026-08-15",
+      "name": "SK Sturm Graz v SC Rheindorf Altach",
+      "utc": "2026-08-15T17:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-16-tsv-hartberg-austria-vienna",
+      "weekend": "2026-08-16",
+      "name": "TSV Hartberg v Austria Vienna",
+      "utc": "2026-08-16T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-16-wsg-swarovski-tirol-rb-salzburg",
+      "weekend": "2026-08-16",
+      "name": "WSG Swarovski Tirol v RB Salzburg",
+      "utc": "2026-08-16T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-16-rapid-vienna-grazer-ak",
+      "weekend": "2026-08-16",
+      "name": "Rapid Vienna v Grazer AK",
+      "utc": "2026-08-16T17:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-21-sv-josko-ried-grazer-ak",
+      "weekend": "2026-08-21",
+      "name": "SV Josko Ried v Grazer AK",
+      "utc": "2026-08-21T17:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-22-sc-rheindorf-altach-tsv-hartberg",
+      "weekend": "2026-08-22",
+      "name": "SC Rheindorf Altach v TSV Hartberg",
+      "utc": "2026-08-22T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-22-sk-sturm-graz-austria-lustenau",
+      "weekend": "2026-08-22",
+      "name": "SK Sturm Graz v Austria Lustenau",
+      "utc": "2026-08-22T17:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-28-austria-lustenau-wsg-swarovski-tirol",
+      "weekend": "2026-08-28",
+      "name": "Austria Lustenau v WSG Swarovski Tirol",
+      "utc": "2026-08-28T17:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-29-grazer-ak-wolfsberger",
+      "weekend": "2026-08-29",
+      "name": "Grazer AK v Wolfsberger",
+      "utc": "2026-08-29T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-29-lask-linz-sc-rheindorf-altach",
+      "weekend": "2026-08-29",
+      "name": "LASK Linz v SC Rheindorf Altach",
+      "utc": "2026-08-29T17:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-30-rapid-vienna-sk-sturm-graz",
+      "weekend": "2026-08-30",
+      "name": "Rapid Vienna v SK Sturm Graz",
+      "utc": "2026-08-30T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-30-tsv-hartberg-sv-josko-ried",
+      "weekend": "2026-08-30",
+      "name": "TSV Hartberg v SV Josko Ried",
+      "utc": "2026-08-30T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-08-30-rb-salzburg-austria-vienna",
+      "weekend": "2026-08-30",
+      "name": "RB Salzburg v Austria Vienna",
+      "utc": "2026-08-30T17:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-01-wolfsberger-lask-linz",
+      "weekend": "2026-09-01",
+      "name": "Wolfsberger v LASK Linz",
+      "utc": "2026-09-01T17:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-02-austria-vienna-wsg-swarovski-tirol",
+      "weekend": "2026-09-02",
+      "name": "Austria Vienna v WSG Swarovski Tirol",
+      "utc": "2026-09-02T16:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-02-rb-salzburg-rapid-vienna",
+      "weekend": "2026-09-02",
+      "name": "RB Salzburg v Rapid Vienna",
+      "utc": "2026-09-02T18:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-11-sv-josko-ried-rb-salzburg",
+      "weekend": "2026-09-11",
+      "name": "SV Josko Ried v RB Salzburg",
+      "utc": "2026-09-11T17:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-12-sc-rheindorf-altach-grazer-ak",
+      "weekend": "2026-09-12",
+      "name": "SC Rheindorf Altach v Grazer AK",
+      "utc": "2026-09-12T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-12-wolfsberger-rapid-vienna",
+      "weekend": "2026-09-12",
+      "name": "Wolfsberger v Rapid Vienna",
+      "utc": "2026-09-12T17:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-13-austria-vienna-austria-lustenau",
+      "weekend": "2026-09-13",
+      "name": "Austria Vienna v Austria Lustenau",
+      "utc": "2026-09-13T12:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-13-wsg-swarovski-tirol-tsv-hartberg",
+      "weekend": "2026-09-13",
+      "name": "WSG Swarovski Tirol v TSV Hartberg",
+      "utc": "2026-09-13T12:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-13-sk-sturm-graz-lask-linz",
+      "weekend": "2026-09-13",
+      "name": "SK Sturm Graz v LASK Linz",
+      "utc": "2026-09-13T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-18-rapid-vienna-wsg-swarovski-tirol",
+      "weekend": "2026-09-18",
+      "name": "Rapid Vienna v WSG Swarovski Tirol",
+      "utc": "2026-09-18T17:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-19-austria-lustenau-sc-rheindorf-altach",
+      "weekend": "2026-09-19",
+      "name": "Austria Lustenau v SC Rheindorf Altach",
+      "utc": "2026-09-19T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-19-grazer-ak-austria-vienna",
+      "weekend": "2026-09-19",
+      "name": "Grazer AK v Austria Vienna",
+      "utc": "2026-09-19T17:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-20-sv-josko-ried-wolfsberger",
+      "weekend": "2026-09-20",
+      "name": "SV Josko Ried v Wolfsberger",
+      "utc": "2026-09-20T12:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-20-tsv-hartberg-lask-linz",
+      "weekend": "2026-09-20",
+      "name": "TSV Hartberg v LASK Linz",
+      "utc": "2026-09-20T12:30:00Z"
+    },
+    {
+      "id": "aut.1-2026-09-20-rb-salzburg-sk-sturm-graz",
+      "weekend": "2026-09-20",
+      "name": "RB Salzburg v SK Sturm Graz",
+      "utc": "2026-09-20T15:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-10-austria-vienna-sk-sturm-graz",
+      "weekend": "2026-10-10",
+      "name": "Austria Vienna v SK Sturm Graz",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-10-grazer-ak-rb-salzburg",
+      "weekend": "2026-10-10",
+      "name": "Grazer AK v RB Salzburg",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-10-lask-linz-rapid-vienna",
+      "weekend": "2026-10-10",
+      "name": "LASK Linz v Rapid Vienna",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-10-sc-rheindorf-altach-wolfsberger",
+      "weekend": "2026-10-10",
+      "name": "SC Rheindorf Altach v Wolfsberger",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-10-tsv-hartberg-austria-lustenau",
+      "weekend": "2026-10-10",
+      "name": "TSV Hartberg v Austria Lustenau",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-10-wsg-swarovski-tirol-sv-josko-ried",
+      "weekend": "2026-10-10",
+      "name": "WSG Swarovski Tirol v SV Josko Ried",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-17-austria-lustenau-lask-linz",
+      "weekend": "2026-10-17",
+      "name": "Austria Lustenau v LASK Linz",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-17-rapid-vienna-tsv-hartberg",
+      "weekend": "2026-10-17",
+      "name": "Rapid Vienna v TSV Hartberg",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-17-rb-salzburg-sc-rheindorf-altach",
+      "weekend": "2026-10-17",
+      "name": "RB Salzburg v SC Rheindorf Altach",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-17-sk-sturm-graz-grazer-ak",
+      "weekend": "2026-10-17",
+      "name": "SK Sturm Graz v Grazer AK",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-17-sv-josko-ried-austria-vienna",
+      "weekend": "2026-10-17",
+      "name": "SV Josko Ried v Austria Vienna",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-17-wolfsberger-wsg-swarovski-tirol",
+      "weekend": "2026-10-17",
+      "name": "Wolfsberger v WSG Swarovski Tirol",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-24-lask-linz-rb-salzburg",
+      "weekend": "2026-10-24",
+      "name": "LASK Linz v RB Salzburg",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-24-rapid-vienna-austria-lustenau",
+      "weekend": "2026-10-24",
+      "name": "Rapid Vienna v Austria Lustenau",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-24-sc-rheindorf-altach-austria-vienna",
+      "weekend": "2026-10-24",
+      "name": "SC Rheindorf Altach v Austria Vienna",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-24-sk-sturm-graz-sv-josko-ried",
+      "weekend": "2026-10-24",
+      "name": "SK Sturm Graz v SV Josko Ried",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-24-tsv-hartberg-wolfsberger",
+      "weekend": "2026-10-24",
+      "name": "TSV Hartberg v Wolfsberger",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-24-wsg-swarovski-tirol-grazer-ak",
+      "weekend": "2026-10-24",
+      "name": "WSG Swarovski Tirol v Grazer AK",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-31-austria-vienna-rapid-vienna",
+      "weekend": "2026-10-31",
+      "name": "Austria Vienna v Rapid Vienna",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-31-grazer-ak-tsv-hartberg",
+      "weekend": "2026-10-31",
+      "name": "Grazer AK v TSV Hartberg",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-31-lask-linz-wsg-swarovski-tirol",
+      "weekend": "2026-10-31",
+      "name": "LASK Linz v WSG Swarovski Tirol",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-31-rb-salzburg-austria-lustenau",
+      "weekend": "2026-10-31",
+      "name": "RB Salzburg v Austria Lustenau",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-31-sc-rheindorf-altach-sv-josko-ried",
+      "weekend": "2026-10-31",
+      "name": "SC Rheindorf Altach v SV Josko Ried",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-10-31-wolfsberger-sk-sturm-graz",
+      "weekend": "2026-10-31",
+      "name": "Wolfsberger v SK Sturm Graz",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-06-austria-lustenau-grazer-ak",
+      "weekend": "2026-11-06",
+      "name": "Austria Lustenau v Grazer AK",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-06-rapid-vienna-wolfsberger",
+      "weekend": "2026-11-06",
+      "name": "Rapid Vienna v Wolfsberger",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-06-sk-sturm-graz-rb-salzburg",
+      "weekend": "2026-11-06",
+      "name": "SK Sturm Graz v RB Salzburg",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-06-sv-josko-ried-lask-linz",
+      "weekend": "2026-11-06",
+      "name": "SV Josko Ried v LASK Linz",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-06-tsv-hartberg-sc-rheindorf-altach",
+      "weekend": "2026-11-06",
+      "name": "TSV Hartberg v SC Rheindorf Altach",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-06-wsg-swarovski-tirol-austria-vienna",
+      "weekend": "2026-11-06",
+      "name": "WSG Swarovski Tirol v Austria Vienna",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-21-austria-vienna-rb-salzburg",
+      "weekend": "2026-11-21",
+      "name": "Austria Vienna v RB Salzburg",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-21-grazer-ak-rapid-vienna",
+      "weekend": "2026-11-21",
+      "name": "Grazer AK v Rapid Vienna",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-21-lask-linz-tsv-hartberg",
+      "weekend": "2026-11-21",
+      "name": "LASK Linz v TSV Hartberg",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-21-sc-rheindorf-altach-sk-sturm-graz",
+      "weekend": "2026-11-21",
+      "name": "SC Rheindorf Altach v SK Sturm Graz",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-21-wolfsberger-sv-josko-ried",
+      "weekend": "2026-11-21",
+      "name": "Wolfsberger v SV Josko Ried",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-21-wsg-swarovski-tirol-austria-lustenau",
+      "weekend": "2026-11-21",
+      "name": "WSG Swarovski Tirol v Austria Lustenau",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-28-austria-lustenau-rapid-vienna",
+      "weekend": "2026-11-28",
+      "name": "Austria Lustenau v Rapid Vienna",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-28-austria-vienna-wolfsberger",
+      "weekend": "2026-11-28",
+      "name": "Austria Vienna v Wolfsberger",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-28-grazer-ak-sc-rheindorf-altach",
+      "weekend": "2026-11-28",
+      "name": "Grazer AK v SC Rheindorf Altach",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-28-rb-salzburg-lask-linz",
+      "weekend": "2026-11-28",
+      "name": "RB Salzburg v LASK Linz",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-28-sk-sturm-graz-wsg-swarovski-tirol",
+      "weekend": "2026-11-28",
+      "name": "SK Sturm Graz v WSG Swarovski Tirol",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-11-28-sv-josko-ried-tsv-hartberg",
+      "weekend": "2026-11-28",
+      "name": "SV Josko Ried v TSV Hartberg",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-05-rapid-vienna-lask-linz",
+      "weekend": "2026-12-05",
+      "name": "Rapid Vienna v LASK Linz",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-05-sc-rheindorf-altach-rb-salzburg",
+      "weekend": "2026-12-05",
+      "name": "SC Rheindorf Altach v RB Salzburg",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-05-sk-sturm-graz-austria-vienna",
+      "weekend": "2026-12-05",
+      "name": "SK Sturm Graz v Austria Vienna",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-05-sv-josko-ried-wsg-swarovski-tirol",
+      "weekend": "2026-12-05",
+      "name": "SV Josko Ried v WSG Swarovski Tirol",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-05-tsv-hartberg-grazer-ak",
+      "weekend": "2026-12-05",
+      "name": "TSV Hartberg v Grazer AK",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-05-wolfsberger-austria-lustenau",
+      "weekend": "2026-12-05",
+      "name": "Wolfsberger v Austria Lustenau",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-12-austria-lustenau-tsv-hartberg",
+      "weekend": "2026-12-12",
+      "name": "Austria Lustenau v TSV Hartberg",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-12-grazer-ak-sk-sturm-graz",
+      "weekend": "2026-12-12",
+      "name": "Grazer AK v SK Sturm Graz",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-12-lask-linz-austria-vienna",
+      "weekend": "2026-12-12",
+      "name": "LASK Linz v Austria Vienna",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-12-rapid-vienna-sv-josko-ried",
+      "weekend": "2026-12-12",
+      "name": "Rapid Vienna v SV Josko Ried",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-12-rb-salzburg-wolfsberger",
+      "weekend": "2026-12-12",
+      "name": "RB Salzburg v Wolfsberger",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2026-12-12-wsg-swarovski-tirol-sc-rheindorf-altach",
+      "weekend": "2026-12-12",
+      "name": "WSG Swarovski Tirol v SC Rheindorf Altach",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-23-austria-lustenau-rb-salzburg",
+      "weekend": "2027-01-23",
+      "name": "Austria Lustenau v RB Salzburg",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-23-austria-vienna-grazer-ak",
+      "weekend": "2027-01-23",
+      "name": "Austria Vienna v Grazer AK",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-23-sk-sturm-graz-wolfsberger",
+      "weekend": "2027-01-23",
+      "name": "SK Sturm Graz v Wolfsberger",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-23-sv-josko-ried-sc-rheindorf-altach",
+      "weekend": "2027-01-23",
+      "name": "SV Josko Ried v SC Rheindorf Altach",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-23-tsv-hartberg-rapid-vienna",
+      "weekend": "2027-01-23",
+      "name": "TSV Hartberg v Rapid Vienna",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-23-wsg-swarovski-tirol-lask-linz",
+      "weekend": "2027-01-23",
+      "name": "WSG Swarovski Tirol v LASK Linz",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-30-grazer-ak-wsg-swarovski-tirol",
+      "weekend": "2027-01-30",
+      "name": "Grazer AK v WSG Swarovski Tirol",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-30-lask-linz-sk-sturm-graz",
+      "weekend": "2027-01-30",
+      "name": "LASK Linz v SK Sturm Graz",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-30-rapid-vienna-austria-vienna",
+      "weekend": "2027-01-30",
+      "name": "Rapid Vienna v Austria Vienna",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-30-rb-salzburg-sv-josko-ried",
+      "weekend": "2027-01-30",
+      "name": "RB Salzburg v SV Josko Ried",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-30-sc-rheindorf-altach-austria-lustenau",
+      "weekend": "2027-01-30",
+      "name": "SC Rheindorf Altach v Austria Lustenau",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-01-30-wolfsberger-tsv-hartberg",
+      "weekend": "2027-01-30",
+      "name": "Wolfsberger v TSV Hartberg",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-06-austria-lustenau-sk-sturm-graz",
+      "weekend": "2027-02-06",
+      "name": "Austria Lustenau v SK Sturm Graz",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-06-austria-vienna-sc-rheindorf-altach",
+      "weekend": "2027-02-06",
+      "name": "Austria Vienna v SC Rheindorf Altach",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-06-grazer-ak-sv-josko-ried",
+      "weekend": "2027-02-06",
+      "name": "Grazer AK v SV Josko Ried",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-06-lask-linz-wolfsberger",
+      "weekend": "2027-02-06",
+      "name": "LASK Linz v Wolfsberger",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-06-tsv-hartberg-rb-salzburg",
+      "weekend": "2027-02-06",
+      "name": "TSV Hartberg v RB Salzburg",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-06-wsg-swarovski-tirol-rapid-vienna",
+      "weekend": "2027-02-06",
+      "name": "WSG Swarovski Tirol v Rapid Vienna",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-13-austria-vienna-tsv-hartberg",
+      "weekend": "2027-02-13",
+      "name": "Austria Vienna v TSV Hartberg",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-13-rb-salzburg-wsg-swarovski-tirol",
+      "weekend": "2027-02-13",
+      "name": "RB Salzburg v WSG Swarovski Tirol",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-13-sc-rheindorf-altach-lask-linz",
+      "weekend": "2027-02-13",
+      "name": "SC Rheindorf Altach v LASK Linz",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-13-sk-sturm-graz-rapid-vienna",
+      "weekend": "2027-02-13",
+      "name": "SK Sturm Graz v Rapid Vienna",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-13-sv-josko-ried-austria-lustenau",
+      "weekend": "2027-02-13",
+      "name": "SV Josko Ried v Austria Lustenau",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-13-wolfsberger-grazer-ak",
+      "weekend": "2027-02-13",
+      "name": "Wolfsberger v Grazer AK",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-20-austria-lustenau-austria-vienna",
+      "weekend": "2027-02-20",
+      "name": "Austria Lustenau v Austria Vienna",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-20-grazer-ak-lask-linz",
+      "weekend": "2027-02-20",
+      "name": "Grazer AK v LASK Linz",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-20-rapid-vienna-rb-salzburg",
+      "weekend": "2027-02-20",
+      "name": "Rapid Vienna v RB Salzburg",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-20-sv-josko-ried-sk-sturm-graz",
+      "weekend": "2027-02-20",
+      "name": "SV Josko Ried v SK Sturm Graz",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-20-tsv-hartberg-wsg-swarovski-tirol",
+      "weekend": "2027-02-20",
+      "name": "TSV Hartberg v WSG Swarovski Tirol",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-20-wolfsberger-sc-rheindorf-altach",
+      "weekend": "2027-02-20",
+      "name": "Wolfsberger v SC Rheindorf Altach",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-27-austria-vienna-sv-josko-ried",
+      "weekend": "2027-02-27",
+      "name": "Austria Vienna v SV Josko Ried",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-27-lask-linz-austria-lustenau",
+      "weekend": "2027-02-27",
+      "name": "LASK Linz v Austria Lustenau",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-27-rb-salzburg-grazer-ak",
+      "weekend": "2027-02-27",
+      "name": "RB Salzburg v Grazer AK",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-27-sc-rheindorf-altach-rapid-vienna",
+      "weekend": "2027-02-27",
+      "name": "SC Rheindorf Altach v Rapid Vienna",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-27-sk-sturm-graz-tsv-hartberg",
+      "weekend": "2027-02-27",
+      "name": "SK Sturm Graz v TSV Hartberg",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "aut.1-2027-02-27-wsg-swarovski-tirol-wolfsberger",
+      "weekend": "2027-02-27",
+      "name": "WSG Swarovski Tirol v Wolfsberger",
+      "utc": "2027-02-27T20:00:00Z"
+    }
+  ]
+}
