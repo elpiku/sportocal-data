@@ -1,0 +1,47 @@
+name: Rebuild League Index
+
+# Regenerates index.json from whatever's currently in the repo. Runs on
+# its own schedule rather than being triggered by each individual scraper
+# workflow - decoupled on purpose, since it only needs to read the repo's
+# current state, not react to any one specific scraper finishing. Every
+# 6 hours keeps it close enough to real-time without needing every other
+# workflow to know this one exists.
+
+on:
+  schedule:
+    - cron: '30 */6 * * *'  # offset 30min after the scrapers' :00 runs, so it picks up their commits
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build index.json
+        run: python scripts/build_index.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add index.json
+          git diff --quiet && git diff --staged --quiet && exit 0
+          git commit -m "Rebuild league index [skip ci]"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "Push rejected (another workflow likely pushed first) - pulling and retrying ($i/5)..."
+            git pull --rebase origin main
+            sleep $((RANDOM % 10 + 1))
+          done
+          echo "Failed to push after 5 attempts" >&2
+          exit 1
