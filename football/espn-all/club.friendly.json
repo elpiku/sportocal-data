@@ -1,0 +1,1537 @@
+{
+  "sportKey": "soccer-club.friendly",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "club.friendly-2026-08-09-radomiak-radom-ael",
+      "weekend": "2026-08-09",
+      "name": "Radomiak Radom v AEL",
+      "utc": "2026-08-09T10:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-manchester-city-atl-tico-madrid",
+      "weekend": "2026-08-09",
+      "name": "Manchester City v Atl\u00e9tico Madrid",
+      "utc": "2026-08-09T11:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-johor-darul-ta-zim-chelsea",
+      "weekend": "2026-08-09",
+      "name": "Johor Darul Ta'zim v Chelsea",
+      "utc": "2026-08-09T12:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-liverpool-as-monaco",
+      "weekend": "2026-08-09",
+      "name": "Liverpool v AS Monaco",
+      "utc": "2026-08-09T13:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-1-fc-union-berlin-aris-limassol",
+      "weekend": "2026-08-09",
+      "name": "1. FC Union Berlin v Aris Limassol",
+      "utc": "2026-08-09T15:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-lecce-monopoli-1966",
+      "weekend": "2026-08-09",
+      "name": "Lecce v Monopoli 1966",
+      "utc": "2026-08-09T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-marseille-athletic-club",
+      "weekend": "2026-08-09",
+      "name": "Marseille v Athletic Club",
+      "utc": "2026-08-09T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-radnik-hadzici-stupcanica-olovo",
+      "weekend": "2026-08-09",
+      "name": "Radnik Hadzici v Stupcanica Olovo",
+      "utc": "2026-08-09T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-club-sportif-sfaxien-san-p-dro",
+      "weekend": "2026-08-09",
+      "name": "Club Sportif Sfaxien v San P\u00e9dro",
+      "utc": "2026-08-09T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-pro-patria-imperia",
+      "weekend": "2026-08-09",
+      "name": "Pro Patria v Imperia",
+      "utc": "2026-08-09T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-thes-sport-tessenderlo-koninklijke-lierse-sk",
+      "weekend": "2026-08-09",
+      "name": "Thes Sport Tessenderlo v Koninklijke Lierse SK",
+      "utc": "2026-08-09T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-u-s-pergolettese-internazionale-u23",
+      "weekend": "2026-08-09",
+      "name": "U.S. Pergolettese v Internazionale U23",
+      "utc": "2026-08-09T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-royal-francs-borains-rwdm",
+      "weekend": "2026-08-09",
+      "name": "Royal Francs Borains v RWDM",
+      "utc": "2026-08-09T16:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-parma-sampdoria",
+      "weekend": "2026-08-09",
+      "name": "Parma v Sampdoria",
+      "utc": "2026-08-09T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-mantova-carpi",
+      "weekend": "2026-08-09",
+      "name": "Mantova v Carpi",
+      "utc": "2026-08-09T18:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-frosinone-lazio",
+      "weekend": "2026-08-09",
+      "name": "Frosinone v Lazio",
+      "utc": "2026-08-09T18:45:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-09-olot-cd-sabadell",
+      "weekend": "2026-08-09",
+      "name": "Olot v CD Sabadell",
+      "utc": "2026-08-09T19:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-10-panionios-olympiakos-piraeus-ii",
+      "weekend": "2026-08-10",
+      "name": "Panionios v Olympiakos Piraeus II",
+      "utc": "2026-08-10T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-10-us-sestri-levante-vado-fc",
+      "weekend": "2026-08-10",
+      "name": "US Sestri Levante v Vado FC",
+      "utc": "2026-08-10T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-10-cd-colunga-real-sporting-de-gij-n-ii",
+      "weekend": "2026-08-10",
+      "name": "CD Colunga v Real Sporting de Gij\u00f3n II",
+      "utc": "2026-08-10T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-10-volos-nfc-kalamata",
+      "weekend": "2026-08-10",
+      "name": "Volos NFC v Kalamata",
+      "utc": "2026-08-10T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-11-juventus-palermo",
+      "weekend": "2026-08-11",
+      "name": "Juventus v Palermo",
+      "utc": "2026-08-11T10:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-11-gimn-stica-torrelavega-sestao",
+      "weekend": "2026-08-11",
+      "name": "Gimn\u00e1stica Torrelavega v Sestao",
+      "utc": "2026-08-11T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-11-royal-stockay-saint-georges-sur-meuse-olympic-charleroi",
+      "weekend": "2026-08-11",
+      "name": "Royal Stockay Saint-Georges-sur-Meuse v Olympic Charleroi",
+      "utc": "2026-08-11T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-11-spakenburg-hvv-hollandia",
+      "weekend": "2026-08-11",
+      "name": "Spakenburg v HVV Hollandia",
+      "utc": "2026-08-11T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-11-unionistas-de-salamanca-coria",
+      "weekend": "2026-08-11",
+      "name": "Unionistas de Salamanca v Coria",
+      "utc": "2026-08-11T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-11-cf-intercity-jove-espa-ol",
+      "weekend": "2026-08-11",
+      "name": "CF Intercity v Jove Espa\u00f1ol",
+      "utc": "2026-08-11T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-11-nocerina-gelbison",
+      "weekend": "2026-08-11",
+      "name": "Nocerina v Gelbison",
+      "utc": "2026-08-11T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-11-ad-san-juan-pe-a-sport",
+      "weekend": "2026-08-11",
+      "name": "AD San Juan v Pe\u00f1a Sport",
+      "utc": "2026-08-11T18:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-paris-fc-aj-auxerre",
+      "weekend": "2026-08-12",
+      "name": "Paris FC v AJ Auxerre",
+      "utc": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-ad-alcorc-n-rayo-majadahonda",
+      "weekend": "2026-08-12",
+      "name": "AD Alcorc\u00f3n v Rayo Majadahonda",
+      "utc": "2026-08-12T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-fc-cartagena-orihuela",
+      "weekend": "2026-08-12",
+      "name": "FC Cartagena v Orihuela",
+      "utc": "2026-08-12T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-real-uni-n-irun-osasuna-ii",
+      "weekend": "2026-08-12",
+      "name": "Real Uni\u00f3n Irun v Osasuna II",
+      "utc": "2026-08-12T10:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-cd-laredo-sodupe-uc",
+      "weekend": "2026-08-12",
+      "name": "CD Laredo v Sodupe UC",
+      "utc": "2026-08-12T15:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-ks-pogradeci-skenderbeu-korce",
+      "weekend": "2026-08-12",
+      "name": "KS Pogradeci v Skenderbeu Korce",
+      "utc": "2026-08-12T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-tau-altopascio-pontedera",
+      "weekend": "2026-08-12",
+      "name": "Tau Altopascio v Pontedera",
+      "utc": "2026-08-12T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-volos-nfc-olympiakos-piraeus-ii",
+      "weekend": "2026-08-12",
+      "name": "Volos NFC v Olympiakos Piraeus II",
+      "utc": "2026-08-12T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-atromitos-levadiakos",
+      "weekend": "2026-08-12",
+      "name": "Atromitos v Levadiakos",
+      "utc": "2026-08-12T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-barakaldo-athletic-club-b",
+      "weekend": "2026-08-12",
+      "name": "Barakaldo v Athletic Club B",
+      "utc": "2026-08-12T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-nea-salamis-famagusta-anorthosis",
+      "weekend": "2026-08-12",
+      "name": "Nea Salamis Famagusta v Anorthosis",
+      "utc": "2026-08-12T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-pro-patria-gozzano",
+      "weekend": "2026-08-12",
+      "name": "Pro Patria v Gozzano",
+      "utc": "2026-08-12T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-newcastle-united-everton",
+      "weekend": "2026-08-12",
+      "name": "Newcastle United v Everton",
+      "utc": "2026-08-12T16:15:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-asteras-tripoli-aek-larnaca",
+      "weekend": "2026-08-12",
+      "name": "Asteras Tripoli v AEK Larnaca",
+      "utc": "2026-08-12T16:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-fsv-frankfurt-eintracht-frankfurt",
+      "weekend": "2026-08-12",
+      "name": "FSV Frankfurt v Eintracht Frankfurt",
+      "utc": "2026-08-12T16:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-aguilas-cieza",
+      "weekend": "2026-08-12",
+      "name": "Aguilas v Cieza",
+      "utc": "2026-08-12T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-caudal-deportivo-cultural-leonesa-ii",
+      "weekend": "2026-08-12",
+      "name": "Caudal Deportivo v Cultural Leonesa II",
+      "utc": "2026-08-12T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-espanyol-b-ce-europa",
+      "weekend": "2026-08-12",
+      "name": "Espanyol B v CE Europa",
+      "utc": "2026-08-12T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-atzeneta-la-nuc-a",
+      "weekend": "2026-08-12",
+      "name": "Atzeneta v La Nuc\u00eda",
+      "utc": "2026-08-12T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-berganti-os-lugo",
+      "weekend": "2026-08-12",
+      "name": "Berganti\u00f1os v Lugo",
+      "utc": "2026-08-12T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-touring-alav-s-iii",
+      "weekend": "2026-08-12",
+      "name": "Touring v Alav\u00e9s III",
+      "utc": "2026-08-12T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-panionios-kalamata",
+      "weekend": "2026-08-12",
+      "name": "Panionios v Kalamata",
+      "utc": "2026-08-12T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-arsenal-como",
+      "weekend": "2026-08-12",
+      "name": "Arsenal v Como",
+      "utc": "2026-08-12T18:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-manchester-united-leeds-united",
+      "weekend": "2026-08-12",
+      "name": "Manchester United v Leeds United",
+      "utc": "2026-08-12T18:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-nottingham-forest-bayer-leverkusen",
+      "weekend": "2026-08-12",
+      "name": "Nottingham Forest v Bayer Leverkusen",
+      "utc": "2026-08-12T18:45:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-deportivo-real-madrid",
+      "weekend": "2026-08-12",
+      "name": "Deportivo v Real Madrid",
+      "utc": "2026-08-12T19:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-m-laga-fulham",
+      "weekend": "2026-08-12",
+      "name": "M\u00e1laga v Fulham",
+      "utc": "2026-08-12T19:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-napoli-aris",
+      "weekend": "2026-08-12",
+      "name": "Napoli v Aris",
+      "utc": "2026-08-12T19:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-12-lorca-deportiva-real-murcia",
+      "weekend": "2026-08-12",
+      "name": "Lorca Deportiva v Real Murcia",
+      "utc": "2026-08-12T19:15:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-13-athletic-club-boise-sporting-san-jos",
+      "weekend": "2026-08-13",
+      "name": "Athletic Club Boise v Sporting San Jos\u00e9",
+      "utc": "2026-08-13T01:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-13-gs-arconatese-1926-ac-leon-monza-e-brianza",
+      "weekend": "2026-08-13",
+      "name": "GS Arconatese 1926 v AC Leon Monza e Brianza",
+      "utc": "2026-08-13T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-13-bali-united-sabah-fc",
+      "weekend": "2026-08-13",
+      "name": "Bali United v Sabah FC",
+      "utc": "2026-08-13T12:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-13-reggina-sanremese",
+      "weekend": "2026-08-13",
+      "name": "Reggina v Sanremese",
+      "utc": "2026-08-13T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-13-ssc-giugliano-ischia",
+      "weekend": "2026-08-13",
+      "name": "SSC Giugliano v Ischia",
+      "utc": "2026-08-13T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-13-as-far-chabab-atlas-khenifra",
+      "weekend": "2026-08-13",
+      "name": "AS FAR v Chabab Atlas Khenifra",
+      "utc": "2026-08-13T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-13-unione-la-rocca-altavilla-vicenza",
+      "weekend": "2026-08-13",
+      "name": "Unione La Rocca Altavilla v Vicenza",
+      "utc": "2026-08-13T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-13-gimn-stic-de-tarragona-huesca",
+      "weekend": "2026-08-13",
+      "name": "Gimn\u00e0stic de Tarragona v Huesca",
+      "utc": "2026-08-13T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-13-chiclana-atl-tico-sanluque-o-cf",
+      "weekend": "2026-08-13",
+      "name": "Chiclana v Atl\u00e9tico Sanluque\u00f1o CF",
+      "utc": "2026-08-13T18:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-real-sporting-de-gij-n-ii-cultural-leonesa-ii",
+      "weekend": "2026-08-14",
+      "name": "Real Sporting de Gij\u00f3n II v Cultural Leonesa II",
+      "utc": "2026-08-14T10:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-hnk-segesta-sisak-nk-dubrava-zagreb",
+      "weekend": "2026-08-14",
+      "name": "HNK Segesta Sisak v NK Dubrava Zagreb",
+      "utc": "2026-08-14T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-marseille-atl-tico-madrid",
+      "weekend": "2026-08-14",
+      "name": "Marseille v Atl\u00e9tico Madrid",
+      "utc": "2026-08-14T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-nk-bjelovar-nk-inker",
+      "weekend": "2026-08-14",
+      "name": "NK Bjelovar v NK Inker",
+      "utc": "2026-08-14T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-portugalete-barakaldo",
+      "weekend": "2026-08-14",
+      "name": "Portugalete v Barakaldo",
+      "utc": "2026-08-14T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-nea-salamis-famagusta-krasava",
+      "weekend": "2026-08-14",
+      "name": "Nea Salamis Famagusta v Krasava",
+      "utc": "2026-08-14T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-asd-seravezza-pozzi-us-pistoiese-1921",
+      "weekend": "2026-08-14",
+      "name": "ASD Seravezza Pozzi v US Pistoiese 1921",
+      "utc": "2026-08-14T16:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-sd-eibari-iii-santurtzi",
+      "weekend": "2026-08-14",
+      "name": "SD Eibari III v Santurtzi",
+      "utc": "2026-08-14T16:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-avil-s-stadium-llanera",
+      "weekend": "2026-08-14",
+      "name": "Avil\u00e9s Stadium v Llanera",
+      "utc": "2026-08-14T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-cd-benzana-gimn-stica-torrelavega",
+      "weekend": "2026-08-14",
+      "name": "CD Benzana v Gimn\u00e1stica Torrelavega",
+      "utc": "2026-08-14T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-poblense-atl-tico-baleares",
+      "weekend": "2026-08-14",
+      "name": "Poblense v Atl\u00e9tico Baleares",
+      "utc": "2026-08-14T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-troyes-panetolikos",
+      "weekend": "2026-08-14",
+      "name": "Troyes v Panetolikos",
+      "utc": "2026-08-14T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-ud-ibiza-pd-santa-eulalia",
+      "weekend": "2026-08-14",
+      "name": "UD Ibiza v PD Santa Eulalia",
+      "utc": "2026-08-14T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-alcoyano-hercules",
+      "weekend": "2026-08-14",
+      "name": "Alcoyano v Hercules",
+      "utc": "2026-08-14T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-coria-cd-extremadura",
+      "weekend": "2026-08-14",
+      "name": "Coria v CD Extremadura",
+      "utc": "2026-08-14T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-haro-deportivo-naxara",
+      "weekend": "2026-08-14",
+      "name": "Haro Deportivo v Naxara",
+      "utc": "2026-08-14T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-reus-fc-reddis-atl-tico-saguntino",
+      "weekend": "2026-08-14",
+      "name": "Reus FC Reddis v Atl\u00e9tico Saguntino",
+      "utc": "2026-08-14T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-racing-club-portuense-xerez",
+      "weekend": "2026-08-14",
+      "name": "Racing Club Portuense v Xerez",
+      "utc": "2026-08-14T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-ad-san-juan-cd-avance-ezcabarte",
+      "weekend": "2026-08-14",
+      "name": "AD San Juan v CD Avance Ezcabarte",
+      "utc": "2026-08-14T18:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-coventry-city-as-monaco",
+      "weekend": "2026-08-14",
+      "name": "Coventry City v AS Monaco",
+      "utc": "2026-08-14T18:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-illescas-talavera",
+      "weekend": "2026-08-14",
+      "name": "Illescas v Talavera",
+      "utc": "2026-08-14T18:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-14-atalanta-athletic-club",
+      "weekend": "2026-08-14",
+      "name": "Atalanta v Athletic Club",
+      "utc": "2026-08-14T18:45:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-la-calzada-cd-san-ignacio",
+      "weekend": "2026-08-15",
+      "name": "La Calzada v CD San Ignacio",
+      "utc": "2026-08-15T07:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-cd-minera-fc-cartagena-ii",
+      "weekend": "2026-08-15",
+      "name": "CD Minera v FC Cartagena II",
+      "utc": "2026-08-15T07:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-c-diz-ii-betis-deportivo",
+      "weekend": "2026-08-15",
+      "name": "C\u00e1diz II v Betis Deportivo",
+      "utc": "2026-08-15T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-mallorca-ii-atl-tico-baleares",
+      "weekend": "2026-08-15",
+      "name": "Mallorca II v Atl\u00e9tico Baleares",
+      "utc": "2026-08-15T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-pozuelo-alarc-n-marchamalo",
+      "weekend": "2026-08-15",
+      "name": "Pozuelo Alarc\u00f3n v Marchamalo",
+      "utc": "2026-08-15T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-beasain-touring",
+      "weekend": "2026-08-15",
+      "name": "Beasain v Touring",
+      "utc": "2026-08-15T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-gimnastica-segoviana-unionistas-de-salamanca",
+      "weekend": "2026-08-15",
+      "name": "Gimnastica Segoviana v Unionistas de Salamanca",
+      "utc": "2026-08-15T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-rayo-cantabria-cd-basconia",
+      "weekend": "2026-08-15",
+      "name": "Rayo Cantabria v CD Basconia",
+      "utc": "2026-08-15T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-real-madrid-castilla-mirand-s",
+      "weekend": "2026-08-15",
+      "name": "Real Madrid Castilla v Mirand\u00e9s",
+      "utc": "2026-08-15T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-arenas-club-osasuna-ii",
+      "weekend": "2026-08-15",
+      "name": "Arenas Club v Osasuna II",
+      "utc": "2026-08-15T09:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-atl-tico-tordesillas-guijuelo",
+      "weekend": "2026-08-15",
+      "name": "Atl\u00e9tico Tordesillas v Guijuelo",
+      "utc": "2026-08-15T09:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-cultural-leonesa-salamanca-uds",
+      "weekend": "2026-08-15",
+      "name": "Cultural Leonesa v Salamanca UDS",
+      "utc": "2026-08-15T09:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-sabah-fc-persib",
+      "weekend": "2026-08-15",
+      "name": "Sabah FC v Persib",
+      "utc": "2026-08-15T12:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-werder-bremen-aj-auxerre",
+      "weekend": "2026-08-15",
+      "name": "Werder Bremen v AJ Auxerre",
+      "utc": "2026-08-15T12:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-chelsea-real-sociedad",
+      "weekend": "2026-08-15",
+      "name": "Chelsea v Real Sociedad",
+      "utc": "2026-08-15T13:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-1-fc-union-berlin-ipswich-town",
+      "weekend": "2026-08-15",
+      "name": "1. FC Union Berlin v Ipswich Town",
+      "utc": "2026-08-15T13:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-bayern-munich-rb-leipzig",
+      "weekend": "2026-08-15",
+      "name": "Bayern Munich v RB Leipzig",
+      "utc": "2026-08-15T13:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-borussia-m-nchengladbach-aston-villa",
+      "weekend": "2026-08-15",
+      "name": "Borussia M\u00f6nchengladbach v Aston Villa",
+      "utc": "2026-08-15T13:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-mainz-afc-bournemouth",
+      "weekend": "2026-08-15",
+      "name": "Mainz v AFC Bournemouth",
+      "utc": "2026-08-15T13:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-sv-elversberg-lorient",
+      "weekend": "2026-08-15",
+      "name": "SV Elversberg v Lorient",
+      "utc": "2026-08-15T13:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-brentford-eintracht-frankfurt",
+      "weekend": "2026-08-15",
+      "name": "Brentford v Eintracht Frankfurt",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-brighton-hove-albion-bologna",
+      "weekend": "2026-08-15",
+      "name": "Brighton & Hove Albion v Bologna",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-everton-lille",
+      "weekend": "2026-08-15",
+      "name": "Everton v Lille",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-hull-city-nice",
+      "weekend": "2026-08-15",
+      "name": "Hull City v Nice",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-leeds-united-fc-augsburg",
+      "weekend": "2026-08-15",
+      "name": "Leeds United v FC Augsburg",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-newcastle-united-bayer-leverkusen",
+      "weekend": "2026-08-15",
+      "name": "Newcastle United v Bayer Leverkusen",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-sunderland-stade-rennais",
+      "weekend": "2026-08-15",
+      "name": "Sunderland v Stade Rennais",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-tottenham-hotspur-tsg-hoffenheim",
+      "weekend": "2026-08-15",
+      "name": "Tottenham Hotspur v TSG Hoffenheim",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-manchester-united-ac-milan",
+      "weekend": "2026-08-15",
+      "name": "Manchester United v AC Milan",
+      "utc": "2026-08-15T14:45:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-fulham-vfb-stuttgart",
+      "weekend": "2026-08-15",
+      "name": "Fulham v VfB Stuttgart",
+      "utc": "2026-08-15T15:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-angers-paris-fc",
+      "weekend": "2026-08-15",
+      "name": "Angers v Paris FC",
+      "utc": "2026-08-15T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-borussia-dortmund-as-roma",
+      "weekend": "2026-08-15",
+      "name": "Borussia Dortmund v AS Roma",
+      "utc": "2026-08-15T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-sk-tirana-kf-laci",
+      "weekend": "2026-08-15",
+      "name": "SK Tirana v KF Laci",
+      "utc": "2026-08-15T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-vllaznia-shkoder-vora",
+      "weekend": "2026-08-15",
+      "name": "Vllaznia Shkoder v Vora",
+      "utc": "2026-08-15T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-le-mans-le-havre-ac",
+      "weekend": "2026-08-15",
+      "name": "Le Mans v Le Havre AC",
+      "utc": "2026-08-15T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-cd-laredo-cristo-atletico",
+      "weekend": "2026-08-15",
+      "name": "CD Laredo v Cristo Atletico",
+      "utc": "2026-08-15T16:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-badalona-espanyol-b",
+      "weekend": "2026-08-15",
+      "name": "Badalona v Espanyol B",
+      "utc": "2026-08-15T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-fc-martinenc-l-entregu-club-de-f-tbol",
+      "weekend": "2026-08-15",
+      "name": "FC Martinenc v L'Entregu Club de F\u00fatbol",
+      "utc": "2026-08-15T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-real-sociedad-iii-cd-subiza",
+      "weekend": "2026-08-15",
+      "name": "Real Sociedad III v CD Subiza",
+      "utc": "2026-08-15T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-toulouse-hamburg-sv",
+      "weekend": "2026-08-15",
+      "name": "Toulouse v Hamburg SV",
+      "utc": "2026-08-15T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-internazionale-real-betis",
+      "weekend": "2026-08-15",
+      "name": "Internazionale v Real Betis",
+      "utc": "2026-08-15T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-aguilas-lorca-deportiva",
+      "weekend": "2026-08-15",
+      "name": "Aguilas v Lorca Deportiva",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-orihuela-cieza",
+      "weekend": "2026-08-15",
+      "name": "Orihuela v Cieza",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-pontevedra-ourense-cf",
+      "weekend": "2026-08-15",
+      "name": "Pontevedra v Ourense CF",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-xerez-deportivo-mijas-las-lagunas",
+      "weekend": "2026-08-15",
+      "name": "Xerez Deportivo v Mijas Las Lagunas",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-15-mosconia-real-aviles-industrial",
+      "weekend": "2026-08-15",
+      "name": "Mosconia v Real Aviles Industrial",
+      "utc": "2026-08-15T19:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-shimizu-s-pulse-shonan-bellmare",
+      "weekend": "2026-08-16",
+      "name": "Shimizu S-Pulse v Shonan Bellmare",
+      "utc": "2026-08-16T01:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-bibiani-gold-stars-venomous-vipers",
+      "weekend": "2026-08-16",
+      "name": "Bibiani Gold Stars v Venomous Vipers",
+      "utc": "2026-08-16T07:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-cd-minera-eldense-ii",
+      "weekend": "2026-08-16",
+      "name": "CD Minera v Eldense II",
+      "utc": "2026-08-16T07:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-ho-chi-minh-city-dong-tam-long-an",
+      "weekend": "2026-08-16",
+      "name": "Ho Chi Minh City v Dong Tam Long An",
+      "utc": "2026-08-16T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-binh-duong-dong-thap",
+      "weekend": "2026-08-16",
+      "name": "Binh Duong v Dong Thap",
+      "utc": "2026-08-16T10:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-liverpool-como",
+      "weekend": "2026-08-16",
+      "name": "Liverpool v Como",
+      "utc": "2026-08-16T10:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-tottenham-hotspur-tsg-hoffenheim",
+      "weekend": "2026-08-16",
+      "name": "Tottenham Hotspur v TSG Hoffenheim",
+      "utc": "2026-08-16T11:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-nottingham-forest-brest",
+      "weekend": "2026-08-16",
+      "name": "Nottingham Forest v Brest",
+      "utc": "2026-08-16T13:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-fc-basel-barcelona",
+      "weekend": "2026-08-16",
+      "name": "FC Basel v Barcelona",
+      "utc": "2026-08-16T14:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-newcastle-united-strasbourg",
+      "weekend": "2026-08-16",
+      "name": "Newcastle United v Strasbourg",
+      "utc": "2026-08-16T15:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-schalke-04-real-madrid",
+      "weekend": "2026-08-16",
+      "name": "Schalke 04 v Real Madrid",
+      "utc": "2026-08-16T15:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-anorthosis-apoel-nicosia",
+      "weekend": "2026-08-16",
+      "name": "Anorthosis v Apoel Nicosia",
+      "utc": "2026-08-16T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-liverpool-como-2",
+      "weekend": "2026-08-16",
+      "name": "Liverpool v Como",
+      "utc": "2026-08-16T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-16-m-stoles-burgos-promesas",
+      "weekend": "2026-08-16",
+      "name": "M\u00f3stoles v Burgos Promesas",
+      "utc": "2026-08-16T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-17-hai-phong-hung-yen",
+      "weekend": "2026-08-17",
+      "name": "Hai Phong v Hung Yen",
+      "utc": "2026-08-17T11:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-18-illescas-san-sebasti-n-de-los-reyes-b",
+      "weekend": "2026-08-18",
+      "name": "Illescas v San Sebasti\u00e1n de los Reyes B",
+      "utc": "2026-08-18T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-18-persib-bali-united",
+      "weekend": "2026-08-18",
+      "name": "Persib v Bali United",
+      "utc": "2026-08-18T12:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-18-1-fc-heidenheim-1846-bayern-munich",
+      "weekend": "2026-08-18",
+      "name": "1. FC Heidenheim 1846 v Bayern Munich",
+      "utc": "2026-08-18T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-18-es-setif-ca-batna",
+      "weekend": "2026-08-18",
+      "name": "ES Setif v CA Batna",
+      "utc": "2026-08-18T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-18-atl-tico-tordesillas-villa-simancas",
+      "weekend": "2026-08-18",
+      "name": "Atl\u00e9tico Tordesillas v Villa Simancas",
+      "utc": "2026-08-18T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-18-cd-laredo-athletic-club-b",
+      "weekend": "2026-08-18",
+      "name": "CD Laredo v Athletic Club B",
+      "utc": "2026-08-18T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-18-mutilvera-pe-a-sport",
+      "weekend": "2026-08-18",
+      "name": "Mutilvera v Pe\u00f1a Sport",
+      "utc": "2026-08-18T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-18-real-sporting-de-gij-n-ii-llanera",
+      "weekend": "2026-08-18",
+      "name": "Real Sporting de Gij\u00f3n II v Llanera",
+      "utc": "2026-08-18T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-18-spelle-venhaus-vfl-osnabruck",
+      "weekend": "2026-08-18",
+      "name": "Spelle-Venhaus v VfL Osnabruck",
+      "utc": "2026-08-18T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-barcelona-b-ce-europa",
+      "weekend": "2026-08-19",
+      "name": "Barcelona B v CE Europa",
+      "utc": "2026-08-19T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-dong-thap-ho-chi-minh-city-fc",
+      "weekend": "2026-08-19",
+      "name": "Dong Thap v Ho Chi Minh City FC",
+      "utc": "2026-08-19T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-elche-ii-fc-cartagena",
+      "weekend": "2026-08-19",
+      "name": "Elche II v FC Cartagena",
+      "utc": "2026-08-19T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-eibar-ii-sestao",
+      "weekend": "2026-08-19",
+      "name": "Eibar II v Sestao",
+      "utc": "2026-08-19T09:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-dong-tam-long-an-binh-duong",
+      "weekend": "2026-08-19",
+      "name": "Dong Tam Long An v Binh Duong",
+      "utc": "2026-08-19T10:15:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-oud-heverlee-leuven-b-jong-krc-genk",
+      "weekend": "2026-08-19",
+      "name": "Oud-Heverlee Leuven B v Jong KRC Genk",
+      "utc": "2026-08-19T11:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-krasava-ael",
+      "weekend": "2026-08-19",
+      "name": "Krasava v AEL",
+      "utc": "2026-08-19T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-gimn-stica-torrelavega-rayo-cantabria",
+      "weekend": "2026-08-19",
+      "name": "Gimn\u00e1stica Torrelavega v Rayo Cantabria",
+      "utc": "2026-08-19T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-la-calzada-mirand-s",
+      "weekend": "2026-08-19",
+      "name": "La Calzada v Mirand\u00e9s",
+      "utc": "2026-08-19T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-real-oviedo-vetusta-caudal-deportivo",
+      "weekend": "2026-08-19",
+      "name": "Real Oviedo Vetusta v Caudal Deportivo",
+      "utc": "2026-08-19T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-real-valladolid-ii-la-cist-rniga",
+      "weekend": "2026-08-19",
+      "name": "Real Valladolid II v La Cist\u00e9rniga",
+      "utc": "2026-08-19T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-santomera-crevillente",
+      "weekend": "2026-08-19",
+      "name": "Santomera v Crevillente",
+      "utc": "2026-08-19T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-aguilas-alcoyano",
+      "weekend": "2026-08-19",
+      "name": "Aguilas v Alcoyano",
+      "utc": "2026-08-19T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-atl-tico-coru-a-sd-compostela",
+      "weekend": "2026-08-19",
+      "name": "Atl\u00e9tico Coru\u00f1a v SD Compostela",
+      "utc": "2026-08-19T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-cd-izarra-sd-logro-s",
+      "weekend": "2026-08-19",
+      "name": "CD Izarra v SD Logro\u00f1\u00e9s",
+      "utc": "2026-08-19T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-terrassa-san-cristobal",
+      "weekend": "2026-08-19",
+      "name": "Terrassa v San Cristobal",
+      "utc": "2026-08-19T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-coruxo-pontevedra",
+      "weekend": "2026-08-19",
+      "name": "Coruxo v Pontevedra",
+      "utc": "2026-08-19T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-ponferradina-real-madrid-castilla",
+      "weekend": "2026-08-19",
+      "name": "Ponferradina v Real Madrid Castilla",
+      "utc": "2026-08-19T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-pozuelo-alarc-n-noblejas",
+      "weekend": "2026-08-19",
+      "name": "Pozuelo Alarc\u00f3n v Noblejas",
+      "utc": "2026-08-19T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-salamanca-uds-ud-santa-marta",
+      "weekend": "2026-08-19",
+      "name": "Salamanca UDS v UD Santa Marta",
+      "utc": "2026-08-19T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-19-cd-extremadura-betis-deportivo",
+      "weekend": "2026-08-19",
+      "name": "CD Extremadura v Betis Deportivo",
+      "utc": "2026-08-19T19:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-20-xuan-thien-phu-tho-hung-yen",
+      "weekend": "2026-08-20",
+      "name": "Xuan Thien Phu Tho v Hung Yen",
+      "utc": "2026-08-20T10:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-20-red-arrows-power-dynamos",
+      "weekend": "2026-08-20",
+      "name": "Red Arrows v Power Dynamos",
+      "utc": "2026-08-20T11:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-20-amurrio-cd-san-ignacio",
+      "weekend": "2026-08-20",
+      "name": "Amurrio v CD San Ignacio",
+      "utc": "2026-08-20T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-20-es-setif-nc-magra",
+      "weekend": "2026-08-20",
+      "name": "ES Setif v NC Magra",
+      "utc": "2026-08-20T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-20-real-madrid-castilla-zamora-cf",
+      "weekend": "2026-08-20",
+      "name": "Real Madrid Castilla v Zamora CF",
+      "utc": "2026-08-20T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-20-atl-tico-sanluque-o-cf-club-atl-tico-antoniano",
+      "weekend": "2026-08-20",
+      "name": "Atl\u00e9tico Sanluque\u00f1o CF v Club Atl\u00e9tico Antoniano",
+      "utc": "2026-08-20T18:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-21-c-diz-ii-lion-city-sailors-fc",
+      "weekend": "2026-08-21",
+      "name": "C\u00e1diz II v Lion City Sailors FC",
+      "utc": "2026-08-21T08:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-21-girona-ii-castell-n-b",
+      "weekend": "2026-08-21",
+      "name": "Girona II v Castell\u00f3n B",
+      "utc": "2026-08-21T10:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-21-power-dynamos-zesco-united",
+      "weekend": "2026-08-21",
+      "name": "Power Dynamos v ZESCO United",
+      "utc": "2026-08-21T11:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-21-asd-seravezza-pozzi-acv-scandicci",
+      "weekend": "2026-08-21",
+      "name": "ASD Seravezza Pozzi v ACV Scandicci",
+      "utc": "2026-08-21T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-21-aek-larnaca-omonia-29is-maiou",
+      "weekend": "2026-08-21",
+      "name": "AEK Larnaca v Omonia 29is Maiou",
+      "utc": "2026-08-21T16:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-21-naxara-deportivo-alav-s-ii",
+      "weekend": "2026-08-21",
+      "name": "Naxara v Deportivo Alav\u00e9s II",
+      "utc": "2026-08-21T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-21-atletico-astorga-cultural-leonesa",
+      "weekend": "2026-08-21",
+      "name": "Atletico Astorga v Cultural Leonesa",
+      "utc": "2026-08-21T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-21-real-aviles-industrial-real-sporting-de-gij-n-ii",
+      "weekend": "2026-08-21",
+      "name": "Real Aviles Industrial v Real Sporting de Gij\u00f3n II",
+      "utc": "2026-08-21T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-21-cd-utiel-vall-de-ux",
+      "weekend": "2026-08-21",
+      "name": "CD Utiel v Vall de Ux\u00f3",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-21-mutilvera-doneztebe",
+      "weekend": "2026-08-21",
+      "name": "Mutilvera v Doneztebe",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-21-selaya-fc-cay-n",
+      "weekend": "2026-08-21",
+      "name": "Selaya FC v Cay\u00f3n",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-western-sydney-wanderers-macarthur-fc",
+      "weekend": "2026-08-22",
+      "name": "Western Sydney Wanderers v Macarthur FC",
+      "utc": "2026-08-22T01:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-torrellano-real-murcia-imperial",
+      "weekend": "2026-08-22",
+      "name": "Torrellano v Real Murcia Imperial",
+      "utc": "2026-08-22T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-espanyol-b-gimn-stic-de-tarragona",
+      "weekend": "2026-08-22",
+      "name": "Espanyol B v Gimn\u00e0stic de Tarragona",
+      "utc": "2026-08-22T08:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-girona-ii-ce-europa",
+      "weekend": "2026-08-22",
+      "name": "Girona II v CE Europa",
+      "utc": "2026-08-22T08:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-rans-nusantara-arema-indonesia",
+      "weekend": "2026-08-22",
+      "name": "RANS Nusantara v Arema Indonesia",
+      "utc": "2026-08-22T08:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-deportivo-alav-s-ii-amorebieta",
+      "weekend": "2026-08-22",
+      "name": "Deportivo Alav\u00e9s II v Amorebieta",
+      "utc": "2026-08-22T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-beasain-alav-s-iii",
+      "weekend": "2026-08-22",
+      "name": "Beasain v Alav\u00e9s III",
+      "utc": "2026-08-22T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-gimnastica-segoviana-rayo-majadahonda",
+      "weekend": "2026-08-22",
+      "name": "Gimnastica Segoviana v Rayo Majadahonda",
+      "utc": "2026-08-22T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-cristo-atletico-atl-tico-tordesillas",
+      "weekend": "2026-08-22",
+      "name": "Cristo Atletico v Atl\u00e9tico Tordesillas",
+      "utc": "2026-08-22T09:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-rayo-cantabria-sestao",
+      "weekend": "2026-08-22",
+      "name": "Rayo Cantabria v Sestao",
+      "utc": "2026-08-22T09:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-cd-basconia-real-valladolid-ii",
+      "weekend": "2026-08-22",
+      "name": "CD Basconia v Real Valladolid II",
+      "utc": "2026-08-22T10:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-cong-an-hanoi-hung-yen",
+      "weekend": "2026-08-22",
+      "name": "Cong An Hanoi v Hung Yen",
+      "utc": "2026-08-22T10:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-gimn-stica-torrelavega-cd-derio",
+      "weekend": "2026-08-22",
+      "name": "Gimn\u00e1stica Torrelavega v CD Derio",
+      "utc": "2026-08-22T10:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-zesco-united-red-arrows",
+      "weekend": "2026-08-22",
+      "name": "ZESCO United v Red Arrows",
+      "utc": "2026-08-22T11:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-omonia-aradippou-krasava",
+      "weekend": "2026-08-22",
+      "name": "Omonia Aradippou v Krasava",
+      "utc": "2026-08-22T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-ael-aris-limassol",
+      "weekend": "2026-08-22",
+      "name": "AEL v Aris Limassol",
+      "utc": "2026-08-22T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-anorthosis-karmiotissa",
+      "weekend": "2026-08-22",
+      "name": "Anorthosis v Karmiotissa",
+      "utc": "2026-08-22T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-nea-salamis-famagusta-apollon-limassol",
+      "weekend": "2026-08-22",
+      "name": "Nea Salamis Famagusta v Apollon Limassol",
+      "utc": "2026-08-22T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-olympiakos-nicosia-apoel-nicosia",
+      "weekend": "2026-08-22",
+      "name": "Olympiakos Nicosia v Apoel Nicosia",
+      "utc": "2026-08-22T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-us-pistoiese-1921-siena",
+      "weekend": "2026-08-22",
+      "name": "US Pistoiese 1921 v Siena",
+      "utc": "2026-08-22T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-cd-laredo-arenas-club",
+      "weekend": "2026-08-22",
+      "name": "CD Laredo v Arenas Club",
+      "utc": "2026-08-22T16:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-fc-fiorentino-tre-penne",
+      "weekend": "2026-08-22",
+      "name": "FC Fiorentino v Tre Penne",
+      "utc": "2026-08-22T16:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-huarte-osasuna-ii",
+      "weekend": "2026-08-22",
+      "name": "Huarte v Osasuna II",
+      "utc": "2026-08-22T16:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-real-vila-pozuelo-alarc-n",
+      "weekend": "2026-08-22",
+      "name": "Real \u00c1vila v Pozuelo Alarc\u00f3n",
+      "utc": "2026-08-22T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-roda-atl-tico-saguntino",
+      "weekend": "2026-08-22",
+      "name": "Roda v Atl\u00e9tico Saguntino",
+      "utc": "2026-08-22T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-santany-porreres",
+      "weekend": "2026-08-22",
+      "name": "Santany\u00ed v Porreres",
+      "utc": "2026-08-22T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-manresa-atl-tic-lleida",
+      "weekend": "2026-08-22",
+      "name": "Manresa v Atl\u00e8tic Lleida",
+      "utc": "2026-08-22T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-santomera-cieza",
+      "weekend": "2026-08-22",
+      "name": "Santomera v Cieza",
+      "utc": "2026-08-22T17:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-alcoyano-valencia-mestalla",
+      "weekend": "2026-08-22",
+      "name": "Alcoyano v Valencia Mestalla",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-m-rida-recreativo-huelva",
+      "weekend": "2026-08-22",
+      "name": "M\u00e9rida v Recreativo Huelva",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-xerez-deportivo-atl-tico-sanluque-o-cf",
+      "weekend": "2026-08-22",
+      "name": "Xerez Deportivo v Atl\u00e9tico Sanluque\u00f1o CF",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-teruel-villarreal-b",
+      "weekend": "2026-08-22",
+      "name": "Teruel v Villarreal B",
+      "utc": "2026-08-22T19:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-22-cd-extremadura-atl-tico-madrid-b",
+      "weekend": "2026-08-22",
+      "name": "CD Extremadura v Atl\u00e9tico Madrid B",
+      "utc": "2026-08-22T20:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-23-dong-tam-long-an-dong-thap",
+      "weekend": "2026-08-23",
+      "name": "Dong Tam Long An v Dong Thap",
+      "utc": "2026-08-23T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-23-rovato-vertovese-sant-angelo",
+      "weekend": "2026-08-23",
+      "name": "Rovato Vertovese v Sant'Angelo",
+      "utc": "2026-08-23T08:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-23-cd-subiza-cd-izarra",
+      "weekend": "2026-08-23",
+      "name": "CD Subiza v CD Izarra",
+      "utc": "2026-08-23T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-23-rac-casablanca-stade-marocain",
+      "weekend": "2026-08-23",
+      "name": "RAC Casablanca v Stade Marocain",
+      "utc": "2026-08-23T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-23-tienen-mechelen-ii",
+      "weekend": "2026-08-23",
+      "name": "Tienen v Mechelen II",
+      "utc": "2026-08-23T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-23-binh-duong-ho-chi-minh-city-fc",
+      "weekend": "2026-08-23",
+      "name": "Binh Duong v Ho Chi Minh City FC",
+      "utc": "2026-08-23T10:15:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-23-ayutthaya-united-buriram-united",
+      "weekend": "2026-08-23",
+      "name": "Ayutthaya United v Buriram United",
+      "utc": "2026-08-23T11:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-23-siena-asd-san-donato-tavarnelle",
+      "weekend": "2026-08-23",
+      "name": "Siena v ASD San Donato Tavarnelle",
+      "utc": "2026-08-23T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-23-cf-vilanova-barcelona-b",
+      "weekend": "2026-08-23",
+      "name": "CF Vilanova v Barcelona B",
+      "utc": "2026-08-23T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-23-l-entregu-club-de-f-tbol-vilassar-de-mar",
+      "weekend": "2026-08-23",
+      "name": "L'Entregu Club de F\u00fatbol v Vilassar de Mar",
+      "utc": "2026-08-23T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-23-fc-cartagena-cd-minera",
+      "weekend": "2026-08-23",
+      "name": "FC Cartagena v CD Minera",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-25-jong-krc-genk-mvv-maastricht",
+      "weekend": "2026-08-25",
+      "name": "Jong KRC Genk v MVV Maastricht",
+      "utc": "2026-08-25T12:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-25-kouba-ca-batna",
+      "weekend": "2026-08-25",
+      "name": "Kouba v CA Batna",
+      "utc": "2026-08-25T16:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-25-racing-club-portuense-club-atl-tico-antoniano",
+      "weekend": "2026-08-25",
+      "name": "Racing Club Portuense v Club Atl\u00e9tico Antoniano",
+      "utc": "2026-08-25T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-26-bibiani-gold-stars-medeama",
+      "weekend": "2026-08-26",
+      "name": "Bibiani Gold Stars v Medeama",
+      "utc": "2026-08-26T15:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-26-tbd-home-tbd-away",
+      "weekend": "2026-08-26",
+      "name": "TBD Home v TBD Away",
+      "utc": "2026-08-26T15:30:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-26-terrassa-cf-vilanova",
+      "weekend": "2026-08-26",
+      "name": "Terrassa v CF Vilanova",
+      "utc": "2026-08-26T17:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-26-tbd-home-tbd-away-2",
+      "weekend": "2026-08-26",
+      "name": "TBD Home v TBD Away",
+      "utc": "2026-08-26T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-27-dewa-united-brisbane-roar",
+      "weekend": "2026-08-27",
+      "name": "Dewa United v Brisbane Roar",
+      "utc": "2026-08-27T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-29-persija-jakarta-brisbane-roar",
+      "weekend": "2026-08-29",
+      "name": "Persija Jakarta v Brisbane Roar",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-08-31-cd-sabadell-inter-d-escaldes",
+      "weekend": "2026-08-31",
+      "name": "CD Sabadell v Inter D'Escaldes",
+      "utc": "2026-08-31T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-09-04-brisbane-olympic-brisbane-roar",
+      "weekend": "2026-09-04",
+      "name": "Brisbane Olympic v Brisbane Roar",
+      "utc": "2026-09-04T09:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-09-26-bohemians-bohemians-1905",
+      "weekend": "2026-09-26",
+      "name": "Bohemians v Bohemians 1905",
+      "utc": "2026-09-26T13:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-09-29-san-antonio-fc-sv-darmstadt-98",
+      "weekend": "2026-09-29",
+      "name": "San Antonio FC v SV Darmstadt 98",
+      "utc": "2026-09-29T18:00:00Z"
+    },
+    {
+      "id": "club.friendly-2026-09-30-d-c-united-sc-paderborn-07",
+      "weekend": "2026-09-30",
+      "name": "D.C. United v SC Paderborn 07",
+      "utc": "2026-09-30T23:30:00Z"
+    }
+  ]
+}
