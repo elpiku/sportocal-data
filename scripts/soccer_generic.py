@@ -16,6 +16,11 @@ approach as premier_league.py etc. (see espn_soccer_common.py), but:
     doesn't take the other 14 down with it. Only exits non-zero if the
     entire batch produced nothing, which is a signal something systemic
     broke (e.g. the same IP-block problem the Site API had).
+  - writes each competition's real ESPN name into its own output file
+    (one extra request per competition that actually has events - see
+    fetch_league_name in espn_core_api_common.py) so a consumer (e.g.
+    this repo's Kotlin app) can read the display name straight out of
+    the JSON instead of needing a separately maintained name list.
 
 Output: football/espn-all/<slug>.json, one file per competition, each
 holding whatever's currently in the rolling window. This is a different
@@ -27,13 +32,14 @@ Usage:
   SOCCER_LEAGUE_SLUGS=eng.1,esp.1 python scripts/soccer_generic.py
 """
 
+import json
 import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from espn_soccer_common import build_events  # noqa: E402
+from espn_soccer_common import build_events, fetch_league_name  # noqa: E402
 
 PAST_DAYS = 14
 FUTURE_DAYS = 270  # ~9 months forward - covers a full season for most competitions
@@ -85,16 +91,21 @@ def main():
             empty += 1
             continue
 
+        # Only fetch the real name for competitions that actually have
+        # something to write - no point spending a request on a league
+        # that's about to be skipped as empty anyway.
+        league_name = fetch_league_name(slug)
+
         output_path = OUTPUT_DIR / f"{slug}.json"
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        import json
         output_path.write_text(json.dumps({
             "sportKey": f"soccer-{slug}",
+            "leagueName": league_name,
             "windowFrom": date_from,
             "windowTo": date_to,
             "events": events,
         }, indent=2) + "\n")
-        print(f"  {slug}: wrote {len(events)} events to {output_path}", file=sys.stderr)
+        print(f"  {slug}: wrote {len(events)} events ({league_name!r}) to {output_path}", file=sys.stderr)
         written += 1
 
     print(

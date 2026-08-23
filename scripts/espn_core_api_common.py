@@ -125,6 +125,25 @@ def fetch_event(ref_url: str) -> tuple[dict | None, str | None]:
         return None, f"invalid JSON: {err}"
 
 
+def fetch_league_name(sport: str, league_slug: str) -> str:
+    """The league's real display name from ESPN (e.g. "UEFA Champions
+    League Qualifying" for uefa.champions_qual), one extra request. Falls
+    back to the slug itself if the name can't be fetched, so callers never
+    have to handle a missing name separately."""
+    url = f"{CORE_API_ROOT}/{sport}/leagues/{league_slug}"
+    res, error = _get_with_retries(url, params={"lang": "en", "region": "us"}, timeout=15)
+    if error:
+        print(f"  WARNING: couldn't fetch league name for {league_slug}: {error}. Falling back to slug.", file=sys.stderr)
+        return league_slug
+    try:
+        body = res.json()
+    except ValueError:
+        print(f"  WARNING: invalid JSON fetching league name for {league_slug}. Falling back to slug.", file=sys.stderr)
+        return league_slug
+    name = body.get("name") or body.get("displayName") or body.get("shortName")
+    return name.strip() if isinstance(name, str) and name.strip() else league_slug
+
+
 def extract_teams(event: dict) -> tuple[str, str] | None:
     """(home_name, away_name) parsed from the event's own "name" (falling
     back to "shortName"), splitting on ESPN's "X vs Y" / "X at Y"

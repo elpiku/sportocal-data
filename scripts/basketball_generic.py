@@ -27,7 +27,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from espn_core_api_common import build_events  # noqa: E402
+from espn_core_api_common import build_events, fetch_league_name  # noqa: E402
 
 SPORT = "basketball"
 PAST_DAYS = 14
@@ -82,15 +82,18 @@ def main():
             empty += 1
             continue
 
+        league_name = fetch_league_name(SPORT, slug)
+
         output_path = OUTPUT_DIR / f"{slug}.json"
         output_path.parent.mkdir(parents=True, exist_ok=True)
         output_path.write_text(json.dumps({
             "sportKey": f"basketball-{slug}",
+            "leagueName": league_name,
             "windowFrom": date_from,
             "windowTo": date_to,
             "events": events,
         }, indent=2) + "\n")
-        print(f"  {slug}: wrote {len(events)} events to {output_path}", file=sys.stderr)
+        print(f"  {slug}: wrote {len(events)} events ({league_name!r}) to {output_path}", file=sys.stderr)
         written += 1
 
     print(
