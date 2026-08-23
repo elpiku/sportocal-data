@@ -1,0 +1,1399 @@
+{
+  "sportKey": "soccer-esp.w.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "esp.w.1-2026-08-29-deportivo-sevilla",
+      "weekend": "2026-08-29",
+      "name": "Deportivo v Sevilla",
+      "utc": "2026-08-29T10:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-08-29-real-sociedad-dux-logro-o",
+      "weekend": "2026-08-29",
+      "name": "Real Sociedad v Dux Logro\u00f1o",
+      "utc": "2026-08-29T10:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-08-29-eibar-espanyol",
+      "weekend": "2026-08-29",
+      "name": "Eibar v Espanyol",
+      "utc": "2026-08-29T15:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-08-29-madrid-cff-granada",
+      "weekend": "2026-08-29",
+      "name": "Madrid CFF v Granada",
+      "utc": "2026-08-29T19:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-08-30-athletic-club-fc-badalona",
+      "weekend": "2026-08-30",
+      "name": "Athletic Club v FC Badalona",
+      "utc": "2026-08-30T10:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-08-30-alav-s-valencia",
+      "weekend": "2026-08-30",
+      "name": "Alav\u00e9s v Valencia",
+      "utc": "2026-08-30T15:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-08-30-barcelona-cd-tenerife",
+      "weekend": "2026-08-30",
+      "name": "Barcelona v CD Tenerife",
+      "utc": "2026-08-30T17:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-08-30-real-madrid-atl-tico-madrid",
+      "weekend": "2026-08-30",
+      "name": "Real Madrid v Atl\u00e9tico Madrid",
+      "utc": "2026-08-30T19:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-05-espanyol-fc-badalona",
+      "weekend": "2026-09-05",
+      "name": "Espanyol v FC Badalona",
+      "utc": "2026-09-05T10:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-05-valencia-madrid-cff",
+      "weekend": "2026-09-05",
+      "name": "Valencia v Madrid CFF",
+      "utc": "2026-09-05T10:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-05-sevilla-barcelona",
+      "weekend": "2026-09-05",
+      "name": "Sevilla v Barcelona",
+      "utc": "2026-09-05T18:30:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-06-atl-tico-madrid-alav-s",
+      "weekend": "2026-09-06",
+      "name": "Atl\u00e9tico Madrid v Alav\u00e9s",
+      "utc": "2026-09-06T10:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-06-cd-tenerife-deportivo",
+      "weekend": "2026-09-06",
+      "name": "CD Tenerife v Deportivo",
+      "utc": "2026-09-06T10:45:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-06-dux-logro-o-athletic-club",
+      "weekend": "2026-09-06",
+      "name": "Dux Logro\u00f1o v Athletic Club",
+      "utc": "2026-09-06T16:30:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-06-real-madrid-eibar",
+      "weekend": "2026-09-06",
+      "name": "Real Madrid v Eibar",
+      "utc": "2026-09-06T18:30:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-07-granada-real-sociedad",
+      "weekend": "2026-09-07",
+      "name": "Granada v Real Sociedad",
+      "utc": "2026-09-07T17:30:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-13-alav-s-granada",
+      "weekend": "2026-09-13",
+      "name": "Alav\u00e9s v Granada",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-13-athletic-club-espanyol",
+      "weekend": "2026-09-13",
+      "name": "Athletic Club v Espanyol",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-13-barcelona-atl-tico-madrid",
+      "weekend": "2026-09-13",
+      "name": "Barcelona v Atl\u00e9tico Madrid",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-13-deportivo-real-madrid",
+      "weekend": "2026-09-13",
+      "name": "Deportivo v Real Madrid",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-13-dux-logro-o-valencia",
+      "weekend": "2026-09-13",
+      "name": "Dux Logro\u00f1o v Valencia",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-13-eibar-fc-badalona",
+      "weekend": "2026-09-13",
+      "name": "Eibar v FC Badalona",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-13-madrid-cff-sevilla",
+      "weekend": "2026-09-13",
+      "name": "Madrid CFF v Sevilla",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-13-real-sociedad-cd-tenerife",
+      "weekend": "2026-09-13",
+      "name": "Real Sociedad v CD Tenerife",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-20-alav-s-barcelona",
+      "weekend": "2026-09-20",
+      "name": "Alav\u00e9s v Barcelona",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-20-atl-tico-madrid-dux-logro-o",
+      "weekend": "2026-09-20",
+      "name": "Atl\u00e9tico Madrid v Dux Logro\u00f1o",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-20-cd-tenerife-sevilla",
+      "weekend": "2026-09-20",
+      "name": "CD Tenerife v Sevilla",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-20-eibar-athletic-club",
+      "weekend": "2026-09-20",
+      "name": "Eibar v Athletic Club",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-20-espanyol-madrid-cff",
+      "weekend": "2026-09-20",
+      "name": "Espanyol v Madrid CFF",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-20-fc-badalona-real-sociedad",
+      "weekend": "2026-09-20",
+      "name": "FC Badalona v Real Sociedad",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-20-granada-deportivo",
+      "weekend": "2026-09-20",
+      "name": "Granada v Deportivo",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-20-real-madrid-valencia",
+      "weekend": "2026-09-20",
+      "name": "Real Madrid v Valencia",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-27-athletic-club-atl-tico-madrid",
+      "weekend": "2026-09-27",
+      "name": "Athletic Club v Atl\u00e9tico Madrid",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-27-deportivo-espanyol",
+      "weekend": "2026-09-27",
+      "name": "Deportivo v Espanyol",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-27-dux-logro-o-barcelona",
+      "weekend": "2026-09-27",
+      "name": "Dux Logro\u00f1o v Barcelona",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-27-fc-badalona-granada",
+      "weekend": "2026-09-27",
+      "name": "FC Badalona v Granada",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-27-madrid-cff-alav-s",
+      "weekend": "2026-09-27",
+      "name": "Madrid CFF v Alav\u00e9s",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-27-real-sociedad-real-madrid",
+      "weekend": "2026-09-27",
+      "name": "Real Sociedad v Real Madrid",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-27-sevilla-eibar",
+      "weekend": "2026-09-27",
+      "name": "Sevilla v Eibar",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-09-27-valencia-cd-tenerife",
+      "weekend": "2026-09-27",
+      "name": "Valencia v CD Tenerife",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-04-barcelona-real-madrid",
+      "weekend": "2026-10-04",
+      "name": "Barcelona v Real Madrid",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-04-cd-tenerife-dux-logro-o",
+      "weekend": "2026-10-04",
+      "name": "CD Tenerife v Dux Logro\u00f1o",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-04-deportivo-atl-tico-madrid",
+      "weekend": "2026-10-04",
+      "name": "Deportivo v Atl\u00e9tico Madrid",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-04-espanyol-alav-s",
+      "weekend": "2026-10-04",
+      "name": "Espanyol v Alav\u00e9s",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-04-granada-eibar",
+      "weekend": "2026-10-04",
+      "name": "Granada v Eibar",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-04-madrid-cff-athletic-club",
+      "weekend": "2026-10-04",
+      "name": "Madrid CFF v Athletic Club",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-04-sevilla-fc-badalona",
+      "weekend": "2026-10-04",
+      "name": "Sevilla v FC Badalona",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-04-valencia-real-sociedad",
+      "weekend": "2026-10-04",
+      "name": "Valencia v Real Sociedad",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-18-alav-s-sevilla",
+      "weekend": "2026-10-18",
+      "name": "Alav\u00e9s v Sevilla",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-18-athletic-club-valencia",
+      "weekend": "2026-10-18",
+      "name": "Athletic Club v Valencia",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-18-atl-tico-madrid-madrid-cff",
+      "weekend": "2026-10-18",
+      "name": "Atl\u00e9tico Madrid v Madrid CFF",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-18-dux-logro-o-granada",
+      "weekend": "2026-10-18",
+      "name": "Dux Logro\u00f1o v Granada",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-18-eibar-deportivo",
+      "weekend": "2026-10-18",
+      "name": "Eibar v Deportivo",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-18-fc-badalona-cd-tenerife",
+      "weekend": "2026-10-18",
+      "name": "FC Badalona v CD Tenerife",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-18-real-madrid-espanyol",
+      "weekend": "2026-10-18",
+      "name": "Real Madrid v Espanyol",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-18-real-sociedad-barcelona",
+      "weekend": "2026-10-18",
+      "name": "Real Sociedad v Barcelona",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-25-athletic-club-sevilla",
+      "weekend": "2026-10-25",
+      "name": "Athletic Club v Sevilla",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-25-atl-tico-madrid-valencia",
+      "weekend": "2026-10-25",
+      "name": "Atl\u00e9tico Madrid v Valencia",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-25-barcelona-granada",
+      "weekend": "2026-10-25",
+      "name": "Barcelona v Granada",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-25-deportivo-alav-s",
+      "weekend": "2026-10-25",
+      "name": "Deportivo v Alav\u00e9s",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-25-dux-logro-o-fc-badalona",
+      "weekend": "2026-10-25",
+      "name": "Dux Logro\u00f1o v FC Badalona",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-25-eibar-madrid-cff",
+      "weekend": "2026-10-25",
+      "name": "Eibar v Madrid CFF",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-25-real-madrid-cd-tenerife",
+      "weekend": "2026-10-25",
+      "name": "Real Madrid v CD Tenerife",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-10-25-real-sociedad-espanyol",
+      "weekend": "2026-10-25",
+      "name": "Real Sociedad v Espanyol",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-01-alav-s-real-sociedad",
+      "weekend": "2026-11-01",
+      "name": "Alav\u00e9s v Real Sociedad",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-01-cd-tenerife-athletic-club",
+      "weekend": "2026-11-01",
+      "name": "CD Tenerife v Athletic Club",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-01-espanyol-dux-logro-o",
+      "weekend": "2026-11-01",
+      "name": "Espanyol v Dux Logro\u00f1o",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-01-fc-badalona-barcelona",
+      "weekend": "2026-11-01",
+      "name": "FC Badalona v Barcelona",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-01-granada-atl-tico-madrid",
+      "weekend": "2026-11-01",
+      "name": "Granada v Atl\u00e9tico Madrid",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-01-madrid-cff-deportivo",
+      "weekend": "2026-11-01",
+      "name": "Madrid CFF v Deportivo",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-01-sevilla-real-madrid",
+      "weekend": "2026-11-01",
+      "name": "Sevilla v Real Madrid",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-01-valencia-eibar",
+      "weekend": "2026-11-01",
+      "name": "Valencia v Eibar",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-08-athletic-club-real-madrid",
+      "weekend": "2026-11-08",
+      "name": "Athletic Club v Real Madrid",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-08-atl-tico-madrid-fc-badalona",
+      "weekend": "2026-11-08",
+      "name": "Atl\u00e9tico Madrid v FC Badalona",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-08-barcelona-madrid-cff",
+      "weekend": "2026-11-08",
+      "name": "Barcelona v Madrid CFF",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-08-cd-tenerife-alav-s",
+      "weekend": "2026-11-08",
+      "name": "CD Tenerife v Alav\u00e9s",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-08-deportivo-valencia",
+      "weekend": "2026-11-08",
+      "name": "Deportivo v Valencia",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-08-dux-logro-o-sevilla",
+      "weekend": "2026-11-08",
+      "name": "Dux Logro\u00f1o v Sevilla",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-08-eibar-real-sociedad",
+      "weekend": "2026-11-08",
+      "name": "Eibar v Real Sociedad",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-08-granada-espanyol",
+      "weekend": "2026-11-08",
+      "name": "Granada v Espanyol",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-15-alav-s-eibar",
+      "weekend": "2026-11-15",
+      "name": "Alav\u00e9s v Eibar",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-15-deportivo-barcelona",
+      "weekend": "2026-11-15",
+      "name": "Deportivo v Barcelona",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-15-espanyol-cd-tenerife",
+      "weekend": "2026-11-15",
+      "name": "Espanyol v CD Tenerife",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-15-madrid-cff-dux-logro-o",
+      "weekend": "2026-11-15",
+      "name": "Madrid CFF v Dux Logro\u00f1o",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-15-real-madrid-fc-badalona",
+      "weekend": "2026-11-15",
+      "name": "Real Madrid v FC Badalona",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-15-real-sociedad-athletic-club",
+      "weekend": "2026-11-15",
+      "name": "Real Sociedad v Athletic Club",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-15-sevilla-atl-tico-madrid",
+      "weekend": "2026-11-15",
+      "name": "Sevilla v Atl\u00e9tico Madrid",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-15-valencia-granada",
+      "weekend": "2026-11-15",
+      "name": "Valencia v Granada",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-22-barcelona-athletic-club",
+      "weekend": "2026-11-22",
+      "name": "Barcelona v Athletic Club",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-22-cd-tenerife-madrid-cff",
+      "weekend": "2026-11-22",
+      "name": "CD Tenerife v Madrid CFF",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-22-dux-logro-o-alav-s",
+      "weekend": "2026-11-22",
+      "name": "Dux Logro\u00f1o v Alav\u00e9s",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-22-eibar-atl-tico-madrid",
+      "weekend": "2026-11-22",
+      "name": "Eibar v Atl\u00e9tico Madrid",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-22-espanyol-valencia",
+      "weekend": "2026-11-22",
+      "name": "Espanyol v Valencia",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-22-fc-badalona-deportivo",
+      "weekend": "2026-11-22",
+      "name": "FC Badalona v Deportivo",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-22-granada-real-madrid",
+      "weekend": "2026-11-22",
+      "name": "Granada v Real Madrid",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-11-22-real-sociedad-sevilla",
+      "weekend": "2026-11-22",
+      "name": "Real Sociedad v Sevilla",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-09-athletic-club-alav-s",
+      "weekend": "2026-12-09",
+      "name": "Athletic Club v Alav\u00e9s",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-09-atl-tico-madrid-cd-tenerife",
+      "weekend": "2026-12-09",
+      "name": "Atl\u00e9tico Madrid v CD Tenerife",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-09-barcelona-espanyol",
+      "weekend": "2026-12-09",
+      "name": "Barcelona v Espanyol",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-09-deportivo-real-sociedad",
+      "weekend": "2026-12-09",
+      "name": "Deportivo v Real Sociedad",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-09-eibar-dux-logro-o",
+      "weekend": "2026-12-09",
+      "name": "Eibar v Dux Logro\u00f1o",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-09-fc-badalona-valencia",
+      "weekend": "2026-12-09",
+      "name": "FC Badalona v Valencia",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-09-real-madrid-madrid-cff",
+      "weekend": "2026-12-09",
+      "name": "Real Madrid v Madrid CFF",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-09-sevilla-granada",
+      "weekend": "2026-12-09",
+      "name": "Sevilla v Granada",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-13-alav-s-real-madrid",
+      "weekend": "2026-12-13",
+      "name": "Alav\u00e9s v Real Madrid",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-13-cd-tenerife-eibar",
+      "weekend": "2026-12-13",
+      "name": "CD Tenerife v Eibar",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-13-dux-logro-o-deportivo",
+      "weekend": "2026-12-13",
+      "name": "Dux Logro\u00f1o v Deportivo",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-13-espanyol-sevilla",
+      "weekend": "2026-12-13",
+      "name": "Espanyol v Sevilla",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-13-granada-athletic-club",
+      "weekend": "2026-12-13",
+      "name": "Granada v Athletic Club",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-13-madrid-cff-fc-badalona",
+      "weekend": "2026-12-13",
+      "name": "Madrid CFF v FC Badalona",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-13-real-sociedad-atl-tico-madrid",
+      "weekend": "2026-12-13",
+      "name": "Real Sociedad v Atl\u00e9tico Madrid",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2026-12-13-valencia-barcelona",
+      "weekend": "2026-12-13",
+      "name": "Valencia v Barcelona",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-10-athletic-club-deportivo",
+      "weekend": "2027-01-10",
+      "name": "Athletic Club v Deportivo",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-10-atl-tico-madrid-espanyol",
+      "weekend": "2027-01-10",
+      "name": "Atl\u00e9tico Madrid v Espanyol",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-10-eibar-barcelona",
+      "weekend": "2027-01-10",
+      "name": "Eibar v Barcelona",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-10-fc-badalona-alav-s",
+      "weekend": "2027-01-10",
+      "name": "FC Badalona v Alav\u00e9s",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-10-granada-cd-tenerife",
+      "weekend": "2027-01-10",
+      "name": "Granada v CD Tenerife",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-10-madrid-cff-real-sociedad",
+      "weekend": "2027-01-10",
+      "name": "Madrid CFF v Real Sociedad",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-10-real-madrid-dux-logro-o",
+      "weekend": "2027-01-10",
+      "name": "Real Madrid v Dux Logro\u00f1o",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-10-sevilla-valencia",
+      "weekend": "2027-01-10",
+      "name": "Sevilla v Valencia",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-17-alav-s-madrid-cff",
+      "weekend": "2027-01-17",
+      "name": "Alav\u00e9s v Madrid CFF",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-17-barcelona-sevilla",
+      "weekend": "2027-01-17",
+      "name": "Barcelona v Sevilla",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-17-cd-tenerife-fc-badalona",
+      "weekend": "2027-01-17",
+      "name": "CD Tenerife v FC Badalona",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-17-deportivo-eibar",
+      "weekend": "2027-01-17",
+      "name": "Deportivo v Eibar",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-17-dux-logro-o-atl-tico-madrid",
+      "weekend": "2027-01-17",
+      "name": "Dux Logro\u00f1o v Atl\u00e9tico Madrid",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-17-espanyol-athletic-club",
+      "weekend": "2027-01-17",
+      "name": "Espanyol v Athletic Club",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-17-real-sociedad-granada",
+      "weekend": "2027-01-17",
+      "name": "Real Sociedad v Granada",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-17-valencia-real-madrid",
+      "weekend": "2027-01-17",
+      "name": "Valencia v Real Madrid",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-24-athletic-club-cd-tenerife",
+      "weekend": "2027-01-24",
+      "name": "Athletic Club v CD Tenerife",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-24-atl-tico-madrid-barcelona",
+      "weekend": "2027-01-24",
+      "name": "Atl\u00e9tico Madrid v Barcelona",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-24-eibar-valencia",
+      "weekend": "2027-01-24",
+      "name": "Eibar v Valencia",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-24-fc-badalona-dux-logro-o",
+      "weekend": "2027-01-24",
+      "name": "FC Badalona v Dux Logro\u00f1o",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-24-granada-alav-s",
+      "weekend": "2027-01-24",
+      "name": "Granada v Alav\u00e9s",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-24-madrid-cff-espanyol",
+      "weekend": "2027-01-24",
+      "name": "Madrid CFF v Espanyol",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-24-real-madrid-real-sociedad",
+      "weekend": "2027-01-24",
+      "name": "Real Madrid v Real Sociedad",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-24-sevilla-deportivo",
+      "weekend": "2027-01-24",
+      "name": "Sevilla v Deportivo",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-31-alav-s-atl-tico-madrid",
+      "weekend": "2027-01-31",
+      "name": "Alav\u00e9s v Atl\u00e9tico Madrid",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-31-barcelona-fc-badalona",
+      "weekend": "2027-01-31",
+      "name": "Barcelona v FC Badalona",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-31-cd-tenerife-real-madrid",
+      "weekend": "2027-01-31",
+      "name": "CD Tenerife v Real Madrid",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-31-deportivo-madrid-cff",
+      "weekend": "2027-01-31",
+      "name": "Deportivo v Madrid CFF",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-31-espanyol-granada",
+      "weekend": "2027-01-31",
+      "name": "Espanyol v Granada",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-31-real-sociedad-eibar",
+      "weekend": "2027-01-31",
+      "name": "Real Sociedad v Eibar",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-31-sevilla-dux-logro-o",
+      "weekend": "2027-01-31",
+      "name": "Sevilla v Dux Logro\u00f1o",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-01-31-valencia-athletic-club",
+      "weekend": "2027-01-31",
+      "name": "Valencia v Athletic Club",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-07-atl-tico-madrid-deportivo",
+      "weekend": "2027-02-07",
+      "name": "Atl\u00e9tico Madrid v Deportivo",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-07-dux-logro-o-cd-tenerife",
+      "weekend": "2027-02-07",
+      "name": "Dux Logro\u00f1o v CD Tenerife",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-07-espanyol-real-sociedad",
+      "weekend": "2027-02-07",
+      "name": "Espanyol v Real Sociedad",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-07-fc-badalona-sevilla",
+      "weekend": "2027-02-07",
+      "name": "FC Badalona v Sevilla",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-07-granada-barcelona",
+      "weekend": "2027-02-07",
+      "name": "Granada v Barcelona",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-07-madrid-cff-eibar",
+      "weekend": "2027-02-07",
+      "name": "Madrid CFF v Eibar",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-07-real-madrid-athletic-club",
+      "weekend": "2027-02-07",
+      "name": "Real Madrid v Athletic Club",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-07-valencia-alav-s",
+      "weekend": "2027-02-07",
+      "name": "Valencia v Alav\u00e9s",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-14-alav-s-espanyol",
+      "weekend": "2027-02-14",
+      "name": "Alav\u00e9s v Espanyol",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-14-athletic-club-real-sociedad",
+      "weekend": "2027-02-14",
+      "name": "Athletic Club v Real Sociedad",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-14-atl-tico-madrid-real-madrid",
+      "weekend": "2027-02-14",
+      "name": "Atl\u00e9tico Madrid v Real Madrid",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-14-barcelona-dux-logro-o",
+      "weekend": "2027-02-14",
+      "name": "Barcelona v Dux Logro\u00f1o",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-14-cd-tenerife-valencia",
+      "weekend": "2027-02-14",
+      "name": "CD Tenerife v Valencia",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-14-deportivo-fc-badalona",
+      "weekend": "2027-02-14",
+      "name": "Deportivo v FC Badalona",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-14-eibar-granada",
+      "weekend": "2027-02-14",
+      "name": "Eibar v Granada",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-14-sevilla-madrid-cff",
+      "weekend": "2027-02-14",
+      "name": "Sevilla v Madrid CFF",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-21-alav-s-cd-tenerife",
+      "weekend": "2027-02-21",
+      "name": "Alav\u00e9s v CD Tenerife",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-21-dux-logro-o-eibar",
+      "weekend": "2027-02-21",
+      "name": "Dux Logro\u00f1o v Eibar",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-21-fc-badalona-athletic-club",
+      "weekend": "2027-02-21",
+      "name": "FC Badalona v Athletic Club",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-21-granada-sevilla",
+      "weekend": "2027-02-21",
+      "name": "Granada v Sevilla",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-21-madrid-cff-atl-tico-madrid",
+      "weekend": "2027-02-21",
+      "name": "Madrid CFF v Atl\u00e9tico Madrid",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-21-real-madrid-barcelona",
+      "weekend": "2027-02-21",
+      "name": "Real Madrid v Barcelona",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-21-real-sociedad-deportivo",
+      "weekend": "2027-02-21",
+      "name": "Real Sociedad v Deportivo",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-02-21-valencia-espanyol",
+      "weekend": "2027-02-21",
+      "name": "Valencia v Espanyol",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-14-athletic-club-dux-logro-o",
+      "weekend": "2027-03-14",
+      "name": "Athletic Club v Dux Logro\u00f1o",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-14-atl-tico-madrid-real-sociedad",
+      "weekend": "2027-03-14",
+      "name": "Atl\u00e9tico Madrid v Real Sociedad",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-14-barcelona-alav-s",
+      "weekend": "2027-03-14",
+      "name": "Barcelona v Alav\u00e9s",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-14-eibar-real-madrid",
+      "weekend": "2027-03-14",
+      "name": "Eibar v Real Madrid",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-14-espanyol-deportivo",
+      "weekend": "2027-03-14",
+      "name": "Espanyol v Deportivo",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-14-granada-fc-badalona",
+      "weekend": "2027-03-14",
+      "name": "Granada v FC Badalona",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-14-madrid-cff-valencia",
+      "weekend": "2027-03-14",
+      "name": "Madrid CFF v Valencia",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-14-sevilla-cd-tenerife",
+      "weekend": "2027-03-14",
+      "name": "Sevilla v CD Tenerife",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-21-alav-s-dux-logro-o",
+      "weekend": "2027-03-21",
+      "name": "Alav\u00e9s v Dux Logro\u00f1o",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-21-athletic-club-barcelona",
+      "weekend": "2027-03-21",
+      "name": "Athletic Club v Barcelona",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-21-cd-tenerife-atl-tico-madrid",
+      "weekend": "2027-03-21",
+      "name": "CD Tenerife v Atl\u00e9tico Madrid",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-21-deportivo-granada",
+      "weekend": "2027-03-21",
+      "name": "Deportivo v Granada",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-21-espanyol-eibar",
+      "weekend": "2027-03-21",
+      "name": "Espanyol v Eibar",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-21-fc-badalona-real-madrid",
+      "weekend": "2027-03-21",
+      "name": "FC Badalona v Real Madrid",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-21-real-sociedad-madrid-cff",
+      "weekend": "2027-03-21",
+      "name": "Real Sociedad v Madrid CFF",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-21-valencia-sevilla",
+      "weekend": "2027-03-21",
+      "name": "Valencia v Sevilla",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-28-atl-tico-madrid-granada",
+      "weekend": "2027-03-28",
+      "name": "Atl\u00e9tico Madrid v Granada",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-28-barcelona-valencia",
+      "weekend": "2027-03-28",
+      "name": "Barcelona v Valencia",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-28-deportivo-athletic-club",
+      "weekend": "2027-03-28",
+      "name": "Deportivo v Athletic Club",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-28-dux-logro-o-real-sociedad",
+      "weekend": "2027-03-28",
+      "name": "Dux Logro\u00f1o v Real Sociedad",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-28-eibar-alav-s",
+      "weekend": "2027-03-28",
+      "name": "Eibar v Alav\u00e9s",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-28-fc-badalona-espanyol",
+      "weekend": "2027-03-28",
+      "name": "FC Badalona v Espanyol",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-28-madrid-cff-cd-tenerife",
+      "weekend": "2027-03-28",
+      "name": "Madrid CFF v CD Tenerife",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-03-28-real-madrid-sevilla",
+      "weekend": "2027-03-28",
+      "name": "Real Madrid v Sevilla",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-04-alav-s-deportivo",
+      "weekend": "2027-04-04",
+      "name": "Alav\u00e9s v Deportivo",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-04-barcelona-eibar",
+      "weekend": "2027-04-04",
+      "name": "Barcelona v Eibar",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-04-cd-tenerife-real-sociedad",
+      "weekend": "2027-04-04",
+      "name": "CD Tenerife v Real Sociedad",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-04-dux-logro-o-real-madrid",
+      "weekend": "2027-04-04",
+      "name": "Dux Logro\u00f1o v Real Madrid",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-04-espanyol-atl-tico-madrid",
+      "weekend": "2027-04-04",
+      "name": "Espanyol v Atl\u00e9tico Madrid",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-04-granada-madrid-cff",
+      "weekend": "2027-04-04",
+      "name": "Granada v Madrid CFF",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-04-sevilla-athletic-club",
+      "weekend": "2027-04-04",
+      "name": "Sevilla v Athletic Club",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-04-valencia-fc-badalona",
+      "weekend": "2027-04-04",
+      "name": "Valencia v FC Badalona",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-11-athletic-club-granada",
+      "weekend": "2027-04-11",
+      "name": "Athletic Club v Granada",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-11-atl-tico-madrid-eibar",
+      "weekend": "2027-04-11",
+      "name": "Atl\u00e9tico Madrid v Eibar",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-11-cd-tenerife-barcelona",
+      "weekend": "2027-04-11",
+      "name": "CD Tenerife v Barcelona",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-11-fc-badalona-madrid-cff",
+      "weekend": "2027-04-11",
+      "name": "FC Badalona v Madrid CFF",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-11-real-madrid-deportivo",
+      "weekend": "2027-04-11",
+      "name": "Real Madrid v Deportivo",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-11-real-sociedad-alav-s",
+      "weekend": "2027-04-11",
+      "name": "Real Sociedad v Alav\u00e9s",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-11-sevilla-espanyol",
+      "weekend": "2027-04-11",
+      "name": "Sevilla v Espanyol",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-04-11-valencia-dux-logro-o",
+      "weekend": "2027-04-11",
+      "name": "Valencia v Dux Logro\u00f1o",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-02-alav-s-athletic-club",
+      "weekend": "2027-05-02",
+      "name": "Alav\u00e9s v Athletic Club",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-02-atl-tico-madrid-sevilla",
+      "weekend": "2027-05-02",
+      "name": "Atl\u00e9tico Madrid v Sevilla",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-02-deportivo-dux-logro-o",
+      "weekend": "2027-05-02",
+      "name": "Deportivo v Dux Logro\u00f1o",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-02-eibar-cd-tenerife",
+      "weekend": "2027-05-02",
+      "name": "Eibar v CD Tenerife",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-02-espanyol-barcelona",
+      "weekend": "2027-05-02",
+      "name": "Espanyol v Barcelona",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-02-granada-valencia",
+      "weekend": "2027-05-02",
+      "name": "Granada v Valencia",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-02-madrid-cff-real-madrid",
+      "weekend": "2027-05-02",
+      "name": "Madrid CFF v Real Madrid",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-02-real-sociedad-fc-badalona",
+      "weekend": "2027-05-02",
+      "name": "Real Sociedad v FC Badalona",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-09-athletic-club-eibar",
+      "weekend": "2027-05-09",
+      "name": "Athletic Club v Eibar",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-09-barcelona-real-sociedad",
+      "weekend": "2027-05-09",
+      "name": "Barcelona v Real Sociedad",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-09-cd-tenerife-espanyol",
+      "weekend": "2027-05-09",
+      "name": "CD Tenerife v Espanyol",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-09-dux-logro-o-madrid-cff",
+      "weekend": "2027-05-09",
+      "name": "Dux Logro\u00f1o v Madrid CFF",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-09-fc-badalona-atl-tico-madrid",
+      "weekend": "2027-05-09",
+      "name": "FC Badalona v Atl\u00e9tico Madrid",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-09-real-madrid-granada",
+      "weekend": "2027-05-09",
+      "name": "Real Madrid v Granada",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-09-sevilla-alav-s",
+      "weekend": "2027-05-09",
+      "name": "Sevilla v Alav\u00e9s",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-09-valencia-deportivo",
+      "weekend": "2027-05-09",
+      "name": "Valencia v Deportivo",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-19-alav-s-fc-badalona",
+      "weekend": "2027-05-19",
+      "name": "Alav\u00e9s v FC Badalona",
+      "utc": "2027-05-19T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-19-atl-tico-madrid-athletic-club",
+      "weekend": "2027-05-19",
+      "name": "Atl\u00e9tico Madrid v Athletic Club",
+      "utc": "2027-05-19T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-19-deportivo-cd-tenerife",
+      "weekend": "2027-05-19",
+      "name": "Deportivo v CD Tenerife",
+      "utc": "2027-05-19T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-19-eibar-sevilla",
+      "weekend": "2027-05-19",
+      "name": "Eibar v Sevilla",
+      "utc": "2027-05-19T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-19-espanyol-real-madrid",
+      "weekend": "2027-05-19",
+      "name": "Espanyol v Real Madrid",
+      "utc": "2027-05-19T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-19-granada-dux-logro-o",
+      "weekend": "2027-05-19",
+      "name": "Granada v Dux Logro\u00f1o",
+      "utc": "2027-05-19T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-19-madrid-cff-barcelona",
+      "weekend": "2027-05-19",
+      "name": "Madrid CFF v Barcelona",
+      "utc": "2027-05-19T18:00:00Z"
+    },
+    {
+      "id": "esp.w.1-2027-05-19-real-sociedad-valencia",
+      "weekend": "2027-05-19",
+      "name": "Real Sociedad v Valencia",
+      "utc": "2027-05-19T18:00:00Z"
+    }
+  ]
+}
