@@ -30,6 +30,13 @@ import requests
 LEAGUES_URL = "https://sports.core.api.espn.com/v2/sports/soccer/leagues"
 REF_SLUG_RE = re.compile(r"/leagues/([^/?]+)")
 
+# Already covered by their own curated, full-season scripts (premier_league.py,
+# la_liga.py, bundesliga.py, serie_a.py, mls.py) - skip here so they're not
+# scraped twice under two different shapes. See champions_league.py, which
+# is NOT excluded: uefa.champions is curated too, but its curated script
+# only writes when there's actual league-phase data, same as this one would.
+CURATED_ELSEWHERE = {"eng.1", "esp.1", "ger.1", "ita.1", "usa.1"}
+
 
 def discover_slugs() -> list[str]:
     slugs = []
@@ -59,7 +66,7 @@ def discover_slugs() -> list[str]:
     seen = set()
     unique = []
     for s in slugs:
-        if s not in seen:
+        if s not in seen and s not in CURATED_ELSEWHERE:
             seen.add(s)
             unique.append(s)
     return unique
