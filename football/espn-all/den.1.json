@@ -1,0 +1,721 @@
+{
+  "sportKey": "soccer-den.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "den.1-2026-08-09-randers-fc-lyngby-boldklub",
+      "weekend": "2026-08-09",
+      "name": "Randers FC v Lyngby Boldklub",
+      "utc": "2026-08-09T14:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-09-ac-horsens-br-ndby-if",
+      "weekend": "2026-08-09",
+      "name": "AC Horsens v Br\u00f8ndby IF",
+      "utc": "2026-08-09T16:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-10-silkeborg-if-odense-boldklub",
+      "weekend": "2026-08-10",
+      "name": "Silkeborg IF v Odense Boldklub",
+      "utc": "2026-08-10T17:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-14-viborg-ff-agf",
+      "weekend": "2026-08-14",
+      "name": "Viborg FF v AGF",
+      "utc": "2026-08-14T17:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-16-fc-nordsj-lland-silkeborg-if",
+      "weekend": "2026-08-16",
+      "name": "FC Nordsj\u00e6lland v Silkeborg IF",
+      "utc": "2026-08-16T12:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-16-odense-boldklub-ac-horsens",
+      "weekend": "2026-08-16",
+      "name": "Odense Boldklub v AC Horsens",
+      "utc": "2026-08-16T12:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-16-lyngby-boldklub-fc-midtjylland",
+      "weekend": "2026-08-16",
+      "name": "Lyngby Boldklub v FC Midtjylland",
+      "utc": "2026-08-16T14:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-16-randers-fc-f-c-k-benhavn",
+      "weekend": "2026-08-16",
+      "name": "Randers FC v F.C. K\u00f8benhavn",
+      "utc": "2026-08-16T16:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-17-br-ndby-if-s-nderjyske-fodbold",
+      "weekend": "2026-08-17",
+      "name": "Br\u00f8ndby IF v S\u00f8nderjyske Fodbold",
+      "utc": "2026-08-17T17:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-23-s-nderjyske-fodbold-fc-nordsj-lland",
+      "weekend": "2026-08-23",
+      "name": "S\u00f8nderjyske Fodbold v FC Nordsj\u00e6lland",
+      "utc": "2026-08-23T10:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-23-agf-odense-boldklub",
+      "weekend": "2026-08-23",
+      "name": "AGF v Odense Boldklub",
+      "utc": "2026-08-23T12:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-23-fc-midtjylland-randers-fc",
+      "weekend": "2026-08-23",
+      "name": "FC Midtjylland v Randers FC",
+      "utc": "2026-08-23T12:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-23-ac-horsens-lyngby-boldklub",
+      "weekend": "2026-08-23",
+      "name": "AC Horsens v Lyngby Boldklub",
+      "utc": "2026-08-23T14:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-23-viborg-ff-f-c-k-benhavn",
+      "weekend": "2026-08-23",
+      "name": "Viborg FF v F.C. K\u00f8benhavn",
+      "utc": "2026-08-23T16:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-24-br-ndby-if-silkeborg-if",
+      "weekend": "2026-08-24",
+      "name": "Br\u00f8ndby IF v Silkeborg IF",
+      "utc": "2026-08-24T17:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-28-ac-horsens-viborg-ff",
+      "weekend": "2026-08-28",
+      "name": "AC Horsens v Viborg FF",
+      "utc": "2026-08-28T17:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-30-lyngby-boldklub-odense-boldklub",
+      "weekend": "2026-08-30",
+      "name": "Lyngby Boldklub v Odense Boldklub",
+      "utc": "2026-08-30T12:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-30-silkeborg-if-fc-midtjylland",
+      "weekend": "2026-08-30",
+      "name": "Silkeborg IF v FC Midtjylland",
+      "utc": "2026-08-30T12:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-30-randers-fc-agf",
+      "weekend": "2026-08-30",
+      "name": "Randers FC v AGF",
+      "utc": "2026-08-30T14:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-30-fc-nordsj-lland-br-ndby-if",
+      "weekend": "2026-08-30",
+      "name": "FC Nordsj\u00e6lland v Br\u00f8ndby IF",
+      "utc": "2026-08-30T16:00:00Z"
+    },
+    {
+      "id": "den.1-2026-08-31-f-c-k-benhavn-s-nderjyske-fodbold",
+      "weekend": "2026-08-31",
+      "name": "F.C. K\u00f8benhavn v S\u00f8nderjyske Fodbold",
+      "utc": "2026-08-31T17:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-02-agf-fc-midtjylland",
+      "weekend": "2026-09-02",
+      "name": "AGF v FC Midtjylland",
+      "utc": "2026-09-02T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-03-f-c-k-benhavn-fc-nordsj-lland",
+      "weekend": "2026-09-03",
+      "name": "F.C. K\u00f8benhavn v FC Nordsj\u00e6lland",
+      "utc": "2026-09-03T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-04-viborg-ff-lyngby-boldklub",
+      "weekend": "2026-09-04",
+      "name": "Viborg FF v Lyngby Boldklub",
+      "utc": "2026-09-04T17:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-05-agf-silkeborg-if",
+      "weekend": "2026-09-05",
+      "name": "AGF v Silkeborg IF",
+      "utc": "2026-09-05T16:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-06-s-nderjyske-fodbold-ac-horsens",
+      "weekend": "2026-09-06",
+      "name": "S\u00f8nderjyske Fodbold v AC Horsens",
+      "utc": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-06-odense-boldklub-f-c-k-benhavn",
+      "weekend": "2026-09-06",
+      "name": "Odense Boldklub v F.C. K\u00f8benhavn",
+      "utc": "2026-09-06T14:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-06-br-ndby-if-randers-fc",
+      "weekend": "2026-09-06",
+      "name": "Br\u00f8ndby IF v Randers FC",
+      "utc": "2026-09-06T16:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-07-fc-midtjylland-fc-nordsj-lland",
+      "weekend": "2026-09-07",
+      "name": "FC Midtjylland v FC Nordsj\u00e6lland",
+      "utc": "2026-09-07T17:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-11-f-c-k-benhavn-ac-horsens",
+      "weekend": "2026-09-11",
+      "name": "F.C. K\u00f8benhavn v AC Horsens",
+      "utc": "2026-09-11T17:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-13-lyngby-boldklub-s-nderjyske-fodbold",
+      "weekend": "2026-09-13",
+      "name": "Lyngby Boldklub v S\u00f8nderjyske Fodbold",
+      "utc": "2026-09-13T12:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-13-silkeborg-if-viborg-ff",
+      "weekend": "2026-09-13",
+      "name": "Silkeborg IF v Viborg FF",
+      "utc": "2026-09-13T12:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-13-randers-fc-odense-boldklub",
+      "weekend": "2026-09-13",
+      "name": "Randers FC v Odense Boldklub",
+      "utc": "2026-09-13T14:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-13-fc-nordsj-lland-agf",
+      "weekend": "2026-09-13",
+      "name": "FC Nordsj\u00e6lland v AGF",
+      "utc": "2026-09-13T16:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-14-fc-midtjylland-br-ndby-if",
+      "weekend": "2026-09-14",
+      "name": "FC Midtjylland v Br\u00f8ndby IF",
+      "utc": "2026-09-14T17:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-18-lyngby-boldklub-silkeborg-if",
+      "weekend": "2026-09-18",
+      "name": "Lyngby Boldklub v Silkeborg IF",
+      "utc": "2026-09-18T17:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-19-odense-boldklub-fc-midtjylland",
+      "weekend": "2026-09-19",
+      "name": "Odense Boldklub v FC Midtjylland",
+      "utc": "2026-09-19T16:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-20-br-ndby-if-f-c-k-benhavn",
+      "weekend": "2026-09-20",
+      "name": "Br\u00f8ndby IF v F.C. K\u00f8benhavn",
+      "utc": "2026-09-20T12:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-20-s-nderjyske-fodbold-randers-fc",
+      "weekend": "2026-09-20",
+      "name": "S\u00f8nderjyske Fodbold v Randers FC",
+      "utc": "2026-09-20T12:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-20-ac-horsens-agf",
+      "weekend": "2026-09-20",
+      "name": "AC Horsens v AGF",
+      "utc": "2026-09-20T14:00:00Z"
+    },
+    {
+      "id": "den.1-2026-09-20-viborg-ff-fc-nordsj-lland",
+      "weekend": "2026-09-20",
+      "name": "Viborg FF v FC Nordsj\u00e6lland",
+      "utc": "2026-09-20T16:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-11-agf-s-nderjyske-fodbold",
+      "weekend": "2026-10-11",
+      "name": "AGF v S\u00f8nderjyske Fodbold",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-11-br-ndby-if-lyngby-boldklub",
+      "weekend": "2026-10-11",
+      "name": "Br\u00f8ndby IF v Lyngby Boldklub",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-11-fc-midtjylland-f-c-k-benhavn",
+      "weekend": "2026-10-11",
+      "name": "FC Midtjylland v F.C. K\u00f8benhavn",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-11-fc-nordsj-lland-odense-boldklub",
+      "weekend": "2026-10-11",
+      "name": "FC Nordsj\u00e6lland v Odense Boldklub",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-11-randers-fc-viborg-ff",
+      "weekend": "2026-10-11",
+      "name": "Randers FC v Viborg FF",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-11-silkeborg-if-ac-horsens",
+      "weekend": "2026-10-11",
+      "name": "Silkeborg IF v AC Horsens",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-18-ac-horsens-randers-fc",
+      "weekend": "2026-10-18",
+      "name": "AC Horsens v Randers FC",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-18-f-c-k-benhavn-agf",
+      "weekend": "2026-10-18",
+      "name": "F.C. K\u00f8benhavn v AGF",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-18-lyngby-boldklub-fc-nordsj-lland",
+      "weekend": "2026-10-18",
+      "name": "Lyngby Boldklub v FC Nordsj\u00e6lland",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-18-odense-boldklub-br-ndby-if",
+      "weekend": "2026-10-18",
+      "name": "Odense Boldklub v Br\u00f8ndby IF",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-18-s-nderjyske-fodbold-silkeborg-if",
+      "weekend": "2026-10-18",
+      "name": "S\u00f8nderjyske Fodbold v Silkeborg IF",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-18-viborg-ff-fc-midtjylland",
+      "weekend": "2026-10-18",
+      "name": "Viborg FF v FC Midtjylland",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-25-ac-horsens-s-nderjyske-fodbold",
+      "weekend": "2026-10-25",
+      "name": "AC Horsens v S\u00f8nderjyske Fodbold",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-25-agf-viborg-ff",
+      "weekend": "2026-10-25",
+      "name": "AGF v Viborg FF",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-25-f-c-k-benhavn-odense-boldklub",
+      "weekend": "2026-10-25",
+      "name": "F.C. K\u00f8benhavn v Odense Boldklub",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-25-fc-midtjylland-lyngby-boldklub",
+      "weekend": "2026-10-25",
+      "name": "FC Midtjylland v Lyngby Boldklub",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-25-randers-fc-br-ndby-if",
+      "weekend": "2026-10-25",
+      "name": "Randers FC v Br\u00f8ndby IF",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-10-25-silkeborg-if-fc-nordsj-lland",
+      "weekend": "2026-10-25",
+      "name": "Silkeborg IF v FC Nordsj\u00e6lland",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-01-br-ndby-if-agf",
+      "weekend": "2026-11-01",
+      "name": "Br\u00f8ndby IF v AGF",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-01-fc-nordsj-lland-fc-midtjylland",
+      "weekend": "2026-11-01",
+      "name": "FC Nordsj\u00e6lland v FC Midtjylland",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-01-lyngby-boldklub-randers-fc",
+      "weekend": "2026-11-01",
+      "name": "Lyngby Boldklub v Randers FC",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-01-odense-boldklub-silkeborg-if",
+      "weekend": "2026-11-01",
+      "name": "Odense Boldklub v Silkeborg IF",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-01-s-nderjyske-fodbold-f-c-k-benhavn",
+      "weekend": "2026-11-01",
+      "name": "S\u00f8nderjyske Fodbold v F.C. K\u00f8benhavn",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-01-viborg-ff-ac-horsens",
+      "weekend": "2026-11-01",
+      "name": "Viborg FF v AC Horsens",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-08-agf-ac-horsens",
+      "weekend": "2026-11-08",
+      "name": "AGF v AC Horsens",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-08-f-c-k-benhavn-br-ndby-if",
+      "weekend": "2026-11-08",
+      "name": "F.C. K\u00f8benhavn v Br\u00f8ndby IF",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-08-fc-midtjylland-s-nderjyske-fodbold",
+      "weekend": "2026-11-08",
+      "name": "FC Midtjylland v S\u00f8nderjyske Fodbold",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-08-odense-boldklub-viborg-ff",
+      "weekend": "2026-11-08",
+      "name": "Odense Boldklub v Viborg FF",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-08-randers-fc-fc-nordsj-lland",
+      "weekend": "2026-11-08",
+      "name": "Randers FC v FC Nordsj\u00e6lland",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-08-silkeborg-if-lyngby-boldklub",
+      "weekend": "2026-11-08",
+      "name": "Silkeborg IF v Lyngby Boldklub",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-22-ac-horsens-silkeborg-if",
+      "weekend": "2026-11-22",
+      "name": "AC Horsens v Silkeborg IF",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-22-agf-lyngby-boldklub",
+      "weekend": "2026-11-22",
+      "name": "AGF v Lyngby Boldklub",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-22-br-ndby-if-fc-midtjylland",
+      "weekend": "2026-11-22",
+      "name": "Br\u00f8ndby IF v FC Midtjylland",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-22-fc-nordsj-lland-f-c-k-benhavn",
+      "weekend": "2026-11-22",
+      "name": "FC Nordsj\u00e6lland v F.C. K\u00f8benhavn",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-22-s-nderjyske-fodbold-odense-boldklub",
+      "weekend": "2026-11-22",
+      "name": "S\u00f8nderjyske Fodbold v Odense Boldklub",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-22-viborg-ff-randers-fc",
+      "weekend": "2026-11-22",
+      "name": "Viborg FF v Randers FC",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-29-f-c-k-benhavn-fc-midtjylland",
+      "weekend": "2026-11-29",
+      "name": "F.C. K\u00f8benhavn v FC Midtjylland",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-29-lyngby-boldklub-viborg-ff",
+      "weekend": "2026-11-29",
+      "name": "Lyngby Boldklub v Viborg FF",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-29-odense-boldklub-fc-nordsj-lland",
+      "weekend": "2026-11-29",
+      "name": "Odense Boldklub v FC Nordsj\u00e6lland",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-29-randers-fc-ac-horsens",
+      "weekend": "2026-11-29",
+      "name": "Randers FC v AC Horsens",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-29-silkeborg-if-agf",
+      "weekend": "2026-11-29",
+      "name": "Silkeborg IF v AGF",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-11-29-s-nderjyske-fodbold-br-ndby-if",
+      "weekend": "2026-11-29",
+      "name": "S\u00f8nderjyske Fodbold v Br\u00f8ndby IF",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-12-06-ac-horsens-f-c-k-benhavn",
+      "weekend": "2026-12-06",
+      "name": "AC Horsens v F.C. K\u00f8benhavn",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-12-06-agf-randers-fc",
+      "weekend": "2026-12-06",
+      "name": "AGF v Randers FC",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-12-06-br-ndby-if-odense-boldklub",
+      "weekend": "2026-12-06",
+      "name": "Br\u00f8ndby IF v Odense Boldklub",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-12-06-fc-midtjylland-silkeborg-if",
+      "weekend": "2026-12-06",
+      "name": "FC Midtjylland v Silkeborg IF",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-12-06-fc-nordsj-lland-lyngby-boldklub",
+      "weekend": "2026-12-06",
+      "name": "FC Nordsj\u00e6lland v Lyngby Boldklub",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "den.1-2026-12-06-viborg-ff-s-nderjyske-fodbold",
+      "weekend": "2026-12-06",
+      "name": "Viborg FF v S\u00f8nderjyske Fodbold",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-21-f-c-k-benhavn-viborg-ff",
+      "weekend": "2027-02-21",
+      "name": "F.C. K\u00f8benhavn v Viborg FF",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-21-fc-midtjylland-odense-boldklub",
+      "weekend": "2027-02-21",
+      "name": "FC Midtjylland v Odense Boldklub",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-21-fc-nordsj-lland-ac-horsens",
+      "weekend": "2027-02-21",
+      "name": "FC Nordsj\u00e6lland v AC Horsens",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-21-lyngby-boldklub-br-ndby-if",
+      "weekend": "2027-02-21",
+      "name": "Lyngby Boldklub v Br\u00f8ndby IF",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-21-silkeborg-if-randers-fc",
+      "weekend": "2027-02-21",
+      "name": "Silkeborg IF v Randers FC",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-21-s-nderjyske-fodbold-agf",
+      "weekend": "2027-02-21",
+      "name": "S\u00f8nderjyske Fodbold v AGF",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-28-ac-horsens-fc-midtjylland",
+      "weekend": "2027-02-28",
+      "name": "AC Horsens v FC Midtjylland",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-28-agf-f-c-k-benhavn",
+      "weekend": "2027-02-28",
+      "name": "AGF v F.C. K\u00f8benhavn",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-28-br-ndby-if-fc-nordsj-lland",
+      "weekend": "2027-02-28",
+      "name": "Br\u00f8ndby IF v FC Nordsj\u00e6lland",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-28-odense-boldklub-lyngby-boldklub",
+      "weekend": "2027-02-28",
+      "name": "Odense Boldklub v Lyngby Boldklub",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-28-randers-fc-s-nderjyske-fodbold",
+      "weekend": "2027-02-28",
+      "name": "Randers FC v S\u00f8nderjyske Fodbold",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-02-28-viborg-ff-silkeborg-if",
+      "weekend": "2027-02-28",
+      "name": "Viborg FF v Silkeborg IF",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-07-f-c-k-benhavn-randers-fc",
+      "weekend": "2027-03-07",
+      "name": "F.C. K\u00f8benhavn v Randers FC",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-07-fc-midtjylland-viborg-ff",
+      "weekend": "2027-03-07",
+      "name": "FC Midtjylland v Viborg FF",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-07-fc-nordsj-lland-s-nderjyske-fodbold",
+      "weekend": "2027-03-07",
+      "name": "FC Nordsj\u00e6lland v S\u00f8nderjyske Fodbold",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-07-lyngby-boldklub-ac-horsens",
+      "weekend": "2027-03-07",
+      "name": "Lyngby Boldklub v AC Horsens",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-07-odense-boldklub-agf",
+      "weekend": "2027-03-07",
+      "name": "Odense Boldklub v AGF",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-07-silkeborg-if-br-ndby-if",
+      "weekend": "2027-03-07",
+      "name": "Silkeborg IF v Br\u00f8ndby IF",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-14-ac-horsens-odense-boldklub",
+      "weekend": "2027-03-14",
+      "name": "AC Horsens v Odense Boldklub",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-14-agf-fc-nordsj-lland",
+      "weekend": "2027-03-14",
+      "name": "AGF v FC Nordsj\u00e6lland",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-14-f-c-k-benhavn-silkeborg-if",
+      "weekend": "2027-03-14",
+      "name": "F.C. K\u00f8benhavn v Silkeborg IF",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-14-randers-fc-fc-midtjylland",
+      "weekend": "2027-03-14",
+      "name": "Randers FC v FC Midtjylland",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-14-s-nderjyske-fodbold-lyngby-boldklub",
+      "weekend": "2027-03-14",
+      "name": "S\u00f8nderjyske Fodbold v Lyngby Boldklub",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-14-viborg-ff-br-ndby-if",
+      "weekend": "2027-03-14",
+      "name": "Viborg FF v Br\u00f8ndby IF",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-21-br-ndby-if-ac-horsens",
+      "weekend": "2027-03-21",
+      "name": "Br\u00f8ndby IF v AC Horsens",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-21-fc-midtjylland-agf",
+      "weekend": "2027-03-21",
+      "name": "FC Midtjylland v AGF",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-21-fc-nordsj-lland-viborg-ff",
+      "weekend": "2027-03-21",
+      "name": "FC Nordsj\u00e6lland v Viborg FF",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-21-lyngby-boldklub-f-c-k-benhavn",
+      "weekend": "2027-03-21",
+      "name": "Lyngby Boldklub v F.C. K\u00f8benhavn",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-21-odense-boldklub-randers-fc",
+      "weekend": "2027-03-21",
+      "name": "Odense Boldklub v Randers FC",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "den.1-2027-03-21-silkeborg-if-s-nderjyske-fodbold",
+      "weekend": "2027-03-21",
+      "name": "Silkeborg IF v S\u00f8nderjyske Fodbold",
+      "utc": "2027-03-21T18:00:00Z"
+    }
+  ]
+}
