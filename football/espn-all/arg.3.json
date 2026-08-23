@@ -1,0 +1,877 @@
+{
+  "sportKey": "soccer-arg.3",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "arg.3-2026-08-09-deportivo-laferrere-arsenal-sarandi",
+      "weekend": "2026-08-09",
+      "name": "Deportivo Laferrere v Arsenal Sarandi",
+      "utc": "2026-08-09T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-09-dock-sud-san-mart-n-burzaco",
+      "weekend": "2026-08-09",
+      "name": "Dock Sud v San Mart\u00edn (Burzaco)",
+      "utc": "2026-08-09T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-15-camioneros-deportivo-merlo",
+      "weekend": "2026-08-15",
+      "name": "Camioneros v Deportivo Merlo",
+      "utc": "2026-08-15T16:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-15-argentino-de-merlo-ituzaing",
+      "weekend": "2026-08-15",
+      "name": "Argentino de Merlo v Ituzaing\u00f3",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-15-arsenal-sarandi-talleres-de-remedios",
+      "weekend": "2026-08-15",
+      "name": "Arsenal Sarandi v Talleres de Remedios",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-15-excursionistas-deportivo-laferrere",
+      "weekend": "2026-08-15",
+      "name": "Excursionistas v Deportivo Laferrere",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-15-real-pilar-flandria",
+      "weekend": "2026-08-15",
+      "name": "Real Pilar v Flandria",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-15-san-mart-n-burzaco-comunicaciones",
+      "weekend": "2026-08-15",
+      "name": "San Mart\u00edn (Burzaco) v Comunicaciones",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-15-sportivo-italiano-dock-sud",
+      "weekend": "2026-08-15",
+      "name": "Sportivo Italiano v Dock Sud",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-15-villa-d-lmine-brown-de-adrogu",
+      "weekend": "2026-08-15",
+      "name": "Villa D\u00e1lmine v Brown de Adrogu\u00e9",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-16-liniers-argentino-de-quilmes",
+      "weekend": "2026-08-16",
+      "name": "Liniers v Argentino de Quilmes",
+      "utc": "2026-08-16T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-16-uai-urquiza-deportivo-armenio",
+      "weekend": "2026-08-16",
+      "name": "UAI Urquiza v Deportivo Armenio",
+      "utc": "2026-08-16T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-16-villa-san-carlos-defensores-unidos",
+      "weekend": "2026-08-16",
+      "name": "Villa San Carlos v Defensores Unidos",
+      "utc": "2026-08-16T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-21-comunicaciones-sportivo-italiano",
+      "weekend": "2026-08-21",
+      "name": "Comunicaciones v Sportivo Italiano",
+      "utc": "2026-08-21T18:30:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-21-brown-de-adrogu-uai-urquiza",
+      "weekend": "2026-08-21",
+      "name": "Brown de Adrogu\u00e9 v UAI Urquiza",
+      "utc": "2026-08-21T22:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-21-deportivo-laferrere-villa-d-lmine",
+      "weekend": "2026-08-21",
+      "name": "Deportivo Laferrere v Villa D\u00e1lmine",
+      "utc": "2026-08-21T22:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-22-argentino-de-merlo-arsenal-sarandi",
+      "weekend": "2026-08-22",
+      "name": "Argentino de Merlo v Arsenal Sarandi",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-22-defensores-unidos-san-mart-n-burzaco",
+      "weekend": "2026-08-22",
+      "name": "Defensores Unidos v San Mart\u00edn (Burzaco)",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-22-flandria-liniers",
+      "weekend": "2026-08-22",
+      "name": "Flandria v Liniers",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-22-ituzaing-deportivo-merlo",
+      "weekend": "2026-08-22",
+      "name": "Ituzaing\u00f3 v Deportivo Merlo",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-22-talleres-de-remedios-excursionistas",
+      "weekend": "2026-08-22",
+      "name": "Talleres de Remedios v Excursionistas",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-22-deportivo-armenio-real-pilar",
+      "weekend": "2026-08-22",
+      "name": "Deportivo Armenio v Real Pilar",
+      "utc": "2026-08-22T18:30:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-22-argentino-de-quilmes-villa-san-carlos",
+      "weekend": "2026-08-22",
+      "name": "Argentino de Quilmes v Villa San Carlos",
+      "utc": "2026-08-22T22:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-23-dock-sud-camioneros",
+      "weekend": "2026-08-23",
+      "name": "Dock Sud v Camioneros",
+      "utc": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-25-arsenal-sarandi-ituzaing",
+      "weekend": "2026-08-25",
+      "name": "Arsenal Sarandi v Ituzaing\u00f3",
+      "utc": "2026-08-25T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-25-real-pilar-brown-de-adrogu",
+      "weekend": "2026-08-25",
+      "name": "Real Pilar v Brown de Adrogu\u00e9",
+      "utc": "2026-08-25T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-25-san-mart-n-burzaco-argentino-de-quilmes",
+      "weekend": "2026-08-25",
+      "name": "San Mart\u00edn (Burzaco) v Argentino de Quilmes",
+      "utc": "2026-08-25T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-25-sportivo-italiano-defensores-unidos",
+      "weekend": "2026-08-25",
+      "name": "Sportivo Italiano v Defensores Unidos",
+      "utc": "2026-08-25T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-25-uai-urquiza-deportivo-laferrere",
+      "weekend": "2026-08-25",
+      "name": "UAI Urquiza v Deportivo Laferrere",
+      "utc": "2026-08-25T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-25-villa-d-lmine-talleres-de-remedios",
+      "weekend": "2026-08-25",
+      "name": "Villa D\u00e1lmine v Talleres de Remedios",
+      "utc": "2026-08-25T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-25-villa-san-carlos-flandria",
+      "weekend": "2026-08-25",
+      "name": "Villa San Carlos v Flandria",
+      "utc": "2026-08-25T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-25-excursionistas-argentino-de-merlo",
+      "weekend": "2026-08-25",
+      "name": "Excursionistas v Argentino de Merlo",
+      "utc": "2026-08-25T23:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-26-camioneros-comunicaciones",
+      "weekend": "2026-08-26",
+      "name": "Camioneros v Comunicaciones",
+      "utc": "2026-08-26T16:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-26-liniers-deportivo-armenio",
+      "weekend": "2026-08-26",
+      "name": "Liniers v Deportivo Armenio",
+      "utc": "2026-08-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-26-deportivo-merlo-dock-sud",
+      "weekend": "2026-08-26",
+      "name": "Deportivo Merlo v Dock Sud",
+      "utc": "2026-08-26T22:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-29-argentino-de-merlo-villa-d-lmine",
+      "weekend": "2026-08-29",
+      "name": "Argentino de Merlo v Villa D\u00e1lmine",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-29-argentino-de-quilmes-sportivo-italiano",
+      "weekend": "2026-08-29",
+      "name": "Argentino de Quilmes v Sportivo Italiano",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-29-arsenal-sarandi-excursionistas",
+      "weekend": "2026-08-29",
+      "name": "Arsenal Sarandi v Excursionistas",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-29-brown-de-adrogu-liniers",
+      "weekend": "2026-08-29",
+      "name": "Brown de Adrogu\u00e9 v Liniers",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-29-comunicaciones-deportivo-merlo",
+      "weekend": "2026-08-29",
+      "name": "Comunicaciones v Deportivo Merlo",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-29-defensores-unidos-camioneros",
+      "weekend": "2026-08-29",
+      "name": "Defensores Unidos v Camioneros",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-29-deportivo-armenio-villa-san-carlos",
+      "weekend": "2026-08-29",
+      "name": "Deportivo Armenio v Villa San Carlos",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-29-deportivo-laferrere-real-pilar",
+      "weekend": "2026-08-29",
+      "name": "Deportivo Laferrere v Real Pilar",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-29-flandria-san-mart-n-burzaco",
+      "weekend": "2026-08-29",
+      "name": "Flandria v San Mart\u00edn (Burzaco)",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-29-ituzaing-dock-sud",
+      "weekend": "2026-08-29",
+      "name": "Ituzaing\u00f3 v Dock Sud",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-08-29-talleres-de-remedios-uai-urquiza",
+      "weekend": "2026-08-29",
+      "name": "Talleres de Remedios v UAI Urquiza",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-05-camioneros-argentino-de-quilmes",
+      "weekend": "2026-09-05",
+      "name": "Camioneros v Argentino de Quilmes",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-05-deportivo-merlo-defensores-unidos",
+      "weekend": "2026-09-05",
+      "name": "Deportivo Merlo v Defensores Unidos",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-05-dock-sud-comunicaciones",
+      "weekend": "2026-09-05",
+      "name": "Dock Sud v Comunicaciones",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-05-excursionistas-ituzaing",
+      "weekend": "2026-09-05",
+      "name": "Excursionistas v Ituzaing\u00f3",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-05-liniers-deportivo-laferrere",
+      "weekend": "2026-09-05",
+      "name": "Liniers v Deportivo Laferrere",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-05-real-pilar-talleres-de-remedios",
+      "weekend": "2026-09-05",
+      "name": "Real Pilar v Talleres de Remedios",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-05-san-mart-n-burzaco-deportivo-armenio",
+      "weekend": "2026-09-05",
+      "name": "San Mart\u00edn (Burzaco) v Deportivo Armenio",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-05-sportivo-italiano-flandria",
+      "weekend": "2026-09-05",
+      "name": "Sportivo Italiano v Flandria",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-05-uai-urquiza-argentino-de-merlo",
+      "weekend": "2026-09-05",
+      "name": "UAI Urquiza v Argentino de Merlo",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-05-villa-d-lmine-arsenal-sarandi",
+      "weekend": "2026-09-05",
+      "name": "Villa D\u00e1lmine v Arsenal Sarandi",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-05-villa-san-carlos-brown-de-adrogu",
+      "weekend": "2026-09-05",
+      "name": "Villa San Carlos v Brown de Adrogu\u00e9",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-12-argentino-de-merlo-real-pilar",
+      "weekend": "2026-09-12",
+      "name": "Argentino de Merlo v Real Pilar",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-12-argentino-de-quilmes-deportivo-merlo",
+      "weekend": "2026-09-12",
+      "name": "Argentino de Quilmes v Deportivo Merlo",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-12-arsenal-sarandi-uai-urquiza",
+      "weekend": "2026-09-12",
+      "name": "Arsenal Sarandi v UAI Urquiza",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-12-brown-de-adrogu-san-mart-n-burzaco",
+      "weekend": "2026-09-12",
+      "name": "Brown de Adrogu\u00e9 v San Mart\u00edn (Burzaco)",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-12-defensores-unidos-dock-sud",
+      "weekend": "2026-09-12",
+      "name": "Defensores Unidos v Dock Sud",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-12-deportivo-armenio-sportivo-italiano",
+      "weekend": "2026-09-12",
+      "name": "Deportivo Armenio v Sportivo Italiano",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-12-deportivo-laferrere-villa-san-carlos",
+      "weekend": "2026-09-12",
+      "name": "Deportivo Laferrere v Villa San Carlos",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-12-excursionistas-villa-d-lmine",
+      "weekend": "2026-09-12",
+      "name": "Excursionistas v Villa D\u00e1lmine",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-12-flandria-camioneros",
+      "weekend": "2026-09-12",
+      "name": "Flandria v Camioneros",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-12-ituzaing-comunicaciones",
+      "weekend": "2026-09-12",
+      "name": "Ituzaing\u00f3 v Comunicaciones",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-12-talleres-de-remedios-liniers",
+      "weekend": "2026-09-12",
+      "name": "Talleres de Remedios v Liniers",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-19-camioneros-deportivo-armenio",
+      "weekend": "2026-09-19",
+      "name": "Camioneros v Deportivo Armenio",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-19-comunicaciones-defensores-unidos",
+      "weekend": "2026-09-19",
+      "name": "Comunicaciones v Defensores Unidos",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-19-deportivo-merlo-flandria",
+      "weekend": "2026-09-19",
+      "name": "Deportivo Merlo v Flandria",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-19-dock-sud-argentino-de-quilmes",
+      "weekend": "2026-09-19",
+      "name": "Dock Sud v Argentino de Quilmes",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-19-liniers-argentino-de-merlo",
+      "weekend": "2026-09-19",
+      "name": "Liniers v Argentino de Merlo",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-19-real-pilar-arsenal-sarandi",
+      "weekend": "2026-09-19",
+      "name": "Real Pilar v Arsenal Sarandi",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-19-san-mart-n-burzaco-deportivo-laferrere",
+      "weekend": "2026-09-19",
+      "name": "San Mart\u00edn (Burzaco) v Deportivo Laferrere",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-19-sportivo-italiano-brown-de-adrogu",
+      "weekend": "2026-09-19",
+      "name": "Sportivo Italiano v Brown de Adrogu\u00e9",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-19-uai-urquiza-excursionistas",
+      "weekend": "2026-09-19",
+      "name": "UAI Urquiza v Excursionistas",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-19-villa-d-lmine-ituzaing",
+      "weekend": "2026-09-19",
+      "name": "Villa D\u00e1lmine v Ituzaing\u00f3",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-19-villa-san-carlos-talleres-de-remedios",
+      "weekend": "2026-09-19",
+      "name": "Villa San Carlos v Talleres de Remedios",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-26-argentino-de-merlo-villa-san-carlos",
+      "weekend": "2026-09-26",
+      "name": "Argentino de Merlo v Villa San Carlos",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-26-argentino-de-quilmes-comunicaciones",
+      "weekend": "2026-09-26",
+      "name": "Argentino de Quilmes v Comunicaciones",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-26-arsenal-sarandi-liniers",
+      "weekend": "2026-09-26",
+      "name": "Arsenal Sarandi v Liniers",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-26-brown-de-adrogu-camioneros",
+      "weekend": "2026-09-26",
+      "name": "Brown de Adrogu\u00e9 v Camioneros",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-26-deportivo-armenio-deportivo-merlo",
+      "weekend": "2026-09-26",
+      "name": "Deportivo Armenio v Deportivo Merlo",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-26-deportivo-laferrere-sportivo-italiano",
+      "weekend": "2026-09-26",
+      "name": "Deportivo Laferrere v Sportivo Italiano",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-26-excursionistas-real-pilar",
+      "weekend": "2026-09-26",
+      "name": "Excursionistas v Real Pilar",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-26-flandria-dock-sud",
+      "weekend": "2026-09-26",
+      "name": "Flandria v Dock Sud",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-26-ituzaing-defensores-unidos",
+      "weekend": "2026-09-26",
+      "name": "Ituzaing\u00f3 v Defensores Unidos",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-26-talleres-de-remedios-san-mart-n-burzaco",
+      "weekend": "2026-09-26",
+      "name": "Talleres de Remedios v San Mart\u00edn (Burzaco)",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-09-26-villa-d-lmine-uai-urquiza",
+      "weekend": "2026-09-26",
+      "name": "Villa D\u00e1lmine v UAI Urquiza",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-03-camioneros-deportivo-laferrere",
+      "weekend": "2026-10-03",
+      "name": "Camioneros v Deportivo Laferrere",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-03-comunicaciones-flandria",
+      "weekend": "2026-10-03",
+      "name": "Comunicaciones v Flandria",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-03-defensores-unidos-argentino-de-quilmes",
+      "weekend": "2026-10-03",
+      "name": "Defensores Unidos v Argentino de Quilmes",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-03-deportivo-merlo-brown-de-adrogu",
+      "weekend": "2026-10-03",
+      "name": "Deportivo Merlo v Brown de Adrogu\u00e9",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-03-dock-sud-deportivo-armenio",
+      "weekend": "2026-10-03",
+      "name": "Dock Sud v Deportivo Armenio",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-03-liniers-excursionistas",
+      "weekend": "2026-10-03",
+      "name": "Liniers v Excursionistas",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-03-real-pilar-villa-d-lmine",
+      "weekend": "2026-10-03",
+      "name": "Real Pilar v Villa D\u00e1lmine",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-03-san-mart-n-burzaco-argentino-de-merlo",
+      "weekend": "2026-10-03",
+      "name": "San Mart\u00edn (Burzaco) v Argentino de Merlo",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-03-sportivo-italiano-talleres-de-remedios",
+      "weekend": "2026-10-03",
+      "name": "Sportivo Italiano v Talleres de Remedios",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-03-uai-urquiza-ituzaing",
+      "weekend": "2026-10-03",
+      "name": "UAI Urquiza v Ituzaing\u00f3",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-03-villa-san-carlos-arsenal-sarandi",
+      "weekend": "2026-10-03",
+      "name": "Villa San Carlos v Arsenal Sarandi",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-10-argentino-de-merlo-sportivo-italiano",
+      "weekend": "2026-10-10",
+      "name": "Argentino de Merlo v Sportivo Italiano",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-10-arsenal-sarandi-san-mart-n-burzaco",
+      "weekend": "2026-10-10",
+      "name": "Arsenal Sarandi v San Mart\u00edn (Burzaco)",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-10-brown-de-adrogu-dock-sud",
+      "weekend": "2026-10-10",
+      "name": "Brown de Adrogu\u00e9 v Dock Sud",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-10-deportivo-armenio-comunicaciones",
+      "weekend": "2026-10-10",
+      "name": "Deportivo Armenio v Comunicaciones",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-10-deportivo-laferrere-deportivo-merlo",
+      "weekend": "2026-10-10",
+      "name": "Deportivo Laferrere v Deportivo Merlo",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-10-excursionistas-villa-san-carlos",
+      "weekend": "2026-10-10",
+      "name": "Excursionistas v Villa San Carlos",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-10-flandria-defensores-unidos",
+      "weekend": "2026-10-10",
+      "name": "Flandria v Defensores Unidos",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-10-ituzaing-argentino-de-quilmes",
+      "weekend": "2026-10-10",
+      "name": "Ituzaing\u00f3 v Argentino de Quilmes",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-10-talleres-de-remedios-camioneros",
+      "weekend": "2026-10-10",
+      "name": "Talleres de Remedios v Camioneros",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-10-uai-urquiza-real-pilar",
+      "weekend": "2026-10-10",
+      "name": "UAI Urquiza v Real Pilar",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-10-villa-d-lmine-liniers",
+      "weekend": "2026-10-10",
+      "name": "Villa D\u00e1lmine v Liniers",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-17-argentino-de-quilmes-flandria",
+      "weekend": "2026-10-17",
+      "name": "Argentino de Quilmes v Flandria",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-17-camioneros-argentino-de-merlo",
+      "weekend": "2026-10-17",
+      "name": "Camioneros v Argentino de Merlo",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-17-comunicaciones-brown-de-adrogu",
+      "weekend": "2026-10-17",
+      "name": "Comunicaciones v Brown de Adrogu\u00e9",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-17-defensores-unidos-deportivo-armenio",
+      "weekend": "2026-10-17",
+      "name": "Defensores Unidos v Deportivo Armenio",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-17-deportivo-merlo-talleres-de-remedios",
+      "weekend": "2026-10-17",
+      "name": "Deportivo Merlo v Talleres de Remedios",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-17-dock-sud-deportivo-laferrere",
+      "weekend": "2026-10-17",
+      "name": "Dock Sud v Deportivo Laferrere",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-17-liniers-uai-urquiza",
+      "weekend": "2026-10-17",
+      "name": "Liniers v UAI Urquiza",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-17-real-pilar-ituzaing",
+      "weekend": "2026-10-17",
+      "name": "Real Pilar v Ituzaing\u00f3",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-17-san-mart-n-burzaco-excursionistas",
+      "weekend": "2026-10-17",
+      "name": "San Mart\u00edn (Burzaco) v Excursionistas",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-17-sportivo-italiano-arsenal-sarandi",
+      "weekend": "2026-10-17",
+      "name": "Sportivo Italiano v Arsenal Sarandi",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-17-villa-san-carlos-villa-d-lmine",
+      "weekend": "2026-10-17",
+      "name": "Villa San Carlos v Villa D\u00e1lmine",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-24-argentino-de-merlo-deportivo-merlo",
+      "weekend": "2026-10-24",
+      "name": "Argentino de Merlo v Deportivo Merlo",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-24-arsenal-sarandi-camioneros",
+      "weekend": "2026-10-24",
+      "name": "Arsenal Sarandi v Camioneros",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-24-brown-de-adrogu-defensores-unidos",
+      "weekend": "2026-10-24",
+      "name": "Brown de Adrogu\u00e9 v Defensores Unidos",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-24-deportivo-armenio-argentino-de-quilmes",
+      "weekend": "2026-10-24",
+      "name": "Deportivo Armenio v Argentino de Quilmes",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-24-deportivo-laferrere-comunicaciones",
+      "weekend": "2026-10-24",
+      "name": "Deportivo Laferrere v Comunicaciones",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-24-excursionistas-sportivo-italiano",
+      "weekend": "2026-10-24",
+      "name": "Excursionistas v Sportivo Italiano",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-24-ituzaing-flandria",
+      "weekend": "2026-10-24",
+      "name": "Ituzaing\u00f3 v Flandria",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-24-real-pilar-liniers",
+      "weekend": "2026-10-24",
+      "name": "Real Pilar v Liniers",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-24-talleres-de-remedios-dock-sud",
+      "weekend": "2026-10-24",
+      "name": "Talleres de Remedios v Dock Sud",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-24-uai-urquiza-villa-san-carlos",
+      "weekend": "2026-10-24",
+      "name": "UAI Urquiza v Villa San Carlos",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-24-villa-d-lmine-san-mart-n-burzaco",
+      "weekend": "2026-10-24",
+      "name": "Villa D\u00e1lmine v San Mart\u00edn (Burzaco)",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-31-argentino-de-quilmes-brown-de-adrogu",
+      "weekend": "2026-10-31",
+      "name": "Argentino de Quilmes v Brown de Adrogu\u00e9",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-31-camioneros-excursionistas",
+      "weekend": "2026-10-31",
+      "name": "Camioneros v Excursionistas",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-31-comunicaciones-talleres-de-remedios",
+      "weekend": "2026-10-31",
+      "name": "Comunicaciones v Talleres de Remedios",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-31-defensores-unidos-deportivo-laferrere",
+      "weekend": "2026-10-31",
+      "name": "Defensores Unidos v Deportivo Laferrere",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-31-deportivo-merlo-arsenal-sarandi",
+      "weekend": "2026-10-31",
+      "name": "Deportivo Merlo v Arsenal Sarandi",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-31-dock-sud-argentino-de-merlo",
+      "weekend": "2026-10-31",
+      "name": "Dock Sud v Argentino de Merlo",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-31-flandria-deportivo-armenio",
+      "weekend": "2026-10-31",
+      "name": "Flandria v Deportivo Armenio",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-31-liniers-ituzaing",
+      "weekend": "2026-10-31",
+      "name": "Liniers v Ituzaing\u00f3",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-31-san-mart-n-burzaco-uai-urquiza",
+      "weekend": "2026-10-31",
+      "name": "San Mart\u00edn (Burzaco) v UAI Urquiza",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-31-sportivo-italiano-villa-d-lmine",
+      "weekend": "2026-10-31",
+      "name": "Sportivo Italiano v Villa D\u00e1lmine",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.3-2026-10-31-villa-san-carlos-real-pilar",
+      "weekend": "2026-10-31",
+      "name": "Villa San Carlos v Real Pilar",
+      "utc": "2026-10-31T18:00:00Z"
+    }
+  ]
+}

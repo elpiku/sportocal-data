@@ -1,0 +1,1009 @@
+{
+  "sportKey": "soccer-bra.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "bra.1-2026-08-09-cruzeiro-mirassol",
+      "weekend": "2026-08-09",
+      "name": "Cruzeiro v Mirassol",
+      "utc": "2026-08-09T14:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-09-bahia-vasco-da-gama",
+      "weekend": "2026-08-09",
+      "name": "Bahia v Vasco da Gama",
+      "utc": "2026-08-09T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-09-palmeiras-internacional",
+      "weekend": "2026-08-09",
+      "name": "Palmeiras v Internacional",
+      "utc": "2026-08-09T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-09-red-bull-bragantino-corinthians",
+      "weekend": "2026-08-09",
+      "name": "Red Bull Bragantino v Corinthians",
+      "utc": "2026-08-09T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-09-santos-athletico-paranaense",
+      "weekend": "2026-08-09",
+      "name": "Santos v Athletico Paranaense",
+      "utc": "2026-08-09T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-09-flamengo-vit-ria",
+      "weekend": "2026-08-09",
+      "name": "Flamengo v Vit\u00f3ria",
+      "utc": "2026-08-09T22:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-15-fluminense-palmeiras",
+      "weekend": "2026-08-15",
+      "name": "Fluminense v Palmeiras",
+      "utc": "2026-08-15T19:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-15-athletico-paranaense-red-bull-bragantino",
+      "weekend": "2026-08-15",
+      "name": "Athletico Paranaense v Red Bull Bragantino",
+      "utc": "2026-08-15T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-16-s-o-paulo-coritiba",
+      "weekend": "2026-08-16",
+      "name": "S\u00e3o Paulo v Coritiba",
+      "utc": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-16-chapecoense-bahia",
+      "weekend": "2026-08-16",
+      "name": "Chapecoense v Bahia",
+      "utc": "2026-08-16T14:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-16-atl-tico-mg-gr-mio",
+      "weekend": "2026-08-16",
+      "name": "Atl\u00e9tico-MG v Gr\u00eamio",
+      "utc": "2026-08-16T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-16-vasco-da-gama-santos",
+      "weekend": "2026-08-16",
+      "name": "Vasco da Gama v Santos",
+      "utc": "2026-08-16T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-16-mirassol-flamengo",
+      "weekend": "2026-08-16",
+      "name": "Mirassol v Flamengo",
+      "utc": "2026-08-16T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-16-vit-ria-botafogo",
+      "weekend": "2026-08-16",
+      "name": "Vit\u00f3ria v Botafogo",
+      "utc": "2026-08-16T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-16-corinthians-cruzeiro",
+      "weekend": "2026-08-16",
+      "name": "Corinthians v Cruzeiro",
+      "utc": "2026-08-16T22:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-17-internacional-remo",
+      "weekend": "2026-08-17",
+      "name": "Internacional v Remo",
+      "utc": "2026-08-17T23:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-22-fluminense-remo",
+      "weekend": "2026-08-22",
+      "name": "Fluminense v Remo",
+      "utc": "2026-08-22T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-22-internacional-atl-tico-mg",
+      "weekend": "2026-08-22",
+      "name": "Internacional v Atl\u00e9tico-MG",
+      "utc": "2026-08-22T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-22-cruzeiro-flamengo",
+      "weekend": "2026-08-22",
+      "name": "Cruzeiro v Flamengo",
+      "utc": "2026-08-22T23:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-23-palmeiras-vasco-da-gama",
+      "weekend": "2026-08-23",
+      "name": "Palmeiras v Vasco da Gama",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-23-red-bull-bragantino-gr-mio",
+      "weekend": "2026-08-23",
+      "name": "Red Bull Bragantino v Gr\u00eamio",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-23-vit-ria-bahia",
+      "weekend": "2026-08-23",
+      "name": "Vit\u00f3ria v Bahia",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-23-chapecoense-s-o-paulo",
+      "weekend": "2026-08-23",
+      "name": "Chapecoense v S\u00e3o Paulo",
+      "utc": "2026-08-23T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-23-santos-mirassol",
+      "weekend": "2026-08-23",
+      "name": "Santos v Mirassol",
+      "utc": "2026-08-23T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-23-coritiba-corinthians",
+      "weekend": "2026-08-23",
+      "name": "Coritiba v Corinthians",
+      "utc": "2026-08-23T22:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-24-botafogo-athletico-paranaense",
+      "weekend": "2026-08-24",
+      "name": "Botafogo v Athletico Paranaense",
+      "utc": "2026-08-24T23:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-29-atl-tico-mg-vit-ria",
+      "weekend": "2026-08-29",
+      "name": "Atl\u00e9tico-MG v Vit\u00f3ria",
+      "utc": "2026-08-29T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-29-s-o-paulo-red-bull-bragantino",
+      "weekend": "2026-08-29",
+      "name": "S\u00e3o Paulo v Red Bull Bragantino",
+      "utc": "2026-08-29T23:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-30-vasco-da-gama-cruzeiro",
+      "weekend": "2026-08-30",
+      "name": "Vasco da Gama v Cruzeiro",
+      "utc": "2026-08-30T00:20:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-30-athletico-paranaense-fluminense",
+      "weekend": "2026-08-30",
+      "name": "Athletico Paranaense v Fluminense",
+      "utc": "2026-08-30T14:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-30-corinthians-santos",
+      "weekend": "2026-08-30",
+      "name": "Corinthians v Santos",
+      "utc": "2026-08-30T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-30-flamengo-botafogo",
+      "weekend": "2026-08-30",
+      "name": "Flamengo v Botafogo",
+      "utc": "2026-08-30T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-30-gr-mio-chapecoense",
+      "weekend": "2026-08-30",
+      "name": "Gr\u00eamio v Chapecoense",
+      "utc": "2026-08-30T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-30-mirassol-palmeiras",
+      "weekend": "2026-08-30",
+      "name": "Mirassol v Palmeiras",
+      "utc": "2026-08-30T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-30-bahia-internacional",
+      "weekend": "2026-08-30",
+      "name": "Bahia v Internacional",
+      "utc": "2026-08-30T22:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-08-31-remo-coritiba",
+      "weekend": "2026-08-31",
+      "name": "Remo v Coritiba",
+      "utc": "2026-08-31T23:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-02-flamengo-mirassol",
+      "weekend": "2026-09-02",
+      "name": "Flamengo v Mirassol",
+      "utc": "2026-09-02T22:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-05-red-bull-bragantino-bahia",
+      "weekend": "2026-09-05",
+      "name": "Red Bull Bragantino v Bahia",
+      "utc": "2026-09-05T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-05-coritiba-mirassol",
+      "weekend": "2026-09-05",
+      "name": "Coritiba v Mirassol",
+      "utc": "2026-09-05T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-05-s-o-paulo-atl-tico-mg",
+      "weekend": "2026-09-05",
+      "name": "S\u00e3o Paulo v Atl\u00e9tico-MG",
+      "utc": "2026-09-05T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-06-fluminense-vasco-da-gama",
+      "weekend": "2026-09-06",
+      "name": "Fluminense v Vasco da Gama",
+      "utc": "2026-09-06T00:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-06-cruzeiro-athletico-paranaense",
+      "weekend": "2026-09-06",
+      "name": "Cruzeiro v Athletico Paranaense",
+      "utc": "2026-09-06T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-06-internacional-santos",
+      "weekend": "2026-09-06",
+      "name": "Internacional v Santos",
+      "utc": "2026-09-06T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-06-remo-flamengo",
+      "weekend": "2026-09-06",
+      "name": "Remo v Flamengo",
+      "utc": "2026-09-06T19:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-06-botafogo-palmeiras",
+      "weekend": "2026-09-06",
+      "name": "Botafogo v Palmeiras",
+      "utc": "2026-09-06T21:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-06-corinthians-chapecoense",
+      "weekend": "2026-09-06",
+      "name": "Corinthians v Chapecoense",
+      "utc": "2026-09-06T22:30:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-07-vit-ria-gr-mio",
+      "weekend": "2026-09-07",
+      "name": "Vit\u00f3ria v Gr\u00eamio",
+      "utc": "2026-09-07T23:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-12-atl-tico-mg-fluminense",
+      "weekend": "2026-09-12",
+      "name": "Atl\u00e9tico-MG v Fluminense",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-12-bahia-remo",
+      "weekend": "2026-09-12",
+      "name": "Bahia v Remo",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-12-botafogo-red-bull-bragantino",
+      "weekend": "2026-09-12",
+      "name": "Botafogo v Red Bull Bragantino",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-12-chapecoense-internacional",
+      "weekend": "2026-09-12",
+      "name": "Chapecoense v Internacional",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-12-coritiba-athletico-paranaense",
+      "weekend": "2026-09-12",
+      "name": "Coritiba v Athletico Paranaense",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-12-flamengo-corinthians",
+      "weekend": "2026-09-12",
+      "name": "Flamengo v Corinthians",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-12-gr-mio-vasco-da-gama",
+      "weekend": "2026-09-12",
+      "name": "Gr\u00eamio v Vasco da Gama",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-12-mirassol-vit-ria",
+      "weekend": "2026-09-12",
+      "name": "Mirassol v Vit\u00f3ria",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-12-palmeiras-s-o-paulo",
+      "weekend": "2026-09-12",
+      "name": "Palmeiras v S\u00e3o Paulo",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-12-santos-cruzeiro",
+      "weekend": "2026-09-12",
+      "name": "Santos v Cruzeiro",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-19-athletico-paranaense-bahia",
+      "weekend": "2026-09-19",
+      "name": "Athletico Paranaense v Bahia",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-19-atl-tico-mg-chapecoense",
+      "weekend": "2026-09-19",
+      "name": "Atl\u00e9tico-MG v Chapecoense",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-19-corinthians-fluminense",
+      "weekend": "2026-09-19",
+      "name": "Corinthians v Fluminense",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-19-flamengo-red-bull-bragantino",
+      "weekend": "2026-09-19",
+      "name": "Flamengo v Red Bull Bragantino",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-19-gr-mio-palmeiras",
+      "weekend": "2026-09-19",
+      "name": "Gr\u00eamio v Palmeiras",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-19-mirassol-botafogo",
+      "weekend": "2026-09-19",
+      "name": "Mirassol v Botafogo",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-19-remo-santos",
+      "weekend": "2026-09-19",
+      "name": "Remo v Santos",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-19-s-o-paulo-internacional",
+      "weekend": "2026-09-19",
+      "name": "S\u00e3o Paulo v Internacional",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-19-vasco-da-gama-coritiba",
+      "weekend": "2026-09-19",
+      "name": "Vasco da Gama v Coritiba",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-09-19-vit-ria-cruzeiro",
+      "weekend": "2026-09-19",
+      "name": "Vit\u00f3ria v Cruzeiro",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-07-athletico-paranaense-atl-tico-mg",
+      "weekend": "2026-10-07",
+      "name": "Athletico Paranaense v Atl\u00e9tico-MG",
+      "utc": "2026-10-07T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-07-botafogo-vasco-da-gama",
+      "weekend": "2026-10-07",
+      "name": "Botafogo v Vasco da Gama",
+      "utc": "2026-10-07T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-07-cruzeiro-s-o-paulo",
+      "weekend": "2026-10-07",
+      "name": "Cruzeiro v S\u00e3o Paulo",
+      "utc": "2026-10-07T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-07-fluminense-coritiba",
+      "weekend": "2026-10-07",
+      "name": "Fluminense v Coritiba",
+      "utc": "2026-10-07T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-07-internacional-corinthians",
+      "weekend": "2026-10-07",
+      "name": "Internacional v Corinthians",
+      "utc": "2026-10-07T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-07-palmeiras-bahia",
+      "weekend": "2026-10-07",
+      "name": "Palmeiras v Bahia",
+      "utc": "2026-10-07T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-07-red-bull-bragantino-mirassol",
+      "weekend": "2026-10-07",
+      "name": "Red Bull Bragantino v Mirassol",
+      "utc": "2026-10-07T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-07-remo-gr-mio",
+      "weekend": "2026-10-07",
+      "name": "Remo v Gr\u00eamio",
+      "utc": "2026-10-07T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-07-santos-flamengo",
+      "weekend": "2026-10-07",
+      "name": "Santos v Flamengo",
+      "utc": "2026-10-07T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-07-vit-ria-chapecoense",
+      "weekend": "2026-10-07",
+      "name": "Vit\u00f3ria v Chapecoense",
+      "utc": "2026-10-07T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-10-atl-tico-mg-santos",
+      "weekend": "2026-10-10",
+      "name": "Atl\u00e9tico-MG v Santos",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-10-bahia-mirassol",
+      "weekend": "2026-10-10",
+      "name": "Bahia v Mirassol",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-10-chapecoense-athletico-paranaense",
+      "weekend": "2026-10-10",
+      "name": "Chapecoense v Athletico Paranaense",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-10-coritiba-botafogo",
+      "weekend": "2026-10-10",
+      "name": "Coritiba v Botafogo",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-10-flamengo-fluminense",
+      "weekend": "2026-10-10",
+      "name": "Flamengo v Fluminense",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-10-gr-mio-internacional",
+      "weekend": "2026-10-10",
+      "name": "Gr\u00eamio v Internacional",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-10-palmeiras-corinthians",
+      "weekend": "2026-10-10",
+      "name": "Palmeiras v Corinthians",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-10-red-bull-bragantino-cruzeiro",
+      "weekend": "2026-10-10",
+      "name": "Red Bull Bragantino v Cruzeiro",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-10-s-o-paulo-vit-ria",
+      "weekend": "2026-10-10",
+      "name": "S\u00e3o Paulo v Vit\u00f3ria",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-10-vasco-da-gama-remo",
+      "weekend": "2026-10-10",
+      "name": "Vasco da Gama v Remo",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-17-athletico-paranaense-palmeiras",
+      "weekend": "2026-10-17",
+      "name": "Athletico Paranaense v Palmeiras",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-17-atl-tico-mg-coritiba",
+      "weekend": "2026-10-17",
+      "name": "Atl\u00e9tico-MG v Coritiba",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-17-bahia-flamengo",
+      "weekend": "2026-10-17",
+      "name": "Bahia v Flamengo",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-17-botafogo-chapecoense",
+      "weekend": "2026-10-17",
+      "name": "Botafogo v Chapecoense",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-17-corinthians-vit-ria",
+      "weekend": "2026-10-17",
+      "name": "Corinthians v Vit\u00f3ria",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-17-fluminense-santos",
+      "weekend": "2026-10-17",
+      "name": "Fluminense v Santos",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-17-gr-mio-cruzeiro",
+      "weekend": "2026-10-17",
+      "name": "Gr\u00eamio v Cruzeiro",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-17-mirassol-internacional",
+      "weekend": "2026-10-17",
+      "name": "Mirassol v Internacional",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-17-remo-red-bull-bragantino",
+      "weekend": "2026-10-17",
+      "name": "Remo v Red Bull Bragantino",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-17-s-o-paulo-vasco-da-gama",
+      "weekend": "2026-10-17",
+      "name": "S\u00e3o Paulo v Vasco da Gama",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-24-chapecoense-fluminense",
+      "weekend": "2026-10-24",
+      "name": "Chapecoense v Fluminense",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-24-coritiba-gr-mio",
+      "weekend": "2026-10-24",
+      "name": "Coritiba v Gr\u00eamio",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-24-cruzeiro-remo",
+      "weekend": "2026-10-24",
+      "name": "Cruzeiro v Remo",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-24-flamengo-atl-tico-mg",
+      "weekend": "2026-10-24",
+      "name": "Flamengo v Atl\u00e9tico-MG",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-24-internacional-botafogo",
+      "weekend": "2026-10-24",
+      "name": "Internacional v Botafogo",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-24-mirassol-s-o-paulo",
+      "weekend": "2026-10-24",
+      "name": "Mirassol v S\u00e3o Paulo",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-24-palmeiras-red-bull-bragantino",
+      "weekend": "2026-10-24",
+      "name": "Palmeiras v Red Bull Bragantino",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-24-santos-bahia",
+      "weekend": "2026-10-24",
+      "name": "Santos v Bahia",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-24-vasco-da-gama-corinthians",
+      "weekend": "2026-10-24",
+      "name": "Vasco da Gama v Corinthians",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-24-vit-ria-athletico-paranaense",
+      "weekend": "2026-10-24",
+      "name": "Vit\u00f3ria v Athletico Paranaense",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-28-atl-tico-mg-cruzeiro",
+      "weekend": "2026-10-28",
+      "name": "Atl\u00e9tico-MG v Cruzeiro",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-28-bahia-s-o-paulo",
+      "weekend": "2026-10-28",
+      "name": "Bahia v S\u00e3o Paulo",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-28-corinthians-mirassol",
+      "weekend": "2026-10-28",
+      "name": "Corinthians v Mirassol",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-28-coritiba-vit-ria",
+      "weekend": "2026-10-28",
+      "name": "Coritiba v Vit\u00f3ria",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-28-fluminense-internacional",
+      "weekend": "2026-10-28",
+      "name": "Fluminense v Internacional",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-28-gr-mio-athletico-paranaense",
+      "weekend": "2026-10-28",
+      "name": "Gr\u00eamio v Athletico Paranaense",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-28-red-bull-bragantino-chapecoense",
+      "weekend": "2026-10-28",
+      "name": "Red Bull Bragantino v Chapecoense",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-28-remo-botafogo",
+      "weekend": "2026-10-28",
+      "name": "Remo v Botafogo",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-28-santos-palmeiras",
+      "weekend": "2026-10-28",
+      "name": "Santos v Palmeiras",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-10-28-vasco-da-gama-flamengo",
+      "weekend": "2026-10-28",
+      "name": "Vasco da Gama v Flamengo",
+      "utc": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-04-athletico-paranaense-vasco-da-gama",
+      "weekend": "2026-11-04",
+      "name": "Athletico Paranaense v Vasco da Gama",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-04-botafogo-atl-tico-mg",
+      "weekend": "2026-11-04",
+      "name": "Botafogo v Atl\u00e9tico-MG",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-04-chapecoense-mirassol",
+      "weekend": "2026-11-04",
+      "name": "Chapecoense v Mirassol",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-04-cruzeiro-bahia",
+      "weekend": "2026-11-04",
+      "name": "Cruzeiro v Bahia",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-04-flamengo-gr-mio",
+      "weekend": "2026-11-04",
+      "name": "Flamengo v Gr\u00eamio",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-04-internacional-coritiba",
+      "weekend": "2026-11-04",
+      "name": "Internacional v Coritiba",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-04-palmeiras-remo",
+      "weekend": "2026-11-04",
+      "name": "Palmeiras v Remo",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-04-red-bull-bragantino-santos",
+      "weekend": "2026-11-04",
+      "name": "Red Bull Bragantino v Santos",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-04-s-o-paulo-corinthians",
+      "weekend": "2026-11-04",
+      "name": "S\u00e3o Paulo v Corinthians",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-04-vit-ria-fluminense",
+      "weekend": "2026-11-04",
+      "name": "Vit\u00f3ria v Fluminense",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-18-corinthians-botafogo",
+      "weekend": "2026-11-18",
+      "name": "Corinthians v Botafogo",
+      "utc": "2026-11-18T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-18-coritiba-santos",
+      "weekend": "2026-11-18",
+      "name": "Coritiba v Santos",
+      "utc": "2026-11-18T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-18-cruzeiro-palmeiras",
+      "weekend": "2026-11-18",
+      "name": "Cruzeiro v Palmeiras",
+      "utc": "2026-11-18T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-18-flamengo-athletico-paranaense",
+      "weekend": "2026-11-18",
+      "name": "Flamengo v Athletico Paranaense",
+      "utc": "2026-11-18T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-18-gr-mio-bahia",
+      "weekend": "2026-11-18",
+      "name": "Gr\u00eamio v Bahia",
+      "utc": "2026-11-18T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-18-mirassol-atl-tico-mg",
+      "weekend": "2026-11-18",
+      "name": "Mirassol v Atl\u00e9tico-MG",
+      "utc": "2026-11-18T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-18-remo-chapecoense",
+      "weekend": "2026-11-18",
+      "name": "Remo v Chapecoense",
+      "utc": "2026-11-18T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-18-s-o-paulo-fluminense",
+      "weekend": "2026-11-18",
+      "name": "S\u00e3o Paulo v Fluminense",
+      "utc": "2026-11-18T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-18-vasco-da-gama-internacional",
+      "weekend": "2026-11-18",
+      "name": "Vasco da Gama v Internacional",
+      "utc": "2026-11-18T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-18-vit-ria-red-bull-bragantino",
+      "weekend": "2026-11-18",
+      "name": "Vit\u00f3ria v Red Bull Bragantino",
+      "utc": "2026-11-18T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-21-athletico-paranaense-remo",
+      "weekend": "2026-11-21",
+      "name": "Athletico Paranaense v Remo",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-21-atl-tico-mg-corinthians",
+      "weekend": "2026-11-21",
+      "name": "Atl\u00e9tico-MG v Corinthians",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-21-bahia-coritiba",
+      "weekend": "2026-11-21",
+      "name": "Bahia v Coritiba",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-21-botafogo-s-o-paulo",
+      "weekend": "2026-11-21",
+      "name": "Botafogo v S\u00e3o Paulo",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-21-chapecoense-cruzeiro",
+      "weekend": "2026-11-21",
+      "name": "Chapecoense v Cruzeiro",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-21-fluminense-mirassol",
+      "weekend": "2026-11-21",
+      "name": "Fluminense v Mirassol",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-21-internacional-vit-ria",
+      "weekend": "2026-11-21",
+      "name": "Internacional v Vit\u00f3ria",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-21-palmeiras-flamengo",
+      "weekend": "2026-11-21",
+      "name": "Palmeiras v Flamengo",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-21-red-bull-bragantino-vasco-da-gama",
+      "weekend": "2026-11-21",
+      "name": "Red Bull Bragantino v Vasco da Gama",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-21-santos-gr-mio",
+      "weekend": "2026-11-21",
+      "name": "Santos v Gr\u00eamio",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-28-atl-tico-mg-vasco-da-gama",
+      "weekend": "2026-11-28",
+      "name": "Atl\u00e9tico-MG v Vasco da Gama",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-28-botafogo-bahia",
+      "weekend": "2026-11-28",
+      "name": "Botafogo v Bahia",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-28-chapecoense-palmeiras",
+      "weekend": "2026-11-28",
+      "name": "Chapecoense v Palmeiras",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-28-corinthians-gr-mio",
+      "weekend": "2026-11-28",
+      "name": "Corinthians v Gr\u00eamio",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-28-coritiba-flamengo",
+      "weekend": "2026-11-28",
+      "name": "Coritiba v Flamengo",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-28-fluminense-cruzeiro",
+      "weekend": "2026-11-28",
+      "name": "Fluminense v Cruzeiro",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-28-internacional-red-bull-bragantino",
+      "weekend": "2026-11-28",
+      "name": "Internacional v Red Bull Bragantino",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-28-mirassol-athletico-paranaense",
+      "weekend": "2026-11-28",
+      "name": "Mirassol v Athletico Paranaense",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-28-s-o-paulo-remo",
+      "weekend": "2026-11-28",
+      "name": "S\u00e3o Paulo v Remo",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-11-28-vit-ria-santos",
+      "weekend": "2026-11-28",
+      "name": "Vit\u00f3ria v Santos",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-12-02-athletico-paranaense-s-o-paulo",
+      "weekend": "2026-12-02",
+      "name": "Athletico Paranaense v S\u00e3o Paulo",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-12-02-bahia-atl-tico-mg",
+      "weekend": "2026-12-02",
+      "name": "Bahia v Atl\u00e9tico-MG",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-12-02-cruzeiro-internacional",
+      "weekend": "2026-12-02",
+      "name": "Cruzeiro v Internacional",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-12-02-flamengo-chapecoense",
+      "weekend": "2026-12-02",
+      "name": "Flamengo v Chapecoense",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-12-02-gr-mio-mirassol",
+      "weekend": "2026-12-02",
+      "name": "Gr\u00eamio v Mirassol",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-12-02-palmeiras-coritiba",
+      "weekend": "2026-12-02",
+      "name": "Palmeiras v Coritiba",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-12-02-red-bull-bragantino-fluminense",
+      "weekend": "2026-12-02",
+      "name": "Red Bull Bragantino v Fluminense",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-12-02-remo-corinthians",
+      "weekend": "2026-12-02",
+      "name": "Remo v Corinthians",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-12-02-santos-botafogo",
+      "weekend": "2026-12-02",
+      "name": "Santos v Botafogo",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "bra.1-2026-12-02-vasco-da-gama-vit-ria",
+      "weekend": "2026-12-02",
+      "name": "Vasco da Gama v Vit\u00f3ria",
+      "utc": "2026-12-02T20:00:00Z"
+    }
+  ]
+}

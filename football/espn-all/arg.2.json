@@ -1,0 +1,1441 @@
+{
+  "sportKey": "soccer-arg.2",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "arg.2-2026-08-09-atlanta-temperley",
+      "weekend": "2026-08-09",
+      "name": "Atlanta v Temperley",
+      "utc": "2026-08-09T17:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-09-los-andes-ferro-carril-oeste",
+      "weekend": "2026-08-09",
+      "name": "Los Andes v Ferro Carril Oeste",
+      "utc": "2026-08-09T17:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-09-colegiales-patronato",
+      "weekend": "2026-08-09",
+      "name": "Colegiales v Patronato",
+      "utc": "2026-08-09T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-09-deportivo-mor-n-acassuso",
+      "weekend": "2026-08-09",
+      "name": "Deportivo Mor\u00f3n v Acassuso",
+      "utc": "2026-08-09T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-09-col-n-santa-fe-san-telmo",
+      "weekend": "2026-08-09",
+      "name": "Col\u00f3n (Santa Fe) v San Telmo",
+      "utc": "2026-08-09T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-09-mitre-santiago-del-estero-defensores-de-belgrano",
+      "weekend": "2026-08-09",
+      "name": "Mitre (Santiago del Estero) v Defensores de Belgrano",
+      "utc": "2026-08-09T19:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-09-racing-c-rdoba-san-miguel",
+      "weekend": "2026-08-09",
+      "name": "Racing (C\u00f3rdoba) v San Miguel",
+      "utc": "2026-08-09T19:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-09-godoy-cruz-antonio-tomba-chaco-for-ever",
+      "weekend": "2026-08-09",
+      "name": "Godoy Cruz Antonio Tomba v Chaco For Ever",
+      "utc": "2026-08-09T19:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-09-quilmes-almagro",
+      "weekend": "2026-08-09",
+      "name": "Quilmes v Almagro",
+      "utc": "2026-08-09T20:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-09-gimnasia-y-tiro-salta-nueva-chicago",
+      "weekend": "2026-08-09",
+      "name": "Gimnasia y Tiro (Salta) v Nueva Chicago",
+      "utc": "2026-08-09T20:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-09-san-mart-n-tucum-n-san-mart-n-san-juan",
+      "weekend": "2026-08-09",
+      "name": "San Mart\u00edn (Tucum\u00e1n) v San Mart\u00edn (San Juan)",
+      "utc": "2026-08-09T21:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-10-all-boys-central-norte",
+      "weekend": "2026-08-10",
+      "name": "All Boys v Central Norte",
+      "utc": "2026-08-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-10-gimnasia-y-esgrima-jujuy-trist-n-su-rez",
+      "weekend": "2026-08-10",
+      "name": "Gimnasia y Esgrima (Jujuy) v Trist\u00e1n Su\u00e1rez",
+      "utc": "2026-08-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-14-acassuso-midland",
+      "weekend": "2026-08-14",
+      "name": "Acassuso v Midland",
+      "utc": "2026-08-14T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-14-atletico-rafaela-defensores-de-belgrano",
+      "weekend": "2026-08-14",
+      "name": "Atletico Rafaela v Defensores de Belgrano",
+      "utc": "2026-08-14T23:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-15-agropecuario-ciudad-de-bol-var",
+      "weekend": "2026-08-15",
+      "name": "Agropecuario v Ciudad de Bol\u00edvar",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-15-deportivo-mor-n-almagro",
+      "weekend": "2026-08-15",
+      "name": "Deportivo Mor\u00f3n v Almagro",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-15-ferro-carril-oeste-atlanta",
+      "weekend": "2026-08-15",
+      "name": "Ferro Carril Oeste v Atlanta",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-15-san-miguel-colegiales",
+      "weekend": "2026-08-15",
+      "name": "San Miguel v Colegiales",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-15-mitre-santiago-del-estero-g-emes",
+      "weekend": "2026-08-15",
+      "name": "Mitre (Santiago del Estero) v G\u00fcemes",
+      "utc": "2026-08-15T19:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-15-col-n-santa-fe-patronato",
+      "weekend": "2026-08-15",
+      "name": "Col\u00f3n (Santa Fe) v Patronato",
+      "utc": "2026-08-15T19:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-15-godoy-cruz-antonio-tomba-deportivo-maip",
+      "weekend": "2026-08-15",
+      "name": "Godoy Cruz Antonio Tomba v Deportivo Maip\u00fa",
+      "utc": "2026-08-15T21:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-15-estudiantes-buenos-aires-chacarita-juniors",
+      "weekend": "2026-08-15",
+      "name": "Estudiantes (Buenos Aires) v Chacarita Juniors",
+      "utc": "2026-08-15T22:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-15-quilmes-san-telmo",
+      "weekend": "2026-08-15",
+      "name": "Quilmes v San Telmo",
+      "utc": "2026-08-15T22:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-16-trist-n-su-rez-almirante-brown",
+      "weekend": "2026-08-16",
+      "name": "Trist\u00e1n Su\u00e1rez v Almirante Brown",
+      "utc": "2026-08-16T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-16-gimnasia-y-esgrima-jujuy-chaco-for-ever",
+      "weekend": "2026-08-16",
+      "name": "Gimnasia y Esgrima (Jujuy) v Chaco For Ever",
+      "utc": "2026-08-16T19:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-16-central-norte-gimnasia-y-tiro-salta",
+      "weekend": "2026-08-16",
+      "name": "Central Norte v Gimnasia y Tiro (Salta)",
+      "utc": "2026-08-16T20:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-16-racing-c-rdoba-san-mart-n-san-juan",
+      "weekend": "2026-08-16",
+      "name": "Racing (C\u00f3rdoba) v San Mart\u00edn (San Juan)",
+      "utc": "2026-08-16T20:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-16-san-mart-n-tucum-n-deportivo-madryn",
+      "weekend": "2026-08-16",
+      "name": "San Mart\u00edn (Tucum\u00e1n) v Deportivo Madryn",
+      "utc": "2026-08-16T20:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-16-temperley-los-andes",
+      "weekend": "2026-08-16",
+      "name": "Temperley v Los Andes",
+      "utc": "2026-08-16T21:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-17-all-boys-nueva-chicago",
+      "weekend": "2026-08-17",
+      "name": "All Boys v Nueva Chicago",
+      "utc": "2026-08-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-19-chacarita-juniors-g-emes",
+      "weekend": "2026-08-19",
+      "name": "Chacarita Juniors v G\u00fcemes",
+      "utc": "2026-08-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-21-acassuso-godoy-cruz-antonio-tomba",
+      "weekend": "2026-08-21",
+      "name": "Acassuso v Godoy Cruz Antonio Tomba",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-21-san-telmo-deportivo-mor-n",
+      "weekend": "2026-08-21",
+      "name": "San Telmo v Deportivo Mor\u00f3n",
+      "utc": "2026-08-21T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-21-deportivo-madryn-mitre-santiago-del-estero",
+      "weekend": "2026-08-21",
+      "name": "Deportivo Madryn v Mitre (Santiago del Estero)",
+      "utc": "2026-08-21T22:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-22-trist-n-su-rez-agropecuario",
+      "weekend": "2026-08-22",
+      "name": "Trist\u00e1n Su\u00e1rez v Agropecuario",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-22-almagro-colegiales",
+      "weekend": "2026-08-22",
+      "name": "Almagro v Colegiales",
+      "utc": "2026-08-22T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-22-defensores-de-belgrano-almirante-brown",
+      "weekend": "2026-08-22",
+      "name": "Defensores de Belgrano v Almirante Brown",
+      "utc": "2026-08-22T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-22-nueva-chicago-atlanta",
+      "weekend": "2026-08-22",
+      "name": "Nueva Chicago v Atlanta",
+      "utc": "2026-08-22T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-22-patronato-gimnasia-y-esgrima-jujuy",
+      "weekend": "2026-08-22",
+      "name": "Patronato v Gimnasia y Esgrima (Jujuy)",
+      "utc": "2026-08-22T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-22-san-mart-n-san-juan-gimnasia-y-tiro-salta",
+      "weekend": "2026-08-22",
+      "name": "San Mart\u00edn (San Juan) v Gimnasia y Tiro (Salta)",
+      "utc": "2026-08-22T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-22-san-miguel-col-n-santa-fe",
+      "weekend": "2026-08-22",
+      "name": "San Miguel v Col\u00f3n (Santa Fe)",
+      "utc": "2026-08-22T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-22-chaco-for-ever-los-andes",
+      "weekend": "2026-08-22",
+      "name": "Chaco For Ever v Los Andes",
+      "utc": "2026-08-22T19:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-23-central-norte-estudiantes-buenos-aires",
+      "weekend": "2026-08-23",
+      "name": "Central Norte v Estudiantes (Buenos Aires)",
+      "utc": "2026-08-23T01:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-23-chacarita-juniors-san-mart-n-tucum-n",
+      "weekend": "2026-08-23",
+      "name": "Chacarita Juniors v San Mart\u00edn (Tucum\u00e1n)",
+      "utc": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-23-ciudad-de-bol-var-racing-c-rdoba",
+      "weekend": "2026-08-23",
+      "name": "Ciudad de Bol\u00edvar v Racing (C\u00f3rdoba)",
+      "utc": "2026-08-23T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-23-deportivo-maip-quilmes",
+      "weekend": "2026-08-23",
+      "name": "Deportivo Maip\u00fa v Quilmes",
+      "utc": "2026-08-23T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-23-temperley-midland",
+      "weekend": "2026-08-23",
+      "name": "Temperley v Midland",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-24-g-emes-atletico-rafaela",
+      "weekend": "2026-08-24",
+      "name": "G\u00fcemes v Atletico Rafaela",
+      "utc": "2026-08-24T19:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-24-ferro-carril-oeste-all-boys",
+      "weekend": "2026-08-24",
+      "name": "Ferro Carril Oeste v All Boys",
+      "utc": "2026-08-24T23:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-25-deportivo-madryn-godoy-cruz-antonio-tomba",
+      "weekend": "2026-08-25",
+      "name": "Deportivo Madryn v Godoy Cruz Antonio Tomba",
+      "utc": "2026-08-25T22:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-26-acassuso-san-telmo",
+      "weekend": "2026-08-26",
+      "name": "Acassuso v San Telmo",
+      "utc": "2026-08-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-26-chaco-for-ever-san-miguel",
+      "weekend": "2026-08-26",
+      "name": "Chaco For Ever v San Miguel",
+      "utc": "2026-08-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-26-defensores-de-belgrano-los-andes",
+      "weekend": "2026-08-26",
+      "name": "Defensores de Belgrano v Los Andes",
+      "utc": "2026-08-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-26-san-mart-n-san-juan-nueva-chicago",
+      "weekend": "2026-08-26",
+      "name": "San Mart\u00edn (San Juan) v Nueva Chicago",
+      "utc": "2026-08-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-26-patronato-atlanta",
+      "weekend": "2026-08-26",
+      "name": "Patronato v Atlanta",
+      "utc": "2026-08-26T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-27-central-norte-deportivo-mor-n",
+      "weekend": "2026-08-27",
+      "name": "Central Norte v Deportivo Mor\u00f3n",
+      "utc": "2026-08-27T00:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-29-gimnasia-y-tiro-salta-chacarita-juniors",
+      "weekend": "2026-08-29",
+      "name": "Gimnasia y Tiro (Salta) v Chacarita Juniors",
+      "utc": "2026-08-29T01:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-29-colegiales-deportivo-maip",
+      "weekend": "2026-08-29",
+      "name": "Colegiales v Deportivo Maip\u00fa",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-29-midland-nueva-chicago",
+      "weekend": "2026-08-29",
+      "name": "Midland v Nueva Chicago",
+      "utc": "2026-08-29T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-29-atletico-rafaela-trist-n-su-rez",
+      "weekend": "2026-08-29",
+      "name": "Atletico Rafaela v Trist\u00e1n Su\u00e1rez",
+      "utc": "2026-08-29T19:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-29-ciudad-de-bol-var-defensores-de-belgrano",
+      "weekend": "2026-08-29",
+      "name": "Ciudad de Bol\u00edvar v Defensores de Belgrano",
+      "utc": "2026-08-29T19:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-30-almirante-brown-deportivo-madryn",
+      "weekend": "2026-08-30",
+      "name": "Almirante Brown v Deportivo Madryn",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-30-mitre-santiago-del-estero-central-norte",
+      "weekend": "2026-08-30",
+      "name": "Mitre (Santiago del Estero) v Central Norte",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-30-all-boys-chaco-for-ever",
+      "weekend": "2026-08-30",
+      "name": "All Boys v Chaco For Ever",
+      "utc": "2026-08-30T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-30-atlanta-san-mart-n-san-juan",
+      "weekend": "2026-08-30",
+      "name": "Atlanta v San Mart\u00edn (San Juan)",
+      "utc": "2026-08-30T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-30-deportivo-mor-n-san-miguel",
+      "weekend": "2026-08-30",
+      "name": "Deportivo Mor\u00f3n v San Miguel",
+      "utc": "2026-08-30T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-30-estudiantes-buenos-aires-ferro-carril-oeste",
+      "weekend": "2026-08-30",
+      "name": "Estudiantes (Buenos Aires) v Ferro Carril Oeste",
+      "utc": "2026-08-30T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-30-patronato-almagro",
+      "weekend": "2026-08-30",
+      "name": "Patronato v Almagro",
+      "utc": "2026-08-30T18:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-30-quilmes-temperley",
+      "weekend": "2026-08-30",
+      "name": "Quilmes v Temperley",
+      "utc": "2026-08-30T19:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-30-racing-c-rdoba-col-n-santa-fe",
+      "weekend": "2026-08-30",
+      "name": "Racing (C\u00f3rdoba) v Col\u00f3n (Santa Fe)",
+      "utc": "2026-08-30T20:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-30-godoy-cruz-antonio-tomba-san-telmo",
+      "weekend": "2026-08-30",
+      "name": "Godoy Cruz Antonio Tomba v San Telmo",
+      "utc": "2026-08-30T21:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-30-san-mart-n-tucum-n-g-emes",
+      "weekend": "2026-08-30",
+      "name": "San Mart\u00edn (Tucum\u00e1n) v G\u00fcemes",
+      "utc": "2026-08-30T21:30:00Z"
+    },
+    {
+      "id": "arg.2-2026-08-31-los-andes-acassuso",
+      "weekend": "2026-08-31",
+      "name": "Los Andes v Acassuso",
+      "utc": "2026-08-31T22:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-01-gimnasia-y-esgrima-jujuy-agropecuario",
+      "weekend": "2026-09-01",
+      "name": "Gimnasia y Esgrima (Jujuy) v Agropecuario",
+      "utc": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-02-colegiales-midland",
+      "weekend": "2026-09-02",
+      "name": "Colegiales v Midland",
+      "utc": "2026-09-02T23:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-acassuso-all-boys",
+      "weekend": "2026-09-05",
+      "name": "Acassuso v All Boys",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-agropecuario-atletico-rafaela",
+      "weekend": "2026-09-05",
+      "name": "Agropecuario v Atletico Rafaela",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-almagro-gimnasia-y-esgrima-jujuy",
+      "weekend": "2026-09-05",
+      "name": "Almagro v Gimnasia y Esgrima (Jujuy)",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-central-norte-almirante-brown",
+      "weekend": "2026-09-05",
+      "name": "Central Norte v Almirante Brown",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-chacarita-juniors-atlanta",
+      "weekend": "2026-09-05",
+      "name": "Chacarita Juniors v Atlanta",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-chaco-for-ever-estudiantes-buenos-aires",
+      "weekend": "2026-09-05",
+      "name": "Chaco For Ever v Estudiantes (Buenos Aires)",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-col-n-santa-fe-deportivo-mor-n",
+      "weekend": "2026-09-05",
+      "name": "Col\u00f3n (Santa Fe) v Deportivo Mor\u00f3n",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-defensores-de-belgrano-racing-c-rdoba",
+      "weekend": "2026-09-05",
+      "name": "Defensores de Belgrano v Racing (C\u00f3rdoba)",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-deportivo-madryn-ciudad-de-bol-var",
+      "weekend": "2026-09-05",
+      "name": "Deportivo Madryn v Ciudad de Bol\u00edvar",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-deportivo-maip-patronato",
+      "weekend": "2026-09-05",
+      "name": "Deportivo Maip\u00fa v Patronato",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-ferro-carril-oeste-mitre-santiago-del-estero",
+      "weekend": "2026-09-05",
+      "name": "Ferro Carril Oeste v Mitre (Santiago del Estero)",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-g-emes-gimnasia-y-tiro-salta",
+      "weekend": "2026-09-05",
+      "name": "G\u00fcemes v Gimnasia y Tiro (Salta)",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-nueva-chicago-quilmes",
+      "weekend": "2026-09-05",
+      "name": "Nueva Chicago v Quilmes",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-san-mart-n-san-juan-midland",
+      "weekend": "2026-09-05",
+      "name": "San Mart\u00edn (San Juan) v Midland",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-san-miguel-godoy-cruz-antonio-tomba",
+      "weekend": "2026-09-05",
+      "name": "San Miguel v Godoy Cruz Antonio Tomba",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-san-telmo-los-andes",
+      "weekend": "2026-09-05",
+      "name": "San Telmo v Los Andes",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-temperley-colegiales",
+      "weekend": "2026-09-05",
+      "name": "Temperley v Colegiales",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-05-trist-n-su-rez-san-mart-n-tucum-n",
+      "weekend": "2026-09-05",
+      "name": "Trist\u00e1n Su\u00e1rez v San Mart\u00edn (Tucum\u00e1n)",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-all-boys-san-telmo",
+      "weekend": "2026-09-12",
+      "name": "All Boys v San Telmo",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-almagro-deportivo-maip",
+      "weekend": "2026-09-12",
+      "name": "Almagro v Deportivo Maip\u00fa",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-almirante-brown-ferro-carril-oeste",
+      "weekend": "2026-09-12",
+      "name": "Almirante Brown v Ferro Carril Oeste",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-atlanta-g-emes",
+      "weekend": "2026-09-12",
+      "name": "Atlanta v G\u00fcemes",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-ciudad-de-bol-var-central-norte",
+      "weekend": "2026-09-12",
+      "name": "Ciudad de Bol\u00edvar v Central Norte",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-colegiales-nueva-chicago",
+      "weekend": "2026-09-12",
+      "name": "Colegiales v Nueva Chicago",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-defensores-de-belgrano-deportivo-madryn",
+      "weekend": "2026-09-12",
+      "name": "Defensores de Belgrano v Deportivo Madryn",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-estudiantes-buenos-aires-acassuso",
+      "weekend": "2026-09-12",
+      "name": "Estudiantes (Buenos Aires) v Acassuso",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-gimnasia-y-esgrima-jujuy-atletico-rafaela",
+      "weekend": "2026-09-12",
+      "name": "Gimnasia y Esgrima (Jujuy) v Atletico Rafaela",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-gimnasia-y-tiro-salta-trist-n-su-rez",
+      "weekend": "2026-09-12",
+      "name": "Gimnasia y Tiro (Salta) v Trist\u00e1n Su\u00e1rez",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-godoy-cruz-antonio-tomba-col-n-santa-fe",
+      "weekend": "2026-09-12",
+      "name": "Godoy Cruz Antonio Tomba v Col\u00f3n (Santa Fe)",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-los-andes-san-miguel",
+      "weekend": "2026-09-12",
+      "name": "Los Andes v San Miguel",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-midland-chacarita-juniors",
+      "weekend": "2026-09-12",
+      "name": "Midland v Chacarita Juniors",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-mitre-santiago-del-estero-chaco-for-ever",
+      "weekend": "2026-09-12",
+      "name": "Mitre (Santiago del Estero) v Chaco For Ever",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-patronato-temperley",
+      "weekend": "2026-09-12",
+      "name": "Patronato v Temperley",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-quilmes-san-mart-n-san-juan",
+      "weekend": "2026-09-12",
+      "name": "Quilmes v San Mart\u00edn (San Juan)",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-racing-c-rdoba-deportivo-mor-n",
+      "weekend": "2026-09-12",
+      "name": "Racing (C\u00f3rdoba) v Deportivo Mor\u00f3n",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-12-san-mart-n-tucum-n-agropecuario",
+      "weekend": "2026-09-12",
+      "name": "San Mart\u00edn (Tucum\u00e1n) v Agropecuario",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-16-san-mart-n-san-juan-trist-n-su-rez",
+      "weekend": "2026-09-16",
+      "name": "San Mart\u00edn (San Juan) v Trist\u00e1n Su\u00e1rez",
+      "utc": "2026-09-16T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-acassuso-mitre-santiago-del-estero",
+      "weekend": "2026-09-19",
+      "name": "Acassuso v Mitre (Santiago del Estero)",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-agropecuario-gimnasia-y-tiro-salta",
+      "weekend": "2026-09-19",
+      "name": "Agropecuario v Gimnasia y Tiro (Salta)",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-atletico-rafaela-san-mart-n-tucum-n",
+      "weekend": "2026-09-19",
+      "name": "Atletico Rafaela v San Mart\u00edn (Tucum\u00e1n)",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-central-norte-defensores-de-belgrano",
+      "weekend": "2026-09-19",
+      "name": "Central Norte v Defensores de Belgrano",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-chacarita-juniors-quilmes",
+      "weekend": "2026-09-19",
+      "name": "Chacarita Juniors v Quilmes",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-chaco-for-ever-almirante-brown",
+      "weekend": "2026-09-19",
+      "name": "Chaco For Ever v Almirante Brown",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-col-n-santa-fe-los-andes",
+      "weekend": "2026-09-19",
+      "name": "Col\u00f3n (Santa Fe) v Los Andes",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-deportivo-madryn-racing-c-rdoba",
+      "weekend": "2026-09-19",
+      "name": "Deportivo Madryn v Racing (C\u00f3rdoba)",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-deportivo-maip-gimnasia-y-esgrima-jujuy",
+      "weekend": "2026-09-19",
+      "name": "Deportivo Maip\u00fa v Gimnasia y Esgrima (Jujuy)",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-deportivo-mor-n-godoy-cruz-antonio-tomba",
+      "weekend": "2026-09-19",
+      "name": "Deportivo Mor\u00f3n v Godoy Cruz Antonio Tomba",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-ferro-carril-oeste-ciudad-de-bol-var",
+      "weekend": "2026-09-19",
+      "name": "Ferro Carril Oeste v Ciudad de Bol\u00edvar",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-g-emes-midland",
+      "weekend": "2026-09-19",
+      "name": "G\u00fcemes v Midland",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-nueva-chicago-patronato",
+      "weekend": "2026-09-19",
+      "name": "Nueva Chicago v Patronato",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-san-mart-n-san-juan-colegiales",
+      "weekend": "2026-09-19",
+      "name": "San Mart\u00edn (San Juan) v Colegiales",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-san-miguel-all-boys",
+      "weekend": "2026-09-19",
+      "name": "San Miguel v All Boys",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-san-telmo-estudiantes-buenos-aires",
+      "weekend": "2026-09-19",
+      "name": "San Telmo v Estudiantes (Buenos Aires)",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-temperley-almagro",
+      "weekend": "2026-09-19",
+      "name": "Temperley v Almagro",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-19-trist-n-su-rez-atlanta",
+      "weekend": "2026-09-19",
+      "name": "Trist\u00e1n Su\u00e1rez v Atlanta",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-all-boys-col-n-santa-fe",
+      "weekend": "2026-09-26",
+      "name": "All Boys v Col\u00f3n (Santa Fe)",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-almagro-nueva-chicago",
+      "weekend": "2026-09-26",
+      "name": "Almagro v Nueva Chicago",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-almirante-brown-acassuso",
+      "weekend": "2026-09-26",
+      "name": "Almirante Brown v Acassuso",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-atlanta-agropecuario",
+      "weekend": "2026-09-26",
+      "name": "Atlanta v Agropecuario",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-ciudad-de-bol-var-chaco-for-ever",
+      "weekend": "2026-09-26",
+      "name": "Ciudad de Bol\u00edvar v Chaco For Ever",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-colegiales-chacarita-juniors",
+      "weekend": "2026-09-26",
+      "name": "Colegiales v Chacarita Juniors",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-defensores-de-belgrano-ferro-carril-oeste",
+      "weekend": "2026-09-26",
+      "name": "Defensores de Belgrano v Ferro Carril Oeste",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-deportivo-madryn-central-norte",
+      "weekend": "2026-09-26",
+      "name": "Deportivo Madryn v Central Norte",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-deportivo-maip-temperley",
+      "weekend": "2026-09-26",
+      "name": "Deportivo Maip\u00fa v Temperley",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-estudiantes-buenos-aires-san-miguel",
+      "weekend": "2026-09-26",
+      "name": "Estudiantes (Buenos Aires) v San Miguel",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-gimnasia-y-esgrima-jujuy-san-mart-n-tucum-n",
+      "weekend": "2026-09-26",
+      "name": "Gimnasia y Esgrima (Jujuy) v San Mart\u00edn (Tucum\u00e1n)",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-gimnasia-y-tiro-salta-atletico-rafaela",
+      "weekend": "2026-09-26",
+      "name": "Gimnasia y Tiro (Salta) v Atletico Rafaela",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-los-andes-deportivo-mor-n",
+      "weekend": "2026-09-26",
+      "name": "Los Andes v Deportivo Mor\u00f3n",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-midland-trist-n-su-rez",
+      "weekend": "2026-09-26",
+      "name": "Midland v Trist\u00e1n Su\u00e1rez",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-mitre-santiago-del-estero-san-telmo",
+      "weekend": "2026-09-26",
+      "name": "Mitre (Santiago del Estero) v San Telmo",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-patronato-san-mart-n-san-juan",
+      "weekend": "2026-09-26",
+      "name": "Patronato v San Mart\u00edn (San Juan)",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-quilmes-g-emes",
+      "weekend": "2026-09-26",
+      "name": "Quilmes v G\u00fcemes",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-09-26-racing-c-rdoba-godoy-cruz-antonio-tomba",
+      "weekend": "2026-09-26",
+      "name": "Racing (C\u00f3rdoba) v Godoy Cruz Antonio Tomba",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-acassuso-ciudad-de-bol-var",
+      "weekend": "2026-10-03",
+      "name": "Acassuso v Ciudad de Bol\u00edvar",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-agropecuario-midland",
+      "weekend": "2026-10-03",
+      "name": "Agropecuario v Midland",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-atletico-rafaela-atlanta",
+      "weekend": "2026-10-03",
+      "name": "Atletico Rafaela v Atlanta",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-central-norte-racing-c-rdoba",
+      "weekend": "2026-10-03",
+      "name": "Central Norte v Racing (C\u00f3rdoba)",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-chacarita-juniors-patronato",
+      "weekend": "2026-10-03",
+      "name": "Chacarita Juniors v Patronato",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-chaco-for-ever-defensores-de-belgrano",
+      "weekend": "2026-10-03",
+      "name": "Chaco For Ever v Defensores de Belgrano",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-col-n-santa-fe-estudiantes-buenos-aires",
+      "weekend": "2026-10-03",
+      "name": "Col\u00f3n (Santa Fe) v Estudiantes (Buenos Aires)",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-deportivo-mor-n-all-boys",
+      "weekend": "2026-10-03",
+      "name": "Deportivo Mor\u00f3n v All Boys",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-ferro-carril-oeste-deportivo-madryn",
+      "weekend": "2026-10-03",
+      "name": "Ferro Carril Oeste v Deportivo Madryn",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-godoy-cruz-antonio-tomba-los-andes",
+      "weekend": "2026-10-03",
+      "name": "Godoy Cruz Antonio Tomba v Los Andes",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-g-emes-colegiales",
+      "weekend": "2026-10-03",
+      "name": "G\u00fcemes v Colegiales",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-nueva-chicago-deportivo-maip",
+      "weekend": "2026-10-03",
+      "name": "Nueva Chicago v Deportivo Maip\u00fa",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-san-mart-n-san-juan-almagro",
+      "weekend": "2026-10-03",
+      "name": "San Mart\u00edn (San Juan) v Almagro",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-san-mart-n-tucum-n-gimnasia-y-tiro-salta",
+      "weekend": "2026-10-03",
+      "name": "San Mart\u00edn (Tucum\u00e1n) v Gimnasia y Tiro (Salta)",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-san-miguel-mitre-santiago-del-estero",
+      "weekend": "2026-10-03",
+      "name": "San Miguel v Mitre (Santiago del Estero)",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-san-telmo-almirante-brown",
+      "weekend": "2026-10-03",
+      "name": "San Telmo v Almirante Brown",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-temperley-gimnasia-y-esgrima-jujuy",
+      "weekend": "2026-10-03",
+      "name": "Temperley v Gimnasia y Esgrima (Jujuy)",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-03-trist-n-su-rez-quilmes",
+      "weekend": "2026-10-03",
+      "name": "Trist\u00e1n Su\u00e1rez v Quilmes",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-all-boys-godoy-cruz-antonio-tomba",
+      "weekend": "2026-10-10",
+      "name": "All Boys v Godoy Cruz Antonio Tomba",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-almagro-chacarita-juniors",
+      "weekend": "2026-10-10",
+      "name": "Almagro v Chacarita Juniors",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-almirante-brown-san-miguel",
+      "weekend": "2026-10-10",
+      "name": "Almirante Brown v San Miguel",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-atlanta-san-mart-n-tucum-n",
+      "weekend": "2026-10-10",
+      "name": "Atlanta v San Mart\u00edn (Tucum\u00e1n)",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-central-norte-ferro-carril-oeste",
+      "weekend": "2026-10-10",
+      "name": "Central Norte v Ferro Carril Oeste",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-ciudad-de-bol-var-san-telmo",
+      "weekend": "2026-10-10",
+      "name": "Ciudad de Bol\u00edvar v San Telmo",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-colegiales-trist-n-su-rez",
+      "weekend": "2026-10-10",
+      "name": "Colegiales v Trist\u00e1n Su\u00e1rez",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-defensores-de-belgrano-acassuso",
+      "weekend": "2026-10-10",
+      "name": "Defensores de Belgrano v Acassuso",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-deportivo-madryn-chaco-for-ever",
+      "weekend": "2026-10-10",
+      "name": "Deportivo Madryn v Chaco For Ever",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-deportivo-maip-san-mart-n-san-juan",
+      "weekend": "2026-10-10",
+      "name": "Deportivo Maip\u00fa v San Mart\u00edn (San Juan)",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-estudiantes-buenos-aires-deportivo-mor-n",
+      "weekend": "2026-10-10",
+      "name": "Estudiantes (Buenos Aires) v Deportivo Mor\u00f3n",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-gimnasia-y-esgrima-jujuy-gimnasia-y-tiro-salta",
+      "weekend": "2026-10-10",
+      "name": "Gimnasia y Esgrima (Jujuy) v Gimnasia y Tiro (Salta)",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-midland-atletico-rafaela",
+      "weekend": "2026-10-10",
+      "name": "Midland v Atletico Rafaela",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-mitre-santiago-del-estero-col-n-santa-fe",
+      "weekend": "2026-10-10",
+      "name": "Mitre (Santiago del Estero) v Col\u00f3n (Santa Fe)",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-patronato-g-emes",
+      "weekend": "2026-10-10",
+      "name": "Patronato v G\u00fcemes",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-quilmes-agropecuario",
+      "weekend": "2026-10-10",
+      "name": "Quilmes v Agropecuario",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-racing-c-rdoba-los-andes",
+      "weekend": "2026-10-10",
+      "name": "Racing (C\u00f3rdoba) v Los Andes",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-10-temperley-nueva-chicago",
+      "weekend": "2026-10-10",
+      "name": "Temperley v Nueva Chicago",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-acassuso-deportivo-madryn",
+      "weekend": "2026-10-17",
+      "name": "Acassuso v Deportivo Madryn",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-agropecuario-colegiales",
+      "weekend": "2026-10-17",
+      "name": "Agropecuario v Colegiales",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-atletico-rafaela-quilmes",
+      "weekend": "2026-10-17",
+      "name": "Atletico Rafaela v Quilmes",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-chacarita-juniors-deportivo-maip",
+      "weekend": "2026-10-17",
+      "name": "Chacarita Juniors v Deportivo Maip\u00fa",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-chaco-for-ever-central-norte",
+      "weekend": "2026-10-17",
+      "name": "Chaco For Ever v Central Norte",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-col-n-santa-fe-almirante-brown",
+      "weekend": "2026-10-17",
+      "name": "Col\u00f3n (Santa Fe) v Almirante Brown",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-deportivo-mor-n-mitre-santiago-del-estero",
+      "weekend": "2026-10-17",
+      "name": "Deportivo Mor\u00f3n v Mitre (Santiago del Estero)",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-ferro-carril-oeste-racing-c-rdoba",
+      "weekend": "2026-10-17",
+      "name": "Ferro Carril Oeste v Racing (C\u00f3rdoba)",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-gimnasia-y-tiro-salta-atlanta",
+      "weekend": "2026-10-17",
+      "name": "Gimnasia y Tiro (Salta) v Atlanta",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-godoy-cruz-antonio-tomba-estudiantes-buenos-aires",
+      "weekend": "2026-10-17",
+      "name": "Godoy Cruz Antonio Tomba v Estudiantes (Buenos Aires)",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-g-emes-almagro",
+      "weekend": "2026-10-17",
+      "name": "G\u00fcemes v Almagro",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-los-andes-all-boys",
+      "weekend": "2026-10-17",
+      "name": "Los Andes v All Boys",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-nueva-chicago-gimnasia-y-esgrima-jujuy",
+      "weekend": "2026-10-17",
+      "name": "Nueva Chicago v Gimnasia y Esgrima (Jujuy)",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-san-mart-n-san-juan-temperley",
+      "weekend": "2026-10-17",
+      "name": "San Mart\u00edn (San Juan) v Temperley",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-san-mart-n-tucum-n-midland",
+      "weekend": "2026-10-17",
+      "name": "San Mart\u00edn (Tucum\u00e1n) v Midland",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-san-miguel-ciudad-de-bol-var",
+      "weekend": "2026-10-17",
+      "name": "San Miguel v Ciudad de Bol\u00edvar",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-san-telmo-defensores-de-belgrano",
+      "weekend": "2026-10-17",
+      "name": "San Telmo v Defensores de Belgrano",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-17-trist-n-su-rez-patronato",
+      "weekend": "2026-10-17",
+      "name": "Trist\u00e1n Su\u00e1rez v Patronato",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-almagro-trist-n-su-rez",
+      "weekend": "2026-10-24",
+      "name": "Almagro v Trist\u00e1n Su\u00e1rez",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-almirante-brown-deportivo-mor-n",
+      "weekend": "2026-10-24",
+      "name": "Almirante Brown v Deportivo Mor\u00f3n",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-central-norte-acassuso",
+      "weekend": "2026-10-24",
+      "name": "Central Norte v Acassuso",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-ciudad-de-bol-var-col-n-santa-fe",
+      "weekend": "2026-10-24",
+      "name": "Ciudad de Bol\u00edvar v Col\u00f3n (Santa Fe)",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-colegiales-atletico-rafaela",
+      "weekend": "2026-10-24",
+      "name": "Colegiales v Atletico Rafaela",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-defensores-de-belgrano-san-miguel",
+      "weekend": "2026-10-24",
+      "name": "Defensores de Belgrano v San Miguel",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-deportivo-madryn-san-telmo",
+      "weekend": "2026-10-24",
+      "name": "Deportivo Madryn v San Telmo",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-deportivo-maip-g-emes",
+      "weekend": "2026-10-24",
+      "name": "Deportivo Maip\u00fa v G\u00fcemes",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-estudiantes-buenos-aires-los-andes",
+      "weekend": "2026-10-24",
+      "name": "Estudiantes (Buenos Aires) v Los Andes",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-ferro-carril-oeste-chaco-for-ever",
+      "weekend": "2026-10-24",
+      "name": "Ferro Carril Oeste v Chaco For Ever",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-gimnasia-y-esgrima-jujuy-atlanta",
+      "weekend": "2026-10-24",
+      "name": "Gimnasia y Esgrima (Jujuy) v Atlanta",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-midland-gimnasia-y-tiro-salta",
+      "weekend": "2026-10-24",
+      "name": "Midland v Gimnasia y Tiro (Salta)",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-mitre-santiago-del-estero-godoy-cruz-antonio-tomba",
+      "weekend": "2026-10-24",
+      "name": "Mitre (Santiago del Estero) v Godoy Cruz Antonio Tomba",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-nueva-chicago-san-mart-n-san-juan",
+      "weekend": "2026-10-24",
+      "name": "Nueva Chicago v San Mart\u00edn (San Juan)",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-patronato-agropecuario",
+      "weekend": "2026-10-24",
+      "name": "Patronato v Agropecuario",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-quilmes-san-mart-n-tucum-n",
+      "weekend": "2026-10-24",
+      "name": "Quilmes v San Mart\u00edn (Tucum\u00e1n)",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-racing-c-rdoba-all-boys",
+      "weekend": "2026-10-24",
+      "name": "Racing (C\u00f3rdoba) v All Boys",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-24-temperley-chacarita-juniors",
+      "weekend": "2026-10-24",
+      "name": "Temperley v Chacarita Juniors",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-acassuso-ferro-carril-oeste",
+      "weekend": "2026-10-31",
+      "name": "Acassuso v Ferro Carril Oeste",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-agropecuario-almagro",
+      "weekend": "2026-10-31",
+      "name": "Agropecuario v Almagro",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-all-boys-estudiantes-buenos-aires",
+      "weekend": "2026-10-31",
+      "name": "All Boys v Estudiantes (Buenos Aires)",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-atlanta-midland",
+      "weekend": "2026-10-31",
+      "name": "Atlanta v Midland",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-atletico-rafaela-patronato",
+      "weekend": "2026-10-31",
+      "name": "Atletico Rafaela v Patronato",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-chacarita-juniors-nueva-chicago",
+      "weekend": "2026-10-31",
+      "name": "Chacarita Juniors v Nueva Chicago",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-chaco-for-ever-racing-c-rdoba",
+      "weekend": "2026-10-31",
+      "name": "Chaco For Ever v Racing (C\u00f3rdoba)",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-col-n-santa-fe-defensores-de-belgrano",
+      "weekend": "2026-10-31",
+      "name": "Col\u00f3n (Santa Fe) v Defensores de Belgrano",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-deportivo-mor-n-ciudad-de-bol-var",
+      "weekend": "2026-10-31",
+      "name": "Deportivo Mor\u00f3n v Ciudad de Bol\u00edvar",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-gimnasia-y-tiro-salta-quilmes",
+      "weekend": "2026-10-31",
+      "name": "Gimnasia y Tiro (Salta) v Quilmes",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-godoy-cruz-antonio-tomba-almirante-brown",
+      "weekend": "2026-10-31",
+      "name": "Godoy Cruz Antonio Tomba v Almirante Brown",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-g-emes-temperley",
+      "weekend": "2026-10-31",
+      "name": "G\u00fcemes v Temperley",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-los-andes-mitre-santiago-del-estero",
+      "weekend": "2026-10-31",
+      "name": "Los Andes v Mitre (Santiago del Estero)",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-san-mart-n-san-juan-gimnasia-y-esgrima-jujuy",
+      "weekend": "2026-10-31",
+      "name": "San Mart\u00edn (San Juan) v Gimnasia y Esgrima (Jujuy)",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-san-mart-n-tucum-n-colegiales",
+      "weekend": "2026-10-31",
+      "name": "San Mart\u00edn (Tucum\u00e1n) v Colegiales",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-san-miguel-deportivo-madryn",
+      "weekend": "2026-10-31",
+      "name": "San Miguel v Deportivo Madryn",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-san-telmo-central-norte",
+      "weekend": "2026-10-31",
+      "name": "San Telmo v Central Norte",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "arg.2-2026-10-31-trist-n-su-rez-deportivo-maip",
+      "weekend": "2026-10-31",
+      "name": "Trist\u00e1n Su\u00e1rez v Deportivo Maip\u00fa",
+      "utc": "2026-10-31T18:00:00Z"
+    }
+  ]
+}
