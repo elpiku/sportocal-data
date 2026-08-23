@@ -1,0 +1,775 @@
+{
+  "sportKey": "soccer-afc.champions",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "afc.champions-2026-09-14-neftchi-fergana-air-force-club",
+      "weekend": "2026-09-14",
+      "name": "Neftchi Fergana v Air Force Club",
+      "utc": "2026-09-14T13:45:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-14-al-shamal-al-ittihad",
+      "weekend": "2026-09-14",
+      "name": "Al Shamal v Al Ittihad",
+      "utc": "2026-09-14T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-14-shabab-al-ahli-traktor-sazi-fc",
+      "weekend": "2026-09-14",
+      "name": "Shabab Al-Ahli v Traktor Sazi FC",
+      "utc": "2026-09-14T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-14-esteghlal-al-sadd",
+      "weekend": "2026-09-14",
+      "name": "Esteghlal v Al Sadd",
+      "utc": "2026-09-14T18:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-14-al-ahli-pakhtakor-tashkent",
+      "weekend": "2026-09-14",
+      "name": "Al Ahli v Pakhtakor Tashkent",
+      "utc": "2026-09-14T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-14-al-qadsiah-al-wasl",
+      "weekend": "2026-09-14",
+      "name": "Al Qadsiah v Al Wasl",
+      "utc": "2026-09-14T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-15-daejeon-hana-citizen-kyoto-sanga",
+      "weekend": "2026-09-15",
+      "name": "Daejeon Hana Citizen v Kyoto Sanga",
+      "utc": "2026-09-15T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-15-gamba-osaka-cong-an-hanoi",
+      "weekend": "2026-09-15",
+      "name": "Gamba Osaka v Cong An Hanoi",
+      "utc": "2026-09-15T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-15-kashima-antlers-newcastle-jets",
+      "weekend": "2026-09-15",
+      "name": "Kashima Antlers v Newcastle Jets",
+      "utc": "2026-09-15T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-15-ratchaburi-fc-shanghai-port",
+      "weekend": "2026-09-15",
+      "name": "Ratchaburi FC v Shanghai Port",
+      "utc": "2026-09-15T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-15-beijing-guoan-pohang-steelers",
+      "weekend": "2026-09-15",
+      "name": "Beijing Guoan v Pohang Steelers",
+      "utc": "2026-09-15T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-15-johor-darul-ta-zim-buriram-united",
+      "weekend": "2026-09-15",
+      "name": "Johor Darul Ta'zim v Buriram United",
+      "utc": "2026-09-15T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-15-al-ain-al-nassr",
+      "weekend": "2026-09-15",
+      "name": "Al Ain v Al Nassr",
+      "utc": "2026-09-15T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-15-al-hilal-al-gharafa",
+      "weekend": "2026-09-15",
+      "name": "Al Hilal v Al Gharafa",
+      "utc": "2026-09-15T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-16-jeonbuk-motors-kashiwa-reysol",
+      "weekend": "2026-09-16",
+      "name": "Jeonbuk Motors v Kashiwa Reysol",
+      "utc": "2026-09-16T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-09-16-port-fc-vissel-kobe",
+      "weekend": "2026-09-16",
+      "name": "Port FC v Vissel Kobe",
+      "utc": "2026-09-16T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-12-pakhtakor-tashkent-al-qadsiah",
+      "weekend": "2026-10-12",
+      "name": "Pakhtakor Tashkent v Al Qadsiah",
+      "utc": "2026-10-12T13:45:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-12-al-wasl-al-ahli",
+      "weekend": "2026-10-12",
+      "name": "Al Wasl v Al Ahli",
+      "utc": "2026-10-12T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-12-traktor-sazi-fc-al-shamal",
+      "weekend": "2026-10-12",
+      "name": "Traktor Sazi FC v Al Shamal",
+      "utc": "2026-10-12T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-12-air-force-club-al-ain",
+      "weekend": "2026-10-12",
+      "name": "Air Force Club v Al Ain",
+      "utc": "2026-10-12T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-12-al-gharafa-esteghlal",
+      "weekend": "2026-10-12",
+      "name": "Al Gharafa v Esteghlal",
+      "utc": "2026-10-12T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-12-al-nassr-neftchi-fergana",
+      "weekend": "2026-10-12",
+      "name": "Al Nassr v Neftchi Fergana",
+      "utc": "2026-10-12T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-13-newcastle-jets-gamba-osaka",
+      "weekend": "2026-10-13",
+      "name": "Newcastle Jets v Gamba Osaka",
+      "utc": "2026-10-13T07:45:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-13-kyoto-sanga-ratchaburi-fc",
+      "weekend": "2026-10-13",
+      "name": "Kyoto Sanga v Ratchaburi FC",
+      "utc": "2026-10-13T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-13-pohang-steelers-johor-darul-ta-zim",
+      "weekend": "2026-10-13",
+      "name": "Pohang Steelers v Johor Darul Ta'zim",
+      "utc": "2026-10-13T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-13-shanghai-port-daejeon-hana-citizen",
+      "weekend": "2026-10-13",
+      "name": "Shanghai Port v Daejeon Hana Citizen",
+      "utc": "2026-10-13T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-13-buriram-united-beijing-guoan",
+      "weekend": "2026-10-13",
+      "name": "Buriram United v Beijing Guoan",
+      "utc": "2026-10-13T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-13-cong-an-hanoi-kashima-antlers",
+      "weekend": "2026-10-13",
+      "name": "Cong An Hanoi v Kashima Antlers",
+      "utc": "2026-10-13T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-13-al-sadd-al-hilal",
+      "weekend": "2026-10-13",
+      "name": "Al Sadd v Al Hilal",
+      "utc": "2026-10-13T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-13-al-ittihad-shabab-al-ahli",
+      "weekend": "2026-10-13",
+      "name": "Al Ittihad v Shabab Al-Ahli",
+      "utc": "2026-10-13T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-14-kashiwa-reysol-port-fc",
+      "weekend": "2026-10-14",
+      "name": "Kashiwa Reysol v Port FC",
+      "utc": "2026-10-14T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-14-vissel-kobe-jeonbuk-motors",
+      "weekend": "2026-10-14",
+      "name": "Vissel Kobe v Jeonbuk Motors",
+      "utc": "2026-10-14T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-26-neftchi-fergana-al-ittihad",
+      "weekend": "2026-10-26",
+      "name": "Neftchi Fergana v Al Ittihad",
+      "utc": "2026-10-26T13:45:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-26-al-ahli-al-gharafa",
+      "weekend": "2026-10-26",
+      "name": "Al Ahli v Al Gharafa",
+      "utc": "2026-10-26T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-26-al-ain-traktor-sazi-fc",
+      "weekend": "2026-10-26",
+      "name": "Al Ain v Traktor Sazi FC",
+      "utc": "2026-10-26T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-26-air-force-club-pakhtakor-tashkent",
+      "weekend": "2026-10-26",
+      "name": "Air Force Club v Pakhtakor Tashkent",
+      "utc": "2026-10-26T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-26-al-nassr-al-wasl",
+      "weekend": "2026-10-26",
+      "name": "Al Nassr v Al Wasl",
+      "utc": "2026-10-26T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-26-al-qadsiah-al-sadd",
+      "weekend": "2026-10-26",
+      "name": "Al Qadsiah v Al Sadd",
+      "utc": "2026-10-26T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-27-daejeon-hana-citizen-vissel-kobe",
+      "weekend": "2026-10-27",
+      "name": "Daejeon Hana Citizen v Vissel Kobe",
+      "utc": "2026-10-27T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-27-johor-darul-ta-zim-port-fc",
+      "weekend": "2026-10-27",
+      "name": "Johor Darul Ta'zim v Port FC",
+      "utc": "2026-10-27T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-27-kyoto-sanga-newcastle-jets",
+      "weekend": "2026-10-27",
+      "name": "Kyoto Sanga v Newcastle Jets",
+      "utc": "2026-10-27T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-27-shanghai-port-cong-an-hanoi",
+      "weekend": "2026-10-27",
+      "name": "Shanghai Port v Cong An Hanoi",
+      "utc": "2026-10-27T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-27-beijing-guoan-jeonbuk-motors",
+      "weekend": "2026-10-27",
+      "name": "Beijing Guoan v Jeonbuk Motors",
+      "utc": "2026-10-27T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-27-ratchaburi-fc-kashiwa-reysol",
+      "weekend": "2026-10-27",
+      "name": "Ratchaburi FC v Kashiwa Reysol",
+      "utc": "2026-10-27T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-27-shabab-al-ahli-esteghlal",
+      "weekend": "2026-10-27",
+      "name": "Shabab Al-Ahli v Esteghlal",
+      "utc": "2026-10-27T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-27-al-shamal-al-hilal",
+      "weekend": "2026-10-27",
+      "name": "Al Shamal v Al Hilal",
+      "utc": "2026-10-27T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-28-gamba-osaka-buriram-united",
+      "weekend": "2026-10-28",
+      "name": "Gamba Osaka v Buriram United",
+      "utc": "2026-10-28T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-10-28-kashima-antlers-pohang-steelers",
+      "weekend": "2026-10-28",
+      "name": "Kashima Antlers v Pohang Steelers",
+      "utc": "2026-10-28T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-02-pakhtakor-tashkent-al-nassr",
+      "weekend": "2026-11-02",
+      "name": "Pakhtakor Tashkent v Al Nassr",
+      "utc": "2026-11-02T13:45:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-02-al-sadd-al-ahli",
+      "weekend": "2026-11-02",
+      "name": "Al Sadd v Al Ahli",
+      "utc": "2026-11-02T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-02-al-wasl-air-force-club",
+      "weekend": "2026-11-02",
+      "name": "Al Wasl v Air Force Club",
+      "utc": "2026-11-02T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-02-traktor-sazi-fc-neftchi-fergana",
+      "weekend": "2026-11-02",
+      "name": "Traktor Sazi FC v Neftchi Fergana",
+      "utc": "2026-11-02T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-02-al-gharafa-al-qadsiah",
+      "weekend": "2026-11-02",
+      "name": "Al Gharafa v Al Qadsiah",
+      "utc": "2026-11-02T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-02-al-ittihad-al-ain",
+      "weekend": "2026-11-02",
+      "name": "Al Ittihad v Al Ain",
+      "utc": "2026-11-02T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-03-newcastle-jets-shanghai-port",
+      "weekend": "2026-11-03",
+      "name": "Newcastle Jets v Shanghai Port",
+      "utc": "2026-11-03T07:45:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-03-jeonbuk-motors-johor-darul-ta-zim",
+      "weekend": "2026-11-03",
+      "name": "Jeonbuk Motors v Johor Darul Ta'zim",
+      "utc": "2026-11-03T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-03-kashiwa-reysol-daejeon-hana-citizen",
+      "weekend": "2026-11-03",
+      "name": "Kashiwa Reysol v Daejeon Hana Citizen",
+      "utc": "2026-11-03T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-03-vissel-kobe-ratchaburi-fc",
+      "weekend": "2026-11-03",
+      "name": "Vissel Kobe v Ratchaburi FC",
+      "utc": "2026-11-03T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-03-cong-an-hanoi-kyoto-sanga",
+      "weekend": "2026-11-03",
+      "name": "Cong An Hanoi v Kyoto Sanga",
+      "utc": "2026-11-03T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-03-port-fc-beijing-guoan",
+      "weekend": "2026-11-03",
+      "name": "Port FC v Beijing Guoan",
+      "utc": "2026-11-03T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-03-al-hilal-shabab-al-ahli",
+      "weekend": "2026-11-03",
+      "name": "Al Hilal v Shabab Al-Ahli",
+      "utc": "2026-11-03T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-03-esteghlal-al-shamal",
+      "weekend": "2026-11-03",
+      "name": "Esteghlal v Al Shamal",
+      "utc": "2026-11-03T20:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-04-pohang-steelers-gamba-osaka",
+      "weekend": "2026-11-04",
+      "name": "Pohang Steelers v Gamba Osaka",
+      "utc": "2026-11-04T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-04-buriram-united-kashima-antlers",
+      "weekend": "2026-11-04",
+      "name": "Buriram United v Kashima Antlers",
+      "utc": "2026-11-04T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-23-neftchi-fergana-al-hilal",
+      "weekend": "2026-11-23",
+      "name": "Neftchi Fergana v Al Hilal",
+      "utc": "2026-11-23T13:45:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-23-al-ain-esteghlal",
+      "weekend": "2026-11-23",
+      "name": "Al Ain v Esteghlal",
+      "utc": "2026-11-23T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-23-al-shamal-al-ahli",
+      "weekend": "2026-11-23",
+      "name": "Al Shamal v Al Ahli",
+      "utc": "2026-11-23T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-23-traktor-sazi-fc-al-wasl",
+      "weekend": "2026-11-23",
+      "name": "Traktor Sazi FC v Al Wasl",
+      "utc": "2026-11-23T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-23-air-force-club-al-gharafa",
+      "weekend": "2026-11-23",
+      "name": "Air Force Club v Al Gharafa",
+      "utc": "2026-11-23T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-23-al-ittihad-pakhtakor-tashkent",
+      "weekend": "2026-11-23",
+      "name": "Al Ittihad v Pakhtakor Tashkent",
+      "utc": "2026-11-23T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-24-newcastle-jets-kashiwa-reysol",
+      "weekend": "2026-11-24",
+      "name": "Newcastle Jets v Kashiwa Reysol",
+      "utc": "2026-11-24T07:45:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-24-daejeon-hana-citizen-beijing-guoan",
+      "weekend": "2026-11-24",
+      "name": "Daejeon Hana Citizen v Beijing Guoan",
+      "utc": "2026-11-24T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-24-kyoto-sanga-pohang-steelers",
+      "weekend": "2026-11-24",
+      "name": "Kyoto Sanga v Pohang Steelers",
+      "utc": "2026-11-24T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-24-cong-an-hanoi-vissel-kobe",
+      "weekend": "2026-11-24",
+      "name": "Cong An Hanoi v Vissel Kobe",
+      "utc": "2026-11-24T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-24-ratchaburi-fc-johor-darul-ta-zim",
+      "weekend": "2026-11-24",
+      "name": "Ratchaburi FC v Johor Darul Ta'zim",
+      "utc": "2026-11-24T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-24-shanghai-port-buriram-united",
+      "weekend": "2026-11-24",
+      "name": "Shanghai Port v Buriram United",
+      "utc": "2026-11-24T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-24-shabab-al-ahli-al-qadsiah",
+      "weekend": "2026-11-24",
+      "name": "Shabab Al-Ahli v Al Qadsiah",
+      "utc": "2026-11-24T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-24-al-nassr-al-sadd",
+      "weekend": "2026-11-24",
+      "name": "Al Nassr v Al Sadd",
+      "utc": "2026-11-24T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-25-gamba-osaka-port-fc",
+      "weekend": "2026-11-25",
+      "name": "Gamba Osaka v Port FC",
+      "utc": "2026-11-25T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-11-25-kashima-antlers-jeonbuk-motors",
+      "weekend": "2026-11-25",
+      "name": "Kashima Antlers v Jeonbuk Motors",
+      "utc": "2026-11-25T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-01-kashiwa-reysol-cong-an-hanoi",
+      "weekend": "2026-12-01",
+      "name": "Kashiwa Reysol v Cong An Hanoi",
+      "utc": "2026-12-01T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-01-pohang-steelers-shanghai-port",
+      "weekend": "2026-12-01",
+      "name": "Pohang Steelers v Shanghai Port",
+      "utc": "2026-12-01T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-01-vissel-kobe-newcastle-jets",
+      "weekend": "2026-12-01",
+      "name": "Vissel Kobe v Newcastle Jets",
+      "utc": "2026-12-01T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-01-beijing-guoan-ratchaburi-fc",
+      "weekend": "2026-12-01",
+      "name": "Beijing Guoan v Ratchaburi FC",
+      "utc": "2026-12-01T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-01-buriram-united-kyoto-sanga",
+      "weekend": "2026-12-01",
+      "name": "Buriram United v Kyoto Sanga",
+      "utc": "2026-12-01T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-01-johor-darul-ta-zim-daejeon-hana-citizen",
+      "weekend": "2026-12-01",
+      "name": "Johor Darul Ta'zim v Daejeon Hana Citizen",
+      "utc": "2026-12-01T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-02-jeonbuk-motors-gamba-osaka",
+      "weekend": "2026-12-02",
+      "name": "Jeonbuk Motors v Gamba Osaka",
+      "utc": "2026-12-02T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-02-port-fc-kashima-antlers",
+      "weekend": "2026-12-02",
+      "name": "Port FC v Kashima Antlers",
+      "utc": "2026-12-02T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-07-pakhtakor-tashkent-traktor-sazi-fc",
+      "weekend": "2026-12-07",
+      "name": "Pakhtakor Tashkent v Traktor Sazi FC",
+      "utc": "2026-12-07T13:45:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-07-al-qadsiah-al-shamal",
+      "weekend": "2026-12-07",
+      "name": "Al Qadsiah v Al Shamal",
+      "utc": "2026-12-07T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-07-al-wasl-al-ittihad",
+      "weekend": "2026-12-07",
+      "name": "Al Wasl v Al Ittihad",
+      "utc": "2026-12-07T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-07-al-hilal-al-ain",
+      "weekend": "2026-12-07",
+      "name": "Al Hilal v Al Ain",
+      "utc": "2026-12-07T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-07-al-sadd-air-force-club",
+      "weekend": "2026-12-07",
+      "name": "Al Sadd v Air Force Club",
+      "utc": "2026-12-07T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-07-esteghlal-neftchi-fergana",
+      "weekend": "2026-12-07",
+      "name": "Esteghlal v Neftchi Fergana",
+      "utc": "2026-12-07T20:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-08-al-gharafa-al-nassr",
+      "weekend": "2026-12-08",
+      "name": "Al Gharafa v Al Nassr",
+      "utc": "2026-12-08T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2026-12-08-al-ahli-shabab-al-ahli",
+      "weekend": "2026-12-08",
+      "name": "Al Ahli v Shabab Al-Ahli",
+      "utc": "2026-12-08T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-08-pakhtakor-tashkent-esteghlal",
+      "weekend": "2027-02-08",
+      "name": "Pakhtakor Tashkent v Esteghlal",
+      "utc": "2027-02-08T13:45:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-08-al-ain-al-qadsiah",
+      "weekend": "2027-02-08",
+      "name": "Al Ain v Al Qadsiah",
+      "utc": "2027-02-08T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-08-traktor-sazi-fc-al-sadd",
+      "weekend": "2027-02-08",
+      "name": "Traktor Sazi FC v Al Sadd",
+      "utc": "2027-02-08T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-08-air-force-club-shabab-al-ahli",
+      "weekend": "2027-02-08",
+      "name": "Air Force Club v Shabab Al-Ahli",
+      "utc": "2027-02-08T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-08-al-ittihad-al-gharafa",
+      "weekend": "2027-02-08",
+      "name": "Al Ittihad v Al Gharafa",
+      "utc": "2027-02-08T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-08-al-nassr-al-shamal",
+      "weekend": "2027-02-08",
+      "name": "Al Nassr v Al Shamal",
+      "utc": "2027-02-08T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-09-newcastle-jets-johor-darul-ta-zim",
+      "weekend": "2027-02-09",
+      "name": "Newcastle Jets v Johor Darul Ta'zim",
+      "utc": "2027-02-09T07:45:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-09-daejeon-hana-citizen-kashima-antlers",
+      "weekend": "2027-02-09",
+      "name": "Daejeon Hana Citizen v Kashima Antlers",
+      "utc": "2027-02-09T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-09-kyoto-sanga-jeonbuk-motors",
+      "weekend": "2027-02-09",
+      "name": "Kyoto Sanga v Jeonbuk Motors",
+      "utc": "2027-02-09T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-09-shanghai-port-port-fc",
+      "weekend": "2027-02-09",
+      "name": "Shanghai Port v Port FC",
+      "utc": "2027-02-09T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-09-cong-an-hanoi-beijing-guoan",
+      "weekend": "2027-02-09",
+      "name": "Cong An Hanoi v Beijing Guoan",
+      "utc": "2027-02-09T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-09-ratchaburi-fc-gamba-osaka",
+      "weekend": "2027-02-09",
+      "name": "Ratchaburi FC v Gamba Osaka",
+      "utc": "2027-02-09T12:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-09-neftchi-fergana-al-ahli",
+      "weekend": "2027-02-09",
+      "name": "Neftchi Fergana v Al Ahli",
+      "utc": "2027-02-09T13:45:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-09-al-wasl-al-hilal",
+      "weekend": "2027-02-09",
+      "name": "Al Wasl v Al Hilal",
+      "utc": "2027-02-09T16:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-10-kashiwa-reysol-buriram-united",
+      "weekend": "2027-02-10",
+      "name": "Kashiwa Reysol v Buriram United",
+      "utc": "2027-02-10T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-10-vissel-kobe-pohang-steelers",
+      "weekend": "2027-02-10",
+      "name": "Vissel Kobe v Pohang Steelers",
+      "utc": "2027-02-10T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-15-al-ahli-al-ain",
+      "weekend": "2027-02-15",
+      "name": "Al Ahli v Al Ain",
+      "utc": "2027-02-15T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-15-al-gharafa-traktor-sazi-fc",
+      "weekend": "2027-02-15",
+      "name": "Al Gharafa v Traktor Sazi FC",
+      "utc": "2027-02-15T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-15-al-hilal-pakhtakor-tashkent",
+      "weekend": "2027-02-15",
+      "name": "Al Hilal v Pakhtakor Tashkent",
+      "utc": "2027-02-15T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-15-al-qadsiah-neftchi-fergana",
+      "weekend": "2027-02-15",
+      "name": "Al Qadsiah v Neftchi Fergana",
+      "utc": "2027-02-15T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-15-al-sadd-al-ittihad",
+      "weekend": "2027-02-15",
+      "name": "Al Sadd v Al Ittihad",
+      "utc": "2027-02-15T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-15-al-shamal-air-force-club",
+      "weekend": "2027-02-15",
+      "name": "Al Shamal v Air Force Club",
+      "utc": "2027-02-15T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-15-shabab-al-ahli-al-nassr",
+      "weekend": "2027-02-15",
+      "name": "Shabab Al-Ahli v Al Nassr",
+      "utc": "2027-02-15T18:15:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-15-esteghlal-al-wasl",
+      "weekend": "2027-02-15",
+      "name": "Esteghlal v Al Wasl",
+      "utc": "2027-02-15T20:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-16-beijing-guoan-newcastle-jets",
+      "weekend": "2027-02-16",
+      "name": "Beijing Guoan v Newcastle Jets",
+      "utc": "2027-02-16T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-16-buriram-united-vissel-kobe",
+      "weekend": "2027-02-16",
+      "name": "Buriram United v Vissel Kobe",
+      "utc": "2027-02-16T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-16-gamba-osaka-daejeon-hana-citizen",
+      "weekend": "2027-02-16",
+      "name": "Gamba Osaka v Daejeon Hana Citizen",
+      "utc": "2027-02-16T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-16-jeonbuk-motors-shanghai-port",
+      "weekend": "2027-02-16",
+      "name": "Jeonbuk Motors v Shanghai Port",
+      "utc": "2027-02-16T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-16-johor-darul-ta-zim-cong-an-hanoi",
+      "weekend": "2027-02-16",
+      "name": "Johor Darul Ta'zim v Cong An Hanoi",
+      "utc": "2027-02-16T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-16-kashima-antlers-ratchaburi-fc",
+      "weekend": "2027-02-16",
+      "name": "Kashima Antlers v Ratchaburi FC",
+      "utc": "2027-02-16T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-16-pohang-steelers-kashiwa-reysol",
+      "weekend": "2027-02-16",
+      "name": "Pohang Steelers v Kashiwa Reysol",
+      "utc": "2027-02-16T10:00:00Z"
+    },
+    {
+      "id": "afc.champions-2027-02-16-port-fc-kyoto-sanga",
+      "weekend": "2027-02-16",
+      "name": "Port FC v Kyoto Sanga",
+      "utc": "2027-02-16T10:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,943 @@
+{
+  "sportKey": "soccer-aus.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "aus.1-2026-10-16-sydney-fc-western-sydney-wanderers",
+      "weekend": "2026-10-16",
+      "name": "Sydney FC v Western Sydney Wanderers",
+      "utc": "2026-10-16T09:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-17-auckland-fc-melbourne-city-fc",
+      "weekend": "2026-10-17",
+      "name": "Auckland FC v Melbourne City FC",
+      "utc": "2026-10-17T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-17-macarthur-fc-perth-glory",
+      "weekend": "2026-10-17",
+      "name": "Macarthur FC v Perth Glory",
+      "utc": "2026-10-17T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-17-central-coast-mariners-newcastle-jets",
+      "weekend": "2026-10-17",
+      "name": "Central Coast Mariners v Newcastle Jets",
+      "utc": "2026-10-17T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-18-wellington-phoenix-fc-melbourne-victory",
+      "weekend": "2026-10-18",
+      "name": "Wellington Phoenix FC v Melbourne Victory",
+      "utc": "2026-10-18T02:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-18-adelaide-united-brisbane-roar",
+      "weekend": "2026-10-18",
+      "name": "Adelaide United v Brisbane Roar",
+      "utc": "2026-10-18T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-23-brisbane-roar-perth-glory",
+      "weekend": "2026-10-23",
+      "name": "Brisbane Roar v Perth Glory",
+      "utc": "2026-10-23T09:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-24-newcastle-jets-macarthur-fc",
+      "weekend": "2026-10-24",
+      "name": "Newcastle Jets v Macarthur FC",
+      "utc": "2026-10-24T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-24-western-sydney-wanderers-auckland-fc",
+      "weekend": "2026-10-24",
+      "name": "Western Sydney Wanderers v Auckland FC",
+      "utc": "2026-10-24T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-24-melbourne-victory-melbourne-city-fc",
+      "weekend": "2026-10-24",
+      "name": "Melbourne Victory v Melbourne City FC",
+      "utc": "2026-10-24T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-25-wellington-phoenix-fc-central-coast-mariners",
+      "weekend": "2026-10-25",
+      "name": "Wellington Phoenix FC v Central Coast Mariners",
+      "utc": "2026-10-25T02:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-25-sydney-fc-adelaide-united",
+      "weekend": "2026-10-25",
+      "name": "Sydney FC v Adelaide United",
+      "utc": "2026-10-25T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-30-brisbane-roar-auckland-fc",
+      "weekend": "2026-10-30",
+      "name": "Brisbane Roar v Auckland FC",
+      "utc": "2026-10-30T09:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-31-newcastle-jets-wellington-phoenix-fc",
+      "weekend": "2026-10-31",
+      "name": "Newcastle Jets v Wellington Phoenix FC",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-31-melbourne-city-fc-sydney-fc",
+      "weekend": "2026-10-31",
+      "name": "Melbourne City FC v Sydney FC",
+      "utc": "2026-10-31T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-10-31-macarthur-fc-western-sydney-wanderers",
+      "weekend": "2026-10-31",
+      "name": "Macarthur FC v Western Sydney Wanderers",
+      "utc": "2026-10-31T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-01-melbourne-victory-central-coast-mariners",
+      "weekend": "2026-11-01",
+      "name": "Melbourne Victory v Central Coast Mariners",
+      "utc": "2026-11-01T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-01-perth-glory-adelaide-united",
+      "weekend": "2026-11-01",
+      "name": "Perth Glory v Adelaide United",
+      "utc": "2026-11-01T07:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-06-sydney-fc-central-coast-mariners",
+      "weekend": "2026-11-06",
+      "name": "Sydney FC v Central Coast Mariners",
+      "utc": "2026-11-06T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-07-auckland-fc-wellington-phoenix-fc",
+      "weekend": "2026-11-07",
+      "name": "Auckland FC v Wellington Phoenix FC",
+      "utc": "2026-11-07T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-07-melbourne-city-fc-western-sydney-wanderers",
+      "weekend": "2026-11-07",
+      "name": "Melbourne City FC v Western Sydney Wanderers",
+      "utc": "2026-11-07T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-07-perth-glory-newcastle-jets",
+      "weekend": "2026-11-07",
+      "name": "Perth Glory v Newcastle Jets",
+      "utc": "2026-11-07T10:45:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-08-macarthur-fc-brisbane-roar",
+      "weekend": "2026-11-08",
+      "name": "Macarthur FC v Brisbane Roar",
+      "utc": "2026-11-08T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-08-adelaide-united-melbourne-victory",
+      "weekend": "2026-11-08",
+      "name": "Adelaide United v Melbourne Victory",
+      "utc": "2026-11-08T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-20-western-sydney-wanderers-adelaide-united",
+      "weekend": "2026-11-20",
+      "name": "Western Sydney Wanderers v Adelaide United",
+      "utc": "2026-11-20T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-21-auckland-fc-melbourne-victory",
+      "weekend": "2026-11-21",
+      "name": "Auckland FC v Melbourne Victory",
+      "utc": "2026-11-21T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-21-central-coast-mariners-perth-glory",
+      "weekend": "2026-11-21",
+      "name": "Central Coast Mariners v Perth Glory",
+      "utc": "2026-11-21T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-21-brisbane-roar-sydney-fc",
+      "weekend": "2026-11-21",
+      "name": "Brisbane Roar v Sydney FC",
+      "utc": "2026-11-21T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-22-wellington-phoenix-fc-macarthur-fc",
+      "weekend": "2026-11-22",
+      "name": "Wellington Phoenix FC v Macarthur FC",
+      "utc": "2026-11-22T02:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-27-macarthur-fc-melbourne-city-fc",
+      "weekend": "2026-11-27",
+      "name": "Macarthur FC v Melbourne City FC",
+      "utc": "2026-11-27T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-28-central-coast-mariners-auckland-fc",
+      "weekend": "2026-11-28",
+      "name": "Central Coast Mariners v Auckland FC",
+      "utc": "2026-11-28T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-11-29-wellington-phoenix-fc-adelaide-united",
+      "weekend": "2026-11-29",
+      "name": "Wellington Phoenix FC v Adelaide United",
+      "utc": "2026-11-29T02:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-05-western-sydney-wanderers-perth-glory",
+      "weekend": "2026-12-05",
+      "name": "Western Sydney Wanderers v Perth Glory",
+      "utc": "2026-12-05T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-06-sydney-fc-melbourne-victory",
+      "weekend": "2026-12-06",
+      "name": "Sydney FC v Melbourne Victory",
+      "utc": "2026-12-06T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-11-adelaide-united-macarthur-fc",
+      "weekend": "2026-12-11",
+      "name": "Adelaide United v Macarthur FC",
+      "utc": "2026-12-11T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-11-perth-glory-melbourne-city-fc",
+      "weekend": "2026-12-11",
+      "name": "Perth Glory v Melbourne City FC",
+      "utc": "2026-12-11T10:45:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-12-auckland-fc-sydney-fc",
+      "weekend": "2026-12-12",
+      "name": "Auckland FC v Sydney FC",
+      "utc": "2026-12-12T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-12-central-coast-mariners-brisbane-roar",
+      "weekend": "2026-12-12",
+      "name": "Central Coast Mariners v Brisbane Roar",
+      "utc": "2026-12-12T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-12-melbourne-victory-newcastle-jets",
+      "weekend": "2026-12-12",
+      "name": "Melbourne Victory v Newcastle Jets",
+      "utc": "2026-12-12T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-13-western-sydney-wanderers-wellington-phoenix-fc",
+      "weekend": "2026-12-13",
+      "name": "Western Sydney Wanderers v Wellington Phoenix FC",
+      "utc": "2026-12-13T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-18-sydney-fc-perth-glory",
+      "weekend": "2026-12-18",
+      "name": "Sydney FC v Perth Glory",
+      "utc": "2026-12-18T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-19-wellington-phoenix-fc-auckland-fc",
+      "weekend": "2026-12-19",
+      "name": "Wellington Phoenix FC v Auckland FC",
+      "utc": "2026-12-19T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-19-brisbane-roar-western-sydney-wanderers",
+      "weekend": "2026-12-19",
+      "name": "Brisbane Roar v Western Sydney Wanderers",
+      "utc": "2026-12-19T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-19-melbourne-city-fc-melbourne-victory",
+      "weekend": "2026-12-19",
+      "name": "Melbourne City FC v Melbourne Victory",
+      "utc": "2026-12-19T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-20-adelaide-united-newcastle-jets",
+      "weekend": "2026-12-20",
+      "name": "Adelaide United v Newcastle Jets",
+      "utc": "2026-12-20T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-21-macarthur-fc-central-coast-mariners",
+      "weekend": "2026-12-21",
+      "name": "Macarthur FC v Central Coast Mariners",
+      "utc": "2026-12-21T08:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-26-western-sydney-wanderers-newcastle-jets",
+      "weekend": "2026-12-26",
+      "name": "Western Sydney Wanderers v Newcastle Jets",
+      "utc": "2026-12-26T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-27-melbourne-city-fc-auckland-fc",
+      "weekend": "2026-12-27",
+      "name": "Melbourne City FC v Auckland FC",
+      "utc": "2026-12-27T07:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-27-adelaide-united-central-coast-mariners",
+      "weekend": "2026-12-27",
+      "name": "Adelaide United v Central Coast Mariners",
+      "utc": "2026-12-27T09:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-28-sydney-fc-macarthur-fc",
+      "weekend": "2026-12-28",
+      "name": "Sydney FC v Macarthur FC",
+      "utc": "2026-12-28T08:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-29-melbourne-victory-wellington-phoenix-fc",
+      "weekend": "2026-12-29",
+      "name": "Melbourne Victory v Wellington Phoenix FC",
+      "utc": "2026-12-29T08:00:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-30-brisbane-roar-perth-glory",
+      "weekend": "2026-12-30",
+      "name": "Brisbane Roar v Perth Glory",
+      "utc": "2026-12-30T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2026-12-31-central-coast-mariners-melbourne-city-fc",
+      "weekend": "2026-12-31",
+      "name": "Central Coast Mariners v Melbourne City FC",
+      "utc": "2026-12-31T08:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-01-auckland-fc-adelaide-united",
+      "weekend": "2027-01-01",
+      "name": "Auckland FC v Adelaide United",
+      "utc": "2027-01-01T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-01-western-sydney-wanderers-macarthur-fc",
+      "weekend": "2027-01-01",
+      "name": "Western Sydney Wanderers v Macarthur FC",
+      "utc": "2027-01-01T08:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-02-wellington-phoenix-fc-newcastle-jets",
+      "weekend": "2027-01-02",
+      "name": "Wellington Phoenix FC v Newcastle Jets",
+      "utc": "2027-01-02T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-02-sydney-fc-brisbane-roar",
+      "weekend": "2027-01-02",
+      "name": "Sydney FC v Brisbane Roar",
+      "utc": "2027-01-02T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-03-melbourne-victory-perth-glory",
+      "weekend": "2027-01-03",
+      "name": "Melbourne Victory v Perth Glory",
+      "utc": "2027-01-03T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-08-central-coast-mariners-western-sydney-wanderers",
+      "weekend": "2027-01-08",
+      "name": "Central Coast Mariners v Western Sydney Wanderers",
+      "utc": "2027-01-08T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-08-perth-glory-macarthur-fc",
+      "weekend": "2027-01-08",
+      "name": "Perth Glory v Macarthur FC",
+      "utc": "2027-01-08T10:45:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-09-newcastle-jets-auckland-fc",
+      "weekend": "2027-01-09",
+      "name": "Newcastle Jets v Auckland FC",
+      "utc": "2027-01-09T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-09-brisbane-roar-melbourne-victory",
+      "weekend": "2027-01-09",
+      "name": "Brisbane Roar v Melbourne Victory",
+      "utc": "2027-01-09T07:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-09-adelaide-united-sydney-fc",
+      "weekend": "2027-01-09",
+      "name": "Adelaide United v Sydney FC",
+      "utc": "2027-01-09T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-10-melbourne-city-fc-wellington-phoenix-fc",
+      "weekend": "2027-01-10",
+      "name": "Melbourne City FC v Wellington Phoenix FC",
+      "utc": "2027-01-10T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-14-macarthur-fc-wellington-phoenix-fc",
+      "weekend": "2027-01-14",
+      "name": "Macarthur FC v Wellington Phoenix FC",
+      "utc": "2027-01-14T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-15-melbourne-victory-auckland-fc",
+      "weekend": "2027-01-15",
+      "name": "Melbourne Victory v Auckland FC",
+      "utc": "2027-01-15T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-16-melbourne-city-fc-brisbane-roar",
+      "weekend": "2027-01-16",
+      "name": "Melbourne City FC v Brisbane Roar",
+      "utc": "2027-01-16T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-16-sydney-fc-newcastle-jets",
+      "weekend": "2027-01-16",
+      "name": "Sydney FC v Newcastle Jets",
+      "utc": "2027-01-16T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-16-perth-glory-central-coast-mariners",
+      "weekend": "2027-01-16",
+      "name": "Perth Glory v Central Coast Mariners",
+      "utc": "2027-01-16T10:45:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-17-adelaide-united-western-sydney-wanderers",
+      "weekend": "2027-01-17",
+      "name": "Adelaide United v Western Sydney Wanderers",
+      "utc": "2027-01-17T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-19-newcastle-jets-melbourne-city-fc",
+      "weekend": "2027-01-19",
+      "name": "Newcastle Jets v Melbourne City FC",
+      "utc": "2027-01-19T08:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-22-western-sydney-wanderers-melbourne-city-fc",
+      "weekend": "2027-01-22",
+      "name": "Western Sydney Wanderers v Melbourne City FC",
+      "utc": "2027-01-22T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-23-brisbane-roar-wellington-phoenix-fc",
+      "weekend": "2027-01-23",
+      "name": "Brisbane Roar v Wellington Phoenix FC",
+      "utc": "2027-01-23T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-23-newcastle-jets-central-coast-mariners",
+      "weekend": "2027-01-23",
+      "name": "Newcastle Jets v Central Coast Mariners",
+      "utc": "2027-01-23T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-24-auckland-fc-perth-glory",
+      "weekend": "2027-01-24",
+      "name": "Auckland FC v Perth Glory",
+      "utc": "2027-01-24T02:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-25-macarthur-fc-adelaide-united",
+      "weekend": "2027-01-25",
+      "name": "Macarthur FC v Adelaide United",
+      "utc": "2027-01-25T08:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-26-melbourne-victory-sydney-fc",
+      "weekend": "2027-01-26",
+      "name": "Melbourne Victory v Sydney FC",
+      "utc": "2027-01-26T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-29-adelaide-united-melbourne-city-fc",
+      "weekend": "2027-01-29",
+      "name": "Adelaide United v Melbourne City FC",
+      "utc": "2027-01-29T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-30-wellington-phoenix-fc-perth-glory",
+      "weekend": "2027-01-30",
+      "name": "Wellington Phoenix FC v Perth Glory",
+      "utc": "2027-01-30T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-30-newcastle-jets-melbourne-victory",
+      "weekend": "2027-01-30",
+      "name": "Newcastle Jets v Melbourne Victory",
+      "utc": "2027-01-30T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-30-western-sydney-wanderers-sydney-fc",
+      "weekend": "2027-01-30",
+      "name": "Western Sydney Wanderers v Sydney FC",
+      "utc": "2027-01-30T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-31-auckland-fc-brisbane-roar",
+      "weekend": "2027-01-31",
+      "name": "Auckland FC v Brisbane Roar",
+      "utc": "2027-01-31T02:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-01-31-central-coast-mariners-macarthur-fc",
+      "weekend": "2027-01-31",
+      "name": "Central Coast Mariners v Macarthur FC",
+      "utc": "2027-01-31T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-05-newcastle-jets-perth-glory",
+      "weekend": "2027-02-05",
+      "name": "Newcastle Jets v Perth Glory",
+      "utc": "2027-02-05T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-06-wellington-phoenix-fc-western-sydney-wanderers",
+      "weekend": "2027-02-06",
+      "name": "Wellington Phoenix FC v Western Sydney Wanderers",
+      "utc": "2027-02-06T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-06-macarthur-fc-auckland-fc",
+      "weekend": "2027-02-06",
+      "name": "Macarthur FC v Auckland FC",
+      "utc": "2027-02-06T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-06-adelaide-united-melbourne-victory",
+      "weekend": "2027-02-06",
+      "name": "Adelaide United v Melbourne Victory",
+      "utc": "2027-02-06T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-07-sydney-fc-melbourne-city-fc",
+      "weekend": "2027-02-07",
+      "name": "Sydney FC v Melbourne City FC",
+      "utc": "2027-02-07T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-07-brisbane-roar-central-coast-mariners",
+      "weekend": "2027-02-07",
+      "name": "Brisbane Roar v Central Coast Mariners",
+      "utc": "2027-02-07T07:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-13-auckland-fc-wellington-phoenix-fc",
+      "weekend": "2027-02-13",
+      "name": "Auckland FC v Wellington Phoenix FC",
+      "utc": "2027-02-13T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-13-newcastle-jets-brisbane-roar",
+      "weekend": "2027-02-13",
+      "name": "Newcastle Jets v Brisbane Roar",
+      "utc": "2027-02-13T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-13-melbourne-city-fc-central-coast-mariners",
+      "weekend": "2027-02-13",
+      "name": "Melbourne City FC v Central Coast Mariners",
+      "utc": "2027-02-13T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-14-melbourne-victory-western-sydney-wanderers",
+      "weekend": "2027-02-14",
+      "name": "Melbourne Victory v Western Sydney Wanderers",
+      "utc": "2027-02-14T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-19-brisbane-roar-macarthur-fc",
+      "weekend": "2027-02-19",
+      "name": "Brisbane Roar v Macarthur FC",
+      "utc": "2027-02-19T09:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-20-perth-glory-sydney-fc",
+      "weekend": "2027-02-20",
+      "name": "Perth Glory v Sydney FC",
+      "utc": "2027-02-20T09:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-21-newcastle-jets-adelaide-united",
+      "weekend": "2027-02-21",
+      "name": "Newcastle Jets v Adelaide United",
+      "utc": "2027-02-21T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-26-newcastle-jets-western-sydney-wanderers",
+      "weekend": "2027-02-26",
+      "name": "Newcastle Jets v Western Sydney Wanderers",
+      "utc": "2027-02-26T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-27-sydney-fc-auckland-fc",
+      "weekend": "2027-02-27",
+      "name": "Sydney FC v Auckland FC",
+      "utc": "2027-02-27T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-27-melbourne-victory-macarthur-fc",
+      "weekend": "2027-02-27",
+      "name": "Melbourne Victory v Macarthur FC",
+      "utc": "2027-02-27T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-27-perth-glory-brisbane-roar",
+      "weekend": "2027-02-27",
+      "name": "Perth Glory v Brisbane Roar",
+      "utc": "2027-02-27T10:45:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-28-central-coast-mariners-adelaide-united",
+      "weekend": "2027-02-28",
+      "name": "Central Coast Mariners v Adelaide United",
+      "utc": "2027-02-28T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-02-28-melbourne-city-fc-wellington-phoenix-fc",
+      "weekend": "2027-02-28",
+      "name": "Melbourne City FC v Wellington Phoenix FC",
+      "utc": "2027-02-28T05:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-05-adelaide-united-perth-glory",
+      "weekend": "2027-03-05",
+      "name": "Adelaide United v Perth Glory",
+      "utc": "2027-03-05T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-06-wellington-phoenix-fc-sydney-fc",
+      "weekend": "2027-03-06",
+      "name": "Wellington Phoenix FC v Sydney FC",
+      "utc": "2027-03-06T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-06-macarthur-fc-newcastle-jets",
+      "weekend": "2027-03-06",
+      "name": "Macarthur FC v Newcastle Jets",
+      "utc": "2027-03-06T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-06-melbourne-victory-melbourne-city-fc",
+      "weekend": "2027-03-06",
+      "name": "Melbourne Victory v Melbourne City FC",
+      "utc": "2027-03-06T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-07-auckland-fc-central-coast-mariners",
+      "weekend": "2027-03-07",
+      "name": "Auckland FC v Central Coast Mariners",
+      "utc": "2027-03-07T02:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-07-western-sydney-wanderers-brisbane-roar",
+      "weekend": "2027-03-07",
+      "name": "Western Sydney Wanderers v Brisbane Roar",
+      "utc": "2027-03-07T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-12-western-sydney-wanderers-melbourne-city-fc",
+      "weekend": "2027-03-12",
+      "name": "Western Sydney Wanderers v Melbourne City FC",
+      "utc": "2027-03-12T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-13-auckland-fc-newcastle-jets",
+      "weekend": "2027-03-13",
+      "name": "Auckland FC v Newcastle Jets",
+      "utc": "2027-03-13T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-13-central-coast-mariners-wellington-phoenix-fc",
+      "weekend": "2027-03-13",
+      "name": "Central Coast Mariners v Wellington Phoenix FC",
+      "utc": "2027-03-13T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-13-macarthur-fc-sydney-fc",
+      "weekend": "2027-03-13",
+      "name": "Macarthur FC v Sydney FC",
+      "utc": "2027-03-13T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-14-brisbane-roar-adelaide-united",
+      "weekend": "2027-03-14",
+      "name": "Brisbane Roar v Adelaide United",
+      "utc": "2027-03-14T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-14-perth-glory-melbourne-victory",
+      "weekend": "2027-03-14",
+      "name": "Perth Glory v Melbourne Victory",
+      "utc": "2027-03-14T09:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-19-central-coast-mariners-perth-glory",
+      "weekend": "2027-03-19",
+      "name": "Central Coast Mariners v Perth Glory",
+      "utc": "2027-03-19T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-20-wellington-phoenix-fc-macarthur-fc",
+      "weekend": "2027-03-20",
+      "name": "Wellington Phoenix FC v Macarthur FC",
+      "utc": "2027-03-20T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-20-western-sydney-wanderers-auckland-fc",
+      "weekend": "2027-03-20",
+      "name": "Western Sydney Wanderers v Auckland FC",
+      "utc": "2027-03-20T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-20-newcastle-jets-sydney-fc",
+      "weekend": "2027-03-20",
+      "name": "Newcastle Jets v Sydney FC",
+      "utc": "2027-03-20T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-21-melbourne-city-fc-adelaide-united",
+      "weekend": "2027-03-21",
+      "name": "Melbourne City FC v Adelaide United",
+      "utc": "2027-03-21T04:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-03-21-brisbane-roar-melbourne-victory",
+      "weekend": "2027-03-21",
+      "name": "Brisbane Roar v Melbourne Victory",
+      "utc": "2027-03-21T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-02-adelaide-united-wellington-phoenix-fc",
+      "weekend": "2027-04-02",
+      "name": "Adelaide United v Wellington Phoenix FC",
+      "utc": "2027-04-02T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-03-brisbane-roar-melbourne-city-fc",
+      "weekend": "2027-04-03",
+      "name": "Brisbane Roar v Melbourne City FC",
+      "utc": "2027-04-03T06:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-03-sydney-fc-western-sydney-wanderers",
+      "weekend": "2027-04-03",
+      "name": "Sydney FC v Western Sydney Wanderers",
+      "utc": "2027-04-03T08:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-03-perth-glory-newcastle-jets",
+      "weekend": "2027-04-03",
+      "name": "Perth Glory v Newcastle Jets",
+      "utc": "2027-04-03T10:45:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-04-auckland-fc-macarthur-fc",
+      "weekend": "2027-04-04",
+      "name": "Auckland FC v Macarthur FC",
+      "utc": "2027-04-04T03:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-04-central-coast-mariners-melbourne-victory",
+      "weekend": "2027-04-04",
+      "name": "Central Coast Mariners v Melbourne Victory",
+      "utc": "2027-04-04T05:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-09-wellington-phoenix-fc-brisbane-roar",
+      "weekend": "2027-04-09",
+      "name": "Wellington Phoenix FC v Brisbane Roar",
+      "utc": "2027-04-09T07:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-09-melbourne-city-fc-macarthur-fc",
+      "weekend": "2027-04-09",
+      "name": "Melbourne City FC v Macarthur FC",
+      "utc": "2027-04-09T09:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-10-newcastle-jets-adelaide-united",
+      "weekend": "2027-04-10",
+      "name": "Newcastle Jets v Adelaide United",
+      "utc": "2027-04-10T07:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-10-melbourne-victory-sydney-fc",
+      "weekend": "2027-04-10",
+      "name": "Melbourne Victory v Sydney FC",
+      "utc": "2027-04-10T09:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-10-perth-glory-auckland-fc",
+      "weekend": "2027-04-10",
+      "name": "Perth Glory v Auckland FC",
+      "utc": "2027-04-10T11:45:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-11-western-sydney-wanderers-central-coast-mariners",
+      "weekend": "2027-04-11",
+      "name": "Western Sydney Wanderers v Central Coast Mariners",
+      "utc": "2027-04-11T05:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-16-melbourne-city-fc-perth-glory",
+      "weekend": "2027-04-16",
+      "name": "Melbourne City FC v Perth Glory",
+      "utc": "2027-04-16T09:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-17-wellington-phoenix-fc-newcastle-jets",
+      "weekend": "2027-04-17",
+      "name": "Wellington Phoenix FC v Newcastle Jets",
+      "utc": "2027-04-17T05:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-17-central-coast-mariners-sydney-fc",
+      "weekend": "2027-04-17",
+      "name": "Central Coast Mariners v Sydney FC",
+      "utc": "2027-04-17T07:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-17-melbourne-victory-adelaide-united",
+      "weekend": "2027-04-17",
+      "name": "Melbourne Victory v Adelaide United",
+      "utc": "2027-04-17T09:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-18-auckland-fc-brisbane-roar",
+      "weekend": "2027-04-18",
+      "name": "Auckland FC v Brisbane Roar",
+      "utc": "2027-04-18T03:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-18-macarthur-fc-western-sydney-wanderers",
+      "weekend": "2027-04-18",
+      "name": "Macarthur FC v Western Sydney Wanderers",
+      "utc": "2027-04-18T05:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-23-sydney-fc-auckland-fc",
+      "weekend": "2027-04-23",
+      "name": "Sydney FC v Auckland FC",
+      "utc": "2027-04-23T09:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-24-wellington-phoenix-fc-melbourne-city-fc",
+      "weekend": "2027-04-24",
+      "name": "Wellington Phoenix FC v Melbourne City FC",
+      "utc": "2027-04-24T05:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-24-adelaide-united-brisbane-roar",
+      "weekend": "2027-04-24",
+      "name": "Adelaide United v Brisbane Roar",
+      "utc": "2027-04-24T09:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-24-perth-glory-western-sydney-wanderers",
+      "weekend": "2027-04-24",
+      "name": "Perth Glory v Western Sydney Wanderers",
+      "utc": "2027-04-24T11:45:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-25-newcastle-jets-central-coast-mariners",
+      "weekend": "2027-04-25",
+      "name": "Newcastle Jets v Central Coast Mariners",
+      "utc": "2027-04-25T05:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-26-macarthur-fc-melbourne-victory",
+      "weekend": "2027-04-26",
+      "name": "Macarthur FC v Melbourne Victory",
+      "utc": "2027-04-26T09:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-30-brisbane-roar-newcastle-jets",
+      "weekend": "2027-04-30",
+      "name": "Brisbane Roar v Newcastle Jets",
+      "utc": "2027-04-30T10:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-04-30-perth-glory-wellington-phoenix-fc",
+      "weekend": "2027-04-30",
+      "name": "Perth Glory v Wellington Phoenix FC",
+      "utc": "2027-04-30T11:45:00Z"
+    },
+    {
+      "id": "aus.1-2027-05-01-melbourne-city-fc-central-coast-mariners",
+      "weekend": "2027-05-01",
+      "name": "Melbourne City FC v Central Coast Mariners",
+      "utc": "2027-05-01T05:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-05-01-adelaide-united-auckland-fc",
+      "weekend": "2027-05-01",
+      "name": "Adelaide United v Auckland FC",
+      "utc": "2027-05-01T07:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-05-01-macarthur-fc-sydney-fc",
+      "weekend": "2027-05-01",
+      "name": "Macarthur FC v Sydney FC",
+      "utc": "2027-05-01T09:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-05-02-western-sydney-wanderers-melbourne-victory",
+      "weekend": "2027-05-02",
+      "name": "Western Sydney Wanderers v Melbourne Victory",
+      "utc": "2027-05-02T05:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-05-07-sydney-fc-wellington-phoenix-fc",
+      "weekend": "2027-05-07",
+      "name": "Sydney FC v Wellington Phoenix FC",
+      "utc": "2027-05-07T09:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-05-07-perth-glory-adelaide-united",
+      "weekend": "2027-05-07",
+      "name": "Perth Glory v Adelaide United",
+      "utc": "2027-05-07T11:45:00Z"
+    },
+    {
+      "id": "aus.1-2027-05-08-auckland-fc-western-sydney-wanderers",
+      "weekend": "2027-05-08",
+      "name": "Auckland FC v Western Sydney Wanderers",
+      "utc": "2027-05-08T05:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-05-08-melbourne-city-fc-newcastle-jets",
+      "weekend": "2027-05-08",
+      "name": "Melbourne City FC v Newcastle Jets",
+      "utc": "2027-05-08T07:00:00Z"
+    },
+    {
+      "id": "aus.1-2027-05-08-central-coast-mariners-macarthur-fc",
+      "weekend": "2027-05-08",
+      "name": "Central Coast Mariners v Macarthur FC",
+      "utc": "2027-05-08T09:40:00Z"
+    },
+    {
+      "id": "aus.1-2027-05-09-melbourne-victory-brisbane-roar",
+      "weekend": "2027-05-09",
+      "name": "Melbourne Victory v Brisbane Roar",
+      "utc": "2027-05-09T05:00:00Z"
+    }
+  ]
+}
