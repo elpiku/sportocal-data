@@ -1,0 +1,475 @@
+{
+  "sportKey": "soccer-uefa.europa.conf_qual",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "uefa.europa.conf_qual-2026-08-11-apollon-limassol-sk-brann",
+      "weekend": "2026-08-11",
+      "name": "Apollon Limassol v SK Brann",
+      "utc": "2026-08-11T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-11-cska-1948-sofia-panathinaikos",
+      "weekend": "2026-08-11",
+      "name": "CSKA 1948 Sofia v Panathinaikos",
+      "utc": "2026-08-11T17:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-12-f-c-k-benhavn-debrecen",
+      "weekend": "2026-08-12",
+      "name": "F.C. K\u00f8benhavn v Debrecen",
+      "utc": "2026-08-12T16:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-12-gks-katowice-hapoel-tel-aviv",
+      "weekend": "2026-08-12",
+      "name": "GKS Katowice v Hapoel Tel Aviv",
+      "utc": "2026-08-12T16:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-12-rapid-vienna-paide-linnameeskond",
+      "weekend": "2026-08-12",
+      "name": "Rapid Vienna v Paide Linnameeskond",
+      "utc": "2026-08-12T16:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-tobol-kostanay-partizan-belgrade",
+      "weekend": "2026-08-13",
+      "name": "Tobol Kostanay v Partizan Belgrade",
+      "utc": "2026-08-13T15:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-fc-ilves-rijeka",
+      "weekend": "2026-08-13",
+      "name": "FC Ilves v Rijeka",
+      "utc": "2026-08-13T16:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-fk-qarabag-dynamo-kyiv",
+      "weekend": "2026-08-13",
+      "name": "FK Qarabag v Dynamo Kyiv",
+      "utc": "2026-08-13T16:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-flora-inter-d-escaldes",
+      "weekend": "2026-08-13",
+      "name": "Flora v Inter D'Escaldes",
+      "utc": "2026-08-13T16:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-rigas-futbola-skola-jablonec",
+      "weekend": "2026-08-13",
+      "name": "Rigas Futbola Skola v Jablonec",
+      "utc": "2026-08-13T16:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-dinamo-minsk-braga",
+      "weekend": "2026-08-13",
+      "name": "Dinamo Minsk v Braga",
+      "utc": "2026-08-13T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-dunajska-streda-fc-twente",
+      "weekend": "2026-08-13",
+      "name": "Dunajska Streda v FC Twente",
+      "utc": "2026-08-13T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-fc-midtjylland-bohemians",
+      "weekend": "2026-08-13",
+      "name": "FC Midtjylland v Bohemians",
+      "utc": "2026-08-13T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-fc-nordsj-lland-valur-reykjavik",
+      "weekend": "2026-08-13",
+      "name": "FC Nordsj\u00e6lland v Valur Reykjavik",
+      "utc": "2026-08-13T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-hammarby-if-rak-w-czestochowa",
+      "weekend": "2026-08-13",
+      "name": "Hammarby IF v Rak\u00f3w Czestochowa",
+      "utc": "2026-08-13T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-ml-vitebsk-borac-banja-luka",
+      "weekend": "2026-08-13",
+      "name": "ML Vitebsk v Borac Banja Luka",
+      "utc": "2026-08-13T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-tromso-cfr-cluj-napoca",
+      "weekend": "2026-08-13",
+      "name": "Tromso v CFR Cluj-Napoca",
+      "utc": "2026-08-13T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-fc-vaduz-fc-inter-turku",
+      "weekend": "2026-08-13",
+      "name": "FC Vaduz v FC Inter Turku",
+      "utc": "2026-08-13T17:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-nsi-runavik-fc-lugano",
+      "weekend": "2026-08-13",
+      "name": "NSI Runavik v FC Lugano",
+      "utc": "2026-08-13T17:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-drita-gjilan-tre-fiori",
+      "weekend": "2026-08-13",
+      "name": "Drita Gjilan v Tre Fiori",
+      "utc": "2026-08-13T18:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-kf-shk-ndija-hibernian",
+      "weekend": "2026-08-13",
+      "name": "KF Shk\u00ebndija v Hibernian",
+      "utc": "2026-08-13T18:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-st-gallen-sheriff-tiraspol",
+      "weekend": "2026-08-13",
+      "name": "St. Gallen v Sheriff Tiraspol",
+      "utc": "2026-08-13T18:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-fc-sion-fc-noah",
+      "weekend": "2026-08-13",
+      "name": "FC Sion v FC Noah",
+      "utc": "2026-08-13T18:15:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-austria-vienna-beitar-jerusalem",
+      "weekend": "2026-08-13",
+      "name": "Austria Vienna v Beitar Jerusalem",
+      "utc": "2026-08-13T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-gy-ri-eto-fc-riga-fc",
+      "weekend": "2026-08-13",
+      "name": "Gy\u00f6ri ETO FC v Riga FC",
+      "utc": "2026-08-13T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-kaa-gent-ifk-g-teborg",
+      "weekend": "2026-08-13",
+      "name": "KAA Gent v IFK G\u00f6teborg",
+      "utc": "2026-08-13T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-motherwell-hjk-helsinki",
+      "weekend": "2026-08-13",
+      "name": "Motherwell v HJK Helsinki",
+      "utc": "2026-08-13T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-shelbourne-ajax-amsterdam",
+      "weekend": "2026-08-13",
+      "name": "Shelbourne v Ajax Amsterdam",
+      "utc": "2026-08-13T18:45:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-dinamo-city-fk-auda",
+      "weekend": "2026-08-13",
+      "name": "Dinamo City v FK Auda",
+      "utc": "2026-08-13T19:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-13-hajduk-split-zalgiris-vilnius",
+      "weekend": "2026-08-13",
+      "name": "Hajduk Split v Zalgiris Vilnius",
+      "utc": "2026-08-13T19:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-fc-inter-turku-f-c-k-benhavn",
+      "weekend": "2026-08-20",
+      "name": "FC Inter Turku v F.C. K\u00f8benhavn",
+      "utc": "2026-08-20T16:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-lincoln-red-imps-larne",
+      "weekend": "2026-08-20",
+      "name": "Lincoln Red Imps v Larne",
+      "utc": "2026-08-20T16:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-fc-midtjylland-rijeka",
+      "weekend": "2026-08-20",
+      "name": "FC Midtjylland v Rijeka",
+      "utc": "2026-08-20T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-fc-nordsj-lland-st-gallen",
+      "weekend": "2026-08-20",
+      "name": "FC Nordsj\u00e6lland v St. Gallen",
+      "utc": "2026-08-20T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-tromso-brighton-hove-albion",
+      "weekend": "2026-08-20",
+      "name": "Tromso v Brighton & Hove Albion",
+      "utc": "2026-08-20T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-ki-klaksvik-riga-fc",
+      "weekend": "2026-08-20",
+      "name": "KI Klaksvik v Riga FC",
+      "utc": "2026-08-20T17:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-paok-sk-brann",
+      "weekend": "2026-08-20",
+      "name": "PAOK v SK Brann",
+      "utc": "2026-08-20T17:45:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-drita-gjilan-inter-d-escaldes",
+      "weekend": "2026-08-20",
+      "name": "Drita Gjilan v Inter D'Escaldes",
+      "utc": "2026-08-20T18:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-fc-twente-fk-qarabag",
+      "weekend": "2026-08-20",
+      "name": "FC Twente v FK Qarabag",
+      "utc": "2026-08-20T18:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-gornik-zabrze-as-monaco",
+      "weekend": "2026-08-20",
+      "name": "Gornik Zabrze v AS Monaco",
+      "utc": "2026-08-20T18:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-vikingur-reykjavik-borac-banja-luka",
+      "weekend": "2026-08-20",
+      "name": "Vikingur Reykjavik v Borac Banja Luka",
+      "utc": "2026-08-20T18:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-fc-sion-ajax-amsterdam",
+      "weekend": "2026-08-20",
+      "name": "FC Sion v Ajax Amsterdam",
+      "utc": "2026-08-20T18:15:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-atalanta-hapoel-tel-aviv",
+      "weekend": "2026-08-20",
+      "name": "Atalanta v Hapoel Tel Aviv",
+      "utc": "2026-08-20T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-fc-lugano-maccabi-tel-aviv",
+      "weekend": "2026-08-20",
+      "name": "FC Lugano v Maccabi Tel-Aviv",
+      "utc": "2026-08-20T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-kaa-gent-hibernian",
+      "weekend": "2026-08-20",
+      "name": "KAA Gent v Hibernian",
+      "utc": "2026-08-20T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-motherwell-sc-freiburg",
+      "weekend": "2026-08-20",
+      "name": "Motherwell v SC Freiburg",
+      "utc": "2026-08-20T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-panathinaikos-fc-hradec-kr-lov",
+      "weekend": "2026-08-20",
+      "name": "Panathinaikos v FC Hradec Kr\u00e1lov\u00e9",
+      "utc": "2026-08-20T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-heart-of-midlothian-rapid-vienna",
+      "weekend": "2026-08-20",
+      "name": "Heart of Midlothian v Rapid Vienna",
+      "utc": "2026-08-20T18:45:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-rangers-jablonec",
+      "weekend": "2026-08-20",
+      "name": "Rangers v Jablonec",
+      "utc": "2026-08-20T18:45:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-braga-austria-vienna",
+      "weekend": "2026-08-20",
+      "name": "Braga v Austria Vienna",
+      "utc": "2026-08-20T19:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-dinamo-city-pafos",
+      "weekend": "2026-08-20",
+      "name": "Dinamo City v Pafos",
+      "utc": "2026-08-20T19:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-getafe-partizan-belgrade",
+      "weekend": "2026-08-20",
+      "name": "Getafe v Partizan Belgrade",
+      "utc": "2026-08-20T19:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-hajduk-split-rak-w-czestochowa",
+      "weekend": "2026-08-20",
+      "name": "Hajduk Split v Rak\u00f3w Czestochowa",
+      "utc": "2026-08-20T19:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-20-shamrock-rovers-kups-kuopio",
+      "weekend": "2026-08-20",
+      "name": "Shamrock Rovers v KuPS Kuopio",
+      "utc": "2026-08-20T19:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-26-rapid-vienna-heart-of-midlothian",
+      "weekend": "2026-08-26",
+      "name": "Rapid Vienna v Heart of Midlothian",
+      "utc": "2026-08-26T16:45:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-kups-kuopio-shamrock-rovers",
+      "weekend": "2026-08-27",
+      "name": "KuPS Kuopio v Shamrock Rovers",
+      "utc": "2026-08-27T15:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-fk-qarabag-fc-twente",
+      "weekend": "2026-08-27",
+      "name": "FK Qarabag v FC Twente",
+      "utc": "2026-08-27T16:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-jablonec-rangers",
+      "weekend": "2026-08-27",
+      "name": "Jablonec v Rangers",
+      "utc": "2026-08-27T16:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-maccabi-tel-aviv-fc-lugano",
+      "weekend": "2026-08-27",
+      "name": "Maccabi Tel-Aviv v FC Lugano",
+      "utc": "2026-08-27T16:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-as-monaco-gornik-zabrze",
+      "weekend": "2026-08-27",
+      "name": "AS Monaco v Gornik Zabrze",
+      "utc": "2026-08-27T16:45:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-sc-freiburg-motherwell",
+      "weekend": "2026-08-27",
+      "name": "SC Freiburg v Motherwell",
+      "utc": "2026-08-27T16:45:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-f-c-k-benhavn-fc-inter-turku",
+      "weekend": "2026-08-27",
+      "name": "F.C. K\u00f8benhavn v FC Inter Turku",
+      "utc": "2026-08-27T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-fc-hradec-kr-lov-panathinaikos",
+      "weekend": "2026-08-27",
+      "name": "FC Hradec Kr\u00e1lov\u00e9 v Panathinaikos",
+      "utc": "2026-08-27T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-inter-d-escaldes-drita-gjilan",
+      "weekend": "2026-08-27",
+      "name": "Inter D'Escaldes v Drita Gjilan",
+      "utc": "2026-08-27T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-pafos-dinamo-city",
+      "weekend": "2026-08-27",
+      "name": "Pafos v Dinamo City",
+      "utc": "2026-08-27T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-rak-w-czestochowa-hajduk-split",
+      "weekend": "2026-08-27",
+      "name": "Rak\u00f3w Czestochowa v Hajduk Split",
+      "utc": "2026-08-27T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-riga-fc-ki-klaksvik",
+      "weekend": "2026-08-27",
+      "name": "Riga FC v KI Klaksvik",
+      "utc": "2026-08-27T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-sk-brann-paok",
+      "weekend": "2026-08-27",
+      "name": "SK Brann v PAOK",
+      "utc": "2026-08-27T17:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-ajax-amsterdam-fc-sion",
+      "weekend": "2026-08-27",
+      "name": "Ajax Amsterdam v FC Sion",
+      "utc": "2026-08-27T18:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-hapoel-tel-aviv-atalanta",
+      "weekend": "2026-08-27",
+      "name": "Hapoel Tel Aviv v Atalanta",
+      "utc": "2026-08-27T18:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-st-gallen-fc-nordsj-lland",
+      "weekend": "2026-08-27",
+      "name": "St. Gallen v FC Nordsj\u00e6lland",
+      "utc": "2026-08-27T18:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-austria-vienna-braga",
+      "weekend": "2026-08-27",
+      "name": "Austria Vienna v Braga",
+      "utc": "2026-08-27T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-borac-banja-luka-vikingur-reykjavik",
+      "weekend": "2026-08-27",
+      "name": "Borac Banja Luka v Vikingur Reykjavik",
+      "utc": "2026-08-27T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-brighton-hove-albion-tromso",
+      "weekend": "2026-08-27",
+      "name": "Brighton & Hove Albion v Tromso",
+      "utc": "2026-08-27T18:30:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-rijeka-fc-midtjylland",
+      "weekend": "2026-08-27",
+      "name": "Rijeka v FC Midtjylland",
+      "utc": "2026-08-27T18:45:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-hibernian-kaa-gent",
+      "weekend": "2026-08-27",
+      "name": "Hibernian v KAA Gent",
+      "utc": "2026-08-27T19:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-larne-lincoln-red-imps",
+      "weekend": "2026-08-27",
+      "name": "Larne v Lincoln Red Imps",
+      "utc": "2026-08-27T19:00:00Z"
+    },
+    {
+      "id": "uefa.europa.conf_qual-2026-08-27-partizan-belgrade-getafe",
+      "weekend": "2026-08-27",
+      "name": "Partizan Belgrade v Getafe",
+      "utc": "2026-08-27T19:00:00Z"
+    }
+  ]
+}

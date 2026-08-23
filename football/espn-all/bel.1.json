@@ -1,0 +1,1765 @@
+{
+  "sportKey": "soccer-bel.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "bel.1-2026-08-09-kaa-gent-kv-mechelen",
+      "weekend": "2026-08-09",
+      "name": "KAA Gent v KV Mechelen",
+      "utc": "2026-08-09T11:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-09-royal-charleroi-sc-oud-heverlee-leuven",
+      "weekend": "2026-08-09",
+      "name": "Royal Charleroi SC v Oud-Heverlee Leuven",
+      "utc": "2026-08-09T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-09-zulte-waregem-racing-genk",
+      "weekend": "2026-08-09",
+      "name": "Zulte-Waregem v Racing Genk",
+      "utc": "2026-08-09T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-09-anderlecht-raal-la-louvi-re",
+      "weekend": "2026-08-09",
+      "name": "Anderlecht v RAAL La Louvi\u00e8re",
+      "utc": "2026-08-09T16:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-09-antwerp-waasland-beveren",
+      "weekend": "2026-08-09",
+      "name": "Antwerp v Waasland-Beveren",
+      "utc": "2026-08-09T17:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-14-cercle-brugge-ksv-sint-truidense",
+      "weekend": "2026-08-14",
+      "name": "Cercle Brugge KSV v Sint-Truidense",
+      "utc": "2026-08-14T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-15-union-st-gilloise-zulte-waregem",
+      "weekend": "2026-08-15",
+      "name": "Union St.-Gilloise v Zulte-Waregem",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-15-kv-kortrijk-antwerp",
+      "weekend": "2026-08-15",
+      "name": "KV Kortrijk v Antwerp",
+      "utc": "2026-08-15T16:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-15-oud-heverlee-leuven-club-brugge",
+      "weekend": "2026-08-15",
+      "name": "Oud-Heverlee Leuven v Club Brugge",
+      "utc": "2026-08-15T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-15-racing-genk-kvc-westerlo",
+      "weekend": "2026-08-15",
+      "name": "Racing Genk v KVC Westerlo",
+      "utc": "2026-08-15T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-16-waasland-beveren-anderlecht",
+      "weekend": "2026-08-16",
+      "name": "Waasland-Beveren v Anderlecht",
+      "utc": "2026-08-16T11:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-16-raal-la-louvi-re-kaa-gent",
+      "weekend": "2026-08-16",
+      "name": "RAAL La Louvi\u00e8re v KAA Gent",
+      "utc": "2026-08-16T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-16-kv-mechelen-standard-liege",
+      "weekend": "2026-08-16",
+      "name": "KV Mechelen v Standard Liege",
+      "utc": "2026-08-16T16:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-16-lommel-sk-royal-charleroi-sc",
+      "weekend": "2026-08-16",
+      "name": "Lommel SK v Royal Charleroi SC",
+      "utc": "2026-08-16T17:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-21-standard-liege-raal-la-louvi-re",
+      "weekend": "2026-08-21",
+      "name": "Standard Liege v RAAL La Louvi\u00e8re",
+      "utc": "2026-08-21T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-22-zulte-waregem-waasland-beveren",
+      "weekend": "2026-08-22",
+      "name": "Zulte-Waregem v Waasland-Beveren",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-22-royal-charleroi-sc-kv-mechelen",
+      "weekend": "2026-08-22",
+      "name": "Royal Charleroi SC v KV Mechelen",
+      "utc": "2026-08-22T16:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-22-antwerp-racing-genk",
+      "weekend": "2026-08-22",
+      "name": "Antwerp v Racing Genk",
+      "utc": "2026-08-22T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-23-lommel-sk-kvc-westerlo",
+      "weekend": "2026-08-23",
+      "name": "Lommel SK v KVC Westerlo",
+      "utc": "2026-08-23T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-23-club-brugge-cercle-brugge-ksv",
+      "weekend": "2026-08-23",
+      "name": "Club Brugge v Cercle Brugge KSV",
+      "utc": "2026-08-23T16:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-28-racing-genk-waasland-beveren",
+      "weekend": "2026-08-28",
+      "name": "Racing Genk v Waasland-Beveren",
+      "utc": "2026-08-28T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-29-raal-la-louvi-re-kv-mechelen",
+      "weekend": "2026-08-29",
+      "name": "RAAL La Louvi\u00e8re v KV Mechelen",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-29-kv-kortrijk-royal-charleroi-sc",
+      "weekend": "2026-08-29",
+      "name": "KV Kortrijk v Royal Charleroi SC",
+      "utc": "2026-08-29T16:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-29-cercle-brugge-ksv-lommel-sk",
+      "weekend": "2026-08-29",
+      "name": "Cercle Brugge KSV v Lommel SK",
+      "utc": "2026-08-29T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-29-oud-heverlee-leuven-standard-liege",
+      "weekend": "2026-08-29",
+      "name": "Oud-Heverlee Leuven v Standard Liege",
+      "utc": "2026-08-29T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-30-kaa-gent-club-brugge",
+      "weekend": "2026-08-30",
+      "name": "KAA Gent v Club Brugge",
+      "utc": "2026-08-30T11:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-30-antwerp-sint-truidense",
+      "weekend": "2026-08-30",
+      "name": "Antwerp v Sint-Truidense",
+      "utc": "2026-08-30T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-30-union-st-gilloise-anderlecht",
+      "weekend": "2026-08-30",
+      "name": "Union St.-Gilloise v Anderlecht",
+      "utc": "2026-08-30T16:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-08-30-kvc-westerlo-zulte-waregem",
+      "weekend": "2026-08-30",
+      "name": "KVC Westerlo v Zulte-Waregem",
+      "utc": "2026-08-30T17:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-02-sint-truidense-union-st-gilloise",
+      "weekend": "2026-09-02",
+      "name": "Sint-Truidense v Union St.-Gilloise",
+      "utc": "2026-09-02T18:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-03-anderlecht-kv-kortrijk",
+      "weekend": "2026-09-03",
+      "name": "Anderlecht v KV Kortrijk",
+      "utc": "2026-09-03T18:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-03-kaa-gent-oud-heverlee-leuven",
+      "weekend": "2026-09-03",
+      "name": "KAA Gent v Oud-Heverlee Leuven",
+      "utc": "2026-09-03T18:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-04-lommel-sk-club-brugge",
+      "weekend": "2026-09-04",
+      "name": "Lommel SK v Club Brugge",
+      "utc": "2026-09-04T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-05-royal-charleroi-sc-union-st-gilloise",
+      "weekend": "2026-09-05",
+      "name": "Royal Charleroi SC v Union St.-Gilloise",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-05-kv-mechelen-kvc-westerlo",
+      "weekend": "2026-09-05",
+      "name": "KV Mechelen v KVC Westerlo",
+      "utc": "2026-09-05T16:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-05-sint-truidense-raal-la-louvi-re",
+      "weekend": "2026-09-05",
+      "name": "Sint-Truidense v RAAL La Louvi\u00e8re",
+      "utc": "2026-09-05T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-05-standard-liege-antwerp",
+      "weekend": "2026-09-05",
+      "name": "Standard Liege v Antwerp",
+      "utc": "2026-09-05T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-06-cercle-brugge-ksv-kaa-gent",
+      "weekend": "2026-09-06",
+      "name": "Cercle Brugge KSV v KAA Gent",
+      "utc": "2026-09-06T11:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-06-kv-kortrijk-zulte-waregem",
+      "weekend": "2026-09-06",
+      "name": "KV Kortrijk v Zulte-Waregem",
+      "utc": "2026-09-06T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-06-anderlecht-racing-genk",
+      "weekend": "2026-09-06",
+      "name": "Anderlecht v Racing Genk",
+      "utc": "2026-09-06T16:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-06-waasland-beveren-oud-heverlee-leuven",
+      "weekend": "2026-09-06",
+      "name": "Waasland-Beveren v Oud-Heverlee Leuven",
+      "utc": "2026-09-06T17:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-11-kv-mechelen-anderlecht",
+      "weekend": "2026-09-11",
+      "name": "KV Mechelen v Anderlecht",
+      "utc": "2026-09-11T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-12-waasland-beveren-sint-truidense",
+      "weekend": "2026-09-12",
+      "name": "Waasland-Beveren v Sint-Truidense",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-12-kvc-westerlo-standard-liege",
+      "weekend": "2026-09-12",
+      "name": "KVC Westerlo v Standard Liege",
+      "utc": "2026-09-12T16:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-12-oud-heverlee-leuven-cercle-brugge-ksv",
+      "weekend": "2026-09-12",
+      "name": "Oud-Heverlee Leuven v Cercle Brugge KSV",
+      "utc": "2026-09-12T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-12-union-st-gilloise-lommel-sk",
+      "weekend": "2026-09-12",
+      "name": "Union St.-Gilloise v Lommel SK",
+      "utc": "2026-09-12T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-13-club-brugge-antwerp",
+      "weekend": "2026-09-13",
+      "name": "Club Brugge v Antwerp",
+      "utc": "2026-09-13T11:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-13-racing-genk-kaa-gent",
+      "weekend": "2026-09-13",
+      "name": "Racing Genk v KAA Gent",
+      "utc": "2026-09-13T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-13-zulte-waregem-royal-charleroi-sc",
+      "weekend": "2026-09-13",
+      "name": "Zulte-Waregem v Royal Charleroi SC",
+      "utc": "2026-09-13T16:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-13-raal-la-louvi-re-kv-kortrijk",
+      "weekend": "2026-09-13",
+      "name": "RAAL La Louvi\u00e8re v KV Kortrijk",
+      "utc": "2026-09-13T17:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-18-kaa-gent-standard-liege",
+      "weekend": "2026-09-18",
+      "name": "KAA Gent v Standard Liege",
+      "utc": "2026-09-18T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-19-oud-heverlee-leuven-raal-la-louvi-re",
+      "weekend": "2026-09-19",
+      "name": "Oud-Heverlee Leuven v RAAL La Louvi\u00e8re",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-19-royal-charleroi-sc-cercle-brugge-ksv",
+      "weekend": "2026-09-19",
+      "name": "Royal Charleroi SC v Cercle Brugge KSV",
+      "utc": "2026-09-19T16:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-19-anderlecht-zulte-waregem",
+      "weekend": "2026-09-19",
+      "name": "Anderlecht v Zulte-Waregem",
+      "utc": "2026-09-19T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-19-lommel-sk-kv-mechelen",
+      "weekend": "2026-09-19",
+      "name": "Lommel SK v KV Mechelen",
+      "utc": "2026-09-19T18:45:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-20-antwerp-union-st-gilloise",
+      "weekend": "2026-09-20",
+      "name": "Antwerp v Union St.-Gilloise",
+      "utc": "2026-09-20T11:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-20-sint-truidense-kvc-westerlo",
+      "weekend": "2026-09-20",
+      "name": "Sint-Truidense v KVC Westerlo",
+      "utc": "2026-09-20T14:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-20-club-brugge-racing-genk",
+      "weekend": "2026-09-20",
+      "name": "Club Brugge v Racing Genk",
+      "utc": "2026-09-20T16:30:00Z"
+    },
+    {
+      "id": "bel.1-2026-09-20-kv-kortrijk-waasland-beveren",
+      "weekend": "2026-09-20",
+      "name": "KV Kortrijk v Waasland-Beveren",
+      "utc": "2026-09-20T17:15:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-10-cercle-brugge-ksv-anderlecht",
+      "weekend": "2026-10-10",
+      "name": "Cercle Brugge KSV v Anderlecht",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-10-kv-mechelen-sint-truidense",
+      "weekend": "2026-10-10",
+      "name": "KV Mechelen v Sint-Truidense",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-10-kvc-westerlo-antwerp",
+      "weekend": "2026-10-10",
+      "name": "KVC Westerlo v Antwerp",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-10-raal-la-louvi-re-club-brugge",
+      "weekend": "2026-10-10",
+      "name": "RAAL La Louvi\u00e8re v Club Brugge",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-10-racing-genk-kv-kortrijk",
+      "weekend": "2026-10-10",
+      "name": "Racing Genk v KV Kortrijk",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-10-standard-liege-royal-charleroi-sc",
+      "weekend": "2026-10-10",
+      "name": "Standard Liege v Royal Charleroi SC",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-10-union-st-gilloise-oud-heverlee-leuven",
+      "weekend": "2026-10-10",
+      "name": "Union St.-Gilloise v Oud-Heverlee Leuven",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-10-waasland-beveren-lommel-sk",
+      "weekend": "2026-10-10",
+      "name": "Waasland-Beveren v Lommel SK",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-10-zulte-waregem-kaa-gent",
+      "weekend": "2026-10-10",
+      "name": "Zulte-Waregem v KAA Gent",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-24-antwerp-royal-charleroi-sc",
+      "weekend": "2026-10-24",
+      "name": "Antwerp v Royal Charleroi SC",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-24-club-brugge-sint-truidense",
+      "weekend": "2026-10-24",
+      "name": "Club Brugge v Sint-Truidense",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-24-kaa-gent-anderlecht",
+      "weekend": "2026-10-24",
+      "name": "KAA Gent v Anderlecht",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-24-kv-kortrijk-kv-mechelen",
+      "weekend": "2026-10-24",
+      "name": "KV Kortrijk v KV Mechelen",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-24-kvc-westerlo-waasland-beveren",
+      "weekend": "2026-10-24",
+      "name": "KVC Westerlo v Waasland-Beveren",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-24-oud-heverlee-leuven-lommel-sk",
+      "weekend": "2026-10-24",
+      "name": "Oud-Heverlee Leuven v Lommel SK",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-24-raal-la-louvi-re-zulte-waregem",
+      "weekend": "2026-10-24",
+      "name": "RAAL La Louvi\u00e8re v Zulte-Waregem",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-24-racing-genk-standard-liege",
+      "weekend": "2026-10-24",
+      "name": "Racing Genk v Standard Liege",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-24-union-st-gilloise-cercle-brugge-ksv",
+      "weekend": "2026-10-24",
+      "name": "Union St.-Gilloise v Cercle Brugge KSV",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-31-anderlecht-kvc-westerlo",
+      "weekend": "2026-10-31",
+      "name": "Anderlecht v KVC Westerlo",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-31-cercle-brugge-ksv-antwerp",
+      "weekend": "2026-10-31",
+      "name": "Cercle Brugge KSV v Antwerp",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-31-kv-mechelen-racing-genk",
+      "weekend": "2026-10-31",
+      "name": "KV Mechelen v Racing Genk",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-31-lommel-sk-kaa-gent",
+      "weekend": "2026-10-31",
+      "name": "Lommel SK v KAA Gent",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-31-royal-charleroi-sc-raal-la-louvi-re",
+      "weekend": "2026-10-31",
+      "name": "Royal Charleroi SC v RAAL La Louvi\u00e8re",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-31-sint-truidense-oud-heverlee-leuven",
+      "weekend": "2026-10-31",
+      "name": "Sint-Truidense v Oud-Heverlee Leuven",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-31-standard-liege-kv-kortrijk",
+      "weekend": "2026-10-31",
+      "name": "Standard Liege v KV Kortrijk",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-31-waasland-beveren-union-st-gilloise",
+      "weekend": "2026-10-31",
+      "name": "Waasland-Beveren v Union St.-Gilloise",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-10-31-zulte-waregem-club-brugge",
+      "weekend": "2026-10-31",
+      "name": "Zulte-Waregem v Club Brugge",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-07-antwerp-lommel-sk",
+      "weekend": "2026-11-07",
+      "name": "Antwerp v Lommel SK",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-07-club-brugge-anderlecht",
+      "weekend": "2026-11-07",
+      "name": "Club Brugge v Anderlecht",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-07-kaa-gent-kv-kortrijk",
+      "weekend": "2026-11-07",
+      "name": "KAA Gent v KV Kortrijk",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-07-kvc-westerlo-royal-charleroi-sc",
+      "weekend": "2026-11-07",
+      "name": "KVC Westerlo v Royal Charleroi SC",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-07-oud-heverlee-leuven-kv-mechelen",
+      "weekend": "2026-11-07",
+      "name": "Oud-Heverlee Leuven v KV Mechelen",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-07-raal-la-louvi-re-cercle-brugge-ksv",
+      "weekend": "2026-11-07",
+      "name": "RAAL La Louvi\u00e8re v Cercle Brugge KSV",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-07-sint-truidense-zulte-waregem",
+      "weekend": "2026-11-07",
+      "name": "Sint-Truidense v Zulte-Waregem",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-07-standard-liege-waasland-beveren",
+      "weekend": "2026-11-07",
+      "name": "Standard Liege v Waasland-Beveren",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-07-union-st-gilloise-racing-genk",
+      "weekend": "2026-11-07",
+      "name": "Union St.-Gilloise v Racing Genk",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-21-anderlecht-oud-heverlee-leuven",
+      "weekend": "2026-11-21",
+      "name": "Anderlecht v Oud-Heverlee Leuven",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-21-cercle-brugge-ksv-kvc-westerlo",
+      "weekend": "2026-11-21",
+      "name": "Cercle Brugge KSV v KVC Westerlo",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-21-kv-kortrijk-union-st-gilloise",
+      "weekend": "2026-11-21",
+      "name": "KV Kortrijk v Union St.-Gilloise",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-21-kv-mechelen-club-brugge",
+      "weekend": "2026-11-21",
+      "name": "KV Mechelen v Club Brugge",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-21-lommel-sk-standard-liege",
+      "weekend": "2026-11-21",
+      "name": "Lommel SK v Standard Liege",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-21-racing-genk-raal-la-louvi-re",
+      "weekend": "2026-11-21",
+      "name": "Racing Genk v RAAL La Louvi\u00e8re",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-21-royal-charleroi-sc-sint-truidense",
+      "weekend": "2026-11-21",
+      "name": "Royal Charleroi SC v Sint-Truidense",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-21-waasland-beveren-kaa-gent",
+      "weekend": "2026-11-21",
+      "name": "Waasland-Beveren v KAA Gent",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-21-zulte-waregem-antwerp",
+      "weekend": "2026-11-21",
+      "name": "Zulte-Waregem v Antwerp",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-28-antwerp-anderlecht",
+      "weekend": "2026-11-28",
+      "name": "Antwerp v Anderlecht",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-28-cercle-brugge-ksv-kv-mechelen",
+      "weekend": "2026-11-28",
+      "name": "Cercle Brugge KSV v KV Mechelen",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-28-kvc-westerlo-raal-la-louvi-re",
+      "weekend": "2026-11-28",
+      "name": "KVC Westerlo v RAAL La Louvi\u00e8re",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-28-lommel-sk-zulte-waregem",
+      "weekend": "2026-11-28",
+      "name": "Lommel SK v Zulte-Waregem",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-28-oud-heverlee-leuven-kv-kortrijk",
+      "weekend": "2026-11-28",
+      "name": "Oud-Heverlee Leuven v KV Kortrijk",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-28-royal-charleroi-sc-waasland-beveren",
+      "weekend": "2026-11-28",
+      "name": "Royal Charleroi SC v Waasland-Beveren",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-28-sint-truidense-racing-genk",
+      "weekend": "2026-11-28",
+      "name": "Sint-Truidense v Racing Genk",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-28-standard-liege-club-brugge",
+      "weekend": "2026-11-28",
+      "name": "Standard Liege v Club Brugge",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-11-28-union-st-gilloise-kaa-gent",
+      "weekend": "2026-11-28",
+      "name": "Union St.-Gilloise v KAA Gent",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-12-anderlecht-royal-charleroi-sc",
+      "weekend": "2026-12-12",
+      "name": "Anderlecht v Royal Charleroi SC",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-12-club-brugge-kvc-westerlo",
+      "weekend": "2026-12-12",
+      "name": "Club Brugge v KVC Westerlo",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-12-kaa-gent-sint-truidense",
+      "weekend": "2026-12-12",
+      "name": "KAA Gent v Sint-Truidense",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-12-kv-kortrijk-lommel-sk",
+      "weekend": "2026-12-12",
+      "name": "KV Kortrijk v Lommel SK",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-12-kv-mechelen-union-st-gilloise",
+      "weekend": "2026-12-12",
+      "name": "KV Mechelen v Union St.-Gilloise",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-12-raal-la-louvi-re-antwerp",
+      "weekend": "2026-12-12",
+      "name": "RAAL La Louvi\u00e8re v Antwerp",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-12-racing-genk-oud-heverlee-leuven",
+      "weekend": "2026-12-12",
+      "name": "Racing Genk v Oud-Heverlee Leuven",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-12-waasland-beveren-cercle-brugge-ksv",
+      "weekend": "2026-12-12",
+      "name": "Waasland-Beveren v Cercle Brugge KSV",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-12-zulte-waregem-standard-liege",
+      "weekend": "2026-12-12",
+      "name": "Zulte-Waregem v Standard Liege",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-19-antwerp-oud-heverlee-leuven",
+      "weekend": "2026-12-19",
+      "name": "Antwerp v Oud-Heverlee Leuven",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-19-cercle-brugge-ksv-zulte-waregem",
+      "weekend": "2026-12-19",
+      "name": "Cercle Brugge KSV v Zulte-Waregem",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-19-kvc-westerlo-kaa-gent",
+      "weekend": "2026-12-19",
+      "name": "KVC Westerlo v KAA Gent",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-19-lommel-sk-raal-la-louvi-re",
+      "weekend": "2026-12-19",
+      "name": "Lommel SK v RAAL La Louvi\u00e8re",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-19-royal-charleroi-sc-racing-genk",
+      "weekend": "2026-12-19",
+      "name": "Royal Charleroi SC v Racing Genk",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-19-sint-truidense-kv-kortrijk",
+      "weekend": "2026-12-19",
+      "name": "Sint-Truidense v KV Kortrijk",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-19-standard-liege-anderlecht",
+      "weekend": "2026-12-19",
+      "name": "Standard Liege v Anderlecht",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-19-union-st-gilloise-club-brugge",
+      "weekend": "2026-12-19",
+      "name": "Union St.-Gilloise v Club Brugge",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-19-waasland-beveren-kv-mechelen",
+      "weekend": "2026-12-19",
+      "name": "Waasland-Beveren v KV Mechelen",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-26-anderlecht-sint-truidense",
+      "weekend": "2026-12-26",
+      "name": "Anderlecht v Sint-Truidense",
+      "utc": "2026-12-26T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-26-club-brugge-royal-charleroi-sc",
+      "weekend": "2026-12-26",
+      "name": "Club Brugge v Royal Charleroi SC",
+      "utc": "2026-12-26T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-26-kaa-gent-antwerp",
+      "weekend": "2026-12-26",
+      "name": "KAA Gent v Antwerp",
+      "utc": "2026-12-26T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-26-kv-kortrijk-cercle-brugge-ksv",
+      "weekend": "2026-12-26",
+      "name": "KV Kortrijk v Cercle Brugge KSV",
+      "utc": "2026-12-26T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-26-kv-mechelen-zulte-waregem",
+      "weekend": "2026-12-26",
+      "name": "KV Mechelen v Zulte-Waregem",
+      "utc": "2026-12-26T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-26-oud-heverlee-leuven-kvc-westerlo",
+      "weekend": "2026-12-26",
+      "name": "Oud-Heverlee Leuven v KVC Westerlo",
+      "utc": "2026-12-26T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-26-raal-la-louvi-re-waasland-beveren",
+      "weekend": "2026-12-26",
+      "name": "RAAL La Louvi\u00e8re v Waasland-Beveren",
+      "utc": "2026-12-26T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-26-racing-genk-lommel-sk",
+      "weekend": "2026-12-26",
+      "name": "Racing Genk v Lommel SK",
+      "utc": "2026-12-26T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2026-12-26-standard-liege-union-st-gilloise",
+      "weekend": "2026-12-26",
+      "name": "Standard Liege v Union St.-Gilloise",
+      "utc": "2026-12-26T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-16-antwerp-kv-mechelen",
+      "weekend": "2027-01-16",
+      "name": "Antwerp v KV Mechelen",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-16-cercle-brugge-ksv-racing-genk",
+      "weekend": "2027-01-16",
+      "name": "Cercle Brugge KSV v Racing Genk",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-16-kvc-westerlo-kv-kortrijk",
+      "weekend": "2027-01-16",
+      "name": "KVC Westerlo v KV Kortrijk",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-16-lommel-sk-anderlecht",
+      "weekend": "2027-01-16",
+      "name": "Lommel SK v Anderlecht",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-16-royal-charleroi-sc-kaa-gent",
+      "weekend": "2027-01-16",
+      "name": "Royal Charleroi SC v KAA Gent",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-16-sint-truidense-standard-liege",
+      "weekend": "2027-01-16",
+      "name": "Sint-Truidense v Standard Liege",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-16-union-st-gilloise-raal-la-louvi-re",
+      "weekend": "2027-01-16",
+      "name": "Union St.-Gilloise v RAAL La Louvi\u00e8re",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-16-waasland-beveren-club-brugge",
+      "weekend": "2027-01-16",
+      "name": "Waasland-Beveren v Club Brugge",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-16-zulte-waregem-oud-heverlee-leuven",
+      "weekend": "2027-01-16",
+      "name": "Zulte-Waregem v Oud-Heverlee Leuven",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-23-club-brugge-raal-la-louvi-re",
+      "weekend": "2027-01-23",
+      "name": "Club Brugge v RAAL La Louvi\u00e8re",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-23-kaa-gent-cercle-brugge-ksv",
+      "weekend": "2027-01-23",
+      "name": "KAA Gent v Cercle Brugge KSV",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-23-kv-kortrijk-anderlecht",
+      "weekend": "2027-01-23",
+      "name": "KV Kortrijk v Anderlecht",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-23-kv-mechelen-lommel-sk",
+      "weekend": "2027-01-23",
+      "name": "KV Mechelen v Lommel SK",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-23-oud-heverlee-leuven-sint-truidense",
+      "weekend": "2027-01-23",
+      "name": "Oud-Heverlee Leuven v Sint-Truidense",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-23-racing-genk-zulte-waregem",
+      "weekend": "2027-01-23",
+      "name": "Racing Genk v Zulte-Waregem",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-23-royal-charleroi-sc-antwerp",
+      "weekend": "2027-01-23",
+      "name": "Royal Charleroi SC v Antwerp",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-23-standard-liege-kvc-westerlo",
+      "weekend": "2027-01-23",
+      "name": "Standard Liege v KVC Westerlo",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-23-union-st-gilloise-waasland-beveren",
+      "weekend": "2027-01-23",
+      "name": "Union St.-Gilloise v Waasland-Beveren",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-30-anderlecht-kaa-gent",
+      "weekend": "2027-01-30",
+      "name": "Anderlecht v KAA Gent",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-30-antwerp-club-brugge",
+      "weekend": "2027-01-30",
+      "name": "Antwerp v Club Brugge",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-30-cercle-brugge-ksv-standard-liege",
+      "weekend": "2027-01-30",
+      "name": "Cercle Brugge KSV v Standard Liege",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-30-kvc-westerlo-racing-genk",
+      "weekend": "2027-01-30",
+      "name": "KVC Westerlo v Racing Genk",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-30-lommel-sk-oud-heverlee-leuven",
+      "weekend": "2027-01-30",
+      "name": "Lommel SK v Oud-Heverlee Leuven",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-30-raal-la-louvi-re-royal-charleroi-sc",
+      "weekend": "2027-01-30",
+      "name": "RAAL La Louvi\u00e8re v Royal Charleroi SC",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-30-sint-truidense-kv-mechelen",
+      "weekend": "2027-01-30",
+      "name": "Sint-Truidense v KV Mechelen",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-30-waasland-beveren-kv-kortrijk",
+      "weekend": "2027-01-30",
+      "name": "Waasland-Beveren v KV Kortrijk",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-01-30-zulte-waregem-union-st-gilloise",
+      "weekend": "2027-01-30",
+      "name": "Zulte-Waregem v Union St.-Gilloise",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-06-club-brugge-standard-liege",
+      "weekend": "2027-02-06",
+      "name": "Club Brugge v Standard Liege",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-06-kaa-gent-waasland-beveren",
+      "weekend": "2027-02-06",
+      "name": "KAA Gent v Waasland-Beveren",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-06-kv-kortrijk-raal-la-louvi-re",
+      "weekend": "2027-02-06",
+      "name": "KV Kortrijk v RAAL La Louvi\u00e8re",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-06-kv-mechelen-cercle-brugge-ksv",
+      "weekend": "2027-02-06",
+      "name": "KV Mechelen v Cercle Brugge KSV",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-06-oud-heverlee-leuven-anderlecht",
+      "weekend": "2027-02-06",
+      "name": "Oud-Heverlee Leuven v Anderlecht",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-06-racing-genk-antwerp",
+      "weekend": "2027-02-06",
+      "name": "Racing Genk v Antwerp",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-06-royal-charleroi-sc-kvc-westerlo",
+      "weekend": "2027-02-06",
+      "name": "Royal Charleroi SC v KVC Westerlo",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-06-union-st-gilloise-sint-truidense",
+      "weekend": "2027-02-06",
+      "name": "Union St.-Gilloise v Sint-Truidense",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-06-zulte-waregem-lommel-sk",
+      "weekend": "2027-02-06",
+      "name": "Zulte-Waregem v Lommel SK",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-13-anderlecht-kv-mechelen",
+      "weekend": "2027-02-13",
+      "name": "Anderlecht v KV Mechelen",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-13-antwerp-kv-kortrijk",
+      "weekend": "2027-02-13",
+      "name": "Antwerp v KV Kortrijk",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-13-cercle-brugge-ksv-royal-charleroi-sc",
+      "weekend": "2027-02-13",
+      "name": "Cercle Brugge KSV v Royal Charleroi SC",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-13-kvc-westerlo-club-brugge",
+      "weekend": "2027-02-13",
+      "name": "KVC Westerlo v Club Brugge",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-13-lommel-sk-union-st-gilloise",
+      "weekend": "2027-02-13",
+      "name": "Lommel SK v Union St.-Gilloise",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-13-raal-la-louvi-re-oud-heverlee-leuven",
+      "weekend": "2027-02-13",
+      "name": "RAAL La Louvi\u00e8re v Oud-Heverlee Leuven",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-13-sint-truidense-kaa-gent",
+      "weekend": "2027-02-13",
+      "name": "Sint-Truidense v KAA Gent",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-13-standard-liege-zulte-waregem",
+      "weekend": "2027-02-13",
+      "name": "Standard Liege v Zulte-Waregem",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-13-waasland-beveren-racing-genk",
+      "weekend": "2027-02-13",
+      "name": "Waasland-Beveren v Racing Genk",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-20-club-brugge-lommel-sk",
+      "weekend": "2027-02-20",
+      "name": "Club Brugge v Lommel SK",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-20-kaa-gent-raal-la-louvi-re",
+      "weekend": "2027-02-20",
+      "name": "KAA Gent v RAAL La Louvi\u00e8re",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-20-kv-kortrijk-racing-genk",
+      "weekend": "2027-02-20",
+      "name": "KV Kortrijk v Racing Genk",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-20-kv-mechelen-waasland-beveren",
+      "weekend": "2027-02-20",
+      "name": "KV Mechelen v Waasland-Beveren",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-20-oud-heverlee-leuven-antwerp",
+      "weekend": "2027-02-20",
+      "name": "Oud-Heverlee Leuven v Antwerp",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-20-royal-charleroi-sc-standard-liege",
+      "weekend": "2027-02-20",
+      "name": "Royal Charleroi SC v Standard Liege",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-20-sint-truidense-cercle-brugge-ksv",
+      "weekend": "2027-02-20",
+      "name": "Sint-Truidense v Cercle Brugge KSV",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-20-union-st-gilloise-kvc-westerlo",
+      "weekend": "2027-02-20",
+      "name": "Union St.-Gilloise v KVC Westerlo",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-20-zulte-waregem-anderlecht",
+      "weekend": "2027-02-20",
+      "name": "Zulte-Waregem v Anderlecht",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-27-anderlecht-club-brugge",
+      "weekend": "2027-02-27",
+      "name": "Anderlecht v Club Brugge",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-27-antwerp-zulte-waregem",
+      "weekend": "2027-02-27",
+      "name": "Antwerp v Zulte-Waregem",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-27-cercle-brugge-ksv-oud-heverlee-leuven",
+      "weekend": "2027-02-27",
+      "name": "Cercle Brugge KSV v Oud-Heverlee Leuven",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-27-kvc-westerlo-kv-mechelen",
+      "weekend": "2027-02-27",
+      "name": "KVC Westerlo v KV Mechelen",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-27-lommel-sk-kv-kortrijk",
+      "weekend": "2027-02-27",
+      "name": "Lommel SK v KV Kortrijk",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-27-raal-la-louvi-re-sint-truidense",
+      "weekend": "2027-02-27",
+      "name": "RAAL La Louvi\u00e8re v Sint-Truidense",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-27-racing-genk-union-st-gilloise",
+      "weekend": "2027-02-27",
+      "name": "Racing Genk v Union St.-Gilloise",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-27-standard-liege-kaa-gent",
+      "weekend": "2027-02-27",
+      "name": "Standard Liege v KAA Gent",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-02-27-waasland-beveren-royal-charleroi-sc",
+      "weekend": "2027-02-27",
+      "name": "Waasland-Beveren v Royal Charleroi SC",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-06-club-brugge-waasland-beveren",
+      "weekend": "2027-03-06",
+      "name": "Club Brugge v Waasland-Beveren",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-06-kaa-gent-royal-charleroi-sc",
+      "weekend": "2027-03-06",
+      "name": "KAA Gent v Royal Charleroi SC",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-06-kv-mechelen-kv-kortrijk",
+      "weekend": "2027-03-06",
+      "name": "KV Mechelen v KV Kortrijk",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-06-kvc-westerlo-anderlecht",
+      "weekend": "2027-03-06",
+      "name": "KVC Westerlo v Anderlecht",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-06-oud-heverlee-leuven-racing-genk",
+      "weekend": "2027-03-06",
+      "name": "Oud-Heverlee Leuven v Racing Genk",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-06-raal-la-louvi-re-lommel-sk",
+      "weekend": "2027-03-06",
+      "name": "RAAL La Louvi\u00e8re v Lommel SK",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-06-sint-truidense-antwerp",
+      "weekend": "2027-03-06",
+      "name": "Sint-Truidense v Antwerp",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-06-union-st-gilloise-standard-liege",
+      "weekend": "2027-03-06",
+      "name": "Union St.-Gilloise v Standard Liege",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-06-zulte-waregem-cercle-brugge-ksv",
+      "weekend": "2027-03-06",
+      "name": "Zulte-Waregem v Cercle Brugge KSV",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-13-anderlecht-lommel-sk",
+      "weekend": "2027-03-13",
+      "name": "Anderlecht v Lommel SK",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-13-antwerp-raal-la-louvi-re",
+      "weekend": "2027-03-13",
+      "name": "Antwerp v RAAL La Louvi\u00e8re",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-13-cercle-brugge-ksv-union-st-gilloise",
+      "weekend": "2027-03-13",
+      "name": "Cercle Brugge KSV v Union St.-Gilloise",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-13-kaa-gent-zulte-waregem",
+      "weekend": "2027-03-13",
+      "name": "KAA Gent v Zulte-Waregem",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-13-kv-kortrijk-oud-heverlee-leuven",
+      "weekend": "2027-03-13",
+      "name": "KV Kortrijk v Oud-Heverlee Leuven",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-13-racing-genk-sint-truidense",
+      "weekend": "2027-03-13",
+      "name": "Racing Genk v Sint-Truidense",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-13-royal-charleroi-sc-club-brugge",
+      "weekend": "2027-03-13",
+      "name": "Royal Charleroi SC v Club Brugge",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-13-standard-liege-kv-mechelen",
+      "weekend": "2027-03-13",
+      "name": "Standard Liege v KV Mechelen",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-13-waasland-beveren-kvc-westerlo",
+      "weekend": "2027-03-13",
+      "name": "Waasland-Beveren v KVC Westerlo",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-20-anderlecht-standard-liege",
+      "weekend": "2027-03-20",
+      "name": "Anderlecht v Standard Liege",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-20-club-brugge-kaa-gent",
+      "weekend": "2027-03-20",
+      "name": "Club Brugge v KAA Gent",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-20-kv-mechelen-royal-charleroi-sc",
+      "weekend": "2027-03-20",
+      "name": "KV Mechelen v Royal Charleroi SC",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-20-kvc-westerlo-cercle-brugge-ksv",
+      "weekend": "2027-03-20",
+      "name": "KVC Westerlo v Cercle Brugge KSV",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-20-lommel-sk-antwerp",
+      "weekend": "2027-03-20",
+      "name": "Lommel SK v Antwerp",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-20-oud-heverlee-leuven-union-st-gilloise",
+      "weekend": "2027-03-20",
+      "name": "Oud-Heverlee Leuven v Union St.-Gilloise",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-20-raal-la-louvi-re-racing-genk",
+      "weekend": "2027-03-20",
+      "name": "RAAL La Louvi\u00e8re v Racing Genk",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-20-sint-truidense-waasland-beveren",
+      "weekend": "2027-03-20",
+      "name": "Sint-Truidense v Waasland-Beveren",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-03-20-zulte-waregem-kv-kortrijk",
+      "weekend": "2027-03-20",
+      "name": "Zulte-Waregem v KV Kortrijk",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-03-cercle-brugge-ksv-raal-la-louvi-re",
+      "weekend": "2027-04-03",
+      "name": "Cercle Brugge KSV v RAAL La Louvi\u00e8re",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-03-kaa-gent-kvc-westerlo",
+      "weekend": "2027-04-03",
+      "name": "KAA Gent v KVC Westerlo",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-03-kv-kortrijk-club-brugge",
+      "weekend": "2027-04-03",
+      "name": "KV Kortrijk v Club Brugge",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-03-oud-heverlee-leuven-zulte-waregem",
+      "weekend": "2027-04-03",
+      "name": "Oud-Heverlee Leuven v Zulte-Waregem",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-03-racing-genk-anderlecht",
+      "weekend": "2027-04-03",
+      "name": "Racing Genk v Anderlecht",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-03-royal-charleroi-sc-lommel-sk",
+      "weekend": "2027-04-03",
+      "name": "Royal Charleroi SC v Lommel SK",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-03-standard-liege-sint-truidense",
+      "weekend": "2027-04-03",
+      "name": "Standard Liege v Sint-Truidense",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-03-union-st-gilloise-kv-mechelen",
+      "weekend": "2027-04-03",
+      "name": "Union St.-Gilloise v KV Mechelen",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-03-waasland-beveren-antwerp",
+      "weekend": "2027-04-03",
+      "name": "Waasland-Beveren v Antwerp",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-10-anderlecht-waasland-beveren",
+      "weekend": "2027-04-10",
+      "name": "Anderlecht v Waasland-Beveren",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-10-antwerp-cercle-brugge-ksv",
+      "weekend": "2027-04-10",
+      "name": "Antwerp v Cercle Brugge KSV",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-10-club-brugge-oud-heverlee-leuven",
+      "weekend": "2027-04-10",
+      "name": "Club Brugge v Oud-Heverlee Leuven",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-10-kv-kortrijk-standard-liege",
+      "weekend": "2027-04-10",
+      "name": "KV Kortrijk v Standard Liege",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-10-kv-mechelen-kaa-gent",
+      "weekend": "2027-04-10",
+      "name": "KV Mechelen v KAA Gent",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-10-lommel-sk-racing-genk",
+      "weekend": "2027-04-10",
+      "name": "Lommel SK v Racing Genk",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-10-raal-la-louvi-re-union-st-gilloise",
+      "weekend": "2027-04-10",
+      "name": "RAAL La Louvi\u00e8re v Union St.-Gilloise",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-10-sint-truidense-royal-charleroi-sc",
+      "weekend": "2027-04-10",
+      "name": "Sint-Truidense v Royal Charleroi SC",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-10-zulte-waregem-kvc-westerlo",
+      "weekend": "2027-04-10",
+      "name": "Zulte-Waregem v KVC Westerlo",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-17-cercle-brugge-ksv-kv-kortrijk",
+      "weekend": "2027-04-17",
+      "name": "Cercle Brugge KSV v KV Kortrijk",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-17-kaa-gent-lommel-sk",
+      "weekend": "2027-04-17",
+      "name": "KAA Gent v Lommel SK",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-17-kv-mechelen-raal-la-louvi-re",
+      "weekend": "2027-04-17",
+      "name": "KV Mechelen v RAAL La Louvi\u00e8re",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-17-kvc-westerlo-sint-truidense",
+      "weekend": "2027-04-17",
+      "name": "KVC Westerlo v Sint-Truidense",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-17-racing-genk-club-brugge",
+      "weekend": "2027-04-17",
+      "name": "Racing Genk v Club Brugge",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-17-royal-charleroi-sc-anderlecht",
+      "weekend": "2027-04-17",
+      "name": "Royal Charleroi SC v Anderlecht",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-17-standard-liege-oud-heverlee-leuven",
+      "weekend": "2027-04-17",
+      "name": "Standard Liege v Oud-Heverlee Leuven",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-17-union-st-gilloise-antwerp",
+      "weekend": "2027-04-17",
+      "name": "Union St.-Gilloise v Antwerp",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-17-waasland-beveren-zulte-waregem",
+      "weekend": "2027-04-17",
+      "name": "Waasland-Beveren v Zulte-Waregem",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-24-anderlecht-cercle-brugge-ksv",
+      "weekend": "2027-04-24",
+      "name": "Anderlecht v Cercle Brugge KSV",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-24-antwerp-kaa-gent",
+      "weekend": "2027-04-24",
+      "name": "Antwerp v KAA Gent",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-24-club-brugge-union-st-gilloise",
+      "weekend": "2027-04-24",
+      "name": "Club Brugge v Union St.-Gilloise",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-24-kv-kortrijk-kvc-westerlo",
+      "weekend": "2027-04-24",
+      "name": "KV Kortrijk v KVC Westerlo",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-24-lommel-sk-sint-truidense",
+      "weekend": "2027-04-24",
+      "name": "Lommel SK v Sint-Truidense",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-24-oud-heverlee-leuven-waasland-beveren",
+      "weekend": "2027-04-24",
+      "name": "Oud-Heverlee Leuven v Waasland-Beveren",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-24-raal-la-louvi-re-standard-liege",
+      "weekend": "2027-04-24",
+      "name": "RAAL La Louvi\u00e8re v Standard Liege",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-24-racing-genk-royal-charleroi-sc",
+      "weekend": "2027-04-24",
+      "name": "Racing Genk v Royal Charleroi SC",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-04-24-zulte-waregem-kv-mechelen",
+      "weekend": "2027-04-24",
+      "name": "Zulte-Waregem v KV Mechelen",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-01-cercle-brugge-ksv-club-brugge",
+      "weekend": "2027-05-01",
+      "name": "Cercle Brugge KSV v Club Brugge",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-01-kaa-gent-racing-genk",
+      "weekend": "2027-05-01",
+      "name": "KAA Gent v Racing Genk",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-01-kv-mechelen-antwerp",
+      "weekend": "2027-05-01",
+      "name": "KV Mechelen v Antwerp",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-01-kvc-westerlo-oud-heverlee-leuven",
+      "weekend": "2027-05-01",
+      "name": "KVC Westerlo v Oud-Heverlee Leuven",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-01-royal-charleroi-sc-zulte-waregem",
+      "weekend": "2027-05-01",
+      "name": "Royal Charleroi SC v Zulte-Waregem",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-01-sint-truidense-anderlecht",
+      "weekend": "2027-05-01",
+      "name": "Sint-Truidense v Anderlecht",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-01-standard-liege-lommel-sk",
+      "weekend": "2027-05-01",
+      "name": "Standard Liege v Lommel SK",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-01-union-st-gilloise-kv-kortrijk",
+      "weekend": "2027-05-01",
+      "name": "Union St.-Gilloise v KV Kortrijk",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-01-waasland-beveren-raal-la-louvi-re",
+      "weekend": "2027-05-01",
+      "name": "Waasland-Beveren v RAAL La Louvi\u00e8re",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-08-anderlecht-union-st-gilloise",
+      "weekend": "2027-05-08",
+      "name": "Anderlecht v Union St.-Gilloise",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-08-antwerp-standard-liege",
+      "weekend": "2027-05-08",
+      "name": "Antwerp v Standard Liege",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-08-club-brugge-kv-mechelen",
+      "weekend": "2027-05-08",
+      "name": "Club Brugge v KV Mechelen",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-08-kv-kortrijk-kaa-gent",
+      "weekend": "2027-05-08",
+      "name": "KV Kortrijk v KAA Gent",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-08-lommel-sk-waasland-beveren",
+      "weekend": "2027-05-08",
+      "name": "Lommel SK v Waasland-Beveren",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-08-oud-heverlee-leuven-royal-charleroi-sc",
+      "weekend": "2027-05-08",
+      "name": "Oud-Heverlee Leuven v Royal Charleroi SC",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-08-raal-la-louvi-re-kvc-westerlo",
+      "weekend": "2027-05-08",
+      "name": "RAAL La Louvi\u00e8re v KVC Westerlo",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-08-racing-genk-cercle-brugge-ksv",
+      "weekend": "2027-05-08",
+      "name": "Racing Genk v Cercle Brugge KSV",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-08-zulte-waregem-sint-truidense",
+      "weekend": "2027-05-08",
+      "name": "Zulte-Waregem v Sint-Truidense",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-15-anderlecht-antwerp",
+      "weekend": "2027-05-15",
+      "name": "Anderlecht v Antwerp",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-15-cercle-brugge-ksv-waasland-beveren",
+      "weekend": "2027-05-15",
+      "name": "Cercle Brugge KSV v Waasland-Beveren",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-15-kaa-gent-union-st-gilloise",
+      "weekend": "2027-05-15",
+      "name": "KAA Gent v Union St.-Gilloise",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-15-kv-mechelen-oud-heverlee-leuven",
+      "weekend": "2027-05-15",
+      "name": "KV Mechelen v Oud-Heverlee Leuven",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-15-kvc-westerlo-lommel-sk",
+      "weekend": "2027-05-15",
+      "name": "KVC Westerlo v Lommel SK",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-15-royal-charleroi-sc-kv-kortrijk",
+      "weekend": "2027-05-15",
+      "name": "Royal Charleroi SC v KV Kortrijk",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-15-sint-truidense-club-brugge",
+      "weekend": "2027-05-15",
+      "name": "Sint-Truidense v Club Brugge",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-15-standard-liege-racing-genk",
+      "weekend": "2027-05-15",
+      "name": "Standard Liege v Racing Genk",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "bel.1-2027-05-15-zulte-waregem-raal-la-louvi-re",
+      "weekend": "2027-05-15",
+      "name": "Zulte-Waregem v RAAL La Louvi\u00e8re",
+      "utc": "2027-05-15T18:00:00Z"
+    }
+  ]
+}

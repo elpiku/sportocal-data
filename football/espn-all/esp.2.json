@@ -1,0 +1,2581 @@
+{
+  "sportKey": "soccer-esp.2",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "esp.2-2026-08-14-real-sociedad-ii-castell-n",
+      "weekend": "2026-08-14",
+      "name": "Real Sociedad II v Castell\u00f3n",
+      "utc": "2026-08-14T18:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-15-fc-andorra-ceuta",
+      "weekend": "2026-08-15",
+      "name": "FC Andorra v Ceuta",
+      "utc": "2026-08-15T15:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-15-c-diz-rc-celta-fortuna",
+      "weekend": "2026-08-15",
+      "name": "C\u00e1diz v RC Celta Fortuna",
+      "utc": "2026-08-15T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-15-real-oviedo-granada",
+      "weekend": "2026-08-15",
+      "name": "Real Oviedo v Granada",
+      "utc": "2026-08-15T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-15-mallorca-real-valladolid",
+      "weekend": "2026-08-15",
+      "name": "Mallorca v Real Valladolid",
+      "utc": "2026-08-15T19:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-16-eibar-tenerife",
+      "weekend": "2026-08-16",
+      "name": "Eibar v Tenerife",
+      "utc": "2026-08-16T15:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-16-burgos-c-rdoba",
+      "weekend": "2026-08-16",
+      "name": "Burgos v C\u00f3rdoba",
+      "utc": "2026-08-16T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-16-girona-legan-s",
+      "weekend": "2026-08-16",
+      "name": "Girona v Legan\u00e9s",
+      "utc": "2026-08-16T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-16-las-palmas-albacete",
+      "weekend": "2026-08-16",
+      "name": "Las Palmas v Albacete",
+      "utc": "2026-08-16T19:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-17-sporting-gij-n-cd-sabadell",
+      "weekend": "2026-08-17",
+      "name": "Sporting Gij\u00f3n v CD Sabadell",
+      "utc": "2026-08-17T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-17-almer-a-eldense",
+      "weekend": "2026-08-17",
+      "name": "Almer\u00eda v Eldense",
+      "utc": "2026-08-17T19:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-21-c-rdoba-girona",
+      "weekend": "2026-08-21",
+      "name": "C\u00f3rdoba v Girona",
+      "utc": "2026-08-21T19:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-22-real-oviedo-legan-s",
+      "weekend": "2026-08-22",
+      "name": "Real Oviedo v Legan\u00e9s",
+      "utc": "2026-08-22T15:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-22-albacete-real-sociedad-ii",
+      "weekend": "2026-08-22",
+      "name": "Albacete v Real Sociedad II",
+      "utc": "2026-08-22T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-22-ceuta-las-palmas",
+      "weekend": "2026-08-22",
+      "name": "Ceuta v Las Palmas",
+      "utc": "2026-08-22T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-22-eldense-c-diz",
+      "weekend": "2026-08-22",
+      "name": "Eldense v C\u00e1diz",
+      "utc": "2026-08-22T19:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-23-eibar-real-valladolid",
+      "weekend": "2026-08-23",
+      "name": "Eibar v Real Valladolid",
+      "utc": "2026-08-23T15:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-23-castell-n-cd-sabadell",
+      "weekend": "2026-08-23",
+      "name": "Castell\u00f3n v CD Sabadell",
+      "utc": "2026-08-23T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-23-sporting-gij-n-burgos",
+      "weekend": "2026-08-23",
+      "name": "Sporting Gij\u00f3n v Burgos",
+      "utc": "2026-08-23T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-23-tenerife-almer-a",
+      "weekend": "2026-08-23",
+      "name": "Tenerife v Almer\u00eda",
+      "utc": "2026-08-23T19:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-24-rc-celta-fortuna-fc-andorra",
+      "weekend": "2026-08-24",
+      "name": "RC Celta Fortuna v FC Andorra",
+      "utc": "2026-08-24T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-24-granada-mallorca",
+      "weekend": "2026-08-24",
+      "name": "Granada v Mallorca",
+      "utc": "2026-08-24T19:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-28-tenerife-sporting-gij-n",
+      "weekend": "2026-08-28",
+      "name": "Tenerife v Sporting Gij\u00f3n",
+      "utc": "2026-08-28T19:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-29-cd-sabadell-almer-a",
+      "weekend": "2026-08-29",
+      "name": "CD Sabadell v Almer\u00eda",
+      "utc": "2026-08-29T15:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-29-albacete-real-oviedo",
+      "weekend": "2026-08-29",
+      "name": "Albacete v Real Oviedo",
+      "utc": "2026-08-29T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-29-legan-s-eldense",
+      "weekend": "2026-08-29",
+      "name": "Legan\u00e9s v Eldense",
+      "utc": "2026-08-29T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-29-girona-las-palmas",
+      "weekend": "2026-08-29",
+      "name": "Girona v Las Palmas",
+      "utc": "2026-08-29T19:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-30-fc-andorra-eibar",
+      "weekend": "2026-08-30",
+      "name": "FC Andorra v Eibar",
+      "utc": "2026-08-30T15:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-30-c-diz-real-valladolid",
+      "weekend": "2026-08-30",
+      "name": "C\u00e1diz v Real Valladolid",
+      "utc": "2026-08-30T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-30-mallorca-ceuta",
+      "weekend": "2026-08-30",
+      "name": "Mallorca v Ceuta",
+      "utc": "2026-08-30T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-30-c-rdoba-granada",
+      "weekend": "2026-08-30",
+      "name": "C\u00f3rdoba v Granada",
+      "utc": "2026-08-30T19:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-31-burgos-real-sociedad-ii",
+      "weekend": "2026-08-31",
+      "name": "Burgos v Real Sociedad II",
+      "utc": "2026-08-31T17:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-08-31-rc-celta-fortuna-castell-n",
+      "weekend": "2026-08-31",
+      "name": "RC Celta Fortuna v Castell\u00f3n",
+      "utc": "2026-08-31T19:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-04-las-palmas-legan-s",
+      "weekend": "2026-09-04",
+      "name": "Las Palmas v Legan\u00e9s",
+      "utc": "2026-09-04T18:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-05-real-sociedad-ii-tenerife",
+      "weekend": "2026-09-05",
+      "name": "Real Sociedad II v Tenerife",
+      "utc": "2026-09-05T12:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-05-sporting-gij-n-girona",
+      "weekend": "2026-09-05",
+      "name": "Sporting Gij\u00f3n v Girona",
+      "utc": "2026-09-05T14:15:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-05-ceuta-rc-celta-fortuna",
+      "weekend": "2026-09-05",
+      "name": "Ceuta v RC Celta Fortuna",
+      "utc": "2026-09-05T16:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-05-real-valladolid-fc-andorra",
+      "weekend": "2026-09-05",
+      "name": "Real Valladolid v FC Andorra",
+      "utc": "2026-09-05T16:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-05-eldense-mallorca",
+      "weekend": "2026-09-05",
+      "name": "Eldense v Mallorca",
+      "utc": "2026-09-05T19:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-06-eibar-granada",
+      "weekend": "2026-09-06",
+      "name": "Eibar v Granada",
+      "utc": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-06-real-oviedo-burgos",
+      "weekend": "2026-09-06",
+      "name": "Real Oviedo v Burgos",
+      "utc": "2026-09-06T14:15:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-06-castell-n-albacete",
+      "weekend": "2026-09-06",
+      "name": "Castell\u00f3n v Albacete",
+      "utc": "2026-09-06T16:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-06-almer-a-c-diz",
+      "weekend": "2026-09-06",
+      "name": "Almer\u00eda v C\u00e1diz",
+      "utc": "2026-09-06T19:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-07-cd-sabadell-c-rdoba",
+      "weekend": "2026-09-07",
+      "name": "CD Sabadell v C\u00f3rdoba",
+      "utc": "2026-09-07T18:30:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-13-burgos-ceuta",
+      "weekend": "2026-09-13",
+      "name": "Burgos v Ceuta",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-13-c-diz-las-palmas",
+      "weekend": "2026-09-13",
+      "name": "C\u00e1diz v Las Palmas",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-13-c-rdoba-almer-a",
+      "weekend": "2026-09-13",
+      "name": "C\u00f3rdoba v Almer\u00eda",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-13-fc-andorra-real-sociedad-ii",
+      "weekend": "2026-09-13",
+      "name": "FC Andorra v Real Sociedad II",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-13-girona-castell-n",
+      "weekend": "2026-09-13",
+      "name": "Girona v Castell\u00f3n",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-13-granada-albacete",
+      "weekend": "2026-09-13",
+      "name": "Granada v Albacete",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-13-mallorca-cd-sabadell",
+      "weekend": "2026-09-13",
+      "name": "Mallorca v CD Sabadell",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-13-rc-celta-fortuna-eibar",
+      "weekend": "2026-09-13",
+      "name": "RC Celta Fortuna v Eibar",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-13-real-valladolid-real-oviedo",
+      "weekend": "2026-09-13",
+      "name": "Real Valladolid v Real Oviedo",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-13-sporting-gij-n-eldense",
+      "weekend": "2026-09-13",
+      "name": "Sporting Gij\u00f3n v Eldense",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-13-tenerife-legan-s",
+      "weekend": "2026-09-13",
+      "name": "Tenerife v Legan\u00e9s",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-20-albacete-c-rdoba",
+      "weekend": "2026-09-20",
+      "name": "Albacete v C\u00f3rdoba",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-20-almer-a-rc-celta-fortuna",
+      "weekend": "2026-09-20",
+      "name": "Almer\u00eda v RC Celta Fortuna",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-20-c-diz-girona",
+      "weekend": "2026-09-20",
+      "name": "C\u00e1diz v Girona",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-20-castell-n-tenerife",
+      "weekend": "2026-09-20",
+      "name": "Castell\u00f3n v Tenerife",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-20-cd-sabadell-real-oviedo",
+      "weekend": "2026-09-20",
+      "name": "CD Sabadell v Real Oviedo",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-20-ceuta-real-valladolid",
+      "weekend": "2026-09-20",
+      "name": "Ceuta v Real Valladolid",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-20-eldense-eibar",
+      "weekend": "2026-09-20",
+      "name": "Eldense v Eibar",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-20-fc-andorra-sporting-gij-n",
+      "weekend": "2026-09-20",
+      "name": "FC Andorra v Sporting Gij\u00f3n",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-20-las-palmas-burgos",
+      "weekend": "2026-09-20",
+      "name": "Las Palmas v Burgos",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-20-legan-s-granada",
+      "weekend": "2026-09-20",
+      "name": "Legan\u00e9s v Granada",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-20-real-sociedad-ii-mallorca",
+      "weekend": "2026-09-20",
+      "name": "Real Sociedad II v Mallorca",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-27-burgos-eldense",
+      "weekend": "2026-09-27",
+      "name": "Burgos v Eldense",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-27-ceuta-real-sociedad-ii",
+      "weekend": "2026-09-27",
+      "name": "Ceuta v Real Sociedad II",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-27-eibar-las-palmas",
+      "weekend": "2026-09-27",
+      "name": "Eibar v Las Palmas",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-27-girona-albacete",
+      "weekend": "2026-09-27",
+      "name": "Girona v Albacete",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-27-granada-fc-andorra",
+      "weekend": "2026-09-27",
+      "name": "Granada v FC Andorra",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-27-legan-s-castell-n",
+      "weekend": "2026-09-27",
+      "name": "Legan\u00e9s v Castell\u00f3n",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-27-mallorca-almer-a",
+      "weekend": "2026-09-27",
+      "name": "Mallorca v Almer\u00eda",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-27-rc-celta-fortuna-cd-sabadell",
+      "weekend": "2026-09-27",
+      "name": "RC Celta Fortuna v CD Sabadell",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-27-real-oviedo-sporting-gij-n",
+      "weekend": "2026-09-27",
+      "name": "Real Oviedo v Sporting Gij\u00f3n",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-27-real-valladolid-c-rdoba",
+      "weekend": "2026-09-27",
+      "name": "Real Valladolid v C\u00f3rdoba",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-09-27-tenerife-c-diz",
+      "weekend": "2026-09-27",
+      "name": "Tenerife v C\u00e1diz",
+      "utc": "2026-09-27T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-04-albacete-eibar",
+      "weekend": "2026-10-04",
+      "name": "Albacete v Eibar",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-04-almer-a-burgos",
+      "weekend": "2026-10-04",
+      "name": "Almer\u00eda v Burgos",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-04-c-diz-legan-s",
+      "weekend": "2026-10-04",
+      "name": "C\u00e1diz v Legan\u00e9s",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-04-castell-n-ceuta",
+      "weekend": "2026-10-04",
+      "name": "Castell\u00f3n v Ceuta",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-04-cd-sabadell-fc-andorra",
+      "weekend": "2026-10-04",
+      "name": "CD Sabadell v FC Andorra",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-04-c-rdoba-tenerife",
+      "weekend": "2026-10-04",
+      "name": "C\u00f3rdoba v Tenerife",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-04-eldense-real-oviedo",
+      "weekend": "2026-10-04",
+      "name": "Eldense v Real Oviedo",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-04-girona-mallorca",
+      "weekend": "2026-10-04",
+      "name": "Girona v Mallorca",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-04-las-palmas-real-valladolid",
+      "weekend": "2026-10-04",
+      "name": "Las Palmas v Real Valladolid",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-04-real-sociedad-ii-granada",
+      "weekend": "2026-10-04",
+      "name": "Real Sociedad II v Granada",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-04-sporting-gij-n-rc-celta-fortuna",
+      "weekend": "2026-10-04",
+      "name": "Sporting Gij\u00f3n v RC Celta Fortuna",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-11-almer-a-legan-s",
+      "weekend": "2026-10-11",
+      "name": "Almer\u00eda v Legan\u00e9s",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-11-burgos-granada",
+      "weekend": "2026-10-11",
+      "name": "Burgos v Granada",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-11-c-diz-sporting-gij-n",
+      "weekend": "2026-10-11",
+      "name": "C\u00e1diz v Sporting Gij\u00f3n",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-11-ceuta-cd-sabadell",
+      "weekend": "2026-10-11",
+      "name": "Ceuta v CD Sabadell",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-11-eldense-c-rdoba",
+      "weekend": "2026-10-11",
+      "name": "Eldense v C\u00f3rdoba",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-11-fc-andorra-castell-n",
+      "weekend": "2026-10-11",
+      "name": "FC Andorra v Castell\u00f3n",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-11-mallorca-las-palmas",
+      "weekend": "2026-10-11",
+      "name": "Mallorca v Las Palmas",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-11-rc-celta-fortuna-real-sociedad-ii",
+      "weekend": "2026-10-11",
+      "name": "RC Celta Fortuna v Real Sociedad II",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-11-real-oviedo-eibar",
+      "weekend": "2026-10-11",
+      "name": "Real Oviedo v Eibar",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-11-real-valladolid-albacete",
+      "weekend": "2026-10-11",
+      "name": "Real Valladolid v Albacete",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-11-tenerife-girona",
+      "weekend": "2026-10-11",
+      "name": "Tenerife v Girona",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-18-burgos-cd-sabadell",
+      "weekend": "2026-10-18",
+      "name": "Burgos v CD Sabadell",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-18-ceuta-real-oviedo",
+      "weekend": "2026-10-18",
+      "name": "Ceuta v Real Oviedo",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-18-eibar-mallorca",
+      "weekend": "2026-10-18",
+      "name": "Eibar v Mallorca",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-18-girona-fc-andorra",
+      "weekend": "2026-10-18",
+      "name": "Girona v FC Andorra",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-18-granada-c-diz",
+      "weekend": "2026-10-18",
+      "name": "Granada v C\u00e1diz",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-18-las-palmas-castell-n",
+      "weekend": "2026-10-18",
+      "name": "Las Palmas v Castell\u00f3n",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-18-legan-s-c-rdoba",
+      "weekend": "2026-10-18",
+      "name": "Legan\u00e9s v C\u00f3rdoba",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-18-rc-celta-fortuna-tenerife",
+      "weekend": "2026-10-18",
+      "name": "RC Celta Fortuna v Tenerife",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-18-real-sociedad-ii-almer-a",
+      "weekend": "2026-10-18",
+      "name": "Real Sociedad II v Almer\u00eda",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-18-real-valladolid-eldense",
+      "weekend": "2026-10-18",
+      "name": "Real Valladolid v Eldense",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-18-sporting-gij-n-albacete",
+      "weekend": "2026-10-18",
+      "name": "Sporting Gij\u00f3n v Albacete",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-25-albacete-eldense",
+      "weekend": "2026-10-25",
+      "name": "Albacete v Eldense",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-25-almer-a-real-oviedo",
+      "weekend": "2026-10-25",
+      "name": "Almer\u00eda v Real Oviedo",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-25-c-diz-ceuta",
+      "weekend": "2026-10-25",
+      "name": "C\u00e1diz v Ceuta",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-25-castell-n-sporting-gij-n",
+      "weekend": "2026-10-25",
+      "name": "Castell\u00f3n v Sporting Gij\u00f3n",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-25-cd-sabadell-tenerife",
+      "weekend": "2026-10-25",
+      "name": "CD Sabadell v Tenerife",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-25-c-rdoba-eibar",
+      "weekend": "2026-10-25",
+      "name": "C\u00f3rdoba v Eibar",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-25-fc-andorra-burgos",
+      "weekend": "2026-10-25",
+      "name": "FC Andorra v Burgos",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-25-girona-rc-celta-fortuna",
+      "weekend": "2026-10-25",
+      "name": "Girona v RC Celta Fortuna",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-25-granada-real-valladolid",
+      "weekend": "2026-10-25",
+      "name": "Granada v Real Valladolid",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-25-las-palmas-real-sociedad-ii",
+      "weekend": "2026-10-25",
+      "name": "Las Palmas v Real Sociedad II",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-10-25-legan-s-mallorca",
+      "weekend": "2026-10-25",
+      "name": "Legan\u00e9s v Mallorca",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-01-albacete-cd-sabadell",
+      "weekend": "2026-11-01",
+      "name": "Albacete v CD Sabadell",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-01-burgos-castell-n",
+      "weekend": "2026-11-01",
+      "name": "Burgos v Castell\u00f3n",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-01-ceuta-sporting-gij-n",
+      "weekend": "2026-11-01",
+      "name": "Ceuta v Sporting Gij\u00f3n",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-01-eibar-almer-a",
+      "weekend": "2026-11-01",
+      "name": "Eibar v Almer\u00eda",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-01-eldense-granada",
+      "weekend": "2026-11-01",
+      "name": "Eldense v Granada",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-01-mallorca-c-diz",
+      "weekend": "2026-11-01",
+      "name": "Mallorca v C\u00e1diz",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-01-rc-celta-fortuna-c-rdoba",
+      "weekend": "2026-11-01",
+      "name": "RC Celta Fortuna v C\u00f3rdoba",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-01-real-oviedo-las-palmas",
+      "weekend": "2026-11-01",
+      "name": "Real Oviedo v Las Palmas",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-01-real-sociedad-ii-girona",
+      "weekend": "2026-11-01",
+      "name": "Real Sociedad II v Girona",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-01-real-valladolid-legan-s",
+      "weekend": "2026-11-01",
+      "name": "Real Valladolid v Legan\u00e9s",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-01-tenerife-fc-andorra",
+      "weekend": "2026-11-01",
+      "name": "Tenerife v FC Andorra",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-08-burgos-rc-celta-fortuna",
+      "weekend": "2026-11-08",
+      "name": "Burgos v RC Celta Fortuna",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-08-c-diz-real-oviedo",
+      "weekend": "2026-11-08",
+      "name": "C\u00e1diz v Real Oviedo",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-08-castell-n-eibar",
+      "weekend": "2026-11-08",
+      "name": "Castell\u00f3n v Eibar",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-08-cd-sabadell-real-sociedad-ii",
+      "weekend": "2026-11-08",
+      "name": "CD Sabadell v Real Sociedad II",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-08-c-rdoba-ceuta",
+      "weekend": "2026-11-08",
+      "name": "C\u00f3rdoba v Ceuta",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-08-fc-andorra-mallorca",
+      "weekend": "2026-11-08",
+      "name": "FC Andorra v Mallorca",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-08-girona-almer-a",
+      "weekend": "2026-11-08",
+      "name": "Girona v Almer\u00eda",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-08-granada-tenerife",
+      "weekend": "2026-11-08",
+      "name": "Granada v Tenerife",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-08-las-palmas-eldense",
+      "weekend": "2026-11-08",
+      "name": "Las Palmas v Eldense",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-08-legan-s-albacete",
+      "weekend": "2026-11-08",
+      "name": "Legan\u00e9s v Albacete",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-08-sporting-gij-n-real-valladolid",
+      "weekend": "2026-11-08",
+      "name": "Sporting Gij\u00f3n v Real Valladolid",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-15-albacete-rc-celta-fortuna",
+      "weekend": "2026-11-15",
+      "name": "Albacete v RC Celta Fortuna",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-15-almer-a-fc-andorra",
+      "weekend": "2026-11-15",
+      "name": "Almer\u00eda v FC Andorra",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-15-eibar-c-diz",
+      "weekend": "2026-11-15",
+      "name": "Eibar v C\u00e1diz",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-15-eldense-cd-sabadell",
+      "weekend": "2026-11-15",
+      "name": "Eldense v CD Sabadell",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-15-granada-las-palmas",
+      "weekend": "2026-11-15",
+      "name": "Granada v Las Palmas",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-15-legan-s-burgos",
+      "weekend": "2026-11-15",
+      "name": "Legan\u00e9s v Burgos",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-15-mallorca-c-rdoba",
+      "weekend": "2026-11-15",
+      "name": "Mallorca v C\u00f3rdoba",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-15-real-oviedo-girona",
+      "weekend": "2026-11-15",
+      "name": "Real Oviedo v Girona",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-15-real-sociedad-ii-sporting-gij-n",
+      "weekend": "2026-11-15",
+      "name": "Real Sociedad II v Sporting Gij\u00f3n",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-15-real-valladolid-castell-n",
+      "weekend": "2026-11-15",
+      "name": "Real Valladolid v Castell\u00f3n",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-15-tenerife-ceuta",
+      "weekend": "2026-11-15",
+      "name": "Tenerife v Ceuta",
+      "utc": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-22-burgos-albacete",
+      "weekend": "2026-11-22",
+      "name": "Burgos v Albacete",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-22-castell-n-eldense",
+      "weekend": "2026-11-22",
+      "name": "Castell\u00f3n v Eldense",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-22-cd-sabadell-granada",
+      "weekend": "2026-11-22",
+      "name": "CD Sabadell v Granada",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-22-ceuta-almer-a",
+      "weekend": "2026-11-22",
+      "name": "Ceuta v Almer\u00eda",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-22-c-rdoba-real-oviedo",
+      "weekend": "2026-11-22",
+      "name": "C\u00f3rdoba v Real Oviedo",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-22-fc-andorra-legan-s",
+      "weekend": "2026-11-22",
+      "name": "FC Andorra v Legan\u00e9s",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-22-girona-eibar",
+      "weekend": "2026-11-22",
+      "name": "Girona v Eibar",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-22-rc-celta-fortuna-real-valladolid",
+      "weekend": "2026-11-22",
+      "name": "RC Celta Fortuna v Real Valladolid",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-22-real-sociedad-ii-c-diz",
+      "weekend": "2026-11-22",
+      "name": "Real Sociedad II v C\u00e1diz",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-22-sporting-gij-n-las-palmas",
+      "weekend": "2026-11-22",
+      "name": "Sporting Gij\u00f3n v Las Palmas",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-22-tenerife-mallorca",
+      "weekend": "2026-11-22",
+      "name": "Tenerife v Mallorca",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-29-albacete-tenerife",
+      "weekend": "2026-11-29",
+      "name": "Albacete v Tenerife",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-29-almer-a-sporting-gij-n",
+      "weekend": "2026-11-29",
+      "name": "Almer\u00eda v Sporting Gij\u00f3n",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-29-c-diz-c-rdoba",
+      "weekend": "2026-11-29",
+      "name": "C\u00e1diz v C\u00f3rdoba",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-29-eibar-burgos",
+      "weekend": "2026-11-29",
+      "name": "Eibar v Burgos",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-29-eldense-girona",
+      "weekend": "2026-11-29",
+      "name": "Eldense v Girona",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-29-granada-ceuta",
+      "weekend": "2026-11-29",
+      "name": "Granada v Ceuta",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-29-las-palmas-fc-andorra",
+      "weekend": "2026-11-29",
+      "name": "Las Palmas v FC Andorra",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-29-legan-s-cd-sabadell",
+      "weekend": "2026-11-29",
+      "name": "Legan\u00e9s v CD Sabadell",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-29-mallorca-castell-n",
+      "weekend": "2026-11-29",
+      "name": "Mallorca v Castell\u00f3n",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-29-real-oviedo-rc-celta-fortuna",
+      "weekend": "2026-11-29",
+      "name": "Real Oviedo v RC Celta Fortuna",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-11-29-real-valladolid-real-sociedad-ii",
+      "weekend": "2026-11-29",
+      "name": "Real Valladolid v Real Sociedad II",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-06-burgos-c-diz",
+      "weekend": "2026-12-06",
+      "name": "Burgos v C\u00e1diz",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-06-castell-n-almer-a",
+      "weekend": "2026-12-06",
+      "name": "Castell\u00f3n v Almer\u00eda",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-06-cd-sabadell-eibar",
+      "weekend": "2026-12-06",
+      "name": "CD Sabadell v Eibar",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-06-ceuta-albacete",
+      "weekend": "2026-12-06",
+      "name": "Ceuta v Albacete",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-06-c-rdoba-las-palmas",
+      "weekend": "2026-12-06",
+      "name": "C\u00f3rdoba v Las Palmas",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-06-fc-andorra-real-oviedo",
+      "weekend": "2026-12-06",
+      "name": "FC Andorra v Real Oviedo",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-06-girona-real-valladolid",
+      "weekend": "2026-12-06",
+      "name": "Girona v Real Valladolid",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-06-rc-celta-fortuna-mallorca",
+      "weekend": "2026-12-06",
+      "name": "RC Celta Fortuna v Mallorca",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-06-real-sociedad-ii-legan-s",
+      "weekend": "2026-12-06",
+      "name": "Real Sociedad II v Legan\u00e9s",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-06-sporting-gij-n-granada",
+      "weekend": "2026-12-06",
+      "name": "Sporting Gij\u00f3n v Granada",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-06-tenerife-eldense",
+      "weekend": "2026-12-06",
+      "name": "Tenerife v Eldense",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-13-almer-a-albacete",
+      "weekend": "2026-12-13",
+      "name": "Almer\u00eda v Albacete",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-13-c-diz-cd-sabadell",
+      "weekend": "2026-12-13",
+      "name": "C\u00e1diz v CD Sabadell",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-13-c-rdoba-castell-n",
+      "weekend": "2026-12-13",
+      "name": "C\u00f3rdoba v Castell\u00f3n",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-13-eibar-sporting-gij-n",
+      "weekend": "2026-12-13",
+      "name": "Eibar v Sporting Gij\u00f3n",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-13-eldense-fc-andorra",
+      "weekend": "2026-12-13",
+      "name": "Eldense v FC Andorra",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-13-granada-girona",
+      "weekend": "2026-12-13",
+      "name": "Granada v Girona",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-13-las-palmas-rc-celta-fortuna",
+      "weekend": "2026-12-13",
+      "name": "Las Palmas v RC Celta Fortuna",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-13-legan-s-ceuta",
+      "weekend": "2026-12-13",
+      "name": "Legan\u00e9s v Ceuta",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-13-mallorca-burgos",
+      "weekend": "2026-12-13",
+      "name": "Mallorca v Burgos",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-13-real-oviedo-real-sociedad-ii",
+      "weekend": "2026-12-13",
+      "name": "Real Oviedo v Real Sociedad II",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-13-real-valladolid-tenerife",
+      "weekend": "2026-12-13",
+      "name": "Real Valladolid v Tenerife",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-20-albacete-mallorca",
+      "weekend": "2026-12-20",
+      "name": "Albacete v Mallorca",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-20-almer-a-real-valladolid",
+      "weekend": "2026-12-20",
+      "name": "Almer\u00eda v Real Valladolid",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-20-burgos-girona",
+      "weekend": "2026-12-20",
+      "name": "Burgos v Girona",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-20-castell-n-granada",
+      "weekend": "2026-12-20",
+      "name": "Castell\u00f3n v Granada",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-20-cd-sabadell-las-palmas",
+      "weekend": "2026-12-20",
+      "name": "CD Sabadell v Las Palmas",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-20-ceuta-eibar",
+      "weekend": "2026-12-20",
+      "name": "Ceuta v Eibar",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-20-fc-andorra-c-diz",
+      "weekend": "2026-12-20",
+      "name": "FC Andorra v C\u00e1diz",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-20-rc-celta-fortuna-eldense",
+      "weekend": "2026-12-20",
+      "name": "RC Celta Fortuna v Eldense",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-20-real-sociedad-ii-c-rdoba",
+      "weekend": "2026-12-20",
+      "name": "Real Sociedad II v C\u00f3rdoba",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-20-sporting-gij-n-legan-s",
+      "weekend": "2026-12-20",
+      "name": "Sporting Gij\u00f3n v Legan\u00e9s",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2026-12-20-tenerife-real-oviedo",
+      "weekend": "2026-12-20",
+      "name": "Tenerife v Real Oviedo",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-03-c-diz-albacete",
+      "weekend": "2027-01-03",
+      "name": "C\u00e1diz v Albacete",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-03-c-rdoba-fc-andorra",
+      "weekend": "2027-01-03",
+      "name": "C\u00f3rdoba v FC Andorra",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-03-eibar-real-sociedad-ii",
+      "weekend": "2027-01-03",
+      "name": "Eibar v Real Sociedad II",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-03-eldense-ceuta",
+      "weekend": "2027-01-03",
+      "name": "Eldense v Ceuta",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-03-girona-cd-sabadell",
+      "weekend": "2027-01-03",
+      "name": "Girona v CD Sabadell",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-03-granada-almer-a",
+      "weekend": "2027-01-03",
+      "name": "Granada v Almer\u00eda",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-03-las-palmas-tenerife",
+      "weekend": "2027-01-03",
+      "name": "Las Palmas v Tenerife",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-03-legan-s-rc-celta-fortuna",
+      "weekend": "2027-01-03",
+      "name": "Legan\u00e9s v RC Celta Fortuna",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-03-mallorca-sporting-gij-n",
+      "weekend": "2027-01-03",
+      "name": "Mallorca v Sporting Gij\u00f3n",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-03-real-oviedo-castell-n",
+      "weekend": "2027-01-03",
+      "name": "Real Oviedo v Castell\u00f3n",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-03-real-valladolid-burgos",
+      "weekend": "2027-01-03",
+      "name": "Real Valladolid v Burgos",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-10-albacete-fc-andorra",
+      "weekend": "2027-01-10",
+      "name": "Albacete v FC Andorra",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-10-almer-a-las-palmas",
+      "weekend": "2027-01-10",
+      "name": "Almer\u00eda v Las Palmas",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-10-castell-n-c-diz",
+      "weekend": "2027-01-10",
+      "name": "Castell\u00f3n v C\u00e1diz",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-10-cd-sabadell-real-valladolid",
+      "weekend": "2027-01-10",
+      "name": "CD Sabadell v Real Valladolid",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-10-ceuta-girona",
+      "weekend": "2027-01-10",
+      "name": "Ceuta v Girona",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-10-legan-s-eibar",
+      "weekend": "2027-01-10",
+      "name": "Legan\u00e9s v Eibar",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-10-mallorca-real-oviedo",
+      "weekend": "2027-01-10",
+      "name": "Mallorca v Real Oviedo",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-10-rc-celta-fortuna-granada",
+      "weekend": "2027-01-10",
+      "name": "RC Celta Fortuna v Granada",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-10-real-sociedad-ii-eldense",
+      "weekend": "2027-01-10",
+      "name": "Real Sociedad II v Eldense",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-10-sporting-gij-n-c-rdoba",
+      "weekend": "2027-01-10",
+      "name": "Sporting Gij\u00f3n v C\u00f3rdoba",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-10-tenerife-burgos",
+      "weekend": "2027-01-10",
+      "name": "Tenerife v Burgos",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-17-burgos-sporting-gij-n",
+      "weekend": "2027-01-17",
+      "name": "Burgos v Sporting Gij\u00f3n",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-17-c-diz-mallorca",
+      "weekend": "2027-01-17",
+      "name": "C\u00e1diz v Mallorca",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-17-castell-n-legan-s",
+      "weekend": "2027-01-17",
+      "name": "Castell\u00f3n v Legan\u00e9s",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-17-c-rdoba-cd-sabadell",
+      "weekend": "2027-01-17",
+      "name": "C\u00f3rdoba v CD Sabadell",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-17-eibar-rc-celta-fortuna",
+      "weekend": "2027-01-17",
+      "name": "Eibar v RC Celta Fortuna",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-17-eldense-albacete",
+      "weekend": "2027-01-17",
+      "name": "Eldense v Albacete",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-17-fc-andorra-tenerife",
+      "weekend": "2027-01-17",
+      "name": "FC Andorra v Tenerife",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-17-granada-real-sociedad-ii",
+      "weekend": "2027-01-17",
+      "name": "Granada v Real Sociedad II",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-17-las-palmas-girona",
+      "weekend": "2027-01-17",
+      "name": "Las Palmas v Girona",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-17-real-oviedo-almer-a",
+      "weekend": "2027-01-17",
+      "name": "Real Oviedo v Almer\u00eda",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-17-real-valladolid-ceuta",
+      "weekend": "2027-01-17",
+      "name": "Real Valladolid v Ceuta",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-24-albacete-granada",
+      "weekend": "2027-01-24",
+      "name": "Albacete v Granada",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-24-almer-a-c-rdoba",
+      "weekend": "2027-01-24",
+      "name": "Almer\u00eda v C\u00f3rdoba",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-24-c-diz-eldense",
+      "weekend": "2027-01-24",
+      "name": "C\u00e1diz v Eldense",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-24-cd-sabadell-ceuta",
+      "weekend": "2027-01-24",
+      "name": "CD Sabadell v Ceuta",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-24-girona-real-oviedo",
+      "weekend": "2027-01-24",
+      "name": "Girona v Real Oviedo",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-24-legan-s-real-valladolid",
+      "weekend": "2027-01-24",
+      "name": "Legan\u00e9s v Real Valladolid",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-24-mallorca-fc-andorra",
+      "weekend": "2027-01-24",
+      "name": "Mallorca v FC Andorra",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-24-rc-celta-fortuna-burgos",
+      "weekend": "2027-01-24",
+      "name": "RC Celta Fortuna v Burgos",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-24-real-sociedad-ii-las-palmas",
+      "weekend": "2027-01-24",
+      "name": "Real Sociedad II v Las Palmas",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-24-sporting-gij-n-castell-n",
+      "weekend": "2027-01-24",
+      "name": "Sporting Gij\u00f3n v Castell\u00f3n",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-24-tenerife-eibar",
+      "weekend": "2027-01-24",
+      "name": "Tenerife v Eibar",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-31-burgos-legan-s",
+      "weekend": "2027-01-31",
+      "name": "Burgos v Legan\u00e9s",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-31-ceuta-tenerife",
+      "weekend": "2027-01-31",
+      "name": "Ceuta v Tenerife",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-31-c-rdoba-mallorca",
+      "weekend": "2027-01-31",
+      "name": "C\u00f3rdoba v Mallorca",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-31-eibar-albacete",
+      "weekend": "2027-01-31",
+      "name": "Eibar v Albacete",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-31-eldense-castell-n",
+      "weekend": "2027-01-31",
+      "name": "Eldense v Castell\u00f3n",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-31-fc-andorra-almer-a",
+      "weekend": "2027-01-31",
+      "name": "FC Andorra v Almer\u00eda",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-31-girona-real-sociedad-ii",
+      "weekend": "2027-01-31",
+      "name": "Girona v Real Sociedad II",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-31-granada-cd-sabadell",
+      "weekend": "2027-01-31",
+      "name": "Granada v CD Sabadell",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-31-las-palmas-sporting-gij-n",
+      "weekend": "2027-01-31",
+      "name": "Las Palmas v Sporting Gij\u00f3n",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-31-real-oviedo-c-diz",
+      "weekend": "2027-01-31",
+      "name": "Real Oviedo v C\u00e1diz",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-01-31-real-valladolid-rc-celta-fortuna",
+      "weekend": "2027-01-31",
+      "name": "Real Valladolid v RC Celta Fortuna",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-07-albacete-real-valladolid",
+      "weekend": "2027-02-07",
+      "name": "Albacete v Real Valladolid",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-07-almer-a-eibar",
+      "weekend": "2027-02-07",
+      "name": "Almer\u00eda v Eibar",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-07-castell-n-las-palmas",
+      "weekend": "2027-02-07",
+      "name": "Castell\u00f3n v Las Palmas",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-07-cd-sabadell-burgos",
+      "weekend": "2027-02-07",
+      "name": "CD Sabadell v Burgos",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-07-c-rdoba-c-diz",
+      "weekend": "2027-02-07",
+      "name": "C\u00f3rdoba v C\u00e1diz",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-07-legan-s-real-oviedo",
+      "weekend": "2027-02-07",
+      "name": "Legan\u00e9s v Real Oviedo",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-07-mallorca-eldense",
+      "weekend": "2027-02-07",
+      "name": "Mallorca v Eldense",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-07-rc-celta-fortuna-girona",
+      "weekend": "2027-02-07",
+      "name": "RC Celta Fortuna v Girona",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-07-real-sociedad-ii-fc-andorra",
+      "weekend": "2027-02-07",
+      "name": "Real Sociedad II v FC Andorra",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-07-sporting-gij-n-ceuta",
+      "weekend": "2027-02-07",
+      "name": "Sporting Gij\u00f3n v Ceuta",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-07-tenerife-granada",
+      "weekend": "2027-02-07",
+      "name": "Tenerife v Granada",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-14-albacete-castell-n",
+      "weekend": "2027-02-14",
+      "name": "Albacete v Castell\u00f3n",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-14-burgos-almer-a",
+      "weekend": "2027-02-14",
+      "name": "Burgos v Almer\u00eda",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-14-c-diz-real-sociedad-ii",
+      "weekend": "2027-02-14",
+      "name": "C\u00e1diz v Real Sociedad II",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-14-ceuta-mallorca",
+      "weekend": "2027-02-14",
+      "name": "Ceuta v Mallorca",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-14-eldense-tenerife",
+      "weekend": "2027-02-14",
+      "name": "Eldense v Tenerife",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-14-fc-andorra-rc-celta-fortuna",
+      "weekend": "2027-02-14",
+      "name": "FC Andorra v RC Celta Fortuna",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-14-girona-c-rdoba",
+      "weekend": "2027-02-14",
+      "name": "Girona v C\u00f3rdoba",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-14-granada-legan-s",
+      "weekend": "2027-02-14",
+      "name": "Granada v Legan\u00e9s",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-14-las-palmas-eibar",
+      "weekend": "2027-02-14",
+      "name": "Las Palmas v Eibar",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-14-real-oviedo-cd-sabadell",
+      "weekend": "2027-02-14",
+      "name": "Real Oviedo v CD Sabadell",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-14-real-valladolid-sporting-gij-n",
+      "weekend": "2027-02-14",
+      "name": "Real Valladolid v Sporting Gij\u00f3n",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-21-almer-a-ceuta",
+      "weekend": "2027-02-21",
+      "name": "Almer\u00eda v Ceuta",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-21-castell-n-girona",
+      "weekend": "2027-02-21",
+      "name": "Castell\u00f3n v Girona",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-21-cd-sabadell-eldense",
+      "weekend": "2027-02-21",
+      "name": "CD Sabadell v Eldense",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-21-c-rdoba-burgos",
+      "weekend": "2027-02-21",
+      "name": "C\u00f3rdoba v Burgos",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-21-eibar-real-oviedo",
+      "weekend": "2027-02-21",
+      "name": "Eibar v Real Oviedo",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-21-legan-s-c-diz",
+      "weekend": "2027-02-21",
+      "name": "Legan\u00e9s v C\u00e1diz",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-21-mallorca-granada",
+      "weekend": "2027-02-21",
+      "name": "Mallorca v Granada",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-21-rc-celta-fortuna-las-palmas",
+      "weekend": "2027-02-21",
+      "name": "RC Celta Fortuna v Las Palmas",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-21-real-sociedad-ii-real-valladolid",
+      "weekend": "2027-02-21",
+      "name": "Real Sociedad II v Real Valladolid",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-21-sporting-gij-n-fc-andorra",
+      "weekend": "2027-02-21",
+      "name": "Sporting Gij\u00f3n v FC Andorra",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-21-tenerife-albacete",
+      "weekend": "2027-02-21",
+      "name": "Tenerife v Albacete",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-28-albacete-burgos",
+      "weekend": "2027-02-28",
+      "name": "Albacete v Burgos",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-28-c-diz-almer-a",
+      "weekend": "2027-02-28",
+      "name": "C\u00e1diz v Almer\u00eda",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-28-castell-n-fc-andorra",
+      "weekend": "2027-02-28",
+      "name": "Castell\u00f3n v FC Andorra",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-28-ceuta-legan-s",
+      "weekend": "2027-02-28",
+      "name": "Ceuta v Legan\u00e9s",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-28-eldense-rc-celta-fortuna",
+      "weekend": "2027-02-28",
+      "name": "Eldense v RC Celta Fortuna",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-28-girona-sporting-gij-n",
+      "weekend": "2027-02-28",
+      "name": "Girona v Sporting Gij\u00f3n",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-28-granada-c-rdoba",
+      "weekend": "2027-02-28",
+      "name": "Granada v C\u00f3rdoba",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-28-las-palmas-cd-sabadell",
+      "weekend": "2027-02-28",
+      "name": "Las Palmas v CD Sabadell",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-28-mallorca-real-sociedad-ii",
+      "weekend": "2027-02-28",
+      "name": "Mallorca v Real Sociedad II",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-28-real-oviedo-tenerife",
+      "weekend": "2027-02-28",
+      "name": "Real Oviedo v Tenerife",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-02-28-real-valladolid-eibar",
+      "weekend": "2027-02-28",
+      "name": "Real Valladolid v Eibar",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-07-almer-a-castell-n",
+      "weekend": "2027-03-07",
+      "name": "Almer\u00eda v Castell\u00f3n",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-07-burgos-mallorca",
+      "weekend": "2027-03-07",
+      "name": "Burgos v Mallorca",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-07-cd-sabadell-albacete",
+      "weekend": "2027-03-07",
+      "name": "CD Sabadell v Albacete",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-07-c-rdoba-real-valladolid",
+      "weekend": "2027-03-07",
+      "name": "C\u00f3rdoba v Real Valladolid",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-07-eibar-eldense",
+      "weekend": "2027-03-07",
+      "name": "Eibar v Eldense",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-07-fc-andorra-girona",
+      "weekend": "2027-03-07",
+      "name": "FC Andorra v Girona",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-07-las-palmas-granada",
+      "weekend": "2027-03-07",
+      "name": "Las Palmas v Granada",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-07-legan-s-tenerife",
+      "weekend": "2027-03-07",
+      "name": "Legan\u00e9s v Tenerife",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-07-rc-celta-fortuna-real-oviedo",
+      "weekend": "2027-03-07",
+      "name": "RC Celta Fortuna v Real Oviedo",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-07-real-sociedad-ii-ceuta",
+      "weekend": "2027-03-07",
+      "name": "Real Sociedad II v Ceuta",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-07-sporting-gij-n-c-diz",
+      "weekend": "2027-03-07",
+      "name": "Sporting Gij\u00f3n v C\u00e1diz",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-14-albacete-las-palmas",
+      "weekend": "2027-03-14",
+      "name": "Albacete v Las Palmas",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-14-c-diz-granada",
+      "weekend": "2027-03-14",
+      "name": "C\u00e1diz v Granada",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-14-castell-n-rc-celta-fortuna",
+      "weekend": "2027-03-14",
+      "name": "Castell\u00f3n v RC Celta Fortuna",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-14-ceuta-fc-andorra",
+      "weekend": "2027-03-14",
+      "name": "Ceuta v FC Andorra",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-14-eldense-sporting-gij-n",
+      "weekend": "2027-03-14",
+      "name": "Eldense v Sporting Gij\u00f3n",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-14-girona-burgos",
+      "weekend": "2027-03-14",
+      "name": "Girona v Burgos",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-14-mallorca-legan-s",
+      "weekend": "2027-03-14",
+      "name": "Mallorca v Legan\u00e9s",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-14-real-oviedo-c-rdoba",
+      "weekend": "2027-03-14",
+      "name": "Real Oviedo v C\u00f3rdoba",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-14-real-sociedad-ii-eibar",
+      "weekend": "2027-03-14",
+      "name": "Real Sociedad II v Eibar",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-14-real-valladolid-almer-a",
+      "weekend": "2027-03-14",
+      "name": "Real Valladolid v Almer\u00eda",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-14-tenerife-cd-sabadell",
+      "weekend": "2027-03-14",
+      "name": "Tenerife v CD Sabadell",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-21-almer-a-real-sociedad-ii",
+      "weekend": "2027-03-21",
+      "name": "Almer\u00eda v Real Sociedad II",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-21-burgos-tenerife",
+      "weekend": "2027-03-21",
+      "name": "Burgos v Tenerife",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-21-cd-sabadell-rc-celta-fortuna",
+      "weekend": "2027-03-21",
+      "name": "CD Sabadell v RC Celta Fortuna",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-21-c-rdoba-eldense",
+      "weekend": "2027-03-21",
+      "name": "C\u00f3rdoba v Eldense",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-21-eibar-ceuta",
+      "weekend": "2027-03-21",
+      "name": "Eibar v Ceuta",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-21-fc-andorra-albacete",
+      "weekend": "2027-03-21",
+      "name": "FC Andorra v Albacete",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-21-granada-castell-n",
+      "weekend": "2027-03-21",
+      "name": "Granada v Castell\u00f3n",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-21-las-palmas-real-oviedo",
+      "weekend": "2027-03-21",
+      "name": "Las Palmas v Real Oviedo",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-21-legan-s-girona",
+      "weekend": "2027-03-21",
+      "name": "Legan\u00e9s v Girona",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-21-real-valladolid-c-diz",
+      "weekend": "2027-03-21",
+      "name": "Real Valladolid v C\u00e1diz",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-21-sporting-gij-n-mallorca",
+      "weekend": "2027-03-21",
+      "name": "Sporting Gij\u00f3n v Mallorca",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-28-albacete-almer-a",
+      "weekend": "2027-03-28",
+      "name": "Albacete v Almer\u00eda",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-28-castell-n-c-rdoba",
+      "weekend": "2027-03-28",
+      "name": "Castell\u00f3n v C\u00f3rdoba",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-28-cd-sabadell-mallorca",
+      "weekend": "2027-03-28",
+      "name": "CD Sabadell v Mallorca",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-28-ceuta-granada",
+      "weekend": "2027-03-28",
+      "name": "Ceuta v Granada",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-28-eibar-fc-andorra",
+      "weekend": "2027-03-28",
+      "name": "Eibar v FC Andorra",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-28-eldense-legan-s",
+      "weekend": "2027-03-28",
+      "name": "Eldense v Legan\u00e9s",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-28-girona-c-diz",
+      "weekend": "2027-03-28",
+      "name": "Girona v C\u00e1diz",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-28-rc-celta-fortuna-sporting-gij-n",
+      "weekend": "2027-03-28",
+      "name": "RC Celta Fortuna v Sporting Gij\u00f3n",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-28-real-oviedo-real-valladolid",
+      "weekend": "2027-03-28",
+      "name": "Real Oviedo v Real Valladolid",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-28-real-sociedad-ii-burgos",
+      "weekend": "2027-03-28",
+      "name": "Real Sociedad II v Burgos",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-03-28-tenerife-las-palmas",
+      "weekend": "2027-03-28",
+      "name": "Tenerife v Las Palmas",
+      "utc": "2027-03-28T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-04-burgos-real-oviedo",
+      "weekend": "2027-04-04",
+      "name": "Burgos v Real Oviedo",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-04-c-diz-castell-n",
+      "weekend": "2027-04-04",
+      "name": "C\u00e1diz v Castell\u00f3n",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-04-c-rdoba-rc-celta-fortuna",
+      "weekend": "2027-04-04",
+      "name": "C\u00f3rdoba v RC Celta Fortuna",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-04-fc-andorra-eldense",
+      "weekend": "2027-04-04",
+      "name": "FC Andorra v Eldense",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-04-granada-eibar",
+      "weekend": "2027-04-04",
+      "name": "Granada v Eibar",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-04-las-palmas-ceuta",
+      "weekend": "2027-04-04",
+      "name": "Las Palmas v Ceuta",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-04-legan-s-almer-a",
+      "weekend": "2027-04-04",
+      "name": "Legan\u00e9s v Almer\u00eda",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-04-mallorca-girona",
+      "weekend": "2027-04-04",
+      "name": "Mallorca v Girona",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-04-real-sociedad-ii-albacete",
+      "weekend": "2027-04-04",
+      "name": "Real Sociedad II v Albacete",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-04-real-valladolid-cd-sabadell",
+      "weekend": "2027-04-04",
+      "name": "Real Valladolid v CD Sabadell",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-04-sporting-gij-n-tenerife",
+      "weekend": "2027-04-04",
+      "name": "Sporting Gij\u00f3n v Tenerife",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-11-albacete-ceuta",
+      "weekend": "2027-04-11",
+      "name": "Albacete v Ceuta",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-11-almer-a-tenerife",
+      "weekend": "2027-04-11",
+      "name": "Almer\u00eda v Tenerife",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-11-castell-n-burgos",
+      "weekend": "2027-04-11",
+      "name": "Castell\u00f3n v Burgos",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-11-cd-sabadell-legan-s",
+      "weekend": "2027-04-11",
+      "name": "CD Sabadell v Legan\u00e9s",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-11-eibar-c-rdoba",
+      "weekend": "2027-04-11",
+      "name": "Eibar v C\u00f3rdoba",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-11-fc-andorra-real-valladolid",
+      "weekend": "2027-04-11",
+      "name": "FC Andorra v Real Valladolid",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-11-girona-granada",
+      "weekend": "2027-04-11",
+      "name": "Girona v Granada",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-11-las-palmas-mallorca",
+      "weekend": "2027-04-11",
+      "name": "Las Palmas v Mallorca",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-11-rc-celta-fortuna-c-diz",
+      "weekend": "2027-04-11",
+      "name": "RC Celta Fortuna v C\u00e1diz",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-11-real-oviedo-eldense",
+      "weekend": "2027-04-11",
+      "name": "Real Oviedo v Eldense",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-11-sporting-gij-n-real-sociedad-ii",
+      "weekend": "2027-04-11",
+      "name": "Sporting Gij\u00f3n v Real Sociedad II",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-18-c-diz-fc-andorra",
+      "weekend": "2027-04-18",
+      "name": "C\u00e1diz v FC Andorra",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-18-cd-sabadell-sporting-gij-n",
+      "weekend": "2027-04-18",
+      "name": "CD Sabadell v Sporting Gij\u00f3n",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-18-ceuta-castell-n",
+      "weekend": "2027-04-18",
+      "name": "Ceuta v Castell\u00f3n",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-18-c-rdoba-albacete",
+      "weekend": "2027-04-18",
+      "name": "C\u00f3rdoba v Albacete",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-18-eldense-burgos",
+      "weekend": "2027-04-18",
+      "name": "Eldense v Burgos",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-18-granada-real-oviedo",
+      "weekend": "2027-04-18",
+      "name": "Granada v Real Oviedo",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-18-legan-s-las-palmas",
+      "weekend": "2027-04-18",
+      "name": "Legan\u00e9s v Las Palmas",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-18-mallorca-eibar",
+      "weekend": "2027-04-18",
+      "name": "Mallorca v Eibar",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-18-rc-celta-fortuna-almer-a",
+      "weekend": "2027-04-18",
+      "name": "RC Celta Fortuna v Almer\u00eda",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-18-real-valladolid-girona",
+      "weekend": "2027-04-18",
+      "name": "Real Valladolid v Girona",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-18-tenerife-real-sociedad-ii",
+      "weekend": "2027-04-18",
+      "name": "Tenerife v Real Sociedad II",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-25-albacete-legan-s",
+      "weekend": "2027-04-25",
+      "name": "Albacete v Legan\u00e9s",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-25-almer-a-granada",
+      "weekend": "2027-04-25",
+      "name": "Almer\u00eda v Granada",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-25-burgos-real-valladolid",
+      "weekend": "2027-04-25",
+      "name": "Burgos v Real Valladolid",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-25-castell-n-mallorca",
+      "weekend": "2027-04-25",
+      "name": "Castell\u00f3n v Mallorca",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-25-ceuta-eldense",
+      "weekend": "2027-04-25",
+      "name": "Ceuta v Eldense",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-25-eibar-cd-sabadell",
+      "weekend": "2027-04-25",
+      "name": "Eibar v CD Sabadell",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-25-fc-andorra-c-rdoba",
+      "weekend": "2027-04-25",
+      "name": "FC Andorra v C\u00f3rdoba",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-25-girona-tenerife",
+      "weekend": "2027-04-25",
+      "name": "Girona v Tenerife",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-25-las-palmas-c-diz",
+      "weekend": "2027-04-25",
+      "name": "Las Palmas v C\u00e1diz",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-25-real-sociedad-ii-rc-celta-fortuna",
+      "weekend": "2027-04-25",
+      "name": "Real Sociedad II v RC Celta Fortuna",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-04-25-sporting-gij-n-real-oviedo",
+      "weekend": "2027-04-25",
+      "name": "Sporting Gij\u00f3n v Real Oviedo",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-02-c-diz-eibar",
+      "weekend": "2027-05-02",
+      "name": "C\u00e1diz v Eibar",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-02-cd-sabadell-girona",
+      "weekend": "2027-05-02",
+      "name": "CD Sabadell v Girona",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-02-c-rdoba-real-sociedad-ii",
+      "weekend": "2027-05-02",
+      "name": "C\u00f3rdoba v Real Sociedad II",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-02-eldense-almer-a",
+      "weekend": "2027-05-02",
+      "name": "Eldense v Almer\u00eda",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-02-fc-andorra-las-palmas",
+      "weekend": "2027-05-02",
+      "name": "FC Andorra v Las Palmas",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-02-granada-burgos",
+      "weekend": "2027-05-02",
+      "name": "Granada v Burgos",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-02-legan-s-sporting-gij-n",
+      "weekend": "2027-05-02",
+      "name": "Legan\u00e9s v Sporting Gij\u00f3n",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-02-rc-celta-fortuna-ceuta",
+      "weekend": "2027-05-02",
+      "name": "RC Celta Fortuna v Ceuta",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-02-real-oviedo-albacete",
+      "weekend": "2027-05-02",
+      "name": "Real Oviedo v Albacete",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-02-real-valladolid-mallorca",
+      "weekend": "2027-05-02",
+      "name": "Real Valladolid v Mallorca",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-02-tenerife-castell-n",
+      "weekend": "2027-05-02",
+      "name": "Tenerife v Castell\u00f3n",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-09-albacete-girona",
+      "weekend": "2027-05-09",
+      "name": "Albacete v Girona",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-09-almer-a-cd-sabadell",
+      "weekend": "2027-05-09",
+      "name": "Almer\u00eda v CD Sabadell",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-09-burgos-fc-andorra",
+      "weekend": "2027-05-09",
+      "name": "Burgos v FC Andorra",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-09-castell-n-real-valladolid",
+      "weekend": "2027-05-09",
+      "name": "Castell\u00f3n v Real Valladolid",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-09-ceuta-c-diz",
+      "weekend": "2027-05-09",
+      "name": "Ceuta v C\u00e1diz",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-09-eibar-legan-s",
+      "weekend": "2027-05-09",
+      "name": "Eibar v Legan\u00e9s",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-09-eldense-las-palmas",
+      "weekend": "2027-05-09",
+      "name": "Eldense v Las Palmas",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-09-granada-sporting-gij-n",
+      "weekend": "2027-05-09",
+      "name": "Granada v Sporting Gij\u00f3n",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-09-mallorca-rc-celta-fortuna",
+      "weekend": "2027-05-09",
+      "name": "Mallorca v RC Celta Fortuna",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-09-real-sociedad-ii-real-oviedo",
+      "weekend": "2027-05-09",
+      "name": "Real Sociedad II v Real Oviedo",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-09-tenerife-c-rdoba",
+      "weekend": "2027-05-09",
+      "name": "Tenerife v C\u00f3rdoba",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-16-c-diz-burgos",
+      "weekend": "2027-05-16",
+      "name": "C\u00e1diz v Burgos",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-16-castell-n-real-sociedad-ii",
+      "weekend": "2027-05-16",
+      "name": "Castell\u00f3n v Real Sociedad II",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-16-c-rdoba-legan-s",
+      "weekend": "2027-05-16",
+      "name": "C\u00f3rdoba v Legan\u00e9s",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-16-fc-andorra-cd-sabadell",
+      "weekend": "2027-05-16",
+      "name": "FC Andorra v CD Sabadell",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-16-girona-eldense",
+      "weekend": "2027-05-16",
+      "name": "Girona v Eldense",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-16-las-palmas-almer-a",
+      "weekend": "2027-05-16",
+      "name": "Las Palmas v Almer\u00eda",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-16-mallorca-tenerife",
+      "weekend": "2027-05-16",
+      "name": "Mallorca v Tenerife",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-16-rc-celta-fortuna-albacete",
+      "weekend": "2027-05-16",
+      "name": "RC Celta Fortuna v Albacete",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-16-real-oviedo-ceuta",
+      "weekend": "2027-05-16",
+      "name": "Real Oviedo v Ceuta",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-16-real-valladolid-granada",
+      "weekend": "2027-05-16",
+      "name": "Real Valladolid v Granada",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "esp.2-2027-05-16-sporting-gij-n-eibar",
+      "weekend": "2027-05-16",
+      "name": "Sporting Gij\u00f3n v Eibar",
+      "utc": "2027-05-16T18:00:00Z"
+    }
+  ]
+}
