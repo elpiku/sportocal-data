@@ -1,0 +1,589 @@
+{
+  "sportKey": "soccer-mex.2",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "mex.2-2026-08-14-alebrijes-de-oaxaca-tepatitl-n-fc",
+      "weekend": "2026-08-14",
+      "name": "Alebrijes de Oaxaca v Tepatitl\u00e1n FC",
+      "utc": "2026-08-14T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-15-correcaminos-uat-tapat-o",
+      "weekend": "2026-08-15",
+      "name": "Correcaminos UAT v Tapat\u00edo",
+      "utc": "2026-08-15T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-15-mineros-de-zacatecas-venados-fc",
+      "weekend": "2026-08-15",
+      "name": "Mineros de Zacatecas v Venados FC",
+      "utc": "2026-08-15T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-15-club-atl-tico-la-paz-piratas",
+      "weekend": "2026-08-15",
+      "name": "Club Atl\u00e9tico La Paz v Piratas",
+      "utc": "2026-08-15T03:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-15-cruz-azul-hidalgo-club-atl-tico-morelia",
+      "weekend": "2026-08-15",
+      "name": "Cruz Azul Hidalgo v Club Atl\u00e9tico Morelia",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-16-canc-n-fc-durango",
+      "weekend": "2026-08-16",
+      "name": "Canc\u00fan FC v Durango",
+      "utc": "2026-08-16T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-16-dorados-de-sinaloa-tlaxcala-fc",
+      "weekend": "2026-08-16",
+      "name": "Dorados de Sinaloa v Tlaxcala FC",
+      "utc": "2026-08-16T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-16-leones-negros-club-jaiba-brava",
+      "weekend": "2026-08-16",
+      "name": "Leones Negros v Club Jaiba Brava",
+      "utc": "2026-08-16T18:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-20-venados-fc-dorados-de-sinaloa",
+      "weekend": "2026-08-20",
+      "name": "Venados FC v Dorados de Sinaloa",
+      "utc": "2026-08-20T23:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-21-club-atl-tico-morelia-correcaminos-uat",
+      "weekend": "2026-08-21",
+      "name": "Club Atl\u00e9tico Morelia v Correcaminos UAT",
+      "utc": "2026-08-21T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-21-tepatitl-n-fc-tlaxcala-fc",
+      "weekend": "2026-08-21",
+      "name": "Tepatitl\u00e1n FC v Tlaxcala FC",
+      "utc": "2026-08-21T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-22-club-atl-tico-la-paz-cruz-azul-hidalgo",
+      "weekend": "2026-08-22",
+      "name": "Club Atl\u00e9tico La Paz v Cruz Azul Hidalgo",
+      "utc": "2026-08-22T03:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-23-club-jaiba-brava-alebrijes-de-oaxaca",
+      "weekend": "2026-08-23",
+      "name": "Club Jaiba Brava v Alebrijes de Oaxaca",
+      "utc": "2026-08-23T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-23-durango-leones-negros",
+      "weekend": "2026-08-23",
+      "name": "Durango v Leones Negros",
+      "utc": "2026-08-23T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-23-piratas-canc-n-fc",
+      "weekend": "2026-08-23",
+      "name": "Piratas v Canc\u00fan FC",
+      "utc": "2026-08-23T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-24-tapat-o-mineros-de-zacatecas",
+      "weekend": "2026-08-24",
+      "name": "Tapat\u00edo v Mineros de Zacatecas",
+      "utc": "2026-08-24T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-28-alebrijes-de-oaxaca-tapat-o",
+      "weekend": "2026-08-28",
+      "name": "Alebrijes de Oaxaca v Tapat\u00edo",
+      "utc": "2026-08-28T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-28-canc-n-fc-club-atl-tico-la-paz",
+      "weekend": "2026-08-28",
+      "name": "Canc\u00fan FC v Club Atl\u00e9tico La Paz",
+      "utc": "2026-08-28T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-29-correcaminos-uat-durango",
+      "weekend": "2026-08-29",
+      "name": "Correcaminos UAT v Durango",
+      "utc": "2026-08-29T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-29-dorados-de-sinaloa-club-atl-tico-morelia",
+      "weekend": "2026-08-29",
+      "name": "Dorados de Sinaloa v Club Atl\u00e9tico Morelia",
+      "utc": "2026-08-29T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-29-cruz-azul-hidalgo-tepatitl-n-fc",
+      "weekend": "2026-08-29",
+      "name": "Cruz Azul Hidalgo v Tepatitl\u00e1n FC",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-29-tlaxcala-fc-venados-fc",
+      "weekend": "2026-08-29",
+      "name": "Tlaxcala FC v Venados FC",
+      "utc": "2026-08-29T22:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-30-mineros-de-zacatecas-club-jaiba-brava",
+      "weekend": "2026-08-30",
+      "name": "Mineros de Zacatecas v Club Jaiba Brava",
+      "utc": "2026-08-30T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-08-30-leones-negros-piratas",
+      "weekend": "2026-08-30",
+      "name": "Leones Negros v Piratas",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-04-tepatitl-n-fc-dorados-de-sinaloa",
+      "weekend": "2026-09-04",
+      "name": "Tepatitl\u00e1n FC v Dorados de Sinaloa",
+      "utc": "2026-09-04T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-05-durango-tlaxcala-fc",
+      "weekend": "2026-09-05",
+      "name": "Durango v Tlaxcala FC",
+      "utc": "2026-09-05T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-05-club-atl-tico-la-paz-mineros-de-zacatecas",
+      "weekend": "2026-09-05",
+      "name": "Club Atl\u00e9tico La Paz v Mineros de Zacatecas",
+      "utc": "2026-09-05T03:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-06-canc-n-fc-cruz-azul-hidalgo",
+      "weekend": "2026-09-06",
+      "name": "Canc\u00fan FC v Cruz Azul Hidalgo",
+      "utc": "2026-09-06T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-06-club-atl-tico-morelia-alebrijes-de-oaxaca",
+      "weekend": "2026-09-06",
+      "name": "Club Atl\u00e9tico Morelia v Alebrijes de Oaxaca",
+      "utc": "2026-09-06T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-06-club-jaiba-brava-venados-fc",
+      "weekend": "2026-09-06",
+      "name": "Club Jaiba Brava v Venados FC",
+      "utc": "2026-09-06T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-06-piratas-correcaminos-uat",
+      "weekend": "2026-09-06",
+      "name": "Piratas v Correcaminos UAT",
+      "utc": "2026-09-06T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-06-tapat-o-leones-negros",
+      "weekend": "2026-09-06",
+      "name": "Tapat\u00edo v Leones Negros",
+      "utc": "2026-09-06T23:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-11-alebrijes-de-oaxaca-durango",
+      "weekend": "2026-09-11",
+      "name": "Alebrijes de Oaxaca v Durango",
+      "utc": "2026-09-11T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-11-cruz-azul-hidalgo-piratas",
+      "weekend": "2026-09-11",
+      "name": "Cruz Azul Hidalgo v Piratas",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-12-correcaminos-uat-canc-n-fc",
+      "weekend": "2026-09-12",
+      "name": "Correcaminos UAT v Canc\u00fan FC",
+      "utc": "2026-09-12T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-12-tlaxcala-fc-club-jaiba-brava",
+      "weekend": "2026-09-12",
+      "name": "Tlaxcala FC v Club Jaiba Brava",
+      "utc": "2026-09-12T22:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-12-venados-fc-tepatitl-n-fc",
+      "weekend": "2026-09-12",
+      "name": "Venados FC v Tepatitl\u00e1n FC",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-13-dorados-de-sinaloa-tapat-o",
+      "weekend": "2026-09-13",
+      "name": "Dorados de Sinaloa v Tapat\u00edo",
+      "utc": "2026-09-13T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-13-mineros-de-zacatecas-club-atl-tico-morelia",
+      "weekend": "2026-09-13",
+      "name": "Mineros de Zacatecas v Club Atl\u00e9tico Morelia",
+      "utc": "2026-09-13T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-13-leones-negros-club-atl-tico-la-paz",
+      "weekend": "2026-09-13",
+      "name": "Leones Negros v Club Atl\u00e9tico La Paz",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-16-dorados-de-sinaloa-canc-n-fc",
+      "weekend": "2026-09-16",
+      "name": "Dorados de Sinaloa v Canc\u00fan FC",
+      "utc": "2026-09-16T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-18-durango-cruz-azul-hidalgo",
+      "weekend": "2026-09-18",
+      "name": "Durango v Cruz Azul Hidalgo",
+      "utc": "2026-09-18T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-19-piratas-venados-fc",
+      "weekend": "2026-09-19",
+      "name": "Piratas v Venados FC",
+      "utc": "2026-09-19T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-19-tepatitl-n-fc-mineros-de-zacatecas",
+      "weekend": "2026-09-19",
+      "name": "Tepatitl\u00e1n FC v Mineros de Zacatecas",
+      "utc": "2026-09-19T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-19-club-atl-tico-la-paz-correcaminos-uat",
+      "weekend": "2026-09-19",
+      "name": "Club Atl\u00e9tico La Paz v Correcaminos UAT",
+      "utc": "2026-09-19T03:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-20-canc-n-fc-alebrijes-de-oaxaca",
+      "weekend": "2026-09-20",
+      "name": "Canc\u00fan FC v Alebrijes de Oaxaca",
+      "utc": "2026-09-20T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-20-club-atl-tico-morelia-leones-negros",
+      "weekend": "2026-09-20",
+      "name": "Club Atl\u00e9tico Morelia v Leones Negros",
+      "utc": "2026-09-20T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-20-club-jaiba-brava-dorados-de-sinaloa",
+      "weekend": "2026-09-20",
+      "name": "Club Jaiba Brava v Dorados de Sinaloa",
+      "utc": "2026-09-20T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-20-tapat-o-tlaxcala-fc",
+      "weekend": "2026-09-20",
+      "name": "Tapat\u00edo v Tlaxcala FC",
+      "utc": "2026-09-20T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-25-alebrijes-de-oaxaca-club-atl-tico-la-paz",
+      "weekend": "2026-09-25",
+      "name": "Alebrijes de Oaxaca v Club Atl\u00e9tico La Paz",
+      "utc": "2026-09-25T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-25-mineros-de-zacatecas-piratas",
+      "weekend": "2026-09-25",
+      "name": "Mineros de Zacatecas v Piratas",
+      "utc": "2026-09-25T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-26-correcaminos-uat-club-jaiba-brava",
+      "weekend": "2026-09-26",
+      "name": "Correcaminos UAT v Club Jaiba Brava",
+      "utc": "2026-09-26T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-26-cruz-azul-hidalgo-leones-negros",
+      "weekend": "2026-09-26",
+      "name": "Cruz Azul Hidalgo v Leones Negros",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-26-tlaxcala-fc-canc-n-fc",
+      "weekend": "2026-09-26",
+      "name": "Tlaxcala FC v Canc\u00fan FC",
+      "utc": "2026-09-26T22:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-26-venados-fc-club-atl-tico-morelia",
+      "weekend": "2026-09-26",
+      "name": "Venados FC v Club Atl\u00e9tico Morelia",
+      "utc": "2026-09-26T23:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-27-dorados-de-sinaloa-durango",
+      "weekend": "2026-09-27",
+      "name": "Dorados de Sinaloa v Durango",
+      "utc": "2026-09-27T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-09-27-tapat-o-tepatitl-n-fc",
+      "weekend": "2026-09-27",
+      "name": "Tapat\u00edo v Tepatitl\u00e1n FC",
+      "utc": "2026-09-27T23:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-03-correcaminos-uat-cruz-azul-hidalgo",
+      "weekend": "2026-10-03",
+      "name": "Correcaminos UAT v Cruz Azul Hidalgo",
+      "utc": "2026-10-03T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-03-tepatitl-n-fc-club-jaiba-brava",
+      "weekend": "2026-10-03",
+      "name": "Tepatitl\u00e1n FC v Club Jaiba Brava",
+      "utc": "2026-10-03T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-03-club-atl-tico-la-paz-venados-fc",
+      "weekend": "2026-10-03",
+      "name": "Club Atl\u00e9tico La Paz v Venados FC",
+      "utc": "2026-10-03T03:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-04-canc-n-fc-tapat-o",
+      "weekend": "2026-10-04",
+      "name": "Canc\u00fan FC v Tapat\u00edo",
+      "utc": "2026-10-04T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-04-club-atl-tico-morelia-tlaxcala-fc",
+      "weekend": "2026-10-04",
+      "name": "Club Atl\u00e9tico Morelia v Tlaxcala FC",
+      "utc": "2026-10-04T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-04-durango-mineros-de-zacatecas",
+      "weekend": "2026-10-04",
+      "name": "Durango v Mineros de Zacatecas",
+      "utc": "2026-10-04T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-04-piratas-alebrijes-de-oaxaca",
+      "weekend": "2026-10-04",
+      "name": "Piratas v Alebrijes de Oaxaca",
+      "utc": "2026-10-04T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-04-leones-negros-dorados-de-sinaloa",
+      "weekend": "2026-10-04",
+      "name": "Leones Negros v Dorados de Sinaloa",
+      "utc": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-09-alebrijes-de-oaxaca-correcaminos-uat",
+      "weekend": "2026-10-09",
+      "name": "Alebrijes de Oaxaca v Correcaminos UAT",
+      "utc": "2026-10-09T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-09-tapat-o-club-atl-tico-la-paz",
+      "weekend": "2026-10-09",
+      "name": "Tapat\u00edo v Club Atl\u00e9tico La Paz",
+      "utc": "2026-10-09T23:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-10-tepatitl-n-fc-club-atl-tico-morelia",
+      "weekend": "2026-10-10",
+      "name": "Tepatitl\u00e1n FC v Club Atl\u00e9tico Morelia",
+      "utc": "2026-10-10T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-10-tlaxcala-fc-piratas",
+      "weekend": "2026-10-10",
+      "name": "Tlaxcala FC v Piratas",
+      "utc": "2026-10-10T22:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-10-venados-fc-leones-negros",
+      "weekend": "2026-10-10",
+      "name": "Venados FC v Leones Negros",
+      "utc": "2026-10-10T23:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-11-club-jaiba-brava-durango",
+      "weekend": "2026-10-11",
+      "name": "Club Jaiba Brava v Durango",
+      "utc": "2026-10-11T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-11-dorados-de-sinaloa-cruz-azul-hidalgo",
+      "weekend": "2026-10-11",
+      "name": "Dorados de Sinaloa v Cruz Azul Hidalgo",
+      "utc": "2026-10-11T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-11-mineros-de-zacatecas-canc-n-fc",
+      "weekend": "2026-10-11",
+      "name": "Mineros de Zacatecas v Canc\u00fan FC",
+      "utc": "2026-10-11T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-17-correcaminos-uat-dorados-de-sinaloa",
+      "weekend": "2026-10-17",
+      "name": "Correcaminos UAT v Dorados de Sinaloa",
+      "utc": "2026-10-17T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-17-leones-negros-alebrijes-de-oaxaca",
+      "weekend": "2026-10-17",
+      "name": "Leones Negros v Alebrijes de Oaxaca",
+      "utc": "2026-10-17T02:45:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-17-club-atl-tico-la-paz-tlaxcala-fc",
+      "weekend": "2026-10-17",
+      "name": "Club Atl\u00e9tico La Paz v Tlaxcala FC",
+      "utc": "2026-10-17T03:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-17-cruz-azul-hidalgo-mineros-de-zacatecas",
+      "weekend": "2026-10-17",
+      "name": "Cruz Azul Hidalgo v Mineros de Zacatecas",
+      "utc": "2026-10-17T21:45:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-18-canc-n-fc-venados-fc",
+      "weekend": "2026-10-18",
+      "name": "Canc\u00fan FC v Venados FC",
+      "utc": "2026-10-18T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-18-club-atl-tico-morelia-club-jaiba-brava",
+      "weekend": "2026-10-18",
+      "name": "Club Atl\u00e9tico Morelia v Club Jaiba Brava",
+      "utc": "2026-10-18T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-18-piratas-tepatitl-n-fc",
+      "weekend": "2026-10-18",
+      "name": "Piratas v Tepatitl\u00e1n FC",
+      "utc": "2026-10-18T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-18-durango-tapat-o",
+      "weekend": "2026-10-18",
+      "name": "Durango v Tapat\u00edo",
+      "utc": "2026-10-18T03:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-23-alebrijes-de-oaxaca-cruz-azul-hidalgo",
+      "weekend": "2026-10-23",
+      "name": "Alebrijes de Oaxaca v Cruz Azul Hidalgo",
+      "utc": "2026-10-23T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-24-tepatitl-n-fc-canc-n-fc",
+      "weekend": "2026-10-24",
+      "name": "Tepatitl\u00e1n FC v Canc\u00fan FC",
+      "utc": "2026-10-24T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-24-tapat-o-club-atl-tico-morelia",
+      "weekend": "2026-10-24",
+      "name": "Tapat\u00edo v Club Atl\u00e9tico Morelia",
+      "utc": "2026-10-24T23:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-24-venados-fc-durango",
+      "weekend": "2026-10-24",
+      "name": "Venados FC v Durango",
+      "utc": "2026-10-24T23:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-25-club-jaiba-brava-club-atl-tico-la-paz",
+      "weekend": "2026-10-25",
+      "name": "Club Jaiba Brava v Club Atl\u00e9tico La Paz",
+      "utc": "2026-10-25T00:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-25-dorados-de-sinaloa-piratas",
+      "weekend": "2026-10-25",
+      "name": "Dorados de Sinaloa v Piratas",
+      "utc": "2026-10-25T00:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-25-mineros-de-zacatecas-leones-negros",
+      "weekend": "2026-10-25",
+      "name": "Mineros de Zacatecas v Leones Negros",
+      "utc": "2026-10-25T00:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-25-tlaxcala-fc-correcaminos-uat",
+      "weekend": "2026-10-25",
+      "name": "Tlaxcala FC v Correcaminos UAT",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-30-alebrijes-de-oaxaca-mineros-de-zacatecas",
+      "weekend": "2026-10-30",
+      "name": "Alebrijes de Oaxaca v Mineros de Zacatecas",
+      "utc": "2026-10-30T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-31-correcaminos-uat-venados-fc",
+      "weekend": "2026-10-31",
+      "name": "Correcaminos UAT v Venados FC",
+      "utc": "2026-10-31T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-31-leones-negros-tepatitl-n-fc",
+      "weekend": "2026-10-31",
+      "name": "Leones Negros v Tepatitl\u00e1n FC",
+      "utc": "2026-10-31T02:45:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-31-club-atl-tico-la-paz-dorados-de-sinaloa",
+      "weekend": "2026-10-31",
+      "name": "Club Atl\u00e9tico La Paz v Dorados de Sinaloa",
+      "utc": "2026-10-31T03:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-10-31-cruz-azul-hidalgo-tlaxcala-fc",
+      "weekend": "2026-10-31",
+      "name": "Cruz Azul Hidalgo v Tlaxcala FC",
+      "utc": "2026-10-31T21:45:00Z"
+    },
+    {
+      "id": "mex.2-2026-11-01-canc-n-fc-club-jaiba-brava",
+      "weekend": "2026-11-01",
+      "name": "Canc\u00fan FC v Club Jaiba Brava",
+      "utc": "2026-11-01T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-11-01-durango-club-atl-tico-morelia",
+      "weekend": "2026-11-01",
+      "name": "Durango v Club Atl\u00e9tico Morelia",
+      "utc": "2026-11-01T01:00:00Z"
+    },
+    {
+      "id": "mex.2-2026-11-01-piratas-tapat-o",
+      "weekend": "2026-11-01",
+      "name": "Piratas v Tapat\u00edo",
+      "utc": "2026-11-01T01:00:00Z"
+    }
+  ]
+}

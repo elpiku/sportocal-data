@@ -1,0 +1,43 @@
+{
+  "sportKey": "soccer-aff.championship",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "aff.championship-2026-08-15-singapore-thailand",
+      "weekend": "2026-08-15",
+      "name": "Singapore v Thailand",
+      "utc": "2026-08-15T13:00:00Z"
+    },
+    {
+      "id": "aff.championship-2026-08-16-malaysia-vietnam",
+      "weekend": "2026-08-16",
+      "name": "Malaysia v Vietnam",
+      "utc": "2026-08-16T13:00:00Z"
+    },
+    {
+      "id": "aff.championship-2026-08-18-thailand-singapore",
+      "weekend": "2026-08-18",
+      "name": "Thailand v Singapore",
+      "utc": "2026-08-18T13:00:00Z"
+    },
+    {
+      "id": "aff.championship-2026-08-19-vietnam-malaysia",
+      "weekend": "2026-08-19",
+      "name": "Vietnam v Malaysia",
+      "utc": "2026-08-19T13:00:00Z"
+    },
+    {
+      "id": "aff.championship-2026-08-22-thailand-vietnam",
+      "weekend": "2026-08-22",
+      "name": "Thailand v Vietnam",
+      "utc": "2026-08-22T13:00:00Z"
+    },
+    {
+      "id": "aff.championship-2026-08-26-vietnam-thailand",
+      "weekend": "2026-08-26",
+      "name": "Vietnam v Thailand",
+      "utc": "2026-08-26T13:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,877 @@
+{
+  "sportKey": "soccer-usa.usl.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "usa.usl.1-2026-08-09-indy-eleven-hartford-athletic",
+      "weekend": "2026-08-09",
+      "name": "Indy Eleven v Hartford Athletic",
+      "utc": "2026-08-09T21:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-15-detroit-city-fc-loudoun-united-fc",
+      "weekend": "2026-08-15",
+      "name": "Detroit City FC v Loudoun United FC",
+      "utc": "2026-08-15T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-15-hartford-athletic-miami-fc",
+      "weekend": "2026-08-15",
+      "name": "Hartford Athletic v Miami FC",
+      "utc": "2026-08-15T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-15-pittsburgh-riverhounds-charleston-battery",
+      "weekend": "2026-08-15",
+      "name": "Pittsburgh Riverhounds v Charleston Battery",
+      "utc": "2026-08-15T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-15-sporting-jax-indy-eleven",
+      "weekend": "2026-08-15",
+      "name": "Sporting JAX v Indy Eleven",
+      "utc": "2026-08-15T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-15-tampa-bay-rowdies-rhode-island-fc",
+      "weekend": "2026-08-15",
+      "name": "Tampa Bay Rowdies v Rhode Island FC",
+      "utc": "2026-08-15T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-16-colorado-springs-switchbacks-fc-birmingham-legion-fc",
+      "weekend": "2026-08-16",
+      "name": "Colorado Springs Switchbacks FC v Birmingham Legion FC",
+      "utc": "2026-08-16T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-16-san-antonio-fc-el-paso-locomotive-fc",
+      "weekend": "2026-08-16",
+      "name": "San Antonio FC v El Paso Locomotive FC",
+      "utc": "2026-08-16T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-16-new-mexico-united-fc-tulsa",
+      "weekend": "2026-08-16",
+      "name": "New Mexico United v FC Tulsa",
+      "utc": "2026-08-16T01:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-16-oakland-roots-monterey-bay",
+      "weekend": "2026-08-16",
+      "name": "Oakland Roots v Monterey Bay",
+      "utc": "2026-08-16T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-16-orange-county-sc-louisville-city-fc",
+      "weekend": "2026-08-16",
+      "name": "Orange County SC v Louisville City FC",
+      "utc": "2026-08-16T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-16-las-vegas-lights-fc-brooklyn-fc",
+      "weekend": "2026-08-16",
+      "name": "Las Vegas Lights FC v Brooklyn FC",
+      "utc": "2026-08-16T02:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-16-sacramento-republic-fc-lexington",
+      "weekend": "2026-08-16",
+      "name": "Sacramento Republic FC v Lexington",
+      "utc": "2026-08-16T03:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-20-phoenix-rising-fc-colorado-springs-switchbacks-fc",
+      "weekend": "2026-08-20",
+      "name": "Phoenix Rising FC v Colorado Springs Switchbacks FC",
+      "utc": "2026-08-20T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-22-loudoun-united-fc-new-mexico-united",
+      "weekend": "2026-08-22",
+      "name": "Loudoun United FC v New Mexico United",
+      "utc": "2026-08-22T22:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-22-brooklyn-fc-pittsburgh-riverhounds",
+      "weekend": "2026-08-22",
+      "name": "Brooklyn FC v Pittsburgh Riverhounds",
+      "utc": "2026-08-22T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-22-detroit-city-fc-tampa-bay-rowdies",
+      "weekend": "2026-08-22",
+      "name": "Detroit City FC v Tampa Bay Rowdies",
+      "utc": "2026-08-22T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-22-indy-eleven-louisville-city-fc",
+      "weekend": "2026-08-22",
+      "name": "Indy Eleven v Louisville City FC",
+      "utc": "2026-08-22T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-22-lexington-las-vegas-lights-fc",
+      "weekend": "2026-08-22",
+      "name": "Lexington v Las Vegas Lights FC",
+      "utc": "2026-08-22T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-22-rhode-island-fc-monterey-bay",
+      "weekend": "2026-08-22",
+      "name": "Rhode Island FC v Monterey Bay",
+      "utc": "2026-08-22T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-23-birmingham-legion-fc-sporting-jax",
+      "weekend": "2026-08-23",
+      "name": "Birmingham Legion FC v Sporting JAX",
+      "utc": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-23-colorado-springs-switchbacks-fc-el-paso-locomotive-fc",
+      "weekend": "2026-08-23",
+      "name": "Colorado Springs Switchbacks FC v El Paso Locomotive FC",
+      "utc": "2026-08-23T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-23-san-antonio-fc-oakland-roots",
+      "weekend": "2026-08-23",
+      "name": "San Antonio FC v Oakland Roots",
+      "utc": "2026-08-23T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-23-orange-county-sc-fc-tulsa",
+      "weekend": "2026-08-23",
+      "name": "Orange County SC v FC Tulsa",
+      "utc": "2026-08-23T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-23-sacramento-republic-fc-phoenix-rising-fc",
+      "weekend": "2026-08-23",
+      "name": "Sacramento Republic FC v Phoenix Rising FC",
+      "utc": "2026-08-23T03:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-24-charleston-battery-miami-fc",
+      "weekend": "2026-08-24",
+      "name": "Charleston Battery v Miami FC",
+      "utc": "2026-08-24T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-27-el-paso-locomotive-fc-pittsburgh-riverhounds",
+      "weekend": "2026-08-27",
+      "name": "El Paso Locomotive FC v Pittsburgh Riverhounds",
+      "utc": "2026-08-27T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-27-new-mexico-united-lexington",
+      "weekend": "2026-08-27",
+      "name": "New Mexico United v Lexington",
+      "utc": "2026-08-27T01:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-29-pittsburgh-riverhounds-tampa-bay-rowdies",
+      "weekend": "2026-08-29",
+      "name": "Pittsburgh Riverhounds v Tampa Bay Rowdies",
+      "utc": "2026-08-29T21:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-29-brooklyn-fc-sporting-jax",
+      "weekend": "2026-08-29",
+      "name": "Brooklyn FC v Sporting JAX",
+      "utc": "2026-08-29T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-29-hartford-athletic-birmingham-legion-fc",
+      "weekend": "2026-08-29",
+      "name": "Hartford Athletic v Birmingham Legion FC",
+      "utc": "2026-08-29T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-29-lexington-colorado-springs-switchbacks-fc",
+      "weekend": "2026-08-29",
+      "name": "Lexington v Colorado Springs Switchbacks FC",
+      "utc": "2026-08-29T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-30-louisville-city-fc-detroit-city-fc",
+      "weekend": "2026-08-30",
+      "name": "Louisville City FC v Detroit City FC",
+      "utc": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-30-oakland-roots-orange-county-sc",
+      "weekend": "2026-08-30",
+      "name": "Oakland Roots v Orange County SC",
+      "utc": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-30-fc-tulsa-rhode-island-fc",
+      "weekend": "2026-08-30",
+      "name": "FC Tulsa v Rhode Island FC",
+      "utc": "2026-08-30T00:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-30-el-paso-locomotive-fc-loudoun-united-fc",
+      "weekend": "2026-08-30",
+      "name": "El Paso Locomotive FC v Loudoun United FC",
+      "utc": "2026-08-30T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-30-new-mexico-united-san-antonio-fc",
+      "weekend": "2026-08-30",
+      "name": "New Mexico United v San Antonio FC",
+      "utc": "2026-08-30T01:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-30-monterey-bay-sacramento-republic-fc",
+      "weekend": "2026-08-30",
+      "name": "Monterey Bay v Sacramento Republic FC",
+      "utc": "2026-08-30T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-30-las-vegas-lights-fc-charleston-battery",
+      "weekend": "2026-08-30",
+      "name": "Las Vegas Lights FC v Charleston Battery",
+      "utc": "2026-08-30T02:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-08-30-phoenix-rising-fc-indy-eleven",
+      "weekend": "2026-08-30",
+      "name": "Phoenix Rising FC v Indy Eleven",
+      "utc": "2026-08-30T02:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-02-charleston-battery-hartford-athletic",
+      "weekend": "2026-09-02",
+      "name": "Charleston Battery v Hartford Athletic",
+      "utc": "2026-09-02T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-04-loudoun-united-fc-colorado-springs-switchbacks-fc",
+      "weekend": "2026-09-04",
+      "name": "Loudoun United FC v Colorado Springs Switchbacks FC",
+      "utc": "2026-09-04T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-05-detroit-city-fc-hartford-athletic",
+      "weekend": "2026-09-05",
+      "name": "Detroit City FC v Hartford Athletic",
+      "utc": "2026-09-05T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-05-indy-eleven-birmingham-legion-fc",
+      "weekend": "2026-09-05",
+      "name": "Indy Eleven v Birmingham Legion FC",
+      "utc": "2026-09-05T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-05-miami-fc-pittsburgh-riverhounds",
+      "weekend": "2026-09-05",
+      "name": "Miami FC v Pittsburgh Riverhounds",
+      "utc": "2026-09-05T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-05-sporting-jax-lexington",
+      "weekend": "2026-09-05",
+      "name": "Sporting JAX v Lexington",
+      "utc": "2026-09-05T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-05-rhode-island-fc-louisville-city-fc",
+      "weekend": "2026-09-05",
+      "name": "Rhode Island FC v Louisville City FC",
+      "utc": "2026-09-05T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-05-tampa-bay-rowdies-brooklyn-fc",
+      "weekend": "2026-09-05",
+      "name": "Tampa Bay Rowdies v Brooklyn FC",
+      "utc": "2026-09-05T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-06-san-antonio-fc-fc-tulsa",
+      "weekend": "2026-09-06",
+      "name": "San Antonio FC v FC Tulsa",
+      "utc": "2026-09-06T00:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-06-monterey-bay-phoenix-rising-fc",
+      "weekend": "2026-09-06",
+      "name": "Monterey Bay v Phoenix Rising FC",
+      "utc": "2026-09-06T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-06-orange-county-sc-sacramento-republic-fc",
+      "weekend": "2026-09-06",
+      "name": "Orange County SC v Sacramento Republic FC",
+      "utc": "2026-09-06T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-06-las-vegas-lights-fc-new-mexico-united",
+      "weekend": "2026-09-06",
+      "name": "Las Vegas Lights FC v New Mexico United",
+      "utc": "2026-09-06T02:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-12-new-mexico-united-indy-eleven",
+      "weekend": "2026-09-12",
+      "name": "New Mexico United v Indy Eleven",
+      "utc": "2026-09-12T01:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-12-colorado-springs-switchbacks-fc-san-antonio-fc",
+      "weekend": "2026-09-12",
+      "name": "Colorado Springs Switchbacks FC v San Antonio FC",
+      "utc": "2026-09-12T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-12-birmingham-legion-fc-charleston-battery",
+      "weekend": "2026-09-12",
+      "name": "Birmingham Legion FC v Charleston Battery",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-12-brooklyn-fc-miami-fc",
+      "weekend": "2026-09-12",
+      "name": "Brooklyn FC v Miami FC",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-12-hartford-athletic-tampa-bay-rowdies",
+      "weekend": "2026-09-12",
+      "name": "Hartford Athletic v Tampa Bay Rowdies",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-12-louisville-city-fc-el-paso-locomotive-fc",
+      "weekend": "2026-09-12",
+      "name": "Louisville City FC v El Paso Locomotive FC",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-12-pittsburgh-riverhounds-loudoun-united-fc",
+      "weekend": "2026-09-12",
+      "name": "Pittsburgh Riverhounds v Loudoun United FC",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-12-sporting-jax-rhode-island-fc",
+      "weekend": "2026-09-12",
+      "name": "Sporting JAX v Rhode Island FC",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-13-oakland-roots-lexington",
+      "weekend": "2026-09-13",
+      "name": "Oakland Roots v Lexington",
+      "utc": "2026-09-13T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-13-orange-county-sc-las-vegas-lights-fc",
+      "weekend": "2026-09-13",
+      "name": "Orange County SC v Las Vegas Lights FC",
+      "utc": "2026-09-13T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-13-phoenix-rising-fc-fc-tulsa",
+      "weekend": "2026-09-13",
+      "name": "Phoenix Rising FC v FC Tulsa",
+      "utc": "2026-09-13T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-13-sacramento-republic-fc-detroit-city-fc",
+      "weekend": "2026-09-13",
+      "name": "Sacramento Republic FC v Detroit City FC",
+      "utc": "2026-09-13T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-15-indy-eleven-brooklyn-fc",
+      "weekend": "2026-09-15",
+      "name": "Indy Eleven v Brooklyn FC",
+      "utc": "2026-09-15T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-16-hartford-athletic-sporting-jax",
+      "weekend": "2026-09-16",
+      "name": "Hartford Athletic v Sporting JAX",
+      "utc": "2026-09-16T22:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-17-birmingham-legion-fc-new-mexico-united",
+      "weekend": "2026-09-17",
+      "name": "Birmingham Legion FC v New Mexico United",
+      "utc": "2026-09-17T00:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-19-brooklyn-fc-fc-tulsa",
+      "weekend": "2026-09-19",
+      "name": "Brooklyn FC v FC Tulsa",
+      "utc": "2026-09-19T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-19-charleston-battery-monterey-bay",
+      "weekend": "2026-09-19",
+      "name": "Charleston Battery v Monterey Bay",
+      "utc": "2026-09-19T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-19-detroit-city-fc-pittsburgh-riverhounds",
+      "weekend": "2026-09-19",
+      "name": "Detroit City FC v Pittsburgh Riverhounds",
+      "utc": "2026-09-19T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-19-lexington-orange-county-sc",
+      "weekend": "2026-09-19",
+      "name": "Lexington v Orange County SC",
+      "utc": "2026-09-19T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-19-louisville-city-fc-loudoun-united-fc",
+      "weekend": "2026-09-19",
+      "name": "Louisville City FC v Loudoun United FC",
+      "utc": "2026-09-19T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-19-rhode-island-fc-miami-fc",
+      "weekend": "2026-09-19",
+      "name": "Rhode Island FC v Miami FC",
+      "utc": "2026-09-19T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-19-tampa-bay-rowdies-birmingham-legion-fc",
+      "weekend": "2026-09-19",
+      "name": "Tampa Bay Rowdies v Birmingham Legion FC",
+      "utc": "2026-09-19T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-20-colorado-springs-switchbacks-fc-new-mexico-united",
+      "weekend": "2026-09-20",
+      "name": "Colorado Springs Switchbacks FC v New Mexico United",
+      "utc": "2026-09-20T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-20-phoenix-rising-fc-el-paso-locomotive-fc",
+      "weekend": "2026-09-20",
+      "name": "Phoenix Rising FC v El Paso Locomotive FC",
+      "utc": "2026-09-20T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-20-las-vegas-lights-fc-hartford-athletic",
+      "weekend": "2026-09-20",
+      "name": "Las Vegas Lights FC v Hartford Athletic",
+      "utc": "2026-09-20T02:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-20-indy-eleven-oakland-roots",
+      "weekend": "2026-09-20",
+      "name": "Indy Eleven v Oakland Roots",
+      "utc": "2026-09-20T21:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-20-sacramento-republic-fc-san-antonio-fc",
+      "weekend": "2026-09-20",
+      "name": "Sacramento Republic FC v San Antonio FC",
+      "utc": "2026-09-20T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-23-birmingham-legion-fc-brooklyn-fc",
+      "weekend": "2026-09-23",
+      "name": "Birmingham Legion FC v Brooklyn FC",
+      "utc": "2026-09-23T16:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-25-hartford-athletic-louisville-city-fc",
+      "weekend": "2026-09-25",
+      "name": "Hartford Athletic v Louisville City FC",
+      "utc": "2026-09-25T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-25-sporting-jax-loudoun-united-fc",
+      "weekend": "2026-09-25",
+      "name": "Sporting JAX v Loudoun United FC",
+      "utc": "2026-09-25T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-26-el-paso-locomotive-fc-fc-tulsa",
+      "weekend": "2026-09-26",
+      "name": "El Paso Locomotive FC v FC Tulsa",
+      "utc": "2026-09-26T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-26-charleston-battery-rhode-island-fc",
+      "weekend": "2026-09-26",
+      "name": "Charleston Battery v Rhode Island FC",
+      "utc": "2026-09-26T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-26-detroit-city-fc-colorado-springs-switchbacks-fc",
+      "weekend": "2026-09-26",
+      "name": "Detroit City FC v Colorado Springs Switchbacks FC",
+      "utc": "2026-09-26T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-26-indy-eleven-miami-fc",
+      "weekend": "2026-09-26",
+      "name": "Indy Eleven v Miami FC",
+      "utc": "2026-09-26T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-27-san-antonio-fc-tampa-bay-rowdies",
+      "weekend": "2026-09-27",
+      "name": "San Antonio FC v Tampa Bay Rowdies",
+      "utc": "2026-09-27T00:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-27-new-mexico-united-sacramento-republic-fc",
+      "weekend": "2026-09-27",
+      "name": "New Mexico United v Sacramento Republic FC",
+      "utc": "2026-09-27T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-27-monterey-bay-lexington",
+      "weekend": "2026-09-27",
+      "name": "Monterey Bay v Lexington",
+      "utc": "2026-09-27T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-27-oakland-roots-phoenix-rising-fc",
+      "weekend": "2026-09-27",
+      "name": "Oakland Roots v Phoenix Rising FC",
+      "utc": "2026-09-27T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-27-orange-county-sc-pittsburgh-riverhounds",
+      "weekend": "2026-09-27",
+      "name": "Orange County SC v Pittsburgh Riverhounds",
+      "utc": "2026-09-27T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-30-brooklyn-fc-detroit-city-fc",
+      "weekend": "2026-09-30",
+      "name": "Brooklyn FC v Detroit City FC",
+      "utc": "2026-09-30T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-30-miami-fc-sporting-jax",
+      "weekend": "2026-09-30",
+      "name": "Miami FC v Sporting JAX",
+      "utc": "2026-09-30T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-09-30-rhode-island-fc-indy-eleven",
+      "weekend": "2026-09-30",
+      "name": "Rhode Island FC v Indy Eleven",
+      "utc": "2026-09-30T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-01-fc-tulsa-new-mexico-united",
+      "weekend": "2026-10-01",
+      "name": "FC Tulsa v New Mexico United",
+      "utc": "2026-10-01T00:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-01-sacramento-republic-fc-las-vegas-lights-fc",
+      "weekend": "2026-10-01",
+      "name": "Sacramento Republic FC v Las Vegas Lights FC",
+      "utc": "2026-10-01T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-03-loudoun-united-fc-indy-eleven",
+      "weekend": "2026-10-03",
+      "name": "Loudoun United FC v Indy Eleven",
+      "utc": "2026-10-03T22:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-03-brooklyn-fc-rhode-island-fc",
+      "weekend": "2026-10-03",
+      "name": "Brooklyn FC v Rhode Island FC",
+      "utc": "2026-10-03T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-03-detroit-city-fc-birmingham-legion-fc",
+      "weekend": "2026-10-03",
+      "name": "Detroit City FC v Birmingham Legion FC",
+      "utc": "2026-10-03T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-03-hartford-athletic-charleston-battery",
+      "weekend": "2026-10-03",
+      "name": "Hartford Athletic v Charleston Battery",
+      "utc": "2026-10-03T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-03-lexington-el-paso-locomotive-fc",
+      "weekend": "2026-10-03",
+      "name": "Lexington v El Paso Locomotive FC",
+      "utc": "2026-10-03T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-03-tampa-bay-rowdies-miami-fc",
+      "weekend": "2026-10-03",
+      "name": "Tampa Bay Rowdies v Miami FC",
+      "utc": "2026-10-03T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-04-fc-tulsa-sacramento-republic-fc",
+      "weekend": "2026-10-04",
+      "name": "FC Tulsa v Sacramento Republic FC",
+      "utc": "2026-10-04T00:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-04-colorado-springs-switchbacks-fc-oakland-roots",
+      "weekend": "2026-10-04",
+      "name": "Colorado Springs Switchbacks FC v Oakland Roots",
+      "utc": "2026-10-04T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-04-orange-county-sc-monterey-bay",
+      "weekend": "2026-10-04",
+      "name": "Orange County SC v Monterey Bay",
+      "utc": "2026-10-04T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-04-las-vegas-lights-fc-san-antonio-fc",
+      "weekend": "2026-10-04",
+      "name": "Las Vegas Lights FC v San Antonio FC",
+      "utc": "2026-10-04T02:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-04-sporting-jax-louisville-city-fc",
+      "weekend": "2026-10-04",
+      "name": "Sporting JAX v Louisville City FC",
+      "utc": "2026-10-04T21:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-04-new-mexico-united-phoenix-rising-fc",
+      "weekend": "2026-10-04",
+      "name": "New Mexico United v Phoenix Rising FC",
+      "utc": "2026-10-04T22:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-09-lexington-fc-tulsa",
+      "weekend": "2026-10-09",
+      "name": "Lexington v FC Tulsa",
+      "utc": "2026-10-09T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-10-sporting-jax-birmingham-legion-fc",
+      "weekend": "2026-10-10",
+      "name": "Sporting JAX v Birmingham Legion FC",
+      "utc": "2026-10-10T21:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-10-charleston-battery-louisville-city-fc",
+      "weekend": "2026-10-10",
+      "name": "Charleston Battery v Louisville City FC",
+      "utc": "2026-10-10T22:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-10-detroit-city-fc-rhode-island-fc",
+      "weekend": "2026-10-10",
+      "name": "Detroit City FC v Rhode Island FC",
+      "utc": "2026-10-10T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-10-indy-eleven-tampa-bay-rowdies",
+      "weekend": "2026-10-10",
+      "name": "Indy Eleven v Tampa Bay Rowdies",
+      "utc": "2026-10-10T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-10-miami-fc-loudoun-united-fc",
+      "weekend": "2026-10-10",
+      "name": "Miami FC v Loudoun United FC",
+      "utc": "2026-10-10T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-10-pittsburgh-riverhounds-hartford-athletic",
+      "weekend": "2026-10-10",
+      "name": "Pittsburgh Riverhounds v Hartford Athletic",
+      "utc": "2026-10-10T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-11-el-paso-locomotive-fc-orange-county-sc",
+      "weekend": "2026-10-11",
+      "name": "El Paso Locomotive FC v Orange County SC",
+      "utc": "2026-10-11T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-11-new-mexico-united-monterey-bay",
+      "weekend": "2026-10-11",
+      "name": "New Mexico United v Monterey Bay",
+      "utc": "2026-10-11T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-11-oakland-roots-san-antonio-fc",
+      "weekend": "2026-10-11",
+      "name": "Oakland Roots v San Antonio FC",
+      "utc": "2026-10-11T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-11-phoenix-rising-fc-las-vegas-lights-fc",
+      "weekend": "2026-10-11",
+      "name": "Phoenix Rising FC v Las Vegas Lights FC",
+      "utc": "2026-10-11T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-11-sacramento-republic-fc-colorado-springs-switchbacks-fc",
+      "weekend": "2026-10-11",
+      "name": "Sacramento Republic FC v Colorado Springs Switchbacks FC",
+      "utc": "2026-10-11T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-14-rhode-island-fc-loudoun-united-fc",
+      "weekend": "2026-10-14",
+      "name": "Rhode Island FC v Loudoun United FC",
+      "utc": "2026-10-14T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-17-hartford-athletic-brooklyn-fc",
+      "weekend": "2026-10-17",
+      "name": "Hartford Athletic v Brooklyn FC",
+      "utc": "2026-10-17T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-17-louisville-city-fc-indy-eleven",
+      "weekend": "2026-10-17",
+      "name": "Louisville City FC v Indy Eleven",
+      "utc": "2026-10-17T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-17-miami-fc-charleston-battery",
+      "weekend": "2026-10-17",
+      "name": "Miami FC v Charleston Battery",
+      "utc": "2026-10-17T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-17-rhode-island-fc-pittsburgh-riverhounds",
+      "weekend": "2026-10-17",
+      "name": "Rhode Island FC v Pittsburgh Riverhounds",
+      "utc": "2026-10-17T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-17-tampa-bay-rowdies-detroit-city-fc",
+      "weekend": "2026-10-17",
+      "name": "Tampa Bay Rowdies v Detroit City FC",
+      "utc": "2026-10-17T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-18-fc-tulsa-oakland-roots",
+      "weekend": "2026-10-18",
+      "name": "FC Tulsa v Oakland Roots",
+      "utc": "2026-10-18T00:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-18-san-antonio-fc-new-mexico-united",
+      "weekend": "2026-10-18",
+      "name": "San Antonio FC v New Mexico United",
+      "utc": "2026-10-18T00:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-18-el-paso-locomotive-fc-sacramento-republic-fc",
+      "weekend": "2026-10-18",
+      "name": "El Paso Locomotive FC v Sacramento Republic FC",
+      "utc": "2026-10-18T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-18-monterey-bay-colorado-springs-switchbacks-fc",
+      "weekend": "2026-10-18",
+      "name": "Monterey Bay v Colorado Springs Switchbacks FC",
+      "utc": "2026-10-18T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-18-orange-county-sc-phoenix-rising-fc",
+      "weekend": "2026-10-18",
+      "name": "Orange County SC v Phoenix Rising FC",
+      "utc": "2026-10-18T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-18-las-vegas-lights-fc-lexington",
+      "weekend": "2026-10-18",
+      "name": "Las Vegas Lights FC v Lexington",
+      "utc": "2026-10-18T02:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-18-birmingham-legion-fc-loudoun-united-fc",
+      "weekend": "2026-10-18",
+      "name": "Birmingham Legion FC v Loudoun United FC",
+      "utc": "2026-10-18T21:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-24-loudoun-united-fc-brooklyn-fc",
+      "weekend": "2026-10-24",
+      "name": "Loudoun United FC v Brooklyn FC",
+      "utc": "2026-10-24T21:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-24-charleston-battery-indy-eleven",
+      "weekend": "2026-10-24",
+      "name": "Charleston Battery v Indy Eleven",
+      "utc": "2026-10-24T22:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-24-hartford-athletic-rhode-island-fc",
+      "weekend": "2026-10-24",
+      "name": "Hartford Athletic v Rhode Island FC",
+      "utc": "2026-10-24T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-24-louisville-city-fc-detroit-city-fc",
+      "weekend": "2026-10-24",
+      "name": "Louisville City FC v Detroit City FC",
+      "utc": "2026-10-24T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-24-pittsburgh-riverhounds-birmingham-legion-fc",
+      "weekend": "2026-10-24",
+      "name": "Pittsburgh Riverhounds v Birmingham Legion FC",
+      "utc": "2026-10-24T23:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-24-tampa-bay-rowdies-sporting-jax",
+      "weekend": "2026-10-24",
+      "name": "Tampa Bay Rowdies v Sporting JAX",
+      "utc": "2026-10-24T23:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-25-san-antonio-fc-orange-county-sc",
+      "weekend": "2026-10-25",
+      "name": "San Antonio FC v Orange County SC",
+      "utc": "2026-10-25T00:30:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-25-colorado-springs-switchbacks-fc-fc-tulsa",
+      "weekend": "2026-10-25",
+      "name": "Colorado Springs Switchbacks FC v FC Tulsa",
+      "utc": "2026-10-25T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-25-el-paso-locomotive-fc-new-mexico-united",
+      "weekend": "2026-10-25",
+      "name": "El Paso Locomotive FC v New Mexico United",
+      "utc": "2026-10-25T01:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-25-monterey-bay-las-vegas-lights-fc",
+      "weekend": "2026-10-25",
+      "name": "Monterey Bay v Las Vegas Lights FC",
+      "utc": "2026-10-25T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-25-phoenix-rising-fc-lexington",
+      "weekend": "2026-10-25",
+      "name": "Phoenix Rising FC v Lexington",
+      "utc": "2026-10-25T02:00:00Z"
+    },
+    {
+      "id": "usa.usl.1-2026-10-25-sacramento-republic-fc-oakland-roots",
+      "weekend": "2026-10-25",
+      "name": "Sacramento Republic FC v Oakland Roots",
+      "utc": "2026-10-25T02:00:00Z"
+    }
+  ]
+}
