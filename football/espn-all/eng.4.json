@@ -1,0 +1,3319 @@
+{
+  "sportKey": "soccer-eng.4",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "eng.4-2026-08-15-newport-county-rochdale",
+      "weekend": "2026-08-15",
+      "name": "Newport County v Rochdale",
+      "utc": "2026-08-15T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-15-oldham-athletic-port-vale",
+      "weekend": "2026-08-15",
+      "name": "Oldham Athletic v Port Vale",
+      "utc": "2026-08-15T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-15-accrington-stanley-colchester-united",
+      "weekend": "2026-08-15",
+      "name": "Accrington Stanley v Colchester United",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-15-barnet-salford-city",
+      "weekend": "2026-08-15",
+      "name": "Barnet v Salford City",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-15-cheltenham-town-rotherham-united",
+      "weekend": "2026-08-15",
+      "name": "Cheltenham Town v Rotherham United",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-15-chesterfield-fleetwood-town",
+      "weekend": "2026-08-15",
+      "name": "Chesterfield v Fleetwood Town",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-15-crawley-town-crewe-alexandra",
+      "weekend": "2026-08-15",
+      "name": "Crawley Town v Crewe Alexandra",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-15-gillingham-walsall",
+      "weekend": "2026-08-15",
+      "name": "Gillingham v Walsall",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-15-grimsby-town-exeter-city",
+      "weekend": "2026-08-15",
+      "name": "Grimsby Town v Exeter City",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-15-northampton-town-swindon-town",
+      "weekend": "2026-08-15",
+      "name": "Northampton Town v Swindon Town",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-15-tranmere-rovers-shrewsbury-town",
+      "weekend": "2026-08-15",
+      "name": "Tranmere Rovers v Shrewsbury Town",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-15-york-city-bristol-rovers",
+      "weekend": "2026-08-15",
+      "name": "York City v Bristol Rovers",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-bristol-rovers-newport-county",
+      "weekend": "2026-08-22",
+      "name": "Bristol Rovers v Newport County",
+      "utc": "2026-08-22T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-salford-city-chesterfield",
+      "weekend": "2026-08-22",
+      "name": "Salford City v Chesterfield",
+      "utc": "2026-08-22T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-walsall-grimsby-town",
+      "weekend": "2026-08-22",
+      "name": "Walsall v Grimsby Town",
+      "utc": "2026-08-22T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-colchester-united-oldham-athletic",
+      "weekend": "2026-08-22",
+      "name": "Colchester United v Oldham Athletic",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-crewe-alexandra-northampton-town",
+      "weekend": "2026-08-22",
+      "name": "Crewe Alexandra v Northampton Town",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-exeter-city-accrington-stanley",
+      "weekend": "2026-08-22",
+      "name": "Exeter City v Accrington Stanley",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-fleetwood-town-gillingham",
+      "weekend": "2026-08-22",
+      "name": "Fleetwood Town v Gillingham",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-port-vale-tranmere-rovers",
+      "weekend": "2026-08-22",
+      "name": "Port Vale v Tranmere Rovers",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-rochdale-crawley-town",
+      "weekend": "2026-08-22",
+      "name": "Rochdale v Crawley Town",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-rotherham-united-york-city",
+      "weekend": "2026-08-22",
+      "name": "Rotherham United v York City",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-shrewsbury-town-barnet",
+      "weekend": "2026-08-22",
+      "name": "Shrewsbury Town v Barnet",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-22-swindon-town-cheltenham-town",
+      "weekend": "2026-08-22",
+      "name": "Swindon Town v Cheltenham Town",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-barnet-cheltenham-town",
+      "weekend": "2026-08-29",
+      "name": "Barnet v Cheltenham Town",
+      "utc": "2026-08-29T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-port-vale-crewe-alexandra",
+      "weekend": "2026-08-29",
+      "name": "Port Vale v Crewe Alexandra",
+      "utc": "2026-08-29T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-rotherham-united-chesterfield",
+      "weekend": "2026-08-29",
+      "name": "Rotherham United v Chesterfield",
+      "utc": "2026-08-29T12:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-colchester-united-rochdale",
+      "weekend": "2026-08-29",
+      "name": "Colchester United v Rochdale",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-crawley-town-bristol-rovers",
+      "weekend": "2026-08-29",
+      "name": "Crawley Town v Bristol Rovers",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-gillingham-northampton-town",
+      "weekend": "2026-08-29",
+      "name": "Gillingham v Northampton Town",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-grimsby-town-fleetwood-town",
+      "weekend": "2026-08-29",
+      "name": "Grimsby Town v Fleetwood Town",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-newport-county-tranmere-rovers",
+      "weekend": "2026-08-29",
+      "name": "Newport County v Tranmere Rovers",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-oldham-athletic-swindon-town",
+      "weekend": "2026-08-29",
+      "name": "Oldham Athletic v Swindon Town",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-shrewsbury-town-salford-city",
+      "weekend": "2026-08-29",
+      "name": "Shrewsbury Town v Salford City",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-walsall-accrington-stanley",
+      "weekend": "2026-08-29",
+      "name": "Walsall v Accrington Stanley",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-08-29-york-city-exeter-city",
+      "weekend": "2026-08-29",
+      "name": "York City v Exeter City",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-accrington-stanley-grimsby-town",
+      "weekend": "2026-09-01",
+      "name": "Accrington Stanley v Grimsby Town",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-bristol-rovers-colchester-united",
+      "weekend": "2026-09-01",
+      "name": "Bristol Rovers v Colchester United",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-cheltenham-town-york-city",
+      "weekend": "2026-09-01",
+      "name": "Cheltenham Town v York City",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-chesterfield-gillingham",
+      "weekend": "2026-09-01",
+      "name": "Chesterfield v Gillingham",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-crewe-alexandra-walsall",
+      "weekend": "2026-09-01",
+      "name": "Crewe Alexandra v Walsall",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-exeter-city-barnet",
+      "weekend": "2026-09-01",
+      "name": "Exeter City v Barnet",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-fleetwood-town-oldham-athletic",
+      "weekend": "2026-09-01",
+      "name": "Fleetwood Town v Oldham Athletic",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-northampton-town-crawley-town",
+      "weekend": "2026-09-01",
+      "name": "Northampton Town v Crawley Town",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-rochdale-shrewsbury-town",
+      "weekend": "2026-09-01",
+      "name": "Rochdale v Shrewsbury Town",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-salford-city-newport-county",
+      "weekend": "2026-09-01",
+      "name": "Salford City v Newport County",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-swindon-town-port-vale",
+      "weekend": "2026-09-01",
+      "name": "Swindon Town v Port Vale",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-01-tranmere-rovers-rotherham-united",
+      "weekend": "2026-09-01",
+      "name": "Tranmere Rovers v Rotherham United",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-fleetwood-town-shrewsbury-town",
+      "weekend": "2026-09-05",
+      "name": "Fleetwood Town v Shrewsbury Town",
+      "utc": "2026-09-05T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-salford-city-port-vale",
+      "weekend": "2026-09-05",
+      "name": "Salford City v Port Vale",
+      "utc": "2026-09-05T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-accrington-stanley-crawley-town",
+      "weekend": "2026-09-05",
+      "name": "Accrington Stanley v Crawley Town",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-bristol-rovers-rotherham-united",
+      "weekend": "2026-09-05",
+      "name": "Bristol Rovers v Rotherham United",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-cheltenham-town-grimsby-town",
+      "weekend": "2026-09-05",
+      "name": "Cheltenham Town v Grimsby Town",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-chesterfield-barnet",
+      "weekend": "2026-09-05",
+      "name": "Chesterfield v Barnet",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-crewe-alexandra-york-city",
+      "weekend": "2026-09-05",
+      "name": "Crewe Alexandra v York City",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-exeter-city-walsall",
+      "weekend": "2026-09-05",
+      "name": "Exeter City v Walsall",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-northampton-town-newport-county",
+      "weekend": "2026-09-05",
+      "name": "Northampton Town v Newport County",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-rochdale-gillingham",
+      "weekend": "2026-09-05",
+      "name": "Rochdale v Gillingham",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-swindon-town-colchester-united",
+      "weekend": "2026-09-05",
+      "name": "Swindon Town v Colchester United",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-05-tranmere-rovers-oldham-athletic",
+      "weekend": "2026-09-05",
+      "name": "Tranmere Rovers v Oldham Athletic",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-crawley-town-cheltenham-town",
+      "weekend": "2026-09-12",
+      "name": "Crawley Town v Cheltenham Town",
+      "utc": "2026-09-12T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-grimsby-town-bristol-rovers",
+      "weekend": "2026-09-12",
+      "name": "Grimsby Town v Bristol Rovers",
+      "utc": "2026-09-12T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-barnet-accrington-stanley",
+      "weekend": "2026-09-12",
+      "name": "Barnet v Accrington Stanley",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-colchester-united-crewe-alexandra",
+      "weekend": "2026-09-12",
+      "name": "Colchester United v Crewe Alexandra",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-gillingham-tranmere-rovers",
+      "weekend": "2026-09-12",
+      "name": "Gillingham v Tranmere Rovers",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-newport-county-fleetwood-town",
+      "weekend": "2026-09-12",
+      "name": "Newport County v Fleetwood Town",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-oldham-athletic-chesterfield",
+      "weekend": "2026-09-12",
+      "name": "Oldham Athletic v Chesterfield",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-port-vale-exeter-city",
+      "weekend": "2026-09-12",
+      "name": "Port Vale v Exeter City",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-rotherham-united-salford-city",
+      "weekend": "2026-09-12",
+      "name": "Rotherham United v Salford City",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-shrewsbury-town-northampton-town",
+      "weekend": "2026-09-12",
+      "name": "Shrewsbury Town v Northampton Town",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-walsall-rochdale",
+      "weekend": "2026-09-12",
+      "name": "Walsall v Rochdale",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-12-york-city-swindon-town",
+      "weekend": "2026-09-12",
+      "name": "York City v Swindon Town",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-rochdale-oldham-athletic",
+      "weekend": "2026-09-19",
+      "name": "Rochdale v Oldham Athletic",
+      "utc": "2026-09-19T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-walsall-port-vale",
+      "weekend": "2026-09-19",
+      "name": "Walsall v Port Vale",
+      "utc": "2026-09-19T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-accrington-stanley-newport-county",
+      "weekend": "2026-09-19",
+      "name": "Accrington Stanley v Newport County",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-barnet-fleetwood-town",
+      "weekend": "2026-09-19",
+      "name": "Barnet v Fleetwood Town",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-chesterfield-york-city",
+      "weekend": "2026-09-19",
+      "name": "Chesterfield v York City",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-colchester-united-cheltenham-town",
+      "weekend": "2026-09-19",
+      "name": "Colchester United v Cheltenham Town",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-crewe-alexandra-shrewsbury-town",
+      "weekend": "2026-09-19",
+      "name": "Crewe Alexandra v Shrewsbury Town",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-exeter-city-tranmere-rovers",
+      "weekend": "2026-09-19",
+      "name": "Exeter City v Tranmere Rovers",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-gillingham-bristol-rovers",
+      "weekend": "2026-09-19",
+      "name": "Gillingham v Bristol Rovers",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-grimsby-town-crawley-town",
+      "weekend": "2026-09-19",
+      "name": "Grimsby Town v Crawley Town",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-northampton-town-rotherham-united",
+      "weekend": "2026-09-19",
+      "name": "Northampton Town v Rotherham United",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-19-salford-city-swindon-town",
+      "weekend": "2026-09-19",
+      "name": "Salford City v Swindon Town",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-crawley-town-barnet",
+      "weekend": "2026-09-26",
+      "name": "Crawley Town v Barnet",
+      "utc": "2026-09-26T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-bristol-rovers-exeter-city",
+      "weekend": "2026-09-26",
+      "name": "Bristol Rovers v Exeter City",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-cheltenham-town-chesterfield",
+      "weekend": "2026-09-26",
+      "name": "Cheltenham Town v Chesterfield",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-fleetwood-town-rochdale",
+      "weekend": "2026-09-26",
+      "name": "Fleetwood Town v Rochdale",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-newport-county-grimsby-town",
+      "weekend": "2026-09-26",
+      "name": "Newport County v Grimsby Town",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-port-vale-northampton-town",
+      "weekend": "2026-09-26",
+      "name": "Port Vale v Northampton Town",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-rotherham-united-crewe-alexandra",
+      "weekend": "2026-09-26",
+      "name": "Rotherham United v Crewe Alexandra",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-shrewsbury-town-colchester-united",
+      "weekend": "2026-09-26",
+      "name": "Shrewsbury Town v Colchester United",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-swindon-town-accrington-stanley",
+      "weekend": "2026-09-26",
+      "name": "Swindon Town v Accrington Stanley",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-tranmere-rovers-walsall",
+      "weekend": "2026-09-26",
+      "name": "Tranmere Rovers v Walsall",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-york-city-gillingham",
+      "weekend": "2026-09-26",
+      "name": "York City v Gillingham",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-09-26-oldham-athletic-salford-city",
+      "weekend": "2026-09-26",
+      "name": "Oldham Athletic v Salford City",
+      "utc": "2026-09-26T16:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-chesterfield-tranmere-rovers",
+      "weekend": "2026-10-03",
+      "name": "Chesterfield v Tranmere Rovers",
+      "utc": "2026-10-03T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-accrington-stanley-cheltenham-town",
+      "weekend": "2026-10-03",
+      "name": "Accrington Stanley v Cheltenham Town",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-barnet-york-city",
+      "weekend": "2026-10-03",
+      "name": "Barnet v York City",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-colchester-united-port-vale",
+      "weekend": "2026-10-03",
+      "name": "Colchester United v Port Vale",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-crewe-alexandra-bristol-rovers",
+      "weekend": "2026-10-03",
+      "name": "Crewe Alexandra v Bristol Rovers",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-exeter-city-rotherham-united",
+      "weekend": "2026-10-03",
+      "name": "Exeter City v Rotherham United",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-gillingham-newport-county",
+      "weekend": "2026-10-03",
+      "name": "Gillingham v Newport County",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-grimsby-town-shrewsbury-town",
+      "weekend": "2026-10-03",
+      "name": "Grimsby Town v Shrewsbury Town",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-northampton-town-oldham-athletic",
+      "weekend": "2026-10-03",
+      "name": "Northampton Town v Oldham Athletic",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-rochdale-swindon-town",
+      "weekend": "2026-10-03",
+      "name": "Rochdale v Swindon Town",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-salford-city-fleetwood-town",
+      "weekend": "2026-10-03",
+      "name": "Salford City v Fleetwood Town",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-03-walsall-crawley-town",
+      "weekend": "2026-10-03",
+      "name": "Walsall v Crawley Town",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-oldham-athletic-accrington-stanley",
+      "weekend": "2026-10-10",
+      "name": "Oldham Athletic v Accrington Stanley",
+      "utc": "2026-10-10T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-swindon-town-crewe-alexandra",
+      "weekend": "2026-10-10",
+      "name": "Swindon Town v Crewe Alexandra",
+      "utc": "2026-10-10T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-bristol-rovers-barnet",
+      "weekend": "2026-10-10",
+      "name": "Bristol Rovers v Barnet",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-cheltenham-town-salford-city",
+      "weekend": "2026-10-10",
+      "name": "Cheltenham Town v Salford City",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-crawley-town-chesterfield",
+      "weekend": "2026-10-10",
+      "name": "Crawley Town v Chesterfield",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-fleetwood-town-walsall",
+      "weekend": "2026-10-10",
+      "name": "Fleetwood Town v Walsall",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-newport-county-colchester-united",
+      "weekend": "2026-10-10",
+      "name": "Newport County v Colchester United",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-port-vale-grimsby-town",
+      "weekend": "2026-10-10",
+      "name": "Port Vale v Grimsby Town",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-rotherham-united-gillingham",
+      "weekend": "2026-10-10",
+      "name": "Rotherham United v Gillingham",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-shrewsbury-town-exeter-city",
+      "weekend": "2026-10-10",
+      "name": "Shrewsbury Town v Exeter City",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-tranmere-rovers-rochdale",
+      "weekend": "2026-10-10",
+      "name": "Tranmere Rovers v Rochdale",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-10-york-city-northampton-town",
+      "weekend": "2026-10-10",
+      "name": "York City v Northampton Town",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-fleetwood-town-rotherham-united",
+      "weekend": "2026-10-17",
+      "name": "Fleetwood Town v Rotherham United",
+      "utc": "2026-10-17T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-shrewsbury-town-bristol-rovers",
+      "weekend": "2026-10-17",
+      "name": "Shrewsbury Town v Bristol Rovers",
+      "utc": "2026-10-17T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-accrington-stanley-gillingham",
+      "weekend": "2026-10-17",
+      "name": "Accrington Stanley v Gillingham",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-colchester-united-exeter-city",
+      "weekend": "2026-10-17",
+      "name": "Colchester United v Exeter City",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-crewe-alexandra-rochdale",
+      "weekend": "2026-10-17",
+      "name": "Crewe Alexandra v Rochdale",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-grimsby-town-northampton-town",
+      "weekend": "2026-10-17",
+      "name": "Grimsby Town v Northampton Town",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-newport-county-york-city",
+      "weekend": "2026-10-17",
+      "name": "Newport County v York City",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-oldham-athletic-cheltenham-town",
+      "weekend": "2026-10-17",
+      "name": "Oldham Athletic v Cheltenham Town",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-port-vale-chesterfield",
+      "weekend": "2026-10-17",
+      "name": "Port Vale v Chesterfield",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-salford-city-crawley-town",
+      "weekend": "2026-10-17",
+      "name": "Salford City v Crawley Town",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-swindon-town-walsall",
+      "weekend": "2026-10-17",
+      "name": "Swindon Town v Walsall",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-17-tranmere-rovers-barnet",
+      "weekend": "2026-10-17",
+      "name": "Tranmere Rovers v Barnet",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-barnet-swindon-town",
+      "weekend": "2026-10-20",
+      "name": "Barnet v Swindon Town",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-bristol-rovers-salford-city",
+      "weekend": "2026-10-20",
+      "name": "Bristol Rovers v Salford City",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-cheltenham-town-fleetwood-town",
+      "weekend": "2026-10-20",
+      "name": "Cheltenham Town v Fleetwood Town",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-chesterfield-colchester-united",
+      "weekend": "2026-10-20",
+      "name": "Chesterfield v Colchester United",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-crawley-town-shrewsbury-town",
+      "weekend": "2026-10-20",
+      "name": "Crawley Town v Shrewsbury Town",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-exeter-city-crewe-alexandra",
+      "weekend": "2026-10-20",
+      "name": "Exeter City v Crewe Alexandra",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-northampton-town-tranmere-rovers",
+      "weekend": "2026-10-20",
+      "name": "Northampton Town v Tranmere Rovers",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-rochdale-grimsby-town",
+      "weekend": "2026-10-20",
+      "name": "Rochdale v Grimsby Town",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-rotherham-united-newport-county",
+      "weekend": "2026-10-20",
+      "name": "Rotherham United v Newport County",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-walsall-oldham-athletic",
+      "weekend": "2026-10-20",
+      "name": "Walsall v Oldham Athletic",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-york-city-accrington-stanley",
+      "weekend": "2026-10-20",
+      "name": "York City v Accrington Stanley",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-20-gillingham-port-vale",
+      "weekend": "2026-10-20",
+      "name": "Gillingham v Port Vale",
+      "utc": "2026-10-20T19:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-24-bristol-rovers-swindon-town",
+      "weekend": "2026-10-24",
+      "name": "Bristol Rovers v Swindon Town",
+      "utc": "2026-10-24T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-24-cheltenham-town-newport-county",
+      "weekend": "2026-10-24",
+      "name": "Cheltenham Town v Newport County",
+      "utc": "2026-10-24T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-24-northampton-town-colchester-united",
+      "weekend": "2026-10-24",
+      "name": "Northampton Town v Colchester United",
+      "utc": "2026-10-24T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-24-barnet-oldham-athletic",
+      "weekend": "2026-10-24",
+      "name": "Barnet v Oldham Athletic",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-24-chesterfield-crewe-alexandra",
+      "weekend": "2026-10-24",
+      "name": "Chesterfield v Crewe Alexandra",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-24-crawley-town-tranmere-rovers",
+      "weekend": "2026-10-24",
+      "name": "Crawley Town v Tranmere Rovers",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-24-exeter-city-fleetwood-town",
+      "weekend": "2026-10-24",
+      "name": "Exeter City v Fleetwood Town",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-24-gillingham-grimsby-town",
+      "weekend": "2026-10-24",
+      "name": "Gillingham v Grimsby Town",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-24-rochdale-accrington-stanley",
+      "weekend": "2026-10-24",
+      "name": "Rochdale v Accrington Stanley",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-24-rotherham-united-shrewsbury-town",
+      "weekend": "2026-10-24",
+      "name": "Rotherham United v Shrewsbury Town",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-24-york-city-port-vale",
+      "weekend": "2026-10-24",
+      "name": "York City v Port Vale",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-26-walsall-salford-city",
+      "weekend": "2026-10-26",
+      "name": "Walsall v Salford City",
+      "utc": "2026-10-26T20:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-30-newport-county-chesterfield",
+      "weekend": "2026-10-30",
+      "name": "Newport County v Chesterfield",
+      "utc": "2026-10-30T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-31-grimsby-town-york-city",
+      "weekend": "2026-10-31",
+      "name": "Grimsby Town v York City",
+      "utc": "2026-10-31T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-31-port-vale-rochdale",
+      "weekend": "2026-10-31",
+      "name": "Port Vale v Rochdale",
+      "utc": "2026-10-31T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-31-accrington-stanley-northampton-town",
+      "weekend": "2026-10-31",
+      "name": "Accrington Stanley v Northampton Town",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-31-colchester-united-walsall",
+      "weekend": "2026-10-31",
+      "name": "Colchester United v Walsall",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-31-crewe-alexandra-barnet",
+      "weekend": "2026-10-31",
+      "name": "Crewe Alexandra v Barnet",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-31-fleetwood-town-bristol-rovers",
+      "weekend": "2026-10-31",
+      "name": "Fleetwood Town v Bristol Rovers",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-31-oldham-athletic-crawley-town",
+      "weekend": "2026-10-31",
+      "name": "Oldham Athletic v Crawley Town",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-31-salford-city-exeter-city",
+      "weekend": "2026-10-31",
+      "name": "Salford City v Exeter City",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-31-shrewsbury-town-gillingham",
+      "weekend": "2026-10-31",
+      "name": "Shrewsbury Town v Gillingham",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-31-swindon-town-rotherham-united",
+      "weekend": "2026-10-31",
+      "name": "Swindon Town v Rotherham United",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-10-31-tranmere-rovers-cheltenham-town",
+      "weekend": "2026-10-31",
+      "name": "Tranmere Rovers v Cheltenham Town",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-exeter-city-cheltenham-town",
+      "weekend": "2026-11-14",
+      "name": "Exeter City v Cheltenham Town",
+      "utc": "2026-11-14T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-bristol-rovers-chesterfield",
+      "weekend": "2026-11-14",
+      "name": "Bristol Rovers v Chesterfield",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-colchester-united-gillingham",
+      "weekend": "2026-11-14",
+      "name": "Colchester United v Gillingham",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-crewe-alexandra-newport-county",
+      "weekend": "2026-11-14",
+      "name": "Crewe Alexandra v Newport County",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-port-vale-accrington-stanley",
+      "weekend": "2026-11-14",
+      "name": "Port Vale v Accrington Stanley",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-rochdale-york-city",
+      "weekend": "2026-11-14",
+      "name": "Rochdale v York City",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-rotherham-united-crawley-town",
+      "weekend": "2026-11-14",
+      "name": "Rotherham United v Crawley Town",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-salford-city-northampton-town",
+      "weekend": "2026-11-14",
+      "name": "Salford City v Northampton Town",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-shrewsbury-town-oldham-athletic",
+      "weekend": "2026-11-14",
+      "name": "Shrewsbury Town v Oldham Athletic",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-swindon-town-grimsby-town",
+      "weekend": "2026-11-14",
+      "name": "Swindon Town v Grimsby Town",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-walsall-barnet",
+      "weekend": "2026-11-14",
+      "name": "Walsall v Barnet",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-14-fleetwood-town-tranmere-rovers",
+      "weekend": "2026-11-14",
+      "name": "Fleetwood Town v Tranmere Rovers",
+      "utc": "2026-11-14T17:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-gillingham-crewe-alexandra",
+      "weekend": "2026-11-21",
+      "name": "Gillingham v Crewe Alexandra",
+      "utc": "2026-11-21T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-newport-county-swindon-town",
+      "weekend": "2026-11-21",
+      "name": "Newport County v Swindon Town",
+      "utc": "2026-11-21T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-accrington-stanley-salford-city",
+      "weekend": "2026-11-21",
+      "name": "Accrington Stanley v Salford City",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-barnet-port-vale",
+      "weekend": "2026-11-21",
+      "name": "Barnet v Port Vale",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-cheltenham-town-bristol-rovers",
+      "weekend": "2026-11-21",
+      "name": "Cheltenham Town v Bristol Rovers",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-chesterfield-shrewsbury-town",
+      "weekend": "2026-11-21",
+      "name": "Chesterfield v Shrewsbury Town",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-crawley-town-fleetwood-town",
+      "weekend": "2026-11-21",
+      "name": "Crawley Town v Fleetwood Town",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-grimsby-town-rotherham-united",
+      "weekend": "2026-11-21",
+      "name": "Grimsby Town v Rotherham United",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-northampton-town-rochdale",
+      "weekend": "2026-11-21",
+      "name": "Northampton Town v Rochdale",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-oldham-athletic-exeter-city",
+      "weekend": "2026-11-21",
+      "name": "Oldham Athletic v Exeter City",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-tranmere-rovers-colchester-united",
+      "weekend": "2026-11-21",
+      "name": "Tranmere Rovers v Colchester United",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-21-york-city-walsall",
+      "weekend": "2026-11-21",
+      "name": "York City v Walsall",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-bristol-rovers-tranmere-rovers",
+      "weekend": "2026-11-28",
+      "name": "Bristol Rovers v Tranmere Rovers",
+      "utc": "2026-11-28T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-exeter-city-crawley-town",
+      "weekend": "2026-11-28",
+      "name": "Exeter City v Crawley Town",
+      "utc": "2026-11-28T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-colchester-united-york-city",
+      "weekend": "2026-11-28",
+      "name": "Colchester United v York City",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-crewe-alexandra-grimsby-town",
+      "weekend": "2026-11-28",
+      "name": "Crewe Alexandra v Grimsby Town",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-fleetwood-town-accrington-stanley",
+      "weekend": "2026-11-28",
+      "name": "Fleetwood Town v Accrington Stanley",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-port-vale-newport-county",
+      "weekend": "2026-11-28",
+      "name": "Port Vale v Newport County",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-rochdale-barnet",
+      "weekend": "2026-11-28",
+      "name": "Rochdale v Barnet",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-rotherham-united-oldham-athletic",
+      "weekend": "2026-11-28",
+      "name": "Rotherham United v Oldham Athletic",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-salford-city-gillingham",
+      "weekend": "2026-11-28",
+      "name": "Salford City v Gillingham",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-shrewsbury-town-cheltenham-town",
+      "weekend": "2026-11-28",
+      "name": "Shrewsbury Town v Cheltenham Town",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-swindon-town-chesterfield",
+      "weekend": "2026-11-28",
+      "name": "Swindon Town v Chesterfield",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-11-28-walsall-northampton-town",
+      "weekend": "2026-11-28",
+      "name": "Walsall v Northampton Town",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-accrington-stanley-crewe-alexandra",
+      "weekend": "2026-12-01",
+      "name": "Accrington Stanley v Crewe Alexandra",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-barnet-rotherham-united",
+      "weekend": "2026-12-01",
+      "name": "Barnet v Rotherham United",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-cheltenham-town-rochdale",
+      "weekend": "2026-12-01",
+      "name": "Cheltenham Town v Rochdale",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-chesterfield-exeter-city",
+      "weekend": "2026-12-01",
+      "name": "Chesterfield v Exeter City",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-crawley-town-port-vale",
+      "weekend": "2026-12-01",
+      "name": "Crawley Town v Port Vale",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-gillingham-swindon-town",
+      "weekend": "2026-12-01",
+      "name": "Gillingham v Swindon Town",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-grimsby-town-colchester-united",
+      "weekend": "2026-12-01",
+      "name": "Grimsby Town v Colchester United",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-newport-county-walsall",
+      "weekend": "2026-12-01",
+      "name": "Newport County v Walsall",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-northampton-town-fleetwood-town",
+      "weekend": "2026-12-01",
+      "name": "Northampton Town v Fleetwood Town",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-oldham-athletic-bristol-rovers",
+      "weekend": "2026-12-01",
+      "name": "Oldham Athletic v Bristol Rovers",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-tranmere-rovers-salford-city",
+      "weekend": "2026-12-01",
+      "name": "Tranmere Rovers v Salford City",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-01-york-city-shrewsbury-town",
+      "weekend": "2026-12-01",
+      "name": "York City v Shrewsbury Town",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-chesterfield-grimsby-town",
+      "weekend": "2026-12-12",
+      "name": "Chesterfield v Grimsby Town",
+      "utc": "2026-12-12T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-tranmere-rovers-york-city",
+      "weekend": "2026-12-12",
+      "name": "Tranmere Rovers v York City",
+      "utc": "2026-12-12T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-barnet-northampton-town",
+      "weekend": "2026-12-12",
+      "name": "Barnet v Northampton Town",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-bristol-rovers-accrington-stanley",
+      "weekend": "2026-12-12",
+      "name": "Bristol Rovers v Accrington Stanley",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-cheltenham-town-crewe-alexandra",
+      "weekend": "2026-12-12",
+      "name": "Cheltenham Town v Crewe Alexandra",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-crawley-town-newport-county",
+      "weekend": "2026-12-12",
+      "name": "Crawley Town v Newport County",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-exeter-city-rochdale",
+      "weekend": "2026-12-12",
+      "name": "Exeter City v Rochdale",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-fleetwood-town-swindon-town",
+      "weekend": "2026-12-12",
+      "name": "Fleetwood Town v Swindon Town",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-oldham-athletic-gillingham",
+      "weekend": "2026-12-12",
+      "name": "Oldham Athletic v Gillingham",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-rotherham-united-walsall",
+      "weekend": "2026-12-12",
+      "name": "Rotherham United v Walsall",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-salford-city-colchester-united",
+      "weekend": "2026-12-12",
+      "name": "Salford City v Colchester United",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-12-shrewsbury-town-port-vale",
+      "weekend": "2026-12-12",
+      "name": "Shrewsbury Town v Port Vale",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-17-crewe-alexandra-salford-city",
+      "weekend": "2026-12-17",
+      "name": "Crewe Alexandra v Salford City",
+      "utc": "2026-12-17T20:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-19-colchester-united-fleetwood-town",
+      "weekend": "2026-12-19",
+      "name": "Colchester United v Fleetwood Town",
+      "utc": "2026-12-19T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-19-northampton-town-exeter-city",
+      "weekend": "2026-12-19",
+      "name": "Northampton Town v Exeter City",
+      "utc": "2026-12-19T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-19-accrington-stanley-chesterfield",
+      "weekend": "2026-12-19",
+      "name": "Accrington Stanley v Chesterfield",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-19-gillingham-cheltenham-town",
+      "weekend": "2026-12-19",
+      "name": "Gillingham v Cheltenham Town",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-19-grimsby-town-barnet",
+      "weekend": "2026-12-19",
+      "name": "Grimsby Town v Barnet",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-19-newport-county-oldham-athletic",
+      "weekend": "2026-12-19",
+      "name": "Newport County v Oldham Athletic",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-19-port-vale-rotherham-united",
+      "weekend": "2026-12-19",
+      "name": "Port Vale v Rotherham United",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-19-rochdale-bristol-rovers",
+      "weekend": "2026-12-19",
+      "name": "Rochdale v Bristol Rovers",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-19-swindon-town-tranmere-rovers",
+      "weekend": "2026-12-19",
+      "name": "Swindon Town v Tranmere Rovers",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-19-walsall-shrewsbury-town",
+      "weekend": "2026-12-19",
+      "name": "Walsall v Shrewsbury Town",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-19-york-city-crawley-town",
+      "weekend": "2026-12-19",
+      "name": "York City v Crawley Town",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-barnet-colchester-united",
+      "weekend": "2026-12-26",
+      "name": "Barnet v Colchester United",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-bristol-rovers-walsall",
+      "weekend": "2026-12-26",
+      "name": "Bristol Rovers v Walsall",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-cheltenham-town-port-vale",
+      "weekend": "2026-12-26",
+      "name": "Cheltenham Town v Port Vale",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-chesterfield-northampton-town",
+      "weekend": "2026-12-26",
+      "name": "Chesterfield v Northampton Town",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-crawley-town-gillingham",
+      "weekend": "2026-12-26",
+      "name": "Crawley Town v Gillingham",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-exeter-city-newport-county",
+      "weekend": "2026-12-26",
+      "name": "Exeter City v Newport County",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-fleetwood-town-crewe-alexandra",
+      "weekend": "2026-12-26",
+      "name": "Fleetwood Town v Crewe Alexandra",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-oldham-athletic-york-city",
+      "weekend": "2026-12-26",
+      "name": "Oldham Athletic v York City",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-rotherham-united-rochdale",
+      "weekend": "2026-12-26",
+      "name": "Rotherham United v Rochdale",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-salford-city-grimsby-town",
+      "weekend": "2026-12-26",
+      "name": "Salford City v Grimsby Town",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-shrewsbury-town-swindon-town",
+      "weekend": "2026-12-26",
+      "name": "Shrewsbury Town v Swindon Town",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-26-tranmere-rovers-accrington-stanley",
+      "weekend": "2026-12-26",
+      "name": "Tranmere Rovers v Accrington Stanley",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-accrington-stanley-rotherham-united",
+      "weekend": "2026-12-29",
+      "name": "Accrington Stanley v Rotherham United",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-colchester-united-crawley-town",
+      "weekend": "2026-12-29",
+      "name": "Colchester United v Crawley Town",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-crewe-alexandra-tranmere-rovers",
+      "weekend": "2026-12-29",
+      "name": "Crewe Alexandra v Tranmere Rovers",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-gillingham-barnet",
+      "weekend": "2026-12-29",
+      "name": "Gillingham v Barnet",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-grimsby-town-oldham-athletic",
+      "weekend": "2026-12-29",
+      "name": "Grimsby Town v Oldham Athletic",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-newport-county-shrewsbury-town",
+      "weekend": "2026-12-29",
+      "name": "Newport County v Shrewsbury Town",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-northampton-town-cheltenham-town",
+      "weekend": "2026-12-29",
+      "name": "Northampton Town v Cheltenham Town",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-port-vale-bristol-rovers",
+      "weekend": "2026-12-29",
+      "name": "Port Vale v Bristol Rovers",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-rochdale-salford-city",
+      "weekend": "2026-12-29",
+      "name": "Rochdale v Salford City",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-swindon-town-exeter-city",
+      "weekend": "2026-12-29",
+      "name": "Swindon Town v Exeter City",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-walsall-chesterfield",
+      "weekend": "2026-12-29",
+      "name": "Walsall v Chesterfield",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2026-12-29-york-city-fleetwood-town",
+      "weekend": "2026-12-29",
+      "name": "York City v Fleetwood Town",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-01-accrington-stanley-shrewsbury-town",
+      "weekend": "2027-01-01",
+      "name": "Accrington Stanley v Shrewsbury Town",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-01-colchester-united-rotherham-united",
+      "weekend": "2027-01-01",
+      "name": "Colchester United v Rotherham United",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-01-crewe-alexandra-oldham-athletic",
+      "weekend": "2027-01-01",
+      "name": "Crewe Alexandra v Oldham Athletic",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-01-grimsby-town-tranmere-rovers",
+      "weekend": "2027-01-01",
+      "name": "Grimsby Town v Tranmere Rovers",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-01-newport-county-barnet",
+      "weekend": "2027-01-01",
+      "name": "Newport County v Barnet",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-01-port-vale-fleetwood-town",
+      "weekend": "2027-01-01",
+      "name": "Port Vale v Fleetwood Town",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-01-rochdale-chesterfield",
+      "weekend": "2027-01-01",
+      "name": "Rochdale v Chesterfield",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-01-swindon-town-crawley-town",
+      "weekend": "2027-01-01",
+      "name": "Swindon Town v Crawley Town",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-01-walsall-cheltenham-town",
+      "weekend": "2027-01-01",
+      "name": "Walsall v Cheltenham Town",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-01-york-city-salford-city",
+      "weekend": "2027-01-01",
+      "name": "York City v Salford City",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-02-gillingham-exeter-city",
+      "weekend": "2027-01-02",
+      "name": "Gillingham v Exeter City",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-02-northampton-town-bristol-rovers",
+      "weekend": "2027-01-02",
+      "name": "Northampton Town v Bristol Rovers",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-barnet-grimsby-town",
+      "weekend": "2027-01-09",
+      "name": "Barnet v Grimsby Town",
+      "utc": "2027-01-09T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-chesterfield-accrington-stanley",
+      "weekend": "2027-01-09",
+      "name": "Chesterfield v Accrington Stanley",
+      "utc": "2027-01-09T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-shrewsbury-town-walsall",
+      "weekend": "2027-01-09",
+      "name": "Shrewsbury Town v Walsall",
+      "utc": "2027-01-09T12:30:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-bristol-rovers-rochdale",
+      "weekend": "2027-01-09",
+      "name": "Bristol Rovers v Rochdale",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-cheltenham-town-gillingham",
+      "weekend": "2027-01-09",
+      "name": "Cheltenham Town v Gillingham",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-crawley-town-york-city",
+      "weekend": "2027-01-09",
+      "name": "Crawley Town v York City",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-exeter-city-northampton-town",
+      "weekend": "2027-01-09",
+      "name": "Exeter City v Northampton Town",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-fleetwood-town-colchester-united",
+      "weekend": "2027-01-09",
+      "name": "Fleetwood Town v Colchester United",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-oldham-athletic-newport-county",
+      "weekend": "2027-01-09",
+      "name": "Oldham Athletic v Newport County",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-rotherham-united-port-vale",
+      "weekend": "2027-01-09",
+      "name": "Rotherham United v Port Vale",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-salford-city-crewe-alexandra",
+      "weekend": "2027-01-09",
+      "name": "Salford City v Crewe Alexandra",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-09-tranmere-rovers-swindon-town",
+      "weekend": "2027-01-09",
+      "name": "Tranmere Rovers v Swindon Town",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-barnet-tranmere-rovers",
+      "weekend": "2027-01-16",
+      "name": "Barnet v Tranmere Rovers",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-bristol-rovers-shrewsbury-town",
+      "weekend": "2027-01-16",
+      "name": "Bristol Rovers v Shrewsbury Town",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-cheltenham-town-oldham-athletic",
+      "weekend": "2027-01-16",
+      "name": "Cheltenham Town v Oldham Athletic",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-chesterfield-port-vale",
+      "weekend": "2027-01-16",
+      "name": "Chesterfield v Port Vale",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-crawley-town-salford-city",
+      "weekend": "2027-01-16",
+      "name": "Crawley Town v Salford City",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-exeter-city-colchester-united",
+      "weekend": "2027-01-16",
+      "name": "Exeter City v Colchester United",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-gillingham-accrington-stanley",
+      "weekend": "2027-01-16",
+      "name": "Gillingham v Accrington Stanley",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-northampton-town-grimsby-town",
+      "weekend": "2027-01-16",
+      "name": "Northampton Town v Grimsby Town",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-rochdale-crewe-alexandra",
+      "weekend": "2027-01-16",
+      "name": "Rochdale v Crewe Alexandra",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-rotherham-united-fleetwood-town",
+      "weekend": "2027-01-16",
+      "name": "Rotherham United v Fleetwood Town",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-walsall-swindon-town",
+      "weekend": "2027-01-16",
+      "name": "Walsall v Swindon Town",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-16-york-city-newport-county",
+      "weekend": "2027-01-16",
+      "name": "York City v Newport County",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-accrington-stanley-york-city",
+      "weekend": "2027-01-19",
+      "name": "Accrington Stanley v York City",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-colchester-united-chesterfield",
+      "weekend": "2027-01-19",
+      "name": "Colchester United v Chesterfield",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-crewe-alexandra-exeter-city",
+      "weekend": "2027-01-19",
+      "name": "Crewe Alexandra v Exeter City",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-fleetwood-town-cheltenham-town",
+      "weekend": "2027-01-19",
+      "name": "Fleetwood Town v Cheltenham Town",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-grimsby-town-rochdale",
+      "weekend": "2027-01-19",
+      "name": "Grimsby Town v Rochdale",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-newport-county-rotherham-united",
+      "weekend": "2027-01-19",
+      "name": "Newport County v Rotherham United",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-oldham-athletic-walsall",
+      "weekend": "2027-01-19",
+      "name": "Oldham Athletic v Walsall",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-port-vale-gillingham",
+      "weekend": "2027-01-19",
+      "name": "Port Vale v Gillingham",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-salford-city-bristol-rovers",
+      "weekend": "2027-01-19",
+      "name": "Salford City v Bristol Rovers",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-shrewsbury-town-crawley-town",
+      "weekend": "2027-01-19",
+      "name": "Shrewsbury Town v Crawley Town",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-swindon-town-barnet",
+      "weekend": "2027-01-19",
+      "name": "Swindon Town v Barnet",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-19-tranmere-rovers-northampton-town",
+      "weekend": "2027-01-19",
+      "name": "Tranmere Rovers v Northampton Town",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-accrington-stanley-rochdale",
+      "weekend": "2027-01-23",
+      "name": "Accrington Stanley v Rochdale",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-colchester-united-northampton-town",
+      "weekend": "2027-01-23",
+      "name": "Colchester United v Northampton Town",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-crewe-alexandra-chesterfield",
+      "weekend": "2027-01-23",
+      "name": "Crewe Alexandra v Chesterfield",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-fleetwood-town-exeter-city",
+      "weekend": "2027-01-23",
+      "name": "Fleetwood Town v Exeter City",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-grimsby-town-gillingham",
+      "weekend": "2027-01-23",
+      "name": "Grimsby Town v Gillingham",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-newport-county-cheltenham-town",
+      "weekend": "2027-01-23",
+      "name": "Newport County v Cheltenham Town",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-oldham-athletic-barnet",
+      "weekend": "2027-01-23",
+      "name": "Oldham Athletic v Barnet",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-port-vale-york-city",
+      "weekend": "2027-01-23",
+      "name": "Port Vale v York City",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-salford-city-walsall",
+      "weekend": "2027-01-23",
+      "name": "Salford City v Walsall",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-shrewsbury-town-rotherham-united",
+      "weekend": "2027-01-23",
+      "name": "Shrewsbury Town v Rotherham United",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-swindon-town-bristol-rovers",
+      "weekend": "2027-01-23",
+      "name": "Swindon Town v Bristol Rovers",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-23-tranmere-rovers-crawley-town",
+      "weekend": "2027-01-23",
+      "name": "Tranmere Rovers v Crawley Town",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-barnet-crewe-alexandra",
+      "weekend": "2027-01-30",
+      "name": "Barnet v Crewe Alexandra",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-bristol-rovers-fleetwood-town",
+      "weekend": "2027-01-30",
+      "name": "Bristol Rovers v Fleetwood Town",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-cheltenham-town-tranmere-rovers",
+      "weekend": "2027-01-30",
+      "name": "Cheltenham Town v Tranmere Rovers",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-chesterfield-newport-county",
+      "weekend": "2027-01-30",
+      "name": "Chesterfield v Newport County",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-crawley-town-oldham-athletic",
+      "weekend": "2027-01-30",
+      "name": "Crawley Town v Oldham Athletic",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-exeter-city-salford-city",
+      "weekend": "2027-01-30",
+      "name": "Exeter City v Salford City",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-gillingham-shrewsbury-town",
+      "weekend": "2027-01-30",
+      "name": "Gillingham v Shrewsbury Town",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-northampton-town-accrington-stanley",
+      "weekend": "2027-01-30",
+      "name": "Northampton Town v Accrington Stanley",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-rochdale-port-vale",
+      "weekend": "2027-01-30",
+      "name": "Rochdale v Port Vale",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-rotherham-united-swindon-town",
+      "weekend": "2027-01-30",
+      "name": "Rotherham United v Swindon Town",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-walsall-colchester-united",
+      "weekend": "2027-01-30",
+      "name": "Walsall v Colchester United",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-01-30-york-city-grimsby-town",
+      "weekend": "2027-01-30",
+      "name": "York City v Grimsby Town",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-accrington-stanley-walsall",
+      "weekend": "2027-02-06",
+      "name": "Accrington Stanley v Walsall",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-bristol-rovers-crawley-town",
+      "weekend": "2027-02-06",
+      "name": "Bristol Rovers v Crawley Town",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-cheltenham-town-barnet",
+      "weekend": "2027-02-06",
+      "name": "Cheltenham Town v Barnet",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-chesterfield-rotherham-united",
+      "weekend": "2027-02-06",
+      "name": "Chesterfield v Rotherham United",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-crewe-alexandra-port-vale",
+      "weekend": "2027-02-06",
+      "name": "Crewe Alexandra v Port Vale",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-exeter-city-york-city",
+      "weekend": "2027-02-06",
+      "name": "Exeter City v York City",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-fleetwood-town-grimsby-town",
+      "weekend": "2027-02-06",
+      "name": "Fleetwood Town v Grimsby Town",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-northampton-town-gillingham",
+      "weekend": "2027-02-06",
+      "name": "Northampton Town v Gillingham",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-rochdale-colchester-united",
+      "weekend": "2027-02-06",
+      "name": "Rochdale v Colchester United",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-salford-city-shrewsbury-town",
+      "weekend": "2027-02-06",
+      "name": "Salford City v Shrewsbury Town",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-swindon-town-oldham-athletic",
+      "weekend": "2027-02-06",
+      "name": "Swindon Town v Oldham Athletic",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-06-tranmere-rovers-newport-county",
+      "weekend": "2027-02-06",
+      "name": "Tranmere Rovers v Newport County",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-barnet-exeter-city",
+      "weekend": "2027-02-09",
+      "name": "Barnet v Exeter City",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-colchester-united-bristol-rovers",
+      "weekend": "2027-02-09",
+      "name": "Colchester United v Bristol Rovers",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-crawley-town-northampton-town",
+      "weekend": "2027-02-09",
+      "name": "Crawley Town v Northampton Town",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-gillingham-chesterfield",
+      "weekend": "2027-02-09",
+      "name": "Gillingham v Chesterfield",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-grimsby-town-accrington-stanley",
+      "weekend": "2027-02-09",
+      "name": "Grimsby Town v Accrington Stanley",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-newport-county-salford-city",
+      "weekend": "2027-02-09",
+      "name": "Newport County v Salford City",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-oldham-athletic-fleetwood-town",
+      "weekend": "2027-02-09",
+      "name": "Oldham Athletic v Fleetwood Town",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-port-vale-swindon-town",
+      "weekend": "2027-02-09",
+      "name": "Port Vale v Swindon Town",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-rotherham-united-tranmere-rovers",
+      "weekend": "2027-02-09",
+      "name": "Rotherham United v Tranmere Rovers",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-shrewsbury-town-rochdale",
+      "weekend": "2027-02-09",
+      "name": "Shrewsbury Town v Rochdale",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-walsall-crewe-alexandra",
+      "weekend": "2027-02-09",
+      "name": "Walsall v Crewe Alexandra",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-09-york-city-cheltenham-town",
+      "weekend": "2027-02-09",
+      "name": "York City v Cheltenham Town",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-barnet-chesterfield",
+      "weekend": "2027-02-13",
+      "name": "Barnet v Chesterfield",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-colchester-united-swindon-town",
+      "weekend": "2027-02-13",
+      "name": "Colchester United v Swindon Town",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-crawley-town-accrington-stanley",
+      "weekend": "2027-02-13",
+      "name": "Crawley Town v Accrington Stanley",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-gillingham-rochdale",
+      "weekend": "2027-02-13",
+      "name": "Gillingham v Rochdale",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-grimsby-town-cheltenham-town",
+      "weekend": "2027-02-13",
+      "name": "Grimsby Town v Cheltenham Town",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-newport-county-northampton-town",
+      "weekend": "2027-02-13",
+      "name": "Newport County v Northampton Town",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-oldham-athletic-tranmere-rovers",
+      "weekend": "2027-02-13",
+      "name": "Oldham Athletic v Tranmere Rovers",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-port-vale-salford-city",
+      "weekend": "2027-02-13",
+      "name": "Port Vale v Salford City",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-rotherham-united-bristol-rovers",
+      "weekend": "2027-02-13",
+      "name": "Rotherham United v Bristol Rovers",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-shrewsbury-town-fleetwood-town",
+      "weekend": "2027-02-13",
+      "name": "Shrewsbury Town v Fleetwood Town",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-walsall-exeter-city",
+      "weekend": "2027-02-13",
+      "name": "Walsall v Exeter City",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-13-york-city-crewe-alexandra",
+      "weekend": "2027-02-13",
+      "name": "York City v Crewe Alexandra",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-accrington-stanley-barnet",
+      "weekend": "2027-02-20",
+      "name": "Accrington Stanley v Barnet",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-bristol-rovers-grimsby-town",
+      "weekend": "2027-02-20",
+      "name": "Bristol Rovers v Grimsby Town",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-cheltenham-town-crawley-town",
+      "weekend": "2027-02-20",
+      "name": "Cheltenham Town v Crawley Town",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-chesterfield-oldham-athletic",
+      "weekend": "2027-02-20",
+      "name": "Chesterfield v Oldham Athletic",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-crewe-alexandra-colchester-united",
+      "weekend": "2027-02-20",
+      "name": "Crewe Alexandra v Colchester United",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-exeter-city-port-vale",
+      "weekend": "2027-02-20",
+      "name": "Exeter City v Port Vale",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-fleetwood-town-newport-county",
+      "weekend": "2027-02-20",
+      "name": "Fleetwood Town v Newport County",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-northampton-town-shrewsbury-town",
+      "weekend": "2027-02-20",
+      "name": "Northampton Town v Shrewsbury Town",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-rochdale-walsall",
+      "weekend": "2027-02-20",
+      "name": "Rochdale v Walsall",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-salford-city-rotherham-united",
+      "weekend": "2027-02-20",
+      "name": "Salford City v Rotherham United",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-swindon-town-york-city",
+      "weekend": "2027-02-20",
+      "name": "Swindon Town v York City",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-20-tranmere-rovers-gillingham",
+      "weekend": "2027-02-20",
+      "name": "Tranmere Rovers v Gillingham",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-accrington-stanley-port-vale",
+      "weekend": "2027-02-27",
+      "name": "Accrington Stanley v Port Vale",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-barnet-walsall",
+      "weekend": "2027-02-27",
+      "name": "Barnet v Walsall",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-cheltenham-town-exeter-city",
+      "weekend": "2027-02-27",
+      "name": "Cheltenham Town v Exeter City",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-chesterfield-bristol-rovers",
+      "weekend": "2027-02-27",
+      "name": "Chesterfield v Bristol Rovers",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-crawley-town-rotherham-united",
+      "weekend": "2027-02-27",
+      "name": "Crawley Town v Rotherham United",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-gillingham-colchester-united",
+      "weekend": "2027-02-27",
+      "name": "Gillingham v Colchester United",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-grimsby-town-swindon-town",
+      "weekend": "2027-02-27",
+      "name": "Grimsby Town v Swindon Town",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-newport-county-crewe-alexandra",
+      "weekend": "2027-02-27",
+      "name": "Newport County v Crewe Alexandra",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-northampton-town-salford-city",
+      "weekend": "2027-02-27",
+      "name": "Northampton Town v Salford City",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-oldham-athletic-shrewsbury-town",
+      "weekend": "2027-02-27",
+      "name": "Oldham Athletic v Shrewsbury Town",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-tranmere-rovers-fleetwood-town",
+      "weekend": "2027-02-27",
+      "name": "Tranmere Rovers v Fleetwood Town",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-02-27-york-city-rochdale",
+      "weekend": "2027-02-27",
+      "name": "York City v Rochdale",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-bristol-rovers-york-city",
+      "weekend": "2027-03-06",
+      "name": "Bristol Rovers v York City",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-colchester-united-accrington-stanley",
+      "weekend": "2027-03-06",
+      "name": "Colchester United v Accrington Stanley",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-crewe-alexandra-crawley-town",
+      "weekend": "2027-03-06",
+      "name": "Crewe Alexandra v Crawley Town",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-exeter-city-grimsby-town",
+      "weekend": "2027-03-06",
+      "name": "Exeter City v Grimsby Town",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-fleetwood-town-chesterfield",
+      "weekend": "2027-03-06",
+      "name": "Fleetwood Town v Chesterfield",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-port-vale-oldham-athletic",
+      "weekend": "2027-03-06",
+      "name": "Port Vale v Oldham Athletic",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-rochdale-newport-county",
+      "weekend": "2027-03-06",
+      "name": "Rochdale v Newport County",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-rotherham-united-cheltenham-town",
+      "weekend": "2027-03-06",
+      "name": "Rotherham United v Cheltenham Town",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-salford-city-barnet",
+      "weekend": "2027-03-06",
+      "name": "Salford City v Barnet",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-shrewsbury-town-tranmere-rovers",
+      "weekend": "2027-03-06",
+      "name": "Shrewsbury Town v Tranmere Rovers",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-swindon-town-northampton-town",
+      "weekend": "2027-03-06",
+      "name": "Swindon Town v Northampton Town",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-06-walsall-gillingham",
+      "weekend": "2027-03-06",
+      "name": "Walsall v Gillingham",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-accrington-stanley-exeter-city",
+      "weekend": "2027-03-13",
+      "name": "Accrington Stanley v Exeter City",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-barnet-shrewsbury-town",
+      "weekend": "2027-03-13",
+      "name": "Barnet v Shrewsbury Town",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-cheltenham-town-swindon-town",
+      "weekend": "2027-03-13",
+      "name": "Cheltenham Town v Swindon Town",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-chesterfield-salford-city",
+      "weekend": "2027-03-13",
+      "name": "Chesterfield v Salford City",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-crawley-town-rochdale",
+      "weekend": "2027-03-13",
+      "name": "Crawley Town v Rochdale",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-gillingham-fleetwood-town",
+      "weekend": "2027-03-13",
+      "name": "Gillingham v Fleetwood Town",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-grimsby-town-walsall",
+      "weekend": "2027-03-13",
+      "name": "Grimsby Town v Walsall",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-newport-county-bristol-rovers",
+      "weekend": "2027-03-13",
+      "name": "Newport County v Bristol Rovers",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-northampton-town-crewe-alexandra",
+      "weekend": "2027-03-13",
+      "name": "Northampton Town v Crewe Alexandra",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-oldham-athletic-colchester-united",
+      "weekend": "2027-03-13",
+      "name": "Oldham Athletic v Colchester United",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-tranmere-rovers-port-vale",
+      "weekend": "2027-03-13",
+      "name": "Tranmere Rovers v Port Vale",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-13-york-city-rotherham-united",
+      "weekend": "2027-03-13",
+      "name": "York City v Rotherham United",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-bristol-rovers-cheltenham-town",
+      "weekend": "2027-03-20",
+      "name": "Bristol Rovers v Cheltenham Town",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-colchester-united-tranmere-rovers",
+      "weekend": "2027-03-20",
+      "name": "Colchester United v Tranmere Rovers",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-crewe-alexandra-gillingham",
+      "weekend": "2027-03-20",
+      "name": "Crewe Alexandra v Gillingham",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-exeter-city-oldham-athletic",
+      "weekend": "2027-03-20",
+      "name": "Exeter City v Oldham Athletic",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-fleetwood-town-crawley-town",
+      "weekend": "2027-03-20",
+      "name": "Fleetwood Town v Crawley Town",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-port-vale-barnet",
+      "weekend": "2027-03-20",
+      "name": "Port Vale v Barnet",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-rochdale-northampton-town",
+      "weekend": "2027-03-20",
+      "name": "Rochdale v Northampton Town",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-rotherham-united-grimsby-town",
+      "weekend": "2027-03-20",
+      "name": "Rotherham United v Grimsby Town",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-salford-city-accrington-stanley",
+      "weekend": "2027-03-20",
+      "name": "Salford City v Accrington Stanley",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-shrewsbury-town-chesterfield",
+      "weekend": "2027-03-20",
+      "name": "Shrewsbury Town v Chesterfield",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-swindon-town-newport-county",
+      "weekend": "2027-03-20",
+      "name": "Swindon Town v Newport County",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-20-walsall-york-city",
+      "weekend": "2027-03-20",
+      "name": "Walsall v York City",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-barnet-newport-county",
+      "weekend": "2027-03-26",
+      "name": "Barnet v Newport County",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-bristol-rovers-northampton-town",
+      "weekend": "2027-03-26",
+      "name": "Bristol Rovers v Northampton Town",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-cheltenham-town-walsall",
+      "weekend": "2027-03-26",
+      "name": "Cheltenham Town v Walsall",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-chesterfield-rochdale",
+      "weekend": "2027-03-26",
+      "name": "Chesterfield v Rochdale",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-crawley-town-swindon-town",
+      "weekend": "2027-03-26",
+      "name": "Crawley Town v Swindon Town",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-exeter-city-gillingham",
+      "weekend": "2027-03-26",
+      "name": "Exeter City v Gillingham",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-fleetwood-town-port-vale",
+      "weekend": "2027-03-26",
+      "name": "Fleetwood Town v Port Vale",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-oldham-athletic-crewe-alexandra",
+      "weekend": "2027-03-26",
+      "name": "Oldham Athletic v Crewe Alexandra",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-rotherham-united-colchester-united",
+      "weekend": "2027-03-26",
+      "name": "Rotherham United v Colchester United",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-salford-city-york-city",
+      "weekend": "2027-03-26",
+      "name": "Salford City v York City",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-shrewsbury-town-accrington-stanley",
+      "weekend": "2027-03-26",
+      "name": "Shrewsbury Town v Accrington Stanley",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-26-tranmere-rovers-grimsby-town",
+      "weekend": "2027-03-26",
+      "name": "Tranmere Rovers v Grimsby Town",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-accrington-stanley-tranmere-rovers",
+      "weekend": "2027-03-29",
+      "name": "Accrington Stanley v Tranmere Rovers",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-colchester-united-barnet",
+      "weekend": "2027-03-29",
+      "name": "Colchester United v Barnet",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-crewe-alexandra-fleetwood-town",
+      "weekend": "2027-03-29",
+      "name": "Crewe Alexandra v Fleetwood Town",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-gillingham-crawley-town",
+      "weekend": "2027-03-29",
+      "name": "Gillingham v Crawley Town",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-grimsby-town-salford-city",
+      "weekend": "2027-03-29",
+      "name": "Grimsby Town v Salford City",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-newport-county-exeter-city",
+      "weekend": "2027-03-29",
+      "name": "Newport County v Exeter City",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-northampton-town-chesterfield",
+      "weekend": "2027-03-29",
+      "name": "Northampton Town v Chesterfield",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-port-vale-cheltenham-town",
+      "weekend": "2027-03-29",
+      "name": "Port Vale v Cheltenham Town",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-rochdale-rotherham-united",
+      "weekend": "2027-03-29",
+      "name": "Rochdale v Rotherham United",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-swindon-town-shrewsbury-town",
+      "weekend": "2027-03-29",
+      "name": "Swindon Town v Shrewsbury Town",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-walsall-bristol-rovers",
+      "weekend": "2027-03-29",
+      "name": "Walsall v Bristol Rovers",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-03-29-york-city-oldham-athletic",
+      "weekend": "2027-03-29",
+      "name": "York City v Oldham Athletic",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-barnet-gillingham",
+      "weekend": "2027-04-03",
+      "name": "Barnet v Gillingham",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-bristol-rovers-port-vale",
+      "weekend": "2027-04-03",
+      "name": "Bristol Rovers v Port Vale",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-cheltenham-town-northampton-town",
+      "weekend": "2027-04-03",
+      "name": "Cheltenham Town v Northampton Town",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-chesterfield-walsall",
+      "weekend": "2027-04-03",
+      "name": "Chesterfield v Walsall",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-crawley-town-colchester-united",
+      "weekend": "2027-04-03",
+      "name": "Crawley Town v Colchester United",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-exeter-city-swindon-town",
+      "weekend": "2027-04-03",
+      "name": "Exeter City v Swindon Town",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-fleetwood-town-york-city",
+      "weekend": "2027-04-03",
+      "name": "Fleetwood Town v York City",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-oldham-athletic-grimsby-town",
+      "weekend": "2027-04-03",
+      "name": "Oldham Athletic v Grimsby Town",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-rotherham-united-accrington-stanley",
+      "weekend": "2027-04-03",
+      "name": "Rotherham United v Accrington Stanley",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-salford-city-rochdale",
+      "weekend": "2027-04-03",
+      "name": "Salford City v Rochdale",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-shrewsbury-town-newport-county",
+      "weekend": "2027-04-03",
+      "name": "Shrewsbury Town v Newport County",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-03-tranmere-rovers-crewe-alexandra",
+      "weekend": "2027-04-03",
+      "name": "Tranmere Rovers v Crewe Alexandra",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-accrington-stanley-bristol-rovers",
+      "weekend": "2027-04-10",
+      "name": "Accrington Stanley v Bristol Rovers",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-colchester-united-salford-city",
+      "weekend": "2027-04-10",
+      "name": "Colchester United v Salford City",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-crewe-alexandra-cheltenham-town",
+      "weekend": "2027-04-10",
+      "name": "Crewe Alexandra v Cheltenham Town",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-gillingham-oldham-athletic",
+      "weekend": "2027-04-10",
+      "name": "Gillingham v Oldham Athletic",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-grimsby-town-chesterfield",
+      "weekend": "2027-04-10",
+      "name": "Grimsby Town v Chesterfield",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-newport-county-crawley-town",
+      "weekend": "2027-04-10",
+      "name": "Newport County v Crawley Town",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-northampton-town-barnet",
+      "weekend": "2027-04-10",
+      "name": "Northampton Town v Barnet",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-port-vale-shrewsbury-town",
+      "weekend": "2027-04-10",
+      "name": "Port Vale v Shrewsbury Town",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-rochdale-exeter-city",
+      "weekend": "2027-04-10",
+      "name": "Rochdale v Exeter City",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-swindon-town-fleetwood-town",
+      "weekend": "2027-04-10",
+      "name": "Swindon Town v Fleetwood Town",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-walsall-rotherham-united",
+      "weekend": "2027-04-10",
+      "name": "Walsall v Rotherham United",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-10-york-city-tranmere-rovers",
+      "weekend": "2027-04-10",
+      "name": "York City v Tranmere Rovers",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-accrington-stanley-oldham-athletic",
+      "weekend": "2027-04-13",
+      "name": "Accrington Stanley v Oldham Athletic",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-barnet-bristol-rovers",
+      "weekend": "2027-04-13",
+      "name": "Barnet v Bristol Rovers",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-chesterfield-crawley-town",
+      "weekend": "2027-04-13",
+      "name": "Chesterfield v Crawley Town",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-colchester-united-newport-county",
+      "weekend": "2027-04-13",
+      "name": "Colchester United v Newport County",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-crewe-alexandra-swindon-town",
+      "weekend": "2027-04-13",
+      "name": "Crewe Alexandra v Swindon Town",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-exeter-city-shrewsbury-town",
+      "weekend": "2027-04-13",
+      "name": "Exeter City v Shrewsbury Town",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-gillingham-rotherham-united",
+      "weekend": "2027-04-13",
+      "name": "Gillingham v Rotherham United",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-grimsby-town-port-vale",
+      "weekend": "2027-04-13",
+      "name": "Grimsby Town v Port Vale",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-northampton-town-york-city",
+      "weekend": "2027-04-13",
+      "name": "Northampton Town v York City",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-rochdale-tranmere-rovers",
+      "weekend": "2027-04-13",
+      "name": "Rochdale v Tranmere Rovers",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-salford-city-cheltenham-town",
+      "weekend": "2027-04-13",
+      "name": "Salford City v Cheltenham Town",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-13-walsall-fleetwood-town",
+      "weekend": "2027-04-13",
+      "name": "Walsall v Fleetwood Town",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-oldham-athletic-rochdale",
+      "weekend": "2027-04-17",
+      "name": "Oldham Athletic v Rochdale",
+      "utc": "2027-04-17T11:30:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-bristol-rovers-gillingham",
+      "weekend": "2027-04-17",
+      "name": "Bristol Rovers v Gillingham",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-cheltenham-town-colchester-united",
+      "weekend": "2027-04-17",
+      "name": "Cheltenham Town v Colchester United",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-crawley-town-grimsby-town",
+      "weekend": "2027-04-17",
+      "name": "Crawley Town v Grimsby Town",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-fleetwood-town-barnet",
+      "weekend": "2027-04-17",
+      "name": "Fleetwood Town v Barnet",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-newport-county-accrington-stanley",
+      "weekend": "2027-04-17",
+      "name": "Newport County v Accrington Stanley",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-port-vale-walsall",
+      "weekend": "2027-04-17",
+      "name": "Port Vale v Walsall",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-rotherham-united-northampton-town",
+      "weekend": "2027-04-17",
+      "name": "Rotherham United v Northampton Town",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-shrewsbury-town-crewe-alexandra",
+      "weekend": "2027-04-17",
+      "name": "Shrewsbury Town v Crewe Alexandra",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-swindon-town-salford-city",
+      "weekend": "2027-04-17",
+      "name": "Swindon Town v Salford City",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-tranmere-rovers-exeter-city",
+      "weekend": "2027-04-17",
+      "name": "Tranmere Rovers v Exeter City",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-17-york-city-chesterfield",
+      "weekend": "2027-04-17",
+      "name": "York City v Chesterfield",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-accrington-stanley-swindon-town",
+      "weekend": "2027-04-24",
+      "name": "Accrington Stanley v Swindon Town",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-barnet-crawley-town",
+      "weekend": "2027-04-24",
+      "name": "Barnet v Crawley Town",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-chesterfield-cheltenham-town",
+      "weekend": "2027-04-24",
+      "name": "Chesterfield v Cheltenham Town",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-colchester-united-shrewsbury-town",
+      "weekend": "2027-04-24",
+      "name": "Colchester United v Shrewsbury Town",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-crewe-alexandra-rotherham-united",
+      "weekend": "2027-04-24",
+      "name": "Crewe Alexandra v Rotherham United",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-exeter-city-bristol-rovers",
+      "weekend": "2027-04-24",
+      "name": "Exeter City v Bristol Rovers",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-gillingham-york-city",
+      "weekend": "2027-04-24",
+      "name": "Gillingham v York City",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-grimsby-town-newport-county",
+      "weekend": "2027-04-24",
+      "name": "Grimsby Town v Newport County",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-northampton-town-port-vale",
+      "weekend": "2027-04-24",
+      "name": "Northampton Town v Port Vale",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-rochdale-fleetwood-town",
+      "weekend": "2027-04-24",
+      "name": "Rochdale v Fleetwood Town",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-salford-city-oldham-athletic",
+      "weekend": "2027-04-24",
+      "name": "Salford City v Oldham Athletic",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-24-walsall-tranmere-rovers",
+      "weekend": "2027-04-24",
+      "name": "Walsall v Tranmere Rovers",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-bristol-rovers-crewe-alexandra",
+      "weekend": "2027-04-27",
+      "name": "Bristol Rovers v Crewe Alexandra",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-cheltenham-town-accrington-stanley",
+      "weekend": "2027-04-27",
+      "name": "Cheltenham Town v Accrington Stanley",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-crawley-town-walsall",
+      "weekend": "2027-04-27",
+      "name": "Crawley Town v Walsall",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-fleetwood-town-salford-city",
+      "weekend": "2027-04-27",
+      "name": "Fleetwood Town v Salford City",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-newport-county-gillingham",
+      "weekend": "2027-04-27",
+      "name": "Newport County v Gillingham",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-oldham-athletic-northampton-town",
+      "weekend": "2027-04-27",
+      "name": "Oldham Athletic v Northampton Town",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-port-vale-colchester-united",
+      "weekend": "2027-04-27",
+      "name": "Port Vale v Colchester United",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-rotherham-united-exeter-city",
+      "weekend": "2027-04-27",
+      "name": "Rotherham United v Exeter City",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-shrewsbury-town-grimsby-town",
+      "weekend": "2027-04-27",
+      "name": "Shrewsbury Town v Grimsby Town",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-swindon-town-rochdale",
+      "weekend": "2027-04-27",
+      "name": "Swindon Town v Rochdale",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-tranmere-rovers-chesterfield",
+      "weekend": "2027-04-27",
+      "name": "Tranmere Rovers v Chesterfield",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-04-27-york-city-barnet",
+      "weekend": "2027-04-27",
+      "name": "York City v Barnet",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-accrington-stanley-fleetwood-town",
+      "weekend": "2027-05-01",
+      "name": "Accrington Stanley v Fleetwood Town",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-barnet-rochdale",
+      "weekend": "2027-05-01",
+      "name": "Barnet v Rochdale",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-cheltenham-town-shrewsbury-town",
+      "weekend": "2027-05-01",
+      "name": "Cheltenham Town v Shrewsbury Town",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-chesterfield-swindon-town",
+      "weekend": "2027-05-01",
+      "name": "Chesterfield v Swindon Town",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-crawley-town-exeter-city",
+      "weekend": "2027-05-01",
+      "name": "Crawley Town v Exeter City",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-gillingham-salford-city",
+      "weekend": "2027-05-01",
+      "name": "Gillingham v Salford City",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-grimsby-town-crewe-alexandra",
+      "weekend": "2027-05-01",
+      "name": "Grimsby Town v Crewe Alexandra",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-newport-county-port-vale",
+      "weekend": "2027-05-01",
+      "name": "Newport County v Port Vale",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-northampton-town-walsall",
+      "weekend": "2027-05-01",
+      "name": "Northampton Town v Walsall",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-oldham-athletic-rotherham-united",
+      "weekend": "2027-05-01",
+      "name": "Oldham Athletic v Rotherham United",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-tranmere-rovers-bristol-rovers",
+      "weekend": "2027-05-01",
+      "name": "Tranmere Rovers v Bristol Rovers",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-01-york-city-colchester-united",
+      "weekend": "2027-05-01",
+      "name": "York City v Colchester United",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-bristol-rovers-oldham-athletic",
+      "weekend": "2027-05-08",
+      "name": "Bristol Rovers v Oldham Athletic",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-colchester-united-grimsby-town",
+      "weekend": "2027-05-08",
+      "name": "Colchester United v Grimsby Town",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-crewe-alexandra-accrington-stanley",
+      "weekend": "2027-05-08",
+      "name": "Crewe Alexandra v Accrington Stanley",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-exeter-city-chesterfield",
+      "weekend": "2027-05-08",
+      "name": "Exeter City v Chesterfield",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-fleetwood-town-northampton-town",
+      "weekend": "2027-05-08",
+      "name": "Fleetwood Town v Northampton Town",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-port-vale-crawley-town",
+      "weekend": "2027-05-08",
+      "name": "Port Vale v Crawley Town",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-rochdale-cheltenham-town",
+      "weekend": "2027-05-08",
+      "name": "Rochdale v Cheltenham Town",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-rotherham-united-barnet",
+      "weekend": "2027-05-08",
+      "name": "Rotherham United v Barnet",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-salford-city-tranmere-rovers",
+      "weekend": "2027-05-08",
+      "name": "Salford City v Tranmere Rovers",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-shrewsbury-town-york-city",
+      "weekend": "2027-05-08",
+      "name": "Shrewsbury Town v York City",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-swindon-town-gillingham",
+      "weekend": "2027-05-08",
+      "name": "Swindon Town v Gillingham",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "eng.4-2027-05-08-walsall-newport-county",
+      "weekend": "2027-05-08",
+      "name": "Walsall v Newport County",
+      "utc": "2027-05-08T14:00:00Z"
+    }
+  ]
+}

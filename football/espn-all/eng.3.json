@@ -1,0 +1,3319 @@
+{
+  "sportKey": "soccer-eng.3",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "eng.3-2026-08-15-notts-county-leicester-city",
+      "weekend": "2026-08-15",
+      "name": "Notts County v Leicester City",
+      "utc": "2026-08-15T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-15-oxford-united-milton-keynes-dons",
+      "weekend": "2026-08-15",
+      "name": "Oxford United v Milton Keynes Dons",
+      "utc": "2026-08-15T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-15-reading-luton-town",
+      "weekend": "2026-08-15",
+      "name": "Reading v Luton Town",
+      "utc": "2026-08-15T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-15-barnsley-bromley",
+      "weekend": "2026-08-15",
+      "name": "Barnsley v Bromley",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-15-blackpool-wycombe-wanderers",
+      "weekend": "2026-08-15",
+      "name": "Blackpool v Wycombe Wanderers",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-15-bradford-city-peterborough-united",
+      "weekend": "2026-08-15",
+      "name": "Bradford City v Peterborough United",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-15-burton-albion-stevenage",
+      "weekend": "2026-08-15",
+      "name": "Burton Albion v Stevenage",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-15-cambridge-united-wigan-athletic",
+      "weekend": "2026-08-15",
+      "name": "Cambridge United v Wigan Athletic",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-15-huddersfield-town-afc-wimbledon",
+      "weekend": "2026-08-15",
+      "name": "Huddersfield Town v AFC Wimbledon",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-15-leyton-orient-sheffield-wednesday",
+      "weekend": "2026-08-15",
+      "name": "Leyton Orient v Sheffield Wednesday",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-15-mansfield-town-doncaster-rovers",
+      "weekend": "2026-08-15",
+      "name": "Mansfield Town v Doncaster Rovers",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-15-plymouth-argyle-stockport-county",
+      "weekend": "2026-08-15",
+      "name": "Plymouth Argyle v Stockport County",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-20-sheffield-wednesday-bradford-city",
+      "weekend": "2026-08-20",
+      "name": "Sheffield Wednesday v Bradford City",
+      "utc": "2026-08-20T19:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-22-doncaster-rovers-barnsley",
+      "weekend": "2026-08-22",
+      "name": "Doncaster Rovers v Barnsley",
+      "utc": "2026-08-22T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-22-luton-town-notts-county",
+      "weekend": "2026-08-22",
+      "name": "Luton Town v Notts County",
+      "utc": "2026-08-22T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-22-afc-wimbledon-reading",
+      "weekend": "2026-08-22",
+      "name": "AFC Wimbledon v Reading",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-22-bromley-cambridge-united",
+      "weekend": "2026-08-22",
+      "name": "Bromley v Cambridge United",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-22-leicester-city-burton-albion",
+      "weekend": "2026-08-22",
+      "name": "Leicester City v Burton Albion",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-22-milton-keynes-dons-huddersfield-town",
+      "weekend": "2026-08-22",
+      "name": "Milton Keynes Dons v Huddersfield Town",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-22-peterborough-united-mansfield-town",
+      "weekend": "2026-08-22",
+      "name": "Peterborough United v Mansfield Town",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-22-stevenage-oxford-united",
+      "weekend": "2026-08-22",
+      "name": "Stevenage v Oxford United",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-22-stockport-county-blackpool",
+      "weekend": "2026-08-22",
+      "name": "Stockport County v Blackpool",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-22-wigan-athletic-leyton-orient",
+      "weekend": "2026-08-22",
+      "name": "Wigan Athletic v Leyton Orient",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-22-wycombe-wanderers-plymouth-argyle",
+      "weekend": "2026-08-22",
+      "name": "Wycombe Wanderers v Plymouth Argyle",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-29-blackpool-peterborough-united",
+      "weekend": "2026-08-29",
+      "name": "Blackpool v Peterborough United",
+      "utc": "2026-08-29T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-29-milton-keynes-dons-leicester-city",
+      "weekend": "2026-08-29",
+      "name": "Milton Keynes Dons v Leicester City",
+      "utc": "2026-08-29T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-29-cambridge-united-huddersfield-town",
+      "weekend": "2026-08-29",
+      "name": "Cambridge United v Huddersfield Town",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-29-leyton-orient-barnsley",
+      "weekend": "2026-08-29",
+      "name": "Leyton Orient v Barnsley",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-29-notts-county-burton-albion",
+      "weekend": "2026-08-29",
+      "name": "Notts County v Burton Albion",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-29-plymouth-argyle-bradford-city",
+      "weekend": "2026-08-29",
+      "name": "Plymouth Argyle v Bradford City",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-29-sheffield-wednesday-bromley",
+      "weekend": "2026-08-29",
+      "name": "Sheffield Wednesday v Bromley",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-29-stevenage-doncaster-rovers",
+      "weekend": "2026-08-29",
+      "name": "Stevenage v Doncaster Rovers",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-29-stockport-county-wycombe-wanderers",
+      "weekend": "2026-08-29",
+      "name": "Stockport County v Wycombe Wanderers",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-30-afc-wimbledon-wigan-athletic",
+      "weekend": "2026-08-30",
+      "name": "AFC Wimbledon v Wigan Athletic",
+      "utc": "2026-08-30T13:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-08-30-mansfield-town-luton-town",
+      "weekend": "2026-08-30",
+      "name": "Mansfield Town v Luton Town",
+      "utc": "2026-08-30T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-01-bradford-city-cambridge-united",
+      "weekend": "2026-09-01",
+      "name": "Bradford City v Cambridge United",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-01-bromley-leyton-orient",
+      "weekend": "2026-09-01",
+      "name": "Bromley v Leyton Orient",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-01-doncaster-rovers-notts-county",
+      "weekend": "2026-09-01",
+      "name": "Doncaster Rovers v Notts County",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-01-huddersfield-town-oxford-united",
+      "weekend": "2026-09-01",
+      "name": "Huddersfield Town v Oxford United",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-01-leicester-city-plymouth-argyle",
+      "weekend": "2026-09-01",
+      "name": "Leicester City v Plymouth Argyle",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-01-peterborough-united-stevenage",
+      "weekend": "2026-09-01",
+      "name": "Peterborough United v Stevenage",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-01-wycombe-wanderers-sheffield-wednesday",
+      "weekend": "2026-09-01",
+      "name": "Wycombe Wanderers v Sheffield Wednesday",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-02-barnsley-blackpool",
+      "weekend": "2026-09-02",
+      "name": "Barnsley v Blackpool",
+      "utc": "2026-09-02T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-02-burton-albion-afc-wimbledon",
+      "weekend": "2026-09-02",
+      "name": "Burton Albion v AFC Wimbledon",
+      "utc": "2026-09-02T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-02-luton-town-stockport-county",
+      "weekend": "2026-09-02",
+      "name": "Luton Town v Stockport County",
+      "utc": "2026-09-02T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-02-wigan-athletic-milton-keynes-dons",
+      "weekend": "2026-09-02",
+      "name": "Wigan Athletic v Milton Keynes Dons",
+      "utc": "2026-09-02T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-02-reading-mansfield-town",
+      "weekend": "2026-09-02",
+      "name": "Reading v Mansfield Town",
+      "utc": "2026-09-02T19:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-05-peterborough-united-sheffield-wednesday",
+      "weekend": "2026-09-05",
+      "name": "Peterborough United v Sheffield Wednesday",
+      "utc": "2026-09-05T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-05-wigan-athletic-stockport-county",
+      "weekend": "2026-09-05",
+      "name": "Wigan Athletic v Stockport County",
+      "utc": "2026-09-05T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-05-barnsley-stevenage",
+      "weekend": "2026-09-05",
+      "name": "Barnsley v Stevenage",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-05-bradford-city-mansfield-town",
+      "weekend": "2026-09-05",
+      "name": "Bradford City v Mansfield Town",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-05-burton-albion-cambridge-united",
+      "weekend": "2026-09-05",
+      "name": "Burton Albion v Cambridge United",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-05-doncaster-rovers-plymouth-argyle",
+      "weekend": "2026-09-05",
+      "name": "Doncaster Rovers v Plymouth Argyle",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-05-huddersfield-town-notts-county",
+      "weekend": "2026-09-05",
+      "name": "Huddersfield Town v Notts County",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-05-leicester-city-oxford-united",
+      "weekend": "2026-09-05",
+      "name": "Leicester City v Oxford United",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-05-luton-town-leyton-orient",
+      "weekend": "2026-09-05",
+      "name": "Luton Town v Leyton Orient",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-05-reading-blackpool",
+      "weekend": "2026-09-05",
+      "name": "Reading v Blackpool",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-05-wycombe-wanderers-milton-keynes-dons",
+      "weekend": "2026-09-05",
+      "name": "Wycombe Wanderers v Milton Keynes Dons",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-07-bromley-afc-wimbledon",
+      "weekend": "2026-09-07",
+      "name": "Bromley v AFC Wimbledon",
+      "utc": "2026-09-07T19:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-08-oxford-united-reading",
+      "weekend": "2026-09-08",
+      "name": "Oxford United v Reading",
+      "utc": "2026-09-08T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-10-stevenage-luton-town",
+      "weekend": "2026-09-10",
+      "name": "Stevenage v Luton Town",
+      "utc": "2026-09-10T19:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-12-leyton-orient-wycombe-wanderers",
+      "weekend": "2026-09-12",
+      "name": "Leyton Orient v Wycombe Wanderers",
+      "utc": "2026-09-12T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-12-notts-county-bradford-city",
+      "weekend": "2026-09-12",
+      "name": "Notts County v Bradford City",
+      "utc": "2026-09-12T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-12-afc-wimbledon-doncaster-rovers",
+      "weekend": "2026-09-12",
+      "name": "AFC Wimbledon v Doncaster Rovers",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-12-blackpool-bromley",
+      "weekend": "2026-09-12",
+      "name": "Blackpool v Bromley",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-12-cambridge-united-reading",
+      "weekend": "2026-09-12",
+      "name": "Cambridge United v Reading",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-12-mansfield-town-huddersfield-town",
+      "weekend": "2026-09-12",
+      "name": "Mansfield Town v Huddersfield Town",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-12-milton-keynes-dons-peterborough-united",
+      "weekend": "2026-09-12",
+      "name": "Milton Keynes Dons v Peterborough United",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-12-oxford-united-burton-albion",
+      "weekend": "2026-09-12",
+      "name": "Oxford United v Burton Albion",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-12-plymouth-argyle-barnsley",
+      "weekend": "2026-09-12",
+      "name": "Plymouth Argyle v Barnsley",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-12-sheffield-wednesday-wigan-athletic",
+      "weekend": "2026-09-12",
+      "name": "Sheffield Wednesday v Wigan Athletic",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-12-stockport-county-leicester-city",
+      "weekend": "2026-09-12",
+      "name": "Stockport County v Leicester City",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-17-afc-wimbledon-milton-keynes-dons",
+      "weekend": "2026-09-17",
+      "name": "AFC Wimbledon v Milton Keynes Dons",
+      "utc": "2026-09-17T19:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-19-barnsley-leicester-city",
+      "weekend": "2026-09-19",
+      "name": "Barnsley v Leicester City",
+      "utc": "2026-09-19T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-19-burton-albion-mansfield-town",
+      "weekend": "2026-09-19",
+      "name": "Burton Albion v Mansfield Town",
+      "utc": "2026-09-19T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-19-blackpool-plymouth-argyle",
+      "weekend": "2026-09-19",
+      "name": "Blackpool v Plymouth Argyle",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-19-bromley-huddersfield-town",
+      "weekend": "2026-09-19",
+      "name": "Bromley v Huddersfield Town",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-19-leyton-orient-stevenage",
+      "weekend": "2026-09-19",
+      "name": "Leyton Orient v Stevenage",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-19-luton-town-bradford-city",
+      "weekend": "2026-09-19",
+      "name": "Luton Town v Bradford City",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-19-oxford-united-cambridge-united",
+      "weekend": "2026-09-19",
+      "name": "Oxford United v Cambridge United",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-19-peterborough-united-doncaster-rovers",
+      "weekend": "2026-09-19",
+      "name": "Peterborough United v Doncaster Rovers",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-19-reading-notts-county",
+      "weekend": "2026-09-19",
+      "name": "Reading v Notts County",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-19-sheffield-wednesday-stockport-county",
+      "weekend": "2026-09-19",
+      "name": "Sheffield Wednesday v Stockport County",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-19-wigan-athletic-wycombe-wanderers",
+      "weekend": "2026-09-19",
+      "name": "Wigan Athletic v Wycombe Wanderers",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-bradford-city-barnsley",
+      "weekend": "2026-09-26",
+      "name": "Bradford City v Barnsley",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-cambridge-united-afc-wimbledon",
+      "weekend": "2026-09-26",
+      "name": "Cambridge United v AFC Wimbledon",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-doncaster-rovers-oxford-united",
+      "weekend": "2026-09-26",
+      "name": "Doncaster Rovers v Oxford United",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-huddersfield-town-luton-town",
+      "weekend": "2026-09-26",
+      "name": "Huddersfield Town v Luton Town",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-leicester-city-wigan-athletic",
+      "weekend": "2026-09-26",
+      "name": "Leicester City v Wigan Athletic",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-mansfield-town-leyton-orient",
+      "weekend": "2026-09-26",
+      "name": "Mansfield Town v Leyton Orient",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-milton-keynes-dons-bromley",
+      "weekend": "2026-09-26",
+      "name": "Milton Keynes Dons v Bromley",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-notts-county-blackpool",
+      "weekend": "2026-09-26",
+      "name": "Notts County v Blackpool",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-plymouth-argyle-burton-albion",
+      "weekend": "2026-09-26",
+      "name": "Plymouth Argyle v Burton Albion",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-stevenage-sheffield-wednesday",
+      "weekend": "2026-09-26",
+      "name": "Stevenage v Sheffield Wednesday",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-stockport-county-peterborough-united",
+      "weekend": "2026-09-26",
+      "name": "Stockport County v Peterborough United",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-09-26-wycombe-wanderers-reading",
+      "weekend": "2026-09-26",
+      "name": "Wycombe Wanderers v Reading",
+      "utc": "2026-09-26T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-afc-wimbledon-stevenage",
+      "weekend": "2026-10-03",
+      "name": "AFC Wimbledon v Stevenage",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-barnsley-milton-keynes-dons",
+      "weekend": "2026-10-03",
+      "name": "Barnsley v Milton Keynes Dons",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-blackpool-leicester-city",
+      "weekend": "2026-10-03",
+      "name": "Blackpool v Leicester City",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-bromley-wycombe-wanderers",
+      "weekend": "2026-10-03",
+      "name": "Bromley v Wycombe Wanderers",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-burton-albion-huddersfield-town",
+      "weekend": "2026-10-03",
+      "name": "Burton Albion v Huddersfield Town",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-leyton-orient-plymouth-argyle",
+      "weekend": "2026-10-03",
+      "name": "Leyton Orient v Plymouth Argyle",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-luton-town-doncaster-rovers",
+      "weekend": "2026-10-03",
+      "name": "Luton Town v Doncaster Rovers",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-oxford-united-stockport-county",
+      "weekend": "2026-10-03",
+      "name": "Oxford United v Stockport County",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-peterborough-united-notts-county",
+      "weekend": "2026-10-03",
+      "name": "Peterborough United v Notts County",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-reading-bradford-city",
+      "weekend": "2026-10-03",
+      "name": "Reading v Bradford City",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-sheffield-wednesday-cambridge-united",
+      "weekend": "2026-10-03",
+      "name": "Sheffield Wednesday v Cambridge United",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-03-wigan-athletic-mansfield-town",
+      "weekend": "2026-10-03",
+      "name": "Wigan Athletic v Mansfield Town",
+      "utc": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-notts-county-oxford-united",
+      "weekend": "2026-10-10",
+      "name": "Notts County v Oxford United",
+      "utc": "2026-10-10T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-plymouth-argyle-afc-wimbledon",
+      "weekend": "2026-10-10",
+      "name": "Plymouth Argyle v AFC Wimbledon",
+      "utc": "2026-10-10T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-bradford-city-leyton-orient",
+      "weekend": "2026-10-10",
+      "name": "Bradford City v Leyton Orient",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-cambridge-united-blackpool",
+      "weekend": "2026-10-10",
+      "name": "Cambridge United v Blackpool",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-doncaster-rovers-burton-albion",
+      "weekend": "2026-10-10",
+      "name": "Doncaster Rovers v Burton Albion",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-huddersfield-town-sheffield-wednesday",
+      "weekend": "2026-10-10",
+      "name": "Huddersfield Town v Sheffield Wednesday",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-leicester-city-peterborough-united",
+      "weekend": "2026-10-10",
+      "name": "Leicester City v Peterborough United",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-mansfield-town-bromley",
+      "weekend": "2026-10-10",
+      "name": "Mansfield Town v Bromley",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-milton-keynes-dons-reading",
+      "weekend": "2026-10-10",
+      "name": "Milton Keynes Dons v Reading",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-stevenage-wigan-athletic",
+      "weekend": "2026-10-10",
+      "name": "Stevenage v Wigan Athletic",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-stockport-county-barnsley",
+      "weekend": "2026-10-10",
+      "name": "Stockport County v Barnsley",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-10-wycombe-wanderers-luton-town",
+      "weekend": "2026-10-10",
+      "name": "Wycombe Wanderers v Luton Town",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-15-mansfield-town-oxford-united",
+      "weekend": "2026-10-15",
+      "name": "Mansfield Town v Oxford United",
+      "utc": "2026-10-15T19:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-17-milton-keynes-dons-luton-town",
+      "weekend": "2026-10-17",
+      "name": "Milton Keynes Dons v Luton Town",
+      "utc": "2026-10-17T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-17-peterborough-united-burton-albion",
+      "weekend": "2026-10-17",
+      "name": "Peterborough United v Burton Albion",
+      "utc": "2026-10-17T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-17-barnsley-cambridge-united",
+      "weekend": "2026-10-17",
+      "name": "Barnsley v Cambridge United",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-17-bradford-city-stevenage",
+      "weekend": "2026-10-17",
+      "name": "Bradford City v Stevenage",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-17-leicester-city-doncaster-rovers",
+      "weekend": "2026-10-17",
+      "name": "Leicester City v Doncaster Rovers",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-17-leyton-orient-blackpool",
+      "weekend": "2026-10-17",
+      "name": "Leyton Orient v Blackpool",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-17-plymouth-argyle-huddersfield-town",
+      "weekend": "2026-10-17",
+      "name": "Plymouth Argyle v Huddersfield Town",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-17-sheffield-wednesday-afc-wimbledon",
+      "weekend": "2026-10-17",
+      "name": "Sheffield Wednesday v AFC Wimbledon",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-17-stockport-county-bromley",
+      "weekend": "2026-10-17",
+      "name": "Stockport County v Bromley",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-17-wigan-athletic-reading",
+      "weekend": "2026-10-17",
+      "name": "Wigan Athletic v Reading",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-17-wycombe-wanderers-notts-county",
+      "weekend": "2026-10-17",
+      "name": "Wycombe Wanderers v Notts County",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-20-afc-wimbledon-mansfield-town",
+      "weekend": "2026-10-20",
+      "name": "AFC Wimbledon v Mansfield Town",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-20-blackpool-milton-keynes-dons",
+      "weekend": "2026-10-20",
+      "name": "Blackpool v Milton Keynes Dons",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-20-bromley-leicester-city",
+      "weekend": "2026-10-20",
+      "name": "Bromley v Leicester City",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-20-burton-albion-bradford-city",
+      "weekend": "2026-10-20",
+      "name": "Burton Albion v Bradford City",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-20-cambridge-united-wycombe-wanderers",
+      "weekend": "2026-10-20",
+      "name": "Cambridge United v Wycombe Wanderers",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-20-doncaster-rovers-stockport-county",
+      "weekend": "2026-10-20",
+      "name": "Doncaster Rovers v Stockport County",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-20-huddersfield-town-peterborough-united",
+      "weekend": "2026-10-20",
+      "name": "Huddersfield Town v Peterborough United",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-20-luton-town-barnsley",
+      "weekend": "2026-10-20",
+      "name": "Luton Town v Barnsley",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-20-notts-county-sheffield-wednesday",
+      "weekend": "2026-10-20",
+      "name": "Notts County v Sheffield Wednesday",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-20-oxford-united-wigan-athletic",
+      "weekend": "2026-10-20",
+      "name": "Oxford United v Wigan Athletic",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-20-stevenage-plymouth-argyle",
+      "weekend": "2026-10-20",
+      "name": "Stevenage v Plymouth Argyle",
+      "utc": "2026-10-20T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-21-reading-leyton-orient",
+      "weekend": "2026-10-21",
+      "name": "Reading v Leyton Orient",
+      "utc": "2026-10-21T19:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-huddersfield-town-wigan-athletic",
+      "weekend": "2026-10-24",
+      "name": "Huddersfield Town v Wigan Athletic",
+      "utc": "2026-10-24T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-luton-town-leicester-city",
+      "weekend": "2026-10-24",
+      "name": "Luton Town v Leicester City",
+      "utc": "2026-10-24T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-afc-wimbledon-wycombe-wanderers",
+      "weekend": "2026-10-24",
+      "name": "AFC Wimbledon v Wycombe Wanderers",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-blackpool-mansfield-town",
+      "weekend": "2026-10-24",
+      "name": "Blackpool v Mansfield Town",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-bromley-peterborough-united",
+      "weekend": "2026-10-24",
+      "name": "Bromley v Peterborough United",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-burton-albion-leyton-orient",
+      "weekend": "2026-10-24",
+      "name": "Burton Albion v Leyton Orient",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-cambridge-united-plymouth-argyle",
+      "weekend": "2026-10-24",
+      "name": "Cambridge United v Plymouth Argyle",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-doncaster-rovers-sheffield-wednesday",
+      "weekend": "2026-10-24",
+      "name": "Doncaster Rovers v Sheffield Wednesday",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-notts-county-stockport-county",
+      "weekend": "2026-10-24",
+      "name": "Notts County v Stockport County",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-oxford-united-bradford-city",
+      "weekend": "2026-10-24",
+      "name": "Oxford United v Bradford City",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-reading-barnsley",
+      "weekend": "2026-10-24",
+      "name": "Reading v Barnsley",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-24-stevenage-milton-keynes-dons",
+      "weekend": "2026-10-24",
+      "name": "Stevenage v Milton Keynes Dons",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-31-bradford-city-huddersfield-town",
+      "weekend": "2026-10-31",
+      "name": "Bradford City v Huddersfield Town",
+      "utc": "2026-10-31T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-31-leyton-orient-cambridge-united",
+      "weekend": "2026-10-31",
+      "name": "Leyton Orient v Cambridge United",
+      "utc": "2026-10-31T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-31-plymouth-argyle-reading",
+      "weekend": "2026-10-31",
+      "name": "Plymouth Argyle v Reading",
+      "utc": "2026-10-31T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-31-barnsley-oxford-united",
+      "weekend": "2026-10-31",
+      "name": "Barnsley v Oxford United",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-31-leicester-city-stevenage",
+      "weekend": "2026-10-31",
+      "name": "Leicester City v Stevenage",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-31-mansfield-town-notts-county",
+      "weekend": "2026-10-31",
+      "name": "Mansfield Town v Notts County",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-31-milton-keynes-dons-doncaster-rovers",
+      "weekend": "2026-10-31",
+      "name": "Milton Keynes Dons v Doncaster Rovers",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-31-peterborough-united-luton-town",
+      "weekend": "2026-10-31",
+      "name": "Peterborough United v Luton Town",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-31-stockport-county-afc-wimbledon",
+      "weekend": "2026-10-31",
+      "name": "Stockport County v AFC Wimbledon",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-31-wigan-athletic-bromley",
+      "weekend": "2026-10-31",
+      "name": "Wigan Athletic v Bromley",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-10-31-wycombe-wanderers-burton-albion",
+      "weekend": "2026-10-31",
+      "name": "Wycombe Wanderers v Burton Albion",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-01-sheffield-wednesday-blackpool",
+      "weekend": "2026-11-01",
+      "name": "Sheffield Wednesday v Blackpool",
+      "utc": "2026-11-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-afc-wimbledon-blackpool",
+      "weekend": "2026-11-14",
+      "name": "AFC Wimbledon v Blackpool",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-bromley-notts-county",
+      "weekend": "2026-11-14",
+      "name": "Bromley v Notts County",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-doncaster-rovers-leyton-orient",
+      "weekend": "2026-11-14",
+      "name": "Doncaster Rovers v Leyton Orient",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-leicester-city-bradford-city",
+      "weekend": "2026-11-14",
+      "name": "Leicester City v Bradford City",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-luton-town-cambridge-united",
+      "weekend": "2026-11-14",
+      "name": "Luton Town v Cambridge United",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-milton-keynes-dons-burton-albion",
+      "weekend": "2026-11-14",
+      "name": "Milton Keynes Dons v Burton Albion",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-peterborough-united-oxford-united",
+      "weekend": "2026-11-14",
+      "name": "Peterborough United v Oxford United",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-sheffield-wednesday-plymouth-argyle",
+      "weekend": "2026-11-14",
+      "name": "Sheffield Wednesday v Plymouth Argyle",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-stevenage-mansfield-town",
+      "weekend": "2026-11-14",
+      "name": "Stevenage v Mansfield Town",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-stockport-county-reading",
+      "weekend": "2026-11-14",
+      "name": "Stockport County v Reading",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-wigan-athletic-barnsley",
+      "weekend": "2026-11-14",
+      "name": "Wigan Athletic v Barnsley",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-14-wycombe-wanderers-huddersfield-town",
+      "weekend": "2026-11-14",
+      "name": "Wycombe Wanderers v Huddersfield Town",
+      "utc": "2026-11-14T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-20-barnsley-sheffield-wednesday",
+      "weekend": "2026-11-20",
+      "name": "Barnsley v Sheffield Wednesday",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-21-blackpool-wigan-athletic",
+      "weekend": "2026-11-21",
+      "name": "Blackpool v Wigan Athletic",
+      "utc": "2026-11-21T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-21-reading-bromley",
+      "weekend": "2026-11-21",
+      "name": "Reading v Bromley",
+      "utc": "2026-11-21T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-21-bradford-city-doncaster-rovers",
+      "weekend": "2026-11-21",
+      "name": "Bradford City v Doncaster Rovers",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-21-burton-albion-luton-town",
+      "weekend": "2026-11-21",
+      "name": "Burton Albion v Luton Town",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-21-cambridge-united-stockport-county",
+      "weekend": "2026-11-21",
+      "name": "Cambridge United v Stockport County",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-21-huddersfield-town-leicester-city",
+      "weekend": "2026-11-21",
+      "name": "Huddersfield Town v Leicester City",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-21-leyton-orient-afc-wimbledon",
+      "weekend": "2026-11-21",
+      "name": "Leyton Orient v AFC Wimbledon",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-21-mansfield-town-milton-keynes-dons",
+      "weekend": "2026-11-21",
+      "name": "Mansfield Town v Milton Keynes Dons",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-21-notts-county-stevenage",
+      "weekend": "2026-11-21",
+      "name": "Notts County v Stevenage",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-21-oxford-united-wycombe-wanderers",
+      "weekend": "2026-11-21",
+      "name": "Oxford United v Wycombe Wanderers",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-21-plymouth-argyle-peterborough-united",
+      "weekend": "2026-11-21",
+      "name": "Plymouth Argyle v Peterborough United",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-26-doncaster-rovers-huddersfield-town",
+      "weekend": "2026-11-26",
+      "name": "Doncaster Rovers v Huddersfield Town",
+      "utc": "2026-11-26T20:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-28-milton-keynes-dons-notts-county",
+      "weekend": "2026-11-28",
+      "name": "Milton Keynes Dons v Notts County",
+      "utc": "2026-11-28T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-28-peterborough-united-cambridge-united",
+      "weekend": "2026-11-28",
+      "name": "Peterborough United v Cambridge United",
+      "utc": "2026-11-28T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-28-afc-wimbledon-barnsley",
+      "weekend": "2026-11-28",
+      "name": "AFC Wimbledon v Barnsley",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-28-bromley-burton-albion",
+      "weekend": "2026-11-28",
+      "name": "Bromley v Burton Albion",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-28-leicester-city-mansfield-town",
+      "weekend": "2026-11-28",
+      "name": "Leicester City v Mansfield Town",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-28-luton-town-oxford-united",
+      "weekend": "2026-11-28",
+      "name": "Luton Town v Oxford United",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-28-sheffield-wednesday-reading",
+      "weekend": "2026-11-28",
+      "name": "Sheffield Wednesday v Reading",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-28-stevenage-blackpool",
+      "weekend": "2026-11-28",
+      "name": "Stevenage v Blackpool",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-28-stockport-county-leyton-orient",
+      "weekend": "2026-11-28",
+      "name": "Stockport County v Leyton Orient",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-28-wigan-athletic-plymouth-argyle",
+      "weekend": "2026-11-28",
+      "name": "Wigan Athletic v Plymouth Argyle",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-11-28-wycombe-wanderers-bradford-city",
+      "weekend": "2026-11-28",
+      "name": "Wycombe Wanderers v Bradford City",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-barnsley-wycombe-wanderers",
+      "weekend": "2026-12-01",
+      "name": "Barnsley v Wycombe Wanderers",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-blackpool-luton-town",
+      "weekend": "2026-12-01",
+      "name": "Blackpool v Luton Town",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-bradford-city-milton-keynes-dons",
+      "weekend": "2026-12-01",
+      "name": "Bradford City v Milton Keynes Dons",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-burton-albion-wigan-athletic",
+      "weekend": "2026-12-01",
+      "name": "Burton Albion v Wigan Athletic",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-cambridge-united-leicester-city",
+      "weekend": "2026-12-01",
+      "name": "Cambridge United v Leicester City",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-huddersfield-town-stevenage",
+      "weekend": "2026-12-01",
+      "name": "Huddersfield Town v Stevenage",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-leyton-orient-peterborough-united",
+      "weekend": "2026-12-01",
+      "name": "Leyton Orient v Peterborough United",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-mansfield-town-stockport-county",
+      "weekend": "2026-12-01",
+      "name": "Mansfield Town v Stockport County",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-notts-county-afc-wimbledon",
+      "weekend": "2026-12-01",
+      "name": "Notts County v AFC Wimbledon",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-oxford-united-sheffield-wednesday",
+      "weekend": "2026-12-01",
+      "name": "Oxford United v Sheffield Wednesday",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-plymouth-argyle-bromley",
+      "weekend": "2026-12-01",
+      "name": "Plymouth Argyle v Bromley",
+      "utc": "2026-12-01T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-01-reading-doncaster-rovers",
+      "weekend": "2026-12-01",
+      "name": "Reading v Doncaster Rovers",
+      "utc": "2026-12-01T20:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-10-leicester-city-sheffield-wednesday",
+      "weekend": "2026-12-10",
+      "name": "Leicester City v Sheffield Wednesday",
+      "utc": "2026-12-10T20:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-12-burton-albion-reading",
+      "weekend": "2026-12-12",
+      "name": "Burton Albion v Reading",
+      "utc": "2026-12-12T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-12-stevenage-stockport-county",
+      "weekend": "2026-12-12",
+      "name": "Stevenage v Stockport County",
+      "utc": "2026-12-12T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-12-bradford-city-afc-wimbledon",
+      "weekend": "2026-12-12",
+      "name": "Bradford City v AFC Wimbledon",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-12-doncaster-rovers-bromley",
+      "weekend": "2026-12-12",
+      "name": "Doncaster Rovers v Bromley",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-12-huddersfield-town-leyton-orient",
+      "weekend": "2026-12-12",
+      "name": "Huddersfield Town v Leyton Orient",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-12-luton-town-wigan-athletic",
+      "weekend": "2026-12-12",
+      "name": "Luton Town v Wigan Athletic",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-12-mansfield-town-wycombe-wanderers",
+      "weekend": "2026-12-12",
+      "name": "Mansfield Town v Wycombe Wanderers",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-12-milton-keynes-dons-cambridge-united",
+      "weekend": "2026-12-12",
+      "name": "Milton Keynes Dons v Cambridge United",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-12-notts-county-plymouth-argyle",
+      "weekend": "2026-12-12",
+      "name": "Notts County v Plymouth Argyle",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-12-oxford-united-blackpool",
+      "weekend": "2026-12-12",
+      "name": "Oxford United v Blackpool",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-12-peterborough-united-barnsley",
+      "weekend": "2026-12-12",
+      "name": "Peterborough United v Barnsley",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-18-cambridge-united-stevenage",
+      "weekend": "2026-12-18",
+      "name": "Cambridge United v Stevenage",
+      "utc": "2026-12-18T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-19-barnsley-huddersfield-town",
+      "weekend": "2026-12-19",
+      "name": "Barnsley v Huddersfield Town",
+      "utc": "2026-12-19T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-19-sheffield-wednesday-luton-town",
+      "weekend": "2026-12-19",
+      "name": "Sheffield Wednesday v Luton Town",
+      "utc": "2026-12-19T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-19-afc-wimbledon-oxford-united",
+      "weekend": "2026-12-19",
+      "name": "AFC Wimbledon v Oxford United",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-19-blackpool-burton-albion",
+      "weekend": "2026-12-19",
+      "name": "Blackpool v Burton Albion",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-19-bromley-bradford-city",
+      "weekend": "2026-12-19",
+      "name": "Bromley v Bradford City",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-19-leyton-orient-notts-county",
+      "weekend": "2026-12-19",
+      "name": "Leyton Orient v Notts County",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-19-plymouth-argyle-mansfield-town",
+      "weekend": "2026-12-19",
+      "name": "Plymouth Argyle v Mansfield Town",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-19-reading-leicester-city",
+      "weekend": "2026-12-19",
+      "name": "Reading v Leicester City",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-19-stockport-county-milton-keynes-dons",
+      "weekend": "2026-12-19",
+      "name": "Stockport County v Milton Keynes Dons",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-19-wigan-athletic-peterborough-united",
+      "weekend": "2026-12-19",
+      "name": "Wigan Athletic v Peterborough United",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-19-wycombe-wanderers-doncaster-rovers",
+      "weekend": "2026-12-19",
+      "name": "Wycombe Wanderers v Doncaster Rovers",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-bradford-city-stockport-county",
+      "weekend": "2026-12-26",
+      "name": "Bradford City v Stockport County",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-burton-albion-sheffield-wednesday",
+      "weekend": "2026-12-26",
+      "name": "Burton Albion v Sheffield Wednesday",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-doncaster-rovers-wigan-athletic",
+      "weekend": "2026-12-26",
+      "name": "Doncaster Rovers v Wigan Athletic",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-huddersfield-town-blackpool",
+      "weekend": "2026-12-26",
+      "name": "Huddersfield Town v Blackpool",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-leicester-city-afc-wimbledon",
+      "weekend": "2026-12-26",
+      "name": "Leicester City v AFC Wimbledon",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-luton-town-bromley",
+      "weekend": "2026-12-26",
+      "name": "Luton Town v Bromley",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-mansfield-town-barnsley",
+      "weekend": "2026-12-26",
+      "name": "Mansfield Town v Barnsley",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-milton-keynes-dons-leyton-orient",
+      "weekend": "2026-12-26",
+      "name": "Milton Keynes Dons v Leyton Orient",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-notts-county-cambridge-united",
+      "weekend": "2026-12-26",
+      "name": "Notts County v Cambridge United",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-oxford-united-plymouth-argyle",
+      "weekend": "2026-12-26",
+      "name": "Oxford United v Plymouth Argyle",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-peterborough-united-wycombe-wanderers",
+      "weekend": "2026-12-26",
+      "name": "Peterborough United v Wycombe Wanderers",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-26-stevenage-reading",
+      "weekend": "2026-12-26",
+      "name": "Stevenage v Reading",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-afc-wimbledon-luton-town",
+      "weekend": "2026-12-29",
+      "name": "AFC Wimbledon v Luton Town",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-barnsley-burton-albion",
+      "weekend": "2026-12-29",
+      "name": "Barnsley v Burton Albion",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-blackpool-bradford-city",
+      "weekend": "2026-12-29",
+      "name": "Blackpool v Bradford City",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-bromley-oxford-united",
+      "weekend": "2026-12-29",
+      "name": "Bromley v Oxford United",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-cambridge-united-doncaster-rovers",
+      "weekend": "2026-12-29",
+      "name": "Cambridge United v Doncaster Rovers",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-leyton-orient-leicester-city",
+      "weekend": "2026-12-29",
+      "name": "Leyton Orient v Leicester City",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-plymouth-argyle-milton-keynes-dons",
+      "weekend": "2026-12-29",
+      "name": "Plymouth Argyle v Milton Keynes Dons",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-sheffield-wednesday-mansfield-town",
+      "weekend": "2026-12-29",
+      "name": "Sheffield Wednesday v Mansfield Town",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-stockport-county-huddersfield-town",
+      "weekend": "2026-12-29",
+      "name": "Stockport County v Huddersfield Town",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-wigan-athletic-notts-county",
+      "weekend": "2026-12-29",
+      "name": "Wigan Athletic v Notts County",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-wycombe-wanderers-stevenage",
+      "weekend": "2026-12-29",
+      "name": "Wycombe Wanderers v Stevenage",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2026-12-29-reading-peterborough-united",
+      "weekend": "2026-12-29",
+      "name": "Reading v Peterborough United",
+      "utc": "2026-12-29T20:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-01-afc-wimbledon-peterborough-united",
+      "weekend": "2027-01-01",
+      "name": "AFC Wimbledon v Peterborough United",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-01-barnsley-notts-county",
+      "weekend": "2027-01-01",
+      "name": "Barnsley v Notts County",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-01-blackpool-doncaster-rovers",
+      "weekend": "2027-01-01",
+      "name": "Blackpool v Doncaster Rovers",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-01-bromley-stevenage",
+      "weekend": "2027-01-01",
+      "name": "Bromley v Stevenage",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-01-leyton-orient-oxford-united",
+      "weekend": "2027-01-01",
+      "name": "Leyton Orient v Oxford United",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-01-reading-milton-keynes-dons",
+      "weekend": "2027-01-01",
+      "name": "Reading v Milton Keynes Dons",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-01-sheffield-wednesday-huddersfield-town",
+      "weekend": "2027-01-01",
+      "name": "Sheffield Wednesday v Huddersfield Town",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-01-wigan-athletic-bradford-city",
+      "weekend": "2027-01-01",
+      "name": "Wigan Athletic v Bradford City",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-01-wycombe-wanderers-leicester-city",
+      "weekend": "2027-01-01",
+      "name": "Wycombe Wanderers v Leicester City",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-02-cambridge-united-mansfield-town",
+      "weekend": "2027-01-02",
+      "name": "Cambridge United v Mansfield Town",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-02-plymouth-argyle-luton-town",
+      "weekend": "2027-01-02",
+      "name": "Plymouth Argyle v Luton Town",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-02-stockport-county-burton-albion",
+      "weekend": "2027-01-02",
+      "name": "Stockport County v Burton Albion",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-08-burton-albion-blackpool",
+      "weekend": "2027-01-08",
+      "name": "Burton Albion v Blackpool",
+      "utc": "2027-01-08T20:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-09-oxford-united-afc-wimbledon",
+      "weekend": "2027-01-09",
+      "name": "Oxford United v AFC Wimbledon",
+      "utc": "2027-01-09T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-09-stevenage-cambridge-united",
+      "weekend": "2027-01-09",
+      "name": "Stevenage v Cambridge United",
+      "utc": "2027-01-09T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-09-bradford-city-bromley",
+      "weekend": "2027-01-09",
+      "name": "Bradford City v Bromley",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-09-doncaster-rovers-wycombe-wanderers",
+      "weekend": "2027-01-09",
+      "name": "Doncaster Rovers v Wycombe Wanderers",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-09-huddersfield-town-barnsley",
+      "weekend": "2027-01-09",
+      "name": "Huddersfield Town v Barnsley",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-09-leicester-city-reading",
+      "weekend": "2027-01-09",
+      "name": "Leicester City v Reading",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-09-luton-town-sheffield-wednesday",
+      "weekend": "2027-01-09",
+      "name": "Luton Town v Sheffield Wednesday",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-09-mansfield-town-plymouth-argyle",
+      "weekend": "2027-01-09",
+      "name": "Mansfield Town v Plymouth Argyle",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-09-milton-keynes-dons-stockport-county",
+      "weekend": "2027-01-09",
+      "name": "Milton Keynes Dons v Stockport County",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-09-notts-county-leyton-orient",
+      "weekend": "2027-01-09",
+      "name": "Notts County v Leyton Orient",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-09-peterborough-united-wigan-athletic",
+      "weekend": "2027-01-09",
+      "name": "Peterborough United v Wigan Athletic",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-afc-wimbledon-sheffield-wednesday",
+      "weekend": "2027-01-16",
+      "name": "AFC Wimbledon v Sheffield Wednesday",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-blackpool-leyton-orient",
+      "weekend": "2027-01-16",
+      "name": "Blackpool v Leyton Orient",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-bromley-stockport-county",
+      "weekend": "2027-01-16",
+      "name": "Bromley v Stockport County",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-burton-albion-peterborough-united",
+      "weekend": "2027-01-16",
+      "name": "Burton Albion v Peterborough United",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-cambridge-united-barnsley",
+      "weekend": "2027-01-16",
+      "name": "Cambridge United v Barnsley",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-doncaster-rovers-leicester-city",
+      "weekend": "2027-01-16",
+      "name": "Doncaster Rovers v Leicester City",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-huddersfield-town-plymouth-argyle",
+      "weekend": "2027-01-16",
+      "name": "Huddersfield Town v Plymouth Argyle",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-luton-town-milton-keynes-dons",
+      "weekend": "2027-01-16",
+      "name": "Luton Town v Milton Keynes Dons",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-notts-county-wycombe-wanderers",
+      "weekend": "2027-01-16",
+      "name": "Notts County v Wycombe Wanderers",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-oxford-united-mansfield-town",
+      "weekend": "2027-01-16",
+      "name": "Oxford United v Mansfield Town",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-reading-wigan-athletic",
+      "weekend": "2027-01-16",
+      "name": "Reading v Wigan Athletic",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-16-stevenage-bradford-city",
+      "weekend": "2027-01-16",
+      "name": "Stevenage v Bradford City",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-barnsley-luton-town",
+      "weekend": "2027-01-19",
+      "name": "Barnsley v Luton Town",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-bradford-city-burton-albion",
+      "weekend": "2027-01-19",
+      "name": "Bradford City v Burton Albion",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-leicester-city-bromley",
+      "weekend": "2027-01-19",
+      "name": "Leicester City v Bromley",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-leyton-orient-reading",
+      "weekend": "2027-01-19",
+      "name": "Leyton Orient v Reading",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-mansfield-town-afc-wimbledon",
+      "weekend": "2027-01-19",
+      "name": "Mansfield Town v AFC Wimbledon",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-milton-keynes-dons-blackpool",
+      "weekend": "2027-01-19",
+      "name": "Milton Keynes Dons v Blackpool",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-peterborough-united-huddersfield-town",
+      "weekend": "2027-01-19",
+      "name": "Peterborough United v Huddersfield Town",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-plymouth-argyle-stevenage",
+      "weekend": "2027-01-19",
+      "name": "Plymouth Argyle v Stevenage",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-sheffield-wednesday-notts-county",
+      "weekend": "2027-01-19",
+      "name": "Sheffield Wednesday v Notts County",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-stockport-county-doncaster-rovers",
+      "weekend": "2027-01-19",
+      "name": "Stockport County v Doncaster Rovers",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-wigan-athletic-oxford-united",
+      "weekend": "2027-01-19",
+      "name": "Wigan Athletic v Oxford United",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-19-wycombe-wanderers-cambridge-united",
+      "weekend": "2027-01-19",
+      "name": "Wycombe Wanderers v Cambridge United",
+      "utc": "2027-01-19T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-barnsley-reading",
+      "weekend": "2027-01-23",
+      "name": "Barnsley v Reading",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-bradford-city-oxford-united",
+      "weekend": "2027-01-23",
+      "name": "Bradford City v Oxford United",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-leicester-city-luton-town",
+      "weekend": "2027-01-23",
+      "name": "Leicester City v Luton Town",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-leyton-orient-burton-albion",
+      "weekend": "2027-01-23",
+      "name": "Leyton Orient v Burton Albion",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-mansfield-town-blackpool",
+      "weekend": "2027-01-23",
+      "name": "Mansfield Town v Blackpool",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-milton-keynes-dons-stevenage",
+      "weekend": "2027-01-23",
+      "name": "Milton Keynes Dons v Stevenage",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-peterborough-united-bromley",
+      "weekend": "2027-01-23",
+      "name": "Peterborough United v Bromley",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-plymouth-argyle-cambridge-united",
+      "weekend": "2027-01-23",
+      "name": "Plymouth Argyle v Cambridge United",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-sheffield-wednesday-doncaster-rovers",
+      "weekend": "2027-01-23",
+      "name": "Sheffield Wednesday v Doncaster Rovers",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-stockport-county-notts-county",
+      "weekend": "2027-01-23",
+      "name": "Stockport County v Notts County",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-wigan-athletic-huddersfield-town",
+      "weekend": "2027-01-23",
+      "name": "Wigan Athletic v Huddersfield Town",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-23-wycombe-wanderers-afc-wimbledon",
+      "weekend": "2027-01-23",
+      "name": "Wycombe Wanderers v AFC Wimbledon",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-huddersfield-town-bradford-city",
+      "weekend": "2027-01-30",
+      "name": "Huddersfield Town v Bradford City",
+      "utc": "2027-01-30T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-afc-wimbledon-stockport-county",
+      "weekend": "2027-01-30",
+      "name": "AFC Wimbledon v Stockport County",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-blackpool-sheffield-wednesday",
+      "weekend": "2027-01-30",
+      "name": "Blackpool v Sheffield Wednesday",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-bromley-wigan-athletic",
+      "weekend": "2027-01-30",
+      "name": "Bromley v Wigan Athletic",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-burton-albion-wycombe-wanderers",
+      "weekend": "2027-01-30",
+      "name": "Burton Albion v Wycombe Wanderers",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-cambridge-united-leyton-orient",
+      "weekend": "2027-01-30",
+      "name": "Cambridge United v Leyton Orient",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-doncaster-rovers-milton-keynes-dons",
+      "weekend": "2027-01-30",
+      "name": "Doncaster Rovers v Milton Keynes Dons",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-luton-town-peterborough-united",
+      "weekend": "2027-01-30",
+      "name": "Luton Town v Peterborough United",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-notts-county-mansfield-town",
+      "weekend": "2027-01-30",
+      "name": "Notts County v Mansfield Town",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-oxford-united-barnsley",
+      "weekend": "2027-01-30",
+      "name": "Oxford United v Barnsley",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-reading-plymouth-argyle",
+      "weekend": "2027-01-30",
+      "name": "Reading v Plymouth Argyle",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-01-30-stevenage-leicester-city",
+      "weekend": "2027-01-30",
+      "name": "Stevenage v Leicester City",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-barnsley-leyton-orient",
+      "weekend": "2027-02-06",
+      "name": "Barnsley v Leyton Orient",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-bradford-city-plymouth-argyle",
+      "weekend": "2027-02-06",
+      "name": "Bradford City v Plymouth Argyle",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-bromley-sheffield-wednesday",
+      "weekend": "2027-02-06",
+      "name": "Bromley v Sheffield Wednesday",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-burton-albion-notts-county",
+      "weekend": "2027-02-06",
+      "name": "Burton Albion v Notts County",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-doncaster-rovers-stevenage",
+      "weekend": "2027-02-06",
+      "name": "Doncaster Rovers v Stevenage",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-huddersfield-town-cambridge-united",
+      "weekend": "2027-02-06",
+      "name": "Huddersfield Town v Cambridge United",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-leicester-city-milton-keynes-dons",
+      "weekend": "2027-02-06",
+      "name": "Leicester City v Milton Keynes Dons",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-luton-town-mansfield-town",
+      "weekend": "2027-02-06",
+      "name": "Luton Town v Mansfield Town",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-peterborough-united-blackpool",
+      "weekend": "2027-02-06",
+      "name": "Peterborough United v Blackpool",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-reading-oxford-united",
+      "weekend": "2027-02-06",
+      "name": "Reading v Oxford United",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-wigan-athletic-afc-wimbledon",
+      "weekend": "2027-02-06",
+      "name": "Wigan Athletic v AFC Wimbledon",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-06-wycombe-wanderers-stockport-county",
+      "weekend": "2027-02-06",
+      "name": "Wycombe Wanderers v Stockport County",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-afc-wimbledon-burton-albion",
+      "weekend": "2027-02-09",
+      "name": "AFC Wimbledon v Burton Albion",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-blackpool-barnsley",
+      "weekend": "2027-02-09",
+      "name": "Blackpool v Barnsley",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-cambridge-united-bradford-city",
+      "weekend": "2027-02-09",
+      "name": "Cambridge United v Bradford City",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-leyton-orient-bromley",
+      "weekend": "2027-02-09",
+      "name": "Leyton Orient v Bromley",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-mansfield-town-reading",
+      "weekend": "2027-02-09",
+      "name": "Mansfield Town v Reading",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-milton-keynes-dons-wigan-athletic",
+      "weekend": "2027-02-09",
+      "name": "Milton Keynes Dons v Wigan Athletic",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-notts-county-doncaster-rovers",
+      "weekend": "2027-02-09",
+      "name": "Notts County v Doncaster Rovers",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-oxford-united-huddersfield-town",
+      "weekend": "2027-02-09",
+      "name": "Oxford United v Huddersfield Town",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-plymouth-argyle-leicester-city",
+      "weekend": "2027-02-09",
+      "name": "Plymouth Argyle v Leicester City",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-sheffield-wednesday-wycombe-wanderers",
+      "weekend": "2027-02-09",
+      "name": "Sheffield Wednesday v Wycombe Wanderers",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-stevenage-peterborough-united",
+      "weekend": "2027-02-09",
+      "name": "Stevenage v Peterborough United",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-09-stockport-county-luton-town",
+      "weekend": "2027-02-09",
+      "name": "Stockport County v Luton Town",
+      "utc": "2027-02-09T19:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-afc-wimbledon-bromley",
+      "weekend": "2027-02-13",
+      "name": "AFC Wimbledon v Bromley",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-blackpool-reading",
+      "weekend": "2027-02-13",
+      "name": "Blackpool v Reading",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-cambridge-united-burton-albion",
+      "weekend": "2027-02-13",
+      "name": "Cambridge United v Burton Albion",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-leyton-orient-luton-town",
+      "weekend": "2027-02-13",
+      "name": "Leyton Orient v Luton Town",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-mansfield-town-bradford-city",
+      "weekend": "2027-02-13",
+      "name": "Mansfield Town v Bradford City",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-milton-keynes-dons-wycombe-wanderers",
+      "weekend": "2027-02-13",
+      "name": "Milton Keynes Dons v Wycombe Wanderers",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-notts-county-huddersfield-town",
+      "weekend": "2027-02-13",
+      "name": "Notts County v Huddersfield Town",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-oxford-united-leicester-city",
+      "weekend": "2027-02-13",
+      "name": "Oxford United v Leicester City",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-plymouth-argyle-doncaster-rovers",
+      "weekend": "2027-02-13",
+      "name": "Plymouth Argyle v Doncaster Rovers",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-sheffield-wednesday-peterborough-united",
+      "weekend": "2027-02-13",
+      "name": "Sheffield Wednesday v Peterborough United",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-stevenage-barnsley",
+      "weekend": "2027-02-13",
+      "name": "Stevenage v Barnsley",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-13-stockport-county-wigan-athletic",
+      "weekend": "2027-02-13",
+      "name": "Stockport County v Wigan Athletic",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-barnsley-plymouth-argyle",
+      "weekend": "2027-02-20",
+      "name": "Barnsley v Plymouth Argyle",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-bradford-city-notts-county",
+      "weekend": "2027-02-20",
+      "name": "Bradford City v Notts County",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-bromley-blackpool",
+      "weekend": "2027-02-20",
+      "name": "Bromley v Blackpool",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-burton-albion-oxford-united",
+      "weekend": "2027-02-20",
+      "name": "Burton Albion v Oxford United",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-doncaster-rovers-afc-wimbledon",
+      "weekend": "2027-02-20",
+      "name": "Doncaster Rovers v AFC Wimbledon",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-huddersfield-town-mansfield-town",
+      "weekend": "2027-02-20",
+      "name": "Huddersfield Town v Mansfield Town",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-leicester-city-stockport-county",
+      "weekend": "2027-02-20",
+      "name": "Leicester City v Stockport County",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-luton-town-stevenage",
+      "weekend": "2027-02-20",
+      "name": "Luton Town v Stevenage",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-peterborough-united-milton-keynes-dons",
+      "weekend": "2027-02-20",
+      "name": "Peterborough United v Milton Keynes Dons",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-reading-cambridge-united",
+      "weekend": "2027-02-20",
+      "name": "Reading v Cambridge United",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-wigan-athletic-sheffield-wednesday",
+      "weekend": "2027-02-20",
+      "name": "Wigan Athletic v Sheffield Wednesday",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-20-wycombe-wanderers-leyton-orient",
+      "weekend": "2027-02-20",
+      "name": "Wycombe Wanderers v Leyton Orient",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-cambridge-united-peterborough-united",
+      "weekend": "2027-02-27",
+      "name": "Cambridge United v Peterborough United",
+      "utc": "2027-02-27T12:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-barnsley-wigan-athletic",
+      "weekend": "2027-02-27",
+      "name": "Barnsley v Wigan Athletic",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-blackpool-afc-wimbledon",
+      "weekend": "2027-02-27",
+      "name": "Blackpool v AFC Wimbledon",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-bradford-city-leicester-city",
+      "weekend": "2027-02-27",
+      "name": "Bradford City v Leicester City",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-burton-albion-milton-keynes-dons",
+      "weekend": "2027-02-27",
+      "name": "Burton Albion v Milton Keynes Dons",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-huddersfield-town-wycombe-wanderers",
+      "weekend": "2027-02-27",
+      "name": "Huddersfield Town v Wycombe Wanderers",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-leyton-orient-doncaster-rovers",
+      "weekend": "2027-02-27",
+      "name": "Leyton Orient v Doncaster Rovers",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-mansfield-town-stevenage",
+      "weekend": "2027-02-27",
+      "name": "Mansfield Town v Stevenage",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-notts-county-bromley",
+      "weekend": "2027-02-27",
+      "name": "Notts County v Bromley",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-oxford-united-luton-town",
+      "weekend": "2027-02-27",
+      "name": "Oxford United v Luton Town",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-plymouth-argyle-sheffield-wednesday",
+      "weekend": "2027-02-27",
+      "name": "Plymouth Argyle v Sheffield Wednesday",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-02-27-reading-stockport-county",
+      "weekend": "2027-02-27",
+      "name": "Reading v Stockport County",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-afc-wimbledon-huddersfield-town",
+      "weekend": "2027-03-06",
+      "name": "AFC Wimbledon v Huddersfield Town",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-bromley-barnsley",
+      "weekend": "2027-03-06",
+      "name": "Bromley v Barnsley",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-doncaster-rovers-mansfield-town",
+      "weekend": "2027-03-06",
+      "name": "Doncaster Rovers v Mansfield Town",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-leicester-city-notts-county",
+      "weekend": "2027-03-06",
+      "name": "Leicester City v Notts County",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-luton-town-reading",
+      "weekend": "2027-03-06",
+      "name": "Luton Town v Reading",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-milton-keynes-dons-oxford-united",
+      "weekend": "2027-03-06",
+      "name": "Milton Keynes Dons v Oxford United",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-peterborough-united-bradford-city",
+      "weekend": "2027-03-06",
+      "name": "Peterborough United v Bradford City",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-sheffield-wednesday-leyton-orient",
+      "weekend": "2027-03-06",
+      "name": "Sheffield Wednesday v Leyton Orient",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-stevenage-burton-albion",
+      "weekend": "2027-03-06",
+      "name": "Stevenage v Burton Albion",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-stockport-county-plymouth-argyle",
+      "weekend": "2027-03-06",
+      "name": "Stockport County v Plymouth Argyle",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-wigan-athletic-cambridge-united",
+      "weekend": "2027-03-06",
+      "name": "Wigan Athletic v Cambridge United",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-06-wycombe-wanderers-blackpool",
+      "weekend": "2027-03-06",
+      "name": "Wycombe Wanderers v Blackpool",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-barnsley-doncaster-rovers",
+      "weekend": "2027-03-13",
+      "name": "Barnsley v Doncaster Rovers",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-blackpool-stockport-county",
+      "weekend": "2027-03-13",
+      "name": "Blackpool v Stockport County",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-bradford-city-sheffield-wednesday",
+      "weekend": "2027-03-13",
+      "name": "Bradford City v Sheffield Wednesday",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-burton-albion-leicester-city",
+      "weekend": "2027-03-13",
+      "name": "Burton Albion v Leicester City",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-cambridge-united-bromley",
+      "weekend": "2027-03-13",
+      "name": "Cambridge United v Bromley",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-huddersfield-town-milton-keynes-dons",
+      "weekend": "2027-03-13",
+      "name": "Huddersfield Town v Milton Keynes Dons",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-leyton-orient-wigan-athletic",
+      "weekend": "2027-03-13",
+      "name": "Leyton Orient v Wigan Athletic",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-mansfield-town-peterborough-united",
+      "weekend": "2027-03-13",
+      "name": "Mansfield Town v Peterborough United",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-notts-county-luton-town",
+      "weekend": "2027-03-13",
+      "name": "Notts County v Luton Town",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-oxford-united-stevenage",
+      "weekend": "2027-03-13",
+      "name": "Oxford United v Stevenage",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-plymouth-argyle-wycombe-wanderers",
+      "weekend": "2027-03-13",
+      "name": "Plymouth Argyle v Wycombe Wanderers",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-13-reading-afc-wimbledon",
+      "weekend": "2027-03-13",
+      "name": "Reading v AFC Wimbledon",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-afc-wimbledon-leyton-orient",
+      "weekend": "2027-03-20",
+      "name": "AFC Wimbledon v Leyton Orient",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-bromley-reading",
+      "weekend": "2027-03-20",
+      "name": "Bromley v Reading",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-doncaster-rovers-bradford-city",
+      "weekend": "2027-03-20",
+      "name": "Doncaster Rovers v Bradford City",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-leicester-city-huddersfield-town",
+      "weekend": "2027-03-20",
+      "name": "Leicester City v Huddersfield Town",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-luton-town-burton-albion",
+      "weekend": "2027-03-20",
+      "name": "Luton Town v Burton Albion",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-milton-keynes-dons-mansfield-town",
+      "weekend": "2027-03-20",
+      "name": "Milton Keynes Dons v Mansfield Town",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-peterborough-united-plymouth-argyle",
+      "weekend": "2027-03-20",
+      "name": "Peterborough United v Plymouth Argyle",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-sheffield-wednesday-barnsley",
+      "weekend": "2027-03-20",
+      "name": "Sheffield Wednesday v Barnsley",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-stevenage-notts-county",
+      "weekend": "2027-03-20",
+      "name": "Stevenage v Notts County",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-stockport-county-cambridge-united",
+      "weekend": "2027-03-20",
+      "name": "Stockport County v Cambridge United",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-wigan-athletic-blackpool",
+      "weekend": "2027-03-20",
+      "name": "Wigan Athletic v Blackpool",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-20-wycombe-wanderers-oxford-united",
+      "weekend": "2027-03-20",
+      "name": "Wycombe Wanderers v Oxford United",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-bradford-city-wigan-athletic",
+      "weekend": "2027-03-26",
+      "name": "Bradford City v Wigan Athletic",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-burton-albion-stockport-county",
+      "weekend": "2027-03-26",
+      "name": "Burton Albion v Stockport County",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-doncaster-rovers-blackpool",
+      "weekend": "2027-03-26",
+      "name": "Doncaster Rovers v Blackpool",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-huddersfield-town-reading",
+      "weekend": "2027-03-26",
+      "name": "Huddersfield Town v Reading",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-leicester-city-wycombe-wanderers",
+      "weekend": "2027-03-26",
+      "name": "Leicester City v Wycombe Wanderers",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-luton-town-plymouth-argyle",
+      "weekend": "2027-03-26",
+      "name": "Luton Town v Plymouth Argyle",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-mansfield-town-cambridge-united",
+      "weekend": "2027-03-26",
+      "name": "Mansfield Town v Cambridge United",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-milton-keynes-dons-sheffield-wednesday",
+      "weekend": "2027-03-26",
+      "name": "Milton Keynes Dons v Sheffield Wednesday",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-notts-county-barnsley",
+      "weekend": "2027-03-26",
+      "name": "Notts County v Barnsley",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-oxford-united-leyton-orient",
+      "weekend": "2027-03-26",
+      "name": "Oxford United v Leyton Orient",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-peterborough-united-afc-wimbledon",
+      "weekend": "2027-03-26",
+      "name": "Peterborough United v AFC Wimbledon",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-26-stevenage-bromley",
+      "weekend": "2027-03-26",
+      "name": "Stevenage v Bromley",
+      "utc": "2027-03-26T15:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-afc-wimbledon-leicester-city",
+      "weekend": "2027-03-29",
+      "name": "AFC Wimbledon v Leicester City",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-barnsley-mansfield-town",
+      "weekend": "2027-03-29",
+      "name": "Barnsley v Mansfield Town",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-blackpool-oxford-united",
+      "weekend": "2027-03-29",
+      "name": "Blackpool v Oxford United",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-bromley-doncaster-rovers",
+      "weekend": "2027-03-29",
+      "name": "Bromley v Doncaster Rovers",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-cambridge-united-milton-keynes-dons",
+      "weekend": "2027-03-29",
+      "name": "Cambridge United v Milton Keynes Dons",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-leyton-orient-huddersfield-town",
+      "weekend": "2027-03-29",
+      "name": "Leyton Orient v Huddersfield Town",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-plymouth-argyle-notts-county",
+      "weekend": "2027-03-29",
+      "name": "Plymouth Argyle v Notts County",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-reading-stevenage",
+      "weekend": "2027-03-29",
+      "name": "Reading v Stevenage",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-sheffield-wednesday-burton-albion",
+      "weekend": "2027-03-29",
+      "name": "Sheffield Wednesday v Burton Albion",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-stockport-county-bradford-city",
+      "weekend": "2027-03-29",
+      "name": "Stockport County v Bradford City",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-wigan-athletic-luton-town",
+      "weekend": "2027-03-29",
+      "name": "Wigan Athletic v Luton Town",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-03-29-wycombe-wanderers-peterborough-united",
+      "weekend": "2027-03-29",
+      "name": "Wycombe Wanderers v Peterborough United",
+      "utc": "2027-03-29T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-bradford-city-blackpool",
+      "weekend": "2027-04-03",
+      "name": "Bradford City v Blackpool",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-burton-albion-barnsley",
+      "weekend": "2027-04-03",
+      "name": "Burton Albion v Barnsley",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-doncaster-rovers-cambridge-united",
+      "weekend": "2027-04-03",
+      "name": "Doncaster Rovers v Cambridge United",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-huddersfield-town-stockport-county",
+      "weekend": "2027-04-03",
+      "name": "Huddersfield Town v Stockport County",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-leicester-city-leyton-orient",
+      "weekend": "2027-04-03",
+      "name": "Leicester City v Leyton Orient",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-luton-town-afc-wimbledon",
+      "weekend": "2027-04-03",
+      "name": "Luton Town v AFC Wimbledon",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-mansfield-town-sheffield-wednesday",
+      "weekend": "2027-04-03",
+      "name": "Mansfield Town v Sheffield Wednesday",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-milton-keynes-dons-plymouth-argyle",
+      "weekend": "2027-04-03",
+      "name": "Milton Keynes Dons v Plymouth Argyle",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-notts-county-wigan-athletic",
+      "weekend": "2027-04-03",
+      "name": "Notts County v Wigan Athletic",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-oxford-united-bromley",
+      "weekend": "2027-04-03",
+      "name": "Oxford United v Bromley",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-peterborough-united-reading",
+      "weekend": "2027-04-03",
+      "name": "Peterborough United v Reading",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-03-stevenage-wycombe-wanderers",
+      "weekend": "2027-04-03",
+      "name": "Stevenage v Wycombe Wanderers",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-afc-wimbledon-bradford-city",
+      "weekend": "2027-04-10",
+      "name": "AFC Wimbledon v Bradford City",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-barnsley-peterborough-united",
+      "weekend": "2027-04-10",
+      "name": "Barnsley v Peterborough United",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-blackpool-huddersfield-town",
+      "weekend": "2027-04-10",
+      "name": "Blackpool v Huddersfield Town",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-bromley-luton-town",
+      "weekend": "2027-04-10",
+      "name": "Bromley v Luton Town",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-cambridge-united-notts-county",
+      "weekend": "2027-04-10",
+      "name": "Cambridge United v Notts County",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-leyton-orient-milton-keynes-dons",
+      "weekend": "2027-04-10",
+      "name": "Leyton Orient v Milton Keynes Dons",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-plymouth-argyle-oxford-united",
+      "weekend": "2027-04-10",
+      "name": "Plymouth Argyle v Oxford United",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-reading-burton-albion",
+      "weekend": "2027-04-10",
+      "name": "Reading v Burton Albion",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-sheffield-wednesday-leicester-city",
+      "weekend": "2027-04-10",
+      "name": "Sheffield Wednesday v Leicester City",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-stockport-county-stevenage",
+      "weekend": "2027-04-10",
+      "name": "Stockport County v Stevenage",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-wigan-athletic-doncaster-rovers",
+      "weekend": "2027-04-10",
+      "name": "Wigan Athletic v Doncaster Rovers",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-10-wycombe-wanderers-mansfield-town",
+      "weekend": "2027-04-10",
+      "name": "Wycombe Wanderers v Mansfield Town",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-afc-wimbledon-cambridge-united",
+      "weekend": "2027-04-13",
+      "name": "AFC Wimbledon v Cambridge United",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-barnsley-bradford-city",
+      "weekend": "2027-04-13",
+      "name": "Barnsley v Bradford City",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-blackpool-notts-county",
+      "weekend": "2027-04-13",
+      "name": "Blackpool v Notts County",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-bromley-milton-keynes-dons",
+      "weekend": "2027-04-13",
+      "name": "Bromley v Milton Keynes Dons",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-burton-albion-plymouth-argyle",
+      "weekend": "2027-04-13",
+      "name": "Burton Albion v Plymouth Argyle",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-leyton-orient-mansfield-town",
+      "weekend": "2027-04-13",
+      "name": "Leyton Orient v Mansfield Town",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-luton-town-huddersfield-town",
+      "weekend": "2027-04-13",
+      "name": "Luton Town v Huddersfield Town",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-oxford-united-doncaster-rovers",
+      "weekend": "2027-04-13",
+      "name": "Oxford United v Doncaster Rovers",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-peterborough-united-stockport-county",
+      "weekend": "2027-04-13",
+      "name": "Peterborough United v Stockport County",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-sheffield-wednesday-stevenage",
+      "weekend": "2027-04-13",
+      "name": "Sheffield Wednesday v Stevenage",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-wigan-athletic-leicester-city",
+      "weekend": "2027-04-13",
+      "name": "Wigan Athletic v Leicester City",
+      "utc": "2027-04-13T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-13-reading-wycombe-wanderers",
+      "weekend": "2027-04-13",
+      "name": "Reading v Wycombe Wanderers",
+      "utc": "2027-04-13T19:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-milton-keynes-dons-afc-wimbledon",
+      "weekend": "2027-04-17",
+      "name": "Milton Keynes Dons v AFC Wimbledon",
+      "utc": "2027-04-17T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-bradford-city-luton-town",
+      "weekend": "2027-04-17",
+      "name": "Bradford City v Luton Town",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-cambridge-united-oxford-united",
+      "weekend": "2027-04-17",
+      "name": "Cambridge United v Oxford United",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-doncaster-rovers-peterborough-united",
+      "weekend": "2027-04-17",
+      "name": "Doncaster Rovers v Peterborough United",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-huddersfield-town-bromley",
+      "weekend": "2027-04-17",
+      "name": "Huddersfield Town v Bromley",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-leicester-city-barnsley",
+      "weekend": "2027-04-17",
+      "name": "Leicester City v Barnsley",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-mansfield-town-burton-albion",
+      "weekend": "2027-04-17",
+      "name": "Mansfield Town v Burton Albion",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-notts-county-reading",
+      "weekend": "2027-04-17",
+      "name": "Notts County v Reading",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-plymouth-argyle-blackpool",
+      "weekend": "2027-04-17",
+      "name": "Plymouth Argyle v Blackpool",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-stevenage-leyton-orient",
+      "weekend": "2027-04-17",
+      "name": "Stevenage v Leyton Orient",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-stockport-county-sheffield-wednesday",
+      "weekend": "2027-04-17",
+      "name": "Stockport County v Sheffield Wednesday",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-17-wycombe-wanderers-wigan-athletic",
+      "weekend": "2027-04-17",
+      "name": "Wycombe Wanderers v Wigan Athletic",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-afc-wimbledon-plymouth-argyle",
+      "weekend": "2027-04-24",
+      "name": "AFC Wimbledon v Plymouth Argyle",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-barnsley-stockport-county",
+      "weekend": "2027-04-24",
+      "name": "Barnsley v Stockport County",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-blackpool-cambridge-united",
+      "weekend": "2027-04-24",
+      "name": "Blackpool v Cambridge United",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-bromley-mansfield-town",
+      "weekend": "2027-04-24",
+      "name": "Bromley v Mansfield Town",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-burton-albion-doncaster-rovers",
+      "weekend": "2027-04-24",
+      "name": "Burton Albion v Doncaster Rovers",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-leyton-orient-bradford-city",
+      "weekend": "2027-04-24",
+      "name": "Leyton Orient v Bradford City",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-luton-town-wycombe-wanderers",
+      "weekend": "2027-04-24",
+      "name": "Luton Town v Wycombe Wanderers",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-oxford-united-notts-county",
+      "weekend": "2027-04-24",
+      "name": "Oxford United v Notts County",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-peterborough-united-leicester-city",
+      "weekend": "2027-04-24",
+      "name": "Peterborough United v Leicester City",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-reading-huddersfield-town",
+      "weekend": "2027-04-24",
+      "name": "Reading v Huddersfield Town",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-sheffield-wednesday-milton-keynes-dons",
+      "weekend": "2027-04-24",
+      "name": "Sheffield Wednesday v Milton Keynes Dons",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-24-wigan-athletic-stevenage",
+      "weekend": "2027-04-24",
+      "name": "Wigan Athletic v Stevenage",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-bradford-city-reading",
+      "weekend": "2027-04-27",
+      "name": "Bradford City v Reading",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-cambridge-united-sheffield-wednesday",
+      "weekend": "2027-04-27",
+      "name": "Cambridge United v Sheffield Wednesday",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-doncaster-rovers-luton-town",
+      "weekend": "2027-04-27",
+      "name": "Doncaster Rovers v Luton Town",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-huddersfield-town-burton-albion",
+      "weekend": "2027-04-27",
+      "name": "Huddersfield Town v Burton Albion",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-leicester-city-blackpool",
+      "weekend": "2027-04-27",
+      "name": "Leicester City v Blackpool",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-mansfield-town-wigan-athletic",
+      "weekend": "2027-04-27",
+      "name": "Mansfield Town v Wigan Athletic",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-milton-keynes-dons-barnsley",
+      "weekend": "2027-04-27",
+      "name": "Milton Keynes Dons v Barnsley",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-notts-county-peterborough-united",
+      "weekend": "2027-04-27",
+      "name": "Notts County v Peterborough United",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-plymouth-argyle-leyton-orient",
+      "weekend": "2027-04-27",
+      "name": "Plymouth Argyle v Leyton Orient",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-stevenage-afc-wimbledon",
+      "weekend": "2027-04-27",
+      "name": "Stevenage v AFC Wimbledon",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-stockport-county-oxford-united",
+      "weekend": "2027-04-27",
+      "name": "Stockport County v Oxford United",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-04-27-wycombe-wanderers-bromley",
+      "weekend": "2027-04-27",
+      "name": "Wycombe Wanderers v Bromley",
+      "utc": "2027-04-27T18:45:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-barnsley-afc-wimbledon",
+      "weekend": "2027-05-01",
+      "name": "Barnsley v AFC Wimbledon",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-blackpool-stevenage",
+      "weekend": "2027-05-01",
+      "name": "Blackpool v Stevenage",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-bradford-city-wycombe-wanderers",
+      "weekend": "2027-05-01",
+      "name": "Bradford City v Wycombe Wanderers",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-burton-albion-bromley",
+      "weekend": "2027-05-01",
+      "name": "Burton Albion v Bromley",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-cambridge-united-luton-town",
+      "weekend": "2027-05-01",
+      "name": "Cambridge United v Luton Town",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-huddersfield-town-doncaster-rovers",
+      "weekend": "2027-05-01",
+      "name": "Huddersfield Town v Doncaster Rovers",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-leyton-orient-stockport-county",
+      "weekend": "2027-05-01",
+      "name": "Leyton Orient v Stockport County",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-mansfield-town-leicester-city",
+      "weekend": "2027-05-01",
+      "name": "Mansfield Town v Leicester City",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-notts-county-milton-keynes-dons",
+      "weekend": "2027-05-01",
+      "name": "Notts County v Milton Keynes Dons",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-oxford-united-peterborough-united",
+      "weekend": "2027-05-01",
+      "name": "Oxford United v Peterborough United",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-plymouth-argyle-wigan-athletic",
+      "weekend": "2027-05-01",
+      "name": "Plymouth Argyle v Wigan Athletic",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-01-reading-sheffield-wednesday",
+      "weekend": "2027-05-01",
+      "name": "Reading v Sheffield Wednesday",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-afc-wimbledon-notts-county",
+      "weekend": "2027-05-08",
+      "name": "AFC Wimbledon v Notts County",
+      "utc": "2027-05-08T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-bromley-plymouth-argyle",
+      "weekend": "2027-05-08",
+      "name": "Bromley v Plymouth Argyle",
+      "utc": "2027-05-08T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-doncaster-rovers-reading",
+      "weekend": "2027-05-08",
+      "name": "Doncaster Rovers v Reading",
+      "utc": "2027-05-08T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-leicester-city-cambridge-united",
+      "weekend": "2027-05-08",
+      "name": "Leicester City v Cambridge United",
+      "utc": "2027-05-08T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-luton-town-blackpool",
+      "weekend": "2027-05-08",
+      "name": "Luton Town v Blackpool",
+      "utc": "2027-05-08T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-milton-keynes-dons-bradford-city",
+      "weekend": "2027-05-08",
+      "name": "Milton Keynes Dons v Bradford City",
+      "utc": "2027-05-08T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-peterborough-united-leyton-orient",
+      "weekend": "2027-05-08",
+      "name": "Peterborough United v Leyton Orient",
+      "utc": "2027-05-08T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-sheffield-wednesday-oxford-united",
+      "weekend": "2027-05-08",
+      "name": "Sheffield Wednesday v Oxford United",
+      "utc": "2027-05-08T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-stevenage-huddersfield-town",
+      "weekend": "2027-05-08",
+      "name": "Stevenage v Huddersfield Town",
+      "utc": "2027-05-08T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-stockport-county-mansfield-town",
+      "weekend": "2027-05-08",
+      "name": "Stockport County v Mansfield Town",
+      "utc": "2027-05-08T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-wigan-athletic-burton-albion",
+      "weekend": "2027-05-08",
+      "name": "Wigan Athletic v Burton Albion",
+      "utc": "2027-05-08T11:30:00Z"
+    },
+    {
+      "id": "eng.3-2027-05-08-wycombe-wanderers-barnsley",
+      "weekend": "2027-05-08",
+      "name": "Wycombe Wanderers v Barnsley",
+      "utc": "2027-05-08T11:30:00Z"
+    }
+  ]
+}
