@@ -1,0 +1,463 @@
+{
+  "sportKey": "soccer-ven.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "ven.1-2026-08-09-anzo-tegui-fc-portuguesa",
+      "weekend": "2026-08-09",
+      "name": "Anzo\u00e1tegui FC v Portuguesa",
+      "utc": "2026-08-09T19:30:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-09-trujillanos-deportivo-t-chira",
+      "weekend": "2026-08-09",
+      "name": "Trujillanos v Deportivo T\u00e1chira",
+      "utc": "2026-08-09T20:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-09-zamora-fc-academia-puerto-cabello",
+      "weekend": "2026-08-09",
+      "name": "Zamora FC v Academia Puerto Cabello",
+      "utc": "2026-08-09T20:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-09-metropolitanos-ucv-fc",
+      "weekend": "2026-08-09",
+      "name": "Metropolitanos v UCV FC",
+      "utc": "2026-08-09T22:30:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-10-rayo-zuliano-estudiantes-de-m-rida",
+      "weekend": "2026-08-10",
+      "name": "Rayo Zuliano v Estudiantes de M\u00e9rida",
+      "utc": "2026-08-10T19:30:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-10-caracas-fc-deportivo-la-guaira",
+      "weekend": "2026-08-10",
+      "name": "Caracas FC v Deportivo La Guaira",
+      "utc": "2026-08-10T22:30:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-15-estudiantes-de-m-rida-anzo-tegui-fc",
+      "weekend": "2026-08-15",
+      "name": "Estudiantes de M\u00e9rida v Anzo\u00e1tegui FC",
+      "utc": "2026-08-15T20:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-15-ucv-fc-caracas-fc",
+      "weekend": "2026-08-15",
+      "name": "UCV FC v Caracas FC",
+      "utc": "2026-08-15T21:30:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-15-portuguesa-trujillanos",
+      "weekend": "2026-08-15",
+      "name": "Portuguesa v Trujillanos",
+      "utc": "2026-08-15T23:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-15-academia-puerto-cabello-rayo-zuliano",
+      "weekend": "2026-08-15",
+      "name": "Academia Puerto Cabello v Rayo Zuliano",
+      "utc": "2026-08-15T23:30:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-16-deportivo-t-chira-monagas-sc",
+      "weekend": "2026-08-16",
+      "name": "Deportivo T\u00e1chira v Monagas SC",
+      "utc": "2026-08-16T21:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-16-deportivo-la-guaira-zamora-fc",
+      "weekend": "2026-08-16",
+      "name": "Deportivo La Guaira v Zamora FC",
+      "utc": "2026-08-16T22:30:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-16-carabobo-metropolitanos",
+      "weekend": "2026-08-16",
+      "name": "Carabobo v Metropolitanos",
+      "utc": "2026-08-16T23:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-21-anzo-tegui-fc-trujillanos",
+      "weekend": "2026-08-21",
+      "name": "Anzo\u00e1tegui FC v Trujillanos",
+      "utc": "2026-08-21T20:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-21-caracas-fc-carabobo",
+      "weekend": "2026-08-21",
+      "name": "Caracas FC v Carabobo",
+      "utc": "2026-08-21T23:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-22-rayo-zuliano-deportivo-la-guaira",
+      "weekend": "2026-08-22",
+      "name": "Rayo Zuliano v Deportivo La Guaira",
+      "utc": "2026-08-22T19:30:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-22-estudiantes-de-m-rida-academia-puerto-cabello",
+      "weekend": "2026-08-22",
+      "name": "Estudiantes de M\u00e9rida v Academia Puerto Cabello",
+      "utc": "2026-08-22T20:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-22-zamora-fc-ucv-fc",
+      "weekend": "2026-08-22",
+      "name": "Zamora FC v UCV FC",
+      "utc": "2026-08-22T20:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-22-metropolitanos-deportivo-t-chira",
+      "weekend": "2026-08-22",
+      "name": "Metropolitanos v Deportivo T\u00e1chira",
+      "utc": "2026-08-22T22:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-23-monagas-sc-portuguesa",
+      "weekend": "2026-08-23",
+      "name": "Monagas SC v Portuguesa",
+      "utc": "2026-08-23T13:30:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-23-academia-puerto-cabello-anzo-tegui-fc",
+      "weekend": "2026-08-23",
+      "name": "Academia Puerto Cabello v Anzo\u00e1tegui FC",
+      "utc": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-23-carabobo-zamora-fc",
+      "weekend": "2026-08-23",
+      "name": "Carabobo v Zamora FC",
+      "utc": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-23-deportivo-la-guaira-estudiantes-de-m-rida",
+      "weekend": "2026-08-23",
+      "name": "Deportivo La Guaira v Estudiantes de M\u00e9rida",
+      "utc": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-23-deportivo-t-chira-caracas-fc",
+      "weekend": "2026-08-23",
+      "name": "Deportivo T\u00e1chira v Caracas FC",
+      "utc": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-23-portuguesa-metropolitanos",
+      "weekend": "2026-08-23",
+      "name": "Portuguesa v Metropolitanos",
+      "utc": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-23-trujillanos-monagas-sc",
+      "weekend": "2026-08-23",
+      "name": "Trujillanos v Monagas SC",
+      "utc": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-23-ucv-fc-rayo-zuliano",
+      "weekend": "2026-08-23",
+      "name": "UCV FC v Rayo Zuliano",
+      "utc": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-30-academia-puerto-cabello-deportivo-la-guaira",
+      "weekend": "2026-08-30",
+      "name": "Academia Puerto Cabello v Deportivo La Guaira",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-30-anzo-tegui-fc-monagas-sc",
+      "weekend": "2026-08-30",
+      "name": "Anzo\u00e1tegui FC v Monagas SC",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-30-caracas-fc-portuguesa",
+      "weekend": "2026-08-30",
+      "name": "Caracas FC v Portuguesa",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-30-estudiantes-de-m-rida-ucv-fc",
+      "weekend": "2026-08-30",
+      "name": "Estudiantes de M\u00e9rida v UCV FC",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-30-metropolitanos-trujillanos",
+      "weekend": "2026-08-30",
+      "name": "Metropolitanos v Trujillanos",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-30-rayo-zuliano-carabobo",
+      "weekend": "2026-08-30",
+      "name": "Rayo Zuliano v Carabobo",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-08-30-zamora-fc-deportivo-t-chira",
+      "weekend": "2026-08-30",
+      "name": "Zamora FC v Deportivo T\u00e1chira",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-02-carabobo-estudiantes-de-m-rida",
+      "weekend": "2026-09-02",
+      "name": "Carabobo v Estudiantes de M\u00e9rida",
+      "utc": "2026-09-02T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-02-deportivo-la-guaira-anzo-tegui-fc",
+      "weekend": "2026-09-02",
+      "name": "Deportivo La Guaira v Anzo\u00e1tegui FC",
+      "utc": "2026-09-02T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-02-deportivo-t-chira-rayo-zuliano",
+      "weekend": "2026-09-02",
+      "name": "Deportivo T\u00e1chira v Rayo Zuliano",
+      "utc": "2026-09-02T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-02-monagas-sc-metropolitanos",
+      "weekend": "2026-09-02",
+      "name": "Monagas SC v Metropolitanos",
+      "utc": "2026-09-02T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-02-portuguesa-zamora-fc",
+      "weekend": "2026-09-02",
+      "name": "Portuguesa v Zamora FC",
+      "utc": "2026-09-02T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-02-trujillanos-caracas-fc",
+      "weekend": "2026-09-02",
+      "name": "Trujillanos v Caracas FC",
+      "utc": "2026-09-02T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-02-ucv-fc-academia-puerto-cabello",
+      "weekend": "2026-09-02",
+      "name": "UCV FC v Academia Puerto Cabello",
+      "utc": "2026-09-02T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-06-academia-puerto-cabello-carabobo",
+      "weekend": "2026-09-06",
+      "name": "Academia Puerto Cabello v Carabobo",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-06-anzo-tegui-fc-metropolitanos",
+      "weekend": "2026-09-06",
+      "name": "Anzo\u00e1tegui FC v Metropolitanos",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-06-caracas-fc-monagas-sc",
+      "weekend": "2026-09-06",
+      "name": "Caracas FC v Monagas SC",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-06-deportivo-la-guaira-ucv-fc",
+      "weekend": "2026-09-06",
+      "name": "Deportivo La Guaira v UCV FC",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-06-estudiantes-de-m-rida-deportivo-t-chira",
+      "weekend": "2026-09-06",
+      "name": "Estudiantes de M\u00e9rida v Deportivo T\u00e1chira",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-06-rayo-zuliano-portuguesa",
+      "weekend": "2026-09-06",
+      "name": "Rayo Zuliano v Portuguesa",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-06-zamora-fc-trujillanos",
+      "weekend": "2026-09-06",
+      "name": "Zamora FC v Trujillanos",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-13-carabobo-deportivo-la-guaira",
+      "weekend": "2026-09-13",
+      "name": "Carabobo v Deportivo La Guaira",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-13-deportivo-t-chira-academia-puerto-cabello",
+      "weekend": "2026-09-13",
+      "name": "Deportivo T\u00e1chira v Academia Puerto Cabello",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-13-metropolitanos-caracas-fc",
+      "weekend": "2026-09-13",
+      "name": "Metropolitanos v Caracas FC",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-13-monagas-sc-zamora-fc",
+      "weekend": "2026-09-13",
+      "name": "Monagas SC v Zamora FC",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-13-portuguesa-estudiantes-de-m-rida",
+      "weekend": "2026-09-13",
+      "name": "Portuguesa v Estudiantes de M\u00e9rida",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-13-trujillanos-rayo-zuliano",
+      "weekend": "2026-09-13",
+      "name": "Trujillanos v Rayo Zuliano",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-13-ucv-fc-anzo-tegui-fc",
+      "weekend": "2026-09-13",
+      "name": "UCV FC v Anzo\u00e1tegui FC",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-20-academia-puerto-cabello-portuguesa",
+      "weekend": "2026-09-20",
+      "name": "Academia Puerto Cabello v Portuguesa",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-20-anzo-tegui-fc-caracas-fc",
+      "weekend": "2026-09-20",
+      "name": "Anzo\u00e1tegui FC v Caracas FC",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-20-deportivo-la-guaira-deportivo-t-chira",
+      "weekend": "2026-09-20",
+      "name": "Deportivo La Guaira v Deportivo T\u00e1chira",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-20-estudiantes-de-m-rida-trujillanos",
+      "weekend": "2026-09-20",
+      "name": "Estudiantes de M\u00e9rida v Trujillanos",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-20-rayo-zuliano-monagas-sc",
+      "weekend": "2026-09-20",
+      "name": "Rayo Zuliano v Monagas SC",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-20-ucv-fc-carabobo",
+      "weekend": "2026-09-20",
+      "name": "UCV FC v Carabobo",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-09-20-zamora-fc-metropolitanos",
+      "weekend": "2026-09-20",
+      "name": "Zamora FC v Metropolitanos",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-11-anzo-tegui-fc-carabobo",
+      "weekend": "2026-10-11",
+      "name": "Anzo\u00e1tegui FC v Carabobo",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-11-caracas-fc-zamora-fc",
+      "weekend": "2026-10-11",
+      "name": "Caracas FC v Zamora FC",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-11-deportivo-t-chira-ucv-fc",
+      "weekend": "2026-10-11",
+      "name": "Deportivo T\u00e1chira v UCV FC",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-11-metropolitanos-rayo-zuliano",
+      "weekend": "2026-10-11",
+      "name": "Metropolitanos v Rayo Zuliano",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-11-monagas-sc-estudiantes-de-m-rida",
+      "weekend": "2026-10-11",
+      "name": "Monagas SC v Estudiantes de M\u00e9rida",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-11-portuguesa-deportivo-la-guaira",
+      "weekend": "2026-10-11",
+      "name": "Portuguesa v Deportivo La Guaira",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-11-trujillanos-academia-puerto-cabello",
+      "weekend": "2026-10-11",
+      "name": "Trujillanos v Academia Puerto Cabello",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-18-academia-puerto-cabello-monagas-sc",
+      "weekend": "2026-10-18",
+      "name": "Academia Puerto Cabello v Monagas SC",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-18-carabobo-deportivo-t-chira",
+      "weekend": "2026-10-18",
+      "name": "Carabobo v Deportivo T\u00e1chira",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-18-deportivo-la-guaira-trujillanos",
+      "weekend": "2026-10-18",
+      "name": "Deportivo La Guaira v Trujillanos",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-18-estudiantes-de-m-rida-metropolitanos",
+      "weekend": "2026-10-18",
+      "name": "Estudiantes de M\u00e9rida v Metropolitanos",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-18-rayo-zuliano-caracas-fc",
+      "weekend": "2026-10-18",
+      "name": "Rayo Zuliano v Caracas FC",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-18-ucv-fc-portuguesa",
+      "weekend": "2026-10-18",
+      "name": "UCV FC v Portuguesa",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ven.1-2026-10-18-zamora-fc-anzo-tegui-fc",
+      "weekend": "2026-10-18",
+      "name": "Zamora FC v Anzo\u00e1tegui FC",
+      "utc": "2026-10-18T18:00:00Z"
+    }
+  ]
+}

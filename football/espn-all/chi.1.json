@@ -1,0 +1,625 @@
+{
+  "sportKey": "soccer-chi.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "chi.1-2026-08-09-deportes-concepcion-universidad-de-concepci-n",
+      "weekend": "2026-08-09",
+      "name": "Deportes Concepcion v Universidad de Concepci\u00f3n",
+      "utc": "2026-08-09T16:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-09-o-higgins-deportes-limache",
+      "weekend": "2026-08-09",
+      "name": "O'Higgins v Deportes Limache",
+      "utc": "2026-08-09T19:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-09-uni-n-la-calera-colo-colo",
+      "weekend": "2026-08-09",
+      "name": "Uni\u00f3n La Calera v Colo Colo",
+      "utc": "2026-08-09T21:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-10-universidad-de-chile-palestino",
+      "weekend": "2026-08-10",
+      "name": "Universidad de Chile v Palestino",
+      "utc": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-11-audax-italiano-ublense",
+      "weekend": "2026-08-11",
+      "name": "Audax Italiano v \u00d1ublense",
+      "utc": "2026-08-11T00:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-14-universidad-de-concepci-n-la-serena",
+      "weekend": "2026-08-14",
+      "name": "Universidad de Concepci\u00f3n v La Serena",
+      "utc": "2026-08-14T23:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-15-deportes-limache-universidad-de-chile",
+      "weekend": "2026-08-15",
+      "name": "Deportes Limache v Universidad de Chile",
+      "utc": "2026-08-15T21:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-16-everton-cd-audax-italiano",
+      "weekend": "2026-08-16",
+      "name": "Everton CD v Audax Italiano",
+      "utc": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-16-ublense-uni-n-la-calera",
+      "weekend": "2026-08-16",
+      "name": "\u00d1ublense v Uni\u00f3n La Calera",
+      "utc": "2026-08-16T16:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-16-cobresal-deportes-concepcion",
+      "weekend": "2026-08-16",
+      "name": "Cobresal v Deportes Concepcion",
+      "utc": "2026-08-16T19:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-16-colo-colo-o-higgins",
+      "weekend": "2026-08-16",
+      "name": "Colo Colo v O'Higgins",
+      "utc": "2026-08-16T21:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-18-palestino-huachipato",
+      "weekend": "2026-08-18",
+      "name": "Palestino v Huachipato",
+      "utc": "2026-08-18T00:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-22-audax-italiano-uni-n-la-calera",
+      "weekend": "2026-08-22",
+      "name": "Audax Italiano v Uni\u00f3n La Calera",
+      "utc": "2026-08-22T00:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-22-huachipato-deportes-limache",
+      "weekend": "2026-08-22",
+      "name": "Huachipato v Deportes Limache",
+      "utc": "2026-08-22T21:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-23-universidad-cat-lica-ublense",
+      "weekend": "2026-08-23",
+      "name": "Universidad Cat\u00f3lica v \u00d1ublense",
+      "utc": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-23-deportes-concepcion-coquimbo-unido",
+      "weekend": "2026-08-23",
+      "name": "Deportes Concepcion v Coquimbo Unido",
+      "utc": "2026-08-23T16:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-23-la-serena-cobresal",
+      "weekend": "2026-08-23",
+      "name": "La Serena v Cobresal",
+      "utc": "2026-08-23T16:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-23-universidad-de-chile-colo-colo",
+      "weekend": "2026-08-23",
+      "name": "Universidad de Chile v Colo Colo",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-23-o-higgins-palestino",
+      "weekend": "2026-08-23",
+      "name": "O'Higgins v Palestino",
+      "utc": "2026-08-23T23:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-24-everton-cd-universidad-de-concepci-n",
+      "weekend": "2026-08-24",
+      "name": "Everton CD v Universidad de Concepci\u00f3n",
+      "utc": "2026-08-24T23:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-26-coquimbo-unido-universidad-cat-lica",
+      "weekend": "2026-08-26",
+      "name": "Coquimbo Unido v Universidad Cat\u00f3lica",
+      "utc": "2026-08-26T22:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-28-cobresal-palestino",
+      "weekend": "2026-08-28",
+      "name": "Cobresal v Palestino",
+      "utc": "2026-08-28T22:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-29-deportes-limache-everton-cd",
+      "weekend": "2026-08-29",
+      "name": "Deportes Limache v Everton CD",
+      "utc": "2026-08-29T21:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-30-ublense-deportes-concepcion",
+      "weekend": "2026-08-30",
+      "name": "\u00d1ublense v Deportes Concepcion",
+      "utc": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-30-universidad-de-concepci-n-universidad-de-chile",
+      "weekend": "2026-08-30",
+      "name": "Universidad de Concepci\u00f3n v Universidad de Chile",
+      "utc": "2026-08-30T19:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-30-colo-colo-audax-italiano",
+      "weekend": "2026-08-30",
+      "name": "Colo Colo v Audax Italiano",
+      "utc": "2026-08-30T21:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-31-coquimbo-unido-huachipato",
+      "weekend": "2026-08-31",
+      "name": "Coquimbo Unido v Huachipato",
+      "utc": "2026-08-31T00:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-08-31-uni-n-la-calera-la-serena",
+      "weekend": "2026-08-31",
+      "name": "Uni\u00f3n La Calera v La Serena",
+      "utc": "2026-08-31T22:15:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-01-universidad-cat-lica-o-higgins",
+      "weekend": "2026-09-01",
+      "name": "Universidad Cat\u00f3lica v O'Higgins",
+      "utc": "2026-09-01T00:45:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-02-coquimbo-unido-universidad-de-concepci-n",
+      "weekend": "2026-09-02",
+      "name": "Coquimbo Unido v Universidad de Concepci\u00f3n",
+      "utc": "2026-09-02T22:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-03-deportes-limache-ublense",
+      "weekend": "2026-09-03",
+      "name": "Deportes Limache v \u00d1ublense",
+      "utc": "2026-09-03T00:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-05-deportes-concepcion-audax-italiano",
+      "weekend": "2026-09-05",
+      "name": "Deportes Concepcion v Audax Italiano",
+      "utc": "2026-09-05T00:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-05-everton-cd-universidad-cat-lica",
+      "weekend": "2026-09-05",
+      "name": "Everton CD v Universidad Cat\u00f3lica",
+      "utc": "2026-09-05T21:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-06-universidad-de-chile-coquimbo-unido",
+      "weekend": "2026-09-06",
+      "name": "Universidad de Chile v Coquimbo Unido",
+      "utc": "2026-09-06T00:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-06-la-serena-ublense",
+      "weekend": "2026-09-06",
+      "name": "La Serena v \u00d1ublense",
+      "utc": "2026-09-06T15:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-06-o-higgins-uni-n-la-calera",
+      "weekend": "2026-09-06",
+      "name": "O'Higgins v Uni\u00f3n La Calera",
+      "utc": "2026-09-06T17:45:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-06-huachipato-colo-colo",
+      "weekend": "2026-09-06",
+      "name": "Huachipato v Colo Colo",
+      "utc": "2026-09-06T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-06-palestino-universidad-de-concepci-n",
+      "weekend": "2026-09-06",
+      "name": "Palestino v Universidad de Concepci\u00f3n",
+      "utc": "2026-09-06T22:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-07-deportes-limache-cobresal",
+      "weekend": "2026-09-07",
+      "name": "Deportes Limache v Cobresal",
+      "utc": "2026-09-07T23:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-12-ublense-everton-cd",
+      "weekend": "2026-09-12",
+      "name": "\u00d1ublense v Everton CD",
+      "utc": "2026-09-12T15:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-12-cobresal-coquimbo-unido",
+      "weekend": "2026-09-12",
+      "name": "Cobresal v Coquimbo Unido",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-12-palestino-universidad-cat-lica",
+      "weekend": "2026-09-12",
+      "name": "Palestino v Universidad Cat\u00f3lica",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-13-universidad-de-concepci-n-huachipato",
+      "weekend": "2026-09-13",
+      "name": "Universidad de Concepci\u00f3n v Huachipato",
+      "utc": "2026-09-13T15:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-13-la-serena-universidad-de-chile",
+      "weekend": "2026-09-13",
+      "name": "La Serena v Universidad de Chile",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-13-colo-colo-deportes-concepcion",
+      "weekend": "2026-09-13",
+      "name": "Colo Colo v Deportes Concepcion",
+      "utc": "2026-09-13T20:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-13-audax-italiano-o-higgins",
+      "weekend": "2026-09-13",
+      "name": "Audax Italiano v O'Higgins",
+      "utc": "2026-09-13T23:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-09-14-uni-n-la-calera-deportes-limache",
+      "weekend": "2026-09-14",
+      "name": "Uni\u00f3n La Calera v Deportes Limache",
+      "utc": "2026-09-14T23:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-09-universidad-de-chile-ublense",
+      "weekend": "2026-10-09",
+      "name": "Universidad de Chile v \u00d1ublense",
+      "utc": "2026-10-09T23:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-10-cobresal-universidad-de-concepci-n",
+      "weekend": "2026-10-10",
+      "name": "Cobresal v Universidad de Concepci\u00f3n",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-10-huachipato-o-higgins",
+      "weekend": "2026-10-10",
+      "name": "Huachipato v O'Higgins",
+      "utc": "2026-10-10T20:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-10-universidad-cat-lica-audax-italiano",
+      "weekend": "2026-10-10",
+      "name": "Universidad Cat\u00f3lica v Audax Italiano",
+      "utc": "2026-10-10T23:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-11-everton-cd-la-serena",
+      "weekend": "2026-10-11",
+      "name": "Everton CD v La Serena",
+      "utc": "2026-10-11T15:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-11-coquimbo-unido-colo-colo",
+      "weekend": "2026-10-11",
+      "name": "Coquimbo Unido v Colo Colo",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-11-deportes-concepcion-uni-n-la-calera",
+      "weekend": "2026-10-11",
+      "name": "Deportes Concepcion v Uni\u00f3n La Calera",
+      "utc": "2026-10-11T20:30:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-11-deportes-limache-palestino",
+      "weekend": "2026-10-11",
+      "name": "Deportes Limache v Palestino",
+      "utc": "2026-10-11T23:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-25-audax-italiano-huachipato",
+      "weekend": "2026-10-25",
+      "name": "Audax Italiano v Huachipato",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-25-la-serena-deportes-concepcion",
+      "weekend": "2026-10-25",
+      "name": "La Serena v Deportes Concepcion",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-25-ublense-coquimbo-unido",
+      "weekend": "2026-10-25",
+      "name": "\u00d1ublense v Coquimbo Unido",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-25-o-higgins-cobresal",
+      "weekend": "2026-10-25",
+      "name": "O'Higgins v Cobresal",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-25-palestino-colo-colo",
+      "weekend": "2026-10-25",
+      "name": "Palestino v Colo Colo",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-25-uni-n-la-calera-universidad-cat-lica",
+      "weekend": "2026-10-25",
+      "name": "Uni\u00f3n La Calera v Universidad Cat\u00f3lica",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-25-universidad-de-chile-everton-cd",
+      "weekend": "2026-10-25",
+      "name": "Universidad de Chile v Everton CD",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-10-25-universidad-de-concepci-n-deportes-limache",
+      "weekend": "2026-10-25",
+      "name": "Universidad de Concepci\u00f3n v Deportes Limache",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-01-cobresal-everton-cd",
+      "weekend": "2026-11-01",
+      "name": "Cobresal v Everton CD",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-01-colo-colo-universidad-de-concepci-n",
+      "weekend": "2026-11-01",
+      "name": "Colo Colo v Universidad de Concepci\u00f3n",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-01-coquimbo-unido-uni-n-la-calera",
+      "weekend": "2026-11-01",
+      "name": "Coquimbo Unido v Uni\u00f3n La Calera",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-01-deportes-concepcion-palestino",
+      "weekend": "2026-11-01",
+      "name": "Deportes Concepcion v Palestino",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-01-deportes-limache-audax-italiano",
+      "weekend": "2026-11-01",
+      "name": "Deportes Limache v Audax Italiano",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-01-huachipato-la-serena",
+      "weekend": "2026-11-01",
+      "name": "Huachipato v La Serena",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-01-o-higgins-ublense",
+      "weekend": "2026-11-01",
+      "name": "O'Higgins v \u00d1ublense",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-01-universidad-cat-lica-universidad-de-chile",
+      "weekend": "2026-11-01",
+      "name": "Universidad Cat\u00f3lica v Universidad de Chile",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-08-audax-italiano-coquimbo-unido",
+      "weekend": "2026-11-08",
+      "name": "Audax Italiano v Coquimbo Unido",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-08-everton-cd-deportes-concepcion",
+      "weekend": "2026-11-08",
+      "name": "Everton CD v Deportes Concepcion",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-08-la-serena-palestino",
+      "weekend": "2026-11-08",
+      "name": "La Serena v Palestino",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-08-ublense-colo-colo",
+      "weekend": "2026-11-08",
+      "name": "\u00d1ublense v Colo Colo",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-08-uni-n-la-calera-huachipato",
+      "weekend": "2026-11-08",
+      "name": "Uni\u00f3n La Calera v Huachipato",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-08-universidad-cat-lica-deportes-limache",
+      "weekend": "2026-11-08",
+      "name": "Universidad Cat\u00f3lica v Deportes Limache",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-08-universidad-de-chile-cobresal",
+      "weekend": "2026-11-08",
+      "name": "Universidad de Chile v Cobresal",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-08-universidad-de-concepci-n-o-higgins",
+      "weekend": "2026-11-08",
+      "name": "Universidad de Concepci\u00f3n v O'Higgins",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-22-cobresal-audax-italiano",
+      "weekend": "2026-11-22",
+      "name": "Cobresal v Audax Italiano",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-22-colo-colo-universidad-cat-lica",
+      "weekend": "2026-11-22",
+      "name": "Colo Colo v Universidad Cat\u00f3lica",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-22-coquimbo-unido-everton-cd",
+      "weekend": "2026-11-22",
+      "name": "Coquimbo Unido v Everton CD",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-22-deportes-limache-la-serena",
+      "weekend": "2026-11-22",
+      "name": "Deportes Limache v La Serena",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-22-huachipato-deportes-concepcion",
+      "weekend": "2026-11-22",
+      "name": "Huachipato v Deportes Concepcion",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-22-o-higgins-universidad-de-chile",
+      "weekend": "2026-11-22",
+      "name": "O'Higgins v Universidad de Chile",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-22-palestino-uni-n-la-calera",
+      "weekend": "2026-11-22",
+      "name": "Palestino v Uni\u00f3n La Calera",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-22-universidad-de-concepci-n-ublense",
+      "weekend": "2026-11-22",
+      "name": "Universidad de Concepci\u00f3n v \u00d1ublense",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-29-audax-italiano-palestino",
+      "weekend": "2026-11-29",
+      "name": "Audax Italiano v Palestino",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-29-colo-colo-la-serena",
+      "weekend": "2026-11-29",
+      "name": "Colo Colo v La Serena",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-29-coquimbo-unido-deportes-limache",
+      "weekend": "2026-11-29",
+      "name": "Coquimbo Unido v Deportes Limache",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-29-deportes-concepcion-universidad-de-chile",
+      "weekend": "2026-11-29",
+      "name": "Deportes Concepcion v Universidad de Chile",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-29-everton-cd-o-higgins",
+      "weekend": "2026-11-29",
+      "name": "Everton CD v O'Higgins",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-29-ublense-cobresal",
+      "weekend": "2026-11-29",
+      "name": "\u00d1ublense v Cobresal",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-29-uni-n-la-calera-universidad-de-concepci-n",
+      "weekend": "2026-11-29",
+      "name": "Uni\u00f3n La Calera v Universidad de Concepci\u00f3n",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-11-29-universidad-cat-lica-huachipato",
+      "weekend": "2026-11-29",
+      "name": "Universidad Cat\u00f3lica v Huachipato",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-12-06-cobresal-colo-colo",
+      "weekend": "2026-12-06",
+      "name": "Cobresal v Colo Colo",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-12-06-deportes-limache-deportes-concepcion",
+      "weekend": "2026-12-06",
+      "name": "Deportes Limache v Deportes Concepcion",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-12-06-huachipato-ublense",
+      "weekend": "2026-12-06",
+      "name": "Huachipato v \u00d1ublense",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-12-06-la-serena-audax-italiano",
+      "weekend": "2026-12-06",
+      "name": "La Serena v Audax Italiano",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-12-06-o-higgins-coquimbo-unido",
+      "weekend": "2026-12-06",
+      "name": "O'Higgins v Coquimbo Unido",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-12-06-palestino-everton-cd",
+      "weekend": "2026-12-06",
+      "name": "Palestino v Everton CD",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-12-06-universidad-de-chile-uni-n-la-calera",
+      "weekend": "2026-12-06",
+      "name": "Universidad de Chile v Uni\u00f3n La Calera",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "chi.1-2026-12-06-universidad-de-concepci-n-universidad-cat-lica",
+      "weekend": "2026-12-06",
+      "name": "Universidad de Concepci\u00f3n v Universidad Cat\u00f3lica",
+      "utc": "2026-12-06T20:00:00Z"
+    }
+  ]
+}

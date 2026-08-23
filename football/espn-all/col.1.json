@@ -1,0 +1,979 @@
+{
+  "sportKey": "soccer-col.1",
+  "windowFrom": "20260809",
+  "windowTo": "20270520",
+  "events": [
+    {
+      "id": "col.1-2026-08-09-alianza-fc-atl-tico-bucaramanga",
+      "weekend": "2026-08-09",
+      "name": "Alianza FC v Atl\u00e9tico Bucaramanga",
+      "utc": "2026-08-09T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-08-09-jaguares-de-c-rdoba-once-caldas",
+      "weekend": "2026-08-09",
+      "name": "Jaguares de C\u00f3rdoba v Once Caldas",
+      "utc": "2026-08-09T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-08-10-am-rica-de-cali-atl-tico-nacional",
+      "weekend": "2026-08-10",
+      "name": "Am\u00e9rica de Cali v Atl\u00e9tico Nacional",
+      "utc": "2026-08-10T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-08-10-independiente-medell-n-millonarios",
+      "weekend": "2026-08-10",
+      "name": "Independiente Medell\u00edn v Millonarios",
+      "utc": "2026-08-10T23:00:00Z"
+    },
+    {
+      "id": "col.1-2026-08-12-atl-tico-junior-deportivo-pereira",
+      "weekend": "2026-08-12",
+      "name": "Atl\u00e9tico Junior v Deportivo Pereira",
+      "utc": "2026-08-12T01:05:00Z"
+    },
+    {
+      "id": "col.1-2026-08-14-llaneros-fc-deportes-tolima",
+      "weekend": "2026-08-14",
+      "name": "Llaneros FC v Deportes Tolima",
+      "utc": "2026-08-14T23:00:00Z"
+    },
+    {
+      "id": "col.1-2026-08-15-atl-tico-nacional-independiente-santa-fe",
+      "weekend": "2026-08-15",
+      "name": "Atl\u00e9tico Nacional v Independiente Santa Fe",
+      "utc": "2026-08-15T23:05:00Z"
+    },
+    {
+      "id": "col.1-2026-08-16-boyac-chic-fc-atl-tico-junior",
+      "weekend": "2026-08-16",
+      "name": "Boyac\u00e1 Chic\u00f3 FC v Atl\u00e9tico Junior",
+      "utc": "2026-08-16T01:10:00Z"
+    },
+    {
+      "id": "col.1-2026-08-16-c-cuta-deportivo-guilas-doradas",
+      "weekend": "2026-08-16",
+      "name": "C\u00facuta Deportivo v \u00c1guilas Doradas",
+      "utc": "2026-08-16T01:10:00Z"
+    },
+    {
+      "id": "col.1-2026-08-16-internacional-de-bogot-independiente-medell-n",
+      "weekend": "2026-08-16",
+      "name": "Internacional de Bogot\u00e1 v Independiente Medell\u00edn",
+      "utc": "2026-08-16T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-08-16-am-rica-de-cali-fortaleza-ceif",
+      "weekend": "2026-08-16",
+      "name": "Am\u00e9rica de Cali v Fortaleza CEIF",
+      "utc": "2026-08-16T23:05:00Z"
+    },
+    {
+      "id": "col.1-2026-08-17-once-caldas-alianza-fc",
+      "weekend": "2026-08-17",
+      "name": "Once Caldas v Alianza FC",
+      "utc": "2026-08-17T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-08-17-atl-tico-bucaramanga-deportivo-pasto",
+      "weekend": "2026-08-17",
+      "name": "Atl\u00e9tico Bucaramanga v Deportivo Pasto",
+      "utc": "2026-08-17T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-08-17-millonarios-deportivo-cali",
+      "weekend": "2026-08-17",
+      "name": "Millonarios v Deportivo Cali",
+      "utc": "2026-08-17T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-08-19-guilas-doradas-llaneros-fc",
+      "weekend": "2026-08-19",
+      "name": "\u00c1guilas Doradas v Llaneros FC",
+      "utc": "2026-08-19T21:00:00Z"
+    },
+    {
+      "id": "col.1-2026-08-19-c-cuta-deportivo-internacional-de-bogot",
+      "weekend": "2026-08-19",
+      "name": "C\u00facuta Deportivo v Internacional de Bogot\u00e1",
+      "utc": "2026-08-19T23:00:00Z"
+    },
+    {
+      "id": "col.1-2026-08-21-jaguares-de-c-rdoba-boyac-chic-fc",
+      "weekend": "2026-08-21",
+      "name": "Jaguares de C\u00f3rdoba v Boyac\u00e1 Chic\u00f3 FC",
+      "utc": "2026-08-21T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-08-22-alianza-fc-deportivo-pereira",
+      "weekend": "2026-08-22",
+      "name": "Alianza FC v Deportivo Pereira",
+      "utc": "2026-08-22T00:30:00Z"
+    },
+    {
+      "id": "col.1-2026-08-22-guilas-doradas-millonarios",
+      "weekend": "2026-08-22",
+      "name": "\u00c1guilas Doradas v Millonarios",
+      "utc": "2026-08-22T20:30:00Z"
+    },
+    {
+      "id": "col.1-2026-08-22-deportes-tolima-atl-tico-bucaramanga",
+      "weekend": "2026-08-22",
+      "name": "Deportes Tolima v Atl\u00e9tico Bucaramanga",
+      "utc": "2026-08-22T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-08-22-independiente-santa-fe-am-rica-de-cali",
+      "weekend": "2026-08-22",
+      "name": "Independiente Santa Fe v Am\u00e9rica de Cali",
+      "utc": "2026-08-22T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-08-23-independiente-medell-n-c-cuta-deportivo",
+      "weekend": "2026-08-23",
+      "name": "Independiente Medell\u00edn v C\u00facuta Deportivo",
+      "utc": "2026-08-23T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-08-23-fortaleza-ceif-atl-tico-nacional",
+      "weekend": "2026-08-23",
+      "name": "Fortaleza CEIF v Atl\u00e9tico Nacional",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-08-23-deportivo-pasto-llaneros-fc",
+      "weekend": "2026-08-23",
+      "name": "Deportivo Pasto v Llaneros FC",
+      "utc": "2026-08-23T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-08-23-deportivo-cali-internacional-de-bogot",
+      "weekend": "2026-08-23",
+      "name": "Deportivo Cali v Internacional de Bogot\u00e1",
+      "utc": "2026-08-23T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-08-24-atl-tico-junior-once-caldas",
+      "weekend": "2026-08-24",
+      "name": "Atl\u00e9tico Junior v Once Caldas",
+      "utc": "2026-08-24T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-08-25-deportivo-pereira-jaguares-de-c-rdoba",
+      "weekend": "2026-08-25",
+      "name": "Deportivo Pereira v Jaguares de C\u00f3rdoba",
+      "utc": "2026-08-25T18:00:00Z"
+    },
+    {
+      "id": "col.1-2026-08-25-atl-tico-bucaramanga-guilas-doradas",
+      "weekend": "2026-08-25",
+      "name": "Atl\u00e9tico Bucaramanga v \u00c1guilas Doradas",
+      "utc": "2026-08-25T23:00:00Z"
+    },
+    {
+      "id": "col.1-2026-08-26-c-cuta-deportivo-alianza-fc",
+      "weekend": "2026-08-26",
+      "name": "C\u00facuta Deportivo v Alianza FC",
+      "utc": "2026-08-26T01:00:00Z"
+    },
+    {
+      "id": "col.1-2026-08-26-independiente-santa-fe-jaguares-de-c-rdoba",
+      "weekend": "2026-08-26",
+      "name": "Independiente Santa Fe v Jaguares de C\u00f3rdoba",
+      "utc": "2026-08-26T01:05:00Z"
+    },
+    {
+      "id": "col.1-2026-08-26-boyac-chic-fc-fortaleza-ceif",
+      "weekend": "2026-08-26",
+      "name": "Boyac\u00e1 Chic\u00f3 FC v Fortaleza CEIF",
+      "utc": "2026-08-26T21:00:00Z"
+    },
+    {
+      "id": "col.1-2026-08-26-am-rica-de-cali-atl-tico-junior",
+      "weekend": "2026-08-26",
+      "name": "Am\u00e9rica de Cali v Atl\u00e9tico Junior",
+      "utc": "2026-08-26T23:20:00Z"
+    },
+    {
+      "id": "col.1-2026-08-27-atl-tico-nacional-deportivo-cali",
+      "weekend": "2026-08-27",
+      "name": "Atl\u00e9tico Nacional v Deportivo Cali",
+      "utc": "2026-08-27T01:30:00Z"
+    },
+    {
+      "id": "col.1-2026-08-27-llaneros-fc-millonarios",
+      "weekend": "2026-08-27",
+      "name": "Llaneros FC v Millonarios",
+      "utc": "2026-08-27T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-08-28-internacional-de-bogot-deportivo-pasto",
+      "weekend": "2026-08-28",
+      "name": "Internacional de Bogot\u00e1 v Deportivo Pasto",
+      "utc": "2026-08-28T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-08-28-once-caldas-deportes-tolima",
+      "weekend": "2026-08-28",
+      "name": "Once Caldas v Deportes Tolima",
+      "utc": "2026-08-28T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-08-29-jaguares-de-c-rdoba-am-rica-de-cali",
+      "weekend": "2026-08-29",
+      "name": "Jaguares de C\u00f3rdoba v Am\u00e9rica de Cali",
+      "utc": "2026-08-29T21:25:00Z"
+    },
+    {
+      "id": "col.1-2026-08-29-atl-tico-junior-independiente-santa-fe",
+      "weekend": "2026-08-29",
+      "name": "Atl\u00e9tico Junior v Independiente Santa Fe",
+      "utc": "2026-08-29T23:30:00Z"
+    },
+    {
+      "id": "col.1-2026-08-30-alianza-fc-atl-tico-nacional",
+      "weekend": "2026-08-30",
+      "name": "Alianza FC v Atl\u00e9tico Nacional",
+      "utc": "2026-08-30T01:30:00Z"
+    },
+    {
+      "id": "col.1-2026-08-30-guilas-doradas-boyac-chic-fc",
+      "weekend": "2026-08-30",
+      "name": "\u00c1guilas Doradas v Boyac\u00e1 Chic\u00f3 FC",
+      "utc": "2026-08-30T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-08-30-independiente-medell-n-llaneros-fc",
+      "weekend": "2026-08-30",
+      "name": "Independiente Medell\u00edn v Llaneros FC",
+      "utc": "2026-08-30T21:10:00Z"
+    },
+    {
+      "id": "col.1-2026-08-30-millonarios-internacional-de-bogot",
+      "weekend": "2026-08-30",
+      "name": "Millonarios v Internacional de Bogot\u00e1",
+      "utc": "2026-08-30T23:15:00Z"
+    },
+    {
+      "id": "col.1-2026-08-31-deportes-tolima-c-cuta-deportivo",
+      "weekend": "2026-08-31",
+      "name": "Deportes Tolima v C\u00facuta Deportivo",
+      "utc": "2026-08-31T01:20:00Z"
+    },
+    {
+      "id": "col.1-2026-08-31-deportivo-pasto-deportivo-pereira",
+      "weekend": "2026-08-31",
+      "name": "Deportivo Pasto v Deportivo Pereira",
+      "utc": "2026-08-31T23:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-01-deportivo-cali-atl-tico-bucaramanga",
+      "weekend": "2026-09-01",
+      "name": "Deportivo Cali v Atl\u00e9tico Bucaramanga",
+      "utc": "2026-09-01T01:05:00Z"
+    },
+    {
+      "id": "col.1-2026-09-02-fortaleza-ceif-once-caldas",
+      "weekend": "2026-09-02",
+      "name": "Fortaleza CEIF v Once Caldas",
+      "utc": "2026-09-02T01:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-03-independiente-santa-fe-millonarios",
+      "weekend": "2026-09-03",
+      "name": "Independiente Santa Fe v Millonarios",
+      "utc": "2026-09-03T01:25:00Z"
+    },
+    {
+      "id": "col.1-2026-09-03-deportivo-pereira-independiente-medell-n",
+      "weekend": "2026-09-03",
+      "name": "Deportivo Pereira v Independiente Medell\u00edn",
+      "utc": "2026-09-03T18:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-03-am-rica-de-cali-alianza-fc",
+      "weekend": "2026-09-03",
+      "name": "Am\u00e9rica de Cali v Alianza FC",
+      "utc": "2026-09-03T23:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-05-boyac-chic-fc-once-caldas",
+      "weekend": "2026-09-05",
+      "name": "Boyac\u00e1 Chic\u00f3 FC v Once Caldas",
+      "utc": "2026-09-05T23:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-06-atl-tico-junior-jaguares-de-c-rdoba",
+      "weekend": "2026-09-06",
+      "name": "Atl\u00e9tico Junior v Jaguares de C\u00f3rdoba",
+      "utc": "2026-09-06T01:20:00Z"
+    },
+    {
+      "id": "col.1-2026-09-06-internacional-de-bogot-guilas-doradas",
+      "weekend": "2026-09-06",
+      "name": "Internacional de Bogot\u00e1 v \u00c1guilas Doradas",
+      "utc": "2026-09-06T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-06-c-cuta-deportivo-deportivo-pasto",
+      "weekend": "2026-09-06",
+      "name": "C\u00facuta Deportivo v Deportivo Pasto",
+      "utc": "2026-09-06T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-09-06-deportivo-pereira-millonarios",
+      "weekend": "2026-09-06",
+      "name": "Deportivo Pereira v Millonarios",
+      "utc": "2026-09-06T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-09-07-independiente-santa-fe-fortaleza-ceif",
+      "weekend": "2026-09-07",
+      "name": "Independiente Santa Fe v Fortaleza CEIF",
+      "utc": "2026-09-07T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-09-08-llaneros-fc-deportivo-cali",
+      "weekend": "2026-09-08",
+      "name": "Llaneros FC v Deportivo Cali",
+      "utc": "2026-09-08T01:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-10-boyac-chic-fc-atl-tico-nacional",
+      "weekend": "2026-09-10",
+      "name": "Boyac\u00e1 Chic\u00f3 FC v Atl\u00e9tico Nacional",
+      "utc": "2026-09-10T01:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-11-jaguares-de-c-rdoba-fortaleza-ceif",
+      "weekend": "2026-09-11",
+      "name": "Jaguares de C\u00f3rdoba v Fortaleza CEIF",
+      "utc": "2026-09-11T23:15:00Z"
+    },
+    {
+      "id": "col.1-2026-09-12-alianza-fc-atl-tico-junior",
+      "weekend": "2026-09-12",
+      "name": "Alianza FC v Atl\u00e9tico Junior",
+      "utc": "2026-09-12T01:20:00Z"
+    },
+    {
+      "id": "col.1-2026-09-12-deportivo-pereira-atl-tico-bucaramanga",
+      "weekend": "2026-09-12",
+      "name": "Deportivo Pereira v Atl\u00e9tico Bucaramanga",
+      "utc": "2026-09-12T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-12-internacional-de-bogot-llaneros-fc",
+      "weekend": "2026-09-12",
+      "name": "Internacional de Bogot\u00e1 v Llaneros FC",
+      "utc": "2026-09-12T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-09-12-boyac-chic-fc-independiente-medell-n",
+      "weekend": "2026-09-12",
+      "name": "Boyac\u00e1 Chic\u00f3 FC v Independiente Medell\u00edn",
+      "utc": "2026-09-12T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-09-13-am-rica-de-cali-deportivo-pasto",
+      "weekend": "2026-09-13",
+      "name": "Am\u00e9rica de Cali v Deportivo Pasto",
+      "utc": "2026-09-13T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-09-13-independiente-santa-fe-deportes-tolima",
+      "weekend": "2026-09-13",
+      "name": "Independiente Santa Fe v Deportes Tolima",
+      "utc": "2026-09-13T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-13-atl-tico-nacional-guilas-doradas",
+      "weekend": "2026-09-13",
+      "name": "Atl\u00e9tico Nacional v \u00c1guilas Doradas",
+      "utc": "2026-09-13T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-09-13-once-caldas-deportivo-cali",
+      "weekend": "2026-09-13",
+      "name": "Once Caldas v Deportivo Cali",
+      "utc": "2026-09-13T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-09-14-c-cuta-deportivo-millonarios",
+      "weekend": "2026-09-14",
+      "name": "C\u00facuta Deportivo v Millonarios",
+      "utc": "2026-09-14T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-09-15-boyac-chic-fc-alianza-fc",
+      "weekend": "2026-09-15",
+      "name": "Boyac\u00e1 Chic\u00f3 FC v Alianza FC",
+      "utc": "2026-09-15T18:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-18-guilas-doradas-deportivo-pereira",
+      "weekend": "2026-09-18",
+      "name": "\u00c1guilas Doradas v Deportivo Pereira",
+      "utc": "2026-09-18T21:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-19-independiente-medell-n-jaguares-de-c-rdoba",
+      "weekend": "2026-09-19",
+      "name": "Independiente Medell\u00edn v Jaguares de C\u00f3rdoba",
+      "utc": "2026-09-19T01:10:00Z"
+    },
+    {
+      "id": "col.1-2026-09-19-deportivo-pasto-once-caldas",
+      "weekend": "2026-09-19",
+      "name": "Deportivo Pasto v Once Caldas",
+      "utc": "2026-09-19T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-19-alianza-fc-independiente-santa-fe",
+      "weekend": "2026-09-19",
+      "name": "Alianza FC v Independiente Santa Fe",
+      "utc": "2026-09-19T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-09-19-deportivo-cali-c-cuta-deportivo",
+      "weekend": "2026-09-19",
+      "name": "Deportivo Cali v C\u00facuta Deportivo",
+      "utc": "2026-09-19T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-09-20-millonarios-boyac-chic-fc",
+      "weekend": "2026-09-20",
+      "name": "Millonarios v Boyac\u00e1 Chic\u00f3 FC",
+      "utc": "2026-09-20T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-09-20-fortaleza-ceif-atl-tico-junior",
+      "weekend": "2026-09-20",
+      "name": "Fortaleza CEIF v Atl\u00e9tico Junior",
+      "utc": "2026-09-20T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-20-atl-tico-bucaramanga-internacional-de-bogot",
+      "weekend": "2026-09-20",
+      "name": "Atl\u00e9tico Bucaramanga v Internacional de Bogot\u00e1",
+      "utc": "2026-09-20T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-09-20-deportes-tolima-am-rica-de-cali",
+      "weekend": "2026-09-20",
+      "name": "Deportes Tolima v Am\u00e9rica de Cali",
+      "utc": "2026-09-20T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-09-21-llaneros-fc-atl-tico-nacional",
+      "weekend": "2026-09-21",
+      "name": "Llaneros FC v Atl\u00e9tico Nacional",
+      "utc": "2026-09-21T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-09-23-independiente-santa-fe-deportivo-cali",
+      "weekend": "2026-09-23",
+      "name": "Independiente Santa Fe v Deportivo Cali",
+      "utc": "2026-09-23T01:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-23-am-rica-de-cali-guilas-doradas",
+      "weekend": "2026-09-23",
+      "name": "Am\u00e9rica de Cali v \u00c1guilas Doradas",
+      "utc": "2026-09-23T23:25:00Z"
+    },
+    {
+      "id": "col.1-2026-09-24-atl-tico-nacional-millonarios",
+      "weekend": "2026-09-24",
+      "name": "Atl\u00e9tico Nacional v Millonarios",
+      "utc": "2026-09-24T01:30:00Z"
+    },
+    {
+      "id": "col.1-2026-09-25-boyac-chic-fc-deportivo-pasto",
+      "weekend": "2026-09-25",
+      "name": "Boyac\u00e1 Chic\u00f3 FC v Deportivo Pasto",
+      "utc": "2026-09-25T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-09-26-once-caldas-atl-tico-bucaramanga",
+      "weekend": "2026-09-26",
+      "name": "Once Caldas v Atl\u00e9tico Bucaramanga",
+      "utc": "2026-09-26T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-09-26-deportivo-pereira-internacional-de-bogot",
+      "weekend": "2026-09-26",
+      "name": "Deportivo Pereira v Internacional de Bogot\u00e1",
+      "utc": "2026-09-26T21:10:00Z"
+    },
+    {
+      "id": "col.1-2026-09-26-c-cuta-deportivo-llaneros-fc",
+      "weekend": "2026-09-26",
+      "name": "C\u00facuta Deportivo v Llaneros FC",
+      "utc": "2026-09-26T23:15:00Z"
+    },
+    {
+      "id": "col.1-2026-09-27-atl-tico-junior-independiente-medell-n",
+      "weekend": "2026-09-27",
+      "name": "Atl\u00e9tico Junior v Independiente Medell\u00edn",
+      "utc": "2026-09-27T01:20:00Z"
+    },
+    {
+      "id": "col.1-2026-09-27-jaguares-de-c-rdoba-alianza-fc",
+      "weekend": "2026-09-27",
+      "name": "Jaguares de C\u00f3rdoba v Alianza FC",
+      "utc": "2026-09-27T21:00:00Z"
+    },
+    {
+      "id": "col.1-2026-09-27-fortaleza-ceif-deportes-tolima",
+      "weekend": "2026-09-27",
+      "name": "Fortaleza CEIF v Deportes Tolima",
+      "utc": "2026-09-27T23:05:00Z"
+    },
+    {
+      "id": "col.1-2026-09-28-deportivo-cali-guilas-doradas",
+      "weekend": "2026-09-28",
+      "name": "Deportivo Cali v \u00c1guilas Doradas",
+      "utc": "2026-09-28T01:10:00Z"
+    },
+    {
+      "id": "col.1-2026-09-29-deportivo-pereira-independiente-santa-fe",
+      "weekend": "2026-09-29",
+      "name": "Deportivo Pereira v Independiente Santa Fe",
+      "utc": "2026-09-29T18:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-01-atl-tico-nacional-atl-tico-junior",
+      "weekend": "2026-10-01",
+      "name": "Atl\u00e9tico Nacional v Atl\u00e9tico Junior",
+      "utc": "2026-10-01T01:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-03-guilas-doradas-jaguares-de-c-rdoba",
+      "weekend": "2026-10-03",
+      "name": "\u00c1guilas Doradas v Jaguares de C\u00f3rdoba",
+      "utc": "2026-10-03T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-03-deportivo-cali-alianza-fc",
+      "weekend": "2026-10-03",
+      "name": "Deportivo Cali v Alianza FC",
+      "utc": "2026-10-03T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-10-03-deportes-tolima-boyac-chic-fc",
+      "weekend": "2026-10-03",
+      "name": "Deportes Tolima v Boyac\u00e1 Chic\u00f3 FC",
+      "utc": "2026-10-03T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-10-04-independiente-medell-n-independiente-santa-fe",
+      "weekend": "2026-10-04",
+      "name": "Independiente Medell\u00edn v Independiente Santa Fe",
+      "utc": "2026-10-04T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-10-04-deportivo-pasto-fortaleza-ceif",
+      "weekend": "2026-10-04",
+      "name": "Deportivo Pasto v Fortaleza CEIF",
+      "utc": "2026-10-04T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-04-c-cuta-deportivo-deportivo-pereira",
+      "weekend": "2026-10-04",
+      "name": "C\u00facuta Deportivo v Deportivo Pereira",
+      "utc": "2026-10-04T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-10-04-atl-tico-bucaramanga-atl-tico-junior",
+      "weekend": "2026-10-04",
+      "name": "Atl\u00e9tico Bucaramanga v Atl\u00e9tico Junior",
+      "utc": "2026-10-04T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-10-05-llaneros-fc-am-rica-de-cali",
+      "weekend": "2026-10-05",
+      "name": "Llaneros FC v Am\u00e9rica de Cali",
+      "utc": "2026-10-05T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-10-07-atl-tico-bucaramanga-independiente-medell-n",
+      "weekend": "2026-10-07",
+      "name": "Atl\u00e9tico Bucaramanga v Independiente Medell\u00edn",
+      "utc": "2026-10-07T23:15:00Z"
+    },
+    {
+      "id": "col.1-2026-10-08-atl-tico-nacional-deportes-tolima",
+      "weekend": "2026-10-08",
+      "name": "Atl\u00e9tico Nacional v Deportes Tolima",
+      "utc": "2026-10-08T01:20:00Z"
+    },
+    {
+      "id": "col.1-2026-10-09-fortaleza-ceif-millonarios",
+      "weekend": "2026-10-09",
+      "name": "Fortaleza CEIF v Millonarios",
+      "utc": "2026-10-09T01:10:00Z"
+    },
+    {
+      "id": "col.1-2026-10-10-once-caldas-llaneros-fc",
+      "weekend": "2026-10-10",
+      "name": "Once Caldas v Llaneros FC",
+      "utc": "2026-10-10T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-10-10-atl-tico-junior-internacional-de-bogot",
+      "weekend": "2026-10-10",
+      "name": "Atl\u00e9tico Junior v Internacional de Bogot\u00e1",
+      "utc": "2026-10-10T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-10-11-deportivo-pereira-deportivo-cali",
+      "weekend": "2026-10-11",
+      "name": "Deportivo Pereira v Deportivo Cali",
+      "utc": "2026-10-11T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-11-atl-tico-nacional-deportivo-pasto",
+      "weekend": "2026-10-11",
+      "name": "Atl\u00e9tico Nacional v Deportivo Pasto",
+      "utc": "2026-10-11T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-10-11-jaguares-de-c-rdoba-deportes-tolima",
+      "weekend": "2026-10-11",
+      "name": "Jaguares de C\u00f3rdoba v Deportes Tolima",
+      "utc": "2026-10-11T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-10-12-am-rica-de-cali-independiente-medell-n",
+      "weekend": "2026-10-12",
+      "name": "Am\u00e9rica de Cali v Independiente Medell\u00edn",
+      "utc": "2026-10-12T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-10-12-alianza-fc-guilas-doradas",
+      "weekend": "2026-10-12",
+      "name": "Alianza FC v \u00c1guilas Doradas",
+      "utc": "2026-10-12T23:05:00Z"
+    },
+    {
+      "id": "col.1-2026-10-13-boyac-chic-fc-c-cuta-deportivo",
+      "weekend": "2026-10-13",
+      "name": "Boyac\u00e1 Chic\u00f3 FC v C\u00facuta Deportivo",
+      "utc": "2026-10-13T01:10:00Z"
+    },
+    {
+      "id": "col.1-2026-10-14-millonarios-once-caldas",
+      "weekend": "2026-10-14",
+      "name": "Millonarios v Once Caldas",
+      "utc": "2026-10-14T01:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-15-independiente-santa-fe-atl-tico-bucaramanga",
+      "weekend": "2026-10-15",
+      "name": "Independiente Santa Fe v Atl\u00e9tico Bucaramanga",
+      "utc": "2026-10-15T00:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-17-internacional-de-bogot-atl-tico-nacional",
+      "weekend": "2026-10-17",
+      "name": "Internacional de Bogot\u00e1 v Atl\u00e9tico Nacional",
+      "utc": "2026-10-17T01:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-17-millonarios-jaguares-de-c-rdoba",
+      "weekend": "2026-10-17",
+      "name": "Millonarios v Jaguares de C\u00f3rdoba",
+      "utc": "2026-10-17T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-17-guilas-doradas-deportes-tolima",
+      "weekend": "2026-10-17",
+      "name": "\u00c1guilas Doradas v Deportes Tolima",
+      "utc": "2026-10-17T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-10-17-atl-tico-bucaramanga-am-rica-de-cali",
+      "weekend": "2026-10-17",
+      "name": "Atl\u00e9tico Bucaramanga v Am\u00e9rica de Cali",
+      "utc": "2026-10-17T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-10-18-independiente-medell-n-once-caldas",
+      "weekend": "2026-10-18",
+      "name": "Independiente Medell\u00edn v Once Caldas",
+      "utc": "2026-10-18T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-10-18-llaneros-fc-independiente-santa-fe",
+      "weekend": "2026-10-18",
+      "name": "Llaneros FC v Independiente Santa Fe",
+      "utc": "2026-10-18T22:45:00Z"
+    },
+    {
+      "id": "col.1-2026-10-19-deportivo-cali-atl-tico-junior",
+      "weekend": "2026-10-19",
+      "name": "Deportivo Cali v Atl\u00e9tico Junior",
+      "utc": "2026-10-19T01:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-19-deportivo-pereira-boyac-chic-fc",
+      "weekend": "2026-10-19",
+      "name": "Deportivo Pereira v Boyac\u00e1 Chic\u00f3 FC",
+      "utc": "2026-10-19T23:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-20-deportivo-pasto-alianza-fc",
+      "weekend": "2026-10-20",
+      "name": "Deportivo Pasto v Alianza FC",
+      "utc": "2026-10-20T01:05:00Z"
+    },
+    {
+      "id": "col.1-2026-10-20-internacional-de-bogot-fortaleza-ceif",
+      "weekend": "2026-10-20",
+      "name": "Internacional de Bogot\u00e1 v Fortaleza CEIF",
+      "utc": "2026-10-20T23:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-21-c-cuta-deportivo-atl-tico-nacional",
+      "weekend": "2026-10-21",
+      "name": "C\u00facuta Deportivo v Atl\u00e9tico Nacional",
+      "utc": "2026-10-21T01:05:00Z"
+    },
+    {
+      "id": "col.1-2026-10-24-am-rica-de-cali-c-cuta-deportivo",
+      "weekend": "2026-10-24",
+      "name": "Am\u00e9rica de Cali v C\u00facuta Deportivo",
+      "utc": "2026-10-24T01:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-24-boyac-chic-fc-atl-tico-bucaramanga",
+      "weekend": "2026-10-24",
+      "name": "Boyac\u00e1 Chic\u00f3 FC v Atl\u00e9tico Bucaramanga",
+      "utc": "2026-10-24T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-24-alianza-fc-internacional-de-bogot",
+      "weekend": "2026-10-24",
+      "name": "Alianza FC v Internacional de Bogot\u00e1",
+      "utc": "2026-10-24T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-10-24-atl-tico-junior-guilas-doradas",
+      "weekend": "2026-10-24",
+      "name": "Atl\u00e9tico Junior v \u00c1guilas Doradas",
+      "utc": "2026-10-24T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-10-25-once-caldas-deportivo-pereira",
+      "weekend": "2026-10-25",
+      "name": "Once Caldas v Deportivo Pereira",
+      "utc": "2026-10-25T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-10-25-fortaleza-ceif-deportivo-cali",
+      "weekend": "2026-10-25",
+      "name": "Fortaleza CEIF v Deportivo Cali",
+      "utc": "2026-10-25T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-25-jaguares-de-c-rdoba-llaneros-fc",
+      "weekend": "2026-10-25",
+      "name": "Jaguares de C\u00f3rdoba v Llaneros FC",
+      "utc": "2026-10-25T21:05:00Z"
+    },
+    {
+      "id": "col.1-2026-10-25-atl-tico-nacional-independiente-medell-n",
+      "weekend": "2026-10-25",
+      "name": "Atl\u00e9tico Nacional v Independiente Medell\u00edn",
+      "utc": "2026-10-25T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-10-26-deportes-tolima-deportivo-pasto",
+      "weekend": "2026-10-26",
+      "name": "Deportes Tolima v Deportivo Pasto",
+      "utc": "2026-10-26T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-10-27-millonarios-am-rica-de-cali",
+      "weekend": "2026-10-27",
+      "name": "Millonarios v Am\u00e9rica de Cali",
+      "utc": "2026-10-27T01:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-29-guilas-doradas-fortaleza-ceif",
+      "weekend": "2026-10-29",
+      "name": "\u00c1guilas Doradas v Fortaleza CEIF",
+      "utc": "2026-10-29T21:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-29-deportivo-pereira-deportes-tolima",
+      "weekend": "2026-10-29",
+      "name": "Deportivo Pereira v Deportes Tolima",
+      "utc": "2026-10-29T23:15:00Z"
+    },
+    {
+      "id": "col.1-2026-10-30-internacional-de-bogot-once-caldas",
+      "weekend": "2026-10-30",
+      "name": "Internacional de Bogot\u00e1 v Once Caldas",
+      "utc": "2026-10-30T01:20:00Z"
+    },
+    {
+      "id": "col.1-2026-10-30-independiente-medell-n-alianza-fc",
+      "weekend": "2026-10-30",
+      "name": "Independiente Medell\u00edn v Alianza FC",
+      "utc": "2026-10-30T23:15:00Z"
+    },
+    {
+      "id": "col.1-2026-10-31-deportivo-cali-boyac-chic-fc",
+      "weekend": "2026-10-31",
+      "name": "Deportivo Cali v Boyac\u00e1 Chic\u00f3 FC",
+      "utc": "2026-10-31T01:20:00Z"
+    },
+    {
+      "id": "col.1-2026-10-31-c-cuta-deportivo-independiente-santa-fe",
+      "weekend": "2026-10-31",
+      "name": "C\u00facuta Deportivo v Independiente Santa Fe",
+      "utc": "2026-10-31T21:00:00Z"
+    },
+    {
+      "id": "col.1-2026-10-31-llaneros-fc-atl-tico-junior",
+      "weekend": "2026-10-31",
+      "name": "Llaneros FC v Atl\u00e9tico Junior",
+      "utc": "2026-10-31T23:05:00Z"
+    },
+    {
+      "id": "col.1-2026-11-01-deportivo-pasto-jaguares-de-c-rdoba",
+      "weekend": "2026-11-01",
+      "name": "Deportivo Pasto v Jaguares de C\u00f3rdoba",
+      "utc": "2026-11-01T01:10:00Z"
+    },
+    {
+      "id": "col.1-2026-11-01-atl-tico-bucaramanga-atl-tico-nacional",
+      "weekend": "2026-11-01",
+      "name": "Atl\u00e9tico Bucaramanga v Atl\u00e9tico Nacional",
+      "utc": "2026-11-01T23:10:00Z"
+    },
+    {
+      "id": "col.1-2026-11-02-fortaleza-ceif-independiente-medell-n",
+      "weekend": "2026-11-02",
+      "name": "Fortaleza CEIF v Independiente Medell\u00edn",
+      "utc": "2026-11-02T21:20:00Z"
+    },
+    {
+      "id": "col.1-2026-11-02-once-caldas-guilas-doradas",
+      "weekend": "2026-11-02",
+      "name": "Once Caldas v \u00c1guilas Doradas",
+      "utc": "2026-11-02T23:25:00Z"
+    },
+    {
+      "id": "col.1-2026-11-03-deportes-tolima-millonarios",
+      "weekend": "2026-11-03",
+      "name": "Deportes Tolima v Millonarios",
+      "utc": "2026-11-03T01:30:00Z"
+    },
+    {
+      "id": "col.1-2026-11-03-alianza-fc-llaneros-fc",
+      "weekend": "2026-11-03",
+      "name": "Alianza FC v Llaneros FC",
+      "utc": "2026-11-03T21:10:00Z"
+    },
+    {
+      "id": "col.1-2026-11-03-independiente-santa-fe-deportivo-pasto",
+      "weekend": "2026-11-03",
+      "name": "Independiente Santa Fe v Deportivo Pasto",
+      "utc": "2026-11-03T23:15:00Z"
+    },
+    {
+      "id": "col.1-2026-11-04-am-rica-de-cali-deportivo-cali",
+      "weekend": "2026-11-04",
+      "name": "Am\u00e9rica de Cali v Deportivo Cali",
+      "utc": "2026-11-04T01:20:00Z"
+    },
+    {
+      "id": "col.1-2026-11-04-boyac-chic-fc-internacional-de-bogot",
+      "weekend": "2026-11-04",
+      "name": "Boyac\u00e1 Chic\u00f3 FC v Internacional de Bogot\u00e1",
+      "utc": "2026-11-04T19:00:00Z"
+    },
+    {
+      "id": "col.1-2026-11-04-jaguares-de-c-rdoba-atl-tico-bucaramanga",
+      "weekend": "2026-11-04",
+      "name": "Jaguares de C\u00f3rdoba v Atl\u00e9tico Bucaramanga",
+      "utc": "2026-11-04T21:20:00Z"
+    },
+    {
+      "id": "col.1-2026-11-04-atl-tico-junior-c-cuta-deportivo",
+      "weekend": "2026-11-04",
+      "name": "Atl\u00e9tico Junior v C\u00facuta Deportivo",
+      "utc": "2026-11-04T23:25:00Z"
+    },
+    {
+      "id": "col.1-2026-11-05-atl-tico-nacional-deportivo-pereira",
+      "weekend": "2026-11-05",
+      "name": "Atl\u00e9tico Nacional v Deportivo Pereira",
+      "utc": "2026-11-05T01:30:00Z"
+    },
+    {
+      "id": "col.1-2026-11-08-guilas-doradas-independiente-medell-n",
+      "weekend": "2026-11-08",
+      "name": "\u00c1guilas Doradas v Independiente Medell\u00edn",
+      "utc": "2026-11-08T20:30:00Z"
+    },
+    {
+      "id": "col.1-2026-11-08-atl-tico-bucaramanga-fortaleza-ceif",
+      "weekend": "2026-11-08",
+      "name": "Atl\u00e9tico Bucaramanga v Fortaleza CEIF",
+      "utc": "2026-11-08T20:30:00Z"
+    },
+    {
+      "id": "col.1-2026-11-08-atl-tico-nacional-once-caldas",
+      "weekend": "2026-11-08",
+      "name": "Atl\u00e9tico Nacional v Once Caldas",
+      "utc": "2026-11-08T20:30:00Z"
+    },
+    {
+      "id": "col.1-2026-11-08-c-cuta-deportivo-jaguares-de-c-rdoba",
+      "weekend": "2026-11-08",
+      "name": "C\u00facuta Deportivo v Jaguares de C\u00f3rdoba",
+      "utc": "2026-11-08T20:30:00Z"
+    },
+    {
+      "id": "col.1-2026-11-08-deportivo-cali-deportes-tolima",
+      "weekend": "2026-11-08",
+      "name": "Deportivo Cali v Deportes Tolima",
+      "utc": "2026-11-08T20:30:00Z"
+    },
+    {
+      "id": "col.1-2026-11-08-deportivo-pasto-atl-tico-junior",
+      "weekend": "2026-11-08",
+      "name": "Deportivo Pasto v Atl\u00e9tico Junior",
+      "utc": "2026-11-08T20:30:00Z"
+    },
+    {
+      "id": "col.1-2026-11-08-deportivo-pereira-am-rica-de-cali",
+      "weekend": "2026-11-08",
+      "name": "Deportivo Pereira v Am\u00e9rica de Cali",
+      "utc": "2026-11-08T20:30:00Z"
+    },
+    {
+      "id": "col.1-2026-11-08-internacional-de-bogot-independiente-santa-fe",
+      "weekend": "2026-11-08",
+      "name": "Internacional de Bogot\u00e1 v Independiente Santa Fe",
+      "utc": "2026-11-08T20:30:00Z"
+    },
+    {
+      "id": "col.1-2026-11-08-llaneros-fc-boyac-chic-fc",
+      "weekend": "2026-11-08",
+      "name": "Llaneros FC v Boyac\u00e1 Chic\u00f3 FC",
+      "utc": "2026-11-08T20:30:00Z"
+    },
+    {
+      "id": "col.1-2026-11-08-millonarios-alianza-fc",
+      "weekend": "2026-11-08",
+      "name": "Millonarios v Alianza FC",
+      "utc": "2026-11-08T20:30:00Z"
+    }
+  ]
+}
