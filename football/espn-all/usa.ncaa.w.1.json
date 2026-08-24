@@ -1,8 +1,8 @@
 {
   "sportKey": "soccer-usa.ncaa.w.1",
   "leagueName": "NCAA Women's Soccer",
-  "windowFrom": "20260809",
-  "windowTo": "20270520",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
   "events": [
     {
       "id": "usa.ncaa.w.1-2026-08-12-austin-peay-northern-kentucky",
@@ -3323,12 +3323,6 @@
       "utc": "2026-08-23T22:00:00Z"
     },
     {
-      "id": "usa.ncaa.w.1-2026-08-23-florida-international-north-florida",
-      "weekend": "2026-08-23",
-      "name": "Florida International v North Florida",
-      "utc": "2026-08-23T22:00:00Z"
-    },
-    {
       "id": "usa.ncaa.w.1-2026-08-23-gardner-webb-app-state",
       "weekend": "2026-08-23",
       "name": "Gardner-Webb v App State",
@@ -3401,12 +3395,6 @@
       "utc": "2026-08-23T22:00:00Z"
     },
     {
-      "id": "usa.ncaa.w.1-2026-08-23-virginia-tech-maryland",
-      "weekend": "2026-08-23",
-      "name": "Virginia Tech v Maryland",
-      "utc": "2026-08-23T22:00:00Z"
-    },
-    {
       "id": "usa.ncaa.w.1-2026-08-23-winthrop-emory-henry",
       "weekend": "2026-08-23",
       "name": "Winthrop v Emory & Henry",
@@ -3417,6 +3405,18 @@
       "weekend": "2026-08-23",
       "name": "Wisconsin v Marquette",
       "utc": "2026-08-23T22:00:00Z"
+    },
+    {
+      "id": "usa.ncaa.w.1-2026-08-23-virginia-tech-maryland",
+      "weekend": "2026-08-23",
+      "name": "Virginia Tech v Maryland",
+      "utc": "2026-08-23T22:30:00Z"
+    },
+    {
+      "id": "usa.ncaa.w.1-2026-08-23-florida-international-north-florida",
+      "weekend": "2026-08-23",
+      "name": "Florida International v North Florida",
+      "utc": "2026-08-23T22:35:00Z"
     },
     {
       "id": "usa.ncaa.w.1-2026-08-23-cal-state-fullerton-loyola-marymount",
@@ -3497,16 +3497,16 @@
       "utc": "2026-08-23T23:00:00Z"
     },
     {
-      "id": "usa.ncaa.w.1-2026-08-23-nc-state-elon",
-      "weekend": "2026-08-23",
-      "name": "NC State v Elon",
-      "utc": "2026-08-23T23:30:00Z"
-    },
-    {
       "id": "usa.ncaa.w.1-2026-08-23-northwestern-denver",
       "weekend": "2026-08-23",
       "name": "Northwestern v Denver",
       "utc": "2026-08-23T23:30:00Z"
+    },
+    {
+      "id": "usa.ncaa.w.1-2026-08-23-nc-state-elon",
+      "weekend": "2026-08-23",
+      "name": "NC State v Elon",
+      "utc": "2026-08-23T23:55:00Z"
     },
     {
       "id": "usa.ncaa.w.1-2026-08-24-friends-oral-roberts",

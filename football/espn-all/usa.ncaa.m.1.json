@@ -1,8 +1,8 @@
 {
   "sportKey": "soccer-usa.ncaa.m.1",
   "leagueName": "NCAA Men's Soccer",
-  "windowFrom": "20260809",
-  "windowTo": "20270520",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
   "events": [
     {
       "id": "usa.ncaa.m.1-2026-08-20-george-washington-old-dominion",
@@ -956,7 +956,7 @@
       "id": "usa.ncaa.m.1-2026-08-24-utah-tech-pacific",
       "weekend": "2026-08-24",
       "name": "Utah Tech v Pacific",
-      "utc": "2026-08-24T02:00:00Z"
+      "utc": "2026-08-24T02:20:00Z"
     },
     {
       "id": "usa.ncaa.m.1-2026-08-24-chicago-state-milwaukee",
@@ -1007,12 +1007,6 @@
       "utc": "2026-08-24T22:00:00Z"
     },
     {
-      "id": "usa.ncaa.m.1-2026-08-24-longwood-coastal-carolina",
-      "weekend": "2026-08-24",
-      "name": "Longwood v Coastal Carolina",
-      "utc": "2026-08-24T22:00:00Z"
-    },
-    {
       "id": "usa.ncaa.m.1-2026-08-24-northern-kentucky-southern-indiana",
       "weekend": "2026-08-24",
       "name": "Northern Kentucky v Southern Indiana",
@@ -1052,6 +1046,12 @@
       "id": "usa.ncaa.m.1-2026-08-24-james-madison-gardner-webb",
       "weekend": "2026-08-24",
       "name": "James Madison v Gardner-Webb",
+      "utc": "2026-08-24T23:00:00Z"
+    },
+    {
+      "id": "usa.ncaa.m.1-2026-08-24-longwood-coastal-carolina",
+      "weekend": "2026-08-24",
+      "name": "Longwood v Coastal Carolina",
       "utc": "2026-08-24T23:00:00Z"
     },
     {
