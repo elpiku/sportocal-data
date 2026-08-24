@@ -1,8 +1,8 @@
 {
   "sportKey": "soccer-col.copa",
   "leagueName": "Copa Colombia",
-  "windowFrom": "20260809",
-  "windowTo": "20270520",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
   "events": [
     {
       "id": "col.copa-2026-08-13-deportivo-cali-atl-tico-nacional",
@@ -77,16 +77,16 @@
       "utc": "2026-09-02T22:30:00Z"
     },
     {
+      "id": "col.copa-2026-09-09-am-rica-de-cali-deportivo-pereira",
+      "weekend": "2026-09-09",
+      "name": "Am\u00e9rica de Cali v Deportivo Pereira",
+      "utc": "2026-09-09T23:00:00Z"
+    },
+    {
       "id": "col.copa-2026-09-09-deportivo-pereira-am-rica-de-cali",
       "weekend": "2026-09-09",
       "name": "Deportivo Pereira v Am\u00e9rica de Cali",
       "utc": "2026-09-09T23:00:00Z"
-    },
-    {
-      "id": "col.copa-2026-09-16-am-rica-de-cali-deportivo-pereira",
-      "weekend": "2026-09-16",
-      "name": "Am\u00e9rica de Cali v Deportivo Pereira",
-      "utc": "2026-09-16T01:00:00Z"
     },
     {
       "id": "col.copa-2026-09-30-barranquilla-fc-millonarios",

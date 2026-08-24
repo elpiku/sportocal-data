@@ -1,27 +1,9 @@
 {
   "sportKey": "soccer-col.1",
   "leagueName": "Colombian Primera A",
-  "windowFrom": "20260809",
-  "windowTo": "20270520",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
   "events": [
-    {
-      "id": "col.1-2026-08-09-alianza-fc-atl-tico-bucaramanga",
-      "weekend": "2026-08-09",
-      "name": "Alianza FC v Atl\u00e9tico Bucaramanga",
-      "utc": "2026-08-09T21:05:00Z"
-    },
-    {
-      "id": "col.1-2026-08-09-jaguares-de-c-rdoba-once-caldas",
-      "weekend": "2026-08-09",
-      "name": "Jaguares de C\u00f3rdoba v Once Caldas",
-      "utc": "2026-08-09T23:10:00Z"
-    },
-    {
-      "id": "col.1-2026-08-10-am-rica-de-cali-atl-tico-nacional",
-      "weekend": "2026-08-10",
-      "name": "Am\u00e9rica de Cali v Atl\u00e9tico Nacional",
-      "utc": "2026-08-10T01:15:00Z"
-    },
     {
       "id": "col.1-2026-08-10-independiente-medell-n-millonarios",
       "weekend": "2026-08-10",
@@ -377,12 +359,6 @@
       "utc": "2026-09-12T23:10:00Z"
     },
     {
-      "id": "col.1-2026-09-13-am-rica-de-cali-deportivo-pasto",
-      "weekend": "2026-09-13",
-      "name": "Am\u00e9rica de Cali v Deportivo Pasto",
-      "utc": "2026-09-13T01:15:00Z"
-    },
-    {
       "id": "col.1-2026-09-13-independiente-santa-fe-deportes-tolima",
       "weekend": "2026-09-13",
       "name": "Independiente Santa Fe v Deportes Tolima",
@@ -405,6 +381,12 @@
       "weekend": "2026-09-14",
       "name": "C\u00facuta Deportivo v Millonarios",
       "utc": "2026-09-14T01:15:00Z"
+    },
+    {
+      "id": "col.1-2026-09-15-am-rica-de-cali-deportivo-pasto",
+      "weekend": "2026-09-15",
+      "name": "Am\u00e9rica de Cali v Deportivo Pasto",
+      "utc": "2026-09-15T01:00:00Z"
     },
     {
       "id": "col.1-2026-09-15-boyac-chic-fc-alianza-fc",
