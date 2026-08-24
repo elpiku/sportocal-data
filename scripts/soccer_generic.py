@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 Targeted Soccer Scraper for sportocal-data.
-Fetches only curated top-tier leagues, secondary divisions, major continental tournaments,
-national cups, and premier women's competitions. Filters out low-event friendlies,
-college athletics (NCAA), and preliminary qualifiers.
+Fetches only curated Top-Tier leagues, popular Secondary Divisions,
+Major Continental/International tournaments, Primary Domestic Cups,
+and Top Women's competitions.
 """
 
 import json
@@ -18,89 +18,90 @@ from espn_soccer_common import build_events, fetch_league_name  # noqa: E402
 PAST_DAYS = 14
 FUTURE_DAYS = 270
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "football" / "espn-all"
-MIN_EVENTS_THRESHOLD = 15  # Drops single-match exhibitions and dead feeds
+MIN_EVENTS_THRESHOLD = 5
 
-# Targeted catalog mapped by category for maintenance clarity
+# Curated catalog: Top Tier, Tier 2, Major Cups, Continental, & Women's
 TARGET_LEAGUES = {
-    # Tier 1 Global Core
+    # Tier 1 Domestic Leagues (excluding PL, La Liga, Serie A, Bundesliga, MLS which have standalone scripts)
     "fra.1": "Ligue 1",
-    "bra.1": "Brasileirão Série A",
+    "bra.1": "Brasileirao Serie A",
     "mex.1": "Liga MX",
     "por.1": "Primeira Liga",
     "ned.1": "Eredivisie",
     "ksa.1": "Saudi Pro League",
-    "tur.1": "Süper Lig",
-    "arg.1": "Argentine Primera División",
+    "tur.1": "Super Lig",
+    "arg.1": "Argentine Primera Division",
     "sco.1": "Scottish Premiership",
     "bel.1": "Belgian Pro League",
     "jpn.1": "J1 League",
-    "col.1": "Categoría Primera A",
-    "gre.1": "Greek Super League",
-    "aut.1": "Austrian Bundesliga",
-    "den.1": "Danish Superliga",
-    "nor.1": "Norwegian Eliteserien",
-    "swe.1": "Swedish Allsvenskan",
-    "chn.1": "Chinese Super League",
-    
-    # Tier 2 Popular Divisions
+
+    # Tier 2 Popular Leagues
     "eng.2": "EFL Championship",
     "ger.2": "2. Bundesliga",
     "esp.2": "LaLiga 2",
     "fra.2": "Ligue 2",
     "ita.2": "Serie B",
     "ned.2": "Eerste Divisie",
-    "bra.2": "Série B (Brazil)",
-    "usa.usl.1": "USL Championship",
-    
-    # Major Domestic Cups
-    "eng.fa": "FA Cup",
-    "eng.league_cup": "Carabao Cup",
-    "esp.copa_del_rey": "Copa del Rey",
-    "ita.coppa_italia": "Coppa Italia",
-    "ger.dfb_pokal": "DFB-Pokal",
-    "ned.cup": "KNVB Beker",
-    "por.taca.portugal": "Taça de Portugal",
-    "bra.copa_do_brazil": "Copa do Brasil",
-    "arg.copa": "Copa Argentina",
-    "usa.open": "U.S. Open Cup",
-    "ksa.kings.cup": "Saudi King's Cup",
+    "bra.2": "Serie B (Brazil)",
 
-    # Continental & International Tournaments
+    # Major Continental & International Tournaments
     "uefa.champions": "UEFA Champions League",
     "uefa.europa": "UEFA Europa League",
     "uefa.europa.conf": "UEFA Conference League",
     "conmebol.libertadores": "Copa Libertadores",
     "conmebol.sudamericana": "Copa Sudamericana",
     "caf.champions": "CAF Champions League",
-    "caf.confed": "CAF Confederation Cup",
     "afc.champions": "AFC Champions League Elite",
-    "afc.cup": "AFC Champions League Two",
     "uefa.nations": "UEFA Nations League",
     "concacaf.nations.league": "CONCACAF Nations League",
-    "concacaf.central.american.cup": "CONCACAF Central American Cup",
     "fifa.worldq.uefa": "FIFA World Cup Qualifiers - UEFA",
     "fifa.worldq.conmebol": "FIFA World Cup Qualifiers - CONMEBOL",
 
-    # Top Women's Football
+    # Primary Domestic Cups
+    "eng.fa": "FA Cup",
+    "eng.league_cup": "Carabao Cup",
+    "esp.copa_del_rey": "Copa del Rey",
+    "ita.coppa_italia": "Coppa Italia",
+    "ger.dfb_pokal": "DFB-Pokal",
+    "ned.cup": "KNVB Beker",
+    "por.taca.portugal": "Taca de Portugal",
+    "bra.copa_do_brazil": "Copa do Brasil",
+    "arg.copa": "Copa Argentina",
+    "usa.open": "U.S. Open Cup",
+    "fra.coupe_de_france": "Coupe de France",
+
+    # Top Women's Leagues & Competitions
     "usa.nwsl": "NWSL",
     "eng.w.1": "Barclays Women's Super League",
     "esp.w.1": "Liga F",
-    "fra.w.1": "Première Ligue",
-    "ned.w.1": "Vrouwen Eredivisie",
-    "aus.w.1": "A-League Women",
-    "can.w.nsl": "Northern Super League",
-    "usa.w.usl.1": "USL Super League",
+    "fra.w.1": "Premiere Ligue",
+    "ger.w.1": "Frauen-Bundesliga",
     "uefa.wchampions": "UEFA Women's Champions League",
 }
 
-# Exclusion rules for automated sanity checks
-BLOCKED_KEYWORDS = (".ncaa.", "_qual", "friendly", "supercopa", ".u20", "trophy", "challenge")
+# Slugs covered by their own curated scripts
+CURATED_ELSEWHERE = {"eng.1", "esp.1", "ger.1", "ita.1", "usa.1"}
+
+# Strict keyword filters
+BLOCKED_KEYWORDS = (
+    ".ncaa.",
+    "_qual",
+    "friendly",
+    "supercopa",
+    "super_cup",
+    ".u20",
+    ".u17",
+    "trophy",
+    "challenge",
+    "charity",
+)
 
 def is_valid_slug(slug: str) -> bool:
-    """Verifies slug belongs to the target set and passes blacklist checks."""
+    if slug in CURATED_ELSEWHERE:
+        return False
     if slug not in TARGET_LEAGUES:
         return False
-    if any(keyword in slug.lower() for keyword in BLOCKED_KEYWORDS):
+    if any(kw in slug.lower() for kw in BLOCKED_KEYWORDS):
         return False
     return True
 
@@ -110,7 +111,6 @@ def main():
     date_to = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y%m%d")
 
     print(f"Scraping {len(TARGET_LEAGUES)} targeted leagues ({date_from} to {date_to})...", file=sys.stderr)
-
     written = 0
     skipped = 0
 
@@ -121,6 +121,7 @@ def main():
         print(f"Fetching: {preferred_name} [{slug}]", file=sys.stderr)
         try:
             events = build_events(
+                sport="soccer",
                 league_slug=slug,
                 id_prefix=slug,
                 sport_key=f"soccer-{slug}",
@@ -132,12 +133,11 @@ def main():
             continue
 
         if len(events) < MIN_EVENTS_THRESHOLD:
-            print(f"  {slug}: only {len(events)} events (below {MIN_EVENTS_THRESHOLD}), skipping.", file=sys.stderr)
+            print(f"  {slug}: only {len(events)} events, skipping.", file=sys.stderr)
             skipped += 1
             continue
 
-        # Use clean curated name fallback if remote ESPN fetch is generic
-        league_name = fetch_league_name(slug)
+        league_name = fetch_league_name("soccer", slug)
         display_name = preferred_name if league_name == slug else league_name
 
         output_path = OUTPUT_DIR / f"{slug}.json"
