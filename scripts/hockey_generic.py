@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Targeted Ice Hockey Scraper for sportocal-data.
-Fetches top-tier professional leagues, women's hockey, and major international tournaments.
+Fetches the NHL, top-tier international tournaments, and women's hockey in one script.
 Outputs to hockey/espn-all/<slug>.json.
 """
 
@@ -21,21 +21,26 @@ OUTPUT_DIR = Path(__file__).resolve().parent.parent / "hockey" / "espn-all"
 MIN_EVENTS_THRESHOLD = 5
 
 TARGET_LEAGUES = {
-    "iihf": "IIHF World Championship",
+    # Core North American League
+    "nhl": "NHL",
+
+    # Women's Hockey
     "pwhl": "PWHL",
-    "khl": "KHL",
-    "swe.1": "Swedish Hockey League",
+
+    # International Tournaments
+    "iihf": "IIHF World Championship",
     "olympics": "Olympic Men's Ice Hockey",
     "olympics.w": "Olympic Women's Ice Hockey",
-}
 
-# Already handled by dedicated season script
-CURATED_ELSEWHERE = {"nhl"}
+    # Top European Leagues
+    "swe.1": "Swedish Hockey League",
+    "khl": "KHL",
+}
 
 BLOCKED_KEYWORDS = (".ncaa.", "friendly", "exhibition", ".u20", ".u18")
 
 def is_valid_slug(slug: str) -> bool:
-    if slug in CURATED_ELSEWHERE or slug not in TARGET_LEAGUES:
+    if slug not in TARGET_LEAGUES:
         return False
     return not any(kw in slug.lower() for kw in BLOCKED_KEYWORDS)
 
