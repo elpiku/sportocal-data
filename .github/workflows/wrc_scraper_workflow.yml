@@ -23,17 +23,21 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests beautifulsoup4
       
       - name: Run WRC scraper
         run: |
           python scripts/wrc_scraper.py
+
+      - name: Rebuild index.json
+        run: |
+          python scripts/build_index.py
       
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@github.com"
           git config --local user.name "github-actions[bot]"
-          git add motorsport/wrc/
+          git add motorsport/wrc/ index.json
           git diff --quiet && git diff --staged --quiet && exit 0
           git commit -m "Update WRC data $(date -u '+%Y-%m-%d %H:%M UTC')"
           for i in 1 2 3 4 5; do
