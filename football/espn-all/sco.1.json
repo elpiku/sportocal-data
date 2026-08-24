@@ -1,33 +1,9 @@
 {
   "sportKey": "soccer-sco.1",
   "leagueName": "Scottish Premiership",
-  "windowFrom": "20260809",
-  "windowTo": "20270520",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
   "events": [
-    {
-      "id": "sco.1-2026-08-09-kilmarnock-celtic",
-      "weekend": "2026-08-09",
-      "name": "Kilmarnock v Celtic",
-      "utc": "2026-08-09T12:30:00Z"
-    },
-    {
-      "id": "sco.1-2026-08-09-heart-of-midlothian-dundee-united",
-      "weekend": "2026-08-09",
-      "name": "Heart of Midlothian v Dundee United",
-      "utc": "2026-08-09T14:00:00Z"
-    },
-    {
-      "id": "sco.1-2026-08-09-motherwell-falkirk",
-      "weekend": "2026-08-09",
-      "name": "Motherwell v Falkirk",
-      "utc": "2026-08-09T14:00:00Z"
-    },
-    {
-      "id": "sco.1-2026-08-09-rangers-hibernian",
-      "weekend": "2026-08-09",
-      "name": "Rangers v Hibernian",
-      "utc": "2026-08-09T15:00:00Z"
-    },
     {
       "id": "sco.1-2026-08-22-rangers-st-mirren",
       "weekend": "2026-08-22",
