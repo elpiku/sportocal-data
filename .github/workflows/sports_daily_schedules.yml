@@ -1,0 +1,66 @@
+name: Daily Multi-Sport Schedules Scraper
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-all-sports:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 python-dateutil pytz pypdf
+
+      - name: Run American Football Scraper
+        run: python scripts/american_football_generic.py || true
+
+      - name: Run Baseball Scraper
+        run: python scripts/baseball_generic.py || true
+
+      - name: Run Basketball Scraper
+        run: python scripts/basketball_generic.py || true
+
+      - name: Run Hockey Scraper
+        run: python scripts/hockey_generic.py || true
+
+      - name: Run Soccer Generic Scraper
+        run: python scripts/soccer_generic.py || true
+
+      - name: Run MMA Scraper
+        run: python scripts/mma_generic.py || true
+
+      - name: Run Rugby Scraper
+        run: python scripts/rugby_generic.py || true
+
+      - name: Run Cricket Scraper
+        run: python scripts/cricket_generic.py || true
+
+      - name: Run Australian Rules Football Scraper
+        run: python scripts/australian_football_generic.py || true
+
+      - name: Rebuild index.json
+        run: python scripts/build_index.py
+
+      - name: Commit and push updated schedules
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add american-football/ baseball/ basketball/ hockey/ football/ mma/ rugby/ cricket/ australian-football/ index.json
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore(schedules): update daily multi-sport schedules and index.json"
+            git push origin main
+          fi

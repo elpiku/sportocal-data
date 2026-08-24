@@ -1,0 +1,1796 @@
+{
+  "sportKey": "soccer-por.1",
+  "leagueName": "Portuguese Primeira Liga",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "por.1-2026-08-10-santa-clara-c-d-nacional",
+      "weekend": "2026-08-10",
+      "name": "Santa Clara v C.D. Nacional",
+      "utc": "2026-08-10T19:15:00Z"
+    },
+    {
+      "id": "por.1-2026-08-14-sporting-cp-vit-ria-de-guimaraes",
+      "weekend": "2026-08-14",
+      "name": "Sporting CP v Vit\u00f3ria de Guimaraes",
+      "utc": "2026-08-14T19:15:00Z"
+    },
+    {
+      "id": "por.1-2026-08-15-alverca-estrela",
+      "weekend": "2026-08-15",
+      "name": "Alverca v Estrela",
+      "utc": "2026-08-15T14:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-15-acad-mico-de-viseu-santa-clara",
+      "weekend": "2026-08-15",
+      "name": "Acad\u00e9mico de Viseu v Santa Clara",
+      "utc": "2026-08-15T17:00:00Z"
+    },
+    {
+      "id": "por.1-2026-08-15-rio-ave-fc-porto",
+      "weekend": "2026-08-15",
+      "name": "Rio Ave v FC Porto",
+      "utc": "2026-08-15T19:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-16-c-d-nacional-estoril",
+      "weekend": "2026-08-16",
+      "name": "C.D. Nacional v Estoril",
+      "utc": "2026-08-16T14:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-16-arouca-moreirense",
+      "weekend": "2026-08-16",
+      "name": "Arouca v Moreirense",
+      "utc": "2026-08-16T17:00:00Z"
+    },
+    {
+      "id": "por.1-2026-08-16-braga-gil-vicente",
+      "weekend": "2026-08-16",
+      "name": "Braga v Gil Vicente",
+      "utc": "2026-08-16T19:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-16-fc-famalicao-maritimo",
+      "weekend": "2026-08-16",
+      "name": "FC Famalicao v Maritimo",
+      "utc": "2026-08-16T19:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-17-casa-pia-benfica",
+      "weekend": "2026-08-17",
+      "name": "Casa Pia v Benfica",
+      "utc": "2026-08-17T19:15:00Z"
+    },
+    {
+      "id": "por.1-2026-08-22-maritimo-acad-mico-de-viseu",
+      "weekend": "2026-08-22",
+      "name": "Maritimo v Acad\u00e9mico de Viseu",
+      "utc": "2026-08-22T14:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-22-estoril-rio-ave",
+      "weekend": "2026-08-22",
+      "name": "Estoril v Rio Ave",
+      "utc": "2026-08-22T17:00:00Z"
+    },
+    {
+      "id": "por.1-2026-08-22-sporting-cp-alverca",
+      "weekend": "2026-08-22",
+      "name": "Sporting CP v Alverca",
+      "utc": "2026-08-22T19:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-23-vit-ria-de-guimaraes-c-d-nacional",
+      "weekend": "2026-08-23",
+      "name": "Vit\u00f3ria de Guimaraes v C.D. Nacional",
+      "utc": "2026-08-23T14:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-23-santa-clara-fc-famalicao",
+      "weekend": "2026-08-23",
+      "name": "Santa Clara v FC Famalicao",
+      "utc": "2026-08-23T17:00:00Z"
+    },
+    {
+      "id": "por.1-2026-08-23-fc-porto-arouca",
+      "weekend": "2026-08-23",
+      "name": "FC Porto v Arouca",
+      "utc": "2026-08-23T19:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-24-gil-vicente-casa-pia",
+      "weekend": "2026-08-24",
+      "name": "Gil Vicente v Casa Pia",
+      "utc": "2026-08-24T19:15:00Z"
+    },
+    {
+      "id": "por.1-2026-08-28-rio-ave-sporting-cp",
+      "weekend": "2026-08-28",
+      "name": "Rio Ave v Sporting CP",
+      "utc": "2026-08-28T19:15:00Z"
+    },
+    {
+      "id": "por.1-2026-08-29-alverca-santa-clara",
+      "weekend": "2026-08-29",
+      "name": "Alverca v Santa Clara",
+      "utc": "2026-08-29T14:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-29-arouca-maritimo",
+      "weekend": "2026-08-29",
+      "name": "Arouca v Maritimo",
+      "utc": "2026-08-29T14:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-29-acad-mico-de-viseu-fc-porto",
+      "weekend": "2026-08-29",
+      "name": "Acad\u00e9mico de Viseu v FC Porto",
+      "utc": "2026-08-29T17:00:00Z"
+    },
+    {
+      "id": "por.1-2026-08-30-c-d-nacional-estrela",
+      "weekend": "2026-08-30",
+      "name": "C.D. Nacional v Estrela",
+      "utc": "2026-08-30T14:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-30-casa-pia-moreirense",
+      "weekend": "2026-08-30",
+      "name": "Casa Pia v Moreirense",
+      "utc": "2026-08-30T17:00:00Z"
+    },
+    {
+      "id": "por.1-2026-08-30-fc-famalicao-gil-vicente",
+      "weekend": "2026-08-30",
+      "name": "FC Famalicao v Gil Vicente",
+      "utc": "2026-08-30T19:30:00Z"
+    },
+    {
+      "id": "por.1-2026-08-31-benfica-estoril",
+      "weekend": "2026-08-31",
+      "name": "Benfica v Estoril",
+      "utc": "2026-08-31T19:15:00Z"
+    },
+    {
+      "id": "por.1-2026-08-31-braga-vit-ria-de-guimaraes",
+      "weekend": "2026-08-31",
+      "name": "Braga v Vit\u00f3ria de Guimaraes",
+      "utc": "2026-08-31T19:15:00Z"
+    },
+    {
+      "id": "por.1-2026-09-06-alverca-braga",
+      "weekend": "2026-09-06",
+      "name": "Alverca v Braga",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-06-estoril-arouca",
+      "weekend": "2026-09-06",
+      "name": "Estoril v Arouca",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-06-estrela-fc-famalicao",
+      "weekend": "2026-09-06",
+      "name": "Estrela v FC Famalicao",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-06-fc-porto-moreirense",
+      "weekend": "2026-09-06",
+      "name": "FC Porto v Moreirense",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-06-gil-vicente-acad-mico-de-viseu",
+      "weekend": "2026-09-06",
+      "name": "Gil Vicente v Acad\u00e9mico de Viseu",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-06-maritimo-benfica",
+      "weekend": "2026-09-06",
+      "name": "Maritimo v Benfica",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-06-santa-clara-rio-ave",
+      "weekend": "2026-09-06",
+      "name": "Santa Clara v Rio Ave",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-06-sporting-cp-c-d-nacional",
+      "weekend": "2026-09-06",
+      "name": "Sporting CP v C.D. Nacional",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-06-vit-ria-de-guimaraes-casa-pia",
+      "weekend": "2026-09-06",
+      "name": "Vit\u00f3ria de Guimaraes v Casa Pia",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-09-moreirense-benfica",
+      "weekend": "2026-09-09",
+      "name": "Moreirense v Benfica",
+      "utc": "2026-09-09T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-10-estrela-braga",
+      "weekend": "2026-09-10",
+      "name": "Estrela v Braga",
+      "utc": "2026-09-10T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-13-acad-mico-de-viseu-vit-ria-de-guimaraes",
+      "weekend": "2026-09-13",
+      "name": "Acad\u00e9mico de Viseu v Vit\u00f3ria de Guimaraes",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-13-arouca-santa-clara",
+      "weekend": "2026-09-13",
+      "name": "Arouca v Santa Clara",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-13-benfica-gil-vicente",
+      "weekend": "2026-09-13",
+      "name": "Benfica v Gil Vicente",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-13-braga-estoril",
+      "weekend": "2026-09-13",
+      "name": "Braga v Estoril",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-13-c-d-nacional-alverca",
+      "weekend": "2026-09-13",
+      "name": "C.D. Nacional v Alverca",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-13-casa-pia-fc-porto",
+      "weekend": "2026-09-13",
+      "name": "Casa Pia v FC Porto",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-13-fc-famalicao-sporting-cp",
+      "weekend": "2026-09-13",
+      "name": "FC Famalicao v Sporting CP",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-13-moreirense-maritimo",
+      "weekend": "2026-09-13",
+      "name": "Moreirense v Maritimo",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-13-rio-ave-estrela",
+      "weekend": "2026-09-13",
+      "name": "Rio Ave v Estrela",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-20-alverca-rio-ave",
+      "weekend": "2026-09-20",
+      "name": "Alverca v Rio Ave",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-20-c-d-nacional-fc-famalicao",
+      "weekend": "2026-09-20",
+      "name": "C.D. Nacional v FC Famalicao",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-20-estoril-casa-pia",
+      "weekend": "2026-09-20",
+      "name": "Estoril v Casa Pia",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-20-estrela-acad-mico-de-viseu",
+      "weekend": "2026-09-20",
+      "name": "Estrela v Acad\u00e9mico de Viseu",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-20-fc-porto-benfica",
+      "weekend": "2026-09-20",
+      "name": "FC Porto v Benfica",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-20-gil-vicente-maritimo",
+      "weekend": "2026-09-20",
+      "name": "Gil Vicente v Maritimo",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-20-santa-clara-braga",
+      "weekend": "2026-09-20",
+      "name": "Santa Clara v Braga",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-20-sporting-cp-arouca",
+      "weekend": "2026-09-20",
+      "name": "Sporting CP v Arouca",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-09-20-vit-ria-de-guimaraes-moreirense",
+      "weekend": "2026-09-20",
+      "name": "Vit\u00f3ria de Guimaraes v Moreirense",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-11-acad-mico-de-viseu-estoril",
+      "weekend": "2026-10-11",
+      "name": "Acad\u00e9mico de Viseu v Estoril",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-11-arouca-estrela",
+      "weekend": "2026-10-11",
+      "name": "Arouca v Estrela",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-11-benfica-vit-ria-de-guimaraes",
+      "weekend": "2026-10-11",
+      "name": "Benfica v Vit\u00f3ria de Guimaraes",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-11-braga-sporting-cp",
+      "weekend": "2026-10-11",
+      "name": "Braga v Sporting CP",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-11-casa-pia-santa-clara",
+      "weekend": "2026-10-11",
+      "name": "Casa Pia v Santa Clara",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-11-fc-famalicao-alverca",
+      "weekend": "2026-10-11",
+      "name": "FC Famalicao v Alverca",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-11-maritimo-fc-porto",
+      "weekend": "2026-10-11",
+      "name": "Maritimo v FC Porto",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-11-moreirense-gil-vicente",
+      "weekend": "2026-10-11",
+      "name": "Moreirense v Gil Vicente",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-11-rio-ave-c-d-nacional",
+      "weekend": "2026-10-11",
+      "name": "Rio Ave v C.D. Nacional",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-25-alverca-arouca",
+      "weekend": "2026-10-25",
+      "name": "Alverca v Arouca",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-25-c-d-nacional-braga",
+      "weekend": "2026-10-25",
+      "name": "C.D. Nacional v Braga",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-25-estoril-moreirense",
+      "weekend": "2026-10-25",
+      "name": "Estoril v Moreirense",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-25-estrela-casa-pia",
+      "weekend": "2026-10-25",
+      "name": "Estrela v Casa Pia",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-25-gil-vicente-fc-porto",
+      "weekend": "2026-10-25",
+      "name": "Gil Vicente v FC Porto",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-25-rio-ave-fc-famalicao",
+      "weekend": "2026-10-25",
+      "name": "Rio Ave v FC Famalicao",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-25-santa-clara-benfica",
+      "weekend": "2026-10-25",
+      "name": "Santa Clara v Benfica",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-25-sporting-cp-acad-mico-de-viseu",
+      "weekend": "2026-10-25",
+      "name": "Sporting CP v Acad\u00e9mico de Viseu",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-10-25-vit-ria-de-guimaraes-maritimo",
+      "weekend": "2026-10-25",
+      "name": "Vit\u00f3ria de Guimaraes v Maritimo",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-01-acad-mico-de-viseu-rio-ave",
+      "weekend": "2026-11-01",
+      "name": "Acad\u00e9mico de Viseu v Rio Ave",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-01-arouca-c-d-nacional",
+      "weekend": "2026-11-01",
+      "name": "Arouca v C.D. Nacional",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-01-benfica-alverca",
+      "weekend": "2026-11-01",
+      "name": "Benfica v Alverca",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-01-braga-fc-famalicao",
+      "weekend": "2026-11-01",
+      "name": "Braga v FC Famalicao",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-01-casa-pia-sporting-cp",
+      "weekend": "2026-11-01",
+      "name": "Casa Pia v Sporting CP",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-01-fc-porto-estoril",
+      "weekend": "2026-11-01",
+      "name": "FC Porto v Estoril",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-01-gil-vicente-vit-ria-de-guimaraes",
+      "weekend": "2026-11-01",
+      "name": "Gil Vicente v Vit\u00f3ria de Guimaraes",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-01-maritimo-santa-clara",
+      "weekend": "2026-11-01",
+      "name": "Maritimo v Santa Clara",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-01-moreirense-estrela",
+      "weekend": "2026-11-01",
+      "name": "Moreirense v Estrela",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-08-alverca-casa-pia",
+      "weekend": "2026-11-08",
+      "name": "Alverca v Casa Pia",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-08-c-d-nacional-acad-mico-de-viseu",
+      "weekend": "2026-11-08",
+      "name": "C.D. Nacional v Acad\u00e9mico de Viseu",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-08-estoril-maritimo",
+      "weekend": "2026-11-08",
+      "name": "Estoril v Maritimo",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-08-estrela-benfica",
+      "weekend": "2026-11-08",
+      "name": "Estrela v Benfica",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-08-fc-famalicao-arouca",
+      "weekend": "2026-11-08",
+      "name": "FC Famalicao v Arouca",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-08-rio-ave-braga",
+      "weekend": "2026-11-08",
+      "name": "Rio Ave v Braga",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-08-santa-clara-gil-vicente",
+      "weekend": "2026-11-08",
+      "name": "Santa Clara v Gil Vicente",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-08-sporting-cp-moreirense",
+      "weekend": "2026-11-08",
+      "name": "Sporting CP v Moreirense",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-08-vit-ria-de-guimaraes-fc-porto",
+      "weekend": "2026-11-08",
+      "name": "Vit\u00f3ria de Guimaraes v FC Porto",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-29-acad-mico-de-viseu-alverca",
+      "weekend": "2026-11-29",
+      "name": "Acad\u00e9mico de Viseu v Alverca",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-29-arouca-rio-ave",
+      "weekend": "2026-11-29",
+      "name": "Arouca v Rio Ave",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-29-benfica-fc-famalicao",
+      "weekend": "2026-11-29",
+      "name": "Benfica v FC Famalicao",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-29-casa-pia-braga",
+      "weekend": "2026-11-29",
+      "name": "Casa Pia v Braga",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-29-fc-porto-sporting-cp",
+      "weekend": "2026-11-29",
+      "name": "FC Porto v Sporting CP",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-29-gil-vicente-estoril",
+      "weekend": "2026-11-29",
+      "name": "Gil Vicente v Estoril",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-29-maritimo-c-d-nacional",
+      "weekend": "2026-11-29",
+      "name": "Maritimo v C.D. Nacional",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-29-moreirense-santa-clara",
+      "weekend": "2026-11-29",
+      "name": "Moreirense v Santa Clara",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-11-29-vit-ria-de-guimaraes-estrela",
+      "weekend": "2026-11-29",
+      "name": "Vit\u00f3ria de Guimaraes v Estrela",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-06-alverca-moreirense",
+      "weekend": "2026-12-06",
+      "name": "Alverca v Moreirense",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-06-braga-arouca",
+      "weekend": "2026-12-06",
+      "name": "Braga v Arouca",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-06-c-d-nacional-benfica",
+      "weekend": "2026-12-06",
+      "name": "C.D. Nacional v Benfica",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-06-estoril-vit-ria-de-guimaraes",
+      "weekend": "2026-12-06",
+      "name": "Estoril v Vit\u00f3ria de Guimaraes",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-06-estrela-gil-vicente",
+      "weekend": "2026-12-06",
+      "name": "Estrela v Gil Vicente",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-06-fc-famalicao-acad-mico-de-viseu",
+      "weekend": "2026-12-06",
+      "name": "FC Famalicao v Acad\u00e9mico de Viseu",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-06-rio-ave-casa-pia",
+      "weekend": "2026-12-06",
+      "name": "Rio Ave v Casa Pia",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-06-santa-clara-fc-porto",
+      "weekend": "2026-12-06",
+      "name": "Santa Clara v FC Porto",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-06-sporting-cp-maritimo",
+      "weekend": "2026-12-06",
+      "name": "Sporting CP v Maritimo",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-13-acad-mico-de-viseu-arouca",
+      "weekend": "2026-12-13",
+      "name": "Acad\u00e9mico de Viseu v Arouca",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-13-benfica-braga",
+      "weekend": "2026-12-13",
+      "name": "Benfica v Braga",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-13-casa-pia-c-d-nacional",
+      "weekend": "2026-12-13",
+      "name": "Casa Pia v C.D. Nacional",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-13-estoril-santa-clara",
+      "weekend": "2026-12-13",
+      "name": "Estoril v Santa Clara",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-13-fc-porto-estrela",
+      "weekend": "2026-12-13",
+      "name": "FC Porto v Estrela",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-13-gil-vicente-sporting-cp",
+      "weekend": "2026-12-13",
+      "name": "Gil Vicente v Sporting CP",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-13-maritimo-rio-ave",
+      "weekend": "2026-12-13",
+      "name": "Maritimo v Rio Ave",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-13-moreirense-fc-famalicao",
+      "weekend": "2026-12-13",
+      "name": "Moreirense v FC Famalicao",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-13-vit-ria-de-guimaraes-alverca",
+      "weekend": "2026-12-13",
+      "name": "Vit\u00f3ria de Guimaraes v Alverca",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-20-alverca-gil-vicente",
+      "weekend": "2026-12-20",
+      "name": "Alverca v Gil Vicente",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-20-arouca-casa-pia",
+      "weekend": "2026-12-20",
+      "name": "Arouca v Casa Pia",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-20-braga-acad-mico-de-viseu",
+      "weekend": "2026-12-20",
+      "name": "Braga v Acad\u00e9mico de Viseu",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-20-c-d-nacional-moreirense",
+      "weekend": "2026-12-20",
+      "name": "C.D. Nacional v Moreirense",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-20-estrela-maritimo",
+      "weekend": "2026-12-20",
+      "name": "Estrela v Maritimo",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-20-fc-famalicao-fc-porto",
+      "weekend": "2026-12-20",
+      "name": "FC Famalicao v FC Porto",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-20-rio-ave-benfica",
+      "weekend": "2026-12-20",
+      "name": "Rio Ave v Benfica",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-20-santa-clara-vit-ria-de-guimaraes",
+      "weekend": "2026-12-20",
+      "name": "Santa Clara v Vit\u00f3ria de Guimaraes",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-20-sporting-cp-estoril",
+      "weekend": "2026-12-20",
+      "name": "Sporting CP v Estoril",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-27-benfica-sporting-cp",
+      "weekend": "2026-12-27",
+      "name": "Benfica v Sporting CP",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-27-casa-pia-fc-famalicao",
+      "weekend": "2026-12-27",
+      "name": "Casa Pia v FC Famalicao",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-27-estoril-alverca",
+      "weekend": "2026-12-27",
+      "name": "Estoril v Alverca",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-27-fc-porto-c-d-nacional",
+      "weekend": "2026-12-27",
+      "name": "FC Porto v C.D. Nacional",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-27-gil-vicente-arouca",
+      "weekend": "2026-12-27",
+      "name": "Gil Vicente v Arouca",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-27-maritimo-braga",
+      "weekend": "2026-12-27",
+      "name": "Maritimo v Braga",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-27-moreirense-acad-mico-de-viseu",
+      "weekend": "2026-12-27",
+      "name": "Moreirense v Acad\u00e9mico de Viseu",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-27-santa-clara-estrela",
+      "weekend": "2026-12-27",
+      "name": "Santa Clara v Estrela",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "por.1-2026-12-27-vit-ria-de-guimaraes-rio-ave",
+      "weekend": "2026-12-27",
+      "name": "Vit\u00f3ria de Guimaraes v Rio Ave",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-10-acad-mico-de-viseu-casa-pia",
+      "weekend": "2027-01-10",
+      "name": "Acad\u00e9mico de Viseu v Casa Pia",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-10-alverca-maritimo",
+      "weekend": "2027-01-10",
+      "name": "Alverca v Maritimo",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-10-arouca-benfica",
+      "weekend": "2027-01-10",
+      "name": "Arouca v Benfica",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-10-braga-fc-porto",
+      "weekend": "2027-01-10",
+      "name": "Braga v FC Porto",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-10-c-d-nacional-gil-vicente",
+      "weekend": "2027-01-10",
+      "name": "C.D. Nacional v Gil Vicente",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-10-estrela-estoril",
+      "weekend": "2027-01-10",
+      "name": "Estrela v Estoril",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-10-fc-famalicao-vit-ria-de-guimaraes",
+      "weekend": "2027-01-10",
+      "name": "FC Famalicao v Vit\u00f3ria de Guimaraes",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-10-rio-ave-moreirense",
+      "weekend": "2027-01-10",
+      "name": "Rio Ave v Moreirense",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-10-sporting-cp-santa-clara",
+      "weekend": "2027-01-10",
+      "name": "Sporting CP v Santa Clara",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-17-acad-mico-de-viseu-benfica",
+      "weekend": "2027-01-17",
+      "name": "Acad\u00e9mico de Viseu v Benfica",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-17-alverca-fc-porto",
+      "weekend": "2027-01-17",
+      "name": "Alverca v FC Porto",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-17-arouca-vit-ria-de-guimaraes",
+      "weekend": "2027-01-17",
+      "name": "Arouca v Vit\u00f3ria de Guimaraes",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-17-braga-moreirense",
+      "weekend": "2027-01-17",
+      "name": "Braga v Moreirense",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-17-c-d-nacional-santa-clara",
+      "weekend": "2027-01-17",
+      "name": "C.D. Nacional v Santa Clara",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-17-casa-pia-maritimo",
+      "weekend": "2027-01-17",
+      "name": "Casa Pia v Maritimo",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-17-fc-famalicao-estoril",
+      "weekend": "2027-01-17",
+      "name": "FC Famalicao v Estoril",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-17-rio-ave-gil-vicente",
+      "weekend": "2027-01-17",
+      "name": "Rio Ave v Gil Vicente",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-17-sporting-cp-estrela",
+      "weekend": "2027-01-17",
+      "name": "Sporting CP v Estrela",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-24-benfica-casa-pia",
+      "weekend": "2027-01-24",
+      "name": "Benfica v Casa Pia",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-24-estoril-c-d-nacional",
+      "weekend": "2027-01-24",
+      "name": "Estoril v C.D. Nacional",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-24-estrela-alverca",
+      "weekend": "2027-01-24",
+      "name": "Estrela v Alverca",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-24-fc-porto-rio-ave",
+      "weekend": "2027-01-24",
+      "name": "FC Porto v Rio Ave",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-24-gil-vicente-braga",
+      "weekend": "2027-01-24",
+      "name": "Gil Vicente v Braga",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-24-maritimo-fc-famalicao",
+      "weekend": "2027-01-24",
+      "name": "Maritimo v FC Famalicao",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-24-moreirense-arouca",
+      "weekend": "2027-01-24",
+      "name": "Moreirense v Arouca",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-24-santa-clara-acad-mico-de-viseu",
+      "weekend": "2027-01-24",
+      "name": "Santa Clara v Acad\u00e9mico de Viseu",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-24-vit-ria-de-guimaraes-sporting-cp",
+      "weekend": "2027-01-24",
+      "name": "Vit\u00f3ria de Guimaraes v Sporting CP",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-31-acad-mico-de-viseu-maritimo",
+      "weekend": "2027-01-31",
+      "name": "Acad\u00e9mico de Viseu v Maritimo",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-31-alverca-sporting-cp",
+      "weekend": "2027-01-31",
+      "name": "Alverca v Sporting CP",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-31-arouca-fc-porto",
+      "weekend": "2027-01-31",
+      "name": "Arouca v FC Porto",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-31-benfica-moreirense",
+      "weekend": "2027-01-31",
+      "name": "Benfica v Moreirense",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-31-braga-estrela",
+      "weekend": "2027-01-31",
+      "name": "Braga v Estrela",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-31-c-d-nacional-vit-ria-de-guimaraes",
+      "weekend": "2027-01-31",
+      "name": "C.D. Nacional v Vit\u00f3ria de Guimaraes",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-31-casa-pia-gil-vicente",
+      "weekend": "2027-01-31",
+      "name": "Casa Pia v Gil Vicente",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-31-fc-famalicao-santa-clara",
+      "weekend": "2027-01-31",
+      "name": "FC Famalicao v Santa Clara",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-01-31-rio-ave-estoril",
+      "weekend": "2027-01-31",
+      "name": "Rio Ave v Estoril",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-07-estoril-benfica",
+      "weekend": "2027-02-07",
+      "name": "Estoril v Benfica",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-07-estrela-c-d-nacional",
+      "weekend": "2027-02-07",
+      "name": "Estrela v C.D. Nacional",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-07-fc-porto-acad-mico-de-viseu",
+      "weekend": "2027-02-07",
+      "name": "FC Porto v Acad\u00e9mico de Viseu",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-07-gil-vicente-fc-famalicao",
+      "weekend": "2027-02-07",
+      "name": "Gil Vicente v FC Famalicao",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-07-maritimo-arouca",
+      "weekend": "2027-02-07",
+      "name": "Maritimo v Arouca",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-07-moreirense-casa-pia",
+      "weekend": "2027-02-07",
+      "name": "Moreirense v Casa Pia",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-07-santa-clara-alverca",
+      "weekend": "2027-02-07",
+      "name": "Santa Clara v Alverca",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-07-sporting-cp-rio-ave",
+      "weekend": "2027-02-07",
+      "name": "Sporting CP v Rio Ave",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-07-vit-ria-de-guimaraes-braga",
+      "weekend": "2027-02-07",
+      "name": "Vit\u00f3ria de Guimaraes v Braga",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-14-acad-mico-de-viseu-gil-vicente",
+      "weekend": "2027-02-14",
+      "name": "Acad\u00e9mico de Viseu v Gil Vicente",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-14-arouca-estoril",
+      "weekend": "2027-02-14",
+      "name": "Arouca v Estoril",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-14-benfica-maritimo",
+      "weekend": "2027-02-14",
+      "name": "Benfica v Maritimo",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-14-braga-alverca",
+      "weekend": "2027-02-14",
+      "name": "Braga v Alverca",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-14-c-d-nacional-sporting-cp",
+      "weekend": "2027-02-14",
+      "name": "C.D. Nacional v Sporting CP",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-14-casa-pia-vit-ria-de-guimaraes",
+      "weekend": "2027-02-14",
+      "name": "Casa Pia v Vit\u00f3ria de Guimaraes",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-14-fc-famalicao-estrela",
+      "weekend": "2027-02-14",
+      "name": "FC Famalicao v Estrela",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-14-moreirense-fc-porto",
+      "weekend": "2027-02-14",
+      "name": "Moreirense v FC Porto",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-14-rio-ave-santa-clara",
+      "weekend": "2027-02-14",
+      "name": "Rio Ave v Santa Clara",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-21-alverca-c-d-nacional",
+      "weekend": "2027-02-21",
+      "name": "Alverca v C.D. Nacional",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-21-estoril-braga",
+      "weekend": "2027-02-21",
+      "name": "Estoril v Braga",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-21-estrela-rio-ave",
+      "weekend": "2027-02-21",
+      "name": "Estrela v Rio Ave",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-21-fc-porto-casa-pia",
+      "weekend": "2027-02-21",
+      "name": "FC Porto v Casa Pia",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-21-gil-vicente-benfica",
+      "weekend": "2027-02-21",
+      "name": "Gil Vicente v Benfica",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-21-maritimo-moreirense",
+      "weekend": "2027-02-21",
+      "name": "Maritimo v Moreirense",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-21-santa-clara-arouca",
+      "weekend": "2027-02-21",
+      "name": "Santa Clara v Arouca",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-21-sporting-cp-fc-famalicao",
+      "weekend": "2027-02-21",
+      "name": "Sporting CP v FC Famalicao",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-21-vit-ria-de-guimaraes-acad-mico-de-viseu",
+      "weekend": "2027-02-21",
+      "name": "Vit\u00f3ria de Guimaraes v Acad\u00e9mico de Viseu",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-28-acad-mico-de-viseu-estrela",
+      "weekend": "2027-02-28",
+      "name": "Acad\u00e9mico de Viseu v Estrela",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-28-arouca-sporting-cp",
+      "weekend": "2027-02-28",
+      "name": "Arouca v Sporting CP",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-28-benfica-fc-porto",
+      "weekend": "2027-02-28",
+      "name": "Benfica v FC Porto",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-28-braga-santa-clara",
+      "weekend": "2027-02-28",
+      "name": "Braga v Santa Clara",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-28-casa-pia-estoril",
+      "weekend": "2027-02-28",
+      "name": "Casa Pia v Estoril",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-28-fc-famalicao-c-d-nacional",
+      "weekend": "2027-02-28",
+      "name": "FC Famalicao v C.D. Nacional",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-28-maritimo-gil-vicente",
+      "weekend": "2027-02-28",
+      "name": "Maritimo v Gil Vicente",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-28-moreirense-vit-ria-de-guimaraes",
+      "weekend": "2027-02-28",
+      "name": "Moreirense v Vit\u00f3ria de Guimaraes",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-02-28-rio-ave-alverca",
+      "weekend": "2027-02-28",
+      "name": "Rio Ave v Alverca",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-07-alverca-fc-famalicao",
+      "weekend": "2027-03-07",
+      "name": "Alverca v FC Famalicao",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-07-c-d-nacional-rio-ave",
+      "weekend": "2027-03-07",
+      "name": "C.D. Nacional v Rio Ave",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-07-estoril-acad-mico-de-viseu",
+      "weekend": "2027-03-07",
+      "name": "Estoril v Acad\u00e9mico de Viseu",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-07-estrela-arouca",
+      "weekend": "2027-03-07",
+      "name": "Estrela v Arouca",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-07-fc-porto-maritimo",
+      "weekend": "2027-03-07",
+      "name": "FC Porto v Maritimo",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-07-gil-vicente-moreirense",
+      "weekend": "2027-03-07",
+      "name": "Gil Vicente v Moreirense",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-07-santa-clara-casa-pia",
+      "weekend": "2027-03-07",
+      "name": "Santa Clara v Casa Pia",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-07-sporting-cp-braga",
+      "weekend": "2027-03-07",
+      "name": "Sporting CP v Braga",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-07-vit-ria-de-guimaraes-benfica",
+      "weekend": "2027-03-07",
+      "name": "Vit\u00f3ria de Guimaraes v Benfica",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-14-acad-mico-de-viseu-sporting-cp",
+      "weekend": "2027-03-14",
+      "name": "Acad\u00e9mico de Viseu v Sporting CP",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-14-arouca-alverca",
+      "weekend": "2027-03-14",
+      "name": "Arouca v Alverca",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-14-benfica-santa-clara",
+      "weekend": "2027-03-14",
+      "name": "Benfica v Santa Clara",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-14-braga-c-d-nacional",
+      "weekend": "2027-03-14",
+      "name": "Braga v C.D. Nacional",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-14-casa-pia-estrela",
+      "weekend": "2027-03-14",
+      "name": "Casa Pia v Estrela",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-14-fc-famalicao-rio-ave",
+      "weekend": "2027-03-14",
+      "name": "FC Famalicao v Rio Ave",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-14-fc-porto-gil-vicente",
+      "weekend": "2027-03-14",
+      "name": "FC Porto v Gil Vicente",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-14-maritimo-vit-ria-de-guimaraes",
+      "weekend": "2027-03-14",
+      "name": "Maritimo v Vit\u00f3ria de Guimaraes",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-14-moreirense-estoril",
+      "weekend": "2027-03-14",
+      "name": "Moreirense v Estoril",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-21-alverca-benfica",
+      "weekend": "2027-03-21",
+      "name": "Alverca v Benfica",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-21-c-d-nacional-arouca",
+      "weekend": "2027-03-21",
+      "name": "C.D. Nacional v Arouca",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-21-estoril-fc-porto",
+      "weekend": "2027-03-21",
+      "name": "Estoril v FC Porto",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-21-estrela-moreirense",
+      "weekend": "2027-03-21",
+      "name": "Estrela v Moreirense",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-21-fc-famalicao-braga",
+      "weekend": "2027-03-21",
+      "name": "FC Famalicao v Braga",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-21-rio-ave-acad-mico-de-viseu",
+      "weekend": "2027-03-21",
+      "name": "Rio Ave v Acad\u00e9mico de Viseu",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-21-santa-clara-maritimo",
+      "weekend": "2027-03-21",
+      "name": "Santa Clara v Maritimo",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-21-sporting-cp-casa-pia",
+      "weekend": "2027-03-21",
+      "name": "Sporting CP v Casa Pia",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-03-21-vit-ria-de-guimaraes-gil-vicente",
+      "weekend": "2027-03-21",
+      "name": "Vit\u00f3ria de Guimaraes v Gil Vicente",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-04-acad-mico-de-viseu-c-d-nacional",
+      "weekend": "2027-04-04",
+      "name": "Acad\u00e9mico de Viseu v C.D. Nacional",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-04-arouca-fc-famalicao",
+      "weekend": "2027-04-04",
+      "name": "Arouca v FC Famalicao",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-04-benfica-estrela",
+      "weekend": "2027-04-04",
+      "name": "Benfica v Estrela",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-04-braga-rio-ave",
+      "weekend": "2027-04-04",
+      "name": "Braga v Rio Ave",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-04-casa-pia-alverca",
+      "weekend": "2027-04-04",
+      "name": "Casa Pia v Alverca",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-04-fc-porto-vit-ria-de-guimaraes",
+      "weekend": "2027-04-04",
+      "name": "FC Porto v Vit\u00f3ria de Guimaraes",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-04-gil-vicente-santa-clara",
+      "weekend": "2027-04-04",
+      "name": "Gil Vicente v Santa Clara",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-04-maritimo-estoril",
+      "weekend": "2027-04-04",
+      "name": "Maritimo v Estoril",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-04-moreirense-sporting-cp",
+      "weekend": "2027-04-04",
+      "name": "Moreirense v Sporting CP",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-11-alverca-acad-mico-de-viseu",
+      "weekend": "2027-04-11",
+      "name": "Alverca v Acad\u00e9mico de Viseu",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-11-braga-casa-pia",
+      "weekend": "2027-04-11",
+      "name": "Braga v Casa Pia",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-11-c-d-nacional-maritimo",
+      "weekend": "2027-04-11",
+      "name": "C.D. Nacional v Maritimo",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-11-estoril-gil-vicente",
+      "weekend": "2027-04-11",
+      "name": "Estoril v Gil Vicente",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-11-estrela-vit-ria-de-guimaraes",
+      "weekend": "2027-04-11",
+      "name": "Estrela v Vit\u00f3ria de Guimaraes",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-11-fc-famalicao-benfica",
+      "weekend": "2027-04-11",
+      "name": "FC Famalicao v Benfica",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-11-rio-ave-arouca",
+      "weekend": "2027-04-11",
+      "name": "Rio Ave v Arouca",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-11-santa-clara-moreirense",
+      "weekend": "2027-04-11",
+      "name": "Santa Clara v Moreirense",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-11-sporting-cp-fc-porto",
+      "weekend": "2027-04-11",
+      "name": "Sporting CP v FC Porto",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-18-acad-mico-de-viseu-fc-famalicao",
+      "weekend": "2027-04-18",
+      "name": "Acad\u00e9mico de Viseu v FC Famalicao",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-18-arouca-braga",
+      "weekend": "2027-04-18",
+      "name": "Arouca v Braga",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-18-benfica-c-d-nacional",
+      "weekend": "2027-04-18",
+      "name": "Benfica v C.D. Nacional",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-18-casa-pia-rio-ave",
+      "weekend": "2027-04-18",
+      "name": "Casa Pia v Rio Ave",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-18-fc-porto-santa-clara",
+      "weekend": "2027-04-18",
+      "name": "FC Porto v Santa Clara",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-18-gil-vicente-estrela",
+      "weekend": "2027-04-18",
+      "name": "Gil Vicente v Estrela",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-18-maritimo-sporting-cp",
+      "weekend": "2027-04-18",
+      "name": "Maritimo v Sporting CP",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-18-moreirense-alverca",
+      "weekend": "2027-04-18",
+      "name": "Moreirense v Alverca",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-18-vit-ria-de-guimaraes-estoril",
+      "weekend": "2027-04-18",
+      "name": "Vit\u00f3ria de Guimaraes v Estoril",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-25-alverca-vit-ria-de-guimaraes",
+      "weekend": "2027-04-25",
+      "name": "Alverca v Vit\u00f3ria de Guimaraes",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-25-arouca-acad-mico-de-viseu",
+      "weekend": "2027-04-25",
+      "name": "Arouca v Acad\u00e9mico de Viseu",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-25-braga-benfica",
+      "weekend": "2027-04-25",
+      "name": "Braga v Benfica",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-25-c-d-nacional-casa-pia",
+      "weekend": "2027-04-25",
+      "name": "C.D. Nacional v Casa Pia",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-25-estrela-fc-porto",
+      "weekend": "2027-04-25",
+      "name": "Estrela v FC Porto",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-25-fc-famalicao-moreirense",
+      "weekend": "2027-04-25",
+      "name": "FC Famalicao v Moreirense",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-25-rio-ave-maritimo",
+      "weekend": "2027-04-25",
+      "name": "Rio Ave v Maritimo",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-25-santa-clara-estoril",
+      "weekend": "2027-04-25",
+      "name": "Santa Clara v Estoril",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-04-25-sporting-cp-gil-vicente",
+      "weekend": "2027-04-25",
+      "name": "Sporting CP v Gil Vicente",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-02-acad-mico-de-viseu-braga",
+      "weekend": "2027-05-02",
+      "name": "Acad\u00e9mico de Viseu v Braga",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-02-benfica-rio-ave",
+      "weekend": "2027-05-02",
+      "name": "Benfica v Rio Ave",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-02-casa-pia-arouca",
+      "weekend": "2027-05-02",
+      "name": "Casa Pia v Arouca",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-02-estoril-sporting-cp",
+      "weekend": "2027-05-02",
+      "name": "Estoril v Sporting CP",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-02-fc-porto-fc-famalicao",
+      "weekend": "2027-05-02",
+      "name": "FC Porto v FC Famalicao",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-02-gil-vicente-alverca",
+      "weekend": "2027-05-02",
+      "name": "Gil Vicente v Alverca",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-02-maritimo-estrela",
+      "weekend": "2027-05-02",
+      "name": "Maritimo v Estrela",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-02-moreirense-c-d-nacional",
+      "weekend": "2027-05-02",
+      "name": "Moreirense v C.D. Nacional",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-02-vit-ria-de-guimaraes-santa-clara",
+      "weekend": "2027-05-02",
+      "name": "Vit\u00f3ria de Guimaraes v Santa Clara",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-09-acad-mico-de-viseu-moreirense",
+      "weekend": "2027-05-09",
+      "name": "Acad\u00e9mico de Viseu v Moreirense",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-09-alverca-estoril",
+      "weekend": "2027-05-09",
+      "name": "Alverca v Estoril",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-09-arouca-gil-vicente",
+      "weekend": "2027-05-09",
+      "name": "Arouca v Gil Vicente",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-09-braga-maritimo",
+      "weekend": "2027-05-09",
+      "name": "Braga v Maritimo",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-09-c-d-nacional-fc-porto",
+      "weekend": "2027-05-09",
+      "name": "C.D. Nacional v FC Porto",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-09-estrela-santa-clara",
+      "weekend": "2027-05-09",
+      "name": "Estrela v Santa Clara",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-09-fc-famalicao-casa-pia",
+      "weekend": "2027-05-09",
+      "name": "FC Famalicao v Casa Pia",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-09-rio-ave-vit-ria-de-guimaraes",
+      "weekend": "2027-05-09",
+      "name": "Rio Ave v Vit\u00f3ria de Guimaraes",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-09-sporting-cp-benfica",
+      "weekend": "2027-05-09",
+      "name": "Sporting CP v Benfica",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-16-benfica-arouca",
+      "weekend": "2027-05-16",
+      "name": "Benfica v Arouca",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-16-casa-pia-acad-mico-de-viseu",
+      "weekend": "2027-05-16",
+      "name": "Casa Pia v Acad\u00e9mico de Viseu",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-16-estoril-estrela",
+      "weekend": "2027-05-16",
+      "name": "Estoril v Estrela",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-16-fc-porto-braga",
+      "weekend": "2027-05-16",
+      "name": "FC Porto v Braga",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-16-gil-vicente-c-d-nacional",
+      "weekend": "2027-05-16",
+      "name": "Gil Vicente v C.D. Nacional",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-16-maritimo-alverca",
+      "weekend": "2027-05-16",
+      "name": "Maritimo v Alverca",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-16-moreirense-rio-ave",
+      "weekend": "2027-05-16",
+      "name": "Moreirense v Rio Ave",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-16-santa-clara-sporting-cp",
+      "weekend": "2027-05-16",
+      "name": "Santa Clara v Sporting CP",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "por.1-2027-05-16-vit-ria-de-guimaraes-fc-famalicao",
+      "weekend": "2027-05-16",
+      "name": "Vit\u00f3ria de Guimaraes v FC Famalicao",
+      "utc": "2027-05-16T18:00:00Z"
+    }
+  ]
+}

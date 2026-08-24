@@ -1,0 +1,1124 @@
+{
+  "sportKey": "soccer-sco.1",
+  "leagueName": "Scottish Premiership",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "sco.1-2026-08-22-rangers-st-mirren",
+      "weekend": "2026-08-22",
+      "name": "Rangers v St Mirren",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-08-22-st-johnstone-celtic",
+      "weekend": "2026-08-22",
+      "name": "St Johnstone v Celtic",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-08-22-dundee-united-dundee",
+      "weekend": "2026-08-22",
+      "name": "Dundee United v Dundee",
+      "utc": "2026-08-22T16:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-08-29-celtic-falkirk",
+      "weekend": "2026-08-29",
+      "name": "Celtic v Falkirk",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-08-29-heart-of-midlothian-st-johnstone",
+      "weekend": "2026-08-29",
+      "name": "Heart of Midlothian v St Johnstone",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-08-29-kilmarnock-dundee-united",
+      "weekend": "2026-08-29",
+      "name": "Kilmarnock v Dundee United",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-08-30-aberdeen-rangers",
+      "weekend": "2026-08-30",
+      "name": "Aberdeen v Rangers",
+      "utc": "2026-08-30T11:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-08-30-dundee-hibernian",
+      "weekend": "2026-08-30",
+      "name": "Dundee v Hibernian",
+      "utc": "2026-08-30T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-08-30-st-mirren-motherwell",
+      "weekend": "2026-08-30",
+      "name": "St Mirren v Motherwell",
+      "utc": "2026-08-30T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-02-celtic-aberdeen",
+      "weekend": "2026-09-02",
+      "name": "Celtic v Aberdeen",
+      "utc": "2026-09-02T18:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-02-dundee-st-johnstone",
+      "weekend": "2026-09-02",
+      "name": "Dundee v St Johnstone",
+      "utc": "2026-09-02T18:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-02-kilmarnock-st-mirren",
+      "weekend": "2026-09-02",
+      "name": "Kilmarnock v St Mirren",
+      "utc": "2026-09-02T18:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-02-motherwell-dundee-united",
+      "weekend": "2026-09-02",
+      "name": "Motherwell v Dundee United",
+      "utc": "2026-09-02T18:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-02-falkirk-rangers",
+      "weekend": "2026-09-02",
+      "name": "Falkirk v Rangers",
+      "utc": "2026-09-02T19:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-03-hibernian-heart-of-midlothian",
+      "weekend": "2026-09-03",
+      "name": "Hibernian v Heart of Midlothian",
+      "utc": "2026-09-03T18:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-05-aberdeen-kilmarnock",
+      "weekend": "2026-09-05",
+      "name": "Aberdeen v Kilmarnock",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-05-dundee-united-falkirk",
+      "weekend": "2026-09-05",
+      "name": "Dundee United v Falkirk",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-05-rangers-motherwell",
+      "weekend": "2026-09-05",
+      "name": "Rangers v Motherwell",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-05-st-mirren-celtic",
+      "weekend": "2026-09-05",
+      "name": "St Mirren v Celtic",
+      "utc": "2026-09-05T19:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-06-heart-of-midlothian-dundee",
+      "weekend": "2026-09-06",
+      "name": "Heart of Midlothian v Dundee",
+      "utc": "2026-09-06T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-06-st-johnstone-hibernian",
+      "weekend": "2026-09-06",
+      "name": "St Johnstone v Hibernian",
+      "utc": "2026-09-06T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-15-falkirk-heart-of-midlothian",
+      "weekend": "2026-09-15",
+      "name": "Falkirk v Heart of Midlothian",
+      "utc": "2026-09-15T18:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-15-hibernian-kilmarnock",
+      "weekend": "2026-09-15",
+      "name": "Hibernian v Kilmarnock",
+      "utc": "2026-09-15T18:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-15-motherwell-aberdeen",
+      "weekend": "2026-09-15",
+      "name": "Motherwell v Aberdeen",
+      "utc": "2026-09-15T18:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-19-dundee-motherwell",
+      "weekend": "2026-09-19",
+      "name": "Dundee v Motherwell",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-19-hibernian-aberdeen",
+      "weekend": "2026-09-19",
+      "name": "Hibernian v Aberdeen",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-19-st-johnstone-falkirk",
+      "weekend": "2026-09-19",
+      "name": "St Johnstone v Falkirk",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-19-st-mirren-dundee-united",
+      "weekend": "2026-09-19",
+      "name": "St Mirren v Dundee United",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-19-kilmarnock-heart-of-midlothian",
+      "weekend": "2026-09-19",
+      "name": "Kilmarnock v Heart of Midlothian",
+      "utc": "2026-09-19T16:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-09-20-celtic-rangers",
+      "weekend": "2026-09-20",
+      "name": "Celtic v Rangers",
+      "utc": "2026-09-20T11:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-10-aberdeen-st-johnstone",
+      "weekend": "2026-10-10",
+      "name": "Aberdeen v St Johnstone",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-10-dundee-united-hibernian",
+      "weekend": "2026-10-10",
+      "name": "Dundee United v Hibernian",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-10-falkirk-dundee",
+      "weekend": "2026-10-10",
+      "name": "Falkirk v Dundee",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-10-heart-of-midlothian-st-mirren",
+      "weekend": "2026-10-10",
+      "name": "Heart of Midlothian v St Mirren",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-10-motherwell-celtic",
+      "weekend": "2026-10-10",
+      "name": "Motherwell v Celtic",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-10-rangers-kilmarnock",
+      "weekend": "2026-10-10",
+      "name": "Rangers v Kilmarnock",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-17-aberdeen-st-mirren",
+      "weekend": "2026-10-17",
+      "name": "Aberdeen v St Mirren",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-17-celtic-heart-of-midlothian",
+      "weekend": "2026-10-17",
+      "name": "Celtic v Heart of Midlothian",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-17-dundee-rangers",
+      "weekend": "2026-10-17",
+      "name": "Dundee v Rangers",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-17-hibernian-falkirk",
+      "weekend": "2026-10-17",
+      "name": "Hibernian v Falkirk",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-17-kilmarnock-motherwell",
+      "weekend": "2026-10-17",
+      "name": "Kilmarnock v Motherwell",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-17-st-johnstone-dundee-united",
+      "weekend": "2026-10-17",
+      "name": "St Johnstone v Dundee United",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-24-dundee-united-aberdeen",
+      "weekend": "2026-10-24",
+      "name": "Dundee United v Aberdeen",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-24-falkirk-kilmarnock",
+      "weekend": "2026-10-24",
+      "name": "Falkirk v Kilmarnock",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-24-hibernian-celtic",
+      "weekend": "2026-10-24",
+      "name": "Hibernian v Celtic",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-24-motherwell-heart-of-midlothian",
+      "weekend": "2026-10-24",
+      "name": "Motherwell v Heart of Midlothian",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-24-rangers-st-johnstone",
+      "weekend": "2026-10-24",
+      "name": "Rangers v St Johnstone",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-24-st-mirren-dundee",
+      "weekend": "2026-10-24",
+      "name": "St Mirren v Dundee",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-28-aberdeen-falkirk",
+      "weekend": "2026-10-28",
+      "name": "Aberdeen v Falkirk",
+      "utc": "2026-10-28T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-28-celtic-dundee-united",
+      "weekend": "2026-10-28",
+      "name": "Celtic v Dundee United",
+      "utc": "2026-10-28T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-28-dundee-kilmarnock",
+      "weekend": "2026-10-28",
+      "name": "Dundee v Kilmarnock",
+      "utc": "2026-10-28T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-28-heart-of-midlothian-rangers",
+      "weekend": "2026-10-28",
+      "name": "Heart of Midlothian v Rangers",
+      "utc": "2026-10-28T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-28-st-johnstone-motherwell",
+      "weekend": "2026-10-28",
+      "name": "St Johnstone v Motherwell",
+      "utc": "2026-10-28T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-28-st-mirren-hibernian",
+      "weekend": "2026-10-28",
+      "name": "St Mirren v Hibernian",
+      "utc": "2026-10-28T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-31-dundee-united-heart-of-midlothian",
+      "weekend": "2026-10-31",
+      "name": "Dundee United v Heart of Midlothian",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-31-falkirk-celtic",
+      "weekend": "2026-10-31",
+      "name": "Falkirk v Celtic",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-31-hibernian-dundee",
+      "weekend": "2026-10-31",
+      "name": "Hibernian v Dundee",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-31-kilmarnock-st-johnstone",
+      "weekend": "2026-10-31",
+      "name": "Kilmarnock v St Johnstone",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-31-motherwell-st-mirren",
+      "weekend": "2026-10-31",
+      "name": "Motherwell v St Mirren",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-10-31-rangers-aberdeen",
+      "weekend": "2026-10-31",
+      "name": "Rangers v Aberdeen",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-07-aberdeen-hibernian",
+      "weekend": "2026-11-07",
+      "name": "Aberdeen v Hibernian",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-07-celtic-kilmarnock",
+      "weekend": "2026-11-07",
+      "name": "Celtic v Kilmarnock",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-07-dundee-united-motherwell",
+      "weekend": "2026-11-07",
+      "name": "Dundee United v Motherwell",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-07-st-johnstone-dundee",
+      "weekend": "2026-11-07",
+      "name": "St Johnstone v Dundee",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-07-st-mirren-rangers",
+      "weekend": "2026-11-07",
+      "name": "St Mirren v Rangers",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-08-heart-of-midlothian-falkirk",
+      "weekend": "2026-11-08",
+      "name": "Heart of Midlothian v Falkirk",
+      "utc": "2026-11-08T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-21-celtic-st-mirren",
+      "weekend": "2026-11-21",
+      "name": "Celtic v St Mirren",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-21-dundee-heart-of-midlothian",
+      "weekend": "2026-11-21",
+      "name": "Dundee v Heart of Midlothian",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-21-falkirk-st-johnstone",
+      "weekend": "2026-11-21",
+      "name": "Falkirk v St Johnstone",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-21-hibernian-dundee-united",
+      "weekend": "2026-11-21",
+      "name": "Hibernian v Dundee United",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-21-kilmarnock-aberdeen",
+      "weekend": "2026-11-21",
+      "name": "Kilmarnock v Aberdeen",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-21-motherwell-rangers",
+      "weekend": "2026-11-21",
+      "name": "Motherwell v Rangers",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-28-aberdeen-dundee",
+      "weekend": "2026-11-28",
+      "name": "Aberdeen v Dundee",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-28-dundee-united-st-johnstone",
+      "weekend": "2026-11-28",
+      "name": "Dundee United v St Johnstone",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-28-heart-of-midlothian-celtic",
+      "weekend": "2026-11-28",
+      "name": "Heart of Midlothian v Celtic",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-28-motherwell-hibernian",
+      "weekend": "2026-11-28",
+      "name": "Motherwell v Hibernian",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-28-rangers-falkirk",
+      "weekend": "2026-11-28",
+      "name": "Rangers v Falkirk",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-11-28-st-mirren-kilmarnock",
+      "weekend": "2026-11-28",
+      "name": "St Mirren v Kilmarnock",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-02-dundee-celtic",
+      "weekend": "2026-12-02",
+      "name": "Dundee v Celtic",
+      "utc": "2026-12-02T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-02-falkirk-motherwell",
+      "weekend": "2026-12-02",
+      "name": "Falkirk v Motherwell",
+      "utc": "2026-12-02T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-02-heart-of-midlothian-aberdeen",
+      "weekend": "2026-12-02",
+      "name": "Heart of Midlothian v Aberdeen",
+      "utc": "2026-12-02T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-02-kilmarnock-hibernian",
+      "weekend": "2026-12-02",
+      "name": "Kilmarnock v Hibernian",
+      "utc": "2026-12-02T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-02-rangers-dundee-united",
+      "weekend": "2026-12-02",
+      "name": "Rangers v Dundee United",
+      "utc": "2026-12-02T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-02-st-johnstone-st-mirren",
+      "weekend": "2026-12-02",
+      "name": "St Johnstone v St Mirren",
+      "utc": "2026-12-02T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-05-aberdeen-dundee-united",
+      "weekend": "2026-12-05",
+      "name": "Aberdeen v Dundee United",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-05-celtic-st-johnstone",
+      "weekend": "2026-12-05",
+      "name": "Celtic v St Johnstone",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-05-dundee-falkirk",
+      "weekend": "2026-12-05",
+      "name": "Dundee v Falkirk",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-05-hibernian-rangers",
+      "weekend": "2026-12-05",
+      "name": "Hibernian v Rangers",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-05-motherwell-kilmarnock",
+      "weekend": "2026-12-05",
+      "name": "Motherwell v Kilmarnock",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-05-st-mirren-heart-of-midlothian",
+      "weekend": "2026-12-05",
+      "name": "St Mirren v Heart of Midlothian",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-12-celtic-hibernian",
+      "weekend": "2026-12-12",
+      "name": "Celtic v Hibernian",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-12-dundee-united-st-mirren",
+      "weekend": "2026-12-12",
+      "name": "Dundee United v St Mirren",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-12-falkirk-aberdeen",
+      "weekend": "2026-12-12",
+      "name": "Falkirk v Aberdeen",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-12-heart-of-midlothian-motherwell",
+      "weekend": "2026-12-12",
+      "name": "Heart of Midlothian v Motherwell",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-12-kilmarnock-dundee",
+      "weekend": "2026-12-12",
+      "name": "Kilmarnock v Dundee",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-12-st-johnstone-rangers",
+      "weekend": "2026-12-12",
+      "name": "St Johnstone v Rangers",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-19-aberdeen-celtic",
+      "weekend": "2026-12-19",
+      "name": "Aberdeen v Celtic",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-19-dundee-united-kilmarnock",
+      "weekend": "2026-12-19",
+      "name": "Dundee United v Kilmarnock",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-19-hibernian-st-johnstone",
+      "weekend": "2026-12-19",
+      "name": "Hibernian v St Johnstone",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-19-motherwell-dundee",
+      "weekend": "2026-12-19",
+      "name": "Motherwell v Dundee",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-19-rangers-heart-of-midlothian",
+      "weekend": "2026-12-19",
+      "name": "Rangers v Heart of Midlothian",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-19-st-mirren-falkirk",
+      "weekend": "2026-12-19",
+      "name": "St Mirren v Falkirk",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-26-celtic-motherwell",
+      "weekend": "2026-12-26",
+      "name": "Celtic v Motherwell",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-26-dundee-st-mirren",
+      "weekend": "2026-12-26",
+      "name": "Dundee v St Mirren",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-26-falkirk-dundee-united",
+      "weekend": "2026-12-26",
+      "name": "Falkirk v Dundee United",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-26-heart-of-midlothian-hibernian",
+      "weekend": "2026-12-26",
+      "name": "Heart of Midlothian v Hibernian",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-26-kilmarnock-rangers",
+      "weekend": "2026-12-26",
+      "name": "Kilmarnock v Rangers",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-26-st-johnstone-aberdeen",
+      "weekend": "2026-12-26",
+      "name": "St Johnstone v Aberdeen",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-30-aberdeen-motherwell",
+      "weekend": "2026-12-30",
+      "name": "Aberdeen v Motherwell",
+      "utc": "2026-12-30T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-30-dundee-united-celtic",
+      "weekend": "2026-12-30",
+      "name": "Dundee United v Celtic",
+      "utc": "2026-12-30T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-30-hibernian-st-mirren",
+      "weekend": "2026-12-30",
+      "name": "Hibernian v St Mirren",
+      "utc": "2026-12-30T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-30-kilmarnock-falkirk",
+      "weekend": "2026-12-30",
+      "name": "Kilmarnock v Falkirk",
+      "utc": "2026-12-30T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-30-rangers-dundee",
+      "weekend": "2026-12-30",
+      "name": "Rangers v Dundee",
+      "utc": "2026-12-30T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2026-12-30-st-johnstone-heart-of-midlothian",
+      "weekend": "2026-12-30",
+      "name": "St Johnstone v Heart of Midlothian",
+      "utc": "2026-12-30T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-02-dundee-dundee-united",
+      "weekend": "2027-01-02",
+      "name": "Dundee v Dundee United",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-02-falkirk-hibernian",
+      "weekend": "2027-01-02",
+      "name": "Falkirk v Hibernian",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-02-heart-of-midlothian-kilmarnock",
+      "weekend": "2027-01-02",
+      "name": "Heart of Midlothian v Kilmarnock",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-02-motherwell-st-johnstone",
+      "weekend": "2027-01-02",
+      "name": "Motherwell v St Johnstone",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-02-rangers-celtic",
+      "weekend": "2027-01-02",
+      "name": "Rangers v Celtic",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-02-st-mirren-aberdeen",
+      "weekend": "2027-01-02",
+      "name": "St Mirren v Aberdeen",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-09-aberdeen-heart-of-midlothian",
+      "weekend": "2027-01-09",
+      "name": "Aberdeen v Heart of Midlothian",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-09-celtic-dundee",
+      "weekend": "2027-01-09",
+      "name": "Celtic v Dundee",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-09-dundee-united-rangers",
+      "weekend": "2027-01-09",
+      "name": "Dundee United v Rangers",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-09-hibernian-motherwell",
+      "weekend": "2027-01-09",
+      "name": "Hibernian v Motherwell",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-09-kilmarnock-st-mirren",
+      "weekend": "2027-01-09",
+      "name": "Kilmarnock v St Mirren",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-09-st-johnstone-falkirk",
+      "weekend": "2027-01-09",
+      "name": "St Johnstone v Falkirk",
+      "utc": "2027-01-09T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-23-dundee-aberdeen",
+      "weekend": "2027-01-23",
+      "name": "Dundee v Aberdeen",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-23-falkirk-heart-of-midlothian",
+      "weekend": "2027-01-23",
+      "name": "Falkirk v Heart of Midlothian",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-23-hibernian-kilmarnock",
+      "weekend": "2027-01-23",
+      "name": "Hibernian v Kilmarnock",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-23-motherwell-dundee-united",
+      "weekend": "2027-01-23",
+      "name": "Motherwell v Dundee United",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-23-rangers-st-johnstone",
+      "weekend": "2027-01-23",
+      "name": "Rangers v St Johnstone",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-23-st-mirren-celtic",
+      "weekend": "2027-01-23",
+      "name": "St Mirren v Celtic",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-30-aberdeen-rangers",
+      "weekend": "2027-01-30",
+      "name": "Aberdeen v Rangers",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-30-celtic-falkirk",
+      "weekend": "2027-01-30",
+      "name": "Celtic v Falkirk",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-30-dundee-hibernian",
+      "weekend": "2027-01-30",
+      "name": "Dundee v Hibernian",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-30-heart-of-midlothian-st-mirren",
+      "weekend": "2027-01-30",
+      "name": "Heart of Midlothian v St Mirren",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-30-kilmarnock-motherwell",
+      "weekend": "2027-01-30",
+      "name": "Kilmarnock v Motherwell",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-01-30-st-johnstone-dundee-united",
+      "weekend": "2027-01-30",
+      "name": "St Johnstone v Dundee United",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-03-aberdeen-falkirk",
+      "weekend": "2027-02-03",
+      "name": "Aberdeen v Falkirk",
+      "utc": "2027-02-03T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-03-dundee-united-hibernian",
+      "weekend": "2027-02-03",
+      "name": "Dundee United v Hibernian",
+      "utc": "2027-02-03T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-03-heart-of-midlothian-dundee",
+      "weekend": "2027-02-03",
+      "name": "Heart of Midlothian v Dundee",
+      "utc": "2027-02-03T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-03-motherwell-celtic",
+      "weekend": "2027-02-03",
+      "name": "Motherwell v Celtic",
+      "utc": "2027-02-03T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-03-rangers-kilmarnock",
+      "weekend": "2027-02-03",
+      "name": "Rangers v Kilmarnock",
+      "utc": "2027-02-03T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-03-st-mirren-st-johnstone",
+      "weekend": "2027-02-03",
+      "name": "St Mirren v St Johnstone",
+      "utc": "2027-02-03T19:45:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-13-celtic-heart-of-midlothian",
+      "weekend": "2027-02-13",
+      "name": "Celtic v Heart of Midlothian",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-13-dundee-st-johnstone",
+      "weekend": "2027-02-13",
+      "name": "Dundee v St Johnstone",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-13-falkirk-rangers",
+      "weekend": "2027-02-13",
+      "name": "Falkirk v Rangers",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-13-hibernian-aberdeen",
+      "weekend": "2027-02-13",
+      "name": "Hibernian v Aberdeen",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-13-kilmarnock-dundee-united",
+      "weekend": "2027-02-13",
+      "name": "Kilmarnock v Dundee United",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-13-st-mirren-motherwell",
+      "weekend": "2027-02-13",
+      "name": "St Mirren v Motherwell",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-20-dundee-united-aberdeen",
+      "weekend": "2027-02-20",
+      "name": "Dundee United v Aberdeen",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-20-falkirk-dundee",
+      "weekend": "2027-02-20",
+      "name": "Falkirk v Dundee",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-20-hibernian-celtic",
+      "weekend": "2027-02-20",
+      "name": "Hibernian v Celtic",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-20-motherwell-heart-of-midlothian",
+      "weekend": "2027-02-20",
+      "name": "Motherwell v Heart of Midlothian",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-20-rangers-st-mirren",
+      "weekend": "2027-02-20",
+      "name": "Rangers v St Mirren",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-20-st-johnstone-kilmarnock",
+      "weekend": "2027-02-20",
+      "name": "St Johnstone v Kilmarnock",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-27-aberdeen-st-johnstone",
+      "weekend": "2027-02-27",
+      "name": "Aberdeen v St Johnstone",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-27-celtic-rangers",
+      "weekend": "2027-02-27",
+      "name": "Celtic v Rangers",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-27-dundee-kilmarnock",
+      "weekend": "2027-02-27",
+      "name": "Dundee v Kilmarnock",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-27-heart-of-midlothian-dundee-united",
+      "weekend": "2027-02-27",
+      "name": "Heart of Midlothian v Dundee United",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-27-motherwell-falkirk",
+      "weekend": "2027-02-27",
+      "name": "Motherwell v Falkirk",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-02-27-st-mirren-hibernian",
+      "weekend": "2027-02-27",
+      "name": "St Mirren v Hibernian",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-13-aberdeen-st-mirren",
+      "weekend": "2027-03-13",
+      "name": "Aberdeen v St Mirren",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-13-dundee-united-dundee",
+      "weekend": "2027-03-13",
+      "name": "Dundee United v Dundee",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-13-hibernian-falkirk",
+      "weekend": "2027-03-13",
+      "name": "Hibernian v Falkirk",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-13-kilmarnock-heart-of-midlothian",
+      "weekend": "2027-03-13",
+      "name": "Kilmarnock v Heart of Midlothian",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-13-rangers-motherwell",
+      "weekend": "2027-03-13",
+      "name": "Rangers v Motherwell",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-13-st-johnstone-celtic",
+      "weekend": "2027-03-13",
+      "name": "St Johnstone v Celtic",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-20-celtic-aberdeen",
+      "weekend": "2027-03-20",
+      "name": "Celtic v Aberdeen",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-20-dundee-motherwell",
+      "weekend": "2027-03-20",
+      "name": "Dundee v Motherwell",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-20-falkirk-kilmarnock",
+      "weekend": "2027-03-20",
+      "name": "Falkirk v Kilmarnock",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-20-heart-of-midlothian-rangers",
+      "weekend": "2027-03-20",
+      "name": "Heart of Midlothian v Rangers",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-20-st-johnstone-hibernian",
+      "weekend": "2027-03-20",
+      "name": "St Johnstone v Hibernian",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-03-20-st-mirren-dundee-united",
+      "weekend": "2027-03-20",
+      "name": "St Mirren v Dundee United",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-03-dundee-united-falkirk",
+      "weekend": "2027-04-03",
+      "name": "Dundee United v Falkirk",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-03-heart-of-midlothian-st-johnstone",
+      "weekend": "2027-04-03",
+      "name": "Heart of Midlothian v St Johnstone",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-03-kilmarnock-celtic",
+      "weekend": "2027-04-03",
+      "name": "Kilmarnock v Celtic",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-03-motherwell-aberdeen",
+      "weekend": "2027-04-03",
+      "name": "Motherwell v Aberdeen",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-03-rangers-hibernian",
+      "weekend": "2027-04-03",
+      "name": "Rangers v Hibernian",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-03-st-mirren-dundee",
+      "weekend": "2027-04-03",
+      "name": "St Mirren v Dundee",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-10-aberdeen-kilmarnock",
+      "weekend": "2027-04-10",
+      "name": "Aberdeen v Kilmarnock",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-10-celtic-dundee-united",
+      "weekend": "2027-04-10",
+      "name": "Celtic v Dundee United",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-10-dundee-rangers",
+      "weekend": "2027-04-10",
+      "name": "Dundee v Rangers",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-10-falkirk-st-mirren",
+      "weekend": "2027-04-10",
+      "name": "Falkirk v St Mirren",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-10-hibernian-heart-of-midlothian",
+      "weekend": "2027-04-10",
+      "name": "Hibernian v Heart of Midlothian",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "sco.1-2027-04-10-st-johnstone-motherwell",
+      "weekend": "2027-04-10",
+      "name": "St Johnstone v Motherwell",
+      "utc": "2027-04-10T14:00:00Z"
+    }
+  ]
+}

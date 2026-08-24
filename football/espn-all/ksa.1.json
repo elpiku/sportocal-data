@@ -1,0 +1,1736 @@
+{
+  "sportKey": "soccer-ksa.1",
+  "leagueName": "Saudi Pro League",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "ksa.1-2026-08-13-abha-al-hazem",
+      "weekend": "2026-08-13",
+      "name": "Abha v Al Hazem",
+      "utc": "2026-08-13T16:15:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-13-al-diriyah-al-ahli",
+      "weekend": "2026-08-13",
+      "name": "Al Diriyah v Al Ahli",
+      "utc": "2026-08-13T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-13-al-shabab-al-qadsiah",
+      "weekend": "2026-08-13",
+      "name": "Al Shabab v Al Qadsiah",
+      "utc": "2026-08-13T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-14-neom-sc-al-fayha",
+      "weekend": "2026-08-14",
+      "name": "Neom SC v Al Fayha",
+      "utc": "2026-08-14T16:50:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-14-al-ettifaq-al-riyadh",
+      "weekend": "2026-08-14",
+      "name": "Al Ettifaq v Al Riyadh",
+      "utc": "2026-08-14T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-14-al-hilal-al-faisaly",
+      "weekend": "2026-08-14",
+      "name": "Al Hilal v Al-Faisaly",
+      "utc": "2026-08-14T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-15-al-taawoun-al-khaleej",
+      "weekend": "2026-08-15",
+      "name": "Al Taawoun v Al Khaleej",
+      "utc": "2026-08-15T16:15:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-15-al-ittihad-al-kholood",
+      "weekend": "2026-08-15",
+      "name": "Al Ittihad v Al Kholood",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-15-al-nassr-al-fateh",
+      "weekend": "2026-08-15",
+      "name": "Al Nassr v Al Fateh",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-20-al-fayha-al-hilal",
+      "weekend": "2026-08-20",
+      "name": "Al Fayha v Al Hilal",
+      "utc": "2026-08-20T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-21-al-riyadh-al-nassr",
+      "weekend": "2026-08-21",
+      "name": "Al Riyadh v Al Nassr",
+      "utc": "2026-08-21T16:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-21-al-hazem-al-diriyah",
+      "weekend": "2026-08-21",
+      "name": "Al Hazem v Al Diriyah",
+      "utc": "2026-08-21T16:15:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-21-al-qadsiah-al-ittihad",
+      "weekend": "2026-08-21",
+      "name": "Al Qadsiah v Al Ittihad",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-21-al-faisaly-neom-sc",
+      "weekend": "2026-08-21",
+      "name": "Al-Faisaly v Neom SC",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-22-al-fateh-al-ettifaq",
+      "weekend": "2026-08-22",
+      "name": "Al Fateh v Al Ettifaq",
+      "utc": "2026-08-22T15:45:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-22-al-kholood-al-taawoun",
+      "weekend": "2026-08-22",
+      "name": "Al Kholood v Al Taawoun",
+      "utc": "2026-08-22T16:10:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-22-al-ahli-abha",
+      "weekend": "2026-08-22",
+      "name": "Al Ahli v Abha",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-22-al-khaleej-al-shabab",
+      "weekend": "2026-08-22",
+      "name": "Al Khaleej v Al Shabab",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-24-neom-sc-al-qadsiah",
+      "weekend": "2026-08-24",
+      "name": "Neom SC v Al Qadsiah",
+      "utc": "2026-08-24T16:40:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-24-al-ittihad-al-hazem",
+      "weekend": "2026-08-24",
+      "name": "Al Ittihad v Al Hazem",
+      "utc": "2026-08-24T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-25-abha-al-khaleej",
+      "weekend": "2026-08-25",
+      "name": "Abha v Al Khaleej",
+      "utc": "2026-08-25T16:05:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-25-al-taawoun-al-fayha",
+      "weekend": "2026-08-25",
+      "name": "Al Taawoun v Al Fayha",
+      "utc": "2026-08-25T16:10:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-25-al-ettifaq-al-nassr",
+      "weekend": "2026-08-25",
+      "name": "Al Ettifaq v Al Nassr",
+      "utc": "2026-08-25T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-25-al-shabab-al-riyadh",
+      "weekend": "2026-08-25",
+      "name": "Al Shabab v Al Riyadh",
+      "utc": "2026-08-25T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-26-al-faisaly-al-fateh",
+      "weekend": "2026-08-26",
+      "name": "Al-Faisaly v Al Fateh",
+      "utc": "2026-08-26T16:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-26-al-diriyah-al-kholood",
+      "weekend": "2026-08-26",
+      "name": "Al Diriyah v Al Kholood",
+      "utc": "2026-08-26T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-28-al-riyadh-neom-sc",
+      "weekend": "2026-08-28",
+      "name": "Al Riyadh v Neom SC",
+      "utc": "2026-08-28T15:50:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-28-al-fayha-abha",
+      "weekend": "2026-08-28",
+      "name": "Al Fayha v Abha",
+      "utc": "2026-08-28T16:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-28-al-khaleej-al-hilal",
+      "weekend": "2026-08-28",
+      "name": "Al Khaleej v Al Hilal",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-28-al-nassr-al-taawoun",
+      "weekend": "2026-08-28",
+      "name": "Al Nassr v Al Taawoun",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-29-al-kholood-al-ahli",
+      "weekend": "2026-08-29",
+      "name": "Al Kholood v Al Ahli",
+      "utc": "2026-08-29T16:05:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-29-al-ettifaq-al-diriyah",
+      "weekend": "2026-08-29",
+      "name": "Al Ettifaq v Al Diriyah",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-29-al-fateh-al-ittihad",
+      "weekend": "2026-08-29",
+      "name": "Al Fateh v Al Ittihad",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-30-al-hazem-al-shabab",
+      "weekend": "2026-08-30",
+      "name": "Al Hazem v Al Shabab",
+      "utc": "2026-08-30T16:05:00Z"
+    },
+    {
+      "id": "ksa.1-2026-08-30-al-qadsiah-al-faisaly",
+      "weekend": "2026-08-30",
+      "name": "Al Qadsiah v Al-Faisaly",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-01-al-hilal-al-ahli",
+      "weekend": "2026-09-01",
+      "name": "Al Hilal v Al Ahli",
+      "utc": "2026-09-01T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-03-al-fayha-al-kholood",
+      "weekend": "2026-09-03",
+      "name": "Al Fayha v Al Kholood",
+      "utc": "2026-09-03T15:55:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-03-neom-sc-al-khaleej",
+      "weekend": "2026-09-03",
+      "name": "Neom SC v Al Khaleej",
+      "utc": "2026-09-03T16:30:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-03-al-diriyah-al-qadsiah",
+      "weekend": "2026-09-03",
+      "name": "Al Diriyah v Al Qadsiah",
+      "utc": "2026-09-03T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-04-abha-al-ettifaq",
+      "weekend": "2026-09-04",
+      "name": "Abha v Al Ettifaq",
+      "utc": "2026-09-04T16:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-04-al-ahli-al-riyadh",
+      "weekend": "2026-09-04",
+      "name": "Al Ahli v Al Riyadh",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-04-al-shabab-al-hilal",
+      "weekend": "2026-09-04",
+      "name": "Al Shabab v Al Hilal",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-05-al-faisaly-al-hazem",
+      "weekend": "2026-09-05",
+      "name": "Al-Faisaly v Al Hazem",
+      "utc": "2026-09-05T15:50:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-05-al-taawoun-al-fateh",
+      "weekend": "2026-09-05",
+      "name": "Al Taawoun v Al Fateh",
+      "utc": "2026-09-05T15:55:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-05-al-ittihad-al-nassr",
+      "weekend": "2026-09-05",
+      "name": "Al Ittihad v Al Nassr",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-07-al-khaleej-al-riyadh",
+      "weekend": "2026-09-07",
+      "name": "Al Khaleej v Al Riyadh",
+      "utc": "2026-09-07T15:30:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-07-al-hilal-neom-sc",
+      "weekend": "2026-09-07",
+      "name": "Al Hilal v Neom SC",
+      "utc": "2026-09-07T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-08-al-ettifaq-al-faisaly",
+      "weekend": "2026-09-08",
+      "name": "Al Ettifaq v Al-Faisaly",
+      "utc": "2026-09-08T15:30:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-08-al-hazem-al-taawoun",
+      "weekend": "2026-09-08",
+      "name": "Al Hazem v Al Taawoun",
+      "utc": "2026-09-08T15:55:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-08-al-ittihad-al-fayha",
+      "weekend": "2026-09-08",
+      "name": "Al Ittihad v Al Fayha",
+      "utc": "2026-09-08T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-08-al-qadsiah-al-ahli",
+      "weekend": "2026-09-08",
+      "name": "Al Qadsiah v Al Ahli",
+      "utc": "2026-09-08T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-09-al-kholood-al-shabab",
+      "weekend": "2026-09-09",
+      "name": "Al Kholood v Al Shabab",
+      "utc": "2026-09-09T15:55:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-09-al-fateh-al-diriyah",
+      "weekend": "2026-09-09",
+      "name": "Al Fateh v Al Diriyah",
+      "utc": "2026-09-09T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-09-al-nassr-abha",
+      "weekend": "2026-09-09",
+      "name": "Al Nassr v Abha",
+      "utc": "2026-09-09T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-10-al-ahli-al-hazem",
+      "weekend": "2026-09-10",
+      "name": "Al Ahli v Al Hazem",
+      "utc": "2026-09-10T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-10-al-diriyah-abha",
+      "weekend": "2026-09-10",
+      "name": "Al Diriyah v Abha",
+      "utc": "2026-09-10T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-10-al-khaleej-al-nassr",
+      "weekend": "2026-09-10",
+      "name": "Al Khaleej v Al Nassr",
+      "utc": "2026-09-10T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-10-al-qadsiah-al-ettifaq",
+      "weekend": "2026-09-10",
+      "name": "Al Qadsiah v Al Ettifaq",
+      "utc": "2026-09-10T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-10-al-riyadh-al-kholood",
+      "weekend": "2026-09-10",
+      "name": "Al Riyadh v Al Kholood",
+      "utc": "2026-09-10T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-10-al-shabab-al-fayha",
+      "weekend": "2026-09-10",
+      "name": "Al Shabab v Al Fayha",
+      "utc": "2026-09-10T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-10-al-taawoun-al-hilal",
+      "weekend": "2026-09-10",
+      "name": "Al Taawoun v Al Hilal",
+      "utc": "2026-09-10T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-10-al-faisaly-al-ittihad",
+      "weekend": "2026-09-10",
+      "name": "Al-Faisaly v Al Ittihad",
+      "utc": "2026-09-10T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-09-10-neom-sc-al-fateh",
+      "weekend": "2026-09-10",
+      "name": "Neom SC v Al Fateh",
+      "utc": "2026-09-10T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-09-abha-al-faisaly",
+      "weekend": "2026-10-09",
+      "name": "Abha v Al-Faisaly",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-09-al-ettifaq-al-khaleej",
+      "weekend": "2026-10-09",
+      "name": "Al Ettifaq v Al Khaleej",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-09-al-fateh-al-ahli",
+      "weekend": "2026-10-09",
+      "name": "Al Fateh v Al Ahli",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-09-al-fayha-al-riyadh",
+      "weekend": "2026-10-09",
+      "name": "Al Fayha v Al Riyadh",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-09-al-hazem-neom-sc",
+      "weekend": "2026-10-09",
+      "name": "Al Hazem v Neom SC",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-09-al-hilal-al-ittihad",
+      "weekend": "2026-10-09",
+      "name": "Al Hilal v Al Ittihad",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-09-al-kholood-al-qadsiah",
+      "weekend": "2026-10-09",
+      "name": "Al Kholood v Al Qadsiah",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-09-al-nassr-al-diriyah",
+      "weekend": "2026-10-09",
+      "name": "Al Nassr v Al Diriyah",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-09-al-shabab-al-taawoun",
+      "weekend": "2026-10-09",
+      "name": "Al Shabab v Al Taawoun",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-15-al-ahli-al-nassr",
+      "weekend": "2026-10-15",
+      "name": "Al Ahli v Al Nassr",
+      "utc": "2026-10-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-15-al-diriyah-al-taawoun",
+      "weekend": "2026-10-15",
+      "name": "Al Diriyah v Al Taawoun",
+      "utc": "2026-10-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-15-al-hazem-al-fateh",
+      "weekend": "2026-10-15",
+      "name": "Al Hazem v Al Fateh",
+      "utc": "2026-10-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-15-al-ittihad-al-shabab",
+      "weekend": "2026-10-15",
+      "name": "Al Ittihad v Al Shabab",
+      "utc": "2026-10-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-15-al-khaleej-al-fayha",
+      "weekend": "2026-10-15",
+      "name": "Al Khaleej v Al Fayha",
+      "utc": "2026-10-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-15-al-qadsiah-abha",
+      "weekend": "2026-10-15",
+      "name": "Al Qadsiah v Abha",
+      "utc": "2026-10-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-15-al-riyadh-al-hilal",
+      "weekend": "2026-10-15",
+      "name": "Al Riyadh v Al Hilal",
+      "utc": "2026-10-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-15-al-faisaly-al-kholood",
+      "weekend": "2026-10-15",
+      "name": "Al-Faisaly v Al Kholood",
+      "utc": "2026-10-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-15-neom-sc-al-ettifaq",
+      "weekend": "2026-10-15",
+      "name": "Neom SC v Al Ettifaq",
+      "utc": "2026-10-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-18-abha-al-kholood",
+      "weekend": "2026-10-18",
+      "name": "Abha v Al Kholood",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-18-al-diriyah-al-riyadh",
+      "weekend": "2026-10-18",
+      "name": "Al Diriyah v Al Riyadh",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-18-al-ettifaq-al-ittihad",
+      "weekend": "2026-10-18",
+      "name": "Al Ettifaq v Al Ittihad",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-18-al-fateh-al-khaleej",
+      "weekend": "2026-10-18",
+      "name": "Al Fateh v Al Khaleej",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-18-al-fayha-al-ahli",
+      "weekend": "2026-10-18",
+      "name": "Al Fayha v Al Ahli",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-18-al-hilal-al-hazem",
+      "weekend": "2026-10-18",
+      "name": "Al Hilal v Al Hazem",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-18-al-nassr-neom-sc",
+      "weekend": "2026-10-18",
+      "name": "Al Nassr v Neom SC",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-18-al-shabab-al-faisaly",
+      "weekend": "2026-10-18",
+      "name": "Al Shabab v Al-Faisaly",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-18-al-taawoun-al-qadsiah",
+      "weekend": "2026-10-18",
+      "name": "Al Taawoun v Al Qadsiah",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-22-al-ahli-al-khaleej",
+      "weekend": "2026-10-22",
+      "name": "Al Ahli v Al Khaleej",
+      "utc": "2026-10-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-22-al-fateh-al-shabab",
+      "weekend": "2026-10-22",
+      "name": "Al Fateh v Al Shabab",
+      "utc": "2026-10-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-22-al-hazem-al-fayha",
+      "weekend": "2026-10-22",
+      "name": "Al Hazem v Al Fayha",
+      "utc": "2026-10-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-22-al-ittihad-al-diriyah",
+      "weekend": "2026-10-22",
+      "name": "Al Ittihad v Al Diriyah",
+      "utc": "2026-10-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-22-al-kholood-al-ettifaq",
+      "weekend": "2026-10-22",
+      "name": "Al Kholood v Al Ettifaq",
+      "utc": "2026-10-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-22-al-qadsiah-al-hilal",
+      "weekend": "2026-10-22",
+      "name": "Al Qadsiah v Al Hilal",
+      "utc": "2026-10-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-22-al-riyadh-al-taawoun",
+      "weekend": "2026-10-22",
+      "name": "Al Riyadh v Al Taawoun",
+      "utc": "2026-10-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-22-al-faisaly-al-nassr",
+      "weekend": "2026-10-22",
+      "name": "Al-Faisaly v Al Nassr",
+      "utc": "2026-10-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-22-neom-sc-abha",
+      "weekend": "2026-10-22",
+      "name": "Neom SC v Abha",
+      "utc": "2026-10-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-29-abha-al-ittihad",
+      "weekend": "2026-10-29",
+      "name": "Abha v Al Ittihad",
+      "utc": "2026-10-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-29-al-diriyah-neom-sc",
+      "weekend": "2026-10-29",
+      "name": "Al Diriyah v Neom SC",
+      "utc": "2026-10-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-29-al-fayha-al-faisaly",
+      "weekend": "2026-10-29",
+      "name": "Al Fayha v Al-Faisaly",
+      "utc": "2026-10-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-29-al-hilal-al-fateh",
+      "weekend": "2026-10-29",
+      "name": "Al Hilal v Al Fateh",
+      "utc": "2026-10-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-29-al-khaleej-al-hazem",
+      "weekend": "2026-10-29",
+      "name": "Al Khaleej v Al Hazem",
+      "utc": "2026-10-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-29-al-nassr-al-kholood",
+      "weekend": "2026-10-29",
+      "name": "Al Nassr v Al Kholood",
+      "utc": "2026-10-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-29-al-riyadh-al-qadsiah",
+      "weekend": "2026-10-29",
+      "name": "Al Riyadh v Al Qadsiah",
+      "utc": "2026-10-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-29-al-shabab-al-ahli",
+      "weekend": "2026-10-29",
+      "name": "Al Shabab v Al Ahli",
+      "utc": "2026-10-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-10-29-al-taawoun-al-ettifaq",
+      "weekend": "2026-10-29",
+      "name": "Al Taawoun v Al Ettifaq",
+      "utc": "2026-10-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-05-abha-al-shabab",
+      "weekend": "2026-11-05",
+      "name": "Abha v Al Shabab",
+      "utc": "2026-11-05T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-05-al-ahli-al-taawoun",
+      "weekend": "2026-11-05",
+      "name": "Al Ahli v Al Taawoun",
+      "utc": "2026-11-05T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-05-al-ettifaq-al-hilal",
+      "weekend": "2026-11-05",
+      "name": "Al Ettifaq v Al Hilal",
+      "utc": "2026-11-05T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-05-al-fateh-al-riyadh",
+      "weekend": "2026-11-05",
+      "name": "Al Fateh v Al Riyadh",
+      "utc": "2026-11-05T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-05-al-hazem-al-nassr",
+      "weekend": "2026-11-05",
+      "name": "Al Hazem v Al Nassr",
+      "utc": "2026-11-05T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-05-al-ittihad-neom-sc",
+      "weekend": "2026-11-05",
+      "name": "Al Ittihad v Neom SC",
+      "utc": "2026-11-05T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-05-al-kholood-al-khaleej",
+      "weekend": "2026-11-05",
+      "name": "Al Kholood v Al Khaleej",
+      "utc": "2026-11-05T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-05-al-qadsiah-al-fayha",
+      "weekend": "2026-11-05",
+      "name": "Al Qadsiah v Al Fayha",
+      "utc": "2026-11-05T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-05-al-faisaly-al-diriyah",
+      "weekend": "2026-11-05",
+      "name": "Al-Faisaly v Al Diriyah",
+      "utc": "2026-11-05T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-20-al-ahli-al-faisaly",
+      "weekend": "2026-11-20",
+      "name": "Al Ahli v Al-Faisaly",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-20-al-fayha-al-fateh",
+      "weekend": "2026-11-20",
+      "name": "Al Fayha v Al Fateh",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-20-al-hilal-al-diriyah",
+      "weekend": "2026-11-20",
+      "name": "Al Hilal v Al Diriyah",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-20-al-khaleej-al-ittihad",
+      "weekend": "2026-11-20",
+      "name": "Al Khaleej v Al Ittihad",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-20-al-nassr-al-qadsiah",
+      "weekend": "2026-11-20",
+      "name": "Al Nassr v Al Qadsiah",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-20-al-riyadh-al-hazem",
+      "weekend": "2026-11-20",
+      "name": "Al Riyadh v Al Hazem",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-20-al-shabab-al-ettifaq",
+      "weekend": "2026-11-20",
+      "name": "Al Shabab v Al Ettifaq",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-20-al-taawoun-abha",
+      "weekend": "2026-11-20",
+      "name": "Al Taawoun v Abha",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-20-neom-sc-al-kholood",
+      "weekend": "2026-11-20",
+      "name": "Neom SC v Al Kholood",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-26-abha-al-riyadh",
+      "weekend": "2026-11-26",
+      "name": "Abha v Al Riyadh",
+      "utc": "2026-11-26T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-26-al-diriyah-al-fayha",
+      "weekend": "2026-11-26",
+      "name": "Al Diriyah v Al Fayha",
+      "utc": "2026-11-26T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-26-al-ettifaq-al-hazem",
+      "weekend": "2026-11-26",
+      "name": "Al Ettifaq v Al Hazem",
+      "utc": "2026-11-26T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-26-al-ittihad-al-ahli",
+      "weekend": "2026-11-26",
+      "name": "Al Ittihad v Al Ahli",
+      "utc": "2026-11-26T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-26-al-kholood-al-hilal",
+      "weekend": "2026-11-26",
+      "name": "Al Kholood v Al Hilal",
+      "utc": "2026-11-26T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-26-al-nassr-al-shabab",
+      "weekend": "2026-11-26",
+      "name": "Al Nassr v Al Shabab",
+      "utc": "2026-11-26T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-26-al-qadsiah-al-fateh",
+      "weekend": "2026-11-26",
+      "name": "Al Qadsiah v Al Fateh",
+      "utc": "2026-11-26T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-26-al-faisaly-al-khaleej",
+      "weekend": "2026-11-26",
+      "name": "Al-Faisaly v Al Khaleej",
+      "utc": "2026-11-26T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-11-26-neom-sc-al-taawoun",
+      "weekend": "2026-11-26",
+      "name": "Neom SC v Al Taawoun",
+      "utc": "2026-11-26T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-03-al-ahli-al-ettifaq",
+      "weekend": "2026-12-03",
+      "name": "Al Ahli v Al Ettifaq",
+      "utc": "2026-12-03T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-03-al-fateh-al-kholood",
+      "weekend": "2026-12-03",
+      "name": "Al Fateh v Al Kholood",
+      "utc": "2026-12-03T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-03-al-fayha-al-nassr",
+      "weekend": "2026-12-03",
+      "name": "Al Fayha v Al Nassr",
+      "utc": "2026-12-03T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-03-al-hazem-al-qadsiah",
+      "weekend": "2026-12-03",
+      "name": "Al Hazem v Al Qadsiah",
+      "utc": "2026-12-03T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-03-al-hilal-abha",
+      "weekend": "2026-12-03",
+      "name": "Al Hilal v Abha",
+      "utc": "2026-12-03T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-03-al-khaleej-al-diriyah",
+      "weekend": "2026-12-03",
+      "name": "Al Khaleej v Al Diriyah",
+      "utc": "2026-12-03T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-03-al-riyadh-al-ittihad",
+      "weekend": "2026-12-03",
+      "name": "Al Riyadh v Al Ittihad",
+      "utc": "2026-12-03T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-03-al-shabab-neom-sc",
+      "weekend": "2026-12-03",
+      "name": "Al Shabab v Neom SC",
+      "utc": "2026-12-03T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-03-al-taawoun-al-faisaly",
+      "weekend": "2026-12-03",
+      "name": "Al Taawoun v Al-Faisaly",
+      "utc": "2026-12-03T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-10-abha-al-fateh",
+      "weekend": "2026-12-10",
+      "name": "Abha v Al Fateh",
+      "utc": "2026-12-10T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-10-al-diriyah-al-shabab",
+      "weekend": "2026-12-10",
+      "name": "Al Diriyah v Al Shabab",
+      "utc": "2026-12-10T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-10-al-ettifaq-al-fayha",
+      "weekend": "2026-12-10",
+      "name": "Al Ettifaq v Al Fayha",
+      "utc": "2026-12-10T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-10-al-ittihad-al-taawoun",
+      "weekend": "2026-12-10",
+      "name": "Al Ittihad v Al Taawoun",
+      "utc": "2026-12-10T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-10-al-kholood-al-hazem",
+      "weekend": "2026-12-10",
+      "name": "Al Kholood v Al Hazem",
+      "utc": "2026-12-10T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-10-al-nassr-al-hilal",
+      "weekend": "2026-12-10",
+      "name": "Al Nassr v Al Hilal",
+      "utc": "2026-12-10T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-10-al-qadsiah-al-khaleej",
+      "weekend": "2026-12-10",
+      "name": "Al Qadsiah v Al Khaleej",
+      "utc": "2026-12-10T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-10-al-faisaly-al-riyadh",
+      "weekend": "2026-12-10",
+      "name": "Al-Faisaly v Al Riyadh",
+      "utc": "2026-12-10T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-10-neom-sc-al-ahli",
+      "weekend": "2026-12-10",
+      "name": "Neom SC v Al Ahli",
+      "utc": "2026-12-10T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-14-al-ahli-al-diriyah",
+      "weekend": "2026-12-14",
+      "name": "Al Ahli v Al Diriyah",
+      "utc": "2026-12-14T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-14-al-fateh-al-nassr",
+      "weekend": "2026-12-14",
+      "name": "Al Fateh v Al Nassr",
+      "utc": "2026-12-14T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-14-al-fayha-neom-sc",
+      "weekend": "2026-12-14",
+      "name": "Al Fayha v Neom SC",
+      "utc": "2026-12-14T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-14-al-hazem-abha",
+      "weekend": "2026-12-14",
+      "name": "Al Hazem v Abha",
+      "utc": "2026-12-14T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-14-al-khaleej-al-taawoun",
+      "weekend": "2026-12-14",
+      "name": "Al Khaleej v Al Taawoun",
+      "utc": "2026-12-14T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-14-al-kholood-al-ittihad",
+      "weekend": "2026-12-14",
+      "name": "Al Kholood v Al Ittihad",
+      "utc": "2026-12-14T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-14-al-qadsiah-al-shabab",
+      "weekend": "2026-12-14",
+      "name": "Al Qadsiah v Al Shabab",
+      "utc": "2026-12-14T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-14-al-riyadh-al-ettifaq",
+      "weekend": "2026-12-14",
+      "name": "Al Riyadh v Al Ettifaq",
+      "utc": "2026-12-14T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2026-12-14-al-faisaly-al-hilal",
+      "weekend": "2026-12-14",
+      "name": "Al-Faisaly v Al Hilal",
+      "utc": "2026-12-14T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-11-abha-al-ahli",
+      "weekend": "2027-02-11",
+      "name": "Abha v Al Ahli",
+      "utc": "2027-02-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-11-al-diriyah-al-hazem",
+      "weekend": "2027-02-11",
+      "name": "Al Diriyah v Al Hazem",
+      "utc": "2027-02-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-11-al-ettifaq-al-fateh",
+      "weekend": "2027-02-11",
+      "name": "Al Ettifaq v Al Fateh",
+      "utc": "2027-02-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-11-al-hilal-al-fayha",
+      "weekend": "2027-02-11",
+      "name": "Al Hilal v Al Fayha",
+      "utc": "2027-02-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-11-al-ittihad-al-qadsiah",
+      "weekend": "2027-02-11",
+      "name": "Al Ittihad v Al Qadsiah",
+      "utc": "2027-02-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-11-al-nassr-al-riyadh",
+      "weekend": "2027-02-11",
+      "name": "Al Nassr v Al Riyadh",
+      "utc": "2027-02-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-11-al-shabab-al-khaleej",
+      "weekend": "2027-02-11",
+      "name": "Al Shabab v Al Khaleej",
+      "utc": "2027-02-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-11-al-taawoun-al-kholood",
+      "weekend": "2027-02-11",
+      "name": "Al Taawoun v Al Kholood",
+      "utc": "2027-02-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-11-neom-sc-al-faisaly",
+      "weekend": "2027-02-11",
+      "name": "Neom SC v Al-Faisaly",
+      "utc": "2027-02-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-18-al-ahli-al-hilal",
+      "weekend": "2027-02-18",
+      "name": "Al Ahli v Al Hilal",
+      "utc": "2027-02-18T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-18-al-fateh-al-faisaly",
+      "weekend": "2027-02-18",
+      "name": "Al Fateh v Al-Faisaly",
+      "utc": "2027-02-18T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-18-al-fayha-al-taawoun",
+      "weekend": "2027-02-18",
+      "name": "Al Fayha v Al Taawoun",
+      "utc": "2027-02-18T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-18-al-hazem-al-ittihad",
+      "weekend": "2027-02-18",
+      "name": "Al Hazem v Al Ittihad",
+      "utc": "2027-02-18T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-18-al-khaleej-abha",
+      "weekend": "2027-02-18",
+      "name": "Al Khaleej v Abha",
+      "utc": "2027-02-18T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-18-al-kholood-al-diriyah",
+      "weekend": "2027-02-18",
+      "name": "Al Kholood v Al Diriyah",
+      "utc": "2027-02-18T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-18-al-nassr-al-ettifaq",
+      "weekend": "2027-02-18",
+      "name": "Al Nassr v Al Ettifaq",
+      "utc": "2027-02-18T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-18-al-qadsiah-neom-sc",
+      "weekend": "2027-02-18",
+      "name": "Al Qadsiah v Neom SC",
+      "utc": "2027-02-18T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-18-al-riyadh-al-shabab",
+      "weekend": "2027-02-18",
+      "name": "Al Riyadh v Al Shabab",
+      "utc": "2027-02-18T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-25-abha-al-fayha",
+      "weekend": "2027-02-25",
+      "name": "Abha v Al Fayha",
+      "utc": "2027-02-25T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-25-al-ahli-al-kholood",
+      "weekend": "2027-02-25",
+      "name": "Al Ahli v Al Kholood",
+      "utc": "2027-02-25T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-25-al-diriyah-al-ettifaq",
+      "weekend": "2027-02-25",
+      "name": "Al Diriyah v Al Ettifaq",
+      "utc": "2027-02-25T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-25-al-hilal-al-khaleej",
+      "weekend": "2027-02-25",
+      "name": "Al Hilal v Al Khaleej",
+      "utc": "2027-02-25T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-25-al-ittihad-al-fateh",
+      "weekend": "2027-02-25",
+      "name": "Al Ittihad v Al Fateh",
+      "utc": "2027-02-25T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-25-al-shabab-al-hazem",
+      "weekend": "2027-02-25",
+      "name": "Al Shabab v Al Hazem",
+      "utc": "2027-02-25T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-25-al-taawoun-al-nassr",
+      "weekend": "2027-02-25",
+      "name": "Al Taawoun v Al Nassr",
+      "utc": "2027-02-25T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-25-al-faisaly-al-qadsiah",
+      "weekend": "2027-02-25",
+      "name": "Al-Faisaly v Al Qadsiah",
+      "utc": "2027-02-25T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-02-25-neom-sc-al-riyadh",
+      "weekend": "2027-02-25",
+      "name": "Neom SC v Al Riyadh",
+      "utc": "2027-02-25T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-11-al-ettifaq-abha",
+      "weekend": "2027-03-11",
+      "name": "Al Ettifaq v Abha",
+      "utc": "2027-03-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-11-al-fateh-al-taawoun",
+      "weekend": "2027-03-11",
+      "name": "Al Fateh v Al Taawoun",
+      "utc": "2027-03-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-11-al-hazem-al-faisaly",
+      "weekend": "2027-03-11",
+      "name": "Al Hazem v Al-Faisaly",
+      "utc": "2027-03-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-11-al-hilal-al-shabab",
+      "weekend": "2027-03-11",
+      "name": "Al Hilal v Al Shabab",
+      "utc": "2027-03-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-11-al-khaleej-neom-sc",
+      "weekend": "2027-03-11",
+      "name": "Al Khaleej v Neom SC",
+      "utc": "2027-03-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-11-al-kholood-al-fayha",
+      "weekend": "2027-03-11",
+      "name": "Al Kholood v Al Fayha",
+      "utc": "2027-03-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-11-al-nassr-al-ittihad",
+      "weekend": "2027-03-11",
+      "name": "Al Nassr v Al Ittihad",
+      "utc": "2027-03-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-11-al-qadsiah-al-diriyah",
+      "weekend": "2027-03-11",
+      "name": "Al Qadsiah v Al Diriyah",
+      "utc": "2027-03-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-11-al-riyadh-al-ahli",
+      "weekend": "2027-03-11",
+      "name": "Al Riyadh v Al Ahli",
+      "utc": "2027-03-11T20:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-18-abha-al-nassr",
+      "weekend": "2027-03-18",
+      "name": "Abha v Al Nassr",
+      "utc": "2027-03-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-18-al-ahli-al-qadsiah",
+      "weekend": "2027-03-18",
+      "name": "Al Ahli v Al Qadsiah",
+      "utc": "2027-03-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-18-al-diriyah-al-fateh",
+      "weekend": "2027-03-18",
+      "name": "Al Diriyah v Al Fateh",
+      "utc": "2027-03-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-18-al-fayha-al-ittihad",
+      "weekend": "2027-03-18",
+      "name": "Al Fayha v Al Ittihad",
+      "utc": "2027-03-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-18-al-riyadh-al-khaleej",
+      "weekend": "2027-03-18",
+      "name": "Al Riyadh v Al Khaleej",
+      "utc": "2027-03-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-18-al-shabab-al-kholood",
+      "weekend": "2027-03-18",
+      "name": "Al Shabab v Al Kholood",
+      "utc": "2027-03-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-18-al-taawoun-al-hazem",
+      "weekend": "2027-03-18",
+      "name": "Al Taawoun v Al Hazem",
+      "utc": "2027-03-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-18-al-faisaly-al-ettifaq",
+      "weekend": "2027-03-18",
+      "name": "Al-Faisaly v Al Ettifaq",
+      "utc": "2027-03-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-03-18-neom-sc-al-hilal",
+      "weekend": "2027-03-18",
+      "name": "Neom SC v Al Hilal",
+      "utc": "2027-03-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-02-abha-al-diriyah",
+      "weekend": "2027-04-02",
+      "name": "Abha v Al Diriyah",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-02-al-ettifaq-al-qadsiah",
+      "weekend": "2027-04-02",
+      "name": "Al Ettifaq v Al Qadsiah",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-02-al-fateh-neom-sc",
+      "weekend": "2027-04-02",
+      "name": "Al Fateh v Neom SC",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-02-al-fayha-al-shabab",
+      "weekend": "2027-04-02",
+      "name": "Al Fayha v Al Shabab",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-02-al-hazem-al-ahli",
+      "weekend": "2027-04-02",
+      "name": "Al Hazem v Al Ahli",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-02-al-hilal-al-taawoun",
+      "weekend": "2027-04-02",
+      "name": "Al Hilal v Al Taawoun",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-02-al-ittihad-al-faisaly",
+      "weekend": "2027-04-02",
+      "name": "Al Ittihad v Al-Faisaly",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-02-al-kholood-al-riyadh",
+      "weekend": "2027-04-02",
+      "name": "Al Kholood v Al Riyadh",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-02-al-nassr-al-khaleej",
+      "weekend": "2027-04-02",
+      "name": "Al Nassr v Al Khaleej",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-08-al-ahli-al-fateh",
+      "weekend": "2027-04-08",
+      "name": "Al Ahli v Al Fateh",
+      "utc": "2027-04-08T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-08-al-diriyah-al-nassr",
+      "weekend": "2027-04-08",
+      "name": "Al Diriyah v Al Nassr",
+      "utc": "2027-04-08T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-08-al-ittihad-al-hilal",
+      "weekend": "2027-04-08",
+      "name": "Al Ittihad v Al Hilal",
+      "utc": "2027-04-08T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-08-al-khaleej-al-ettifaq",
+      "weekend": "2027-04-08",
+      "name": "Al Khaleej v Al Ettifaq",
+      "utc": "2027-04-08T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-08-al-qadsiah-al-kholood",
+      "weekend": "2027-04-08",
+      "name": "Al Qadsiah v Al Kholood",
+      "utc": "2027-04-08T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-08-al-riyadh-al-fayha",
+      "weekend": "2027-04-08",
+      "name": "Al Riyadh v Al Fayha",
+      "utc": "2027-04-08T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-08-al-taawoun-al-shabab",
+      "weekend": "2027-04-08",
+      "name": "Al Taawoun v Al Shabab",
+      "utc": "2027-04-08T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-08-al-faisaly-abha",
+      "weekend": "2027-04-08",
+      "name": "Al-Faisaly v Abha",
+      "utc": "2027-04-08T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-08-neom-sc-al-hazem",
+      "weekend": "2027-04-08",
+      "name": "Neom SC v Al Hazem",
+      "utc": "2027-04-08T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-15-abha-al-qadsiah",
+      "weekend": "2027-04-15",
+      "name": "Abha v Al Qadsiah",
+      "utc": "2027-04-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-15-al-ettifaq-neom-sc",
+      "weekend": "2027-04-15",
+      "name": "Al Ettifaq v Neom SC",
+      "utc": "2027-04-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-15-al-fateh-al-hazem",
+      "weekend": "2027-04-15",
+      "name": "Al Fateh v Al Hazem",
+      "utc": "2027-04-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-15-al-fayha-al-khaleej",
+      "weekend": "2027-04-15",
+      "name": "Al Fayha v Al Khaleej",
+      "utc": "2027-04-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-15-al-hilal-al-riyadh",
+      "weekend": "2027-04-15",
+      "name": "Al Hilal v Al Riyadh",
+      "utc": "2027-04-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-15-al-kholood-al-faisaly",
+      "weekend": "2027-04-15",
+      "name": "Al Kholood v Al-Faisaly",
+      "utc": "2027-04-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-15-al-nassr-al-ahli",
+      "weekend": "2027-04-15",
+      "name": "Al Nassr v Al Ahli",
+      "utc": "2027-04-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-15-al-shabab-al-ittihad",
+      "weekend": "2027-04-15",
+      "name": "Al Shabab v Al Ittihad",
+      "utc": "2027-04-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-15-al-taawoun-al-diriyah",
+      "weekend": "2027-04-15",
+      "name": "Al Taawoun v Al Diriyah",
+      "utc": "2027-04-15T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-18-al-ahli-al-fayha",
+      "weekend": "2027-04-18",
+      "name": "Al Ahli v Al Fayha",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-18-al-hazem-al-hilal",
+      "weekend": "2027-04-18",
+      "name": "Al Hazem v Al Hilal",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-18-al-ittihad-al-ettifaq",
+      "weekend": "2027-04-18",
+      "name": "Al Ittihad v Al Ettifaq",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-18-al-khaleej-al-fateh",
+      "weekend": "2027-04-18",
+      "name": "Al Khaleej v Al Fateh",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-18-al-kholood-abha",
+      "weekend": "2027-04-18",
+      "name": "Al Kholood v Abha",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-18-al-qadsiah-al-taawoun",
+      "weekend": "2027-04-18",
+      "name": "Al Qadsiah v Al Taawoun",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-18-al-riyadh-al-diriyah",
+      "weekend": "2027-04-18",
+      "name": "Al Riyadh v Al Diriyah",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-18-al-faisaly-al-shabab",
+      "weekend": "2027-04-18",
+      "name": "Al-Faisaly v Al Shabab",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-18-neom-sc-al-nassr",
+      "weekend": "2027-04-18",
+      "name": "Neom SC v Al Nassr",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-22-abha-neom-sc",
+      "weekend": "2027-04-22",
+      "name": "Abha v Neom SC",
+      "utc": "2027-04-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-22-al-diriyah-al-ittihad",
+      "weekend": "2027-04-22",
+      "name": "Al Diriyah v Al Ittihad",
+      "utc": "2027-04-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-22-al-ettifaq-al-kholood",
+      "weekend": "2027-04-22",
+      "name": "Al Ettifaq v Al Kholood",
+      "utc": "2027-04-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-22-al-fayha-al-hazem",
+      "weekend": "2027-04-22",
+      "name": "Al Fayha v Al Hazem",
+      "utc": "2027-04-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-22-al-hilal-al-qadsiah",
+      "weekend": "2027-04-22",
+      "name": "Al Hilal v Al Qadsiah",
+      "utc": "2027-04-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-22-al-khaleej-al-ahli",
+      "weekend": "2027-04-22",
+      "name": "Al Khaleej v Al Ahli",
+      "utc": "2027-04-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-22-al-nassr-al-faisaly",
+      "weekend": "2027-04-22",
+      "name": "Al Nassr v Al-Faisaly",
+      "utc": "2027-04-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-22-al-shabab-al-fateh",
+      "weekend": "2027-04-22",
+      "name": "Al Shabab v Al Fateh",
+      "utc": "2027-04-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-22-al-taawoun-al-riyadh",
+      "weekend": "2027-04-22",
+      "name": "Al Taawoun v Al Riyadh",
+      "utc": "2027-04-22T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-29-al-ahli-al-shabab",
+      "weekend": "2027-04-29",
+      "name": "Al Ahli v Al Shabab",
+      "utc": "2027-04-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-29-al-ettifaq-al-taawoun",
+      "weekend": "2027-04-29",
+      "name": "Al Ettifaq v Al Taawoun",
+      "utc": "2027-04-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-29-al-fateh-al-hilal",
+      "weekend": "2027-04-29",
+      "name": "Al Fateh v Al Hilal",
+      "utc": "2027-04-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-29-al-hazem-al-khaleej",
+      "weekend": "2027-04-29",
+      "name": "Al Hazem v Al Khaleej",
+      "utc": "2027-04-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-29-al-ittihad-abha",
+      "weekend": "2027-04-29",
+      "name": "Al Ittihad v Abha",
+      "utc": "2027-04-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-29-al-kholood-al-nassr",
+      "weekend": "2027-04-29",
+      "name": "Al Kholood v Al Nassr",
+      "utc": "2027-04-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-29-al-qadsiah-al-riyadh",
+      "weekend": "2027-04-29",
+      "name": "Al Qadsiah v Al Riyadh",
+      "utc": "2027-04-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-29-al-faisaly-al-fayha",
+      "weekend": "2027-04-29",
+      "name": "Al-Faisaly v Al Fayha",
+      "utc": "2027-04-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-04-29-neom-sc-al-diriyah",
+      "weekend": "2027-04-29",
+      "name": "Neom SC v Al Diriyah",
+      "utc": "2027-04-29T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-06-al-diriyah-al-faisaly",
+      "weekend": "2027-05-06",
+      "name": "Al Diriyah v Al-Faisaly",
+      "utc": "2027-05-06T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-06-al-fayha-al-qadsiah",
+      "weekend": "2027-05-06",
+      "name": "Al Fayha v Al Qadsiah",
+      "utc": "2027-05-06T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-06-al-hilal-al-ettifaq",
+      "weekend": "2027-05-06",
+      "name": "Al Hilal v Al Ettifaq",
+      "utc": "2027-05-06T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-06-al-khaleej-al-kholood",
+      "weekend": "2027-05-06",
+      "name": "Al Khaleej v Al Kholood",
+      "utc": "2027-05-06T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-06-al-nassr-al-hazem",
+      "weekend": "2027-05-06",
+      "name": "Al Nassr v Al Hazem",
+      "utc": "2027-05-06T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-06-al-riyadh-al-fateh",
+      "weekend": "2027-05-06",
+      "name": "Al Riyadh v Al Fateh",
+      "utc": "2027-05-06T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-06-al-shabab-abha",
+      "weekend": "2027-05-06",
+      "name": "Al Shabab v Abha",
+      "utc": "2027-05-06T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-06-al-taawoun-al-ahli",
+      "weekend": "2027-05-06",
+      "name": "Al Taawoun v Al Ahli",
+      "utc": "2027-05-06T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-06-neom-sc-al-ittihad",
+      "weekend": "2027-05-06",
+      "name": "Neom SC v Al Ittihad",
+      "utc": "2027-05-06T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-12-abha-al-taawoun",
+      "weekend": "2027-05-12",
+      "name": "Abha v Al Taawoun",
+      "utc": "2027-05-12T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-12-al-diriyah-al-hilal",
+      "weekend": "2027-05-12",
+      "name": "Al Diriyah v Al Hilal",
+      "utc": "2027-05-12T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-12-al-ettifaq-al-shabab",
+      "weekend": "2027-05-12",
+      "name": "Al Ettifaq v Al Shabab",
+      "utc": "2027-05-12T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-12-al-fateh-al-fayha",
+      "weekend": "2027-05-12",
+      "name": "Al Fateh v Al Fayha",
+      "utc": "2027-05-12T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-12-al-hazem-al-riyadh",
+      "weekend": "2027-05-12",
+      "name": "Al Hazem v Al Riyadh",
+      "utc": "2027-05-12T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-12-al-ittihad-al-khaleej",
+      "weekend": "2027-05-12",
+      "name": "Al Ittihad v Al Khaleej",
+      "utc": "2027-05-12T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-12-al-kholood-neom-sc",
+      "weekend": "2027-05-12",
+      "name": "Al Kholood v Neom SC",
+      "utc": "2027-05-12T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-12-al-qadsiah-al-nassr",
+      "weekend": "2027-05-12",
+      "name": "Al Qadsiah v Al Nassr",
+      "utc": "2027-05-12T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-12-al-faisaly-al-ahli",
+      "weekend": "2027-05-12",
+      "name": "Al-Faisaly v Al Ahli",
+      "utc": "2027-05-12T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-20-al-ahli-al-ittihad",
+      "weekend": "2027-05-20",
+      "name": "Al Ahli v Al Ittihad",
+      "utc": "2027-05-20T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-20-al-fateh-al-qadsiah",
+      "weekend": "2027-05-20",
+      "name": "Al Fateh v Al Qadsiah",
+      "utc": "2027-05-20T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-20-al-fayha-al-diriyah",
+      "weekend": "2027-05-20",
+      "name": "Al Fayha v Al Diriyah",
+      "utc": "2027-05-20T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-20-al-hazem-al-ettifaq",
+      "weekend": "2027-05-20",
+      "name": "Al Hazem v Al Ettifaq",
+      "utc": "2027-05-20T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-20-al-hilal-al-kholood",
+      "weekend": "2027-05-20",
+      "name": "Al Hilal v Al Kholood",
+      "utc": "2027-05-20T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-20-al-khaleej-al-faisaly",
+      "weekend": "2027-05-20",
+      "name": "Al Khaleej v Al-Faisaly",
+      "utc": "2027-05-20T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-20-al-riyadh-abha",
+      "weekend": "2027-05-20",
+      "name": "Al Riyadh v Abha",
+      "utc": "2027-05-20T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-20-al-shabab-al-nassr",
+      "weekend": "2027-05-20",
+      "name": "Al Shabab v Al Nassr",
+      "utc": "2027-05-20T18:00:00Z"
+    },
+    {
+      "id": "ksa.1-2027-05-20-al-taawoun-neom-sc",
+      "weekend": "2027-05-20",
+      "name": "Al Taawoun v Neom SC",
+      "utc": "2027-05-20T18:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,2240 @@
+{
+  "sportKey": "soccer-ned.2",
+  "leagueName": "Dutch Keuken Kampioen Divisie",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "ned.2-2026-08-10-jong-az-fc-eindhoven",
+      "weekend": "2026-08-10",
+      "name": "Jong AZ v FC Eindhoven",
+      "utc": "2026-08-10T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-10-jong-psv-fc-volendam",
+      "weekend": "2026-08-10",
+      "name": "Jong PSV v FC Volendam",
+      "utc": "2026-08-10T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-14-almere-city-jong-psv",
+      "weekend": "2026-08-14",
+      "name": "Almere City v Jong PSV",
+      "utc": "2026-08-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-14-fc-eindhoven-mvv-maastricht",
+      "weekend": "2026-08-14",
+      "name": "FC Eindhoven v MVV Maastricht",
+      "utc": "2026-08-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-14-heracles-almelo-fc-den-bosch",
+      "weekend": "2026-08-14",
+      "name": "Heracles Almelo v FC Den Bosch",
+      "utc": "2026-08-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-14-nac-breda-vvv-venlo",
+      "weekend": "2026-08-14",
+      "name": "NAC Breda v VVV-Venlo",
+      "utc": "2026-08-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-14-rkc-waalwijk-fc-dordrecht",
+      "weekend": "2026-08-14",
+      "name": "RKC Waalwijk v FC Dordrecht",
+      "utc": "2026-08-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-14-roda-jc-kerkrade-helmond-sport",
+      "weekend": "2026-08-14",
+      "name": "Roda JC Kerkrade v Helmond Sport",
+      "utc": "2026-08-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-15-fc-volendam-top-oss",
+      "weekend": "2026-08-15",
+      "name": "FC Volendam v TOP Oss",
+      "utc": "2026-08-15T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-17-de-graafschap-jong-az",
+      "weekend": "2026-08-17",
+      "name": "De Graafschap v Jong AZ",
+      "utc": "2026-08-17T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-17-jong-ajax-fc-emmen",
+      "weekend": "2026-08-17",
+      "name": "Jong Ajax v FC Emmen",
+      "utc": "2026-08-17T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-17-jong-fc-utrecht-vitesse",
+      "weekend": "2026-08-17",
+      "name": "Jong FC Utrecht v Vitesse",
+      "utc": "2026-08-17T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-21-fc-den-bosch-fc-eindhoven",
+      "weekend": "2026-08-21",
+      "name": "FC Den Bosch v FC Eindhoven",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-21-fc-dordrecht-roda-jc-kerkrade",
+      "weekend": "2026-08-21",
+      "name": "FC Dordrecht v Roda JC Kerkrade",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-21-fc-emmen-jong-az",
+      "weekend": "2026-08-21",
+      "name": "FC Emmen v Jong AZ",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-21-helmond-sport-rkc-waalwijk",
+      "weekend": "2026-08-21",
+      "name": "Helmond Sport v RKC Waalwijk",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-21-mvv-maastricht-fc-volendam",
+      "weekend": "2026-08-21",
+      "name": "MVV Maastricht v FC Volendam",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-21-vitesse-almere-city",
+      "weekend": "2026-08-21",
+      "name": "Vitesse v Almere City",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-22-nac-breda-jong-ajax",
+      "weekend": "2026-08-22",
+      "name": "NAC Breda v Jong Ajax",
+      "utc": "2026-08-22T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-23-vvv-venlo-de-graafschap",
+      "weekend": "2026-08-23",
+      "name": "VVV-Venlo v De Graafschap",
+      "utc": "2026-08-23T14:45:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-24-jong-fc-utrecht-heracles-almelo",
+      "weekend": "2026-08-24",
+      "name": "Jong FC Utrecht v Heracles Almelo",
+      "utc": "2026-08-24T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-24-jong-psv-top-oss",
+      "weekend": "2026-08-24",
+      "name": "Jong PSV v TOP Oss",
+      "utc": "2026-08-24T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-28-fc-den-bosch-vitesse",
+      "weekend": "2026-08-28",
+      "name": "FC Den Bosch v Vitesse",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-28-fc-volendam-fc-dordrecht",
+      "weekend": "2026-08-28",
+      "name": "FC Volendam v FC Dordrecht",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-28-jong-ajax-helmond-sport",
+      "weekend": "2026-08-28",
+      "name": "Jong Ajax v Helmond Sport",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-28-jong-az-mvv-maastricht",
+      "weekend": "2026-08-28",
+      "name": "Jong AZ v MVV Maastricht",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-28-rkc-waalwijk-jong-psv",
+      "weekend": "2026-08-28",
+      "name": "RKC Waalwijk v Jong PSV",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-28-roda-jc-kerkrade-nac-breda",
+      "weekend": "2026-08-28",
+      "name": "Roda JC Kerkrade v NAC Breda",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-28-top-oss-jong-fc-utrecht",
+      "weekend": "2026-08-28",
+      "name": "TOP Oss v Jong FC Utrecht",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-29-de-graafschap-almere-city",
+      "weekend": "2026-08-29",
+      "name": "De Graafschap v Almere City",
+      "utc": "2026-08-29T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-30-fc-eindhoven-heracles-almelo",
+      "weekend": "2026-08-30",
+      "name": "FC Eindhoven v Heracles Almelo",
+      "utc": "2026-08-30T10:15:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-30-vvv-venlo-fc-emmen",
+      "weekend": "2026-08-30",
+      "name": "VVV-Venlo v FC Emmen",
+      "utc": "2026-08-30T14:45:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-31-jong-az-jong-fc-utrecht",
+      "weekend": "2026-08-31",
+      "name": "Jong AZ v Jong FC Utrecht",
+      "utc": "2026-08-31T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-08-31-jong-psv-jong-ajax",
+      "weekend": "2026-08-31",
+      "name": "Jong PSV v Jong Ajax",
+      "utc": "2026-08-31T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-04-almere-city-jong-ajax",
+      "weekend": "2026-09-04",
+      "name": "Almere City v Jong Ajax",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-04-fc-emmen-fc-volendam",
+      "weekend": "2026-09-04",
+      "name": "FC Emmen v FC Volendam",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-04-helmond-sport-vvv-venlo",
+      "weekend": "2026-09-04",
+      "name": "Helmond Sport v VVV-Venlo",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-04-heracles-almelo-de-graafschap",
+      "weekend": "2026-09-04",
+      "name": "Heracles Almelo v De Graafschap",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-04-rkc-waalwijk-nac-breda",
+      "weekend": "2026-09-04",
+      "name": "RKC Waalwijk v NAC Breda",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-04-vitesse-top-oss",
+      "weekend": "2026-09-04",
+      "name": "Vitesse v TOP Oss",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-05-fc-dordrecht-jong-az",
+      "weekend": "2026-09-05",
+      "name": "FC Dordrecht v Jong AZ",
+      "utc": "2026-09-05T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-06-mvv-maastricht-roda-jc-kerkrade",
+      "weekend": "2026-09-06",
+      "name": "MVV Maastricht v Roda JC Kerkrade",
+      "utc": "2026-09-06T14:45:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-07-jong-fc-utrecht-fc-eindhoven",
+      "weekend": "2026-09-07",
+      "name": "Jong FC Utrecht v FC Eindhoven",
+      "utc": "2026-09-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-07-jong-psv-fc-den-bosch",
+      "weekend": "2026-09-07",
+      "name": "Jong PSV v FC Den Bosch",
+      "utc": "2026-09-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-11-fc-eindhoven-fc-dordrecht",
+      "weekend": "2026-09-11",
+      "name": "FC Eindhoven v FC Dordrecht",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-11-fc-emmen-de-graafschap",
+      "weekend": "2026-09-11",
+      "name": "FC Emmen v De Graafschap",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-11-helmond-sport-jong-psv",
+      "weekend": "2026-09-11",
+      "name": "Helmond Sport v Jong PSV",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-11-heracles-almelo-jong-az",
+      "weekend": "2026-09-11",
+      "name": "Heracles Almelo v Jong AZ",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-11-jong-ajax-rkc-waalwijk",
+      "weekend": "2026-09-11",
+      "name": "Jong Ajax v RKC Waalwijk",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-11-mvv-maastricht-almere-city",
+      "weekend": "2026-09-11",
+      "name": "MVV Maastricht v Almere City",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-11-nac-breda-jong-fc-utrecht",
+      "weekend": "2026-09-11",
+      "name": "NAC Breda v Jong FC Utrecht",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-11-vvv-venlo-top-oss",
+      "weekend": "2026-09-11",
+      "name": "VVV-Venlo v TOP Oss",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-12-roda-jc-kerkrade-vitesse",
+      "weekend": "2026-09-12",
+      "name": "Roda JC Kerkrade v Vitesse",
+      "utc": "2026-09-12T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-13-fc-volendam-fc-den-bosch",
+      "weekend": "2026-09-13",
+      "name": "FC Volendam v FC Den Bosch",
+      "utc": "2026-09-13T14:45:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-14-jong-fc-utrecht-jong-ajax",
+      "weekend": "2026-09-14",
+      "name": "Jong FC Utrecht v Jong Ajax",
+      "utc": "2026-09-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-14-jong-psv-jong-az",
+      "weekend": "2026-09-14",
+      "name": "Jong PSV v Jong AZ",
+      "utc": "2026-09-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-18-almere-city-heracles-almelo",
+      "weekend": "2026-09-18",
+      "name": "Almere City v Heracles Almelo",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-18-fc-den-bosch-helmond-sport",
+      "weekend": "2026-09-18",
+      "name": "FC Den Bosch v Helmond Sport",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-18-fc-eindhoven-fc-emmen",
+      "weekend": "2026-09-18",
+      "name": "FC Eindhoven v FC Emmen",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-18-jong-ajax-roda-jc-kerkrade",
+      "weekend": "2026-09-18",
+      "name": "Jong Ajax v Roda JC Kerkrade",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-18-jong-az-fc-volendam",
+      "weekend": "2026-09-18",
+      "name": "Jong AZ v FC Volendam",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-18-jong-fc-utrecht-vvv-venlo",
+      "weekend": "2026-09-18",
+      "name": "Jong FC Utrecht v VVV-Venlo",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-18-rkc-waalwijk-mvv-maastricht",
+      "weekend": "2026-09-18",
+      "name": "RKC Waalwijk v MVV Maastricht",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-18-top-oss-fc-dordrecht",
+      "weekend": "2026-09-18",
+      "name": "TOP Oss v FC Dordrecht",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-19-vitesse-jong-psv",
+      "weekend": "2026-09-19",
+      "name": "Vitesse v Jong PSV",
+      "utc": "2026-09-19T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-20-de-graafschap-nac-breda",
+      "weekend": "2026-09-20",
+      "name": "De Graafschap v NAC Breda",
+      "utc": "2026-09-20T14:45:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-25-fc-dordrecht-almere-city",
+      "weekend": "2026-09-25",
+      "name": "FC Dordrecht v Almere City",
+      "utc": "2026-09-25T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-26-heracles-almelo-vitesse",
+      "weekend": "2026-09-26",
+      "name": "Heracles Almelo v Vitesse",
+      "utc": "2026-09-26T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-26-fc-emmen-top-oss",
+      "weekend": "2026-09-26",
+      "name": "FC Emmen v TOP Oss",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-26-fc-volendam-vvv-venlo",
+      "weekend": "2026-09-26",
+      "name": "FC Volendam v VVV-Venlo",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-26-mvv-maastricht-helmond-sport",
+      "weekend": "2026-09-26",
+      "name": "MVV Maastricht v Helmond Sport",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-26-nac-breda-fc-eindhoven",
+      "weekend": "2026-09-26",
+      "name": "NAC Breda v FC Eindhoven",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-26-roda-jc-kerkrade-rkc-waalwijk",
+      "weekend": "2026-09-26",
+      "name": "Roda JC Kerkrade v RKC Waalwijk",
+      "utc": "2026-09-26T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-09-27-de-graafschap-fc-den-bosch",
+      "weekend": "2026-09-27",
+      "name": "De Graafschap v FC Den Bosch",
+      "utc": "2026-09-27T12:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-02-helmond-sport-heracles-almelo",
+      "weekend": "2026-10-02",
+      "name": "Helmond Sport v Heracles Almelo",
+      "utc": "2026-10-02T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-03-top-oss-mvv-maastricht",
+      "weekend": "2026-10-03",
+      "name": "TOP Oss v MVV Maastricht",
+      "utc": "2026-10-03T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-03-vitesse-nac-breda",
+      "weekend": "2026-10-03",
+      "name": "Vitesse v NAC Breda",
+      "utc": "2026-10-03T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-03-almere-city-fc-volendam",
+      "weekend": "2026-10-03",
+      "name": "Almere City v FC Volendam",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-03-fc-den-bosch-fc-dordrecht",
+      "weekend": "2026-10-03",
+      "name": "FC Den Bosch v FC Dordrecht",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-03-fc-eindhoven-de-graafschap",
+      "weekend": "2026-10-03",
+      "name": "FC Eindhoven v De Graafschap",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-03-rkc-waalwijk-fc-emmen",
+      "weekend": "2026-10-03",
+      "name": "RKC Waalwijk v FC Emmen",
+      "utc": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-04-vvv-venlo-roda-jc-kerkrade",
+      "weekend": "2026-10-04",
+      "name": "VVV-Venlo v Roda JC Kerkrade",
+      "utc": "2026-10-04T12:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-09-almere-city-fc-eindhoven",
+      "weekend": "2026-10-09",
+      "name": "Almere City v FC Eindhoven",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-09-de-graafschap-jong-fc-utrecht",
+      "weekend": "2026-10-09",
+      "name": "De Graafschap v Jong FC Utrecht",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-09-fc-dordrecht-fc-emmen",
+      "weekend": "2026-10-09",
+      "name": "FC Dordrecht v FC Emmen",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-09-fc-volendam-vitesse",
+      "weekend": "2026-10-09",
+      "name": "FC Volendam v Vitesse",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-09-heracles-almelo-rkc-waalwijk",
+      "weekend": "2026-10-09",
+      "name": "Heracles Almelo v RKC Waalwijk",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-09-jong-ajax-vvv-venlo",
+      "weekend": "2026-10-09",
+      "name": "Jong Ajax v VVV-Venlo",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-09-jong-az-fc-den-bosch",
+      "weekend": "2026-10-09",
+      "name": "Jong AZ v FC Den Bosch",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-09-nac-breda-mvv-maastricht",
+      "weekend": "2026-10-09",
+      "name": "NAC Breda v MVV Maastricht",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-09-roda-jc-kerkrade-jong-psv",
+      "weekend": "2026-10-09",
+      "name": "Roda JC Kerkrade v Jong PSV",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-09-top-oss-helmond-sport",
+      "weekend": "2026-10-09",
+      "name": "TOP Oss v Helmond Sport",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-16-fc-den-bosch-top-oss",
+      "weekend": "2026-10-16",
+      "name": "FC Den Bosch v TOP Oss",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-16-fc-eindhoven-vitesse",
+      "weekend": "2026-10-16",
+      "name": "FC Eindhoven v Vitesse",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-16-helmond-sport-nac-breda",
+      "weekend": "2026-10-16",
+      "name": "Helmond Sport v NAC Breda",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-16-vvv-venlo-jong-az",
+      "weekend": "2026-10-16",
+      "name": "VVV-Venlo v Jong AZ",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-17-fc-emmen-almere-city",
+      "weekend": "2026-10-17",
+      "name": "FC Emmen v Almere City",
+      "utc": "2026-10-17T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-18-rkc-waalwijk-fc-volendam",
+      "weekend": "2026-10-18",
+      "name": "RKC Waalwijk v FC Volendam",
+      "utc": "2026-10-18T10:15:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-18-mvv-maastricht-heracles-almelo",
+      "weekend": "2026-10-18",
+      "name": "MVV Maastricht v Heracles Almelo",
+      "utc": "2026-10-18T14:45:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-19-jong-ajax-de-graafschap",
+      "weekend": "2026-10-19",
+      "name": "Jong Ajax v De Graafschap",
+      "utc": "2026-10-19T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-19-jong-fc-utrecht-roda-jc-kerkrade",
+      "weekend": "2026-10-19",
+      "name": "Jong FC Utrecht v Roda JC Kerkrade",
+      "utc": "2026-10-19T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-19-jong-psv-fc-dordrecht",
+      "weekend": "2026-10-19",
+      "name": "Jong PSV v FC Dordrecht",
+      "utc": "2026-10-19T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-23-almere-city-roda-jc-kerkrade",
+      "weekend": "2026-10-23",
+      "name": "Almere City v Roda JC Kerkrade",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-23-de-graafschap-rkc-waalwijk",
+      "weekend": "2026-10-23",
+      "name": "De Graafschap v RKC Waalwijk",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-23-fc-den-bosch-mvv-maastricht",
+      "weekend": "2026-10-23",
+      "name": "FC Den Bosch v MVV Maastricht",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-23-fc-eindhoven-jong-psv",
+      "weekend": "2026-10-23",
+      "name": "FC Eindhoven v Jong PSV",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-23-fc-volendam-jong-fc-utrecht",
+      "weekend": "2026-10-23",
+      "name": "FC Volendam v Jong FC Utrecht",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-23-jong-az-helmond-sport",
+      "weekend": "2026-10-23",
+      "name": "Jong AZ v Helmond Sport",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-23-nac-breda-heracles-almelo",
+      "weekend": "2026-10-23",
+      "name": "NAC Breda v Heracles Almelo",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-23-top-oss-jong-ajax",
+      "weekend": "2026-10-23",
+      "name": "TOP Oss v Jong Ajax",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-23-vitesse-fc-emmen",
+      "weekend": "2026-10-23",
+      "name": "Vitesse v FC Emmen",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-24-fc-dordrecht-vvv-venlo",
+      "weekend": "2026-10-24",
+      "name": "FC Dordrecht v VVV-Venlo",
+      "utc": "2026-10-24T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-30-fc-emmen-fc-den-bosch",
+      "weekend": "2026-10-30",
+      "name": "FC Emmen v FC Den Bosch",
+      "utc": "2026-10-30T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-30-fc-volendam-de-graafschap",
+      "weekend": "2026-10-30",
+      "name": "FC Volendam v De Graafschap",
+      "utc": "2026-10-30T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-30-helmond-sport-fc-eindhoven",
+      "weekend": "2026-10-30",
+      "name": "Helmond Sport v FC Eindhoven",
+      "utc": "2026-10-30T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-30-rkc-waalwijk-almere-city",
+      "weekend": "2026-10-30",
+      "name": "RKC Waalwijk v Almere City",
+      "utc": "2026-10-30T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-30-roda-jc-kerkrade-jong-az",
+      "weekend": "2026-10-30",
+      "name": "Roda JC Kerkrade v Jong AZ",
+      "utc": "2026-10-30T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-10-31-mvv-maastricht-vvv-venlo",
+      "weekend": "2026-10-31",
+      "name": "MVV Maastricht v VVV-Venlo",
+      "utc": "2026-10-31T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-02-heracles-almelo-top-oss",
+      "weekend": "2026-11-02",
+      "name": "Heracles Almelo v TOP Oss",
+      "utc": "2026-11-02T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-02-jong-ajax-vitesse",
+      "weekend": "2026-11-02",
+      "name": "Jong Ajax v Vitesse",
+      "utc": "2026-11-02T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-02-jong-fc-utrecht-fc-dordrecht",
+      "weekend": "2026-11-02",
+      "name": "Jong FC Utrecht v FC Dordrecht",
+      "utc": "2026-11-02T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-02-jong-psv-nac-breda",
+      "weekend": "2026-11-02",
+      "name": "Jong PSV v NAC Breda",
+      "utc": "2026-11-02T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-06-fc-dordrecht-nac-breda",
+      "weekend": "2026-11-06",
+      "name": "FC Dordrecht v NAC Breda",
+      "utc": "2026-11-06T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-06-fc-eindhoven-jong-ajax",
+      "weekend": "2026-11-06",
+      "name": "FC Eindhoven v Jong Ajax",
+      "utc": "2026-11-06T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-06-helmond-sport-fc-volendam",
+      "weekend": "2026-11-06",
+      "name": "Helmond Sport v FC Volendam",
+      "utc": "2026-11-06T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-06-heracles-almelo-roda-jc-kerkrade",
+      "weekend": "2026-11-06",
+      "name": "Heracles Almelo v Roda JC Kerkrade",
+      "utc": "2026-11-06T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-06-jong-az-almere-city",
+      "weekend": "2026-11-06",
+      "name": "Jong AZ v Almere City",
+      "utc": "2026-11-06T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-06-top-oss-rkc-waalwijk",
+      "weekend": "2026-11-06",
+      "name": "TOP Oss v RKC Waalwijk",
+      "utc": "2026-11-06T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-06-vvv-venlo-jong-psv",
+      "weekend": "2026-11-06",
+      "name": "VVV-Venlo v Jong PSV",
+      "utc": "2026-11-06T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-07-fc-den-bosch-jong-fc-utrecht",
+      "weekend": "2026-11-07",
+      "name": "FC Den Bosch v Jong FC Utrecht",
+      "utc": "2026-11-07T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-08-vitesse-de-graafschap",
+      "weekend": "2026-11-08",
+      "name": "Vitesse v De Graafschap",
+      "utc": "2026-11-08T11:15:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-08-fc-emmen-mvv-maastricht",
+      "weekend": "2026-11-08",
+      "name": "FC Emmen v MVV Maastricht",
+      "utc": "2026-11-08T15:45:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-14-nac-breda-fc-emmen",
+      "weekend": "2026-11-14",
+      "name": "NAC Breda v FC Emmen",
+      "utc": "2026-11-14T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-14-almere-city-helmond-sport",
+      "weekend": "2026-11-14",
+      "name": "Almere City v Helmond Sport",
+      "utc": "2026-11-14T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-14-de-graafschap-top-oss",
+      "weekend": "2026-11-14",
+      "name": "De Graafschap v TOP Oss",
+      "utc": "2026-11-14T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-14-fc-dordrecht-heracles-almelo",
+      "weekend": "2026-11-14",
+      "name": "FC Dordrecht v Heracles Almelo",
+      "utc": "2026-11-14T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-14-rkc-waalwijk-fc-den-bosch",
+      "weekend": "2026-11-14",
+      "name": "RKC Waalwijk v FC Den Bosch",
+      "utc": "2026-11-14T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-14-roda-jc-kerkrade-fc-volendam",
+      "weekend": "2026-11-14",
+      "name": "Roda JC Kerkrade v FC Volendam",
+      "utc": "2026-11-14T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-14-vvv-venlo-fc-eindhoven",
+      "weekend": "2026-11-14",
+      "name": "VVV-Venlo v FC Eindhoven",
+      "utc": "2026-11-14T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-15-mvv-maastricht-vitesse",
+      "weekend": "2026-11-15",
+      "name": "MVV Maastricht v Vitesse",
+      "utc": "2026-11-15T13:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-20-almere-city-nac-breda",
+      "weekend": "2026-11-20",
+      "name": "Almere City v NAC Breda",
+      "utc": "2026-11-20T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-20-de-graafschap-mvv-maastricht",
+      "weekend": "2026-11-20",
+      "name": "De Graafschap v MVV Maastricht",
+      "utc": "2026-11-20T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-20-fc-den-bosch-vvv-venlo",
+      "weekend": "2026-11-20",
+      "name": "FC Den Bosch v VVV-Venlo",
+      "utc": "2026-11-20T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-20-fc-volendam-jong-ajax",
+      "weekend": "2026-11-20",
+      "name": "FC Volendam v Jong Ajax",
+      "utc": "2026-11-20T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-20-helmond-sport-fc-dordrecht",
+      "weekend": "2026-11-20",
+      "name": "Helmond Sport v FC Dordrecht",
+      "utc": "2026-11-20T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-20-heracles-almelo-jong-psv",
+      "weekend": "2026-11-20",
+      "name": "Heracles Almelo v Jong PSV",
+      "utc": "2026-11-20T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-20-jong-fc-utrecht-fc-emmen",
+      "weekend": "2026-11-20",
+      "name": "Jong FC Utrecht v FC Emmen",
+      "utc": "2026-11-20T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-20-top-oss-roda-jc-kerkrade",
+      "weekend": "2026-11-20",
+      "name": "TOP Oss v Roda JC Kerkrade",
+      "utc": "2026-11-20T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-20-vitesse-jong-az",
+      "weekend": "2026-11-20",
+      "name": "Vitesse v Jong AZ",
+      "utc": "2026-11-20T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-21-fc-eindhoven-rkc-waalwijk",
+      "weekend": "2026-11-21",
+      "name": "FC Eindhoven v RKC Waalwijk",
+      "utc": "2026-11-21T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-23-jong-ajax-jong-az",
+      "weekend": "2026-11-23",
+      "name": "Jong Ajax v Jong AZ",
+      "utc": "2026-11-23T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-23-jong-psv-jong-fc-utrecht",
+      "weekend": "2026-11-23",
+      "name": "Jong PSV v Jong FC Utrecht",
+      "utc": "2026-11-23T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-27-fc-dordrecht-vitesse",
+      "weekend": "2026-11-27",
+      "name": "FC Dordrecht v Vitesse",
+      "utc": "2026-11-27T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-27-jong-ajax-heracles-almelo",
+      "weekend": "2026-11-27",
+      "name": "Jong Ajax v Heracles Almelo",
+      "utc": "2026-11-27T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-27-jong-az-top-oss",
+      "weekend": "2026-11-27",
+      "name": "Jong AZ v TOP Oss",
+      "utc": "2026-11-27T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-27-jong-fc-utrecht-almere-city",
+      "weekend": "2026-11-27",
+      "name": "Jong FC Utrecht v Almere City",
+      "utc": "2026-11-27T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-27-mvv-maastricht-jong-psv",
+      "weekend": "2026-11-27",
+      "name": "MVV Maastricht v Jong PSV",
+      "utc": "2026-11-27T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-27-nac-breda-fc-den-bosch",
+      "weekend": "2026-11-27",
+      "name": "NAC Breda v FC Den Bosch",
+      "utc": "2026-11-27T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-27-vvv-venlo-rkc-waalwijk",
+      "weekend": "2026-11-27",
+      "name": "VVV-Venlo v RKC Waalwijk",
+      "utc": "2026-11-27T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-28-fc-emmen-helmond-sport",
+      "weekend": "2026-11-28",
+      "name": "FC Emmen v Helmond Sport",
+      "utc": "2026-11-28T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-29-fc-volendam-fc-eindhoven",
+      "weekend": "2026-11-29",
+      "name": "FC Volendam v FC Eindhoven",
+      "utc": "2026-11-29T11:15:00Z"
+    },
+    {
+      "id": "ned.2-2026-11-29-roda-jc-kerkrade-de-graafschap",
+      "weekend": "2026-11-29",
+      "name": "Roda JC Kerkrade v De Graafschap",
+      "utc": "2026-11-29T15:45:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-04-fc-den-bosch-jong-ajax",
+      "weekend": "2026-12-04",
+      "name": "FC Den Bosch v Jong Ajax",
+      "utc": "2026-12-04T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-04-helmond-sport-jong-fc-utrecht",
+      "weekend": "2026-12-04",
+      "name": "Helmond Sport v Jong FC Utrecht",
+      "utc": "2026-12-04T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-04-heracles-almelo-fc-emmen",
+      "weekend": "2026-12-04",
+      "name": "Heracles Almelo v FC Emmen",
+      "utc": "2026-12-04T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-04-mvv-maastricht-fc-dordrecht",
+      "weekend": "2026-12-04",
+      "name": "MVV Maastricht v FC Dordrecht",
+      "utc": "2026-12-04T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-04-rkc-waalwijk-jong-az",
+      "weekend": "2026-12-04",
+      "name": "RKC Waalwijk v Jong AZ",
+      "utc": "2026-12-04T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-04-top-oss-almere-city",
+      "weekend": "2026-12-04",
+      "name": "TOP Oss v Almere City",
+      "utc": "2026-12-04T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-04-vitesse-vvv-venlo",
+      "weekend": "2026-12-04",
+      "name": "Vitesse v VVV-Venlo",
+      "utc": "2026-12-04T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-06-fc-eindhoven-roda-jc-kerkrade",
+      "weekend": "2026-12-06",
+      "name": "FC Eindhoven v Roda JC Kerkrade",
+      "utc": "2026-12-06T11:15:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-06-nac-breda-fc-volendam",
+      "weekend": "2026-12-06",
+      "name": "NAC Breda v FC Volendam",
+      "utc": "2026-12-06T15:45:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-07-jong-psv-de-graafschap",
+      "weekend": "2026-12-07",
+      "name": "Jong PSV v De Graafschap",
+      "utc": "2026-12-07T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-11-almere-city-vvv-venlo",
+      "weekend": "2026-12-11",
+      "name": "Almere City v VVV-Venlo",
+      "utc": "2026-12-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-11-de-graafschap-fc-dordrecht",
+      "weekend": "2026-12-11",
+      "name": "De Graafschap v FC Dordrecht",
+      "utc": "2026-12-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-11-fc-emmen-jong-psv",
+      "weekend": "2026-12-11",
+      "name": "FC Emmen v Jong PSV",
+      "utc": "2026-12-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-11-heracles-almelo-fc-volendam",
+      "weekend": "2026-12-11",
+      "name": "Heracles Almelo v FC Volendam",
+      "utc": "2026-12-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-11-jong-ajax-mvv-maastricht",
+      "weekend": "2026-12-11",
+      "name": "Jong Ajax v MVV Maastricht",
+      "utc": "2026-12-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-11-jong-az-nac-breda",
+      "weekend": "2026-12-11",
+      "name": "Jong AZ v NAC Breda",
+      "utc": "2026-12-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-11-jong-fc-utrecht-rkc-waalwijk",
+      "weekend": "2026-12-11",
+      "name": "Jong FC Utrecht v RKC Waalwijk",
+      "utc": "2026-12-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-11-roda-jc-kerkrade-fc-den-bosch",
+      "weekend": "2026-12-11",
+      "name": "Roda JC Kerkrade v FC Den Bosch",
+      "utc": "2026-12-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-11-top-oss-fc-eindhoven",
+      "weekend": "2026-12-11",
+      "name": "TOP Oss v FC Eindhoven",
+      "utc": "2026-12-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-11-vitesse-helmond-sport",
+      "weekend": "2026-12-11",
+      "name": "Vitesse v Helmond Sport",
+      "utc": "2026-12-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-18-almere-city-vitesse",
+      "weekend": "2026-12-18",
+      "name": "Almere City v Vitesse",
+      "utc": "2026-12-18T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-18-de-graafschap-heracles-almelo",
+      "weekend": "2026-12-18",
+      "name": "De Graafschap v Heracles Almelo",
+      "utc": "2026-12-18T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-18-fc-dordrecht-fc-den-bosch",
+      "weekend": "2026-12-18",
+      "name": "FC Dordrecht v FC Den Bosch",
+      "utc": "2026-12-18T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-18-fc-volendam-fc-emmen",
+      "weekend": "2026-12-18",
+      "name": "FC Volendam v FC Emmen",
+      "utc": "2026-12-18T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-18-helmond-sport-jong-az",
+      "weekend": "2026-12-18",
+      "name": "Helmond Sport v Jong AZ",
+      "utc": "2026-12-18T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-18-mvv-maastricht-top-oss",
+      "weekend": "2026-12-18",
+      "name": "MVV Maastricht v TOP Oss",
+      "utc": "2026-12-18T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-18-nac-breda-roda-jc-kerkrade",
+      "weekend": "2026-12-18",
+      "name": "NAC Breda v Roda JC Kerkrade",
+      "utc": "2026-12-18T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-18-rkc-waalwijk-jong-ajax",
+      "weekend": "2026-12-18",
+      "name": "RKC Waalwijk v Jong Ajax",
+      "utc": "2026-12-18T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-19-vvv-venlo-jong-fc-utrecht",
+      "weekend": "2026-12-19",
+      "name": "VVV-Venlo v Jong FC Utrecht",
+      "utc": "2026-12-19T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2026-12-21-jong-psv-fc-eindhoven",
+      "weekend": "2026-12-21",
+      "name": "Jong PSV v FC Eindhoven",
+      "utc": "2026-12-21T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-08-fc-den-bosch-de-graafschap",
+      "weekend": "2027-01-08",
+      "name": "FC Den Bosch v De Graafschap",
+      "utc": "2027-01-08T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-08-fc-eindhoven-jong-az",
+      "weekend": "2027-01-08",
+      "name": "FC Eindhoven v Jong AZ",
+      "utc": "2027-01-08T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-08-fc-volendam-helmond-sport",
+      "weekend": "2027-01-08",
+      "name": "FC Volendam v Helmond Sport",
+      "utc": "2027-01-08T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-08-roda-jc-kerkrade-vvv-venlo",
+      "weekend": "2027-01-08",
+      "name": "Roda JC Kerkrade v VVV-Venlo",
+      "utc": "2027-01-08T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-09-fc-emmen-rkc-waalwijk",
+      "weekend": "2027-01-09",
+      "name": "FC Emmen v RKC Waalwijk",
+      "utc": "2027-01-09T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-10-heracles-almelo-nac-breda",
+      "weekend": "2027-01-10",
+      "name": "Heracles Almelo v NAC Breda",
+      "utc": "2027-01-10T11:15:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-10-top-oss-vitesse",
+      "weekend": "2027-01-10",
+      "name": "TOP Oss v Vitesse",
+      "utc": "2027-01-10T15:45:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-11-jong-ajax-fc-dordrecht",
+      "weekend": "2027-01-11",
+      "name": "Jong Ajax v FC Dordrecht",
+      "utc": "2027-01-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-11-jong-fc-utrecht-mvv-maastricht",
+      "weekend": "2027-01-11",
+      "name": "Jong FC Utrecht v MVV Maastricht",
+      "utc": "2027-01-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-11-jong-psv-almere-city",
+      "weekend": "2027-01-11",
+      "name": "Jong PSV v Almere City",
+      "utc": "2027-01-11T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-15-de-graafschap-fc-eindhoven",
+      "weekend": "2027-01-15",
+      "name": "De Graafschap v FC Eindhoven",
+      "utc": "2027-01-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-15-fc-dordrecht-jong-fc-utrecht",
+      "weekend": "2027-01-15",
+      "name": "FC Dordrecht v Jong FC Utrecht",
+      "utc": "2027-01-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-15-helmond-sport-top-oss",
+      "weekend": "2027-01-15",
+      "name": "Helmond Sport v TOP Oss",
+      "utc": "2027-01-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-15-mvv-maastricht-fc-den-bosch",
+      "weekend": "2027-01-15",
+      "name": "MVV Maastricht v FC Den Bosch",
+      "utc": "2027-01-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-15-nac-breda-jong-psv",
+      "weekend": "2027-01-15",
+      "name": "NAC Breda v Jong PSV",
+      "utc": "2027-01-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-15-rkc-waalwijk-roda-jc-kerkrade",
+      "weekend": "2027-01-15",
+      "name": "RKC Waalwijk v Roda JC Kerkrade",
+      "utc": "2027-01-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-15-vitesse-jong-ajax",
+      "weekend": "2027-01-15",
+      "name": "Vitesse v Jong Ajax",
+      "utc": "2027-01-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-15-vvv-venlo-fc-volendam",
+      "weekend": "2027-01-15",
+      "name": "VVV-Venlo v FC Volendam",
+      "utc": "2027-01-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-16-almere-city-fc-emmen",
+      "weekend": "2027-01-16",
+      "name": "Almere City v FC Emmen",
+      "utc": "2027-01-16T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-18-jong-az-heracles-almelo",
+      "weekend": "2027-01-18",
+      "name": "Jong AZ v Heracles Almelo",
+      "utc": "2027-01-18T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-22-fc-eindhoven-almere-city",
+      "weekend": "2027-01-22",
+      "name": "FC Eindhoven v Almere City",
+      "utc": "2027-01-22T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-22-fc-emmen-nac-breda",
+      "weekend": "2027-01-22",
+      "name": "FC Emmen v NAC Breda",
+      "utc": "2027-01-22T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-22-heracles-almelo-helmond-sport",
+      "weekend": "2027-01-22",
+      "name": "Heracles Almelo v Helmond Sport",
+      "utc": "2027-01-22T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-22-roda-jc-kerkrade-fc-dordrecht",
+      "weekend": "2027-01-22",
+      "name": "Roda JC Kerkrade v FC Dordrecht",
+      "utc": "2027-01-22T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-22-top-oss-vvv-venlo",
+      "weekend": "2027-01-22",
+      "name": "TOP Oss v VVV-Venlo",
+      "utc": "2027-01-22T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-22-vitesse-mvv-maastricht",
+      "weekend": "2027-01-22",
+      "name": "Vitesse v MVV Maastricht",
+      "utc": "2027-01-22T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-23-fc-den-bosch-rkc-waalwijk",
+      "weekend": "2027-01-23",
+      "name": "FC Den Bosch v RKC Waalwijk",
+      "utc": "2027-01-23T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-25-jong-ajax-fc-volendam",
+      "weekend": "2027-01-25",
+      "name": "Jong Ajax v FC Volendam",
+      "utc": "2027-01-25T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-25-jong-az-jong-psv",
+      "weekend": "2027-01-25",
+      "name": "Jong AZ v Jong PSV",
+      "utc": "2027-01-25T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-25-jong-fc-utrecht-de-graafschap",
+      "weekend": "2027-01-25",
+      "name": "Jong FC Utrecht v De Graafschap",
+      "utc": "2027-01-25T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-29-almere-city-jong-fc-utrecht",
+      "weekend": "2027-01-29",
+      "name": "Almere City v Jong FC Utrecht",
+      "utc": "2027-01-29T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-29-de-graafschap-helmond-sport",
+      "weekend": "2027-01-29",
+      "name": "De Graafschap v Helmond Sport",
+      "utc": "2027-01-29T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-29-fc-eindhoven-fc-den-bosch",
+      "weekend": "2027-01-29",
+      "name": "FC Eindhoven v FC Den Bosch",
+      "utc": "2027-01-29T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-29-fc-emmen-jong-ajax",
+      "weekend": "2027-01-29",
+      "name": "FC Emmen v Jong Ajax",
+      "utc": "2027-01-29T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-29-fc-volendam-jong-az",
+      "weekend": "2027-01-29",
+      "name": "FC Volendam v Jong AZ",
+      "utc": "2027-01-29T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-29-mvv-maastricht-rkc-waalwijk",
+      "weekend": "2027-01-29",
+      "name": "MVV Maastricht v RKC Waalwijk",
+      "utc": "2027-01-29T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-29-nac-breda-top-oss",
+      "weekend": "2027-01-29",
+      "name": "NAC Breda v TOP Oss",
+      "utc": "2027-01-29T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-29-vvv-venlo-fc-dordrecht",
+      "weekend": "2027-01-29",
+      "name": "VVV-Venlo v FC Dordrecht",
+      "utc": "2027-01-29T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-01-30-roda-jc-kerkrade-heracles-almelo",
+      "weekend": "2027-01-30",
+      "name": "Roda JC Kerkrade v Heracles Almelo",
+      "utc": "2027-01-30T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-01-jong-psv-vitesse",
+      "weekend": "2027-02-01",
+      "name": "Jong PSV v Vitesse",
+      "utc": "2027-02-01T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-05-fc-den-bosch-jong-psv",
+      "weekend": "2027-02-05",
+      "name": "FC Den Bosch v Jong PSV",
+      "utc": "2027-02-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-05-fc-dordrecht-mvv-maastricht",
+      "weekend": "2027-02-05",
+      "name": "FC Dordrecht v MVV Maastricht",
+      "utc": "2027-02-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-05-fc-volendam-almere-city",
+      "weekend": "2027-02-05",
+      "name": "FC Volendam v Almere City",
+      "utc": "2027-02-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-05-helmond-sport-fc-emmen",
+      "weekend": "2027-02-05",
+      "name": "Helmond Sport v FC Emmen",
+      "utc": "2027-02-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-05-heracles-almelo-vvv-venlo",
+      "weekend": "2027-02-05",
+      "name": "Heracles Almelo v VVV-Venlo",
+      "utc": "2027-02-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-05-rkc-waalwijk-de-graafschap",
+      "weekend": "2027-02-05",
+      "name": "RKC Waalwijk v De Graafschap",
+      "utc": "2027-02-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-06-vitesse-fc-eindhoven",
+      "weekend": "2027-02-06",
+      "name": "Vitesse v FC Eindhoven",
+      "utc": "2027-02-06T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-08-jong-ajax-nac-breda",
+      "weekend": "2027-02-08",
+      "name": "Jong Ajax v NAC Breda",
+      "utc": "2027-02-08T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-08-jong-az-roda-jc-kerkrade",
+      "weekend": "2027-02-08",
+      "name": "Jong AZ v Roda JC Kerkrade",
+      "utc": "2027-02-08T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-08-jong-fc-utrecht-top-oss",
+      "weekend": "2027-02-08",
+      "name": "Jong FC Utrecht v TOP Oss",
+      "utc": "2027-02-08T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-12-almere-city-fc-den-bosch",
+      "weekend": "2027-02-12",
+      "name": "Almere City v FC Den Bosch",
+      "utc": "2027-02-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-12-de-graafschap-fc-emmen",
+      "weekend": "2027-02-12",
+      "name": "De Graafschap v FC Emmen",
+      "utc": "2027-02-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-12-fc-eindhoven-fc-volendam",
+      "weekend": "2027-02-12",
+      "name": "FC Eindhoven v FC Volendam",
+      "utc": "2027-02-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-12-nac-breda-fc-dordrecht",
+      "weekend": "2027-02-12",
+      "name": "NAC Breda v FC Dordrecht",
+      "utc": "2027-02-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-12-rkc-waalwijk-heracles-almelo",
+      "weekend": "2027-02-12",
+      "name": "RKC Waalwijk v Heracles Almelo",
+      "utc": "2027-02-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-12-roda-jc-kerkrade-jong-fc-utrecht",
+      "weekend": "2027-02-12",
+      "name": "Roda JC Kerkrade v Jong FC Utrecht",
+      "utc": "2027-02-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-12-top-oss-jong-az",
+      "weekend": "2027-02-12",
+      "name": "TOP Oss v Jong AZ",
+      "utc": "2027-02-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-12-vvv-venlo-vitesse",
+      "weekend": "2027-02-12",
+      "name": "VVV-Venlo v Vitesse",
+      "utc": "2027-02-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-13-mvv-maastricht-jong-ajax",
+      "weekend": "2027-02-13",
+      "name": "MVV Maastricht v Jong Ajax",
+      "utc": "2027-02-13T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-15-jong-psv-helmond-sport",
+      "weekend": "2027-02-15",
+      "name": "Jong PSV v Helmond Sport",
+      "utc": "2027-02-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-19-fc-dordrecht-de-graafschap",
+      "weekend": "2027-02-19",
+      "name": "FC Dordrecht v De Graafschap",
+      "utc": "2027-02-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-19-fc-emmen-fc-eindhoven",
+      "weekend": "2027-02-19",
+      "name": "FC Emmen v FC Eindhoven",
+      "utc": "2027-02-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-19-fc-volendam-nac-breda",
+      "weekend": "2027-02-19",
+      "name": "FC Volendam v NAC Breda",
+      "utc": "2027-02-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-19-top-oss-heracles-almelo",
+      "weekend": "2027-02-19",
+      "name": "TOP Oss v Heracles Almelo",
+      "utc": "2027-02-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-19-vitesse-roda-jc-kerkrade",
+      "weekend": "2027-02-19",
+      "name": "Vitesse v Roda JC Kerkrade",
+      "utc": "2027-02-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-19-vvv-venlo-almere-city",
+      "weekend": "2027-02-19",
+      "name": "VVV-Venlo v Almere City",
+      "utc": "2027-02-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-20-helmond-sport-mvv-maastricht",
+      "weekend": "2027-02-20",
+      "name": "Helmond Sport v MVV Maastricht",
+      "utc": "2027-02-20T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-22-jong-ajax-fc-den-bosch",
+      "weekend": "2027-02-22",
+      "name": "Jong Ajax v FC Den Bosch",
+      "utc": "2027-02-22T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-22-jong-az-rkc-waalwijk",
+      "weekend": "2027-02-22",
+      "name": "Jong AZ v RKC Waalwijk",
+      "utc": "2027-02-22T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-22-jong-fc-utrecht-jong-psv",
+      "weekend": "2027-02-22",
+      "name": "Jong FC Utrecht v Jong PSV",
+      "utc": "2027-02-22T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-26-almere-city-mvv-maastricht",
+      "weekend": "2027-02-26",
+      "name": "Almere City v MVV Maastricht",
+      "utc": "2027-02-26T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-26-de-graafschap-jong-ajax",
+      "weekend": "2027-02-26",
+      "name": "De Graafschap v Jong Ajax",
+      "utc": "2027-02-26T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-26-fc-den-bosch-fc-volendam",
+      "weekend": "2027-02-26",
+      "name": "FC Den Bosch v FC Volendam",
+      "utc": "2027-02-26T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-26-fc-dordrecht-top-oss",
+      "weekend": "2027-02-26",
+      "name": "FC Dordrecht v TOP Oss",
+      "utc": "2027-02-26T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-26-heracles-almelo-jong-fc-utrecht",
+      "weekend": "2027-02-26",
+      "name": "Heracles Almelo v Jong FC Utrecht",
+      "utc": "2027-02-26T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-26-jong-az-fc-emmen",
+      "weekend": "2027-02-26",
+      "name": "Jong AZ v FC Emmen",
+      "utc": "2027-02-26T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-26-jong-psv-vvv-venlo",
+      "weekend": "2027-02-26",
+      "name": "Jong PSV v VVV-Venlo",
+      "utc": "2027-02-26T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-26-nac-breda-vitesse",
+      "weekend": "2027-02-26",
+      "name": "NAC Breda v Vitesse",
+      "utc": "2027-02-26T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-26-rkc-waalwijk-helmond-sport",
+      "weekend": "2027-02-26",
+      "name": "RKC Waalwijk v Helmond Sport",
+      "utc": "2027-02-26T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-02-26-roda-jc-kerkrade-fc-eindhoven",
+      "weekend": "2027-02-26",
+      "name": "Roda JC Kerkrade v FC Eindhoven",
+      "utc": "2027-02-26T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-05-fc-eindhoven-jong-fc-utrecht",
+      "weekend": "2027-03-05",
+      "name": "FC Eindhoven v Jong FC Utrecht",
+      "utc": "2027-03-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-05-fc-emmen-fc-dordrecht",
+      "weekend": "2027-03-05",
+      "name": "FC Emmen v FC Dordrecht",
+      "utc": "2027-03-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-05-fc-volendam-rkc-waalwijk",
+      "weekend": "2027-03-05",
+      "name": "FC Volendam v RKC Waalwijk",
+      "utc": "2027-03-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-05-mvv-maastricht-jong-az",
+      "weekend": "2027-03-05",
+      "name": "MVV Maastricht v Jong AZ",
+      "utc": "2027-03-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-05-nac-breda-helmond-sport",
+      "weekend": "2027-03-05",
+      "name": "NAC Breda v Helmond Sport",
+      "utc": "2027-03-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-05-vvv-venlo-jong-ajax",
+      "weekend": "2027-03-05",
+      "name": "VVV-Venlo v Jong Ajax",
+      "utc": "2027-03-05T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-06-roda-jc-kerkrade-top-oss",
+      "weekend": "2027-03-06",
+      "name": "Roda JC Kerkrade v TOP Oss",
+      "utc": "2027-03-06T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-07-vitesse-fc-den-bosch",
+      "weekend": "2027-03-07",
+      "name": "Vitesse v FC Den Bosch",
+      "utc": "2027-03-07T11:15:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-07-almere-city-de-graafschap",
+      "weekend": "2027-03-07",
+      "name": "Almere City v De Graafschap",
+      "utc": "2027-03-07T15:45:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-08-jong-psv-heracles-almelo",
+      "weekend": "2027-03-08",
+      "name": "Jong PSV v Heracles Almelo",
+      "utc": "2027-03-08T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-12-de-graafschap-fc-volendam",
+      "weekend": "2027-03-12",
+      "name": "De Graafschap v FC Volendam",
+      "utc": "2027-03-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-12-fc-den-bosch-fc-emmen",
+      "weekend": "2027-03-12",
+      "name": "FC Den Bosch v FC Emmen",
+      "utc": "2027-03-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-12-fc-dordrecht-fc-eindhoven",
+      "weekend": "2027-03-12",
+      "name": "FC Dordrecht v FC Eindhoven",
+      "utc": "2027-03-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-12-helmond-sport-roda-jc-kerkrade",
+      "weekend": "2027-03-12",
+      "name": "Helmond Sport v Roda JC Kerkrade",
+      "utc": "2027-03-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-12-heracles-almelo-mvv-maastricht",
+      "weekend": "2027-03-12",
+      "name": "Heracles Almelo v MVV Maastricht",
+      "utc": "2027-03-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-12-rkc-waalwijk-vitesse",
+      "weekend": "2027-03-12",
+      "name": "RKC Waalwijk v Vitesse",
+      "utc": "2027-03-12T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-13-top-oss-jong-psv",
+      "weekend": "2027-03-13",
+      "name": "TOP Oss v Jong PSV",
+      "utc": "2027-03-13T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-15-jong-ajax-almere-city",
+      "weekend": "2027-03-15",
+      "name": "Jong Ajax v Almere City",
+      "utc": "2027-03-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-15-jong-az-vvv-venlo",
+      "weekend": "2027-03-15",
+      "name": "Jong AZ v VVV-Venlo",
+      "utc": "2027-03-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-15-jong-fc-utrecht-nac-breda",
+      "weekend": "2027-03-15",
+      "name": "Jong FC Utrecht v NAC Breda",
+      "utc": "2027-03-15T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-19-almere-city-fc-dordrecht",
+      "weekend": "2027-03-19",
+      "name": "Almere City v FC Dordrecht",
+      "utc": "2027-03-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-19-fc-den-bosch-heracles-almelo",
+      "weekend": "2027-03-19",
+      "name": "FC Den Bosch v Heracles Almelo",
+      "utc": "2027-03-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-19-fc-eindhoven-helmond-sport",
+      "weekend": "2027-03-19",
+      "name": "FC Eindhoven v Helmond Sport",
+      "utc": "2027-03-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-19-fc-emmen-vvv-venlo",
+      "weekend": "2027-03-19",
+      "name": "FC Emmen v VVV-Venlo",
+      "utc": "2027-03-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-19-fc-volendam-jong-psv",
+      "weekend": "2027-03-19",
+      "name": "FC Volendam v Jong PSV",
+      "utc": "2027-03-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-19-nac-breda-jong-az",
+      "weekend": "2027-03-19",
+      "name": "NAC Breda v Jong AZ",
+      "utc": "2027-03-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-19-rkc-waalwijk-top-oss",
+      "weekend": "2027-03-19",
+      "name": "RKC Waalwijk v TOP Oss",
+      "utc": "2027-03-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-19-roda-jc-kerkrade-jong-ajax",
+      "weekend": "2027-03-19",
+      "name": "Roda JC Kerkrade v Jong Ajax",
+      "utc": "2027-03-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-19-vitesse-jong-fc-utrecht",
+      "weekend": "2027-03-19",
+      "name": "Vitesse v Jong FC Utrecht",
+      "utc": "2027-03-19T19:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-03-20-mvv-maastricht-de-graafschap",
+      "weekend": "2027-03-20",
+      "name": "MVV Maastricht v De Graafschap",
+      "utc": "2027-03-20T15:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-02-fc-dordrecht-fc-volendam",
+      "weekend": "2027-04-02",
+      "name": "FC Dordrecht v FC Volendam",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-02-helmond-sport-almere-city",
+      "weekend": "2027-04-02",
+      "name": "Helmond Sport v Almere City",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-02-mvv-maastricht-fc-emmen",
+      "weekend": "2027-04-02",
+      "name": "MVV Maastricht v FC Emmen",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-02-top-oss-fc-den-bosch",
+      "weekend": "2027-04-02",
+      "name": "TOP Oss v FC Den Bosch",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-02-vvv-venlo-nac-breda",
+      "weekend": "2027-04-02",
+      "name": "VVV-Venlo v NAC Breda",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-03-heracles-almelo-fc-eindhoven",
+      "weekend": "2027-04-03",
+      "name": "Heracles Almelo v FC Eindhoven",
+      "utc": "2027-04-03T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-04-de-graafschap-roda-jc-kerkrade",
+      "weekend": "2027-04-04",
+      "name": "De Graafschap v Roda JC Kerkrade",
+      "utc": "2027-04-04T14:45:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-05-jong-ajax-jong-fc-utrecht",
+      "weekend": "2027-04-05",
+      "name": "Jong Ajax v Jong FC Utrecht",
+      "utc": "2027-04-05T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-05-jong-az-vitesse",
+      "weekend": "2027-04-05",
+      "name": "Jong AZ v Vitesse",
+      "utc": "2027-04-05T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-05-jong-psv-rkc-waalwijk",
+      "weekend": "2027-04-05",
+      "name": "Jong PSV v RKC Waalwijk",
+      "utc": "2027-04-05T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-09-almere-city-rkc-waalwijk",
+      "weekend": "2027-04-09",
+      "name": "Almere City v RKC Waalwijk",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-09-de-graafschap-vvv-venlo",
+      "weekend": "2027-04-09",
+      "name": "De Graafschap v VVV-Venlo",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-09-fc-den-bosch-nac-breda",
+      "weekend": "2027-04-09",
+      "name": "FC Den Bosch v NAC Breda",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-09-fc-dordrecht-helmond-sport",
+      "weekend": "2027-04-09",
+      "name": "FC Dordrecht v Helmond Sport",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-09-fc-eindhoven-top-oss",
+      "weekend": "2027-04-09",
+      "name": "FC Eindhoven v TOP Oss",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-09-fc-emmen-vitesse",
+      "weekend": "2027-04-09",
+      "name": "FC Emmen v Vitesse",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-10-fc-volendam-heracles-almelo",
+      "weekend": "2027-04-10",
+      "name": "FC Volendam v Heracles Almelo",
+      "utc": "2027-04-10T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-11-roda-jc-kerkrade-mvv-maastricht",
+      "weekend": "2027-04-11",
+      "name": "Roda JC Kerkrade v MVV Maastricht",
+      "utc": "2027-04-11T14:45:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-12-jong-ajax-jong-psv",
+      "weekend": "2027-04-12",
+      "name": "Jong Ajax v Jong PSV",
+      "utc": "2027-04-12T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-12-jong-fc-utrecht-jong-az",
+      "weekend": "2027-04-12",
+      "name": "Jong FC Utrecht v Jong AZ",
+      "utc": "2027-04-12T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-16-helmond-sport-fc-den-bosch",
+      "weekend": "2027-04-16",
+      "name": "Helmond Sport v FC Den Bosch",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-16-heracles-almelo-jong-ajax",
+      "weekend": "2027-04-16",
+      "name": "Heracles Almelo v Jong Ajax",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-16-nac-breda-almere-city",
+      "weekend": "2027-04-16",
+      "name": "NAC Breda v Almere City",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-16-rkc-waalwijk-fc-eindhoven",
+      "weekend": "2027-04-16",
+      "name": "RKC Waalwijk v FC Eindhoven",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-16-top-oss-fc-emmen",
+      "weekend": "2027-04-16",
+      "name": "TOP Oss v FC Emmen",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-16-vitesse-fc-dordrecht",
+      "weekend": "2027-04-16",
+      "name": "Vitesse v FC Dordrecht",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-17-vvv-venlo-mvv-maastricht",
+      "weekend": "2027-04-17",
+      "name": "VVV-Venlo v MVV Maastricht",
+      "utc": "2027-04-17T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-19-jong-az-de-graafschap",
+      "weekend": "2027-04-19",
+      "name": "Jong AZ v De Graafschap",
+      "utc": "2027-04-19T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-19-jong-fc-utrecht-fc-volendam",
+      "weekend": "2027-04-19",
+      "name": "Jong FC Utrecht v FC Volendam",
+      "utc": "2027-04-19T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-19-jong-psv-roda-jc-kerkrade",
+      "weekend": "2027-04-19",
+      "name": "Jong PSV v Roda JC Kerkrade",
+      "utc": "2027-04-19T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-23-almere-city-top-oss",
+      "weekend": "2027-04-23",
+      "name": "Almere City v TOP Oss",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-23-fc-den-bosch-jong-az",
+      "weekend": "2027-04-23",
+      "name": "FC Den Bosch v Jong AZ",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-23-fc-dordrecht-jong-psv",
+      "weekend": "2027-04-23",
+      "name": "FC Dordrecht v Jong PSV",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-23-fc-eindhoven-vvv-venlo",
+      "weekend": "2027-04-23",
+      "name": "FC Eindhoven v VVV-Venlo",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-23-fc-emmen-heracles-almelo",
+      "weekend": "2027-04-23",
+      "name": "FC Emmen v Heracles Almelo",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-23-fc-volendam-roda-jc-kerkrade",
+      "weekend": "2027-04-23",
+      "name": "FC Volendam v Roda JC Kerkrade",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-23-mvv-maastricht-nac-breda",
+      "weekend": "2027-04-23",
+      "name": "MVV Maastricht v NAC Breda",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-24-helmond-sport-jong-ajax",
+      "weekend": "2027-04-24",
+      "name": "Helmond Sport v Jong Ajax",
+      "utc": "2027-04-24T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-25-de-graafschap-vitesse",
+      "weekend": "2027-04-25",
+      "name": "De Graafschap v Vitesse",
+      "utc": "2027-04-25T10:15:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-25-rkc-waalwijk-jong-fc-utrecht",
+      "weekend": "2027-04-25",
+      "name": "RKC Waalwijk v Jong FC Utrecht",
+      "utc": "2027-04-25T14:45:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-30-heracles-almelo-almere-city",
+      "weekend": "2027-04-30",
+      "name": "Heracles Almelo v Almere City",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-30-nac-breda-rkc-waalwijk",
+      "weekend": "2027-04-30",
+      "name": "NAC Breda v RKC Waalwijk",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-30-roda-jc-kerkrade-fc-emmen",
+      "weekend": "2027-04-30",
+      "name": "Roda JC Kerkrade v FC Emmen",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-30-top-oss-de-graafschap",
+      "weekend": "2027-04-30",
+      "name": "TOP Oss v De Graafschap",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-04-30-vitesse-fc-volendam",
+      "weekend": "2027-04-30",
+      "name": "Vitesse v FC Volendam",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-01-vvv-venlo-helmond-sport",
+      "weekend": "2027-05-01",
+      "name": "VVV-Venlo v Helmond Sport",
+      "utc": "2027-05-01T14:30:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-03-jong-ajax-fc-eindhoven",
+      "weekend": "2027-05-03",
+      "name": "Jong Ajax v FC Eindhoven",
+      "utc": "2027-05-03T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-03-jong-az-fc-dordrecht",
+      "weekend": "2027-05-03",
+      "name": "Jong AZ v FC Dordrecht",
+      "utc": "2027-05-03T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-03-jong-fc-utrecht-fc-den-bosch",
+      "weekend": "2027-05-03",
+      "name": "Jong FC Utrecht v FC Den Bosch",
+      "utc": "2027-05-03T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-03-jong-psv-mvv-maastricht",
+      "weekend": "2027-05-03",
+      "name": "Jong PSV v MVV Maastricht",
+      "utc": "2027-05-03T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-07-almere-city-jong-az",
+      "weekend": "2027-05-07",
+      "name": "Almere City v Jong AZ",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-07-de-graafschap-jong-psv",
+      "weekend": "2027-05-07",
+      "name": "De Graafschap v Jong PSV",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-07-fc-den-bosch-roda-jc-kerkrade",
+      "weekend": "2027-05-07",
+      "name": "FC Den Bosch v Roda JC Kerkrade",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-07-fc-eindhoven-nac-breda",
+      "weekend": "2027-05-07",
+      "name": "FC Eindhoven v NAC Breda",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-07-fc-emmen-jong-fc-utrecht",
+      "weekend": "2027-05-07",
+      "name": "FC Emmen v Jong FC Utrecht",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-07-fc-volendam-mvv-maastricht",
+      "weekend": "2027-05-07",
+      "name": "FC Volendam v MVV Maastricht",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-07-helmond-sport-vitesse",
+      "weekend": "2027-05-07",
+      "name": "Helmond Sport v Vitesse",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-07-heracles-almelo-fc-dordrecht",
+      "weekend": "2027-05-07",
+      "name": "Heracles Almelo v FC Dordrecht",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-07-jong-ajax-top-oss",
+      "weekend": "2027-05-07",
+      "name": "Jong Ajax v TOP Oss",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-07-rkc-waalwijk-vvv-venlo",
+      "weekend": "2027-05-07",
+      "name": "RKC Waalwijk v VVV-Venlo",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-14-fc-dordrecht-rkc-waalwijk",
+      "weekend": "2027-05-14",
+      "name": "FC Dordrecht v RKC Waalwijk",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-14-jong-az-jong-ajax",
+      "weekend": "2027-05-14",
+      "name": "Jong AZ v Jong Ajax",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-14-jong-fc-utrecht-helmond-sport",
+      "weekend": "2027-05-14",
+      "name": "Jong FC Utrecht v Helmond Sport",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-14-jong-psv-fc-emmen",
+      "weekend": "2027-05-14",
+      "name": "Jong PSV v FC Emmen",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-14-mvv-maastricht-fc-eindhoven",
+      "weekend": "2027-05-14",
+      "name": "MVV Maastricht v FC Eindhoven",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-14-nac-breda-de-graafschap",
+      "weekend": "2027-05-14",
+      "name": "NAC Breda v De Graafschap",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-14-roda-jc-kerkrade-almere-city",
+      "weekend": "2027-05-14",
+      "name": "Roda JC Kerkrade v Almere City",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-14-top-oss-fc-volendam",
+      "weekend": "2027-05-14",
+      "name": "TOP Oss v FC Volendam",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-14-vitesse-heracles-almelo",
+      "weekend": "2027-05-14",
+      "name": "Vitesse v Heracles Almelo",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ned.2-2027-05-14-vvv-venlo-fc-den-bosch",
+      "weekend": "2027-05-14",
+      "name": "VVV-Venlo v FC Den Bosch",
+      "utc": "2027-05-14T18:00:00Z"
+    }
+  ]
+}

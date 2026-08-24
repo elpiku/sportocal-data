@@ -1,0 +1,336 @@
+{
+  "sportKey": "f1",
+  "season": "2026",
+  "events": [
+    {
+      "id": "f1-2026-italy-fp1",
+      "weekend": "Italian Grand Prix",
+      "name": "Free Practice 1",
+      "utc": "2026-09-04T10:30:00Z"
+    },
+    {
+      "id": "f1-2026-italy-fp2",
+      "weekend": "Italian Grand Prix",
+      "name": "Free Practice 2",
+      "utc": "2026-09-04T14:00:00Z"
+    },
+    {
+      "id": "f1-2026-italy-fp3",
+      "weekend": "Italian Grand Prix",
+      "name": "Free Practice 3",
+      "utc": "2026-09-05T10:30:00Z"
+    },
+    {
+      "id": "f1-2026-italy-quali",
+      "weekend": "Italian Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "f1-2026-italy-race",
+      "weekend": "Italian Grand Prix",
+      "name": "Race",
+      "utc": "2026-09-06T13:00:00Z"
+    },
+    {
+      "id": "f1-2026-spain-fp1",
+      "weekend": "Spanish Grand Prix",
+      "name": "Free Practice 1",
+      "utc": "2026-09-11T11:30:00Z"
+    },
+    {
+      "id": "f1-2026-spain-fp2",
+      "weekend": "Spanish Grand Prix",
+      "name": "Free Practice 2",
+      "utc": "2026-09-11T15:00:00Z"
+    },
+    {
+      "id": "f1-2026-spain-fp3",
+      "weekend": "Spanish Grand Prix",
+      "name": "Free Practice 3",
+      "utc": "2026-09-12T10:30:00Z"
+    },
+    {
+      "id": "f1-2026-spain-quali",
+      "weekend": "Spanish Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "f1-2026-spain-race",
+      "weekend": "Spanish Grand Prix",
+      "name": "Race",
+      "utc": "2026-09-13T13:00:00Z"
+    },
+    {
+      "id": "f1-2026-azerbaijan-fp1",
+      "weekend": "Azerbaijan Grand Prix",
+      "name": "Free Practice 1",
+      "utc": "2026-09-24T08:30:00Z"
+    },
+    {
+      "id": "f1-2026-azerbaijan-fp2",
+      "weekend": "Azerbaijan Grand Prix",
+      "name": "Free Practice 2",
+      "utc": "2026-09-24T12:00:00Z"
+    },
+    {
+      "id": "f1-2026-azerbaijan-fp3",
+      "weekend": "Azerbaijan Grand Prix",
+      "name": "Free Practice 3",
+      "utc": "2026-09-25T08:30:00Z"
+    },
+    {
+      "id": "f1-2026-azerbaijan-quali",
+      "weekend": "Azerbaijan Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-09-25T12:00:00Z"
+    },
+    {
+      "id": "f1-2026-azerbaijan-race",
+      "weekend": "Azerbaijan Grand Prix",
+      "name": "Race",
+      "utc": "2026-09-26T11:00:00Z"
+    },
+    {
+      "id": "f1-2026-bahrain-fp1",
+      "weekend": "Bahrain Grand Prix",
+      "name": "Free Practice 1",
+      "utc": "2026-10-02T04:30:00Z"
+    },
+    {
+      "id": "f1-2026-bahrain-fp2",
+      "weekend": "Bahrain Grand Prix",
+      "name": "Free Practice 2",
+      "utc": "2026-10-02T08:00:00Z"
+    },
+    {
+      "id": "f1-2026-bahrain-fp3",
+      "weekend": "Bahrain Grand Prix",
+      "name": "Free Practice 3",
+      "utc": "2026-10-03T04:30:00Z"
+    },
+    {
+      "id": "f1-2026-bahrain-quali",
+      "weekend": "Bahrain Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-10-03T08:00:00Z"
+    },
+    {
+      "id": "f1-2026-bahrain-race",
+      "weekend": "Bahrain Grand Prix",
+      "name": "Race",
+      "utc": "2026-10-04T07:00:00Z"
+    },
+    {
+      "id": "f1-2026-singapore-fp1",
+      "weekend": "Singapore Grand Prix",
+      "name": "Free Practice 1",
+      "utc": "2026-10-09T08:30:00Z"
+    },
+    {
+      "id": "f1-2026-singapore-sprint-quali",
+      "weekend": "Singapore Grand Prix",
+      "name": "Sprint Qualifying",
+      "utc": "2026-10-09T12:30:00Z"
+    },
+    {
+      "id": "f1-2026-singapore-sprint",
+      "weekend": "Singapore Grand Prix",
+      "name": "Sprint",
+      "utc": "2026-10-10T09:00:00Z"
+    },
+    {
+      "id": "f1-2026-singapore-quali",
+      "weekend": "Singapore Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-10-10T13:00:00Z"
+    },
+    {
+      "id": "f1-2026-singapore-race",
+      "weekend": "Singapore Grand Prix",
+      "name": "Race",
+      "utc": "2026-10-11T12:00:00Z"
+    },
+    {
+      "id": "f1-2026-usa-fp1",
+      "weekend": "United States Grand Prix",
+      "name": "Free Practice 1",
+      "utc": "2026-10-23T17:30:00Z"
+    },
+    {
+      "id": "f1-2026-usa-fp2",
+      "weekend": "United States Grand Prix",
+      "name": "Free Practice 2",
+      "utc": "2026-10-23T21:00:00Z"
+    },
+    {
+      "id": "f1-2026-usa-fp3",
+      "weekend": "United States Grand Prix",
+      "name": "Free Practice 3",
+      "utc": "2026-10-24T17:30:00Z"
+    },
+    {
+      "id": "f1-2026-usa-quali",
+      "weekend": "United States Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-10-24T21:00:00Z"
+    },
+    {
+      "id": "f1-2026-usa-race",
+      "weekend": "United States Grand Prix",
+      "name": "Race",
+      "utc": "2026-10-25T20:00:00Z"
+    },
+    {
+      "id": "f1-2026-mexico-fp1",
+      "weekend": "Mexico City Grand Prix",
+      "name": "Free Practice 1",
+      "utc": "2026-10-30T18:30:00Z"
+    },
+    {
+      "id": "f1-2026-mexico-fp2",
+      "weekend": "Mexico City Grand Prix",
+      "name": "Free Practice 2",
+      "utc": "2026-10-30T22:00:00Z"
+    },
+    {
+      "id": "f1-2026-mexico-fp3",
+      "weekend": "Mexico City Grand Prix",
+      "name": "Free Practice 3",
+      "utc": "2026-10-31T17:30:00Z"
+    },
+    {
+      "id": "f1-2026-mexico-quali",
+      "weekend": "Mexico City Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-10-31T21:00:00Z"
+    },
+    {
+      "id": "f1-2026-mexico-race",
+      "weekend": "Mexico City Grand Prix",
+      "name": "Race",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "f1-2026-brazil-fp1",
+      "weekend": "S\u00e3o Paulo Grand Prix",
+      "name": "Free Practice 1",
+      "utc": "2026-11-06T15:30:00Z"
+    },
+    {
+      "id": "f1-2026-brazil-fp2",
+      "weekend": "S\u00e3o Paulo Grand Prix",
+      "name": "Free Practice 2",
+      "utc": "2026-11-06T19:00:00Z"
+    },
+    {
+      "id": "f1-2026-brazil-fp3",
+      "weekend": "S\u00e3o Paulo Grand Prix",
+      "name": "Free Practice 3",
+      "utc": "2026-11-07T14:30:00Z"
+    },
+    {
+      "id": "f1-2026-brazil-quali",
+      "weekend": "S\u00e3o Paulo Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-11-07T18:00:00Z"
+    },
+    {
+      "id": "f1-2026-brazil-race",
+      "weekend": "S\u00e3o Paulo Grand Prix",
+      "name": "Race",
+      "utc": "2026-11-08T17:00:00Z"
+    },
+    {
+      "id": "f1-2026-lasvegas-fp1",
+      "weekend": "Las Vegas Grand Prix",
+      "name": "Free Practice 1",
+      "utc": "2026-11-20T00:30:00Z"
+    },
+    {
+      "id": "f1-2026-lasvegas-fp2",
+      "weekend": "Las Vegas Grand Prix",
+      "name": "Free Practice 2",
+      "utc": "2026-11-20T04:00:00Z"
+    },
+    {
+      "id": "f1-2026-lasvegas-fp3",
+      "weekend": "Las Vegas Grand Prix",
+      "name": "Free Practice 3",
+      "utc": "2026-11-21T00:30:00Z"
+    },
+    {
+      "id": "f1-2026-lasvegas-quali",
+      "weekend": "Las Vegas Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-11-21T04:00:00Z"
+    },
+    {
+      "id": "f1-2026-lasvegas-race",
+      "weekend": "Las Vegas Grand Prix",
+      "name": "Race",
+      "utc": "2026-11-22T04:00:00Z"
+    },
+    {
+      "id": "f1-2026-qatar-fp1",
+      "weekend": "Qatar Grand Prix",
+      "name": "Free Practice 1",
+      "utc": "2026-11-27T13:30:00Z"
+    },
+    {
+      "id": "f1-2026-qatar-fp2",
+      "weekend": "Qatar Grand Prix",
+      "name": "Free Practice 2",
+      "utc": "2026-11-27T17:00:00Z"
+    },
+    {
+      "id": "f1-2026-qatar-fp3",
+      "weekend": "Qatar Grand Prix",
+      "name": "Free Practice 3",
+      "utc": "2026-11-28T14:30:00Z"
+    },
+    {
+      "id": "f1-2026-qatar-quali",
+      "weekend": "Qatar Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-11-28T18:00:00Z"
+    },
+    {
+      "id": "f1-2026-qatar-race",
+      "weekend": "Qatar Grand Prix",
+      "name": "Race",
+      "utc": "2026-11-29T16:00:00Z"
+    },
+    {
+      "id": "f1-2026-abudhabi-fp1",
+      "weekend": "Abu Dhabi Grand Prix",
+      "name": "Free Practice 1",
+      "utc": "2026-12-04T09:30:00Z"
+    },
+    {
+      "id": "f1-2026-abudhabi-fp2",
+      "weekend": "Abu Dhabi Grand Prix",
+      "name": "Free Practice 2",
+      "utc": "2026-12-04T13:00:00Z"
+    },
+    {
+      "id": "f1-2026-abudhabi-fp3",
+      "weekend": "Abu Dhabi Grand Prix",
+      "name": "Free Practice 3",
+      "utc": "2026-12-05T10:30:00Z"
+    },
+    {
+      "id": "f1-2026-abudhabi-quali",
+      "weekend": "Abu Dhabi Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-12-05T14:00:00Z"
+    },
+    {
+      "id": "f1-2026-abudhabi-race",
+      "weekend": "Abu Dhabi Grand Prix",
+      "name": "Race",
+      "utc": "2026-12-06T13:00:00Z"
+    }
+  ]
+}

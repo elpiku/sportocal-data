@@ -1,0 +1,1736 @@
+{
+  "sportKey": "soccer-ned.1",
+  "leagueName": "Dutch Eredivisie",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "ned.1-2026-08-14-telstar-sparta-rotterdam",
+      "weekend": "2026-08-14",
+      "name": "Telstar v Sparta Rotterdam",
+      "utc": "2026-08-14T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-15-willem-ii-nec-nijmegen",
+      "weekend": "2026-08-15",
+      "name": "Willem II v NEC Nijmegen",
+      "utc": "2026-08-15T14:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-15-fc-utrecht-az-alkmaar",
+      "weekend": "2026-08-15",
+      "name": "FC Utrecht v AZ Alkmaar",
+      "utc": "2026-08-15T16:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-15-excelsior-psv-eindhoven",
+      "weekend": "2026-08-15",
+      "name": "Excelsior v PSV Eindhoven",
+      "utc": "2026-08-15T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-15-fortuna-sittard-sc-cambuur",
+      "weekend": "2026-08-15",
+      "name": "Fortuna Sittard v SC Cambuur",
+      "utc": "2026-08-15T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-16-ado-den-haag-fc-groningen",
+      "weekend": "2026-08-16",
+      "name": "ADO Den Haag v FC Groningen",
+      "utc": "2026-08-16T10:15:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-16-fc-twente-pec-zwolle",
+      "weekend": "2026-08-16",
+      "name": "FC Twente v PEC Zwolle",
+      "utc": "2026-08-16T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-16-feyenoord-rotterdam-go-ahead-eagles",
+      "weekend": "2026-08-16",
+      "name": "Feyenoord Rotterdam v Go Ahead Eagles",
+      "utc": "2026-08-16T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-16-ajax-amsterdam-heerenveen",
+      "weekend": "2026-08-16",
+      "name": "Ajax Amsterdam v Heerenveen",
+      "utc": "2026-08-16T14:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-22-fortuna-sittard-az-alkmaar",
+      "weekend": "2026-08-22",
+      "name": "Fortuna Sittard v AZ Alkmaar",
+      "utc": "2026-08-22T14:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-22-sparta-rotterdam-fc-utrecht",
+      "weekend": "2026-08-22",
+      "name": "Sparta Rotterdam v FC Utrecht",
+      "utc": "2026-08-22T16:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-22-nec-nijmegen-excelsior",
+      "weekend": "2026-08-22",
+      "name": "NEC Nijmegen v Excelsior",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-22-heerenveen-pec-zwolle",
+      "weekend": "2026-08-22",
+      "name": "Heerenveen v PEC Zwolle",
+      "utc": "2026-08-22T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-23-go-ahead-eagles-ado-den-haag",
+      "weekend": "2026-08-23",
+      "name": "Go Ahead Eagles v ADO Den Haag",
+      "utc": "2026-08-23T10:15:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-23-psv-eindhoven-fc-groningen",
+      "weekend": "2026-08-23",
+      "name": "PSV Eindhoven v FC Groningen",
+      "utc": "2026-08-23T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-23-sc-cambuur-feyenoord-rotterdam",
+      "weekend": "2026-08-23",
+      "name": "SC Cambuur v Feyenoord Rotterdam",
+      "utc": "2026-08-23T14:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-28-fc-groningen-fortuna-sittard",
+      "weekend": "2026-08-28",
+      "name": "FC Groningen v Fortuna Sittard",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-29-excelsior-sparta-rotterdam",
+      "weekend": "2026-08-29",
+      "name": "Excelsior v Sparta Rotterdam",
+      "utc": "2026-08-29T14:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-29-az-alkmaar-go-ahead-eagles",
+      "weekend": "2026-08-29",
+      "name": "AZ Alkmaar v Go Ahead Eagles",
+      "utc": "2026-08-29T16:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-29-pec-zwolle-nec-nijmegen",
+      "weekend": "2026-08-29",
+      "name": "PEC Zwolle v NEC Nijmegen",
+      "utc": "2026-08-29T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-30-fc-utrecht-psv-eindhoven",
+      "weekend": "2026-08-30",
+      "name": "FC Utrecht v PSV Eindhoven",
+      "utc": "2026-08-30T10:15:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-30-feyenoord-rotterdam-ado-den-haag",
+      "weekend": "2026-08-30",
+      "name": "Feyenoord Rotterdam v ADO Den Haag",
+      "utc": "2026-08-30T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-30-willem-ii-heerenveen",
+      "weekend": "2026-08-30",
+      "name": "Willem II v Heerenveen",
+      "utc": "2026-08-30T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-30-telstar-ajax-amsterdam",
+      "weekend": "2026-08-30",
+      "name": "Telstar v Ajax Amsterdam",
+      "utc": "2026-08-30T14:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-08-30-sc-cambuur-fc-twente",
+      "weekend": "2026-08-30",
+      "name": "SC Cambuur v FC Twente",
+      "utc": "2026-08-30T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-04-sparta-rotterdam-pec-zwolle",
+      "weekend": "2026-09-04",
+      "name": "Sparta Rotterdam v PEC Zwolle",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-05-nec-nijmegen-feyenoord-rotterdam",
+      "weekend": "2026-09-05",
+      "name": "NEC Nijmegen v Feyenoord Rotterdam",
+      "utc": "2026-09-05T14:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-05-fc-utrecht-go-ahead-eagles",
+      "weekend": "2026-09-05",
+      "name": "FC Utrecht v Go Ahead Eagles",
+      "utc": "2026-09-05T16:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-05-ajax-amsterdam-psv-eindhoven",
+      "weekend": "2026-09-05",
+      "name": "Ajax Amsterdam v PSV Eindhoven",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-05-willem-ii-excelsior",
+      "weekend": "2026-09-05",
+      "name": "Willem II v Excelsior",
+      "utc": "2026-09-05T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-06-fc-groningen-fc-twente",
+      "weekend": "2026-09-06",
+      "name": "FC Groningen v FC Twente",
+      "utc": "2026-09-06T10:15:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-06-heerenveen-az-alkmaar",
+      "weekend": "2026-09-06",
+      "name": "Heerenveen v AZ Alkmaar",
+      "utc": "2026-09-06T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-06-telstar-sc-cambuur",
+      "weekend": "2026-09-06",
+      "name": "Telstar v SC Cambuur",
+      "utc": "2026-09-06T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-06-ado-den-haag-fortuna-sittard",
+      "weekend": "2026-09-06",
+      "name": "ADO Den Haag v Fortuna Sittard",
+      "utc": "2026-09-06T14:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-09-fc-twente-telstar",
+      "weekend": "2026-09-09",
+      "name": "FC Twente v Telstar",
+      "utc": "2026-09-09T16:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-11-az-alkmaar-willem-ii",
+      "weekend": "2026-09-11",
+      "name": "AZ Alkmaar v Willem II",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-12-fc-twente-ado-den-haag",
+      "weekend": "2026-09-12",
+      "name": "FC Twente v ADO Den Haag",
+      "utc": "2026-09-12T14:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-12-go-ahead-eagles-fc-groningen",
+      "weekend": "2026-09-12",
+      "name": "Go Ahead Eagles v FC Groningen",
+      "utc": "2026-09-12T16:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-12-fortuna-sittard-ajax-amsterdam",
+      "weekend": "2026-09-12",
+      "name": "Fortuna Sittard v Ajax Amsterdam",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-12-heerenveen-telstar",
+      "weekend": "2026-09-12",
+      "name": "Heerenveen v Telstar",
+      "utc": "2026-09-12T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-13-excelsior-fc-utrecht",
+      "weekend": "2026-09-13",
+      "name": "Excelsior v FC Utrecht",
+      "utc": "2026-09-13T10:15:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-13-psv-eindhoven-sparta-rotterdam",
+      "weekend": "2026-09-13",
+      "name": "PSV Eindhoven v Sparta Rotterdam",
+      "utc": "2026-09-13T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-13-sc-cambuur-nec-nijmegen",
+      "weekend": "2026-09-13",
+      "name": "SC Cambuur v NEC Nijmegen",
+      "utc": "2026-09-13T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-13-pec-zwolle-feyenoord-rotterdam",
+      "weekend": "2026-09-13",
+      "name": "PEC Zwolle v Feyenoord Rotterdam",
+      "utc": "2026-09-13T14:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-15-ajax-amsterdam-willem-ii",
+      "weekend": "2026-09-15",
+      "name": "Ajax Amsterdam v Willem II",
+      "utc": "2026-09-15T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-18-fc-groningen-pec-zwolle",
+      "weekend": "2026-09-18",
+      "name": "FC Groningen v PEC Zwolle",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-19-ado-den-haag-sc-cambuur",
+      "weekend": "2026-09-19",
+      "name": "ADO Den Haag v SC Cambuur",
+      "utc": "2026-09-19T14:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-19-sparta-rotterdam-heerenveen",
+      "weekend": "2026-09-19",
+      "name": "Sparta Rotterdam v Heerenveen",
+      "utc": "2026-09-19T16:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-19-ajax-amsterdam-excelsior",
+      "weekend": "2026-09-19",
+      "name": "Ajax Amsterdam v Excelsior",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-19-willem-ii-fortuna-sittard",
+      "weekend": "2026-09-19",
+      "name": "Willem II v Fortuna Sittard",
+      "utc": "2026-09-19T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-20-feyenoord-rotterdam-fc-utrecht",
+      "weekend": "2026-09-20",
+      "name": "Feyenoord Rotterdam v FC Utrecht",
+      "utc": "2026-09-20T10:15:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-20-az-alkmaar-telstar",
+      "weekend": "2026-09-20",
+      "name": "AZ Alkmaar v Telstar",
+      "utc": "2026-09-20T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-20-nec-nijmegen-go-ahead-eagles",
+      "weekend": "2026-09-20",
+      "name": "NEC Nijmegen v Go Ahead Eagles",
+      "utc": "2026-09-20T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-09-20-fc-twente-psv-eindhoven",
+      "weekend": "2026-09-20",
+      "name": "FC Twente v PSV Eindhoven",
+      "utc": "2026-09-20T14:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-10-psv-eindhoven-heerenveen",
+      "weekend": "2026-10-10",
+      "name": "PSV Eindhoven v Heerenveen",
+      "utc": "2026-10-10T14:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-10-feyenoord-rotterdam-az-alkmaar",
+      "weekend": "2026-10-10",
+      "name": "Feyenoord Rotterdam v AZ Alkmaar",
+      "utc": "2026-10-10T16:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-10-go-ahead-eagles-sparta-rotterdam",
+      "weekend": "2026-10-10",
+      "name": "Go Ahead Eagles v Sparta Rotterdam",
+      "utc": "2026-10-10T16:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-10-ajax-amsterdam-nec-nijmegen",
+      "weekend": "2026-10-10",
+      "name": "Ajax Amsterdam v NEC Nijmegen",
+      "utc": "2026-10-10T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-10-fortuna-sittard-fc-twente",
+      "weekend": "2026-10-10",
+      "name": "Fortuna Sittard v FC Twente",
+      "utc": "2026-10-10T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-11-fc-utrecht-willem-ii",
+      "weekend": "2026-10-11",
+      "name": "FC Utrecht v Willem II",
+      "utc": "2026-10-11T10:15:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-11-pec-zwolle-sc-cambuur",
+      "weekend": "2026-10-11",
+      "name": "PEC Zwolle v SC Cambuur",
+      "utc": "2026-10-11T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-11-telstar-ado-den-haag",
+      "weekend": "2026-10-11",
+      "name": "Telstar v ADO Den Haag",
+      "utc": "2026-10-11T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-11-excelsior-fc-groningen",
+      "weekend": "2026-10-11",
+      "name": "Excelsior v FC Groningen",
+      "utc": "2026-10-11T14:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-16-heerenveen-excelsior",
+      "weekend": "2026-10-16",
+      "name": "Heerenveen v Excelsior",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-17-ado-den-haag-psv-eindhoven",
+      "weekend": "2026-10-17",
+      "name": "ADO Den Haag v PSV Eindhoven",
+      "utc": "2026-10-17T14:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-17-nec-nijmegen-fortuna-sittard",
+      "weekend": "2026-10-17",
+      "name": "NEC Nijmegen v Fortuna Sittard",
+      "utc": "2026-10-17T16:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-17-telstar-feyenoord-rotterdam",
+      "weekend": "2026-10-17",
+      "name": "Telstar v Feyenoord Rotterdam",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-17-sparta-rotterdam-willem-ii",
+      "weekend": "2026-10-17",
+      "name": "Sparta Rotterdam v Willem II",
+      "utc": "2026-10-17T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-18-pec-zwolle-go-ahead-eagles",
+      "weekend": "2026-10-18",
+      "name": "PEC Zwolle v Go Ahead Eagles",
+      "utc": "2026-10-18T10:15:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-18-fc-twente-fc-utrecht",
+      "weekend": "2026-10-18",
+      "name": "FC Twente v FC Utrecht",
+      "utc": "2026-10-18T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-18-sc-cambuur-az-alkmaar",
+      "weekend": "2026-10-18",
+      "name": "SC Cambuur v AZ Alkmaar",
+      "utc": "2026-10-18T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-18-fc-groningen-ajax-amsterdam",
+      "weekend": "2026-10-18",
+      "name": "FC Groningen v Ajax Amsterdam",
+      "utc": "2026-10-18T14:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-23-go-ahead-eagles-telstar",
+      "weekend": "2026-10-23",
+      "name": "Go Ahead Eagles v Telstar",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-24-fc-utrecht-pec-zwolle",
+      "weekend": "2026-10-24",
+      "name": "FC Utrecht v PEC Zwolle",
+      "utc": "2026-10-24T14:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-24-willem-ii-sc-cambuur",
+      "weekend": "2026-10-24",
+      "name": "Willem II v SC Cambuur",
+      "utc": "2026-10-24T16:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-24-ado-den-haag-heerenveen",
+      "weekend": "2026-10-24",
+      "name": "ADO Den Haag v Heerenveen",
+      "utc": "2026-10-24T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-25-fortuna-sittard-excelsior",
+      "weekend": "2026-10-25",
+      "name": "Fortuna Sittard v Excelsior",
+      "utc": "2026-10-25T11:15:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-25-nec-nijmegen-fc-groningen",
+      "weekend": "2026-10-25",
+      "name": "NEC Nijmegen v FC Groningen",
+      "utc": "2026-10-25T13:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-25-psv-eindhoven-feyenoord-rotterdam",
+      "weekend": "2026-10-25",
+      "name": "PSV Eindhoven v Feyenoord Rotterdam",
+      "utc": "2026-10-25T13:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-25-sparta-rotterdam-ajax-amsterdam",
+      "weekend": "2026-10-25",
+      "name": "Sparta Rotterdam v Ajax Amsterdam",
+      "utc": "2026-10-25T15:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-25-az-alkmaar-fc-twente",
+      "weekend": "2026-10-25",
+      "name": "AZ Alkmaar v FC Twente",
+      "utc": "2026-10-25T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-31-feyenoord-rotterdam-fortuna-sittard",
+      "weekend": "2026-10-31",
+      "name": "Feyenoord Rotterdam v Fortuna Sittard",
+      "utc": "2026-10-31T15:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-31-heerenveen-nec-nijmegen",
+      "weekend": "2026-10-31",
+      "name": "Heerenveen v NEC Nijmegen",
+      "utc": "2026-10-31T17:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-31-psv-eindhoven-willem-ii",
+      "weekend": "2026-10-31",
+      "name": "PSV Eindhoven v Willem II",
+      "utc": "2026-10-31T17:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-31-ajax-amsterdam-az-alkmaar",
+      "weekend": "2026-10-31",
+      "name": "Ajax Amsterdam v AZ Alkmaar",
+      "utc": "2026-10-31T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-10-31-sc-cambuur-go-ahead-eagles",
+      "weekend": "2026-10-31",
+      "name": "SC Cambuur v Go Ahead Eagles",
+      "utc": "2026-10-31T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-01-pec-zwolle-ado-den-haag",
+      "weekend": "2026-11-01",
+      "name": "PEC Zwolle v ADO Den Haag",
+      "utc": "2026-11-01T11:15:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-01-excelsior-fc-twente",
+      "weekend": "2026-11-01",
+      "name": "Excelsior v FC Twente",
+      "utc": "2026-11-01T13:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-01-telstar-fc-utrecht",
+      "weekend": "2026-11-01",
+      "name": "Telstar v FC Utrecht",
+      "utc": "2026-11-01T13:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-01-fc-groningen-sparta-rotterdam",
+      "weekend": "2026-11-01",
+      "name": "FC Groningen v Sparta Rotterdam",
+      "utc": "2026-11-01T15:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-06-willem-ii-pec-zwolle",
+      "weekend": "2026-11-06",
+      "name": "Willem II v PEC Zwolle",
+      "utc": "2026-11-06T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-07-fortuna-sittard-telstar",
+      "weekend": "2026-11-07",
+      "name": "Fortuna Sittard v Telstar",
+      "utc": "2026-11-07T15:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-07-ado-den-haag-sparta-rotterdam",
+      "weekend": "2026-11-07",
+      "name": "ADO Den Haag v Sparta Rotterdam",
+      "utc": "2026-11-07T17:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-07-sc-cambuur-psv-eindhoven",
+      "weekend": "2026-11-07",
+      "name": "SC Cambuur v PSV Eindhoven",
+      "utc": "2026-11-07T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-07-excelsior-go-ahead-eagles",
+      "weekend": "2026-11-07",
+      "name": "Excelsior v Go Ahead Eagles",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-08-heerenveen-feyenoord-rotterdam",
+      "weekend": "2026-11-08",
+      "name": "Heerenveen v Feyenoord Rotterdam",
+      "utc": "2026-11-08T11:15:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-08-fc-twente-ajax-amsterdam",
+      "weekend": "2026-11-08",
+      "name": "FC Twente v Ajax Amsterdam",
+      "utc": "2026-11-08T13:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-08-fc-utrecht-nec-nijmegen",
+      "weekend": "2026-11-08",
+      "name": "FC Utrecht v NEC Nijmegen",
+      "utc": "2026-11-08T13:30:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-08-az-alkmaar-fc-groningen",
+      "weekend": "2026-11-08",
+      "name": "AZ Alkmaar v FC Groningen",
+      "utc": "2026-11-08T15:45:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-21-ajax-amsterdam-ado-den-haag",
+      "weekend": "2026-11-21",
+      "name": "Ajax Amsterdam v ADO Den Haag",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-21-fc-groningen-heerenveen",
+      "weekend": "2026-11-21",
+      "name": "FC Groningen v Heerenveen",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-21-fc-twente-willem-ii",
+      "weekend": "2026-11-21",
+      "name": "FC Twente v Willem II",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-21-fc-utrecht-sc-cambuur",
+      "weekend": "2026-11-21",
+      "name": "FC Utrecht v SC Cambuur",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-21-feyenoord-rotterdam-excelsior",
+      "weekend": "2026-11-21",
+      "name": "Feyenoord Rotterdam v Excelsior",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-21-go-ahead-eagles-fortuna-sittard",
+      "weekend": "2026-11-21",
+      "name": "Go Ahead Eagles v Fortuna Sittard",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-21-nec-nijmegen-psv-eindhoven",
+      "weekend": "2026-11-21",
+      "name": "NEC Nijmegen v PSV Eindhoven",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-21-sparta-rotterdam-az-alkmaar",
+      "weekend": "2026-11-21",
+      "name": "Sparta Rotterdam v AZ Alkmaar",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-21-telstar-pec-zwolle",
+      "weekend": "2026-11-21",
+      "name": "Telstar v PEC Zwolle",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-28-ado-den-haag-fc-utrecht",
+      "weekend": "2026-11-28",
+      "name": "ADO Den Haag v FC Utrecht",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-28-excelsior-telstar",
+      "weekend": "2026-11-28",
+      "name": "Excelsior v Telstar",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-28-fc-groningen-willem-ii",
+      "weekend": "2026-11-28",
+      "name": "FC Groningen v Willem II",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-28-feyenoord-rotterdam-ajax-amsterdam",
+      "weekend": "2026-11-28",
+      "name": "Feyenoord Rotterdam v Ajax Amsterdam",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-28-fortuna-sittard-heerenveen",
+      "weekend": "2026-11-28",
+      "name": "Fortuna Sittard v Heerenveen",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-28-nec-nijmegen-fc-twente",
+      "weekend": "2026-11-28",
+      "name": "NEC Nijmegen v FC Twente",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-28-pec-zwolle-az-alkmaar",
+      "weekend": "2026-11-28",
+      "name": "PEC Zwolle v AZ Alkmaar",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-28-psv-eindhoven-go-ahead-eagles",
+      "weekend": "2026-11-28",
+      "name": "PSV Eindhoven v Go Ahead Eagles",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-11-28-sc-cambuur-sparta-rotterdam",
+      "weekend": "2026-11-28",
+      "name": "SC Cambuur v Sparta Rotterdam",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-05-ado-den-haag-excelsior",
+      "weekend": "2026-12-05",
+      "name": "ADO Den Haag v Excelsior",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-05-ajax-amsterdam-fc-utrecht",
+      "weekend": "2026-12-05",
+      "name": "Ajax Amsterdam v FC Utrecht",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-05-az-alkmaar-psv-eindhoven",
+      "weekend": "2026-12-05",
+      "name": "AZ Alkmaar v PSV Eindhoven",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-05-fortuna-sittard-pec-zwolle",
+      "weekend": "2026-12-05",
+      "name": "Fortuna Sittard v PEC Zwolle",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-05-go-ahead-eagles-fc-twente",
+      "weekend": "2026-12-05",
+      "name": "Go Ahead Eagles v FC Twente",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-05-heerenveen-sc-cambuur",
+      "weekend": "2026-12-05",
+      "name": "Heerenveen v SC Cambuur",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-05-sparta-rotterdam-nec-nijmegen",
+      "weekend": "2026-12-05",
+      "name": "Sparta Rotterdam v NEC Nijmegen",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-05-telstar-fc-groningen",
+      "weekend": "2026-12-05",
+      "name": "Telstar v FC Groningen",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-05-willem-ii-feyenoord-rotterdam",
+      "weekend": "2026-12-05",
+      "name": "Willem II v Feyenoord Rotterdam",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-12-ajax-amsterdam-sc-cambuur",
+      "weekend": "2026-12-12",
+      "name": "Ajax Amsterdam v SC Cambuur",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-12-az-alkmaar-nec-nijmegen",
+      "weekend": "2026-12-12",
+      "name": "AZ Alkmaar v NEC Nijmegen",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-12-fc-groningen-feyenoord-rotterdam",
+      "weekend": "2026-12-12",
+      "name": "FC Groningen v Feyenoord Rotterdam",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-12-fc-twente-sparta-rotterdam",
+      "weekend": "2026-12-12",
+      "name": "FC Twente v Sparta Rotterdam",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-12-fc-utrecht-fortuna-sittard",
+      "weekend": "2026-12-12",
+      "name": "FC Utrecht v Fortuna Sittard",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-12-heerenveen-go-ahead-eagles",
+      "weekend": "2026-12-12",
+      "name": "Heerenveen v Go Ahead Eagles",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-12-pec-zwolle-excelsior",
+      "weekend": "2026-12-12",
+      "name": "PEC Zwolle v Excelsior",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-12-psv-eindhoven-telstar",
+      "weekend": "2026-12-12",
+      "name": "PSV Eindhoven v Telstar",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-12-willem-ii-ado-den-haag",
+      "weekend": "2026-12-12",
+      "name": "Willem II v ADO Den Haag",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-19-excelsior-az-alkmaar",
+      "weekend": "2026-12-19",
+      "name": "Excelsior v AZ Alkmaar",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-19-fc-utrecht-heerenveen",
+      "weekend": "2026-12-19",
+      "name": "FC Utrecht v Heerenveen",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-19-feyenoord-rotterdam-fc-twente",
+      "weekend": "2026-12-19",
+      "name": "Feyenoord Rotterdam v FC Twente",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-19-fortuna-sittard-sparta-rotterdam",
+      "weekend": "2026-12-19",
+      "name": "Fortuna Sittard v Sparta Rotterdam",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-19-go-ahead-eagles-ajax-amsterdam",
+      "weekend": "2026-12-19",
+      "name": "Go Ahead Eagles v Ajax Amsterdam",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-19-nec-nijmegen-ado-den-haag",
+      "weekend": "2026-12-19",
+      "name": "NEC Nijmegen v ADO Den Haag",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-19-psv-eindhoven-pec-zwolle",
+      "weekend": "2026-12-19",
+      "name": "PSV Eindhoven v PEC Zwolle",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-19-sc-cambuur-fc-groningen",
+      "weekend": "2026-12-19",
+      "name": "SC Cambuur v FC Groningen",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2026-12-19-telstar-willem-ii",
+      "weekend": "2026-12-19",
+      "name": "Telstar v Willem II",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-08-fc-twente-fortuna-sittard",
+      "weekend": "2027-01-08",
+      "name": "FC Twente v Fortuna Sittard",
+      "utc": "2027-01-08T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-09-sparta-rotterdam-excelsior",
+      "weekend": "2027-01-09",
+      "name": "Sparta Rotterdam v Excelsior",
+      "utc": "2027-01-09T15:30:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-09-pec-zwolle-fc-utrecht",
+      "weekend": "2027-01-09",
+      "name": "PEC Zwolle v FC Utrecht",
+      "utc": "2027-01-09T17:45:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-09-willem-ii-ajax-amsterdam",
+      "weekend": "2027-01-09",
+      "name": "Willem II v Ajax Amsterdam",
+      "utc": "2027-01-09T19:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-09-az-alkmaar-heerenveen",
+      "weekend": "2027-01-09",
+      "name": "AZ Alkmaar v Heerenveen",
+      "utc": "2027-01-09T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-10-nec-nijmegen-sc-cambuur",
+      "weekend": "2027-01-10",
+      "name": "NEC Nijmegen v SC Cambuur",
+      "utc": "2027-01-10T11:15:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-10-ado-den-haag-telstar",
+      "weekend": "2027-01-10",
+      "name": "ADO Den Haag v Telstar",
+      "utc": "2027-01-10T13:30:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-10-feyenoord-rotterdam-psv-eindhoven",
+      "weekend": "2027-01-10",
+      "name": "Feyenoord Rotterdam v PSV Eindhoven",
+      "utc": "2027-01-10T13:30:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-10-fc-groningen-go-ahead-eagles",
+      "weekend": "2027-01-10",
+      "name": "FC Groningen v Go Ahead Eagles",
+      "utc": "2027-01-10T15:45:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-16-ado-den-haag-pec-zwolle",
+      "weekend": "2027-01-16",
+      "name": "ADO Den Haag v PEC Zwolle",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-16-ajax-amsterdam-fc-groningen",
+      "weekend": "2027-01-16",
+      "name": "Ajax Amsterdam v FC Groningen",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-16-excelsior-feyenoord-rotterdam",
+      "weekend": "2027-01-16",
+      "name": "Excelsior v Feyenoord Rotterdam",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-16-fc-utrecht-fc-twente",
+      "weekend": "2027-01-16",
+      "name": "FC Utrecht v FC Twente",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-16-fortuna-sittard-psv-eindhoven",
+      "weekend": "2027-01-16",
+      "name": "Fortuna Sittard v PSV Eindhoven",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-16-go-ahead-eagles-az-alkmaar",
+      "weekend": "2027-01-16",
+      "name": "Go Ahead Eagles v AZ Alkmaar",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-16-heerenveen-sparta-rotterdam",
+      "weekend": "2027-01-16",
+      "name": "Heerenveen v Sparta Rotterdam",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-16-sc-cambuur-willem-ii",
+      "weekend": "2027-01-16",
+      "name": "SC Cambuur v Willem II",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-16-telstar-nec-nijmegen",
+      "weekend": "2027-01-16",
+      "name": "Telstar v NEC Nijmegen",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-23-ajax-amsterdam-telstar",
+      "weekend": "2027-01-23",
+      "name": "Ajax Amsterdam v Telstar",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-23-az-alkmaar-fc-utrecht",
+      "weekend": "2027-01-23",
+      "name": "AZ Alkmaar v FC Utrecht",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-23-excelsior-fortuna-sittard",
+      "weekend": "2027-01-23",
+      "name": "Excelsior v Fortuna Sittard",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-23-fc-twente-heerenveen",
+      "weekend": "2027-01-23",
+      "name": "FC Twente v Heerenveen",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-23-feyenoord-rotterdam-pec-zwolle",
+      "weekend": "2027-01-23",
+      "name": "Feyenoord Rotterdam v PEC Zwolle",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-23-go-ahead-eagles-sc-cambuur",
+      "weekend": "2027-01-23",
+      "name": "Go Ahead Eagles v SC Cambuur",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-23-nec-nijmegen-willem-ii",
+      "weekend": "2027-01-23",
+      "name": "NEC Nijmegen v Willem II",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-23-psv-eindhoven-ado-den-haag",
+      "weekend": "2027-01-23",
+      "name": "PSV Eindhoven v ADO Den Haag",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-23-sparta-rotterdam-fc-groningen",
+      "weekend": "2027-01-23",
+      "name": "Sparta Rotterdam v FC Groningen",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-30-ado-den-haag-go-ahead-eagles",
+      "weekend": "2027-01-30",
+      "name": "ADO Den Haag v Go Ahead Eagles",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-30-az-alkmaar-feyenoord-rotterdam",
+      "weekend": "2027-01-30",
+      "name": "AZ Alkmaar v Feyenoord Rotterdam",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-30-fc-groningen-nec-nijmegen",
+      "weekend": "2027-01-30",
+      "name": "FC Groningen v NEC Nijmegen",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-30-fc-twente-sc-cambuur",
+      "weekend": "2027-01-30",
+      "name": "FC Twente v SC Cambuur",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-30-fc-utrecht-excelsior",
+      "weekend": "2027-01-30",
+      "name": "FC Utrecht v Excelsior",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-30-heerenveen-ajax-amsterdam",
+      "weekend": "2027-01-30",
+      "name": "Heerenveen v Ajax Amsterdam",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-30-pec-zwolle-fortuna-sittard",
+      "weekend": "2027-01-30",
+      "name": "PEC Zwolle v Fortuna Sittard",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-30-sparta-rotterdam-telstar",
+      "weekend": "2027-01-30",
+      "name": "Sparta Rotterdam v Telstar",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-01-30-willem-ii-psv-eindhoven",
+      "weekend": "2027-01-30",
+      "name": "Willem II v PSV Eindhoven",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-13-excelsior-ajax-amsterdam",
+      "weekend": "2027-02-13",
+      "name": "Excelsior v Ajax Amsterdam",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-13-fc-groningen-az-alkmaar",
+      "weekend": "2027-02-13",
+      "name": "FC Groningen v AZ Alkmaar",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-13-feyenoord-rotterdam-nec-nijmegen",
+      "weekend": "2027-02-13",
+      "name": "Feyenoord Rotterdam v NEC Nijmegen",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-13-fortuna-sittard-ado-den-haag",
+      "weekend": "2027-02-13",
+      "name": "Fortuna Sittard v ADO Den Haag",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-13-go-ahead-eagles-pec-zwolle",
+      "weekend": "2027-02-13",
+      "name": "Go Ahead Eagles v PEC Zwolle",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-13-psv-eindhoven-fc-twente",
+      "weekend": "2027-02-13",
+      "name": "PSV Eindhoven v FC Twente",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-13-sc-cambuur-fc-utrecht",
+      "weekend": "2027-02-13",
+      "name": "SC Cambuur v FC Utrecht",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-13-telstar-heerenveen",
+      "weekend": "2027-02-13",
+      "name": "Telstar v Heerenveen",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-13-willem-ii-sparta-rotterdam",
+      "weekend": "2027-02-13",
+      "name": "Willem II v Sparta Rotterdam",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-20-ajax-amsterdam-go-ahead-eagles",
+      "weekend": "2027-02-20",
+      "name": "Ajax Amsterdam v Go Ahead Eagles",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-20-az-alkmaar-fortuna-sittard",
+      "weekend": "2027-02-20",
+      "name": "AZ Alkmaar v Fortuna Sittard",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-20-fc-twente-excelsior",
+      "weekend": "2027-02-20",
+      "name": "FC Twente v Excelsior",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-20-fc-utrecht-ado-den-haag",
+      "weekend": "2027-02-20",
+      "name": "FC Utrecht v ADO Den Haag",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-20-feyenoord-rotterdam-telstar",
+      "weekend": "2027-02-20",
+      "name": "Feyenoord Rotterdam v Telstar",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-20-heerenveen-willem-ii",
+      "weekend": "2027-02-20",
+      "name": "Heerenveen v Willem II",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-20-nec-nijmegen-sparta-rotterdam",
+      "weekend": "2027-02-20",
+      "name": "NEC Nijmegen v Sparta Rotterdam",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-20-pec-zwolle-fc-groningen",
+      "weekend": "2027-02-20",
+      "name": "PEC Zwolle v FC Groningen",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-20-psv-eindhoven-sc-cambuur",
+      "weekend": "2027-02-20",
+      "name": "PSV Eindhoven v SC Cambuur",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-27-ado-den-haag-fc-twente",
+      "weekend": "2027-02-27",
+      "name": "ADO Den Haag v FC Twente",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-27-ajax-amsterdam-feyenoord-rotterdam",
+      "weekend": "2027-02-27",
+      "name": "Ajax Amsterdam v Feyenoord Rotterdam",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-27-excelsior-heerenveen",
+      "weekend": "2027-02-27",
+      "name": "Excelsior v Heerenveen",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-27-fortuna-sittard-fc-utrecht",
+      "weekend": "2027-02-27",
+      "name": "Fortuna Sittard v FC Utrecht",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-27-nec-nijmegen-az-alkmaar",
+      "weekend": "2027-02-27",
+      "name": "NEC Nijmegen v AZ Alkmaar",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-27-sc-cambuur-pec-zwolle",
+      "weekend": "2027-02-27",
+      "name": "SC Cambuur v PEC Zwolle",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-27-sparta-rotterdam-psv-eindhoven",
+      "weekend": "2027-02-27",
+      "name": "Sparta Rotterdam v PSV Eindhoven",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-27-telstar-go-ahead-eagles",
+      "weekend": "2027-02-27",
+      "name": "Telstar v Go Ahead Eagles",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-02-27-willem-ii-fc-groningen",
+      "weekend": "2027-02-27",
+      "name": "Willem II v FC Groningen",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-06-ado-den-haag-ajax-amsterdam",
+      "weekend": "2027-03-06",
+      "name": "ADO Den Haag v Ajax Amsterdam",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-06-fc-groningen-telstar",
+      "weekend": "2027-03-06",
+      "name": "FC Groningen v Telstar",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-06-fc-twente-az-alkmaar",
+      "weekend": "2027-03-06",
+      "name": "FC Twente v AZ Alkmaar",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-06-feyenoord-rotterdam-heerenveen",
+      "weekend": "2027-03-06",
+      "name": "Feyenoord Rotterdam v Heerenveen",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-06-fortuna-sittard-nec-nijmegen",
+      "weekend": "2027-03-06",
+      "name": "Fortuna Sittard v NEC Nijmegen",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-06-go-ahead-eagles-excelsior",
+      "weekend": "2027-03-06",
+      "name": "Go Ahead Eagles v Excelsior",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-06-pec-zwolle-willem-ii",
+      "weekend": "2027-03-06",
+      "name": "PEC Zwolle v Willem II",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-06-psv-eindhoven-fc-utrecht",
+      "weekend": "2027-03-06",
+      "name": "PSV Eindhoven v FC Utrecht",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-06-sparta-rotterdam-sc-cambuur",
+      "weekend": "2027-03-06",
+      "name": "Sparta Rotterdam v SC Cambuur",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-13-ajax-amsterdam-pec-zwolle",
+      "weekend": "2027-03-13",
+      "name": "Ajax Amsterdam v PEC Zwolle",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-13-az-alkmaar-sparta-rotterdam",
+      "weekend": "2027-03-13",
+      "name": "AZ Alkmaar v Sparta Rotterdam",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-13-excelsior-nec-nijmegen",
+      "weekend": "2027-03-13",
+      "name": "Excelsior v NEC Nijmegen",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-13-fc-utrecht-fc-groningen",
+      "weekend": "2027-03-13",
+      "name": "FC Utrecht v FC Groningen",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-13-go-ahead-eagles-feyenoord-rotterdam",
+      "weekend": "2027-03-13",
+      "name": "Go Ahead Eagles v Feyenoord Rotterdam",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-13-heerenveen-fortuna-sittard",
+      "weekend": "2027-03-13",
+      "name": "Heerenveen v Fortuna Sittard",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-13-sc-cambuur-ado-den-haag",
+      "weekend": "2027-03-13",
+      "name": "SC Cambuur v ADO Den Haag",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-13-telstar-psv-eindhoven",
+      "weekend": "2027-03-13",
+      "name": "Telstar v PSV Eindhoven",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-13-willem-ii-fc-twente",
+      "weekend": "2027-03-13",
+      "name": "Willem II v FC Twente",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-20-ado-den-haag-willem-ii",
+      "weekend": "2027-03-20",
+      "name": "ADO Den Haag v Willem II",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-20-az-alkmaar-excelsior",
+      "weekend": "2027-03-20",
+      "name": "AZ Alkmaar v Excelsior",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-20-fc-groningen-psv-eindhoven",
+      "weekend": "2027-03-20",
+      "name": "FC Groningen v PSV Eindhoven",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-20-fc-twente-go-ahead-eagles",
+      "weekend": "2027-03-20",
+      "name": "FC Twente v Go Ahead Eagles",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-20-fc-utrecht-sparta-rotterdam",
+      "weekend": "2027-03-20",
+      "name": "FC Utrecht v Sparta Rotterdam",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-20-feyenoord-rotterdam-sc-cambuur",
+      "weekend": "2027-03-20",
+      "name": "Feyenoord Rotterdam v SC Cambuur",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-20-nec-nijmegen-ajax-amsterdam",
+      "weekend": "2027-03-20",
+      "name": "NEC Nijmegen v Ajax Amsterdam",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-20-pec-zwolle-heerenveen",
+      "weekend": "2027-03-20",
+      "name": "PEC Zwolle v Heerenveen",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-03-20-telstar-fortuna-sittard",
+      "weekend": "2027-03-20",
+      "name": "Telstar v Fortuna Sittard",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-03-ajax-amsterdam-fc-twente",
+      "weekend": "2027-04-03",
+      "name": "Ajax Amsterdam v FC Twente",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-03-excelsior-pec-zwolle",
+      "weekend": "2027-04-03",
+      "name": "Excelsior v PEC Zwolle",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-03-fortuna-sittard-feyenoord-rotterdam",
+      "weekend": "2027-04-03",
+      "name": "Fortuna Sittard v Feyenoord Rotterdam",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-03-go-ahead-eagles-nec-nijmegen",
+      "weekend": "2027-04-03",
+      "name": "Go Ahead Eagles v NEC Nijmegen",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-03-heerenveen-fc-groningen",
+      "weekend": "2027-04-03",
+      "name": "Heerenveen v FC Groningen",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-03-psv-eindhoven-az-alkmaar",
+      "weekend": "2027-04-03",
+      "name": "PSV Eindhoven v AZ Alkmaar",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-03-sc-cambuur-telstar",
+      "weekend": "2027-04-03",
+      "name": "SC Cambuur v Telstar",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-03-sparta-rotterdam-ado-den-haag",
+      "weekend": "2027-04-03",
+      "name": "Sparta Rotterdam v ADO Den Haag",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-03-willem-ii-fc-utrecht",
+      "weekend": "2027-04-03",
+      "name": "Willem II v FC Utrecht",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-10-ado-den-haag-feyenoord-rotterdam",
+      "weekend": "2027-04-10",
+      "name": "ADO Den Haag v Feyenoord Rotterdam",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-10-fc-groningen-excelsior",
+      "weekend": "2027-04-10",
+      "name": "FC Groningen v Excelsior",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-10-fc-utrecht-ajax-amsterdam",
+      "weekend": "2027-04-10",
+      "name": "FC Utrecht v Ajax Amsterdam",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-10-nec-nijmegen-heerenveen",
+      "weekend": "2027-04-10",
+      "name": "NEC Nijmegen v Heerenveen",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-10-pec-zwolle-psv-eindhoven",
+      "weekend": "2027-04-10",
+      "name": "PEC Zwolle v PSV Eindhoven",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-10-sc-cambuur-fortuna-sittard",
+      "weekend": "2027-04-10",
+      "name": "SC Cambuur v Fortuna Sittard",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-10-sparta-rotterdam-go-ahead-eagles",
+      "weekend": "2027-04-10",
+      "name": "Sparta Rotterdam v Go Ahead Eagles",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-10-telstar-fc-twente",
+      "weekend": "2027-04-10",
+      "name": "Telstar v FC Twente",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-10-willem-ii-az-alkmaar",
+      "weekend": "2027-04-10",
+      "name": "Willem II v AZ Alkmaar",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-24-az-alkmaar-sc-cambuur",
+      "weekend": "2027-04-24",
+      "name": "AZ Alkmaar v SC Cambuur",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-24-excelsior-willem-ii",
+      "weekend": "2027-04-24",
+      "name": "Excelsior v Willem II",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-24-fc-twente-nec-nijmegen",
+      "weekend": "2027-04-24",
+      "name": "FC Twente v NEC Nijmegen",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-24-feyenoord-rotterdam-sparta-rotterdam",
+      "weekend": "2027-04-24",
+      "name": "Feyenoord Rotterdam v Sparta Rotterdam",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-24-fortuna-sittard-fc-groningen",
+      "weekend": "2027-04-24",
+      "name": "Fortuna Sittard v FC Groningen",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-24-go-ahead-eagles-fc-utrecht",
+      "weekend": "2027-04-24",
+      "name": "Go Ahead Eagles v FC Utrecht",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-24-heerenveen-ado-den-haag",
+      "weekend": "2027-04-24",
+      "name": "Heerenveen v ADO Den Haag",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-24-pec-zwolle-telstar",
+      "weekend": "2027-04-24",
+      "name": "PEC Zwolle v Telstar",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-04-24-psv-eindhoven-ajax-amsterdam",
+      "weekend": "2027-04-24",
+      "name": "PSV Eindhoven v Ajax Amsterdam",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-01-ajax-amsterdam-fortuna-sittard",
+      "weekend": "2027-05-01",
+      "name": "Ajax Amsterdam v Fortuna Sittard",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-01-excelsior-sc-cambuur",
+      "weekend": "2027-05-01",
+      "name": "Excelsior v SC Cambuur",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-01-fc-groningen-ado-den-haag",
+      "weekend": "2027-05-01",
+      "name": "FC Groningen v ADO Den Haag",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-01-feyenoord-rotterdam-willem-ii",
+      "weekend": "2027-05-01",
+      "name": "Feyenoord Rotterdam v Willem II",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-01-go-ahead-eagles-psv-eindhoven",
+      "weekend": "2027-05-01",
+      "name": "Go Ahead Eagles v PSV Eindhoven",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-01-heerenveen-fc-utrecht",
+      "weekend": "2027-05-01",
+      "name": "Heerenveen v FC Utrecht",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-01-nec-nijmegen-pec-zwolle",
+      "weekend": "2027-05-01",
+      "name": "NEC Nijmegen v PEC Zwolle",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-01-sparta-rotterdam-fc-twente",
+      "weekend": "2027-05-01",
+      "name": "Sparta Rotterdam v FC Twente",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-01-telstar-az-alkmaar",
+      "weekend": "2027-05-01",
+      "name": "Telstar v AZ Alkmaar",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-08-ado-den-haag-nec-nijmegen",
+      "weekend": "2027-05-08",
+      "name": "ADO Den Haag v NEC Nijmegen",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-08-az-alkmaar-ajax-amsterdam",
+      "weekend": "2027-05-08",
+      "name": "AZ Alkmaar v Ajax Amsterdam",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-08-fc-twente-fc-groningen",
+      "weekend": "2027-05-08",
+      "name": "FC Twente v FC Groningen",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-08-fc-utrecht-feyenoord-rotterdam",
+      "weekend": "2027-05-08",
+      "name": "FC Utrecht v Feyenoord Rotterdam",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-08-fortuna-sittard-go-ahead-eagles",
+      "weekend": "2027-05-08",
+      "name": "Fortuna Sittard v Go Ahead Eagles",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-08-pec-zwolle-sparta-rotterdam",
+      "weekend": "2027-05-08",
+      "name": "PEC Zwolle v Sparta Rotterdam",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-08-psv-eindhoven-excelsior",
+      "weekend": "2027-05-08",
+      "name": "PSV Eindhoven v Excelsior",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-08-sc-cambuur-heerenveen",
+      "weekend": "2027-05-08",
+      "name": "SC Cambuur v Heerenveen",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-08-willem-ii-telstar",
+      "weekend": "2027-05-08",
+      "name": "Willem II v Telstar",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-16-ajax-amsterdam-sparta-rotterdam",
+      "weekend": "2027-05-16",
+      "name": "Ajax Amsterdam v Sparta Rotterdam",
+      "utc": "2027-05-16T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-16-az-alkmaar-pec-zwolle",
+      "weekend": "2027-05-16",
+      "name": "AZ Alkmaar v PEC Zwolle",
+      "utc": "2027-05-16T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-16-excelsior-ado-den-haag",
+      "weekend": "2027-05-16",
+      "name": "Excelsior v ADO Den Haag",
+      "utc": "2027-05-16T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-16-fc-groningen-sc-cambuur",
+      "weekend": "2027-05-16",
+      "name": "FC Groningen v SC Cambuur",
+      "utc": "2027-05-16T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-16-fc-twente-feyenoord-rotterdam",
+      "weekend": "2027-05-16",
+      "name": "FC Twente v Feyenoord Rotterdam",
+      "utc": "2027-05-16T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-16-fc-utrecht-telstar",
+      "weekend": "2027-05-16",
+      "name": "FC Utrecht v Telstar",
+      "utc": "2027-05-16T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-16-fortuna-sittard-willem-ii",
+      "weekend": "2027-05-16",
+      "name": "Fortuna Sittard v Willem II",
+      "utc": "2027-05-16T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-16-go-ahead-eagles-heerenveen",
+      "weekend": "2027-05-16",
+      "name": "Go Ahead Eagles v Heerenveen",
+      "utc": "2027-05-16T12:30:00Z"
+    },
+    {
+      "id": "ned.1-2027-05-16-psv-eindhoven-nec-nijmegen",
+      "weekend": "2027-05-16",
+      "name": "PSV Eindhoven v NEC Nijmegen",
+      "utc": "2027-05-16T12:30:00Z"
+    }
+  ]
+}

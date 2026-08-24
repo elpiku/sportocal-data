@@ -1,0 +1,76 @@
+name: Update All ESPN Soccer Competitions
+
+# Covers every soccer competition slug ESPN's Core API currently lists
+# (250+), not just the 6 hand-curated leagues the other workflows cover.
+# Two-stage: `discover` finds the current slug list and chunks it into
+# batches; `scrape` fans out one matrix job per batch so 250+ competitions
+# run in parallel instead of one script working through all of them
+# serially. Runs daily rather than every 6h like the curated leagues -
+# this hits far more of ESPN's API surface per run, so a lighter cadence
+# is the more considerate default. Adjust the cron if you want it fresher.
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    outputs:
+      batches: ${{ steps.discover.outputs.batches }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
+      - run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+      - id: discover
+        run: python scripts/discover_soccer_leagues.py --batch-size 15 --github-output batches
+
+  scrape:
+    needs: discover
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 10
+      matrix:
+        slugs: ${{ fromJson(needs.discover.outputs.batches) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
+      - run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Scrape this batch
+        env:
+          SOCCER_LEAGUE_SLUGS: ${{ join(matrix.slugs, ',') }}
+        run: python scripts/soccer_generic.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add football/espn-all/
+          git diff --quiet && git diff --staged --quiet && exit 0
+          git commit -m "Auto-update ESPN soccer competitions (batch) [skip ci]"
+          for i in $(seq 1 10); do
+            git push && exit 0
+            echo "Push rejected (another batch job likely pushed first) - pulling and retrying ($i/10)..."
+            git pull --rebase origin main
+            sleep $((RANDOM % 20 + 1))
+          done
+          echo "Failed to push after 10 attempts" >&2
+          exit 1

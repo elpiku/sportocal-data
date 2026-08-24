@@ -1,0 +1,944 @@
+{
+  "sportKey": "soccer-uefa.nations",
+  "leagueName": "UEFA Nations League",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "uefa.nations-2026-09-24-andorra-malta",
+      "weekend": "2026-09-24",
+      "name": "Andorra v Malta",
+      "utc": "2026-09-24T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-24-austria-israel",
+      "weekend": "2026-09-24",
+      "name": "Austria v Israel",
+      "utc": "2026-09-24T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-24-kosovo-republic-of-ireland",
+      "weekend": "2026-09-24",
+      "name": "Kosovo v Republic of Ireland",
+      "utc": "2026-09-24T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-24-liechtenstein-lithuania",
+      "weekend": "2026-09-24",
+      "name": "Liechtenstein v Lithuania",
+      "utc": "2026-09-24T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-24-netherlands-germany",
+      "weekend": "2026-09-24",
+      "name": "Netherlands v Germany",
+      "utc": "2026-09-24T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-24-norway-denmark",
+      "weekend": "2026-09-24",
+      "name": "Norway v Denmark",
+      "utc": "2026-09-24T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-24-portugal-wales",
+      "weekend": "2026-09-24",
+      "name": "Portugal v Wales",
+      "utc": "2026-09-24T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-24-serbia-greece",
+      "weekend": "2026-09-24",
+      "name": "Serbia v Greece",
+      "utc": "2026-09-24T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-25-armenia-latvia",
+      "weekend": "2026-09-25",
+      "name": "Armenia v Latvia",
+      "utc": "2026-09-25T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-25-georgia-northern-ireland",
+      "weekend": "2026-09-25",
+      "name": "Georgia v Northern Ireland",
+      "utc": "2026-09-25T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-25-hungary-ukraine",
+      "weekend": "2026-09-25",
+      "name": "Hungary v Ukraine",
+      "utc": "2026-09-25T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-25-italy-belgium",
+      "weekend": "2026-09-25",
+      "name": "Italy v Belgium",
+      "utc": "2026-09-25T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-25-montenegro-cyprus",
+      "weekend": "2026-09-25",
+      "name": "Montenegro v Cyprus",
+      "utc": "2026-09-25T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-25-poland-bosnia-herzegovina",
+      "weekend": "2026-09-25",
+      "name": "Poland v Bosnia-Herzegovina",
+      "utc": "2026-09-25T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-25-sweden-romania",
+      "weekend": "2026-09-25",
+      "name": "Sweden v Romania",
+      "utc": "2026-09-25T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-25-t-rkiye-france",
+      "weekend": "2026-09-25",
+      "name": "T\u00fcrkiye v France",
+      "utc": "2026-09-25T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-26-slovenia-scotland",
+      "weekend": "2026-09-26",
+      "name": "Slovenia v Scotland",
+      "utc": "2026-09-26T13:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-26-bulgaria-luxembourg",
+      "weekend": "2026-09-26",
+      "name": "Bulgaria v Luxembourg",
+      "utc": "2026-09-26T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-26-faroe-islands-kazakhstan",
+      "weekend": "2026-09-26",
+      "name": "Faroe Islands v Kazakhstan",
+      "utc": "2026-09-26T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-26-iceland-estonia",
+      "weekend": "2026-09-26",
+      "name": "Iceland v Estonia",
+      "utc": "2026-09-26T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-26-san-marino-finland",
+      "weekend": "2026-09-26",
+      "name": "San Marino v Finland",
+      "utc": "2026-09-26T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-26-albania-belarus",
+      "weekend": "2026-09-26",
+      "name": "Albania v Belarus",
+      "utc": "2026-09-26T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-26-czechia-croatia",
+      "weekend": "2026-09-26",
+      "name": "Czechia v Croatia",
+      "utc": "2026-09-26T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-26-england-spain",
+      "weekend": "2026-09-26",
+      "name": "England v Spain",
+      "utc": "2026-09-26T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-26-north-macedonia-switzerland",
+      "weekend": "2026-09-26",
+      "name": "North Macedonia v Switzerland",
+      "utc": "2026-09-26T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-26-slovakia-moldova",
+      "weekend": "2026-09-26",
+      "name": "Slovakia v Moldova",
+      "utc": "2026-09-26T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-27-lithuania-azerbaijan",
+      "weekend": "2026-09-27",
+      "name": "Lithuania v Azerbaijan",
+      "utc": "2026-09-27T13:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-27-austria-kosovo",
+      "weekend": "2026-09-27",
+      "name": "Austria v Kosovo",
+      "utc": "2026-09-27T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-27-denmark-wales",
+      "weekend": "2026-09-27",
+      "name": "Denmark v Wales",
+      "utc": "2026-09-27T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-27-gibraltar-andorra",
+      "weekend": "2026-09-27",
+      "name": "Gibraltar v Andorra",
+      "utc": "2026-09-27T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-27-serbia-netherlands",
+      "weekend": "2026-09-27",
+      "name": "Serbia v Netherlands",
+      "utc": "2026-09-27T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-27-germany-greece",
+      "weekend": "2026-09-27",
+      "name": "Germany v Greece",
+      "utc": "2026-09-27T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-27-israel-republic-of-ireland",
+      "weekend": "2026-09-27",
+      "name": "Israel v Republic of Ireland",
+      "utc": "2026-09-27T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-27-norway-portugal",
+      "weekend": "2026-09-27",
+      "name": "Norway v Portugal",
+      "utc": "2026-09-27T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-28-armenia-montenegro",
+      "weekend": "2026-09-28",
+      "name": "Armenia v Montenegro",
+      "utc": "2026-09-28T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-28-georgia-ukraine",
+      "weekend": "2026-09-28",
+      "name": "Georgia v Ukraine",
+      "utc": "2026-09-28T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-28-latvia-cyprus",
+      "weekend": "2026-09-28",
+      "name": "Latvia v Cyprus",
+      "utc": "2026-09-28T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-28-belgium-france",
+      "weekend": "2026-09-28",
+      "name": "Belgium v France",
+      "utc": "2026-09-28T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-28-northern-ireland-hungary",
+      "weekend": "2026-09-28",
+      "name": "Northern Ireland v Hungary",
+      "utc": "2026-09-28T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-28-romania-bosnia-herzegovina",
+      "weekend": "2026-09-28",
+      "name": "Romania v Bosnia-Herzegovina",
+      "utc": "2026-09-28T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-28-sweden-poland",
+      "weekend": "2026-09-28",
+      "name": "Sweden v Poland",
+      "utc": "2026-09-28T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-28-t-rkiye-italy",
+      "weekend": "2026-09-28",
+      "name": "T\u00fcrkiye v Italy",
+      "utc": "2026-09-28T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-29-finland-belarus",
+      "weekend": "2026-09-29",
+      "name": "Finland v Belarus",
+      "utc": "2026-09-29T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-29-moldova-faroe-islands",
+      "weekend": "2026-09-29",
+      "name": "Moldova v Faroe Islands",
+      "utc": "2026-09-29T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-29-bulgaria-estonia",
+      "weekend": "2026-09-29",
+      "name": "Bulgaria v Estonia",
+      "utc": "2026-09-29T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-29-czechia-england",
+      "weekend": "2026-09-29",
+      "name": "Czechia v England",
+      "utc": "2026-09-29T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-29-luxembourg-iceland",
+      "weekend": "2026-09-29",
+      "name": "Luxembourg v Iceland",
+      "utc": "2026-09-29T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-29-san-marino-albania",
+      "weekend": "2026-09-29",
+      "name": "San Marino v Albania",
+      "utc": "2026-09-29T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-29-scotland-switzerland",
+      "weekend": "2026-09-29",
+      "name": "Scotland v Switzerland",
+      "utc": "2026-09-29T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-29-slovakia-kazakhstan",
+      "weekend": "2026-09-29",
+      "name": "Slovakia v Kazakhstan",
+      "utc": "2026-09-29T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-29-slovenia-north-macedonia",
+      "weekend": "2026-09-29",
+      "name": "Slovenia v North Macedonia",
+      "utc": "2026-09-29T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-09-29-spain-croatia",
+      "weekend": "2026-09-29",
+      "name": "Spain v Croatia",
+      "utc": "2026-09-29T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-01-azerbaijan-liechtenstein",
+      "weekend": "2026-10-01",
+      "name": "Azerbaijan v Liechtenstein",
+      "utc": "2026-10-01T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-01-denmark-portugal",
+      "weekend": "2026-10-01",
+      "name": "Denmark v Portugal",
+      "utc": "2026-10-01T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-01-germany-serbia",
+      "weekend": "2026-10-01",
+      "name": "Germany v Serbia",
+      "utc": "2026-10-01T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-01-greece-netherlands",
+      "weekend": "2026-10-01",
+      "name": "Greece v Netherlands",
+      "utc": "2026-10-01T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-01-israel-kosovo",
+      "weekend": "2026-10-01",
+      "name": "Israel v Kosovo",
+      "utc": "2026-10-01T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-01-malta-gibraltar",
+      "weekend": "2026-10-01",
+      "name": "Malta v Gibraltar",
+      "utc": "2026-10-01T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-01-republic-of-ireland-austria",
+      "weekend": "2026-10-01",
+      "name": "Republic of Ireland v Austria",
+      "utc": "2026-10-01T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-01-wales-norway",
+      "weekend": "2026-10-01",
+      "name": "Wales v Norway",
+      "utc": "2026-10-01T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-02-kazakhstan-moldova",
+      "weekend": "2026-10-02",
+      "name": "Kazakhstan v Moldova",
+      "utc": "2026-10-02T14:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-02-cyprus-armenia",
+      "weekend": "2026-10-02",
+      "name": "Cyprus v Armenia",
+      "utc": "2026-10-02T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-02-latvia-montenegro",
+      "weekend": "2026-10-02",
+      "name": "Latvia v Montenegro",
+      "utc": "2026-10-02T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-02-belgium-t-rkiye",
+      "weekend": "2026-10-02",
+      "name": "Belgium v T\u00fcrkiye",
+      "utc": "2026-10-02T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-02-bosnia-herzegovina-sweden",
+      "weekend": "2026-10-02",
+      "name": "Bosnia-Herzegovina v Sweden",
+      "utc": "2026-10-02T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-02-faroe-islands-slovakia",
+      "weekend": "2026-10-02",
+      "name": "Faroe Islands v Slovakia",
+      "utc": "2026-10-02T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-02-france-italy",
+      "weekend": "2026-10-02",
+      "name": "France v Italy",
+      "utc": "2026-10-02T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-02-hungary-georgia",
+      "weekend": "2026-10-02",
+      "name": "Hungary v Georgia",
+      "utc": "2026-10-02T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-02-poland-romania",
+      "weekend": "2026-10-02",
+      "name": "Poland v Romania",
+      "utc": "2026-10-02T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-02-ukraine-northern-ireland",
+      "weekend": "2026-10-02",
+      "name": "Ukraine v Northern Ireland",
+      "utc": "2026-10-02T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-03-finland-albania",
+      "weekend": "2026-10-03",
+      "name": "Finland v Albania",
+      "utc": "2026-10-03T13:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-03-belarus-san-marino",
+      "weekend": "2026-10-03",
+      "name": "Belarus v San Marino",
+      "utc": "2026-10-03T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-03-croatia-england",
+      "weekend": "2026-10-03",
+      "name": "Croatia v England",
+      "utc": "2026-10-03T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-03-estonia-luxembourg",
+      "weekend": "2026-10-03",
+      "name": "Estonia v Luxembourg",
+      "utc": "2026-10-03T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-03-iceland-bulgaria",
+      "weekend": "2026-10-03",
+      "name": "Iceland v Bulgaria",
+      "utc": "2026-10-03T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-03-north-macedonia-scotland",
+      "weekend": "2026-10-03",
+      "name": "North Macedonia v Scotland",
+      "utc": "2026-10-03T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-03-spain-czechia",
+      "weekend": "2026-10-03",
+      "name": "Spain v Czechia",
+      "utc": "2026-10-03T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-03-switzerland-slovenia",
+      "weekend": "2026-10-03",
+      "name": "Switzerland v Slovenia",
+      "utc": "2026-10-03T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-04-azerbaijan-lithuania",
+      "weekend": "2026-10-04",
+      "name": "Azerbaijan v Lithuania",
+      "utc": "2026-10-04T13:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-04-kosovo-austria",
+      "weekend": "2026-10-04",
+      "name": "Kosovo v Austria",
+      "utc": "2026-10-04T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-04-malta-andorra",
+      "weekend": "2026-10-04",
+      "name": "Malta v Andorra",
+      "utc": "2026-10-04T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-04-greece-germany",
+      "weekend": "2026-10-04",
+      "name": "Greece v Germany",
+      "utc": "2026-10-04T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-04-netherlands-serbia",
+      "weekend": "2026-10-04",
+      "name": "Netherlands v Serbia",
+      "utc": "2026-10-04T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-04-portugal-norway",
+      "weekend": "2026-10-04",
+      "name": "Portugal v Norway",
+      "utc": "2026-10-04T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-04-republic-of-ireland-israel",
+      "weekend": "2026-10-04",
+      "name": "Republic of Ireland v Israel",
+      "utc": "2026-10-04T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-04-wales-denmark",
+      "weekend": "2026-10-04",
+      "name": "Wales v Denmark",
+      "utc": "2026-10-04T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-05-cyprus-latvia",
+      "weekend": "2026-10-05",
+      "name": "Cyprus v Latvia",
+      "utc": "2026-10-05T16:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-05-bosnia-herzegovina-poland",
+      "weekend": "2026-10-05",
+      "name": "Bosnia-Herzegovina v Poland",
+      "utc": "2026-10-05T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-05-france-belgium",
+      "weekend": "2026-10-05",
+      "name": "France v Belgium",
+      "utc": "2026-10-05T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-05-italy-t-rkiye",
+      "weekend": "2026-10-05",
+      "name": "Italy v T\u00fcrkiye",
+      "utc": "2026-10-05T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-05-montenegro-armenia",
+      "weekend": "2026-10-05",
+      "name": "Montenegro v Armenia",
+      "utc": "2026-10-05T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-05-northern-ireland-georgia",
+      "weekend": "2026-10-05",
+      "name": "Northern Ireland v Georgia",
+      "utc": "2026-10-05T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-05-romania-sweden",
+      "weekend": "2026-10-05",
+      "name": "Romania v Sweden",
+      "utc": "2026-10-05T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-05-ukraine-hungary",
+      "weekend": "2026-10-05",
+      "name": "Ukraine v Hungary",
+      "utc": "2026-10-05T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-06-kazakhstan-faroe-islands",
+      "weekend": "2026-10-06",
+      "name": "Kazakhstan v Faroe Islands",
+      "utc": "2026-10-06T14:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-06-albania-san-marino",
+      "weekend": "2026-10-06",
+      "name": "Albania v San Marino",
+      "utc": "2026-10-06T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-06-belarus-finland",
+      "weekend": "2026-10-06",
+      "name": "Belarus v Finland",
+      "utc": "2026-10-06T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-06-croatia-spain",
+      "weekend": "2026-10-06",
+      "name": "Croatia v Spain",
+      "utc": "2026-10-06T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-06-england-czechia",
+      "weekend": "2026-10-06",
+      "name": "England v Czechia",
+      "utc": "2026-10-06T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-06-estonia-iceland",
+      "weekend": "2026-10-06",
+      "name": "Estonia v Iceland",
+      "utc": "2026-10-06T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-06-luxembourg-bulgaria",
+      "weekend": "2026-10-06",
+      "name": "Luxembourg v Bulgaria",
+      "utc": "2026-10-06T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-06-moldova-slovakia",
+      "weekend": "2026-10-06",
+      "name": "Moldova v Slovakia",
+      "utc": "2026-10-06T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-06-scotland-slovenia",
+      "weekend": "2026-10-06",
+      "name": "Scotland v Slovenia",
+      "utc": "2026-10-06T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-10-06-switzerland-north-macedonia",
+      "weekend": "2026-10-06",
+      "name": "Switzerland v North Macedonia",
+      "utc": "2026-10-06T18:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-12-armenia-cyprus",
+      "weekend": "2026-11-12",
+      "name": "Armenia v Cyprus",
+      "utc": "2026-11-12T17:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-12-t-rkiye-belgium",
+      "weekend": "2026-11-12",
+      "name": "T\u00fcrkiye v Belgium",
+      "utc": "2026-11-12T17:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-12-albania-finland",
+      "weekend": "2026-11-12",
+      "name": "Albania v Finland",
+      "utc": "2026-11-12T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-12-czechia-spain",
+      "weekend": "2026-11-12",
+      "name": "Czechia v Spain",
+      "utc": "2026-11-12T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-12-england-croatia",
+      "weekend": "2026-11-12",
+      "name": "England v Croatia",
+      "utc": "2026-11-12T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-12-italy-france",
+      "weekend": "2026-11-12",
+      "name": "Italy v France",
+      "utc": "2026-11-12T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-12-montenegro-latvia",
+      "weekend": "2026-11-12",
+      "name": "Montenegro v Latvia",
+      "utc": "2026-11-12T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-12-san-marino-belarus",
+      "weekend": "2026-11-12",
+      "name": "San Marino v Belarus",
+      "utc": "2026-11-12T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-13-moldova-kazakhstan",
+      "weekend": "2026-11-13",
+      "name": "Moldova v Kazakhstan",
+      "utc": "2026-11-13T17:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-13-andorra-gibraltar",
+      "weekend": "2026-11-13",
+      "name": "Andorra v Gibraltar",
+      "utc": "2026-11-13T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-13-bulgaria-iceland",
+      "weekend": "2026-11-13",
+      "name": "Bulgaria v Iceland",
+      "utc": "2026-11-13T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-13-liechtenstein-azerbaijan",
+      "weekend": "2026-11-13",
+      "name": "Liechtenstein v Azerbaijan",
+      "utc": "2026-11-13T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-13-luxembourg-estonia",
+      "weekend": "2026-11-13",
+      "name": "Luxembourg v Estonia",
+      "utc": "2026-11-13T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-13-netherlands-greece",
+      "weekend": "2026-11-13",
+      "name": "Netherlands v Greece",
+      "utc": "2026-11-13T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-13-scotland-north-macedonia",
+      "weekend": "2026-11-13",
+      "name": "Scotland v North Macedonia",
+      "utc": "2026-11-13T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-13-serbia-germany",
+      "weekend": "2026-11-13",
+      "name": "Serbia v Germany",
+      "utc": "2026-11-13T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-13-slovakia-faroe-islands",
+      "weekend": "2026-11-13",
+      "name": "Slovakia v Faroe Islands",
+      "utc": "2026-11-13T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-13-slovenia-switzerland",
+      "weekend": "2026-11-13",
+      "name": "Slovenia v Switzerland",
+      "utc": "2026-11-13T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-14-kosovo-israel",
+      "weekend": "2026-11-14",
+      "name": "Kosovo v Israel",
+      "utc": "2026-11-14T14:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-14-georgia-hungary",
+      "weekend": "2026-11-14",
+      "name": "Georgia v Hungary",
+      "utc": "2026-11-14T17:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-14-norway-wales",
+      "weekend": "2026-11-14",
+      "name": "Norway v Wales",
+      "utc": "2026-11-14T17:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-14-austria-republic-of-ireland",
+      "weekend": "2026-11-14",
+      "name": "Austria v Republic of Ireland",
+      "utc": "2026-11-14T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-14-northern-ireland-ukraine",
+      "weekend": "2026-11-14",
+      "name": "Northern Ireland v Ukraine",
+      "utc": "2026-11-14T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-14-portugal-denmark",
+      "weekend": "2026-11-14",
+      "name": "Portugal v Denmark",
+      "utc": "2026-11-14T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-14-romania-poland",
+      "weekend": "2026-11-14",
+      "name": "Romania v Poland",
+      "utc": "2026-11-14T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-14-sweden-bosnia-herzegovina",
+      "weekend": "2026-11-14",
+      "name": "Sweden v Bosnia-Herzegovina",
+      "utc": "2026-11-14T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-15-cyprus-montenegro",
+      "weekend": "2026-11-15",
+      "name": "Cyprus v Montenegro",
+      "utc": "2026-11-15T14:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-15-latvia-armenia",
+      "weekend": "2026-11-15",
+      "name": "Latvia v Armenia",
+      "utc": "2026-11-15T14:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-15-belarus-albania",
+      "weekend": "2026-11-15",
+      "name": "Belarus v Albania",
+      "utc": "2026-11-15T17:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-15-finland-san-marino",
+      "weekend": "2026-11-15",
+      "name": "Finland v San Marino",
+      "utc": "2026-11-15T17:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-15-belgium-italy",
+      "weekend": "2026-11-15",
+      "name": "Belgium v Italy",
+      "utc": "2026-11-15T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-15-croatia-czechia",
+      "weekend": "2026-11-15",
+      "name": "Croatia v Czechia",
+      "utc": "2026-11-15T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-15-france-t-rkiye",
+      "weekend": "2026-11-15",
+      "name": "France v T\u00fcrkiye",
+      "utc": "2026-11-15T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-15-spain-england",
+      "weekend": "2026-11-15",
+      "name": "Spain v England",
+      "utc": "2026-11-15T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-16-faroe-islands-moldova",
+      "weekend": "2026-11-16",
+      "name": "Faroe Islands v Moldova",
+      "utc": "2026-11-16T15:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-16-kazakhstan-slovakia",
+      "weekend": "2026-11-16",
+      "name": "Kazakhstan v Slovakia",
+      "utc": "2026-11-16T15:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-16-estonia-bulgaria",
+      "weekend": "2026-11-16",
+      "name": "Estonia v Bulgaria",
+      "utc": "2026-11-16T17:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-16-iceland-luxembourg",
+      "weekend": "2026-11-16",
+      "name": "Iceland v Luxembourg",
+      "utc": "2026-11-16T17:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-16-lithuania-liechtenstein",
+      "weekend": "2026-11-16",
+      "name": "Lithuania v Liechtenstein",
+      "utc": "2026-11-16T17:00:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-16-germany-netherlands",
+      "weekend": "2026-11-16",
+      "name": "Germany v Netherlands",
+      "utc": "2026-11-16T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-16-gibraltar-malta",
+      "weekend": "2026-11-16",
+      "name": "Gibraltar v Malta",
+      "utc": "2026-11-16T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-16-greece-serbia",
+      "weekend": "2026-11-16",
+      "name": "Greece v Serbia",
+      "utc": "2026-11-16T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-16-north-macedonia-slovenia",
+      "weekend": "2026-11-16",
+      "name": "North Macedonia v Slovenia",
+      "utc": "2026-11-16T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-16-switzerland-scotland",
+      "weekend": "2026-11-16",
+      "name": "Switzerland v Scotland",
+      "utc": "2026-11-16T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-17-bosnia-herzegovina-romania",
+      "weekend": "2026-11-17",
+      "name": "Bosnia-Herzegovina v Romania",
+      "utc": "2026-11-17T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-17-denmark-norway",
+      "weekend": "2026-11-17",
+      "name": "Denmark v Norway",
+      "utc": "2026-11-17T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-17-hungary-northern-ireland",
+      "weekend": "2026-11-17",
+      "name": "Hungary v Northern Ireland",
+      "utc": "2026-11-17T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-17-israel-austria",
+      "weekend": "2026-11-17",
+      "name": "Israel v Austria",
+      "utc": "2026-11-17T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-17-poland-sweden",
+      "weekend": "2026-11-17",
+      "name": "Poland v Sweden",
+      "utc": "2026-11-17T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-17-republic-of-ireland-kosovo",
+      "weekend": "2026-11-17",
+      "name": "Republic of Ireland v Kosovo",
+      "utc": "2026-11-17T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-17-ukraine-georgia",
+      "weekend": "2026-11-17",
+      "name": "Ukraine v Georgia",
+      "utc": "2026-11-17T19:45:00Z"
+    },
+    {
+      "id": "uefa.nations-2026-11-17-wales-portugal",
+      "weekend": "2026-11-17",
+      "name": "Wales v Portugal",
+      "utc": "2026-11-17T19:45:00Z"
+    }
+  ]
+}
