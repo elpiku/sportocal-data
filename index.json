@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T20:14:11Z",
-  "count": 61,
+  "generatedAt": "2026-08-24T20:56:55Z",
+  "count": 62,
   "leagues": [
     {
       "name": "FIBA World Cup",
@@ -477,6 +477,16 @@
       "season": "2025-26",
       "eventCount": 27,
       "url": "https://elpiku.github.io/sportocal-data/hockey/nhl/2026.json"
+    },
+    {
+      "name": "National Hockey League",
+      "sportKey": "hockey-nhl",
+      "category": "hockey",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 1409,
+      "url": "https://elpiku.github.io/sportocal-data/hockey/espn-all/nhl.json"
     },
     {
       "name": "Formula 1",
