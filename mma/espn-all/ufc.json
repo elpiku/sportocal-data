@@ -1,0 +1,68 @@
+{
+  "sportKey": "mma-ufc",
+  "leagueName": "Ultimate Fighting Championship",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "mma-ufc-2026-08-15-ufc-330-makhachev-machado-garry",
+      "weekend": "2026-08-15",
+      "name": "UFC 330: Makhachev v Machado Garry",
+      "utc": "2026-08-15T21:30:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-08-22-ufc-fight-night-hernandez-rodrigues",
+      "weekend": "2026-08-22",
+      "name": "UFC Fight Night: Hernandez v Rodrigues",
+      "utc": "2026-08-22T21:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-08-29-ufc-fight-night-nurmagomedov-song",
+      "weekend": "2026-08-29",
+      "name": "UFC Fight Night: Nurmagomedov v Song",
+      "utc": "2026-08-29T07:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-09-05-ufc-fight-night-hooker-parnasse",
+      "weekend": "2026-09-05",
+      "name": "UFC Fight Night: Hooker v Parnasse",
+      "utc": "2026-09-05T16:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-09-12-noche-ufc-rodriguez-silva",
+      "weekend": "2026-09-12",
+      "name": "Noche UFC: Rodriguez v Silva",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-09-19-ufc-331-van-pantoja-2",
+      "weekend": "2026-09-19",
+      "name": "UFC 331: Van v Pantoja 2",
+      "utc": "2026-09-19T21:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-09-26-ufc-fight-night-rosas-jr-barcelos",
+      "weekend": "2026-09-26",
+      "name": "UFC Fight Night: Rosas Jr. v Barcelos",
+      "utc": "2026-09-26T19:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-10-17-ufc-fight-night-buckley-malott",
+      "weekend": "2026-10-17",
+      "name": "UFC Fight Night: Buckley v Malott",
+      "utc": "2026-10-17T21:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-10-24-ufc-333-volkanovski-evloev",
+      "weekend": "2026-10-24",
+      "name": "UFC 333: Volkanovski v Evloev",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-11-07-ufc-fight-night-bonfim-brady",
+      "weekend": "2026-11-07",
+      "name": "UFC Fight Night: Bonfim v Brady",
+      "utc": "2026-11-07T22:00:00Z"
+    }
+  ]
+}

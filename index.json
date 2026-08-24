@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-08-24T20:56:55Z",
-  "count": 62,
+  "generatedAt": "2026-08-24T22:09:50Z",
+  "count": 68,
   "leagues": [
+    {
+      "name": "NCAA - Football",
+      "sportKey": "american-football-college-football",
+      "category": "american-football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 946,
+      "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/college-football.json"
+    },
+    {
+      "name": "National Football League",
+      "sportKey": "american-football-nfl",
+      "category": "american-football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 333,
+      "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/nfl.json"
+    },
+    {
+      "name": "AFL",
+      "sportKey": "afl-afl",
+      "category": "australian-football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 22,
+      "url": "https://elpiku.github.io/sportocal-data/australian-football/espn-all/afl.json"
+    },
+    {
+      "name": "Major League Baseball",
+      "sportKey": "baseball-mlb",
+      "category": "baseball",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 1474,
+      "url": "https://elpiku.github.io/sportocal-data/baseball/espn-all/mlb.json"
+    },
     {
       "name": "FIBA World Cup",
       "sportKey": "basketball-fiba",
@@ -487,6 +527,26 @@
       "windowTo": "20270521",
       "eventCount": 1409,
       "url": "https://elpiku.github.io/sportocal-data/hockey/espn-all/nhl.json"
+    },
+    {
+      "name": "Professional Fighters League",
+      "sportKey": "mma-pfl",
+      "category": "mma",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 2,
+      "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/pfl.json"
+    },
+    {
+      "name": "Ultimate Fighting Championship",
+      "sportKey": "mma-ufc",
+      "category": "mma",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 10,
+      "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/ufc.json"
     },
     {
       "name": "Formula 1",
