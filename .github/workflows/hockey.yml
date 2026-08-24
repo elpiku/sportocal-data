@@ -25,11 +25,7 @@ jobs:
         run: |
           pip install requests beautifulsoup4 python-dateutil pytz pypdf
 
-      - name: Run NHL full-season scraper
-        run: |
-          python scripts/nhl.py
-
-      - name: Run targeted hockey generic scraper
+      - name: Run unified hockey scraper
         run: |
           python scripts/hockey_generic.py
 
