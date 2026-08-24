@@ -1,63 +1,9 @@
 {
   "sportKey": "soccer-eng.fa_qual",
   "leagueName": "English FA Cup Qualifying",
-  "windowFrom": "20260809",
-  "windowTo": "20270520",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
   "events": [
-    {
-      "id": "eng.fa_qual-2026-08-09-erith-belvedere-billingshurst",
-      "weekend": "2026-08-09",
-      "name": "Erith & Belvedere v Billingshurst",
-      "utc": "2026-08-09T12:00:00Z"
-    },
-    {
-      "id": "eng.fa_qual-2026-08-09-little-common-haywards-heath-town",
-      "weekend": "2026-08-09",
-      "name": "Little Common v Haywards Heath Town",
-      "utc": "2026-08-09T13:00:00Z"
-    },
-    {
-      "id": "eng.fa_qual-2026-08-09-northampton-on-chenecks-heanor-town",
-      "weekend": "2026-08-09",
-      "name": "Northampton on Chenecks v Heanor Town",
-      "utc": "2026-08-09T13:00:00Z"
-    },
-    {
-      "id": "eng.fa_qual-2026-08-09-wick-camberley-town",
-      "weekend": "2026-08-09",
-      "name": "Wick v Camberley Town",
-      "utc": "2026-08-09T13:00:00Z"
-    },
-    {
-      "id": "eng.fa_qual-2026-08-09-worsbrough-bridge-athletic-trafford",
-      "weekend": "2026-08-09",
-      "name": "Worsbrough Bridge Athletic v Trafford",
-      "utc": "2026-08-09T13:00:00Z"
-    },
-    {
-      "id": "eng.fa_qual-2026-08-09-beverley-town-northwich-victoria",
-      "weekend": "2026-08-09",
-      "name": "Beverley Town v Northwich Victoria",
-      "utc": "2026-08-09T14:00:00Z"
-    },
-    {
-      "id": "eng.fa_qual-2026-08-09-hallam-irlam",
-      "weekend": "2026-08-09",
-      "name": "Hallam v Irlam",
-      "utc": "2026-08-09T14:00:00Z"
-    },
-    {
-      "id": "eng.fa_qual-2026-08-09-littlehampton-town-eastbourne-united",
-      "weekend": "2026-08-09",
-      "name": "Littlehampton Town v Eastbourne United",
-      "utc": "2026-08-09T14:00:00Z"
-    },
-    {
-      "id": "eng.fa_qual-2026-08-09-roman-glass-st-george-hallen",
-      "weekend": "2026-08-09",
-      "name": "Roman Glass St. George v Hallen",
-      "utc": "2026-08-09T14:00:00Z"
-    },
     {
       "id": "eng.fa_qual-2026-08-11-amersham-town-north-leigh",
       "weekend": "2026-08-11",
@@ -319,7 +265,7 @@
     {
       "id": "eng.fa_qual-2026-08-21-hungerford-town-wokingham-town",
       "weekend": "2026-08-21",
-      "name": "HUNGERFORD TOWN v Wokingham Town",
+      "name": "Hungerford Town v Wokingham Town",
       "utc": "2026-08-21T18:45:00Z"
     },
     {
@@ -715,7 +661,7 @@
     {
       "id": "eng.fa_qual-2026-08-22-kendal-town-heaton-stannington",
       "weekend": "2026-08-22",
-      "name": "Kendal Town v HEATON STANNINGTON",
+      "name": "Kendal Town v Heaton Stannington",
       "utc": "2026-08-22T14:00:00Z"
     },
     {
@@ -745,7 +691,7 @@
     {
       "id": "eng.fa_qual-2026-08-22-litherland-remyca-prescot-cables",
       "weekend": "2026-08-22",
-      "name": "Litherland Remyca v PRESCOT CABLES",
+      "name": "Litherland Remyca v Prescot Cables",
       "utc": "2026-08-22T14:00:00Z"
     },
     {
@@ -949,7 +895,7 @@
     {
       "id": "eng.fa_qual-2026-08-22-st-ives-town-fakenham-town",
       "weekend": "2026-08-22",
-      "name": "ST. IVES TOWN v Fakenham Town",
+      "name": "St. Ives Town v Fakenham Town",
       "utc": "2026-08-22T14:00:00Z"
     },
     {
@@ -1051,7 +997,7 @@
     {
       "id": "eng.fa_qual-2026-08-22-westfield-hassocks",
       "weekend": "2026-08-22",
-      "name": "WESTFIELD v Hassocks",
+      "name": "Westfield v Hassocks",
       "utc": "2026-08-22T14:00:00Z"
     },
     {
@@ -1087,7 +1033,7 @@
     {
       "id": "eng.fa_qual-2026-08-22-witham-town-potters-bar-town",
       "weekend": "2026-08-22",
-      "name": "Witham Town v POTTERS BAR TOWN",
+      "name": "Witham Town v Potters Bar Town",
       "utc": "2026-08-22T14:00:00Z"
     },
     {
@@ -1115,15 +1061,15 @@
       "utc": "2026-08-22T14:00:00Z"
     },
     {
-      "id": "eng.fa_qual-2026-08-23-midhurst-easebourne-afc-croydon-athletic",
+      "id": "eng.fa_qual-2026-08-23-midhurst-easebourne-croydon-athletic",
       "weekend": "2026-08-23",
-      "name": "Midhurst & Easebourne v AFC CROYDON ATHLETIC",
+      "name": "Midhurst & Easebourne v Croydon Athletic",
       "utc": "2026-08-23T14:00:00Z"
     },
     {
       "id": "eng.fa_qual-2026-08-23-northwich-victoria-bootle",
       "weekend": "2026-08-23",
-      "name": "Northwich Victoria v BOOTLE",
+      "name": "Northwich Victoria v Bootle",
       "utc": "2026-08-23T14:00:00Z"
     },
     {
@@ -1131,6 +1077,150 @@
       "weekend": "2026-08-25",
       "name": "Baffins Milton Rovers v Hartley Wintney",
       "utc": "2026-08-25T18:30:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-badshot-lea-afc-stoneham",
+      "weekend": "2026-08-25",
+      "name": "Badshot Lea v AFC Stoneham",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-baldock-town-romford",
+      "weekend": "2026-08-25",
+      "name": "Baldock Town v Romford",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-bourne-town-bottesford-town",
+      "weekend": "2026-08-25",
+      "name": "Bourne Town v Bottesford Town",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-corinthian-broadfields-united",
+      "weekend": "2026-08-25",
+      "name": "Corinthian v Broadfields United",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-droitwich-spa-hanley-town",
+      "weekend": "2026-08-25",
+      "name": "Droitwich Spa v Hanley Town",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-fakenham-town-st-ives-town",
+      "weekend": "2026-08-25",
+      "name": "Fakenham Town v St. Ives Town",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-faversham-town-bedfont",
+      "weekend": "2026-08-25",
+      "name": "Faversham Town v Bedfont",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-frenford-haringey-borough",
+      "weekend": "2026-08-25",
+      "name": "Frenford v Haringey Borough",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-hassocks-westfield",
+      "weekend": "2026-08-25",
+      "name": "Hassocks v Westfield",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-haywards-heath-town-sutton-common-rovers",
+      "weekend": "2026-08-25",
+      "name": "Haywards Heath Town v Sutton Common Rovers",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-heaton-stannington-kendal-town",
+      "weekend": "2026-08-25",
+      "name": "Heaton Stannington v Kendal Town",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-horbury-town-1874-norwich",
+      "weekend": "2026-08-25",
+      "name": "Horbury Town v 1874 Norwich",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-long-eaton-united-afc-rushden-diamonds",
+      "weekend": "2026-08-25",
+      "name": "Long Eaton United v AFC Rushden & Diamonds",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-milton-keynes-irish-slimbridge",
+      "weekend": "2026-08-25",
+      "name": "Milton Keynes Irish v Slimbridge",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-portishead-town-larkhall-athletic",
+      "weekend": "2026-08-25",
+      "name": "Portishead Town v Larkhall Athletic",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-potters-bar-town-witham-town",
+      "weekend": "2026-08-25",
+      "name": "Potters Bar Town v Witham Town",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-prescot-cables-litherland-remyca",
+      "weekend": "2026-08-25",
+      "name": "Prescot Cables v Litherland Remyca",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-se-dons-punjab-united",
+      "weekend": "2026-08-25",
+      "name": "SE Dons v Punjab United",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-tadley-calleva-hamble-club",
+      "weekend": "2026-08-25",
+      "name": "Tadley Calleva v Hamble Club",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-westbury-united-afc-portchester",
+      "weekend": "2026-08-25",
+      "name": "Westbury United v AFC Portchester",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-wisbech-town-yaxley",
+      "weekend": "2026-08-25",
+      "name": "Wisbech Town v Yaxley",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-25-wokingham-town-hungerford-town",
+      "weekend": "2026-08-25",
+      "name": "Wokingham Town v Hungerford Town",
+      "utc": "2026-08-25T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-26-bootle-northwich-victoria",
+      "weekend": "2026-08-26",
+      "name": "Bootle v Northwich Victoria",
+      "utc": "2026-08-26T18:45:00Z"
+    },
+    {
+      "id": "eng.fa_qual-2026-08-26-longlevens-winslow-united",
+      "weekend": "2026-08-26",
+      "name": "Longlevens v Winslow United",
+      "utc": "2026-08-26T18:45:00Z"
     }
   ]
 }
