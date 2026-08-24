@@ -1,111 +1,9 @@
 {
   "sportKey": "soccer-club.friendly",
   "leagueName": "Club Friendly",
-  "windowFrom": "20260809",
-  "windowTo": "20270520",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
   "events": [
-    {
-      "id": "club.friendly-2026-08-09-radomiak-radom-ael",
-      "weekend": "2026-08-09",
-      "name": "Radomiak Radom v AEL",
-      "utc": "2026-08-09T10:00:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-manchester-city-atl-tico-madrid",
-      "weekend": "2026-08-09",
-      "name": "Manchester City v Atl\u00e9tico Madrid",
-      "utc": "2026-08-09T11:00:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-johor-darul-ta-zim-chelsea",
-      "weekend": "2026-08-09",
-      "name": "Johor Darul Ta'zim v Chelsea",
-      "utc": "2026-08-09T12:00:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-liverpool-as-monaco",
-      "weekend": "2026-08-09",
-      "name": "Liverpool v AS Monaco",
-      "utc": "2026-08-09T13:30:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-1-fc-union-berlin-aris-limassol",
-      "weekend": "2026-08-09",
-      "name": "1. FC Union Berlin v Aris Limassol",
-      "utc": "2026-08-09T15:00:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-lecce-monopoli-1966",
-      "weekend": "2026-08-09",
-      "name": "Lecce v Monopoli 1966",
-      "utc": "2026-08-09T15:30:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-marseille-athletic-club",
-      "weekend": "2026-08-09",
-      "name": "Marseille v Athletic Club",
-      "utc": "2026-08-09T15:30:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-radnik-hadzici-stupcanica-olovo",
-      "weekend": "2026-08-09",
-      "name": "Radnik Hadzici v Stupcanica Olovo",
-      "utc": "2026-08-09T15:30:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-club-sportif-sfaxien-san-p-dro",
-      "weekend": "2026-08-09",
-      "name": "Club Sportif Sfaxien v San P\u00e9dro",
-      "utc": "2026-08-09T16:00:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-pro-patria-imperia",
-      "weekend": "2026-08-09",
-      "name": "Pro Patria v Imperia",
-      "utc": "2026-08-09T16:00:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-thes-sport-tessenderlo-koninklijke-lierse-sk",
-      "weekend": "2026-08-09",
-      "name": "Thes Sport Tessenderlo v Koninklijke Lierse SK",
-      "utc": "2026-08-09T16:00:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-u-s-pergolettese-internazionale-u23",
-      "weekend": "2026-08-09",
-      "name": "U.S. Pergolettese v Internazionale U23",
-      "utc": "2026-08-09T16:00:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-royal-francs-borains-rwdm",
-      "weekend": "2026-08-09",
-      "name": "Royal Francs Borains v RWDM",
-      "utc": "2026-08-09T16:30:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-parma-sampdoria",
-      "weekend": "2026-08-09",
-      "name": "Parma v Sampdoria",
-      "utc": "2026-08-09T18:00:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-mantova-carpi",
-      "weekend": "2026-08-09",
-      "name": "Mantova v Carpi",
-      "utc": "2026-08-09T18:30:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-frosinone-lazio",
-      "weekend": "2026-08-09",
-      "name": "Frosinone v Lazio",
-      "utc": "2026-08-09T18:45:00Z"
-    },
-    {
-      "id": "club.friendly-2026-08-09-olot-cd-sabadell",
-      "weekend": "2026-08-09",
-      "name": "Olot v CD Sabadell",
-      "utc": "2026-08-09T19:00:00Z"
-    },
     {
       "id": "club.friendly-2026-08-10-panionios-olympiakos-piraeus-ii",
       "weekend": "2026-08-10",
@@ -1475,9 +1373,9 @@
       "utc": "2026-08-26T15:00:00Z"
     },
     {
-      "id": "club.friendly-2026-08-26-tbd-home-tbd-away",
+      "id": "club.friendly-2026-08-26-ksour-essef-stade-soussien",
       "weekend": "2026-08-26",
-      "name": "TBD Home v TBD Away",
+      "name": "KSOUR ESSEF v STADE SOUSSIEN",
       "utc": "2026-08-26T15:30:00Z"
     },
     {
@@ -1487,9 +1385,9 @@
       "utc": "2026-08-26T17:00:00Z"
     },
     {
-      "id": "club.friendly-2026-08-26-tbd-home-tbd-away-2",
+      "id": "club.friendly-2026-08-26-samartex-dreams-f-c",
       "weekend": "2026-08-26",
-      "name": "TBD Home v TBD Away",
+      "name": "Samartex v Dreams F.C.",
       "utc": "2026-08-26T18:00:00Z"
     },
     {
