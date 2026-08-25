@@ -253,6 +253,68 @@ def fetch_pdf_based_events(jayski_titles: dict) -> list[dict]:
     return events
 
 
+def to_utc_iso(date_str: str) -> str | None:
+    if not date_str:
+        return None
+    d = date_str.strip()
+    if d.endswith("Z"):
+        d = d[:-1] + "+00:00"
+    try:
+        dt = datetime.fromisoformat(d)
+    except ValueError:
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=UTC)
+    return dt.astimezone(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def fetch_espn_fallback_events(jayski_titles: dict) -> list[dict]:
+    print("Jayski pipeline produced nothing - falling back to ESPN (race-only)...", file=sys.stderr)
+    url = "https://sports.core.api.espn.com/v2/sports/racing/leagues/nascar-secondary/events"
+    try:
+        res = requests.get(url, headers=HEADERS, params={"limit": 100}, timeout=15)
+        res.raise_for_status()
+        items = res.json().get("items", [])
+    except Exception as err:
+        print(f"ESPN fallback failed: {err}", file=sys.stderr)
+        return []
+
+    assign_id = make_unique_id_assigner()
+    events = []
+    for item in items:
+        event_url = item.get("$ref") if isinstance(item, dict) else item
+        if not event_url:
+            continue
+        try:
+            ev_res = requests.get(event_url, headers=HEADERS, timeout=10)
+            if ev_res.status_code != 200:
+                continue
+            ev = ev_res.json()
+        except requests.RequestException:
+            continue
+
+        utc_iso = to_utc_iso(ev.get("date"))
+        if not utc_iso:
+            continue
+        espn_name = ev.get("name") or ev.get("shortName") or "NASCAR O'Reilly Race"
+
+        try:
+            local_dt = datetime.strptime(utc_iso, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=UTC).astimezone(ET_TZ)
+            weekend_name = jayski_titles.get((local_dt.month, local_dt.day), espn_name)
+        except Exception:
+            weekend_name = espn_name
+
+        base_id = f"noaps-{SEASON_YEAR}-{slugify(weekend_name)}-race"
+        events.append({
+            "id": assign_id(base_id),
+            "weekend": weekend_name,
+            "name": "Race",
+            "utc": utc_iso,
+        })
+
+    return events
+
+
 def main():
     print("Fetching official race titles from Jayski...", file=sys.stderr)
     try:
@@ -264,6 +326,10 @@ def main():
 
     events = fetch_pdf_based_events(jayski_titles)
     print(f"Parsed {len(events)} sessions from PDFs", file=sys.stderr)
+
+    if not events:
+        events = fetch_espn_fallback_events(jayski_titles)
+
     events.sort(key=lambda e: e["utc"])
 
     output = {

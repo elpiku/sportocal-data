@@ -97,12 +97,18 @@ def to_utc_iso(date_str: str) -> str | None:
         return None
 
 
-def classify_session(type_code: str) -> tuple[str, str]:
-    mapped = SESSION_TYPE_MAP.get((type_code or "").upper().strip())
+def classify_session(type_code: str, session_num=None) -> tuple[str, str]:
+    raw = (type_code or "").upper().strip()
+    if session_num is not None and str(session_num).isdigit():
+        combined = f"{raw}{session_num}"
+        mapped = SESSION_TYPE_MAP.get(combined)
+        if mapped:
+            return mapped
+    mapped = SESSION_TYPE_MAP.get(raw)
     if mapped:
         return mapped
-    fallback_slug = slugify(type_code or "session")
-    return fallback_slug, (type_code or "Session")
+    fallback_slug = slugify(f"{raw}-{session_num}" if session_num else raw or "session")
+    return fallback_slug, (f"{raw} {session_num}".strip() if session_num else raw or "Session")
 
 
 def get_season_uuid(year: int) -> str:
@@ -176,7 +182,7 @@ def build_event_entries(event: dict, category_ids: dict[str, str]) -> dict[str, 
             utc_iso = to_utc_iso(s.get("date"))
             if not utc_iso:
                 continue
-            session_key, display_name = classify_session(s.get("type"))
+            session_key, display_name = classify_session(s.get("type"), s.get("number"))
             entries[cat].append({
                 "id": assign_id(f"{cat}-{SEASON_YEAR}-{event_slug}-{session_key}"),
                 "weekend": event_name,

@@ -59,6 +59,8 @@ CURATED_NAMES = {
     "laliga": "La Liga",
     "seriea": "Serie A",
     "bundesliga": "Bundesliga",
+    "uefachampionsleague": "UEFA Champions League",
+    "championsleague": "UEFA Champions League",
     "mls": "MLS",
     "nba": "NBA",
     "atp": "ATP Tour",

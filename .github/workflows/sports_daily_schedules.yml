@@ -82,6 +82,48 @@ jobs:
       - name: Run Water Polo Scraper
         run: python scripts/water_polo_generic.py || true
 
+      - name: Run Premier League Scraper
+        run: python scripts/premier_league.py || true
+
+      - name: Run La Liga Scraper
+        run: python scripts/la_liga.py || true
+
+      - name: Run Bundesliga Scraper
+        run: python scripts/bundesliga.py || true
+
+      - name: Run Serie A Scraper
+        run: python scripts/serie_a.py || true
+
+      - name: Run Champions League Scraper
+        run: python scripts/champions_league.py || true
+
+      - name: Run MLS Scraper
+        run: python scripts/mls.py || true
+
+      - name: Run F1 Scraper
+        run: python scripts/scrape_f1.py || true
+
+      - name: Run MotoGP Scraper
+        run: python scripts/motogp.py || true
+
+      - name: Run WRC Scraper
+        run: python scripts/wrc_scraper.py || true
+
+      - name: Run IndyCar Scraper
+        run: python scripts/scrape_indycar.py || true
+
+      - name: Run WEC Scraper
+        run: python scripts/wec_schedule_scraper.py || true
+
+      - name: Run NASCAR Cup Scraper
+        run: python scripts/nascar_cup.py || true
+
+      - name: Run NASCAR O'Reilly Scraper
+        run: python scripts/nascar_oreilly.py || true
+
+      - name: Run NASCAR Truck Scraper
+        run: python scripts/nascar_truck.py || true
+
       - name: Rebuild index.json
         run: python scripts/build_index.py
 
