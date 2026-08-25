@@ -1,0 +1,1736 @@
+{
+  "sportKey": "soccer-ger.2",
+  "leagueName": "German 2. Bundesliga",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "ger.2-2026-08-14-holstein-kiel-st-pauli",
+      "weekend": "2026-08-14",
+      "name": "Holstein Kiel v St. Pauli",
+      "utc": "2026-08-14T16:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-14-tsv-eintracht-braunschweig-vfl-bochum",
+      "weekend": "2026-08-14",
+      "name": "TSV Eintracht Braunschweig v VfL Bochum",
+      "utc": "2026-08-14T16:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-15-hertha-berlin-1-fc-heidenheim-1846",
+      "weekend": "2026-08-15",
+      "name": "Hertha Berlin v 1. FC Heidenheim 1846",
+      "utc": "2026-08-15T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-15-spvgg-greuther-f-rth-1-fc-n-rnberg",
+      "weekend": "2026-08-15",
+      "name": "SpVgg Greuther F\u00fcrth v 1. FC N\u00fcrnberg",
+      "utc": "2026-08-15T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-15-vfl-osnabruck-1-fc-magdeburg",
+      "weekend": "2026-08-15",
+      "name": "VfL Osnabruck v 1. FC Magdeburg",
+      "utc": "2026-08-15T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-15-kaiserslautern-karlsruher-sc",
+      "weekend": "2026-08-15",
+      "name": "Kaiserslautern v Karlsruher SC",
+      "utc": "2026-08-15T18:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-16-arminia-bielefeld-energie-cottbus",
+      "weekend": "2026-08-16",
+      "name": "Arminia Bielefeld v Energie Cottbus",
+      "utc": "2026-08-16T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-16-dynamo-dresden-sv-darmstadt-98",
+      "weekend": "2026-08-16",
+      "name": "Dynamo Dresden v SV Darmstadt 98",
+      "utc": "2026-08-16T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-16-hannover-96-vfl-wolfsburg",
+      "weekend": "2026-08-16",
+      "name": "Hannover 96 v VfL Wolfsburg",
+      "utc": "2026-08-16T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-28-tsv-eintracht-braunschweig-hertha-berlin",
+      "weekend": "2026-08-28",
+      "name": "TSV Eintracht Braunschweig v Hertha Berlin",
+      "utc": "2026-08-28T16:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-28-vfl-bochum-vfl-osnabruck",
+      "weekend": "2026-08-28",
+      "name": "VfL Bochum v VfL Osnabruck",
+      "utc": "2026-08-28T16:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-29-1-fc-heidenheim-1846-dynamo-dresden",
+      "weekend": "2026-08-29",
+      "name": "1. FC Heidenheim 1846 v Dynamo Dresden",
+      "utc": "2026-08-29T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-29-energie-cottbus-spvgg-greuther-f-rth",
+      "weekend": "2026-08-29",
+      "name": "Energie Cottbus v SpVgg Greuther F\u00fcrth",
+      "utc": "2026-08-29T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-29-karlsruher-sc-vfl-wolfsburg",
+      "weekend": "2026-08-29",
+      "name": "Karlsruher SC v VfL Wolfsburg",
+      "utc": "2026-08-29T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-29-1-fc-n-rnberg-arminia-bielefeld",
+      "weekend": "2026-08-29",
+      "name": "1. FC N\u00fcrnberg v Arminia Bielefeld",
+      "utc": "2026-08-29T18:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-30-1-fc-magdeburg-holstein-kiel",
+      "weekend": "2026-08-30",
+      "name": "1. FC Magdeburg v Holstein Kiel",
+      "utc": "2026-08-30T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-30-st-pauli-kaiserslautern",
+      "weekend": "2026-08-30",
+      "name": "St. Pauli v Kaiserslautern",
+      "utc": "2026-08-30T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-08-30-sv-darmstadt-98-hannover-96",
+      "weekend": "2026-08-30",
+      "name": "SV Darmstadt 98 v Hannover 96",
+      "utc": "2026-08-30T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-04-arminia-bielefeld-st-pauli",
+      "weekend": "2026-09-04",
+      "name": "Arminia Bielefeld v St. Pauli",
+      "utc": "2026-09-04T16:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-04-hannover-96-karlsruher-sc",
+      "weekend": "2026-09-04",
+      "name": "Hannover 96 v Karlsruher SC",
+      "utc": "2026-09-04T16:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-05-holstein-kiel-1-fc-n-rnberg",
+      "weekend": "2026-09-05",
+      "name": "Holstein Kiel v 1. FC N\u00fcrnberg",
+      "utc": "2026-09-05T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-05-kaiserslautern-sv-darmstadt-98",
+      "weekend": "2026-09-05",
+      "name": "Kaiserslautern v SV Darmstadt 98",
+      "utc": "2026-09-05T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-05-vfl-wolfsburg-energie-cottbus",
+      "weekend": "2026-09-05",
+      "name": "VfL Wolfsburg v Energie Cottbus",
+      "utc": "2026-09-05T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-05-dynamo-dresden-vfl-bochum",
+      "weekend": "2026-09-05",
+      "name": "Dynamo Dresden v VfL Bochum",
+      "utc": "2026-09-05T18:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-06-hertha-berlin-1-fc-magdeburg",
+      "weekend": "2026-09-06",
+      "name": "Hertha Berlin v 1. FC Magdeburg",
+      "utc": "2026-09-06T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-06-spvgg-greuther-f-rth-1-fc-heidenheim-1846",
+      "weekend": "2026-09-06",
+      "name": "SpVgg Greuther F\u00fcrth v 1. FC Heidenheim 1846",
+      "utc": "2026-09-06T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-06-vfl-osnabruck-tsv-eintracht-braunschweig",
+      "weekend": "2026-09-06",
+      "name": "VfL Osnabruck v TSV Eintracht Braunschweig",
+      "utc": "2026-09-06T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-11-1-fc-n-rnberg-hannover-96",
+      "weekend": "2026-09-11",
+      "name": "1. FC N\u00fcrnberg v Hannover 96",
+      "utc": "2026-09-11T16:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-11-sv-darmstadt-98-arminia-bielefeld",
+      "weekend": "2026-09-11",
+      "name": "SV Darmstadt 98 v Arminia Bielefeld",
+      "utc": "2026-09-11T16:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-12-1-fc-magdeburg-kaiserslautern",
+      "weekend": "2026-09-12",
+      "name": "1. FC Magdeburg v Kaiserslautern",
+      "utc": "2026-09-12T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-12-tsv-eintracht-braunschweig-dynamo-dresden",
+      "weekend": "2026-09-12",
+      "name": "TSV Eintracht Braunschweig v Dynamo Dresden",
+      "utc": "2026-09-12T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-12-vfl-bochum-spvgg-greuther-f-rth",
+      "weekend": "2026-09-12",
+      "name": "VfL Bochum v SpVgg Greuther F\u00fcrth",
+      "utc": "2026-09-12T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-12-st-pauli-vfl-wolfsburg",
+      "weekend": "2026-09-12",
+      "name": "St. Pauli v VfL Wolfsburg",
+      "utc": "2026-09-12T18:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-13-1-fc-heidenheim-1846-holstein-kiel",
+      "weekend": "2026-09-13",
+      "name": "1. FC Heidenheim 1846 v Holstein Kiel",
+      "utc": "2026-09-13T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-13-karlsruher-sc-energie-cottbus",
+      "weekend": "2026-09-13",
+      "name": "Karlsruher SC v Energie Cottbus",
+      "utc": "2026-09-13T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-13-vfl-osnabruck-hertha-berlin",
+      "weekend": "2026-09-13",
+      "name": "VfL Osnabruck v Hertha Berlin",
+      "utc": "2026-09-13T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-18-spvgg-greuther-f-rth-1-fc-magdeburg",
+      "weekend": "2026-09-18",
+      "name": "SpVgg Greuther F\u00fcrth v 1. FC Magdeburg",
+      "utc": "2026-09-18T16:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-18-vfl-wolfsburg-sv-darmstadt-98",
+      "weekend": "2026-09-18",
+      "name": "VfL Wolfsburg v SV Darmstadt 98",
+      "utc": "2026-09-18T16:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-19-holstein-kiel-vfl-osnabruck",
+      "weekend": "2026-09-19",
+      "name": "Holstein Kiel v VfL Osnabruck",
+      "utc": "2026-09-19T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-19-kaiserslautern-tsv-eintracht-braunschweig",
+      "weekend": "2026-09-19",
+      "name": "Kaiserslautern v TSV Eintracht Braunschweig",
+      "utc": "2026-09-19T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-19-karlsruher-sc-1-fc-n-rnberg",
+      "weekend": "2026-09-19",
+      "name": "Karlsruher SC v 1. FC N\u00fcrnberg",
+      "utc": "2026-09-19T11:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-19-dynamo-dresden-hertha-berlin",
+      "weekend": "2026-09-19",
+      "name": "Dynamo Dresden v Hertha Berlin",
+      "utc": "2026-09-19T18:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-20-arminia-bielefeld-1-fc-heidenheim-1846",
+      "weekend": "2026-09-20",
+      "name": "Arminia Bielefeld v 1. FC Heidenheim 1846",
+      "utc": "2026-09-20T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-20-energie-cottbus-st-pauli",
+      "weekend": "2026-09-20",
+      "name": "Energie Cottbus v St. Pauli",
+      "utc": "2026-09-20T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-09-20-hannover-96-vfl-bochum",
+      "weekend": "2026-09-20",
+      "name": "Hannover 96 v VfL Bochum",
+      "utc": "2026-09-20T11:30:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-10-1-fc-heidenheim-1846-kaiserslautern",
+      "weekend": "2026-10-10",
+      "name": "1. FC Heidenheim 1846 v Kaiserslautern",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-10-1-fc-magdeburg-hannover-96",
+      "weekend": "2026-10-10",
+      "name": "1. FC Magdeburg v Hannover 96",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-10-1-fc-n-rnberg-vfl-wolfsburg",
+      "weekend": "2026-10-10",
+      "name": "1. FC N\u00fcrnberg v VfL Wolfsburg",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-10-hertha-berlin-spvgg-greuther-f-rth",
+      "weekend": "2026-10-10",
+      "name": "Hertha Berlin v SpVgg Greuther F\u00fcrth",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-10-st-pauli-karlsruher-sc",
+      "weekend": "2026-10-10",
+      "name": "St. Pauli v Karlsruher SC",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-10-sv-darmstadt-98-energie-cottbus",
+      "weekend": "2026-10-10",
+      "name": "SV Darmstadt 98 v Energie Cottbus",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-10-tsv-eintracht-braunschweig-holstein-kiel",
+      "weekend": "2026-10-10",
+      "name": "TSV Eintracht Braunschweig v Holstein Kiel",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-10-vfl-bochum-arminia-bielefeld",
+      "weekend": "2026-10-10",
+      "name": "VfL Bochum v Arminia Bielefeld",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-10-vfl-osnabruck-dynamo-dresden",
+      "weekend": "2026-10-10",
+      "name": "VfL Osnabruck v Dynamo Dresden",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-17-arminia-bielefeld-vfl-osnabruck",
+      "weekend": "2026-10-17",
+      "name": "Arminia Bielefeld v VfL Osnabruck",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-17-dynamo-dresden-1-fc-magdeburg",
+      "weekend": "2026-10-17",
+      "name": "Dynamo Dresden v 1. FC Magdeburg",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-17-energie-cottbus-1-fc-n-rnberg",
+      "weekend": "2026-10-17",
+      "name": "Energie Cottbus v 1. FC N\u00fcrnberg",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-17-hannover-96-st-pauli",
+      "weekend": "2026-10-17",
+      "name": "Hannover 96 v St. Pauli",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-17-holstein-kiel-hertha-berlin",
+      "weekend": "2026-10-17",
+      "name": "Holstein Kiel v Hertha Berlin",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-17-kaiserslautern-vfl-bochum",
+      "weekend": "2026-10-17",
+      "name": "Kaiserslautern v VfL Bochum",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-17-karlsruher-sc-sv-darmstadt-98",
+      "weekend": "2026-10-17",
+      "name": "Karlsruher SC v SV Darmstadt 98",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-17-spvgg-greuther-f-rth-tsv-eintracht-braunschweig",
+      "weekend": "2026-10-17",
+      "name": "SpVgg Greuther F\u00fcrth v TSV Eintracht Braunschweig",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-17-vfl-wolfsburg-1-fc-heidenheim-1846",
+      "weekend": "2026-10-17",
+      "name": "VfL Wolfsburg v 1. FC Heidenheim 1846",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-24-1-fc-heidenheim-1846-energie-cottbus",
+      "weekend": "2026-10-24",
+      "name": "1. FC Heidenheim 1846 v Energie Cottbus",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-24-1-fc-magdeburg-karlsruher-sc",
+      "weekend": "2026-10-24",
+      "name": "1. FC Magdeburg v Karlsruher SC",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-24-1-fc-n-rnberg-kaiserslautern",
+      "weekend": "2026-10-24",
+      "name": "1. FC N\u00fcrnberg v Kaiserslautern",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-24-hertha-berlin-arminia-bielefeld",
+      "weekend": "2026-10-24",
+      "name": "Hertha Berlin v Arminia Bielefeld",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-24-holstein-kiel-dynamo-dresden",
+      "weekend": "2026-10-24",
+      "name": "Holstein Kiel v Dynamo Dresden",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-24-sv-darmstadt-98-st-pauli",
+      "weekend": "2026-10-24",
+      "name": "SV Darmstadt 98 v St. Pauli",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-24-tsv-eintracht-braunschweig-hannover-96",
+      "weekend": "2026-10-24",
+      "name": "TSV Eintracht Braunschweig v Hannover 96",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-24-vfl-bochum-vfl-wolfsburg",
+      "weekend": "2026-10-24",
+      "name": "VfL Bochum v VfL Wolfsburg",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-24-vfl-osnabruck-spvgg-greuther-f-rth",
+      "weekend": "2026-10-24",
+      "name": "VfL Osnabruck v SpVgg Greuther F\u00fcrth",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-31-arminia-bielefeld-tsv-eintracht-braunschweig",
+      "weekend": "2026-10-31",
+      "name": "Arminia Bielefeld v TSV Eintracht Braunschweig",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-31-energie-cottbus-vfl-bochum",
+      "weekend": "2026-10-31",
+      "name": "Energie Cottbus v VfL Bochum",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-31-hannover-96-dynamo-dresden",
+      "weekend": "2026-10-31",
+      "name": "Hannover 96 v Dynamo Dresden",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-31-kaiserslautern-hertha-berlin",
+      "weekend": "2026-10-31",
+      "name": "Kaiserslautern v Hertha Berlin",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-31-karlsruher-sc-1-fc-heidenheim-1846",
+      "weekend": "2026-10-31",
+      "name": "Karlsruher SC v 1. FC Heidenheim 1846",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-31-spvgg-greuther-f-rth-holstein-kiel",
+      "weekend": "2026-10-31",
+      "name": "SpVgg Greuther F\u00fcrth v Holstein Kiel",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-31-st-pauli-1-fc-n-rnberg",
+      "weekend": "2026-10-31",
+      "name": "St. Pauli v 1. FC N\u00fcrnberg",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-31-sv-darmstadt-98-1-fc-magdeburg",
+      "weekend": "2026-10-31",
+      "name": "SV Darmstadt 98 v 1. FC Magdeburg",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-10-31-vfl-wolfsburg-vfl-osnabruck",
+      "weekend": "2026-10-31",
+      "name": "VfL Wolfsburg v VfL Osnabruck",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-07-1-fc-heidenheim-1846-hannover-96",
+      "weekend": "2026-11-07",
+      "name": "1. FC Heidenheim 1846 v Hannover 96",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-07-1-fc-magdeburg-st-pauli",
+      "weekend": "2026-11-07",
+      "name": "1. FC Magdeburg v St. Pauli",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-07-1-fc-n-rnberg-sv-darmstadt-98",
+      "weekend": "2026-11-07",
+      "name": "1. FC N\u00fcrnberg v SV Darmstadt 98",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-07-dynamo-dresden-spvgg-greuther-f-rth",
+      "weekend": "2026-11-07",
+      "name": "Dynamo Dresden v SpVgg Greuther F\u00fcrth",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-07-hertha-berlin-vfl-wolfsburg",
+      "weekend": "2026-11-07",
+      "name": "Hertha Berlin v VfL Wolfsburg",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-07-holstein-kiel-arminia-bielefeld",
+      "weekend": "2026-11-07",
+      "name": "Holstein Kiel v Arminia Bielefeld",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-07-tsv-eintracht-braunschweig-energie-cottbus",
+      "weekend": "2026-11-07",
+      "name": "TSV Eintracht Braunschweig v Energie Cottbus",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-07-vfl-bochum-karlsruher-sc",
+      "weekend": "2026-11-07",
+      "name": "VfL Bochum v Karlsruher SC",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-07-vfl-osnabruck-kaiserslautern",
+      "weekend": "2026-11-07",
+      "name": "VfL Osnabruck v Kaiserslautern",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-21-1-fc-n-rnberg-tsv-eintracht-braunschweig",
+      "weekend": "2026-11-21",
+      "name": "1. FC N\u00fcrnberg v TSV Eintracht Braunschweig",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-21-arminia-bielefeld-1-fc-magdeburg",
+      "weekend": "2026-11-21",
+      "name": "Arminia Bielefeld v 1. FC Magdeburg",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-21-energie-cottbus-hertha-berlin",
+      "weekend": "2026-11-21",
+      "name": "Energie Cottbus v Hertha Berlin",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-21-hannover-96-spvgg-greuther-f-rth",
+      "weekend": "2026-11-21",
+      "name": "Hannover 96 v SpVgg Greuther F\u00fcrth",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-21-kaiserslautern-dynamo-dresden",
+      "weekend": "2026-11-21",
+      "name": "Kaiserslautern v Dynamo Dresden",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-21-karlsruher-sc-vfl-osnabruck",
+      "weekend": "2026-11-21",
+      "name": "Karlsruher SC v VfL Osnabruck",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-21-st-pauli-vfl-bochum",
+      "weekend": "2026-11-21",
+      "name": "St. Pauli v VfL Bochum",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-21-sv-darmstadt-98-1-fc-heidenheim-1846",
+      "weekend": "2026-11-21",
+      "name": "SV Darmstadt 98 v 1. FC Heidenheim 1846",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-21-vfl-wolfsburg-holstein-kiel",
+      "weekend": "2026-11-21",
+      "name": "VfL Wolfsburg v Holstein Kiel",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-28-1-fc-heidenheim-1846-1-fc-n-rnberg",
+      "weekend": "2026-11-28",
+      "name": "1. FC Heidenheim 1846 v 1. FC N\u00fcrnberg",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-28-1-fc-magdeburg-energie-cottbus",
+      "weekend": "2026-11-28",
+      "name": "1. FC Magdeburg v Energie Cottbus",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-28-dynamo-dresden-st-pauli",
+      "weekend": "2026-11-28",
+      "name": "Dynamo Dresden v St. Pauli",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-28-hertha-berlin-karlsruher-sc",
+      "weekend": "2026-11-28",
+      "name": "Hertha Berlin v Karlsruher SC",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-28-holstein-kiel-kaiserslautern",
+      "weekend": "2026-11-28",
+      "name": "Holstein Kiel v Kaiserslautern",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-28-spvgg-greuther-f-rth-arminia-bielefeld",
+      "weekend": "2026-11-28",
+      "name": "SpVgg Greuther F\u00fcrth v Arminia Bielefeld",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-28-tsv-eintracht-braunschweig-vfl-wolfsburg",
+      "weekend": "2026-11-28",
+      "name": "TSV Eintracht Braunschweig v VfL Wolfsburg",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-28-vfl-bochum-sv-darmstadt-98",
+      "weekend": "2026-11-28",
+      "name": "VfL Bochum v SV Darmstadt 98",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-11-28-vfl-osnabruck-hannover-96",
+      "weekend": "2026-11-28",
+      "name": "VfL Osnabruck v Hannover 96",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-05-1-fc-n-rnberg-vfl-bochum",
+      "weekend": "2026-12-05",
+      "name": "1. FC N\u00fcrnberg v VfL Bochum",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-05-arminia-bielefeld-dynamo-dresden",
+      "weekend": "2026-12-05",
+      "name": "Arminia Bielefeld v Dynamo Dresden",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-05-energie-cottbus-vfl-osnabruck",
+      "weekend": "2026-12-05",
+      "name": "Energie Cottbus v VfL Osnabruck",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-05-hannover-96-hertha-berlin",
+      "weekend": "2026-12-05",
+      "name": "Hannover 96 v Hertha Berlin",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-05-kaiserslautern-spvgg-greuther-f-rth",
+      "weekend": "2026-12-05",
+      "name": "Kaiserslautern v SpVgg Greuther F\u00fcrth",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-05-karlsruher-sc-holstein-kiel",
+      "weekend": "2026-12-05",
+      "name": "Karlsruher SC v Holstein Kiel",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-05-st-pauli-1-fc-heidenheim-1846",
+      "weekend": "2026-12-05",
+      "name": "St. Pauli v 1. FC Heidenheim 1846",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-05-sv-darmstadt-98-tsv-eintracht-braunschweig",
+      "weekend": "2026-12-05",
+      "name": "SV Darmstadt 98 v TSV Eintracht Braunschweig",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-05-vfl-wolfsburg-1-fc-magdeburg",
+      "weekend": "2026-12-05",
+      "name": "VfL Wolfsburg v 1. FC Magdeburg",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-12-1-fc-magdeburg-1-fc-n-rnberg",
+      "weekend": "2026-12-12",
+      "name": "1. FC Magdeburg v 1. FC N\u00fcrnberg",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-12-arminia-bielefeld-kaiserslautern",
+      "weekend": "2026-12-12",
+      "name": "Arminia Bielefeld v Kaiserslautern",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-12-dynamo-dresden-energie-cottbus",
+      "weekend": "2026-12-12",
+      "name": "Dynamo Dresden v Energie Cottbus",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-12-hertha-berlin-sv-darmstadt-98",
+      "weekend": "2026-12-12",
+      "name": "Hertha Berlin v SV Darmstadt 98",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-12-holstein-kiel-hannover-96",
+      "weekend": "2026-12-12",
+      "name": "Holstein Kiel v Hannover 96",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-12-spvgg-greuther-f-rth-vfl-wolfsburg",
+      "weekend": "2026-12-12",
+      "name": "SpVgg Greuther F\u00fcrth v VfL Wolfsburg",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-12-tsv-eintracht-braunschweig-karlsruher-sc",
+      "weekend": "2026-12-12",
+      "name": "TSV Eintracht Braunschweig v Karlsruher SC",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-12-vfl-bochum-1-fc-heidenheim-1846",
+      "weekend": "2026-12-12",
+      "name": "VfL Bochum v 1. FC Heidenheim 1846",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-12-vfl-osnabruck-st-pauli",
+      "weekend": "2026-12-12",
+      "name": "VfL Osnabruck v St. Pauli",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-19-1-fc-heidenheim-1846-tsv-eintracht-braunschweig",
+      "weekend": "2026-12-19",
+      "name": "1. FC Heidenheim 1846 v TSV Eintracht Braunschweig",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-19-1-fc-n-rnberg-vfl-osnabruck",
+      "weekend": "2026-12-19",
+      "name": "1. FC N\u00fcrnberg v VfL Osnabruck",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-19-energie-cottbus-holstein-kiel",
+      "weekend": "2026-12-19",
+      "name": "Energie Cottbus v Holstein Kiel",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-19-hannover-96-kaiserslautern",
+      "weekend": "2026-12-19",
+      "name": "Hannover 96 v Kaiserslautern",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-19-karlsruher-sc-dynamo-dresden",
+      "weekend": "2026-12-19",
+      "name": "Karlsruher SC v Dynamo Dresden",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-19-st-pauli-hertha-berlin",
+      "weekend": "2026-12-19",
+      "name": "St. Pauli v Hertha Berlin",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-19-sv-darmstadt-98-spvgg-greuther-f-rth",
+      "weekend": "2026-12-19",
+      "name": "SV Darmstadt 98 v SpVgg Greuther F\u00fcrth",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-19-vfl-bochum-1-fc-magdeburg",
+      "weekend": "2026-12-19",
+      "name": "VfL Bochum v 1. FC Magdeburg",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2026-12-19-vfl-wolfsburg-arminia-bielefeld",
+      "weekend": "2026-12-19",
+      "name": "VfL Wolfsburg v Arminia Bielefeld",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-16-1-fc-magdeburg-1-fc-heidenheim-1846",
+      "weekend": "2027-01-16",
+      "name": "1. FC Magdeburg v 1. FC Heidenheim 1846",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-16-arminia-bielefeld-hannover-96",
+      "weekend": "2027-01-16",
+      "name": "Arminia Bielefeld v Hannover 96",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-16-dynamo-dresden-vfl-wolfsburg",
+      "weekend": "2027-01-16",
+      "name": "Dynamo Dresden v VfL Wolfsburg",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-16-hertha-berlin-1-fc-n-rnberg",
+      "weekend": "2027-01-16",
+      "name": "Hertha Berlin v 1. FC N\u00fcrnberg",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-16-holstein-kiel-vfl-bochum",
+      "weekend": "2027-01-16",
+      "name": "Holstein Kiel v VfL Bochum",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-16-kaiserslautern-energie-cottbus",
+      "weekend": "2027-01-16",
+      "name": "Kaiserslautern v Energie Cottbus",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-16-spvgg-greuther-f-rth-karlsruher-sc",
+      "weekend": "2027-01-16",
+      "name": "SpVgg Greuther F\u00fcrth v Karlsruher SC",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-16-tsv-eintracht-braunschweig-st-pauli",
+      "weekend": "2027-01-16",
+      "name": "TSV Eintracht Braunschweig v St. Pauli",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-16-vfl-osnabruck-sv-darmstadt-98",
+      "weekend": "2027-01-16",
+      "name": "VfL Osnabruck v SV Darmstadt 98",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-23-arminia-bielefeld-karlsruher-sc",
+      "weekend": "2027-01-23",
+      "name": "Arminia Bielefeld v Karlsruher SC",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-23-dynamo-dresden-1-fc-n-rnberg",
+      "weekend": "2027-01-23",
+      "name": "Dynamo Dresden v 1. FC N\u00fcrnberg",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-23-hannover-96-energie-cottbus",
+      "weekend": "2027-01-23",
+      "name": "Hannover 96 v Energie Cottbus",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-23-hertha-berlin-vfl-bochum",
+      "weekend": "2027-01-23",
+      "name": "Hertha Berlin v VfL Bochum",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-23-holstein-kiel-sv-darmstadt-98",
+      "weekend": "2027-01-23",
+      "name": "Holstein Kiel v SV Darmstadt 98",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-23-kaiserslautern-vfl-wolfsburg",
+      "weekend": "2027-01-23",
+      "name": "Kaiserslautern v VfL Wolfsburg",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-23-spvgg-greuther-f-rth-st-pauli",
+      "weekend": "2027-01-23",
+      "name": "SpVgg Greuther F\u00fcrth v St. Pauli",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-23-tsv-eintracht-braunschweig-1-fc-magdeburg",
+      "weekend": "2027-01-23",
+      "name": "TSV Eintracht Braunschweig v 1. FC Magdeburg",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-23-vfl-osnabruck-1-fc-heidenheim-1846",
+      "weekend": "2027-01-23",
+      "name": "VfL Osnabruck v 1. FC Heidenheim 1846",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-30-1-fc-heidenheim-1846-hertha-berlin",
+      "weekend": "2027-01-30",
+      "name": "1. FC Heidenheim 1846 v Hertha Berlin",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-30-1-fc-magdeburg-vfl-osnabruck",
+      "weekend": "2027-01-30",
+      "name": "1. FC Magdeburg v VfL Osnabruck",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-30-1-fc-n-rnberg-spvgg-greuther-f-rth",
+      "weekend": "2027-01-30",
+      "name": "1. FC N\u00fcrnberg v SpVgg Greuther F\u00fcrth",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-30-energie-cottbus-arminia-bielefeld",
+      "weekend": "2027-01-30",
+      "name": "Energie Cottbus v Arminia Bielefeld",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-30-karlsruher-sc-kaiserslautern",
+      "weekend": "2027-01-30",
+      "name": "Karlsruher SC v Kaiserslautern",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-30-st-pauli-holstein-kiel",
+      "weekend": "2027-01-30",
+      "name": "St. Pauli v Holstein Kiel",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-30-sv-darmstadt-98-dynamo-dresden",
+      "weekend": "2027-01-30",
+      "name": "SV Darmstadt 98 v Dynamo Dresden",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-30-vfl-bochum-tsv-eintracht-braunschweig",
+      "weekend": "2027-01-30",
+      "name": "VfL Bochum v TSV Eintracht Braunschweig",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-01-30-vfl-wolfsburg-hannover-96",
+      "weekend": "2027-01-30",
+      "name": "VfL Wolfsburg v Hannover 96",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-06-arminia-bielefeld-1-fc-n-rnberg",
+      "weekend": "2027-02-06",
+      "name": "Arminia Bielefeld v 1. FC N\u00fcrnberg",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-06-dynamo-dresden-1-fc-heidenheim-1846",
+      "weekend": "2027-02-06",
+      "name": "Dynamo Dresden v 1. FC Heidenheim 1846",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-06-hannover-96-sv-darmstadt-98",
+      "weekend": "2027-02-06",
+      "name": "Hannover 96 v SV Darmstadt 98",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-06-hertha-berlin-tsv-eintracht-braunschweig",
+      "weekend": "2027-02-06",
+      "name": "Hertha Berlin v TSV Eintracht Braunschweig",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-06-holstein-kiel-1-fc-magdeburg",
+      "weekend": "2027-02-06",
+      "name": "Holstein Kiel v 1. FC Magdeburg",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-06-kaiserslautern-st-pauli",
+      "weekend": "2027-02-06",
+      "name": "Kaiserslautern v St. Pauli",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-06-spvgg-greuther-f-rth-energie-cottbus",
+      "weekend": "2027-02-06",
+      "name": "SpVgg Greuther F\u00fcrth v Energie Cottbus",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-06-vfl-osnabruck-vfl-bochum",
+      "weekend": "2027-02-06",
+      "name": "VfL Osnabruck v VfL Bochum",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-06-vfl-wolfsburg-karlsruher-sc",
+      "weekend": "2027-02-06",
+      "name": "VfL Wolfsburg v Karlsruher SC",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-13-1-fc-heidenheim-1846-spvgg-greuther-f-rth",
+      "weekend": "2027-02-13",
+      "name": "1. FC Heidenheim 1846 v SpVgg Greuther F\u00fcrth",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-13-1-fc-magdeburg-hertha-berlin",
+      "weekend": "2027-02-13",
+      "name": "1. FC Magdeburg v Hertha Berlin",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-13-1-fc-n-rnberg-holstein-kiel",
+      "weekend": "2027-02-13",
+      "name": "1. FC N\u00fcrnberg v Holstein Kiel",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-13-energie-cottbus-vfl-wolfsburg",
+      "weekend": "2027-02-13",
+      "name": "Energie Cottbus v VfL Wolfsburg",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-13-karlsruher-sc-hannover-96",
+      "weekend": "2027-02-13",
+      "name": "Karlsruher SC v Hannover 96",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-13-st-pauli-arminia-bielefeld",
+      "weekend": "2027-02-13",
+      "name": "St. Pauli v Arminia Bielefeld",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-13-sv-darmstadt-98-kaiserslautern",
+      "weekend": "2027-02-13",
+      "name": "SV Darmstadt 98 v Kaiserslautern",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-13-tsv-eintracht-braunschweig-vfl-osnabruck",
+      "weekend": "2027-02-13",
+      "name": "TSV Eintracht Braunschweig v VfL Osnabruck",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-13-vfl-bochum-dynamo-dresden",
+      "weekend": "2027-02-13",
+      "name": "VfL Bochum v Dynamo Dresden",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-20-arminia-bielefeld-sv-darmstadt-98",
+      "weekend": "2027-02-20",
+      "name": "Arminia Bielefeld v SV Darmstadt 98",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-20-dynamo-dresden-tsv-eintracht-braunschweig",
+      "weekend": "2027-02-20",
+      "name": "Dynamo Dresden v TSV Eintracht Braunschweig",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-20-energie-cottbus-karlsruher-sc",
+      "weekend": "2027-02-20",
+      "name": "Energie Cottbus v Karlsruher SC",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-20-hannover-96-1-fc-n-rnberg",
+      "weekend": "2027-02-20",
+      "name": "Hannover 96 v 1. FC N\u00fcrnberg",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-20-hertha-berlin-vfl-osnabruck",
+      "weekend": "2027-02-20",
+      "name": "Hertha Berlin v VfL Osnabruck",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-20-holstein-kiel-1-fc-heidenheim-1846",
+      "weekend": "2027-02-20",
+      "name": "Holstein Kiel v 1. FC Heidenheim 1846",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-20-kaiserslautern-1-fc-magdeburg",
+      "weekend": "2027-02-20",
+      "name": "Kaiserslautern v 1. FC Magdeburg",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-20-spvgg-greuther-f-rth-vfl-bochum",
+      "weekend": "2027-02-20",
+      "name": "SpVgg Greuther F\u00fcrth v VfL Bochum",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-20-vfl-wolfsburg-st-pauli",
+      "weekend": "2027-02-20",
+      "name": "VfL Wolfsburg v St. Pauli",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-27-1-fc-heidenheim-1846-arminia-bielefeld",
+      "weekend": "2027-02-27",
+      "name": "1. FC Heidenheim 1846 v Arminia Bielefeld",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-27-1-fc-magdeburg-spvgg-greuther-f-rth",
+      "weekend": "2027-02-27",
+      "name": "1. FC Magdeburg v SpVgg Greuther F\u00fcrth",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-27-1-fc-n-rnberg-karlsruher-sc",
+      "weekend": "2027-02-27",
+      "name": "1. FC N\u00fcrnberg v Karlsruher SC",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-27-hertha-berlin-dynamo-dresden",
+      "weekend": "2027-02-27",
+      "name": "Hertha Berlin v Dynamo Dresden",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-27-st-pauli-energie-cottbus",
+      "weekend": "2027-02-27",
+      "name": "St. Pauli v Energie Cottbus",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-27-sv-darmstadt-98-vfl-wolfsburg",
+      "weekend": "2027-02-27",
+      "name": "SV Darmstadt 98 v VfL Wolfsburg",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-27-tsv-eintracht-braunschweig-kaiserslautern",
+      "weekend": "2027-02-27",
+      "name": "TSV Eintracht Braunschweig v Kaiserslautern",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-27-vfl-bochum-hannover-96",
+      "weekend": "2027-02-27",
+      "name": "VfL Bochum v Hannover 96",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-02-27-vfl-osnabruck-holstein-kiel",
+      "weekend": "2027-02-27",
+      "name": "VfL Osnabruck v Holstein Kiel",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-03-arminia-bielefeld-vfl-bochum",
+      "weekend": "2027-03-03",
+      "name": "Arminia Bielefeld v VfL Bochum",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-03-dynamo-dresden-vfl-osnabruck",
+      "weekend": "2027-03-03",
+      "name": "Dynamo Dresden v VfL Osnabruck",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-03-energie-cottbus-sv-darmstadt-98",
+      "weekend": "2027-03-03",
+      "name": "Energie Cottbus v SV Darmstadt 98",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-03-hannover-96-1-fc-magdeburg",
+      "weekend": "2027-03-03",
+      "name": "Hannover 96 v 1. FC Magdeburg",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-03-holstein-kiel-tsv-eintracht-braunschweig",
+      "weekend": "2027-03-03",
+      "name": "Holstein Kiel v TSV Eintracht Braunschweig",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-03-kaiserslautern-1-fc-heidenheim-1846",
+      "weekend": "2027-03-03",
+      "name": "Kaiserslautern v 1. FC Heidenheim 1846",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-03-karlsruher-sc-st-pauli",
+      "weekend": "2027-03-03",
+      "name": "Karlsruher SC v St. Pauli",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-03-spvgg-greuther-f-rth-hertha-berlin",
+      "weekend": "2027-03-03",
+      "name": "SpVgg Greuther F\u00fcrth v Hertha Berlin",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-03-vfl-wolfsburg-1-fc-n-rnberg",
+      "weekend": "2027-03-03",
+      "name": "VfL Wolfsburg v 1. FC N\u00fcrnberg",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-06-1-fc-heidenheim-1846-vfl-wolfsburg",
+      "weekend": "2027-03-06",
+      "name": "1. FC Heidenheim 1846 v VfL Wolfsburg",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-06-1-fc-magdeburg-dynamo-dresden",
+      "weekend": "2027-03-06",
+      "name": "1. FC Magdeburg v Dynamo Dresden",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-06-1-fc-n-rnberg-energie-cottbus",
+      "weekend": "2027-03-06",
+      "name": "1. FC N\u00fcrnberg v Energie Cottbus",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-06-hertha-berlin-holstein-kiel",
+      "weekend": "2027-03-06",
+      "name": "Hertha Berlin v Holstein Kiel",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-06-st-pauli-hannover-96",
+      "weekend": "2027-03-06",
+      "name": "St. Pauli v Hannover 96",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-06-sv-darmstadt-98-karlsruher-sc",
+      "weekend": "2027-03-06",
+      "name": "SV Darmstadt 98 v Karlsruher SC",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-06-tsv-eintracht-braunschweig-spvgg-greuther-f-rth",
+      "weekend": "2027-03-06",
+      "name": "TSV Eintracht Braunschweig v SpVgg Greuther F\u00fcrth",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-06-vfl-bochum-kaiserslautern",
+      "weekend": "2027-03-06",
+      "name": "VfL Bochum v Kaiserslautern",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-06-vfl-osnabruck-arminia-bielefeld",
+      "weekend": "2027-03-06",
+      "name": "VfL Osnabruck v Arminia Bielefeld",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-13-arminia-bielefeld-hertha-berlin",
+      "weekend": "2027-03-13",
+      "name": "Arminia Bielefeld v Hertha Berlin",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-13-dynamo-dresden-holstein-kiel",
+      "weekend": "2027-03-13",
+      "name": "Dynamo Dresden v Holstein Kiel",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-13-energie-cottbus-1-fc-heidenheim-1846",
+      "weekend": "2027-03-13",
+      "name": "Energie Cottbus v 1. FC Heidenheim 1846",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-13-hannover-96-tsv-eintracht-braunschweig",
+      "weekend": "2027-03-13",
+      "name": "Hannover 96 v TSV Eintracht Braunschweig",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-13-kaiserslautern-1-fc-n-rnberg",
+      "weekend": "2027-03-13",
+      "name": "Kaiserslautern v 1. FC N\u00fcrnberg",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-13-karlsruher-sc-1-fc-magdeburg",
+      "weekend": "2027-03-13",
+      "name": "Karlsruher SC v 1. FC Magdeburg",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-13-spvgg-greuther-f-rth-vfl-osnabruck",
+      "weekend": "2027-03-13",
+      "name": "SpVgg Greuther F\u00fcrth v VfL Osnabruck",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-13-st-pauli-sv-darmstadt-98",
+      "weekend": "2027-03-13",
+      "name": "St. Pauli v SV Darmstadt 98",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-13-vfl-wolfsburg-vfl-bochum",
+      "weekend": "2027-03-13",
+      "name": "VfL Wolfsburg v VfL Bochum",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-20-1-fc-heidenheim-1846-karlsruher-sc",
+      "weekend": "2027-03-20",
+      "name": "1. FC Heidenheim 1846 v Karlsruher SC",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-20-1-fc-magdeburg-sv-darmstadt-98",
+      "weekend": "2027-03-20",
+      "name": "1. FC Magdeburg v SV Darmstadt 98",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-20-1-fc-n-rnberg-st-pauli",
+      "weekend": "2027-03-20",
+      "name": "1. FC N\u00fcrnberg v St. Pauli",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-20-dynamo-dresden-hannover-96",
+      "weekend": "2027-03-20",
+      "name": "Dynamo Dresden v Hannover 96",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-20-hertha-berlin-kaiserslautern",
+      "weekend": "2027-03-20",
+      "name": "Hertha Berlin v Kaiserslautern",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-20-holstein-kiel-spvgg-greuther-f-rth",
+      "weekend": "2027-03-20",
+      "name": "Holstein Kiel v SpVgg Greuther F\u00fcrth",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-20-tsv-eintracht-braunschweig-arminia-bielefeld",
+      "weekend": "2027-03-20",
+      "name": "TSV Eintracht Braunschweig v Arminia Bielefeld",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-20-vfl-bochum-energie-cottbus",
+      "weekend": "2027-03-20",
+      "name": "VfL Bochum v Energie Cottbus",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-03-20-vfl-osnabruck-vfl-wolfsburg",
+      "weekend": "2027-03-20",
+      "name": "VfL Osnabruck v VfL Wolfsburg",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-03-arminia-bielefeld-holstein-kiel",
+      "weekend": "2027-04-03",
+      "name": "Arminia Bielefeld v Holstein Kiel",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-03-energie-cottbus-tsv-eintracht-braunschweig",
+      "weekend": "2027-04-03",
+      "name": "Energie Cottbus v TSV Eintracht Braunschweig",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-03-hannover-96-1-fc-heidenheim-1846",
+      "weekend": "2027-04-03",
+      "name": "Hannover 96 v 1. FC Heidenheim 1846",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-03-kaiserslautern-vfl-osnabruck",
+      "weekend": "2027-04-03",
+      "name": "Kaiserslautern v VfL Osnabruck",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-03-karlsruher-sc-vfl-bochum",
+      "weekend": "2027-04-03",
+      "name": "Karlsruher SC v VfL Bochum",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-03-spvgg-greuther-f-rth-dynamo-dresden",
+      "weekend": "2027-04-03",
+      "name": "SpVgg Greuther F\u00fcrth v Dynamo Dresden",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-03-st-pauli-1-fc-magdeburg",
+      "weekend": "2027-04-03",
+      "name": "St. Pauli v 1. FC Magdeburg",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-03-sv-darmstadt-98-1-fc-n-rnberg",
+      "weekend": "2027-04-03",
+      "name": "SV Darmstadt 98 v 1. FC N\u00fcrnberg",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-03-vfl-wolfsburg-hertha-berlin",
+      "weekend": "2027-04-03",
+      "name": "VfL Wolfsburg v Hertha Berlin",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-10-1-fc-heidenheim-1846-sv-darmstadt-98",
+      "weekend": "2027-04-10",
+      "name": "1. FC Heidenheim 1846 v SV Darmstadt 98",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-10-1-fc-magdeburg-arminia-bielefeld",
+      "weekend": "2027-04-10",
+      "name": "1. FC Magdeburg v Arminia Bielefeld",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-10-dynamo-dresden-kaiserslautern",
+      "weekend": "2027-04-10",
+      "name": "Dynamo Dresden v Kaiserslautern",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-10-hertha-berlin-energie-cottbus",
+      "weekend": "2027-04-10",
+      "name": "Hertha Berlin v Energie Cottbus",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-10-holstein-kiel-vfl-wolfsburg",
+      "weekend": "2027-04-10",
+      "name": "Holstein Kiel v VfL Wolfsburg",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-10-spvgg-greuther-f-rth-hannover-96",
+      "weekend": "2027-04-10",
+      "name": "SpVgg Greuther F\u00fcrth v Hannover 96",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-10-tsv-eintracht-braunschweig-1-fc-n-rnberg",
+      "weekend": "2027-04-10",
+      "name": "TSV Eintracht Braunschweig v 1. FC N\u00fcrnberg",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-10-vfl-bochum-st-pauli",
+      "weekend": "2027-04-10",
+      "name": "VfL Bochum v St. Pauli",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-10-vfl-osnabruck-karlsruher-sc",
+      "weekend": "2027-04-10",
+      "name": "VfL Osnabruck v Karlsruher SC",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-17-1-fc-n-rnberg-1-fc-heidenheim-1846",
+      "weekend": "2027-04-17",
+      "name": "1. FC N\u00fcrnberg v 1. FC Heidenheim 1846",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-17-arminia-bielefeld-spvgg-greuther-f-rth",
+      "weekend": "2027-04-17",
+      "name": "Arminia Bielefeld v SpVgg Greuther F\u00fcrth",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-17-energie-cottbus-1-fc-magdeburg",
+      "weekend": "2027-04-17",
+      "name": "Energie Cottbus v 1. FC Magdeburg",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-17-hannover-96-vfl-osnabruck",
+      "weekend": "2027-04-17",
+      "name": "Hannover 96 v VfL Osnabruck",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-17-kaiserslautern-holstein-kiel",
+      "weekend": "2027-04-17",
+      "name": "Kaiserslautern v Holstein Kiel",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-17-karlsruher-sc-hertha-berlin",
+      "weekend": "2027-04-17",
+      "name": "Karlsruher SC v Hertha Berlin",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-17-st-pauli-dynamo-dresden",
+      "weekend": "2027-04-17",
+      "name": "St. Pauli v Dynamo Dresden",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-17-sv-darmstadt-98-vfl-bochum",
+      "weekend": "2027-04-17",
+      "name": "SV Darmstadt 98 v VfL Bochum",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-17-vfl-wolfsburg-tsv-eintracht-braunschweig",
+      "weekend": "2027-04-17",
+      "name": "VfL Wolfsburg v TSV Eintracht Braunschweig",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-24-1-fc-heidenheim-1846-st-pauli",
+      "weekend": "2027-04-24",
+      "name": "1. FC Heidenheim 1846 v St. Pauli",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-24-1-fc-magdeburg-vfl-wolfsburg",
+      "weekend": "2027-04-24",
+      "name": "1. FC Magdeburg v VfL Wolfsburg",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-24-dynamo-dresden-arminia-bielefeld",
+      "weekend": "2027-04-24",
+      "name": "Dynamo Dresden v Arminia Bielefeld",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-24-hertha-berlin-hannover-96",
+      "weekend": "2027-04-24",
+      "name": "Hertha Berlin v Hannover 96",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-24-holstein-kiel-karlsruher-sc",
+      "weekend": "2027-04-24",
+      "name": "Holstein Kiel v Karlsruher SC",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-24-spvgg-greuther-f-rth-kaiserslautern",
+      "weekend": "2027-04-24",
+      "name": "SpVgg Greuther F\u00fcrth v Kaiserslautern",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-24-tsv-eintracht-braunschweig-sv-darmstadt-98",
+      "weekend": "2027-04-24",
+      "name": "TSV Eintracht Braunschweig v SV Darmstadt 98",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-24-vfl-bochum-1-fc-n-rnberg",
+      "weekend": "2027-04-24",
+      "name": "VfL Bochum v 1. FC N\u00fcrnberg",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-04-24-vfl-osnabruck-energie-cottbus",
+      "weekend": "2027-04-24",
+      "name": "VfL Osnabruck v Energie Cottbus",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-08-1-fc-heidenheim-1846-vfl-bochum",
+      "weekend": "2027-05-08",
+      "name": "1. FC Heidenheim 1846 v VfL Bochum",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-08-1-fc-n-rnberg-1-fc-magdeburg",
+      "weekend": "2027-05-08",
+      "name": "1. FC N\u00fcrnberg v 1. FC Magdeburg",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-08-energie-cottbus-dynamo-dresden",
+      "weekend": "2027-05-08",
+      "name": "Energie Cottbus v Dynamo Dresden",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-08-hannover-96-holstein-kiel",
+      "weekend": "2027-05-08",
+      "name": "Hannover 96 v Holstein Kiel",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-08-kaiserslautern-arminia-bielefeld",
+      "weekend": "2027-05-08",
+      "name": "Kaiserslautern v Arminia Bielefeld",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-08-karlsruher-sc-tsv-eintracht-braunschweig",
+      "weekend": "2027-05-08",
+      "name": "Karlsruher SC v TSV Eintracht Braunschweig",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-08-st-pauli-vfl-osnabruck",
+      "weekend": "2027-05-08",
+      "name": "St. Pauli v VfL Osnabruck",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-08-sv-darmstadt-98-hertha-berlin",
+      "weekend": "2027-05-08",
+      "name": "SV Darmstadt 98 v Hertha Berlin",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-08-vfl-wolfsburg-spvgg-greuther-f-rth",
+      "weekend": "2027-05-08",
+      "name": "VfL Wolfsburg v SpVgg Greuther F\u00fcrth",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-15-1-fc-magdeburg-vfl-bochum",
+      "weekend": "2027-05-15",
+      "name": "1. FC Magdeburg v VfL Bochum",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-15-arminia-bielefeld-vfl-wolfsburg",
+      "weekend": "2027-05-15",
+      "name": "Arminia Bielefeld v VfL Wolfsburg",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-15-dynamo-dresden-karlsruher-sc",
+      "weekend": "2027-05-15",
+      "name": "Dynamo Dresden v Karlsruher SC",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-15-hertha-berlin-st-pauli",
+      "weekend": "2027-05-15",
+      "name": "Hertha Berlin v St. Pauli",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-15-holstein-kiel-energie-cottbus",
+      "weekend": "2027-05-15",
+      "name": "Holstein Kiel v Energie Cottbus",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-15-kaiserslautern-hannover-96",
+      "weekend": "2027-05-15",
+      "name": "Kaiserslautern v Hannover 96",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-15-spvgg-greuther-f-rth-sv-darmstadt-98",
+      "weekend": "2027-05-15",
+      "name": "SpVgg Greuther F\u00fcrth v SV Darmstadt 98",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-15-tsv-eintracht-braunschweig-1-fc-heidenheim-1846",
+      "weekend": "2027-05-15",
+      "name": "TSV Eintracht Braunschweig v 1. FC Heidenheim 1846",
+      "utc": "2027-05-15T18:00:00Z"
+    },
+    {
+      "id": "ger.2-2027-05-15-vfl-osnabruck-1-fc-n-rnberg",
+      "weekend": "2027-05-15",
+      "name": "VfL Osnabruck v 1. FC N\u00fcrnberg",
+      "utc": "2027-05-15T18:00:00Z"
+    }
+  ]
+}

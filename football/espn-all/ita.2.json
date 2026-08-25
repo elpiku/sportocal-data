@@ -1,0 +1,2288 @@
+{
+  "sportKey": "soccer-ita.2",
+  "leagueName": "Italian Serie B",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "ita.2-2026-08-21-vicenza-catanzaro",
+      "weekend": "2026-08-21",
+      "name": "Vicenza v Catanzaro",
+      "utc": "2026-08-21T18:30:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-22-carrarese-mantova",
+      "weekend": "2026-08-22",
+      "name": "Carrarese v Mantova",
+      "utc": "2026-08-22T17:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-22-sudtirol-virtus-entella",
+      "weekend": "2026-08-22",
+      "name": "Sudtirol v Virtus Entella",
+      "utc": "2026-08-22T17:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-22-benevento-modena",
+      "weekend": "2026-08-22",
+      "name": "Benevento v Modena",
+      "utc": "2026-08-22T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-22-empoli-cremonese",
+      "weekend": "2026-08-22",
+      "name": "Empoli v Cremonese",
+      "utc": "2026-08-22T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-22-us-avellino-arezzo",
+      "weekend": "2026-08-22",
+      "name": "US Avellino v Arezzo",
+      "utc": "2026-08-22T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-23-hellas-verona-ascoli",
+      "weekend": "2026-08-23",
+      "name": "Hellas Verona v Ascoli",
+      "utc": "2026-08-23T17:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-23-pisa-padova",
+      "weekend": "2026-08-23",
+      "name": "Pisa v Padova",
+      "utc": "2026-08-23T17:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-23-cesena-sampdoria",
+      "weekend": "2026-08-23",
+      "name": "Cesena v Sampdoria",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-23-palermo-juve-stabia",
+      "weekend": "2026-08-23",
+      "name": "Palermo v Juve Stabia",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-28-cremonese-modena",
+      "weekend": "2026-08-28",
+      "name": "Cremonese v Modena",
+      "utc": "2026-08-28T18:30:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-29-sampdoria-juve-stabia",
+      "weekend": "2026-08-29",
+      "name": "Sampdoria v Juve Stabia",
+      "utc": "2026-08-29T17:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-29-virtus-entella-cesena",
+      "weekend": "2026-08-29",
+      "name": "Virtus Entella v Cesena",
+      "utc": "2026-08-29T17:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-29-ascoli-carrarese",
+      "weekend": "2026-08-29",
+      "name": "Ascoli v Carrarese",
+      "utc": "2026-08-29T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-29-padova-hellas-verona",
+      "weekend": "2026-08-29",
+      "name": "Padova v Hellas Verona",
+      "utc": "2026-08-29T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-29-us-avellino-vicenza",
+      "weekend": "2026-08-29",
+      "name": "US Avellino v Vicenza",
+      "utc": "2026-08-29T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-30-arezzo-palermo",
+      "weekend": "2026-08-30",
+      "name": "Arezzo v Palermo",
+      "utc": "2026-08-30T17:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-30-mantova-empoli",
+      "weekend": "2026-08-30",
+      "name": "Mantova v Empoli",
+      "utc": "2026-08-30T17:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-30-benevento-sudtirol",
+      "weekend": "2026-08-30",
+      "name": "Benevento v Sudtirol",
+      "utc": "2026-08-30T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-08-30-pisa-catanzaro",
+      "weekend": "2026-08-30",
+      "name": "Pisa v Catanzaro",
+      "utc": "2026-08-30T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-05-sudtirol-catanzaro",
+      "weekend": "2026-09-05",
+      "name": "Sudtirol v Catanzaro",
+      "utc": "2026-09-05T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-05-ascoli-benevento",
+      "weekend": "2026-09-05",
+      "name": "Ascoli v Benevento",
+      "utc": "2026-09-05T15:15:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-05-carrarese-empoli",
+      "weekend": "2026-09-05",
+      "name": "Carrarese v Empoli",
+      "utc": "2026-09-05T17:30:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-06-cesena-mantova",
+      "weekend": "2026-09-06",
+      "name": "Cesena v Mantova",
+      "utc": "2026-09-06T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-06-juve-stabia-pisa",
+      "weekend": "2026-09-06",
+      "name": "Juve Stabia v Pisa",
+      "utc": "2026-09-06T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-06-modena-us-avellino",
+      "weekend": "2026-09-06",
+      "name": "Modena v US Avellino",
+      "utc": "2026-09-06T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-06-virtus-entella-vicenza",
+      "weekend": "2026-09-06",
+      "name": "Virtus Entella v Vicenza",
+      "utc": "2026-09-06T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-06-hellas-verona-arezzo",
+      "weekend": "2026-09-06",
+      "name": "Hellas Verona v Arezzo",
+      "utc": "2026-09-06T15:15:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-06-cremonese-padova",
+      "weekend": "2026-09-06",
+      "name": "Cremonese v Padova",
+      "utc": "2026-09-06T17:30:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-07-palermo-sampdoria",
+      "weekend": "2026-09-07",
+      "name": "Palermo v Sampdoria",
+      "utc": "2026-09-07T18:30:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-11-empoli-arezzo",
+      "weekend": "2026-09-11",
+      "name": "Empoli v Arezzo",
+      "utc": "2026-09-11T17:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-11-benevento-hellas-verona",
+      "weekend": "2026-09-11",
+      "name": "Benevento v Hellas Verona",
+      "utc": "2026-09-11T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-11-pisa-virtus-entella",
+      "weekend": "2026-09-11",
+      "name": "Pisa v Virtus Entella",
+      "utc": "2026-09-11T19:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-12-padova-ascoli",
+      "weekend": "2026-09-12",
+      "name": "Padova v Ascoli",
+      "utc": "2026-09-12T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-12-sudtirol-modena",
+      "weekend": "2026-09-12",
+      "name": "Sudtirol v Modena",
+      "utc": "2026-09-12T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-12-vicenza-juve-stabia",
+      "weekend": "2026-09-12",
+      "name": "Vicenza v Juve Stabia",
+      "utc": "2026-09-12T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-12-catanzaro-carrarese",
+      "weekend": "2026-09-12",
+      "name": "Catanzaro v Carrarese",
+      "utc": "2026-09-12T15:15:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-12-cesena-cremonese",
+      "weekend": "2026-09-12",
+      "name": "Cesena v Cremonese",
+      "utc": "2026-09-12T17:30:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-13-us-avellino-palermo",
+      "weekend": "2026-09-13",
+      "name": "US Avellino v Palermo",
+      "utc": "2026-09-13T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-13-mantova-sampdoria",
+      "weekend": "2026-09-13",
+      "name": "Mantova v Sampdoria",
+      "utc": "2026-09-13T15:15:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-18-juve-stabia-cesena",
+      "weekend": "2026-09-18",
+      "name": "Juve Stabia v Cesena",
+      "utc": "2026-09-18T18:30:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-19-carrarese-benevento",
+      "weekend": "2026-09-19",
+      "name": "Carrarese v Benevento",
+      "utc": "2026-09-19T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-19-cremonese-virtus-entella",
+      "weekend": "2026-09-19",
+      "name": "Cremonese v Virtus Entella",
+      "utc": "2026-09-19T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-19-palermo-padova",
+      "weekend": "2026-09-19",
+      "name": "Palermo v Padova",
+      "utc": "2026-09-19T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-19-sampdoria-catanzaro",
+      "weekend": "2026-09-19",
+      "name": "Sampdoria v Catanzaro",
+      "utc": "2026-09-19T15:15:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-19-ascoli-us-avellino",
+      "weekend": "2026-09-19",
+      "name": "Ascoli v US Avellino",
+      "utc": "2026-09-19T17:30:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-20-arezzo-sudtirol",
+      "weekend": "2026-09-20",
+      "name": "Arezzo v Sudtirol",
+      "utc": "2026-09-20T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-20-hellas-verona-vicenza",
+      "weekend": "2026-09-20",
+      "name": "Hellas Verona v Vicenza",
+      "utc": "2026-09-20T13:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-20-mantova-pisa",
+      "weekend": "2026-09-20",
+      "name": "Mantova v Pisa",
+      "utc": "2026-09-20T15:15:00Z"
+    },
+    {
+      "id": "ita.2-2026-09-20-modena-empoli",
+      "weekend": "2026-09-20",
+      "name": "Modena v Empoli",
+      "utc": "2026-09-20T17:30:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-10-arezzo-cremonese",
+      "weekend": "2026-10-10",
+      "name": "Arezzo v Cremonese",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-10-benevento-cesena",
+      "weekend": "2026-10-10",
+      "name": "Benevento v Cesena",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-10-catanzaro-mantova",
+      "weekend": "2026-10-10",
+      "name": "Catanzaro v Mantova",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-10-empoli-palermo",
+      "weekend": "2026-10-10",
+      "name": "Empoli v Palermo",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-10-modena-hellas-verona",
+      "weekend": "2026-10-10",
+      "name": "Modena v Hellas Verona",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-10-padova-carrarese",
+      "weekend": "2026-10-10",
+      "name": "Padova v Carrarese",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-10-sudtirol-ascoli",
+      "weekend": "2026-10-10",
+      "name": "Sudtirol v Ascoli",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-10-us-avellino-sampdoria",
+      "weekend": "2026-10-10",
+      "name": "US Avellino v Sampdoria",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-10-vicenza-pisa",
+      "weekend": "2026-10-10",
+      "name": "Vicenza v Pisa",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-10-virtus-entella-juve-stabia",
+      "weekend": "2026-10-10",
+      "name": "Virtus Entella v Juve Stabia",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-17-ascoli-empoli",
+      "weekend": "2026-10-17",
+      "name": "Ascoli v Empoli",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-17-benevento-vicenza",
+      "weekend": "2026-10-17",
+      "name": "Benevento v Vicenza",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-17-carrarese-modena",
+      "weekend": "2026-10-17",
+      "name": "Carrarese v Modena",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-17-cesena-us-avellino",
+      "weekend": "2026-10-17",
+      "name": "Cesena v US Avellino",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-17-hellas-verona-catanzaro",
+      "weekend": "2026-10-17",
+      "name": "Hellas Verona v Catanzaro",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-17-juve-stabia-sudtirol",
+      "weekend": "2026-10-17",
+      "name": "Juve Stabia v Sudtirol",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-17-mantova-palermo",
+      "weekend": "2026-10-17",
+      "name": "Mantova v Palermo",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-17-padova-virtus-entella",
+      "weekend": "2026-10-17",
+      "name": "Padova v Virtus Entella",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-17-pisa-cremonese",
+      "weekend": "2026-10-17",
+      "name": "Pisa v Cremonese",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-17-sampdoria-arezzo",
+      "weekend": "2026-10-17",
+      "name": "Sampdoria v Arezzo",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-24-arezzo-benevento",
+      "weekend": "2026-10-24",
+      "name": "Arezzo v Benevento",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-24-catanzaro-ascoli",
+      "weekend": "2026-10-24",
+      "name": "Catanzaro v Ascoli",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-24-cremonese-juve-stabia",
+      "weekend": "2026-10-24",
+      "name": "Cremonese v Juve Stabia",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-24-empoli-vicenza",
+      "weekend": "2026-10-24",
+      "name": "Empoli v Vicenza",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-24-hellas-verona-pisa",
+      "weekend": "2026-10-24",
+      "name": "Hellas Verona v Pisa",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-24-modena-cesena",
+      "weekend": "2026-10-24",
+      "name": "Modena v Cesena",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-24-palermo-carrarese",
+      "weekend": "2026-10-24",
+      "name": "Palermo v Carrarese",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-24-sudtirol-sampdoria",
+      "weekend": "2026-10-24",
+      "name": "Sudtirol v Sampdoria",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-24-us-avellino-padova",
+      "weekend": "2026-10-24",
+      "name": "US Avellino v Padova",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-24-virtus-entella-mantova",
+      "weekend": "2026-10-24",
+      "name": "Virtus Entella v Mantova",
+      "utc": "2026-10-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-27-ascoli-sampdoria",
+      "weekend": "2026-10-27",
+      "name": "Ascoli v Sampdoria",
+      "utc": "2026-10-27T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-27-benevento-catanzaro",
+      "weekend": "2026-10-27",
+      "name": "Benevento v Catanzaro",
+      "utc": "2026-10-27T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-27-carrarese-arezzo",
+      "weekend": "2026-10-27",
+      "name": "Carrarese v Arezzo",
+      "utc": "2026-10-27T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-27-cesena-empoli",
+      "weekend": "2026-10-27",
+      "name": "Cesena v Empoli",
+      "utc": "2026-10-27T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-27-juve-stabia-hellas-verona",
+      "weekend": "2026-10-27",
+      "name": "Juve Stabia v Hellas Verona",
+      "utc": "2026-10-27T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-27-mantova-cremonese",
+      "weekend": "2026-10-27",
+      "name": "Mantova v Cremonese",
+      "utc": "2026-10-27T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-27-padova-sudtirol",
+      "weekend": "2026-10-27",
+      "name": "Padova v Sudtirol",
+      "utc": "2026-10-27T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-27-pisa-palermo",
+      "weekend": "2026-10-27",
+      "name": "Pisa v Palermo",
+      "utc": "2026-10-27T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-27-vicenza-modena",
+      "weekend": "2026-10-27",
+      "name": "Vicenza v Modena",
+      "utc": "2026-10-27T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-27-virtus-entella-us-avellino",
+      "weekend": "2026-10-27",
+      "name": "Virtus Entella v US Avellino",
+      "utc": "2026-10-27T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-31-arezzo-ascoli",
+      "weekend": "2026-10-31",
+      "name": "Arezzo v Ascoli",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-31-catanzaro-padova",
+      "weekend": "2026-10-31",
+      "name": "Catanzaro v Padova",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-31-cremonese-benevento",
+      "weekend": "2026-10-31",
+      "name": "Cremonese v Benevento",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-31-empoli-juve-stabia",
+      "weekend": "2026-10-31",
+      "name": "Empoli v Juve Stabia",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-31-hellas-verona-carrarese",
+      "weekend": "2026-10-31",
+      "name": "Hellas Verona v Carrarese",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-31-modena-mantova",
+      "weekend": "2026-10-31",
+      "name": "Modena v Mantova",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-31-palermo-vicenza",
+      "weekend": "2026-10-31",
+      "name": "Palermo v Vicenza",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-31-sampdoria-virtus-entella",
+      "weekend": "2026-10-31",
+      "name": "Sampdoria v Virtus Entella",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-31-sudtirol-cesena",
+      "weekend": "2026-10-31",
+      "name": "Sudtirol v Cesena",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-10-31-us-avellino-pisa",
+      "weekend": "2026-10-31",
+      "name": "US Avellino v Pisa",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-07-ascoli-palermo",
+      "weekend": "2026-11-07",
+      "name": "Ascoli v Palermo",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-07-benevento-us-avellino",
+      "weekend": "2026-11-07",
+      "name": "Benevento v US Avellino",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-07-carrarese-sampdoria",
+      "weekend": "2026-11-07",
+      "name": "Carrarese v Sampdoria",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-07-cesena-catanzaro",
+      "weekend": "2026-11-07",
+      "name": "Cesena v Catanzaro",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-07-juve-stabia-arezzo",
+      "weekend": "2026-11-07",
+      "name": "Juve Stabia v Arezzo",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-07-mantova-hellas-verona",
+      "weekend": "2026-11-07",
+      "name": "Mantova v Hellas Verona",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-07-padova-empoli",
+      "weekend": "2026-11-07",
+      "name": "Padova v Empoli",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-07-pisa-sudtirol",
+      "weekend": "2026-11-07",
+      "name": "Pisa v Sudtirol",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-07-vicenza-cremonese",
+      "weekend": "2026-11-07",
+      "name": "Vicenza v Cremonese",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-07-virtus-entella-modena",
+      "weekend": "2026-11-07",
+      "name": "Virtus Entella v Modena",
+      "utc": "2026-11-07T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-21-arezzo-padova",
+      "weekend": "2026-11-21",
+      "name": "Arezzo v Padova",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-21-ascoli-vicenza",
+      "weekend": "2026-11-21",
+      "name": "Ascoli v Vicenza",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-21-carrarese-virtus-entella",
+      "weekend": "2026-11-21",
+      "name": "Carrarese v Virtus Entella",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-21-catanzaro-palermo",
+      "weekend": "2026-11-21",
+      "name": "Catanzaro v Palermo",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-21-empoli-pisa",
+      "weekend": "2026-11-21",
+      "name": "Empoli v Pisa",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-21-hellas-verona-cesena",
+      "weekend": "2026-11-21",
+      "name": "Hellas Verona v Cesena",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-21-modena-juve-stabia",
+      "weekend": "2026-11-21",
+      "name": "Modena v Juve Stabia",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-21-sampdoria-benevento",
+      "weekend": "2026-11-21",
+      "name": "Sampdoria v Benevento",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-21-sudtirol-cremonese",
+      "weekend": "2026-11-21",
+      "name": "Sudtirol v Cremonese",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-21-us-avellino-mantova",
+      "weekend": "2026-11-21",
+      "name": "US Avellino v Mantova",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-24-benevento-empoli",
+      "weekend": "2026-11-24",
+      "name": "Benevento v Empoli",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-24-cesena-ascoli",
+      "weekend": "2026-11-24",
+      "name": "Cesena v Ascoli",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-24-cremonese-us-avellino",
+      "weekend": "2026-11-24",
+      "name": "Cremonese v US Avellino",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-24-juve-stabia-catanzaro",
+      "weekend": "2026-11-24",
+      "name": "Juve Stabia v Catanzaro",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-24-mantova-arezzo",
+      "weekend": "2026-11-24",
+      "name": "Mantova v Arezzo",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-24-padova-sampdoria",
+      "weekend": "2026-11-24",
+      "name": "Padova v Sampdoria",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-24-palermo-sudtirol",
+      "weekend": "2026-11-24",
+      "name": "Palermo v Sudtirol",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-24-pisa-modena",
+      "weekend": "2026-11-24",
+      "name": "Pisa v Modena",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-24-vicenza-carrarese",
+      "weekend": "2026-11-24",
+      "name": "Vicenza v Carrarese",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-24-virtus-entella-hellas-verona",
+      "weekend": "2026-11-24",
+      "name": "Virtus Entella v Hellas Verona",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-28-arezzo-pisa",
+      "weekend": "2026-11-28",
+      "name": "Arezzo v Pisa",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-28-ascoli-virtus-entella",
+      "weekend": "2026-11-28",
+      "name": "Ascoli v Virtus Entella",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-28-carrarese-juve-stabia",
+      "weekend": "2026-11-28",
+      "name": "Carrarese v Juve Stabia",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-28-catanzaro-us-avellino",
+      "weekend": "2026-11-28",
+      "name": "Catanzaro v US Avellino",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-28-empoli-hellas-verona",
+      "weekend": "2026-11-28",
+      "name": "Empoli v Hellas Verona",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-28-modena-padova",
+      "weekend": "2026-11-28",
+      "name": "Modena v Padova",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-28-palermo-benevento",
+      "weekend": "2026-11-28",
+      "name": "Palermo v Benevento",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-28-sampdoria-cremonese",
+      "weekend": "2026-11-28",
+      "name": "Sampdoria v Cremonese",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-28-sudtirol-mantova",
+      "weekend": "2026-11-28",
+      "name": "Sudtirol v Mantova",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-11-28-vicenza-cesena",
+      "weekend": "2026-11-28",
+      "name": "Vicenza v Cesena",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-05-cesena-carrarese",
+      "weekend": "2026-12-05",
+      "name": "Cesena v Carrarese",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-05-cremonese-catanzaro",
+      "weekend": "2026-12-05",
+      "name": "Cremonese v Catanzaro",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-05-hellas-verona-palermo",
+      "weekend": "2026-12-05",
+      "name": "Hellas Verona v Palermo",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-05-juve-stabia-benevento",
+      "weekend": "2026-12-05",
+      "name": "Juve Stabia v Benevento",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-05-mantova-ascoli",
+      "weekend": "2026-12-05",
+      "name": "Mantova v Ascoli",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-05-modena-arezzo",
+      "weekend": "2026-12-05",
+      "name": "Modena v Arezzo",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-05-padova-vicenza",
+      "weekend": "2026-12-05",
+      "name": "Padova v Vicenza",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-05-pisa-sampdoria",
+      "weekend": "2026-12-05",
+      "name": "Pisa v Sampdoria",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-05-us-avellino-sudtirol",
+      "weekend": "2026-12-05",
+      "name": "US Avellino v Sudtirol",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-05-virtus-entella-empoli",
+      "weekend": "2026-12-05",
+      "name": "Virtus Entella v Empoli",
+      "utc": "2026-12-05T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-08-arezzo-cesena",
+      "weekend": "2026-12-08",
+      "name": "Arezzo v Cesena",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-08-ascoli-juve-stabia",
+      "weekend": "2026-12-08",
+      "name": "Ascoli v Juve Stabia",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-08-benevento-padova",
+      "weekend": "2026-12-08",
+      "name": "Benevento v Padova",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-08-carrarese-pisa",
+      "weekend": "2026-12-08",
+      "name": "Carrarese v Pisa",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-08-catanzaro-virtus-entella",
+      "weekend": "2026-12-08",
+      "name": "Catanzaro v Virtus Entella",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-08-empoli-sudtirol",
+      "weekend": "2026-12-08",
+      "name": "Empoli v Sudtirol",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-08-hellas-verona-us-avellino",
+      "weekend": "2026-12-08",
+      "name": "Hellas Verona v US Avellino",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-08-palermo-cremonese",
+      "weekend": "2026-12-08",
+      "name": "Palermo v Cremonese",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-08-sampdoria-modena",
+      "weekend": "2026-12-08",
+      "name": "Sampdoria v Modena",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-08-vicenza-mantova",
+      "weekend": "2026-12-08",
+      "name": "Vicenza v Mantova",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-12-cesena-palermo",
+      "weekend": "2026-12-12",
+      "name": "Cesena v Palermo",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-12-cremonese-carrarese",
+      "weekend": "2026-12-12",
+      "name": "Cremonese v Carrarese",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-12-juve-stabia-padova",
+      "weekend": "2026-12-12",
+      "name": "Juve Stabia v Padova",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-12-mantova-benevento",
+      "weekend": "2026-12-12",
+      "name": "Mantova v Benevento",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-12-modena-catanzaro",
+      "weekend": "2026-12-12",
+      "name": "Modena v Catanzaro",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-12-pisa-ascoli",
+      "weekend": "2026-12-12",
+      "name": "Pisa v Ascoli",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-12-sampdoria-vicenza",
+      "weekend": "2026-12-12",
+      "name": "Sampdoria v Vicenza",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-12-sudtirol-hellas-verona",
+      "weekend": "2026-12-12",
+      "name": "Sudtirol v Hellas Verona",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-12-us-avellino-empoli",
+      "weekend": "2026-12-12",
+      "name": "US Avellino v Empoli",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-12-virtus-entella-arezzo",
+      "weekend": "2026-12-12",
+      "name": "Virtus Entella v Arezzo",
+      "utc": "2026-12-12T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-19-ascoli-modena",
+      "weekend": "2026-12-19",
+      "name": "Ascoli v Modena",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-19-benevento-pisa",
+      "weekend": "2026-12-19",
+      "name": "Benevento v Pisa",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-19-carrarese-us-avellino",
+      "weekend": "2026-12-19",
+      "name": "Carrarese v US Avellino",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-19-catanzaro-arezzo",
+      "weekend": "2026-12-19",
+      "name": "Catanzaro v Arezzo",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-19-empoli-sampdoria",
+      "weekend": "2026-12-19",
+      "name": "Empoli v Sampdoria",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-19-hellas-verona-cremonese",
+      "weekend": "2026-12-19",
+      "name": "Hellas Verona v Cremonese",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-19-juve-stabia-mantova",
+      "weekend": "2026-12-19",
+      "name": "Juve Stabia v Mantova",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-19-padova-cesena",
+      "weekend": "2026-12-19",
+      "name": "Padova v Cesena",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-19-palermo-virtus-entella",
+      "weekend": "2026-12-19",
+      "name": "Palermo v Virtus Entella",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-19-vicenza-sudtirol",
+      "weekend": "2026-12-19",
+      "name": "Vicenza v Sudtirol",
+      "utc": "2026-12-19T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-27-arezzo-vicenza",
+      "weekend": "2026-12-27",
+      "name": "Arezzo v Vicenza",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-27-catanzaro-empoli",
+      "weekend": "2026-12-27",
+      "name": "Catanzaro v Empoli",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-27-cesena-pisa",
+      "weekend": "2026-12-27",
+      "name": "Cesena v Pisa",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-27-cremonese-ascoli",
+      "weekend": "2026-12-27",
+      "name": "Cremonese v Ascoli",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-27-mantova-padova",
+      "weekend": "2026-12-27",
+      "name": "Mantova v Padova",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-27-modena-palermo",
+      "weekend": "2026-12-27",
+      "name": "Modena v Palermo",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-27-sampdoria-hellas-verona",
+      "weekend": "2026-12-27",
+      "name": "Sampdoria v Hellas Verona",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-27-sudtirol-carrarese",
+      "weekend": "2026-12-27",
+      "name": "Sudtirol v Carrarese",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-27-us-avellino-juve-stabia",
+      "weekend": "2026-12-27",
+      "name": "US Avellino v Juve Stabia",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2026-12-27-virtus-entella-benevento",
+      "weekend": "2026-12-27",
+      "name": "Virtus Entella v Benevento",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-09-arezzo-hellas-verona",
+      "weekend": "2027-01-09",
+      "name": "Arezzo v Hellas Verona",
+      "utc": "2027-01-09T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-09-ascoli-catanzaro",
+      "weekend": "2027-01-09",
+      "name": "Ascoli v Catanzaro",
+      "utc": "2027-01-09T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-09-cesena-modena",
+      "weekend": "2027-01-09",
+      "name": "Cesena v Modena",
+      "utc": "2027-01-09T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-09-juve-stabia-sampdoria",
+      "weekend": "2027-01-09",
+      "name": "Juve Stabia v Sampdoria",
+      "utc": "2027-01-09T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-09-mantova-carrarese",
+      "weekend": "2027-01-09",
+      "name": "Mantova v Carrarese",
+      "utc": "2027-01-09T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-09-padova-cremonese",
+      "weekend": "2027-01-09",
+      "name": "Padova v Cremonese",
+      "utc": "2027-01-09T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-09-palermo-empoli",
+      "weekend": "2027-01-09",
+      "name": "Palermo v Empoli",
+      "utc": "2027-01-09T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-09-pisa-us-avellino",
+      "weekend": "2027-01-09",
+      "name": "Pisa v US Avellino",
+      "utc": "2027-01-09T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-09-sudtirol-benevento",
+      "weekend": "2027-01-09",
+      "name": "Sudtirol v Benevento",
+      "utc": "2027-01-09T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-09-vicenza-virtus-entella",
+      "weekend": "2027-01-09",
+      "name": "Vicenza v Virtus Entella",
+      "utc": "2027-01-09T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-16-ascoli-sudtirol",
+      "weekend": "2027-01-16",
+      "name": "Ascoli v Sudtirol",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-16-benevento-arezzo",
+      "weekend": "2027-01-16",
+      "name": "Benevento v Arezzo",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-16-carrarese-padova",
+      "weekend": "2027-01-16",
+      "name": "Carrarese v Padova",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-16-catanzaro-cesena",
+      "weekend": "2027-01-16",
+      "name": "Catanzaro v Cesena",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-16-cremonese-vicenza",
+      "weekend": "2027-01-16",
+      "name": "Cremonese v Vicenza",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-16-empoli-modena",
+      "weekend": "2027-01-16",
+      "name": "Empoli v Modena",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-16-hellas-verona-juve-stabia",
+      "weekend": "2027-01-16",
+      "name": "Hellas Verona v Juve Stabia",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-16-palermo-pisa",
+      "weekend": "2027-01-16",
+      "name": "Palermo v Pisa",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-16-sampdoria-mantova",
+      "weekend": "2027-01-16",
+      "name": "Sampdoria v Mantova",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-16-us-avellino-virtus-entella",
+      "weekend": "2027-01-16",
+      "name": "US Avellino v Virtus Entella",
+      "utc": "2027-01-16T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-23-arezzo-empoli",
+      "weekend": "2027-01-23",
+      "name": "Arezzo v Empoli",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-23-cesena-benevento",
+      "weekend": "2027-01-23",
+      "name": "Cesena v Benevento",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-23-juve-stabia-cremonese",
+      "weekend": "2027-01-23",
+      "name": "Juve Stabia v Cremonese",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-23-mantova-us-avellino",
+      "weekend": "2027-01-23",
+      "name": "Mantova v US Avellino",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-23-modena-carrarese",
+      "weekend": "2027-01-23",
+      "name": "Modena v Carrarese",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-23-padova-catanzaro",
+      "weekend": "2027-01-23",
+      "name": "Padova v Catanzaro",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-23-pisa-hellas-verona",
+      "weekend": "2027-01-23",
+      "name": "Pisa v Hellas Verona",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-23-sudtirol-palermo",
+      "weekend": "2027-01-23",
+      "name": "Sudtirol v Palermo",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-23-vicenza-ascoli",
+      "weekend": "2027-01-23",
+      "name": "Vicenza v Ascoli",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-23-virtus-entella-sampdoria",
+      "weekend": "2027-01-23",
+      "name": "Virtus Entella v Sampdoria",
+      "utc": "2027-01-23T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-30-ascoli-padova",
+      "weekend": "2027-01-30",
+      "name": "Ascoli v Padova",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-30-benevento-sampdoria",
+      "weekend": "2027-01-30",
+      "name": "Benevento v Sampdoria",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-30-carrarese-vicenza",
+      "weekend": "2027-01-30",
+      "name": "Carrarese v Vicenza",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-30-catanzaro-juve-stabia",
+      "weekend": "2027-01-30",
+      "name": "Catanzaro v Juve Stabia",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-30-cremonese-pisa",
+      "weekend": "2027-01-30",
+      "name": "Cremonese v Pisa",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-30-empoli-mantova",
+      "weekend": "2027-01-30",
+      "name": "Empoli v Mantova",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-30-hellas-verona-modena",
+      "weekend": "2027-01-30",
+      "name": "Hellas Verona v Modena",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-30-palermo-arezzo",
+      "weekend": "2027-01-30",
+      "name": "Palermo v Arezzo",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-30-us-avellino-cesena",
+      "weekend": "2027-01-30",
+      "name": "US Avellino v Cesena",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-01-30-virtus-entella-sudtirol",
+      "weekend": "2027-01-30",
+      "name": "Virtus Entella v Sudtirol",
+      "utc": "2027-01-30T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-06-benevento-cremonese",
+      "weekend": "2027-02-06",
+      "name": "Benevento v Cremonese",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-06-cesena-hellas-verona",
+      "weekend": "2027-02-06",
+      "name": "Cesena v Hellas Verona",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-06-juve-stabia-carrarese",
+      "weekend": "2027-02-06",
+      "name": "Juve Stabia v Carrarese",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-06-mantova-catanzaro",
+      "weekend": "2027-02-06",
+      "name": "Mantova v Catanzaro",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-06-modena-virtus-entella",
+      "weekend": "2027-02-06",
+      "name": "Modena v Virtus Entella",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-06-padova-arezzo",
+      "weekend": "2027-02-06",
+      "name": "Padova v Arezzo",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-06-pisa-empoli",
+      "weekend": "2027-02-06",
+      "name": "Pisa v Empoli",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-06-sampdoria-ascoli",
+      "weekend": "2027-02-06",
+      "name": "Sampdoria v Ascoli",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-06-sudtirol-us-avellino",
+      "weekend": "2027-02-06",
+      "name": "Sudtirol v US Avellino",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-06-vicenza-palermo",
+      "weekend": "2027-02-06",
+      "name": "Vicenza v Palermo",
+      "utc": "2027-02-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-13-arezzo-sampdoria",
+      "weekend": "2027-02-13",
+      "name": "Arezzo v Sampdoria",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-13-catanzaro-hellas-verona",
+      "weekend": "2027-02-13",
+      "name": "Catanzaro v Hellas Verona",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-13-cremonese-cesena",
+      "weekend": "2027-02-13",
+      "name": "Cremonese v Cesena",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-13-empoli-benevento",
+      "weekend": "2027-02-13",
+      "name": "Empoli v Benevento",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-13-modena-sudtirol",
+      "weekend": "2027-02-13",
+      "name": "Modena v Sudtirol",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-13-palermo-mantova",
+      "weekend": "2027-02-13",
+      "name": "Palermo v Mantova",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-13-pisa-juve-stabia",
+      "weekend": "2027-02-13",
+      "name": "Pisa v Juve Stabia",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-13-us-avellino-ascoli",
+      "weekend": "2027-02-13",
+      "name": "US Avellino v Ascoli",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-13-vicenza-padova",
+      "weekend": "2027-02-13",
+      "name": "Vicenza v Padova",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-13-virtus-entella-carrarese",
+      "weekend": "2027-02-13",
+      "name": "Virtus Entella v Carrarese",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-20-ascoli-pisa",
+      "weekend": "2027-02-20",
+      "name": "Ascoli v Pisa",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-20-benevento-mantova",
+      "weekend": "2027-02-20",
+      "name": "Benevento v Mantova",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-20-carrarese-catanzaro",
+      "weekend": "2027-02-20",
+      "name": "Carrarese v Catanzaro",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-20-cesena-vicenza",
+      "weekend": "2027-02-20",
+      "name": "Cesena v Vicenza",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-20-cremonese-palermo",
+      "weekend": "2027-02-20",
+      "name": "Cremonese v Palermo",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-20-hellas-verona-virtus-entella",
+      "weekend": "2027-02-20",
+      "name": "Hellas Verona v Virtus Entella",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-20-juve-stabia-empoli",
+      "weekend": "2027-02-20",
+      "name": "Juve Stabia v Empoli",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-20-padova-modena",
+      "weekend": "2027-02-20",
+      "name": "Padova v Modena",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-20-sampdoria-us-avellino",
+      "weekend": "2027-02-20",
+      "name": "Sampdoria v US Avellino",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-20-sudtirol-arezzo",
+      "weekend": "2027-02-20",
+      "name": "Sudtirol v Arezzo",
+      "utc": "2027-02-20T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-27-arezzo-carrarese",
+      "weekend": "2027-02-27",
+      "name": "Arezzo v Carrarese",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-27-catanzaro-sudtirol",
+      "weekend": "2027-02-27",
+      "name": "Catanzaro v Sudtirol",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-27-empoli-ascoli",
+      "weekend": "2027-02-27",
+      "name": "Empoli v Ascoli",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-27-juve-stabia-modena",
+      "weekend": "2027-02-27",
+      "name": "Juve Stabia v Modena",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-27-mantova-cesena",
+      "weekend": "2027-02-27",
+      "name": "Mantova v Cesena",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-27-palermo-hellas-verona",
+      "weekend": "2027-02-27",
+      "name": "Palermo v Hellas Verona",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-27-pisa-benevento",
+      "weekend": "2027-02-27",
+      "name": "Pisa v Benevento",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-27-sampdoria-padova",
+      "weekend": "2027-02-27",
+      "name": "Sampdoria v Padova",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-27-vicenza-us-avellino",
+      "weekend": "2027-02-27",
+      "name": "Vicenza v US Avellino",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-02-27-virtus-entella-cremonese",
+      "weekend": "2027-02-27",
+      "name": "Virtus Entella v Cremonese",
+      "utc": "2027-02-27T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-02-ascoli-arezzo",
+      "weekend": "2027-03-02",
+      "name": "Ascoli v Arezzo",
+      "utc": "2027-03-02T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-02-benevento-juve-stabia",
+      "weekend": "2027-03-02",
+      "name": "Benevento v Juve Stabia",
+      "utc": "2027-03-02T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-02-carrarese-palermo",
+      "weekend": "2027-03-02",
+      "name": "Carrarese v Palermo",
+      "utc": "2027-03-02T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-02-cesena-virtus-entella",
+      "weekend": "2027-03-02",
+      "name": "Cesena v Virtus Entella",
+      "utc": "2027-03-02T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-02-cremonese-sampdoria",
+      "weekend": "2027-03-02",
+      "name": "Cremonese v Sampdoria",
+      "utc": "2027-03-02T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-02-hellas-verona-empoli",
+      "weekend": "2027-03-02",
+      "name": "Hellas Verona v Empoli",
+      "utc": "2027-03-02T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-02-modena-pisa",
+      "weekend": "2027-03-02",
+      "name": "Modena v Pisa",
+      "utc": "2027-03-02T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-02-padova-mantova",
+      "weekend": "2027-03-02",
+      "name": "Padova v Mantova",
+      "utc": "2027-03-02T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-02-sudtirol-vicenza",
+      "weekend": "2027-03-02",
+      "name": "Sudtirol v Vicenza",
+      "utc": "2027-03-02T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-02-us-avellino-catanzaro",
+      "weekend": "2027-03-02",
+      "name": "US Avellino v Catanzaro",
+      "utc": "2027-03-02T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-06-arezzo-juve-stabia",
+      "weekend": "2027-03-06",
+      "name": "Arezzo v Juve Stabia",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-06-catanzaro-cremonese",
+      "weekend": "2027-03-06",
+      "name": "Catanzaro v Cremonese",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-06-empoli-carrarese",
+      "weekend": "2027-03-06",
+      "name": "Empoli v Carrarese",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-06-mantova-sudtirol",
+      "weekend": "2027-03-06",
+      "name": "Mantova v Sudtirol",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-06-padova-benevento",
+      "weekend": "2027-03-06",
+      "name": "Padova v Benevento",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-06-palermo-modena",
+      "weekend": "2027-03-06",
+      "name": "Palermo v Modena",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-06-pisa-vicenza",
+      "weekend": "2027-03-06",
+      "name": "Pisa v Vicenza",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-06-sampdoria-cesena",
+      "weekend": "2027-03-06",
+      "name": "Sampdoria v Cesena",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-06-us-avellino-hellas-verona",
+      "weekend": "2027-03-06",
+      "name": "US Avellino v Hellas Verona",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-06-virtus-entella-ascoli",
+      "weekend": "2027-03-06",
+      "name": "Virtus Entella v Ascoli",
+      "utc": "2027-03-06T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-13-benevento-virtus-entella",
+      "weekend": "2027-03-13",
+      "name": "Benevento v Virtus Entella",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-13-carrarese-sudtirol",
+      "weekend": "2027-03-13",
+      "name": "Carrarese v Sudtirol",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-13-catanzaro-pisa",
+      "weekend": "2027-03-13",
+      "name": "Catanzaro v Pisa",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-13-cesena-padova",
+      "weekend": "2027-03-13",
+      "name": "Cesena v Padova",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-13-cremonese-mantova",
+      "weekend": "2027-03-13",
+      "name": "Cremonese v Mantova",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-13-empoli-us-avellino",
+      "weekend": "2027-03-13",
+      "name": "Empoli v US Avellino",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-13-hellas-verona-sampdoria",
+      "weekend": "2027-03-13",
+      "name": "Hellas Verona v Sampdoria",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-13-juve-stabia-palermo",
+      "weekend": "2027-03-13",
+      "name": "Juve Stabia v Palermo",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-13-modena-ascoli",
+      "weekend": "2027-03-13",
+      "name": "Modena v Ascoli",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-13-vicenza-arezzo",
+      "weekend": "2027-03-13",
+      "name": "Vicenza v Arezzo",
+      "utc": "2027-03-13T20:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-20-arezzo-modena",
+      "weekend": "2027-03-20",
+      "name": "Arezzo v Modena",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-20-ascoli-cremonese",
+      "weekend": "2027-03-20",
+      "name": "Ascoli v Cremonese",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-20-carrarese-cesena",
+      "weekend": "2027-03-20",
+      "name": "Carrarese v Cesena",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-20-mantova-juve-stabia",
+      "weekend": "2027-03-20",
+      "name": "Mantova v Juve Stabia",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-20-padova-palermo",
+      "weekend": "2027-03-20",
+      "name": "Padova v Palermo",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-20-sampdoria-empoli",
+      "weekend": "2027-03-20",
+      "name": "Sampdoria v Empoli",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-20-sudtirol-pisa",
+      "weekend": "2027-03-20",
+      "name": "Sudtirol v Pisa",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-20-us-avellino-benevento",
+      "weekend": "2027-03-20",
+      "name": "US Avellino v Benevento",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-20-vicenza-hellas-verona",
+      "weekend": "2027-03-20",
+      "name": "Vicenza v Hellas Verona",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-03-20-virtus-entella-catanzaro",
+      "weekend": "2027-03-20",
+      "name": "Virtus Entella v Catanzaro",
+      "utc": "2027-03-20T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-03-benevento-ascoli",
+      "weekend": "2027-04-03",
+      "name": "Benevento v Ascoli",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-03-catanzaro-vicenza",
+      "weekend": "2027-04-03",
+      "name": "Catanzaro v Vicenza",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-03-cesena-sudtirol",
+      "weekend": "2027-04-03",
+      "name": "Cesena v Sudtirol",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-03-cremonese-arezzo",
+      "weekend": "2027-04-03",
+      "name": "Cremonese v Arezzo",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-03-empoli-padova",
+      "weekend": "2027-04-03",
+      "name": "Empoli v Padova",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-03-hellas-verona-mantova",
+      "weekend": "2027-04-03",
+      "name": "Hellas Verona v Mantova",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-03-juve-stabia-virtus-entella",
+      "weekend": "2027-04-03",
+      "name": "Juve Stabia v Virtus Entella",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-03-modena-sampdoria",
+      "weekend": "2027-04-03",
+      "name": "Modena v Sampdoria",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-03-palermo-us-avellino",
+      "weekend": "2027-04-03",
+      "name": "Palermo v US Avellino",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-03-pisa-carrarese",
+      "weekend": "2027-04-03",
+      "name": "Pisa v Carrarese",
+      "utc": "2027-04-03T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-10-arezzo-catanzaro",
+      "weekend": "2027-04-10",
+      "name": "Arezzo v Catanzaro",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-10-ascoli-cesena",
+      "weekend": "2027-04-10",
+      "name": "Ascoli v Cesena",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-10-carrarese-hellas-verona",
+      "weekend": "2027-04-10",
+      "name": "Carrarese v Hellas Verona",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-10-mantova-modena",
+      "weekend": "2027-04-10",
+      "name": "Mantova v Modena",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-10-padova-juve-stabia",
+      "weekend": "2027-04-10",
+      "name": "Padova v Juve Stabia",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-10-sampdoria-palermo",
+      "weekend": "2027-04-10",
+      "name": "Sampdoria v Palermo",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-10-sudtirol-empoli",
+      "weekend": "2027-04-10",
+      "name": "Sudtirol v Empoli",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-10-us-avellino-cremonese",
+      "weekend": "2027-04-10",
+      "name": "US Avellino v Cremonese",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-10-vicenza-benevento",
+      "weekend": "2027-04-10",
+      "name": "Vicenza v Benevento",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-10-virtus-entella-pisa",
+      "weekend": "2027-04-10",
+      "name": "Virtus Entella v Pisa",
+      "utc": "2027-04-10T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-17-arezzo-mantova",
+      "weekend": "2027-04-17",
+      "name": "Arezzo v Mantova",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-17-catanzaro-benevento",
+      "weekend": "2027-04-17",
+      "name": "Catanzaro v Benevento",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-17-cremonese-sudtirol",
+      "weekend": "2027-04-17",
+      "name": "Cremonese v Sudtirol",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-17-empoli-virtus-entella",
+      "weekend": "2027-04-17",
+      "name": "Empoli v Virtus Entella",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-17-hellas-verona-padova",
+      "weekend": "2027-04-17",
+      "name": "Hellas Verona v Padova",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-17-juve-stabia-us-avellino",
+      "weekend": "2027-04-17",
+      "name": "Juve Stabia v US Avellino",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-17-modena-vicenza",
+      "weekend": "2027-04-17",
+      "name": "Modena v Vicenza",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-17-palermo-ascoli",
+      "weekend": "2027-04-17",
+      "name": "Palermo v Ascoli",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-17-pisa-cesena",
+      "weekend": "2027-04-17",
+      "name": "Pisa v Cesena",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-17-sampdoria-carrarese",
+      "weekend": "2027-04-17",
+      "name": "Sampdoria v Carrarese",
+      "utc": "2027-04-17T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-24-ascoli-mantova",
+      "weekend": "2027-04-24",
+      "name": "Ascoli v Mantova",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-24-benevento-carrarese",
+      "weekend": "2027-04-24",
+      "name": "Benevento v Carrarese",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-24-catanzaro-sampdoria",
+      "weekend": "2027-04-24",
+      "name": "Catanzaro v Sampdoria",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-24-cesena-juve-stabia",
+      "weekend": "2027-04-24",
+      "name": "Cesena v Juve Stabia",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-24-cremonese-hellas-verona",
+      "weekend": "2027-04-24",
+      "name": "Cremonese v Hellas Verona",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-24-pisa-arezzo",
+      "weekend": "2027-04-24",
+      "name": "Pisa v Arezzo",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-24-sudtirol-padova",
+      "weekend": "2027-04-24",
+      "name": "Sudtirol v Padova",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-24-us-avellino-modena",
+      "weekend": "2027-04-24",
+      "name": "US Avellino v Modena",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-24-vicenza-empoli",
+      "weekend": "2027-04-24",
+      "name": "Vicenza v Empoli",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-04-24-virtus-entella-palermo",
+      "weekend": "2027-04-24",
+      "name": "Virtus Entella v Palermo",
+      "utc": "2027-04-24T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-01-arezzo-us-avellino",
+      "weekend": "2027-05-01",
+      "name": "Arezzo v US Avellino",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-01-carrarese-ascoli",
+      "weekend": "2027-05-01",
+      "name": "Carrarese v Ascoli",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-01-empoli-cesena",
+      "weekend": "2027-05-01",
+      "name": "Empoli v Cesena",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-01-hellas-verona-benevento",
+      "weekend": "2027-05-01",
+      "name": "Hellas Verona v Benevento",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-01-juve-stabia-vicenza",
+      "weekend": "2027-05-01",
+      "name": "Juve Stabia v Vicenza",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-01-mantova-virtus-entella",
+      "weekend": "2027-05-01",
+      "name": "Mantova v Virtus Entella",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-01-modena-cremonese",
+      "weekend": "2027-05-01",
+      "name": "Modena v Cremonese",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-01-padova-pisa",
+      "weekend": "2027-05-01",
+      "name": "Padova v Pisa",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-01-palermo-catanzaro",
+      "weekend": "2027-05-01",
+      "name": "Palermo v Catanzaro",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-01-sampdoria-sudtirol",
+      "weekend": "2027-05-01",
+      "name": "Sampdoria v Sudtirol",
+      "utc": "2027-05-01T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-08-ascoli-hellas-verona",
+      "weekend": "2027-05-08",
+      "name": "Ascoli v Hellas Verona",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-08-benevento-palermo",
+      "weekend": "2027-05-08",
+      "name": "Benevento v Palermo",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-08-catanzaro-modena",
+      "weekend": "2027-05-08",
+      "name": "Catanzaro v Modena",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-08-cesena-arezzo",
+      "weekend": "2027-05-08",
+      "name": "Cesena v Arezzo",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-08-cremonese-empoli",
+      "weekend": "2027-05-08",
+      "name": "Cremonese v Empoli",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-08-pisa-mantova",
+      "weekend": "2027-05-08",
+      "name": "Pisa v Mantova",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-08-sudtirol-juve-stabia",
+      "weekend": "2027-05-08",
+      "name": "Sudtirol v Juve Stabia",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-08-us-avellino-carrarese",
+      "weekend": "2027-05-08",
+      "name": "US Avellino v Carrarese",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-08-vicenza-sampdoria",
+      "weekend": "2027-05-08",
+      "name": "Vicenza v Sampdoria",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-08-virtus-entella-padova",
+      "weekend": "2027-05-08",
+      "name": "Virtus Entella v Padova",
+      "utc": "2027-05-08T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-14-arezzo-virtus-entella",
+      "weekend": "2027-05-14",
+      "name": "Arezzo v Virtus Entella",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-14-carrarese-cremonese",
+      "weekend": "2027-05-14",
+      "name": "Carrarese v Cremonese",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-14-empoli-catanzaro",
+      "weekend": "2027-05-14",
+      "name": "Empoli v Catanzaro",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-14-hellas-verona-sudtirol",
+      "weekend": "2027-05-14",
+      "name": "Hellas Verona v Sudtirol",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-14-juve-stabia-ascoli",
+      "weekend": "2027-05-14",
+      "name": "Juve Stabia v Ascoli",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-14-mantova-vicenza",
+      "weekend": "2027-05-14",
+      "name": "Mantova v Vicenza",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-14-modena-benevento",
+      "weekend": "2027-05-14",
+      "name": "Modena v Benevento",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-14-padova-us-avellino",
+      "weekend": "2027-05-14",
+      "name": "Padova v US Avellino",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-14-palermo-cesena",
+      "weekend": "2027-05-14",
+      "name": "Palermo v Cesena",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "ita.2-2027-05-14-sampdoria-pisa",
+      "weekend": "2027-05-14",
+      "name": "Sampdoria v Pisa",
+      "utc": "2027-05-14T18:00:00Z"
+    }
+  ]
+}

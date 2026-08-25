@@ -1,0 +1,77 @@
+name: Run All Scrapers
+
+# Manually triggered "run everything" button. Unlike a hardcoded list of
+# workflow files, this discovers every workflow currently in the repo at
+# run time via the GitHub API and triggers each one - so when a new
+# scraper workflow is added later, it gets picked up automatically here
+# with zero edits to this file.
+#
+# Requirement for a workflow to be picked up: it must have
+# `workflow_dispatch` in its own `on:` trigger (every scraper workflow in
+# this repo already does, alongside its `schedule:` cron). A workflow
+# without `workflow_dispatch` can't be triggered via the API at all -
+# this one logs that it failed to trigger it and moves on to the rest
+# rather than stopping the whole run.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger every other active workflow
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const thisFile = "run_all_workflows.yml";
+
+            const { data } = await github.rest.actions.listRepoWorkflows({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              per_page: 100,
+            });
+
+            const targets = data.workflows.filter((w) => {
+              const filename = w.path.split("/").pop();
+              return filename !== thisFile && w.state === "active";
+            });
+
+            core.info(`Found ${targets.length} workflow(s) to trigger (excluding this one):`);
+            for (const w of targets) core.info(`  - ${w.name}`);
+
+            const ref = context.ref.replace("refs/heads/", "");
+            let failures = 0;
+
+            for (const w of targets) {
+              const filename = w.path.split("/").pop();
+              try {
+                await github.rest.actions.createWorkflowDispatch({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  workflow_id: filename,
+                  ref: ref,
+                });
+                core.info(`Triggered: ${w.name}`);
+              } catch (err) {
+                core.warning(`Failed to trigger ${w.name}: ${err.message}`);
+                failures++;
+              }
+            }
+
+            if (failures > 0) {
+              core.warning(
+                `${failures} workflow(s) failed to trigger - the most common ` +
+                `cause is that workflow not having 'workflow_dispatch' in its ` +
+                `own 'on:' block. The rest were still triggered successfully.`
+              );
+            }
+
+      - name: Note
+        run: |
+          echo "Each triggered workflow runs independently and asynchronously -"
+          echo "check the Actions tab for their individual run status and logs."

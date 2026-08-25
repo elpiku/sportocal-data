@@ -1,0 +1,11 @@
+{
+  "sportKey": "nba",
+  "season": "2025-26",
+  "events": [
+    { "id": "nba-2026-finals-g3", "weekend": "NBA Finals", "name": "Game 3", "utc": "2026-06-09T00:30:00Z" },
+    { "id": "nba-2026-finals-g4", "weekend": "NBA Finals", "name": "Game 4", "utc": "2026-06-11T00:30:00Z" },
+    { "id": "nba-2026-finals-g5", "weekend": "NBA Finals", "name": "Game 5", "utc": "2026-06-14T00:00:00Z" },
+    { "id": "nba-2026-finals-g6", "weekend": "NBA Finals", "name": "Game 6", "utc": "2026-06-17T00:30:00Z" },
+    { "id": "nba-2026-finals-g7", "weekend": "NBA Finals", "name": "Game 7", "utc": "2026-06-20T00:00:00Z" }
+  ]
+}

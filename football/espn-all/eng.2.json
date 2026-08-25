@@ -1,0 +1,3320 @@
+{
+  "sportKey": "soccer-eng.2",
+  "leagueName": "English League Championship",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "eng.2-2026-08-14-wolverhampton-wanderers-blackburn-rovers",
+      "weekend": "2026-08-14",
+      "name": "Wolverhampton Wanderers v Blackburn Rovers",
+      "utc": "2026-08-14T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-15-bolton-wanderers-preston-north-end",
+      "weekend": "2026-08-15",
+      "name": "Bolton Wanderers v Preston North End",
+      "utc": "2026-08-15T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-15-bristol-city-millwall",
+      "weekend": "2026-08-15",
+      "name": "Bristol City v Millwall",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-15-charlton-athletic-derby-county",
+      "weekend": "2026-08-15",
+      "name": "Charlton Athletic v Derby County",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-15-middlesbrough-lincoln-city",
+      "weekend": "2026-08-15",
+      "name": "Middlesbrough v Lincoln City",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-15-norwich-city-west-bromwich-albion",
+      "weekend": "2026-08-15",
+      "name": "Norwich City v West Bromwich Albion",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-15-portsmouth-queens-park-rangers",
+      "weekend": "2026-08-15",
+      "name": "Portsmouth v Queens Park Rangers",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-15-stoke-city-swansea-city",
+      "weekend": "2026-08-15",
+      "name": "Stoke City v Swansea City",
+      "utc": "2026-08-15T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-15-sheffield-united-birmingham-city",
+      "weekend": "2026-08-15",
+      "name": "Sheffield United v Birmingham City",
+      "utc": "2026-08-15T16:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-16-watford-southampton",
+      "weekend": "2026-08-16",
+      "name": "Watford v Southampton",
+      "utc": "2026-08-16T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-16-burnley-west-ham-united",
+      "weekend": "2026-08-16",
+      "name": "Burnley v West Ham United",
+      "utc": "2026-08-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-17-cardiff-city-wrexham",
+      "weekend": "2026-08-17",
+      "name": "Cardiff City v Wrexham",
+      "utc": "2026-08-17T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-22-birmingham-city-bristol-city",
+      "weekend": "2026-08-22",
+      "name": "Birmingham City v Bristol City",
+      "utc": "2026-08-22T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-22-lincoln-city-portsmouth",
+      "weekend": "2026-08-22",
+      "name": "Lincoln City v Portsmouth",
+      "utc": "2026-08-22T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-22-millwall-norwich-city",
+      "weekend": "2026-08-22",
+      "name": "Millwall v Norwich City",
+      "utc": "2026-08-22T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-22-blackburn-rovers-middlesbrough",
+      "weekend": "2026-08-22",
+      "name": "Blackburn Rovers v Middlesbrough",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-22-derby-county-cardiff-city",
+      "weekend": "2026-08-22",
+      "name": "Derby County v Cardiff City",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-22-preston-north-end-wolverhampton-wanderers",
+      "weekend": "2026-08-22",
+      "name": "Preston North End v Wolverhampton Wanderers",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-22-queens-park-rangers-bolton-wanderers",
+      "weekend": "2026-08-22",
+      "name": "Queens Park Rangers v Bolton Wanderers",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-22-southampton-stoke-city",
+      "weekend": "2026-08-22",
+      "name": "Southampton v Stoke City",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-22-swansea-city-sheffield-united",
+      "weekend": "2026-08-22",
+      "name": "Swansea City v Sheffield United",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-22-west-ham-united-charlton-athletic",
+      "weekend": "2026-08-22",
+      "name": "West Ham United v Charlton Athletic",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-22-wrexham-watford",
+      "weekend": "2026-08-22",
+      "name": "Wrexham v Watford",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-23-west-bromwich-albion-burnley",
+      "weekend": "2026-08-23",
+      "name": "West Bromwich Albion v Burnley",
+      "utc": "2026-08-23T11:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-28-wrexham-birmingham-city",
+      "weekend": "2026-08-28",
+      "name": "Wrexham v Birmingham City",
+      "utc": "2026-08-28T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-29-derby-county-swansea-city",
+      "weekend": "2026-08-29",
+      "name": "Derby County v Swansea City",
+      "utc": "2026-08-29T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-29-middlesbrough-west-bromwich-albion",
+      "weekend": "2026-08-29",
+      "name": "Middlesbrough v West Bromwich Albion",
+      "utc": "2026-08-29T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-29-wolverhampton-wanderers-stoke-city",
+      "weekend": "2026-08-29",
+      "name": "Wolverhampton Wanderers v Stoke City",
+      "utc": "2026-08-29T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-29-blackburn-rovers-queens-park-rangers",
+      "weekend": "2026-08-29",
+      "name": "Blackburn Rovers v Queens Park Rangers",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-29-bolton-wanderers-lincoln-city",
+      "weekend": "2026-08-29",
+      "name": "Bolton Wanderers v Lincoln City",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-29-bristol-city-portsmouth",
+      "weekend": "2026-08-29",
+      "name": "Bristol City v Portsmouth",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-29-cardiff-city-sheffield-united",
+      "weekend": "2026-08-29",
+      "name": "Cardiff City v Sheffield United",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-29-charlton-athletic-preston-north-end",
+      "weekend": "2026-08-29",
+      "name": "Charlton Athletic v Preston North End",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-29-norwich-city-burnley",
+      "weekend": "2026-08-29",
+      "name": "Norwich City v Burnley",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-29-southampton-millwall",
+      "weekend": "2026-08-29",
+      "name": "Southampton v Millwall",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-08-29-watford-west-ham-united",
+      "weekend": "2026-08-29",
+      "name": "Watford v West Ham United",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-01-birmingham-city-southampton",
+      "weekend": "2026-09-01",
+      "name": "Birmingham City v Southampton",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-01-lincoln-city-blackburn-rovers",
+      "weekend": "2026-09-01",
+      "name": "Lincoln City v Blackburn Rovers",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-01-portsmouth-derby-county",
+      "weekend": "2026-09-01",
+      "name": "Portsmouth v Derby County",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-01-preston-north-end-bristol-city",
+      "weekend": "2026-09-01",
+      "name": "Preston North End v Bristol City",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-01-sheffield-united-bolton-wanderers",
+      "weekend": "2026-09-01",
+      "name": "Sheffield United v Bolton Wanderers",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-01-swansea-city-watford",
+      "weekend": "2026-09-01",
+      "name": "Swansea City v Watford",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-01-west-ham-united-wolverhampton-wanderers",
+      "weekend": "2026-09-01",
+      "name": "West Ham United v Wolverhampton Wanderers",
+      "utc": "2026-09-01T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-01-stoke-city-norwich-city",
+      "weekend": "2026-09-01",
+      "name": "Stoke City v Norwich City",
+      "utc": "2026-09-01T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-02-millwall-wrexham",
+      "weekend": "2026-09-02",
+      "name": "Millwall v Wrexham",
+      "utc": "2026-09-02T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-02-queens-park-rangers-cardiff-city",
+      "weekend": "2026-09-02",
+      "name": "Queens Park Rangers v Cardiff City",
+      "utc": "2026-09-02T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-02-west-bromwich-albion-charlton-athletic",
+      "weekend": "2026-09-02",
+      "name": "West Bromwich Albion v Charlton Athletic",
+      "utc": "2026-09-02T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-02-burnley-middlesbrough",
+      "weekend": "2026-09-02",
+      "name": "Burnley v Middlesbrough",
+      "utc": "2026-09-02T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-05-lincoln-city-southampton",
+      "weekend": "2026-09-05",
+      "name": "Lincoln City v Southampton",
+      "utc": "2026-09-05T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-05-preston-north-end-blackburn-rovers",
+      "weekend": "2026-09-05",
+      "name": "Preston North End v Blackburn Rovers",
+      "utc": "2026-09-05T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-05-stoke-city-charlton-athletic",
+      "weekend": "2026-09-05",
+      "name": "Stoke City v Charlton Athletic",
+      "utc": "2026-09-05T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-05-burnley-bristol-city",
+      "weekend": "2026-09-05",
+      "name": "Burnley v Bristol City",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-05-millwall-bolton-wanderers",
+      "weekend": "2026-09-05",
+      "name": "Millwall v Bolton Wanderers",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-05-portsmouth-cardiff-city",
+      "weekend": "2026-09-05",
+      "name": "Portsmouth v Cardiff City",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-05-queens-park-rangers-middlesbrough",
+      "weekend": "2026-09-05",
+      "name": "Queens Park Rangers v Middlesbrough",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-05-sheffield-united-norwich-city",
+      "weekend": "2026-09-05",
+      "name": "Sheffield United v Norwich City",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-05-west-bromwich-albion-watford",
+      "weekend": "2026-09-05",
+      "name": "West Bromwich Albion v Watford",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-05-west-ham-united-derby-county",
+      "weekend": "2026-09-05",
+      "name": "West Ham United v Derby County",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-05-swansea-city-wrexham",
+      "weekend": "2026-09-05",
+      "name": "Swansea City v Wrexham",
+      "utc": "2026-09-05T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-06-birmingham-city-wolverhampton-wanderers",
+      "weekend": "2026-09-06",
+      "name": "Birmingham City v Wolverhampton Wanderers",
+      "utc": "2026-09-06T11:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-08-blackburn-rovers-sheffield-united",
+      "weekend": "2026-09-08",
+      "name": "Blackburn Rovers v Sheffield United",
+      "utc": "2026-09-08T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-08-bristol-city-lincoln-city",
+      "weekend": "2026-09-08",
+      "name": "Bristol City v Lincoln City",
+      "utc": "2026-09-08T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-08-cardiff-city-stoke-city",
+      "weekend": "2026-09-08",
+      "name": "Cardiff City v Stoke City",
+      "utc": "2026-09-08T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-08-middlesbrough-millwall",
+      "weekend": "2026-09-08",
+      "name": "Middlesbrough v Millwall",
+      "utc": "2026-09-08T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-08-southampton-swansea-city",
+      "weekend": "2026-09-08",
+      "name": "Southampton v Swansea City",
+      "utc": "2026-09-08T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-08-watford-preston-north-end",
+      "weekend": "2026-09-08",
+      "name": "Watford v Preston North End",
+      "utc": "2026-09-08T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-08-wrexham-burnley",
+      "weekend": "2026-09-08",
+      "name": "Wrexham v Burnley",
+      "utc": "2026-09-08T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-08-bolton-wanderers-west-ham-united",
+      "weekend": "2026-09-08",
+      "name": "Bolton Wanderers v West Ham United",
+      "utc": "2026-09-08T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-09-derby-county-west-bromwich-albion",
+      "weekend": "2026-09-09",
+      "name": "Derby County v West Bromwich Albion",
+      "utc": "2026-09-09T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-09-norwich-city-birmingham-city",
+      "weekend": "2026-09-09",
+      "name": "Norwich City v Birmingham City",
+      "utc": "2026-09-09T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-09-wolverhampton-wanderers-portsmouth",
+      "weekend": "2026-09-09",
+      "name": "Wolverhampton Wanderers v Portsmouth",
+      "utc": "2026-09-09T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-09-charlton-athletic-queens-park-rangers",
+      "weekend": "2026-09-09",
+      "name": "Charlton Athletic v Queens Park Rangers",
+      "utc": "2026-09-09T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-11-west-ham-united-wrexham",
+      "weekend": "2026-09-11",
+      "name": "West Ham United v Wrexham",
+      "utc": "2026-09-11T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-12-bolton-wanderers-cardiff-city",
+      "weekend": "2026-09-12",
+      "name": "Bolton Wanderers v Cardiff City",
+      "utc": "2026-09-12T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-12-derby-county-birmingham-city",
+      "weekend": "2026-09-12",
+      "name": "Derby County v Birmingham City",
+      "utc": "2026-09-12T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-12-west-bromwich-albion-queens-park-rangers",
+      "weekend": "2026-09-12",
+      "name": "West Bromwich Albion v Queens Park Rangers",
+      "utc": "2026-09-12T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-12-blackburn-rovers-millwall",
+      "weekend": "2026-09-12",
+      "name": "Blackburn Rovers v Millwall",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-12-charlton-athletic-portsmouth",
+      "weekend": "2026-09-12",
+      "name": "Charlton Athletic v Portsmouth",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-12-middlesbrough-norwich-city",
+      "weekend": "2026-09-12",
+      "name": "Middlesbrough v Norwich City",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-12-preston-north-end-lincoln-city",
+      "weekend": "2026-09-12",
+      "name": "Preston North End v Lincoln City",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-12-southampton-bristol-city",
+      "weekend": "2026-09-12",
+      "name": "Southampton v Bristol City",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-12-swansea-city-burnley",
+      "weekend": "2026-09-12",
+      "name": "Swansea City v Burnley",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-12-watford-stoke-city",
+      "weekend": "2026-09-12",
+      "name": "Watford v Stoke City",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-13-sheffield-united-wolverhampton-wanderers",
+      "weekend": "2026-09-13",
+      "name": "Sheffield United v Wolverhampton Wanderers",
+      "utc": "2026-09-13T11:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-18-bristol-city-watford",
+      "weekend": "2026-09-18",
+      "name": "Bristol City v Watford",
+      "utc": "2026-09-18T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-19-cardiff-city-charlton-athletic",
+      "weekend": "2026-09-19",
+      "name": "Cardiff City v Charlton Athletic",
+      "utc": "2026-09-19T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-19-millwall-west-ham-united",
+      "weekend": "2026-09-19",
+      "name": "Millwall v West Ham United",
+      "utc": "2026-09-19T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-19-stoke-city-sheffield-united",
+      "weekend": "2026-09-19",
+      "name": "Stoke City v Sheffield United",
+      "utc": "2026-09-19T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-19-birmingham-city-middlesbrough",
+      "weekend": "2026-09-19",
+      "name": "Birmingham City v Middlesbrough",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-19-burnley-derby-county",
+      "weekend": "2026-09-19",
+      "name": "Burnley v Derby County",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-19-lincoln-city-swansea-city",
+      "weekend": "2026-09-19",
+      "name": "Lincoln City v Swansea City",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-19-norwich-city-bolton-wanderers",
+      "weekend": "2026-09-19",
+      "name": "Norwich City v Bolton Wanderers",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-19-portsmouth-blackburn-rovers",
+      "weekend": "2026-09-19",
+      "name": "Portsmouth v Blackburn Rovers",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-19-queens-park-rangers-preston-north-end",
+      "weekend": "2026-09-19",
+      "name": "Queens Park Rangers v Preston North End",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-19-wrexham-southampton",
+      "weekend": "2026-09-19",
+      "name": "Wrexham v Southampton",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-09-20-wolverhampton-wanderers-west-bromwich-albion",
+      "weekend": "2026-09-20",
+      "name": "Wolverhampton Wanderers v West Bromwich Albion",
+      "utc": "2026-09-20T11:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-09-west-ham-united-queens-park-rangers",
+      "weekend": "2026-10-09",
+      "name": "West Ham United v Queens Park Rangers",
+      "utc": "2026-10-09T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-10-charlton-athletic-bristol-city",
+      "weekend": "2026-10-10",
+      "name": "Charlton Athletic v Bristol City",
+      "utc": "2026-10-10T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-10-swansea-city-norwich-city",
+      "weekend": "2026-10-10",
+      "name": "Swansea City v Norwich City",
+      "utc": "2026-10-10T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-10-west-bromwich-albion-birmingham-city",
+      "weekend": "2026-10-10",
+      "name": "West Bromwich Albion v Birmingham City",
+      "utc": "2026-10-10T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-10-blackburn-rovers-cardiff-city",
+      "weekend": "2026-10-10",
+      "name": "Blackburn Rovers v Cardiff City",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-10-bolton-wanderers-stoke-city",
+      "weekend": "2026-10-10",
+      "name": "Bolton Wanderers v Stoke City",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-10-derby-county-wrexham",
+      "weekend": "2026-10-10",
+      "name": "Derby County v Wrexham",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-10-middlesbrough-wolverhampton-wanderers",
+      "weekend": "2026-10-10",
+      "name": "Middlesbrough v Wolverhampton Wanderers",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-10-preston-north-end-millwall",
+      "weekend": "2026-10-10",
+      "name": "Preston North End v Millwall",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-10-sheffield-united-lincoln-city",
+      "weekend": "2026-10-10",
+      "name": "Sheffield United v Lincoln City",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-10-watford-burnley",
+      "weekend": "2026-10-10",
+      "name": "Watford v Burnley",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-11-southampton-portsmouth",
+      "weekend": "2026-10-11",
+      "name": "Southampton v Portsmouth",
+      "utc": "2026-10-11T11:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-13-birmingham-city-preston-north-end",
+      "weekend": "2026-10-13",
+      "name": "Birmingham City v Preston North End",
+      "utc": "2026-10-13T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-13-bristol-city-blackburn-rovers",
+      "weekend": "2026-10-13",
+      "name": "Bristol City v Blackburn Rovers",
+      "utc": "2026-10-13T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-13-burnley-charlton-athletic",
+      "weekend": "2026-10-13",
+      "name": "Burnley v Charlton Athletic",
+      "utc": "2026-10-13T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-13-cardiff-city-watford",
+      "weekend": "2026-10-13",
+      "name": "Cardiff City v Watford",
+      "utc": "2026-10-13T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-13-millwall-swansea-city",
+      "weekend": "2026-10-13",
+      "name": "Millwall v Swansea City",
+      "utc": "2026-10-13T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-13-wolverhampton-wanderers-bolton-wanderers",
+      "weekend": "2026-10-13",
+      "name": "Wolverhampton Wanderers v Bolton Wanderers",
+      "utc": "2026-10-13T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-13-wrexham-west-bromwich-albion",
+      "weekend": "2026-10-13",
+      "name": "Wrexham v West Bromwich Albion",
+      "utc": "2026-10-13T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-13-stoke-city-middlesbrough",
+      "weekend": "2026-10-13",
+      "name": "Stoke City v Middlesbrough",
+      "utc": "2026-10-13T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-14-norwich-city-southampton",
+      "weekend": "2026-10-14",
+      "name": "Norwich City v Southampton",
+      "utc": "2026-10-14T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-14-portsmouth-sheffield-united",
+      "weekend": "2026-10-14",
+      "name": "Portsmouth v Sheffield United",
+      "utc": "2026-10-14T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-14-queens-park-rangers-derby-county",
+      "weekend": "2026-10-14",
+      "name": "Queens Park Rangers v Derby County",
+      "utc": "2026-10-14T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-14-lincoln-city-west-ham-united",
+      "weekend": "2026-10-14",
+      "name": "Lincoln City v West Ham United",
+      "utc": "2026-10-14T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-16-burnley-wolverhampton-wanderers",
+      "weekend": "2026-10-16",
+      "name": "Burnley v Wolverhampton Wanderers",
+      "utc": "2026-10-16T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-17-middlesbrough-cardiff-city",
+      "weekend": "2026-10-17",
+      "name": "Middlesbrough v Cardiff City",
+      "utc": "2026-10-17T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-17-millwall-lincoln-city",
+      "weekend": "2026-10-17",
+      "name": "Millwall v Lincoln City",
+      "utc": "2026-10-17T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-17-watford-charlton-athletic",
+      "weekend": "2026-10-17",
+      "name": "Watford v Charlton Athletic",
+      "utc": "2026-10-17T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-17-birmingham-city-queens-park-rangers",
+      "weekend": "2026-10-17",
+      "name": "Birmingham City v Queens Park Rangers",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-17-bristol-city-sheffield-united",
+      "weekend": "2026-10-17",
+      "name": "Bristol City v Sheffield United",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-17-derby-county-stoke-city",
+      "weekend": "2026-10-17",
+      "name": "Derby County v Stoke City",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-17-norwich-city-portsmouth",
+      "weekend": "2026-10-17",
+      "name": "Norwich City v Portsmouth",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-17-southampton-bolton-wanderers",
+      "weekend": "2026-10-17",
+      "name": "Southampton v Bolton Wanderers",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-17-swansea-city-west-ham-united",
+      "weekend": "2026-10-17",
+      "name": "Swansea City v West Ham United",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-17-west-bromwich-albion-blackburn-rovers",
+      "weekend": "2026-10-17",
+      "name": "West Bromwich Albion v Blackburn Rovers",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-17-wrexham-preston-north-end",
+      "weekend": "2026-10-17",
+      "name": "Wrexham v Preston North End",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-23-bolton-wanderers-middlesbrough",
+      "weekend": "2026-10-23",
+      "name": "Bolton Wanderers v Middlesbrough",
+      "utc": "2026-10-23T19:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-24-charlton-athletic-norwich-city",
+      "weekend": "2026-10-24",
+      "name": "Charlton Athletic v Norwich City",
+      "utc": "2026-10-24T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-24-portsmouth-millwall",
+      "weekend": "2026-10-24",
+      "name": "Portsmouth v Millwall",
+      "utc": "2026-10-24T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-24-sheffield-united-derby-county",
+      "weekend": "2026-10-24",
+      "name": "Sheffield United v Derby County",
+      "utc": "2026-10-24T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-24-blackburn-rovers-wrexham",
+      "weekend": "2026-10-24",
+      "name": "Blackburn Rovers v Wrexham",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-24-cardiff-city-birmingham-city",
+      "weekend": "2026-10-24",
+      "name": "Cardiff City v Birmingham City",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-24-lincoln-city-burnley",
+      "weekend": "2026-10-24",
+      "name": "Lincoln City v Burnley",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-24-preston-north-end-west-bromwich-albion",
+      "weekend": "2026-10-24",
+      "name": "Preston North End v West Bromwich Albion",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-24-queens-park-rangers-swansea-city",
+      "weekend": "2026-10-24",
+      "name": "Queens Park Rangers v Swansea City",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-24-stoke-city-bristol-city",
+      "weekend": "2026-10-24",
+      "name": "Stoke City v Bristol City",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-24-west-ham-united-southampton",
+      "weekend": "2026-10-24",
+      "name": "West Ham United v Southampton",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-24-wolverhampton-wanderers-watford",
+      "weekend": "2026-10-24",
+      "name": "Wolverhampton Wanderers v Watford",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-30-sheffield-united-wrexham",
+      "weekend": "2026-10-30",
+      "name": "Sheffield United v Wrexham",
+      "utc": "2026-10-30T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-31-lincoln-city-birmingham-city",
+      "weekend": "2026-10-31",
+      "name": "Lincoln City v Birmingham City",
+      "utc": "2026-10-31T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-31-norwich-city-watford",
+      "weekend": "2026-10-31",
+      "name": "Norwich City v Watford",
+      "utc": "2026-10-31T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-31-stoke-city-preston-north-end",
+      "weekend": "2026-10-31",
+      "name": "Stoke City v Preston North End",
+      "utc": "2026-10-31T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-31-bolton-wanderers-bristol-city",
+      "weekend": "2026-10-31",
+      "name": "Bolton Wanderers v Bristol City",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-31-burnley-portsmouth",
+      "weekend": "2026-10-31",
+      "name": "Burnley v Portsmouth",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-31-middlesbrough-charlton-athletic",
+      "weekend": "2026-10-31",
+      "name": "Middlesbrough v Charlton Athletic",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-31-millwall-derby-county",
+      "weekend": "2026-10-31",
+      "name": "Millwall v Derby County",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-31-southampton-queens-park-rangers",
+      "weekend": "2026-10-31",
+      "name": "Southampton v Queens Park Rangers",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-31-swansea-city-blackburn-rovers",
+      "weekend": "2026-10-31",
+      "name": "Swansea City v Blackburn Rovers",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-31-west-ham-united-west-bromwich-albion",
+      "weekend": "2026-10-31",
+      "name": "West Ham United v West Bromwich Albion",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-10-31-wolverhampton-wanderers-cardiff-city",
+      "weekend": "2026-10-31",
+      "name": "Wolverhampton Wanderers v Cardiff City",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-03-birmingham-city-millwall",
+      "weekend": "2026-11-03",
+      "name": "Birmingham City v Millwall",
+      "utc": "2026-11-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-03-blackburn-rovers-stoke-city",
+      "weekend": "2026-11-03",
+      "name": "Blackburn Rovers v Stoke City",
+      "utc": "2026-11-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-03-charlton-athletic-bolton-wanderers",
+      "weekend": "2026-11-03",
+      "name": "Charlton Athletic v Bolton Wanderers",
+      "utc": "2026-11-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-03-derby-county-norwich-city",
+      "weekend": "2026-11-03",
+      "name": "Derby County v Norwich City",
+      "utc": "2026-11-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-03-portsmouth-swansea-city",
+      "weekend": "2026-11-03",
+      "name": "Portsmouth v Swansea City",
+      "utc": "2026-11-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-03-preston-north-end-sheffield-united",
+      "weekend": "2026-11-03",
+      "name": "Preston North End v Sheffield United",
+      "utc": "2026-11-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-03-queens-park-rangers-burnley",
+      "weekend": "2026-11-03",
+      "name": "Queens Park Rangers v Burnley",
+      "utc": "2026-11-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-03-watford-lincoln-city",
+      "weekend": "2026-11-03",
+      "name": "Watford v Lincoln City",
+      "utc": "2026-11-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-03-west-bromwich-albion-southampton",
+      "weekend": "2026-11-03",
+      "name": "West Bromwich Albion v Southampton",
+      "utc": "2026-11-03T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-04-cardiff-city-west-ham-united",
+      "weekend": "2026-11-04",
+      "name": "Cardiff City v West Ham United",
+      "utc": "2026-11-04T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-04-wrexham-middlesbrough",
+      "weekend": "2026-11-04",
+      "name": "Wrexham v Middlesbrough",
+      "utc": "2026-11-04T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-04-bristol-city-wolverhampton-wanderers",
+      "weekend": "2026-11-04",
+      "name": "Bristol City v Wolverhampton Wanderers",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-06-derby-county-bolton-wanderers",
+      "weekend": "2026-11-06",
+      "name": "Derby County v Bolton Wanderers",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-07-bristol-city-norwich-city",
+      "weekend": "2026-11-07",
+      "name": "Bristol City v Norwich City",
+      "utc": "2026-11-07T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-07-portsmouth-stoke-city",
+      "weekend": "2026-11-07",
+      "name": "Portsmouth v Stoke City",
+      "utc": "2026-11-07T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-07-wrexham-wolverhampton-wanderers",
+      "weekend": "2026-11-07",
+      "name": "Wrexham v Wolverhampton Wanderers",
+      "utc": "2026-11-07T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-07-birmingham-city-swansea-city",
+      "weekend": "2026-11-07",
+      "name": "Birmingham City v Swansea City",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-07-blackburn-rovers-west-ham-united",
+      "weekend": "2026-11-07",
+      "name": "Blackburn Rovers v West Ham United",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-07-cardiff-city-burnley",
+      "weekend": "2026-11-07",
+      "name": "Cardiff City v Burnley",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-07-charlton-athletic-sheffield-united",
+      "weekend": "2026-11-07",
+      "name": "Charlton Athletic v Sheffield United",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-07-preston-north-end-southampton",
+      "weekend": "2026-11-07",
+      "name": "Preston North End v Southampton",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-07-queens-park-rangers-lincoln-city",
+      "weekend": "2026-11-07",
+      "name": "Queens Park Rangers v Lincoln City",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-07-watford-middlesbrough",
+      "weekend": "2026-11-07",
+      "name": "Watford v Middlesbrough",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-07-west-bromwich-albion-millwall",
+      "weekend": "2026-11-07",
+      "name": "West Bromwich Albion v Millwall",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-21-millwall-queens-park-rangers",
+      "weekend": "2026-11-21",
+      "name": "Millwall v Queens Park Rangers",
+      "utc": "2026-11-21T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-21-norwich-city-cardiff-city",
+      "weekend": "2026-11-21",
+      "name": "Norwich City v Cardiff City",
+      "utc": "2026-11-21T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-21-southampton-derby-county",
+      "weekend": "2026-11-21",
+      "name": "Southampton v Derby County",
+      "utc": "2026-11-21T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-21-bolton-wanderers-portsmouth",
+      "weekend": "2026-11-21",
+      "name": "Bolton Wanderers v Portsmouth",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-21-lincoln-city-wrexham",
+      "weekend": "2026-11-21",
+      "name": "Lincoln City v Wrexham",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-21-middlesbrough-bristol-city",
+      "weekend": "2026-11-21",
+      "name": "Middlesbrough v Bristol City",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-21-sheffield-united-watford",
+      "weekend": "2026-11-21",
+      "name": "Sheffield United v Watford",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-21-stoke-city-birmingham-city",
+      "weekend": "2026-11-21",
+      "name": "Stoke City v Birmingham City",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-21-swansea-city-west-bromwich-albion",
+      "weekend": "2026-11-21",
+      "name": "Swansea City v West Bromwich Albion",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-21-west-ham-united-preston-north-end",
+      "weekend": "2026-11-21",
+      "name": "West Ham United v Preston North End",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-21-wolverhampton-wanderers-charlton-athletic",
+      "weekend": "2026-11-21",
+      "name": "Wolverhampton Wanderers v Charlton Athletic",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-22-burnley-blackburn-rovers",
+      "weekend": "2026-11-22",
+      "name": "Burnley v Blackburn Rovers",
+      "utc": "2026-11-22T12:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-24-bristol-city-wrexham",
+      "weekend": "2026-11-24",
+      "name": "Bristol City v Wrexham",
+      "utc": "2026-11-24T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-24-cardiff-city-preston-north-end",
+      "weekend": "2026-11-24",
+      "name": "Cardiff City v Preston North End",
+      "utc": "2026-11-24T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-24-charlton-athletic-lincoln-city",
+      "weekend": "2026-11-24",
+      "name": "Charlton Athletic v Lincoln City",
+      "utc": "2026-11-24T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-24-middlesbrough-swansea-city",
+      "weekend": "2026-11-24",
+      "name": "Middlesbrough v Swansea City",
+      "utc": "2026-11-24T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-24-norwich-city-queens-park-rangers",
+      "weekend": "2026-11-24",
+      "name": "Norwich City v Queens Park Rangers",
+      "utc": "2026-11-24T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-24-portsmouth-west-ham-united",
+      "weekend": "2026-11-24",
+      "name": "Portsmouth v West Ham United",
+      "utc": "2026-11-24T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-24-sheffield-united-southampton",
+      "weekend": "2026-11-24",
+      "name": "Sheffield United v Southampton",
+      "utc": "2026-11-24T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-24-wolverhampton-wanderers-derby-county",
+      "weekend": "2026-11-24",
+      "name": "Wolverhampton Wanderers v Derby County",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-25-bolton-wanderers-west-bromwich-albion",
+      "weekend": "2026-11-25",
+      "name": "Bolton Wanderers v West Bromwich Albion",
+      "utc": "2026-11-25T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-25-burnley-birmingham-city",
+      "weekend": "2026-11-25",
+      "name": "Burnley v Birmingham City",
+      "utc": "2026-11-25T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-25-watford-blackburn-rovers",
+      "weekend": "2026-11-25",
+      "name": "Watford v Blackburn Rovers",
+      "utc": "2026-11-25T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-25-stoke-city-millwall",
+      "weekend": "2026-11-25",
+      "name": "Stoke City v Millwall",
+      "utc": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-27-southampton-middlesbrough",
+      "weekend": "2026-11-27",
+      "name": "Southampton v Middlesbrough",
+      "utc": "2026-11-27T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-28-blackburn-rovers-charlton-athletic",
+      "weekend": "2026-11-28",
+      "name": "Blackburn Rovers v Charlton Athletic",
+      "utc": "2026-11-28T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-28-lincoln-city-wolverhampton-wanderers",
+      "weekend": "2026-11-28",
+      "name": "Lincoln City v Wolverhampton Wanderers",
+      "utc": "2026-11-28T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-28-preston-north-end-norwich-city",
+      "weekend": "2026-11-28",
+      "name": "Preston North End v Norwich City",
+      "utc": "2026-11-28T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-28-birmingham-city-bolton-wanderers",
+      "weekend": "2026-11-28",
+      "name": "Birmingham City v Bolton Wanderers",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-28-derby-county-watford",
+      "weekend": "2026-11-28",
+      "name": "Derby County v Watford",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-28-millwall-burnley",
+      "weekend": "2026-11-28",
+      "name": "Millwall v Burnley",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-28-queens-park-rangers-sheffield-united",
+      "weekend": "2026-11-28",
+      "name": "Queens Park Rangers v Sheffield United",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-28-west-bromwich-albion-bristol-city",
+      "weekend": "2026-11-28",
+      "name": "West Bromwich Albion v Bristol City",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-28-west-ham-united-stoke-city",
+      "weekend": "2026-11-28",
+      "name": "West Ham United v Stoke City",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-28-wrexham-portsmouth",
+      "weekend": "2026-11-28",
+      "name": "Wrexham v Portsmouth",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-11-29-swansea-city-cardiff-city",
+      "weekend": "2026-11-29",
+      "name": "Swansea City v Cardiff City",
+      "utc": "2026-11-29T12:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-04-sheffield-united-west-ham-united",
+      "weekend": "2026-12-04",
+      "name": "Sheffield United v West Ham United",
+      "utc": "2026-12-04T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-05-bolton-wanderers-blackburn-rovers",
+      "weekend": "2026-12-05",
+      "name": "Bolton Wanderers v Blackburn Rovers",
+      "utc": "2026-12-05T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-05-bristol-city-swansea-city",
+      "weekend": "2026-12-05",
+      "name": "Bristol City v Swansea City",
+      "utc": "2026-12-05T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-05-middlesbrough-derby-county",
+      "weekend": "2026-12-05",
+      "name": "Middlesbrough v Derby County",
+      "utc": "2026-12-05T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-05-watford-millwall",
+      "weekend": "2026-12-05",
+      "name": "Watford v Millwall",
+      "utc": "2026-12-05T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-05-cardiff-city-lincoln-city",
+      "weekend": "2026-12-05",
+      "name": "Cardiff City v Lincoln City",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-05-charlton-athletic-birmingham-city",
+      "weekend": "2026-12-05",
+      "name": "Charlton Athletic v Birmingham City",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-05-norwich-city-wrexham",
+      "weekend": "2026-12-05",
+      "name": "Norwich City v Wrexham",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-05-portsmouth-west-bromwich-albion",
+      "weekend": "2026-12-05",
+      "name": "Portsmouth v West Bromwich Albion",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-05-stoke-city-queens-park-rangers",
+      "weekend": "2026-12-05",
+      "name": "Stoke City v Queens Park Rangers",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-05-wolverhampton-wanderers-southampton",
+      "weekend": "2026-12-05",
+      "name": "Wolverhampton Wanderers v Southampton",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-06-burnley-preston-north-end",
+      "weekend": "2026-12-06",
+      "name": "Burnley v Preston North End",
+      "utc": "2026-12-06T12:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-08-birmingham-city-watford",
+      "weekend": "2026-12-08",
+      "name": "Birmingham City v Watford",
+      "utc": "2026-12-08T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-08-blackburn-rovers-norwich-city",
+      "weekend": "2026-12-08",
+      "name": "Blackburn Rovers v Norwich City",
+      "utc": "2026-12-08T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-08-millwall-sheffield-united",
+      "weekend": "2026-12-08",
+      "name": "Millwall v Sheffield United",
+      "utc": "2026-12-08T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-08-queens-park-rangers-wolverhampton-wanderers",
+      "weekend": "2026-12-08",
+      "name": "Queens Park Rangers v Wolverhampton Wanderers",
+      "utc": "2026-12-08T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-08-swansea-city-bolton-wanderers",
+      "weekend": "2026-12-08",
+      "name": "Swansea City v Bolton Wanderers",
+      "utc": "2026-12-08T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-08-west-bromwich-albion-cardiff-city",
+      "weekend": "2026-12-08",
+      "name": "West Bromwich Albion v Cardiff City",
+      "utc": "2026-12-08T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-08-wrexham-charlton-athletic",
+      "weekend": "2026-12-08",
+      "name": "Wrexham v Charlton Athletic",
+      "utc": "2026-12-08T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-08-west-ham-united-middlesbrough",
+      "weekend": "2026-12-08",
+      "name": "West Ham United v Middlesbrough",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-09-derby-county-bristol-city",
+      "weekend": "2026-12-09",
+      "name": "Derby County v Bristol City",
+      "utc": "2026-12-09T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-09-lincoln-city-stoke-city",
+      "weekend": "2026-12-09",
+      "name": "Lincoln City v Stoke City",
+      "utc": "2026-12-09T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-09-preston-north-end-portsmouth",
+      "weekend": "2026-12-09",
+      "name": "Preston North End v Portsmouth",
+      "utc": "2026-12-09T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-09-southampton-burnley",
+      "weekend": "2026-12-09",
+      "name": "Southampton v Burnley",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-11-bolton-wanderers-wrexham",
+      "weekend": "2026-12-11",
+      "name": "Bolton Wanderers v Wrexham",
+      "utc": "2026-12-11T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-12-preston-north-end-middlesbrough",
+      "weekend": "2026-12-12",
+      "name": "Preston North End v Middlesbrough",
+      "utc": "2026-12-12T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-12-queens-park-rangers-watford",
+      "weekend": "2026-12-12",
+      "name": "Queens Park Rangers v Watford",
+      "utc": "2026-12-12T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-12-stoke-city-west-bromwich-albion",
+      "weekend": "2026-12-12",
+      "name": "Stoke City v West Bromwich Albion",
+      "utc": "2026-12-12T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-12-blackburn-rovers-derby-county",
+      "weekend": "2026-12-12",
+      "name": "Blackburn Rovers v Derby County",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-12-cardiff-city-southampton",
+      "weekend": "2026-12-12",
+      "name": "Cardiff City v Southampton",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-12-charlton-athletic-swansea-city",
+      "weekend": "2026-12-12",
+      "name": "Charlton Athletic v Swansea City",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-12-lincoln-city-norwich-city",
+      "weekend": "2026-12-12",
+      "name": "Lincoln City v Norwich City",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-12-portsmouth-birmingham-city",
+      "weekend": "2026-12-12",
+      "name": "Portsmouth v Birmingham City",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-12-sheffield-united-burnley",
+      "weekend": "2026-12-12",
+      "name": "Sheffield United v Burnley",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-12-west-ham-united-bristol-city",
+      "weekend": "2026-12-12",
+      "name": "West Ham United v Bristol City",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-12-wolverhampton-wanderers-millwall",
+      "weekend": "2026-12-12",
+      "name": "Wolverhampton Wanderers v Millwall",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-18-west-bromwich-albion-sheffield-united",
+      "weekend": "2026-12-18",
+      "name": "West Bromwich Albion v Sheffield United",
+      "utc": "2026-12-18T20:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-19-birmingham-city-west-ham-united",
+      "weekend": "2026-12-19",
+      "name": "Birmingham City v West Ham United",
+      "utc": "2026-12-19T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-19-bristol-city-cardiff-city",
+      "weekend": "2026-12-19",
+      "name": "Bristol City v Cardiff City",
+      "utc": "2026-12-19T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-19-millwall-charlton-athletic",
+      "weekend": "2026-12-19",
+      "name": "Millwall v Charlton Athletic",
+      "utc": "2026-12-19T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-19-swansea-city-preston-north-end",
+      "weekend": "2026-12-19",
+      "name": "Swansea City v Preston North End",
+      "utc": "2026-12-19T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-19-watford-bolton-wanderers",
+      "weekend": "2026-12-19",
+      "name": "Watford v Bolton Wanderers",
+      "utc": "2026-12-19T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-19-burnley-stoke-city",
+      "weekend": "2026-12-19",
+      "name": "Burnley v Stoke City",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-19-derby-county-lincoln-city",
+      "weekend": "2026-12-19",
+      "name": "Derby County v Lincoln City",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-19-middlesbrough-portsmouth",
+      "weekend": "2026-12-19",
+      "name": "Middlesbrough v Portsmouth",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-19-norwich-city-wolverhampton-wanderers",
+      "weekend": "2026-12-19",
+      "name": "Norwich City v Wolverhampton Wanderers",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-19-southampton-blackburn-rovers",
+      "weekend": "2026-12-19",
+      "name": "Southampton v Blackburn Rovers",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-19-wrexham-queens-park-rangers",
+      "weekend": "2026-12-19",
+      "name": "Wrexham v Queens Park Rangers",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-bolton-wanderers-burnley",
+      "weekend": "2026-12-26",
+      "name": "Bolton Wanderers v Burnley",
+      "utc": "2026-12-26T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-sheffield-united-middlesbrough",
+      "weekend": "2026-12-26",
+      "name": "Sheffield United v Middlesbrough",
+      "utc": "2026-12-26T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-blackburn-rovers-birmingham-city",
+      "weekend": "2026-12-26",
+      "name": "Blackburn Rovers v Birmingham City",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-cardiff-city-millwall",
+      "weekend": "2026-12-26",
+      "name": "Cardiff City v Millwall",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-charlton-athletic-southampton",
+      "weekend": "2026-12-26",
+      "name": "Charlton Athletic v Southampton",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-lincoln-city-west-bromwich-albion",
+      "weekend": "2026-12-26",
+      "name": "Lincoln City v West Bromwich Albion",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-portsmouth-watford",
+      "weekend": "2026-12-26",
+      "name": "Portsmouth v Watford",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-preston-north-end-derby-county",
+      "weekend": "2026-12-26",
+      "name": "Preston North End v Derby County",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-queens-park-rangers-bristol-city",
+      "weekend": "2026-12-26",
+      "name": "Queens Park Rangers v Bristol City",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-stoke-city-wrexham",
+      "weekend": "2026-12-26",
+      "name": "Stoke City v Wrexham",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-west-ham-united-norwich-city",
+      "weekend": "2026-12-26",
+      "name": "West Ham United v Norwich City",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-26-wolverhampton-wanderers-swansea-city",
+      "weekend": "2026-12-26",
+      "name": "Wolverhampton Wanderers v Swansea City",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-wrexham-blackburn-rovers",
+      "weekend": "2026-12-29",
+      "name": "Wrexham v Blackburn Rovers",
+      "utc": "2026-12-29T18:00:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-birmingham-city-cardiff-city",
+      "weekend": "2026-12-29",
+      "name": "Birmingham City v Cardiff City",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-bristol-city-stoke-city",
+      "weekend": "2026-12-29",
+      "name": "Bristol City v Stoke City",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-burnley-lincoln-city",
+      "weekend": "2026-12-29",
+      "name": "Burnley v Lincoln City",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-derby-county-sheffield-united",
+      "weekend": "2026-12-29",
+      "name": "Derby County v Sheffield United",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-middlesbrough-bolton-wanderers",
+      "weekend": "2026-12-29",
+      "name": "Middlesbrough v Bolton Wanderers",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-millwall-portsmouth",
+      "weekend": "2026-12-29",
+      "name": "Millwall v Portsmouth",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-norwich-city-charlton-athletic",
+      "weekend": "2026-12-29",
+      "name": "Norwich City v Charlton Athletic",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-swansea-city-queens-park-rangers",
+      "weekend": "2026-12-29",
+      "name": "Swansea City v Queens Park Rangers",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-watford-wolverhampton-wanderers",
+      "weekend": "2026-12-29",
+      "name": "Watford v Wolverhampton Wanderers",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-west-bromwich-albion-preston-north-end",
+      "weekend": "2026-12-29",
+      "name": "West Bromwich Albion v Preston North End",
+      "utc": "2026-12-29T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2026-12-29-southampton-west-ham-united",
+      "weekend": "2026-12-29",
+      "name": "Southampton v West Ham United",
+      "utc": "2026-12-29T20:15:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-millwall-wolverhampton-wanderers",
+      "weekend": "2027-01-01",
+      "name": "Millwall v Wolverhampton Wanderers",
+      "utc": "2027-01-01T12:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-birmingham-city-portsmouth",
+      "weekend": "2027-01-01",
+      "name": "Birmingham City v Portsmouth",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-bristol-city-west-ham-united",
+      "weekend": "2027-01-01",
+      "name": "Bristol City v West Ham United",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-derby-county-blackburn-rovers",
+      "weekend": "2027-01-01",
+      "name": "Derby County v Blackburn Rovers",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-middlesbrough-preston-north-end",
+      "weekend": "2027-01-01",
+      "name": "Middlesbrough v Preston North End",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-norwich-city-lincoln-city",
+      "weekend": "2027-01-01",
+      "name": "Norwich City v Lincoln City",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-southampton-cardiff-city",
+      "weekend": "2027-01-01",
+      "name": "Southampton v Cardiff City",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-swansea-city-charlton-athletic",
+      "weekend": "2027-01-01",
+      "name": "Swansea City v Charlton Athletic",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-watford-queens-park-rangers",
+      "weekend": "2027-01-01",
+      "name": "Watford v Queens Park Rangers",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-west-bromwich-albion-stoke-city",
+      "weekend": "2027-01-01",
+      "name": "West Bromwich Albion v Stoke City",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-wrexham-bolton-wanderers",
+      "weekend": "2027-01-01",
+      "name": "Wrexham v Bolton Wanderers",
+      "utc": "2027-01-01T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-01-burnley-sheffield-united",
+      "weekend": "2027-01-01",
+      "name": "Burnley v Sheffield United",
+      "utc": "2027-01-01T17:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-blackburn-rovers-west-bromwich-albion",
+      "weekend": "2027-01-16",
+      "name": "Blackburn Rovers v West Bromwich Albion",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-bolton-wanderers-southampton",
+      "weekend": "2027-01-16",
+      "name": "Bolton Wanderers v Southampton",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-cardiff-city-middlesbrough",
+      "weekend": "2027-01-16",
+      "name": "Cardiff City v Middlesbrough",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-charlton-athletic-watford",
+      "weekend": "2027-01-16",
+      "name": "Charlton Athletic v Watford",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-lincoln-city-millwall",
+      "weekend": "2027-01-16",
+      "name": "Lincoln City v Millwall",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-portsmouth-norwich-city",
+      "weekend": "2027-01-16",
+      "name": "Portsmouth v Norwich City",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-preston-north-end-wrexham",
+      "weekend": "2027-01-16",
+      "name": "Preston North End v Wrexham",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-queens-park-rangers-birmingham-city",
+      "weekend": "2027-01-16",
+      "name": "Queens Park Rangers v Birmingham City",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-sheffield-united-bristol-city",
+      "weekend": "2027-01-16",
+      "name": "Sheffield United v Bristol City",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-stoke-city-derby-county",
+      "weekend": "2027-01-16",
+      "name": "Stoke City v Derby County",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-west-ham-united-swansea-city",
+      "weekend": "2027-01-16",
+      "name": "West Ham United v Swansea City",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-16-wolverhampton-wanderers-burnley",
+      "weekend": "2027-01-16",
+      "name": "Wolverhampton Wanderers v Burnley",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-birmingham-city-lincoln-city",
+      "weekend": "2027-01-23",
+      "name": "Birmingham City v Lincoln City",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-blackburn-rovers-swansea-city",
+      "weekend": "2027-01-23",
+      "name": "Blackburn Rovers v Swansea City",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-bristol-city-bolton-wanderers",
+      "weekend": "2027-01-23",
+      "name": "Bristol City v Bolton Wanderers",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-cardiff-city-wolverhampton-wanderers",
+      "weekend": "2027-01-23",
+      "name": "Cardiff City v Wolverhampton Wanderers",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-charlton-athletic-middlesbrough",
+      "weekend": "2027-01-23",
+      "name": "Charlton Athletic v Middlesbrough",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-derby-county-millwall",
+      "weekend": "2027-01-23",
+      "name": "Derby County v Millwall",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-portsmouth-burnley",
+      "weekend": "2027-01-23",
+      "name": "Portsmouth v Burnley",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-preston-north-end-stoke-city",
+      "weekend": "2027-01-23",
+      "name": "Preston North End v Stoke City",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-queens-park-rangers-southampton",
+      "weekend": "2027-01-23",
+      "name": "Queens Park Rangers v Southampton",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-watford-norwich-city",
+      "weekend": "2027-01-23",
+      "name": "Watford v Norwich City",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-west-bromwich-albion-west-ham-united",
+      "weekend": "2027-01-23",
+      "name": "West Bromwich Albion v West Ham United",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-23-wrexham-sheffield-united",
+      "weekend": "2027-01-23",
+      "name": "Wrexham v Sheffield United",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-26-bolton-wanderers-charlton-athletic",
+      "weekend": "2027-01-26",
+      "name": "Bolton Wanderers v Charlton Athletic",
+      "utc": "2027-01-26T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-26-burnley-queens-park-rangers",
+      "weekend": "2027-01-26",
+      "name": "Burnley v Queens Park Rangers",
+      "utc": "2027-01-26T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-26-lincoln-city-watford",
+      "weekend": "2027-01-26",
+      "name": "Lincoln City v Watford",
+      "utc": "2027-01-26T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-26-millwall-birmingham-city",
+      "weekend": "2027-01-26",
+      "name": "Millwall v Birmingham City",
+      "utc": "2027-01-26T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-26-norwich-city-derby-county",
+      "weekend": "2027-01-26",
+      "name": "Norwich City v Derby County",
+      "utc": "2027-01-26T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-26-sheffield-united-preston-north-end",
+      "weekend": "2027-01-26",
+      "name": "Sheffield United v Preston North End",
+      "utc": "2027-01-26T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-26-southampton-west-bromwich-albion",
+      "weekend": "2027-01-26",
+      "name": "Southampton v West Bromwich Albion",
+      "utc": "2027-01-26T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-26-stoke-city-blackburn-rovers",
+      "weekend": "2027-01-26",
+      "name": "Stoke City v Blackburn Rovers",
+      "utc": "2027-01-26T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-27-middlesbrough-wrexham",
+      "weekend": "2027-01-27",
+      "name": "Middlesbrough v Wrexham",
+      "utc": "2027-01-27T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-27-swansea-city-portsmouth",
+      "weekend": "2027-01-27",
+      "name": "Swansea City v Portsmouth",
+      "utc": "2027-01-27T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-27-west-ham-united-cardiff-city",
+      "weekend": "2027-01-27",
+      "name": "West Ham United v Cardiff City",
+      "utc": "2027-01-27T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-27-wolverhampton-wanderers-bristol-city",
+      "weekend": "2027-01-27",
+      "name": "Wolverhampton Wanderers v Bristol City",
+      "utc": "2027-01-27T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-bolton-wanderers-derby-county",
+      "weekend": "2027-01-30",
+      "name": "Bolton Wanderers v Derby County",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-burnley-cardiff-city",
+      "weekend": "2027-01-30",
+      "name": "Burnley v Cardiff City",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-lincoln-city-queens-park-rangers",
+      "weekend": "2027-01-30",
+      "name": "Lincoln City v Queens Park Rangers",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-middlesbrough-watford",
+      "weekend": "2027-01-30",
+      "name": "Middlesbrough v Watford",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-millwall-west-bromwich-albion",
+      "weekend": "2027-01-30",
+      "name": "Millwall v West Bromwich Albion",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-norwich-city-bristol-city",
+      "weekend": "2027-01-30",
+      "name": "Norwich City v Bristol City",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-sheffield-united-charlton-athletic",
+      "weekend": "2027-01-30",
+      "name": "Sheffield United v Charlton Athletic",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-southampton-preston-north-end",
+      "weekend": "2027-01-30",
+      "name": "Southampton v Preston North End",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-stoke-city-portsmouth",
+      "weekend": "2027-01-30",
+      "name": "Stoke City v Portsmouth",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-swansea-city-birmingham-city",
+      "weekend": "2027-01-30",
+      "name": "Swansea City v Birmingham City",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-west-ham-united-blackburn-rovers",
+      "weekend": "2027-01-30",
+      "name": "West Ham United v Blackburn Rovers",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-01-30-wolverhampton-wanderers-wrexham",
+      "weekend": "2027-01-30",
+      "name": "Wolverhampton Wanderers v Wrexham",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-birmingham-city-stoke-city",
+      "weekend": "2027-02-06",
+      "name": "Birmingham City v Stoke City",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-blackburn-rovers-burnley",
+      "weekend": "2027-02-06",
+      "name": "Blackburn Rovers v Burnley",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-bristol-city-middlesbrough",
+      "weekend": "2027-02-06",
+      "name": "Bristol City v Middlesbrough",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-cardiff-city-norwich-city",
+      "weekend": "2027-02-06",
+      "name": "Cardiff City v Norwich City",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-charlton-athletic-wolverhampton-wanderers",
+      "weekend": "2027-02-06",
+      "name": "Charlton Athletic v Wolverhampton Wanderers",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-derby-county-southampton",
+      "weekend": "2027-02-06",
+      "name": "Derby County v Southampton",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-portsmouth-bolton-wanderers",
+      "weekend": "2027-02-06",
+      "name": "Portsmouth v Bolton Wanderers",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-preston-north-end-west-ham-united",
+      "weekend": "2027-02-06",
+      "name": "Preston North End v West Ham United",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-queens-park-rangers-millwall",
+      "weekend": "2027-02-06",
+      "name": "Queens Park Rangers v Millwall",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-watford-sheffield-united",
+      "weekend": "2027-02-06",
+      "name": "Watford v Sheffield United",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-west-bromwich-albion-swansea-city",
+      "weekend": "2027-02-06",
+      "name": "West Bromwich Albion v Swansea City",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-06-wrexham-lincoln-city",
+      "weekend": "2027-02-06",
+      "name": "Wrexham v Lincoln City",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-birmingham-city-derby-county",
+      "weekend": "2027-02-13",
+      "name": "Birmingham City v Derby County",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-bristol-city-southampton",
+      "weekend": "2027-02-13",
+      "name": "Bristol City v Southampton",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-burnley-swansea-city",
+      "weekend": "2027-02-13",
+      "name": "Burnley v Swansea City",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-cardiff-city-bolton-wanderers",
+      "weekend": "2027-02-13",
+      "name": "Cardiff City v Bolton Wanderers",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-lincoln-city-preston-north-end",
+      "weekend": "2027-02-13",
+      "name": "Lincoln City v Preston North End",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-millwall-blackburn-rovers",
+      "weekend": "2027-02-13",
+      "name": "Millwall v Blackburn Rovers",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-norwich-city-middlesbrough",
+      "weekend": "2027-02-13",
+      "name": "Norwich City v Middlesbrough",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-portsmouth-charlton-athletic",
+      "weekend": "2027-02-13",
+      "name": "Portsmouth v Charlton Athletic",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-queens-park-rangers-west-bromwich-albion",
+      "weekend": "2027-02-13",
+      "name": "Queens Park Rangers v West Bromwich Albion",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-stoke-city-watford",
+      "weekend": "2027-02-13",
+      "name": "Stoke City v Watford",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-wolverhampton-wanderers-sheffield-united",
+      "weekend": "2027-02-13",
+      "name": "Wolverhampton Wanderers v Sheffield United",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-13-wrexham-west-ham-united",
+      "weekend": "2027-02-13",
+      "name": "Wrexham v West Ham United",
+      "utc": "2027-02-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-16-blackburn-rovers-bristol-city",
+      "weekend": "2027-02-16",
+      "name": "Blackburn Rovers v Bristol City",
+      "utc": "2027-02-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-16-charlton-athletic-burnley",
+      "weekend": "2027-02-16",
+      "name": "Charlton Athletic v Burnley",
+      "utc": "2027-02-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-16-derby-county-queens-park-rangers",
+      "weekend": "2027-02-16",
+      "name": "Derby County v Queens Park Rangers",
+      "utc": "2027-02-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-16-preston-north-end-birmingham-city",
+      "weekend": "2027-02-16",
+      "name": "Preston North End v Birmingham City",
+      "utc": "2027-02-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-16-sheffield-united-portsmouth",
+      "weekend": "2027-02-16",
+      "name": "Sheffield United v Portsmouth",
+      "utc": "2027-02-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-16-watford-cardiff-city",
+      "weekend": "2027-02-16",
+      "name": "Watford v Cardiff City",
+      "utc": "2027-02-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-16-west-bromwich-albion-wrexham",
+      "weekend": "2027-02-16",
+      "name": "West Bromwich Albion v Wrexham",
+      "utc": "2027-02-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-16-west-ham-united-lincoln-city",
+      "weekend": "2027-02-16",
+      "name": "West Ham United v Lincoln City",
+      "utc": "2027-02-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-17-bolton-wanderers-wolverhampton-wanderers",
+      "weekend": "2027-02-17",
+      "name": "Bolton Wanderers v Wolverhampton Wanderers",
+      "utc": "2027-02-17T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-17-middlesbrough-stoke-city",
+      "weekend": "2027-02-17",
+      "name": "Middlesbrough v Stoke City",
+      "utc": "2027-02-17T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-17-southampton-norwich-city",
+      "weekend": "2027-02-17",
+      "name": "Southampton v Norwich City",
+      "utc": "2027-02-17T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-17-swansea-city-millwall",
+      "weekend": "2027-02-17",
+      "name": "Swansea City v Millwall",
+      "utc": "2027-02-17T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-20-blackburn-rovers-portsmouth",
+      "weekend": "2027-02-20",
+      "name": "Blackburn Rovers v Portsmouth",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-20-bolton-wanderers-norwich-city",
+      "weekend": "2027-02-20",
+      "name": "Bolton Wanderers v Norwich City",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-20-charlton-athletic-cardiff-city",
+      "weekend": "2027-02-20",
+      "name": "Charlton Athletic v Cardiff City",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-20-derby-county-burnley",
+      "weekend": "2027-02-20",
+      "name": "Derby County v Burnley",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-20-middlesbrough-birmingham-city",
+      "weekend": "2027-02-20",
+      "name": "Middlesbrough v Birmingham City",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-20-preston-north-end-queens-park-rangers",
+      "weekend": "2027-02-20",
+      "name": "Preston North End v Queens Park Rangers",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-20-sheffield-united-stoke-city",
+      "weekend": "2027-02-20",
+      "name": "Sheffield United v Stoke City",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-20-southampton-wrexham",
+      "weekend": "2027-02-20",
+      "name": "Southampton v Wrexham",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-20-swansea-city-lincoln-city",
+      "weekend": "2027-02-20",
+      "name": "Swansea City v Lincoln City",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-20-watford-bristol-city",
+      "weekend": "2027-02-20",
+      "name": "Watford v Bristol City",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-20-west-bromwich-albion-wolverhampton-wanderers",
+      "weekend": "2027-02-20",
+      "name": "West Bromwich Albion v Wolverhampton Wanderers",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-21-west-ham-united-millwall",
+      "weekend": "2027-02-21",
+      "name": "West Ham United v Millwall",
+      "utc": "2027-02-21T12:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-27-birmingham-city-west-bromwich-albion",
+      "weekend": "2027-02-27",
+      "name": "Birmingham City v West Bromwich Albion",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-27-bristol-city-charlton-athletic",
+      "weekend": "2027-02-27",
+      "name": "Bristol City v Charlton Athletic",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-27-burnley-watford",
+      "weekend": "2027-02-27",
+      "name": "Burnley v Watford",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-27-cardiff-city-blackburn-rovers",
+      "weekend": "2027-02-27",
+      "name": "Cardiff City v Blackburn Rovers",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-27-lincoln-city-sheffield-united",
+      "weekend": "2027-02-27",
+      "name": "Lincoln City v Sheffield United",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-27-millwall-preston-north-end",
+      "weekend": "2027-02-27",
+      "name": "Millwall v Preston North End",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-27-norwich-city-swansea-city",
+      "weekend": "2027-02-27",
+      "name": "Norwich City v Swansea City",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-27-queens-park-rangers-west-ham-united",
+      "weekend": "2027-02-27",
+      "name": "Queens Park Rangers v West Ham United",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-27-stoke-city-bolton-wanderers",
+      "weekend": "2027-02-27",
+      "name": "Stoke City v Bolton Wanderers",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-27-wolverhampton-wanderers-middlesbrough",
+      "weekend": "2027-02-27",
+      "name": "Wolverhampton Wanderers v Middlesbrough",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-27-wrexham-derby-county",
+      "weekend": "2027-02-27",
+      "name": "Wrexham v Derby County",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-02-28-portsmouth-southampton",
+      "weekend": "2027-02-28",
+      "name": "Portsmouth v Southampton",
+      "utc": "2027-02-28T12:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-02-bolton-wanderers-queens-park-rangers",
+      "weekend": "2027-03-02",
+      "name": "Bolton Wanderers v Queens Park Rangers",
+      "utc": "2027-03-02T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-02-bristol-city-birmingham-city",
+      "weekend": "2027-03-02",
+      "name": "Bristol City v Birmingham City",
+      "utc": "2027-03-02T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-02-burnley-west-bromwich-albion",
+      "weekend": "2027-03-02",
+      "name": "Burnley v West Bromwich Albion",
+      "utc": "2027-03-02T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-02-cardiff-city-derby-county",
+      "weekend": "2027-03-02",
+      "name": "Cardiff City v Derby County",
+      "utc": "2027-03-02T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-02-charlton-athletic-west-ham-united",
+      "weekend": "2027-03-02",
+      "name": "Charlton Athletic v West Ham United",
+      "utc": "2027-03-02T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-02-middlesbrough-blackburn-rovers",
+      "weekend": "2027-03-02",
+      "name": "Middlesbrough v Blackburn Rovers",
+      "utc": "2027-03-02T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-02-norwich-city-millwall",
+      "weekend": "2027-03-02",
+      "name": "Norwich City v Millwall",
+      "utc": "2027-03-02T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-02-watford-wrexham",
+      "weekend": "2027-03-02",
+      "name": "Watford v Wrexham",
+      "utc": "2027-03-02T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-03-portsmouth-lincoln-city",
+      "weekend": "2027-03-03",
+      "name": "Portsmouth v Lincoln City",
+      "utc": "2027-03-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-03-sheffield-united-swansea-city",
+      "weekend": "2027-03-03",
+      "name": "Sheffield United v Swansea City",
+      "utc": "2027-03-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-03-stoke-city-southampton",
+      "weekend": "2027-03-03",
+      "name": "Stoke City v Southampton",
+      "utc": "2027-03-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-03-wolverhampton-wanderers-preston-north-end",
+      "weekend": "2027-03-03",
+      "name": "Wolverhampton Wanderers v Preston North End",
+      "utc": "2027-03-03T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-birmingham-city-sheffield-united",
+      "weekend": "2027-03-06",
+      "name": "Birmingham City v Sheffield United",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-blackburn-rovers-wolverhampton-wanderers",
+      "weekend": "2027-03-06",
+      "name": "Blackburn Rovers v Wolverhampton Wanderers",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-derby-county-charlton-athletic",
+      "weekend": "2027-03-06",
+      "name": "Derby County v Charlton Athletic",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-lincoln-city-middlesbrough",
+      "weekend": "2027-03-06",
+      "name": "Lincoln City v Middlesbrough",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-millwall-bristol-city",
+      "weekend": "2027-03-06",
+      "name": "Millwall v Bristol City",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-preston-north-end-bolton-wanderers",
+      "weekend": "2027-03-06",
+      "name": "Preston North End v Bolton Wanderers",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-queens-park-rangers-portsmouth",
+      "weekend": "2027-03-06",
+      "name": "Queens Park Rangers v Portsmouth",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-southampton-watford",
+      "weekend": "2027-03-06",
+      "name": "Southampton v Watford",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-swansea-city-stoke-city",
+      "weekend": "2027-03-06",
+      "name": "Swansea City v Stoke City",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-west-bromwich-albion-norwich-city",
+      "weekend": "2027-03-06",
+      "name": "West Bromwich Albion v Norwich City",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-west-ham-united-burnley",
+      "weekend": "2027-03-06",
+      "name": "West Ham United v Burnley",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-06-wrexham-cardiff-city",
+      "weekend": "2027-03-06",
+      "name": "Wrexham v Cardiff City",
+      "utc": "2027-03-06T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-bolton-wanderers-birmingham-city",
+      "weekend": "2027-03-13",
+      "name": "Bolton Wanderers v Birmingham City",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-bristol-city-west-bromwich-albion",
+      "weekend": "2027-03-13",
+      "name": "Bristol City v West Bromwich Albion",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-burnley-millwall",
+      "weekend": "2027-03-13",
+      "name": "Burnley v Millwall",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-cardiff-city-swansea-city",
+      "weekend": "2027-03-13",
+      "name": "Cardiff City v Swansea City",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-charlton-athletic-blackburn-rovers",
+      "weekend": "2027-03-13",
+      "name": "Charlton Athletic v Blackburn Rovers",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-middlesbrough-southampton",
+      "weekend": "2027-03-13",
+      "name": "Middlesbrough v Southampton",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-norwich-city-preston-north-end",
+      "weekend": "2027-03-13",
+      "name": "Norwich City v Preston North End",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-portsmouth-wrexham",
+      "weekend": "2027-03-13",
+      "name": "Portsmouth v Wrexham",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-sheffield-united-queens-park-rangers",
+      "weekend": "2027-03-13",
+      "name": "Sheffield United v Queens Park Rangers",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-stoke-city-west-ham-united",
+      "weekend": "2027-03-13",
+      "name": "Stoke City v West Ham United",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-watford-derby-county",
+      "weekend": "2027-03-13",
+      "name": "Watford v Derby County",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-13-wolverhampton-wanderers-lincoln-city",
+      "weekend": "2027-03-13",
+      "name": "Wolverhampton Wanderers v Lincoln City",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-16-derby-county-middlesbrough",
+      "weekend": "2027-03-16",
+      "name": "Derby County v Middlesbrough",
+      "utc": "2027-03-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-16-lincoln-city-cardiff-city",
+      "weekend": "2027-03-16",
+      "name": "Lincoln City v Cardiff City",
+      "utc": "2027-03-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-16-preston-north-end-burnley",
+      "weekend": "2027-03-16",
+      "name": "Preston North End v Burnley",
+      "utc": "2027-03-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-16-queens-park-rangers-stoke-city",
+      "weekend": "2027-03-16",
+      "name": "Queens Park Rangers v Stoke City",
+      "utc": "2027-03-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-16-southampton-wolverhampton-wanderers",
+      "weekend": "2027-03-16",
+      "name": "Southampton v Wolverhampton Wanderers",
+      "utc": "2027-03-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-16-swansea-city-bristol-city",
+      "weekend": "2027-03-16",
+      "name": "Swansea City v Bristol City",
+      "utc": "2027-03-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-16-west-bromwich-albion-portsmouth",
+      "weekend": "2027-03-16",
+      "name": "West Bromwich Albion v Portsmouth",
+      "utc": "2027-03-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-16-wrexham-norwich-city",
+      "weekend": "2027-03-16",
+      "name": "Wrexham v Norwich City",
+      "utc": "2027-03-16T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-17-birmingham-city-charlton-athletic",
+      "weekend": "2027-03-17",
+      "name": "Birmingham City v Charlton Athletic",
+      "utc": "2027-03-17T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-17-blackburn-rovers-bolton-wanderers",
+      "weekend": "2027-03-17",
+      "name": "Blackburn Rovers v Bolton Wanderers",
+      "utc": "2027-03-17T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-17-millwall-watford",
+      "weekend": "2027-03-17",
+      "name": "Millwall v Watford",
+      "utc": "2027-03-17T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-17-west-ham-united-sheffield-united",
+      "weekend": "2027-03-17",
+      "name": "West Ham United v Sheffield United",
+      "utc": "2027-03-17T19:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-birmingham-city-blackburn-rovers",
+      "weekend": "2027-03-20",
+      "name": "Birmingham City v Blackburn Rovers",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-bristol-city-queens-park-rangers",
+      "weekend": "2027-03-20",
+      "name": "Bristol City v Queens Park Rangers",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-burnley-bolton-wanderers",
+      "weekend": "2027-03-20",
+      "name": "Burnley v Bolton Wanderers",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-derby-county-preston-north-end",
+      "weekend": "2027-03-20",
+      "name": "Derby County v Preston North End",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-middlesbrough-sheffield-united",
+      "weekend": "2027-03-20",
+      "name": "Middlesbrough v Sheffield United",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-millwall-cardiff-city",
+      "weekend": "2027-03-20",
+      "name": "Millwall v Cardiff City",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-norwich-city-west-ham-united",
+      "weekend": "2027-03-20",
+      "name": "Norwich City v West Ham United",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-southampton-charlton-athletic",
+      "weekend": "2027-03-20",
+      "name": "Southampton v Charlton Athletic",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-swansea-city-wolverhampton-wanderers",
+      "weekend": "2027-03-20",
+      "name": "Swansea City v Wolverhampton Wanderers",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-watford-portsmouth",
+      "weekend": "2027-03-20",
+      "name": "Watford v Portsmouth",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-west-bromwich-albion-lincoln-city",
+      "weekend": "2027-03-20",
+      "name": "West Bromwich Albion v Lincoln City",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-03-20-wrexham-stoke-city",
+      "weekend": "2027-03-20",
+      "name": "Wrexham v Stoke City",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-charlton-athletic-millwall",
+      "weekend": "2027-04-03",
+      "name": "Charlton Athletic v Millwall",
+      "utc": "2027-04-03T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-blackburn-rovers-southampton",
+      "weekend": "2027-04-03",
+      "name": "Blackburn Rovers v Southampton",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-bolton-wanderers-watford",
+      "weekend": "2027-04-03",
+      "name": "Bolton Wanderers v Watford",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-cardiff-city-bristol-city",
+      "weekend": "2027-04-03",
+      "name": "Cardiff City v Bristol City",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-lincoln-city-derby-county",
+      "weekend": "2027-04-03",
+      "name": "Lincoln City v Derby County",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-portsmouth-middlesbrough",
+      "weekend": "2027-04-03",
+      "name": "Portsmouth v Middlesbrough",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-preston-north-end-swansea-city",
+      "weekend": "2027-04-03",
+      "name": "Preston North End v Swansea City",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-queens-park-rangers-wrexham",
+      "weekend": "2027-04-03",
+      "name": "Queens Park Rangers v Wrexham",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-sheffield-united-west-bromwich-albion",
+      "weekend": "2027-04-03",
+      "name": "Sheffield United v West Bromwich Albion",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-stoke-city-burnley",
+      "weekend": "2027-04-03",
+      "name": "Stoke City v Burnley",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-west-ham-united-birmingham-city",
+      "weekend": "2027-04-03",
+      "name": "West Ham United v Birmingham City",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-03-wolverhampton-wanderers-norwich-city",
+      "weekend": "2027-04-03",
+      "name": "Wolverhampton Wanderers v Norwich City",
+      "utc": "2027-04-03T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-06-burnley-wrexham",
+      "weekend": "2027-04-06",
+      "name": "Burnley v Wrexham",
+      "utc": "2027-04-06T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-06-lincoln-city-bristol-city",
+      "weekend": "2027-04-06",
+      "name": "Lincoln City v Bristol City",
+      "utc": "2027-04-06T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-06-millwall-middlesbrough",
+      "weekend": "2027-04-06",
+      "name": "Millwall v Middlesbrough",
+      "utc": "2027-04-06T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-06-portsmouth-wolverhampton-wanderers",
+      "weekend": "2027-04-06",
+      "name": "Portsmouth v Wolverhampton Wanderers",
+      "utc": "2027-04-06T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-06-queens-park-rangers-charlton-athletic",
+      "weekend": "2027-04-06",
+      "name": "Queens Park Rangers v Charlton Athletic",
+      "utc": "2027-04-06T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-06-stoke-city-cardiff-city",
+      "weekend": "2027-04-06",
+      "name": "Stoke City v Cardiff City",
+      "utc": "2027-04-06T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-06-swansea-city-southampton",
+      "weekend": "2027-04-06",
+      "name": "Swansea City v Southampton",
+      "utc": "2027-04-06T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-06-west-ham-united-bolton-wanderers",
+      "weekend": "2027-04-06",
+      "name": "West Ham United v Bolton Wanderers",
+      "utc": "2027-04-06T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-07-birmingham-city-norwich-city",
+      "weekend": "2027-04-07",
+      "name": "Birmingham City v Norwich City",
+      "utc": "2027-04-07T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-07-preston-north-end-watford",
+      "weekend": "2027-04-07",
+      "name": "Preston North End v Watford",
+      "utc": "2027-04-07T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-07-sheffield-united-blackburn-rovers",
+      "weekend": "2027-04-07",
+      "name": "Sheffield United v Blackburn Rovers",
+      "utc": "2027-04-07T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-07-west-bromwich-albion-derby-county",
+      "weekend": "2027-04-07",
+      "name": "West Bromwich Albion v Derby County",
+      "utc": "2027-04-07T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-blackburn-rovers-preston-north-end",
+      "weekend": "2027-04-10",
+      "name": "Blackburn Rovers v Preston North End",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-bolton-wanderers-millwall",
+      "weekend": "2027-04-10",
+      "name": "Bolton Wanderers v Millwall",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-bristol-city-burnley",
+      "weekend": "2027-04-10",
+      "name": "Bristol City v Burnley",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-cardiff-city-portsmouth",
+      "weekend": "2027-04-10",
+      "name": "Cardiff City v Portsmouth",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-charlton-athletic-stoke-city",
+      "weekend": "2027-04-10",
+      "name": "Charlton Athletic v Stoke City",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-derby-county-west-ham-united",
+      "weekend": "2027-04-10",
+      "name": "Derby County v West Ham United",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-middlesbrough-queens-park-rangers",
+      "weekend": "2027-04-10",
+      "name": "Middlesbrough v Queens Park Rangers",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-norwich-city-sheffield-united",
+      "weekend": "2027-04-10",
+      "name": "Norwich City v Sheffield United",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-southampton-lincoln-city",
+      "weekend": "2027-04-10",
+      "name": "Southampton v Lincoln City",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-watford-west-bromwich-albion",
+      "weekend": "2027-04-10",
+      "name": "Watford v West Bromwich Albion",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-wolverhampton-wanderers-birmingham-city",
+      "weekend": "2027-04-10",
+      "name": "Wolverhampton Wanderers v Birmingham City",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-10-wrexham-swansea-city",
+      "weekend": "2027-04-10",
+      "name": "Wrexham v Swansea City",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-birmingham-city-wrexham",
+      "weekend": "2027-04-17",
+      "name": "Birmingham City v Wrexham",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-burnley-norwich-city",
+      "weekend": "2027-04-17",
+      "name": "Burnley v Norwich City",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-lincoln-city-bolton-wanderers",
+      "weekend": "2027-04-17",
+      "name": "Lincoln City v Bolton Wanderers",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-millwall-southampton",
+      "weekend": "2027-04-17",
+      "name": "Millwall v Southampton",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-portsmouth-bristol-city",
+      "weekend": "2027-04-17",
+      "name": "Portsmouth v Bristol City",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-preston-north-end-charlton-athletic",
+      "weekend": "2027-04-17",
+      "name": "Preston North End v Charlton Athletic",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-queens-park-rangers-blackburn-rovers",
+      "weekend": "2027-04-17",
+      "name": "Queens Park Rangers v Blackburn Rovers",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-sheffield-united-cardiff-city",
+      "weekend": "2027-04-17",
+      "name": "Sheffield United v Cardiff City",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-stoke-city-wolverhampton-wanderers",
+      "weekend": "2027-04-17",
+      "name": "Stoke City v Wolverhampton Wanderers",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-swansea-city-derby-county",
+      "weekend": "2027-04-17",
+      "name": "Swansea City v Derby County",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-west-bromwich-albion-middlesbrough",
+      "weekend": "2027-04-17",
+      "name": "West Bromwich Albion v Middlesbrough",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-17-west-ham-united-watford",
+      "weekend": "2027-04-17",
+      "name": "West Ham United v Watford",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-20-bolton-wanderers-sheffield-united",
+      "weekend": "2027-04-20",
+      "name": "Bolton Wanderers v Sheffield United",
+      "utc": "2027-04-20T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-20-charlton-athletic-west-bromwich-albion",
+      "weekend": "2027-04-20",
+      "name": "Charlton Athletic v West Bromwich Albion",
+      "utc": "2027-04-20T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-20-derby-county-portsmouth",
+      "weekend": "2027-04-20",
+      "name": "Derby County v Portsmouth",
+      "utc": "2027-04-20T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-20-middlesbrough-burnley",
+      "weekend": "2027-04-20",
+      "name": "Middlesbrough v Burnley",
+      "utc": "2027-04-20T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-20-norwich-city-stoke-city",
+      "weekend": "2027-04-20",
+      "name": "Norwich City v Stoke City",
+      "utc": "2027-04-20T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-20-southampton-birmingham-city",
+      "weekend": "2027-04-20",
+      "name": "Southampton v Birmingham City",
+      "utc": "2027-04-20T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-20-wolverhampton-wanderers-west-ham-united",
+      "weekend": "2027-04-20",
+      "name": "Wolverhampton Wanderers v West Ham United",
+      "utc": "2027-04-20T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-20-wrexham-millwall",
+      "weekend": "2027-04-20",
+      "name": "Wrexham v Millwall",
+      "utc": "2027-04-20T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-21-blackburn-rovers-lincoln-city",
+      "weekend": "2027-04-21",
+      "name": "Blackburn Rovers v Lincoln City",
+      "utc": "2027-04-21T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-21-bristol-city-preston-north-end",
+      "weekend": "2027-04-21",
+      "name": "Bristol City v Preston North End",
+      "utc": "2027-04-21T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-21-cardiff-city-queens-park-rangers",
+      "weekend": "2027-04-21",
+      "name": "Cardiff City v Queens Park Rangers",
+      "utc": "2027-04-21T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-21-watford-swansea-city",
+      "weekend": "2027-04-21",
+      "name": "Watford v Swansea City",
+      "utc": "2027-04-21T18:45:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-bolton-wanderers-swansea-city",
+      "weekend": "2027-04-24",
+      "name": "Bolton Wanderers v Swansea City",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-bristol-city-derby-county",
+      "weekend": "2027-04-24",
+      "name": "Bristol City v Derby County",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-burnley-southampton",
+      "weekend": "2027-04-24",
+      "name": "Burnley v Southampton",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-cardiff-city-west-bromwich-albion",
+      "weekend": "2027-04-24",
+      "name": "Cardiff City v West Bromwich Albion",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-charlton-athletic-wrexham",
+      "weekend": "2027-04-24",
+      "name": "Charlton Athletic v Wrexham",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-middlesbrough-west-ham-united",
+      "weekend": "2027-04-24",
+      "name": "Middlesbrough v West Ham United",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-norwich-city-blackburn-rovers",
+      "weekend": "2027-04-24",
+      "name": "Norwich City v Blackburn Rovers",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-portsmouth-preston-north-end",
+      "weekend": "2027-04-24",
+      "name": "Portsmouth v Preston North End",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-sheffield-united-millwall",
+      "weekend": "2027-04-24",
+      "name": "Sheffield United v Millwall",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-stoke-city-lincoln-city",
+      "weekend": "2027-04-24",
+      "name": "Stoke City v Lincoln City",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-watford-birmingham-city",
+      "weekend": "2027-04-24",
+      "name": "Watford v Birmingham City",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-04-24-wolverhampton-wanderers-queens-park-rangers",
+      "weekend": "2027-04-24",
+      "name": "Wolverhampton Wanderers v Queens Park Rangers",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-birmingham-city-burnley",
+      "weekend": "2027-05-01",
+      "name": "Birmingham City v Burnley",
+      "utc": "2027-05-01T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-blackburn-rovers-watford",
+      "weekend": "2027-05-01",
+      "name": "Blackburn Rovers v Watford",
+      "utc": "2027-05-01T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-derby-county-wolverhampton-wanderers",
+      "weekend": "2027-05-01",
+      "name": "Derby County v Wolverhampton Wanderers",
+      "utc": "2027-05-01T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-lincoln-city-charlton-athletic",
+      "weekend": "2027-05-01",
+      "name": "Lincoln City v Charlton Athletic",
+      "utc": "2027-05-01T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-millwall-stoke-city",
+      "weekend": "2027-05-01",
+      "name": "Millwall v Stoke City",
+      "utc": "2027-05-01T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-preston-north-end-cardiff-city",
+      "weekend": "2027-05-01",
+      "name": "Preston North End v Cardiff City",
+      "utc": "2027-05-01T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-queens-park-rangers-norwich-city",
+      "weekend": "2027-05-01",
+      "name": "Queens Park Rangers v Norwich City",
+      "utc": "2027-05-01T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-southampton-sheffield-united",
+      "weekend": "2027-05-01",
+      "name": "Southampton v Sheffield United",
+      "utc": "2027-05-01T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-swansea-city-middlesbrough",
+      "weekend": "2027-05-01",
+      "name": "Swansea City v Middlesbrough",
+      "utc": "2027-05-01T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-west-bromwich-albion-bolton-wanderers",
+      "weekend": "2027-05-01",
+      "name": "West Bromwich Albion v Bolton Wanderers",
+      "utc": "2027-05-01T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-west-ham-united-portsmouth",
+      "weekend": "2027-05-01",
+      "name": "West Ham United v Portsmouth",
+      "utc": "2027-05-01T11:30:00Z"
+    },
+    {
+      "id": "eng.2-2027-05-01-wrexham-bristol-city",
+      "weekend": "2027-05-01",
+      "name": "Wrexham v Bristol City",
+      "utc": "2027-05-01T11:30:00Z"
+    }
+  ]
+}

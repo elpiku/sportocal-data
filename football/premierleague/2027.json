@@ -1,0 +1,2286 @@
+{
+  "sportKey": "premierleague",
+  "season": "2026-27",
+  "events": [
+    {
+      "id": "pl-2026-08-21-arsenal-coventry-city",
+      "weekend": "2026-08-21",
+      "name": "Arsenal v Coventry City",
+      "utc": "2026-08-21T19:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-22-hull-city-manchester-united",
+      "weekend": "2026-08-22",
+      "name": "Hull City v Manchester United",
+      "utc": "2026-08-22T11:30:00Z"
+    },
+    {
+      "id": "pl-2026-08-22-everton-crystal-palace",
+      "weekend": "2026-08-22",
+      "name": "Everton v Crystal Palace",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-22-ipswich-town-sunderland",
+      "weekend": "2026-08-22",
+      "name": "Ipswich Town v Sunderland",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-22-nottingham-forest-leeds-united",
+      "weekend": "2026-08-22",
+      "name": "Nottingham Forest v Leeds United",
+      "utc": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-22-brentford-tottenham-hotspur",
+      "weekend": "2026-08-22",
+      "name": "Brentford v Tottenham Hotspur",
+      "utc": "2026-08-22T16:30:00Z"
+    },
+    {
+      "id": "pl-2026-08-23-brighton-hove-albion-aston-villa",
+      "weekend": "2026-08-23",
+      "name": "Brighton & Hove Albion v Aston Villa",
+      "utc": "2026-08-23T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-23-manchester-city-afc-bournemouth",
+      "weekend": "2026-08-23",
+      "name": "Manchester City v AFC Bournemouth",
+      "utc": "2026-08-23T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-23-newcastle-united-liverpool",
+      "weekend": "2026-08-23",
+      "name": "Newcastle United v Liverpool",
+      "utc": "2026-08-23T15:30:00Z"
+    },
+    {
+      "id": "pl-2026-08-24-fulham-chelsea",
+      "weekend": "2026-08-24",
+      "name": "Fulham v Chelsea",
+      "utc": "2026-08-24T19:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-28-crystal-palace-manchester-city",
+      "weekend": "2026-08-28",
+      "name": "Crystal Palace v Manchester City",
+      "utc": "2026-08-28T19:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-29-liverpool-nottingham-forest",
+      "weekend": "2026-08-29",
+      "name": "Liverpool v Nottingham Forest",
+      "utc": "2026-08-29T11:30:00Z"
+    },
+    {
+      "id": "pl-2026-08-29-afc-bournemouth-everton",
+      "weekend": "2026-08-29",
+      "name": "AFC Bournemouth v Everton",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-29-coventry-city-hull-city",
+      "weekend": "2026-08-29",
+      "name": "Coventry City v Hull City",
+      "utc": "2026-08-29T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-29-tottenham-hotspur-newcastle-united",
+      "weekend": "2026-08-29",
+      "name": "Tottenham Hotspur v Newcastle United",
+      "utc": "2026-08-29T16:30:00Z"
+    },
+    {
+      "id": "pl-2026-08-30-chelsea-brighton-hove-albion",
+      "weekend": "2026-08-30",
+      "name": "Chelsea v Brighton & Hove Albion",
+      "utc": "2026-08-30T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-30-leeds-united-brentford",
+      "weekend": "2026-08-30",
+      "name": "Leeds United v Brentford",
+      "utc": "2026-08-30T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-30-sunderland-fulham",
+      "weekend": "2026-08-30",
+      "name": "Sunderland v Fulham",
+      "utc": "2026-08-30T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-08-30-manchester-united-ipswich-town",
+      "weekend": "2026-08-30",
+      "name": "Manchester United v Ipswich Town",
+      "utc": "2026-08-30T15:30:00Z"
+    },
+    {
+      "id": "pl-2026-08-31-aston-villa-arsenal",
+      "weekend": "2026-08-31",
+      "name": "Aston Villa v Arsenal",
+      "utc": "2026-08-31T19:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-04-ipswich-town-liverpool",
+      "weekend": "2026-09-04",
+      "name": "Ipswich Town v Liverpool",
+      "utc": "2026-09-04T19:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-05-newcastle-united-afc-bournemouth",
+      "weekend": "2026-09-05",
+      "name": "Newcastle United v AFC Bournemouth",
+      "utc": "2026-09-05T11:30:00Z"
+    },
+    {
+      "id": "pl-2026-09-05-brentford-sunderland",
+      "weekend": "2026-09-05",
+      "name": "Brentford v Sunderland",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-05-brighton-hove-albion-leeds-united",
+      "weekend": "2026-09-05",
+      "name": "Brighton & Hove Albion v Leeds United",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-05-fulham-crystal-palace",
+      "weekend": "2026-09-05",
+      "name": "Fulham v Crystal Palace",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-05-manchester-city-coventry-city",
+      "weekend": "2026-09-05",
+      "name": "Manchester City v Coventry City",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-05-nottingham-forest-tottenham-hotspur",
+      "weekend": "2026-09-05",
+      "name": "Nottingham Forest v Tottenham Hotspur",
+      "utc": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-05-hull-city-aston-villa",
+      "weekend": "2026-09-05",
+      "name": "Hull City v Aston Villa",
+      "utc": "2026-09-05T16:30:00Z"
+    },
+    {
+      "id": "pl-2026-09-06-everton-manchester-united",
+      "weekend": "2026-09-06",
+      "name": "Everton v Manchester United",
+      "utc": "2026-09-06T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-06-arsenal-chelsea",
+      "weekend": "2026-09-06",
+      "name": "Arsenal v Chelsea",
+      "utc": "2026-09-06T15:30:00Z"
+    },
+    {
+      "id": "pl-2026-09-12-afc-bournemouth-brentford",
+      "weekend": "2026-09-12",
+      "name": "AFC Bournemouth v Brentford",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-12-aston-villa-nottingham-forest",
+      "weekend": "2026-09-12",
+      "name": "Aston Villa v Nottingham Forest",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-12-chelsea-hull-city",
+      "weekend": "2026-09-12",
+      "name": "Chelsea v Hull City",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-12-crystal-palace-ipswich-town",
+      "weekend": "2026-09-12",
+      "name": "Crystal Palace v Ipswich Town",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-12-liverpool-fulham",
+      "weekend": "2026-09-12",
+      "name": "Liverpool v Fulham",
+      "utc": "2026-09-12T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-12-tottenham-hotspur-everton",
+      "weekend": "2026-09-12",
+      "name": "Tottenham Hotspur v Everton",
+      "utc": "2026-09-12T16:30:00Z"
+    },
+    {
+      "id": "pl-2026-09-12-sunderland-arsenal",
+      "weekend": "2026-09-12",
+      "name": "Sunderland v Arsenal",
+      "utc": "2026-09-12T19:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-13-coventry-city-brighton-hove-albion",
+      "weekend": "2026-09-13",
+      "name": "Coventry City v Brighton & Hove Albion",
+      "utc": "2026-09-13T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-13-manchester-united-manchester-city",
+      "weekend": "2026-09-13",
+      "name": "Manchester United v Manchester City",
+      "utc": "2026-09-13T15:30:00Z"
+    },
+    {
+      "id": "pl-2026-09-14-leeds-united-newcastle-united",
+      "weekend": "2026-09-14",
+      "name": "Leeds United v Newcastle United",
+      "utc": "2026-09-14T19:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-18-brentford-chelsea",
+      "weekend": "2026-09-18",
+      "name": "Brentford v Chelsea",
+      "utc": "2026-09-18T19:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-19-tottenham-hotspur-aston-villa",
+      "weekend": "2026-09-19",
+      "name": "Tottenham Hotspur v Aston Villa",
+      "utc": "2026-09-19T11:30:00Z"
+    },
+    {
+      "id": "pl-2026-09-19-brighton-hove-albion-arsenal",
+      "weekend": "2026-09-19",
+      "name": "Brighton & Hove Albion v Arsenal",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-19-everton-ipswich-town",
+      "weekend": "2026-09-19",
+      "name": "Everton v Ipswich Town",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-19-leeds-united-crystal-palace",
+      "weekend": "2026-09-19",
+      "name": "Leeds United v Crystal Palace",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-19-manchester-city-sunderland",
+      "weekend": "2026-09-19",
+      "name": "Manchester City v Sunderland",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-19-newcastle-united-hull-city",
+      "weekend": "2026-09-19",
+      "name": "Newcastle United v Hull City",
+      "utc": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-19-nottingham-forest-coventry-city",
+      "weekend": "2026-09-19",
+      "name": "Nottingham Forest v Coventry City",
+      "utc": "2026-09-19T16:30:00Z"
+    },
+    {
+      "id": "pl-2026-09-20-afc-bournemouth-liverpool",
+      "weekend": "2026-09-20",
+      "name": "AFC Bournemouth v Liverpool",
+      "utc": "2026-09-20T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-09-20-fulham-manchester-united",
+      "weekend": "2026-09-20",
+      "name": "Fulham v Manchester United",
+      "utc": "2026-09-20T15:30:00Z"
+    },
+    {
+      "id": "pl-2026-10-10-arsenal-leeds-united",
+      "weekend": "2026-10-10",
+      "name": "Arsenal v Leeds United",
+      "utc": "2026-10-10T11:30:00Z"
+    },
+    {
+      "id": "pl-2026-10-10-aston-villa-brentford",
+      "weekend": "2026-10-10",
+      "name": "Aston Villa v Brentford",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-10-chelsea-afc-bournemouth",
+      "weekend": "2026-10-10",
+      "name": "Chelsea v AFC Bournemouth",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-10-ipswich-town-fulham",
+      "weekend": "2026-10-10",
+      "name": "Ipswich Town v Fulham",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-10-sunderland-brighton-hove-albion",
+      "weekend": "2026-10-10",
+      "name": "Sunderland v Brighton & Hove Albion",
+      "utc": "2026-10-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-10-manchester-united-tottenham-hotspur",
+      "weekend": "2026-10-10",
+      "name": "Manchester United v Tottenham Hotspur",
+      "utc": "2026-10-10T16:30:00Z"
+    },
+    {
+      "id": "pl-2026-10-11-crystal-palace-nottingham-forest",
+      "weekend": "2026-10-11",
+      "name": "Crystal Palace v Nottingham Forest",
+      "utc": "2026-10-11T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-11-hull-city-everton",
+      "weekend": "2026-10-11",
+      "name": "Hull City v Everton",
+      "utc": "2026-10-11T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-11-liverpool-manchester-city",
+      "weekend": "2026-10-11",
+      "name": "Liverpool v Manchester City",
+      "utc": "2026-10-11T15:30:00Z"
+    },
+    {
+      "id": "pl-2026-10-12-coventry-city-newcastle-united",
+      "weekend": "2026-10-12",
+      "name": "Coventry City v Newcastle United",
+      "utc": "2026-10-12T19:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-17-everton-chelsea",
+      "weekend": "2026-10-17",
+      "name": "Everton v Chelsea",
+      "utc": "2026-10-17T11:30:00Z"
+    },
+    {
+      "id": "pl-2026-10-17-brentford-liverpool",
+      "weekend": "2026-10-17",
+      "name": "Brentford v Liverpool",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-17-fulham-hull-city",
+      "weekend": "2026-10-17",
+      "name": "Fulham v Hull City",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-17-manchester-city-ipswich-town",
+      "weekend": "2026-10-17",
+      "name": "Manchester City v Ipswich Town",
+      "utc": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-17-newcastle-united-aston-villa",
+      "weekend": "2026-10-17",
+      "name": "Newcastle United v Aston Villa",
+      "utc": "2026-10-17T16:30:00Z"
+    },
+    {
+      "id": "pl-2026-10-18-afc-bournemouth-sunderland",
+      "weekend": "2026-10-18",
+      "name": "AFC Bournemouth v Sunderland",
+      "utc": "2026-10-18T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-18-brighton-hove-albion-crystal-palace",
+      "weekend": "2026-10-18",
+      "name": "Brighton & Hove Albion v Crystal Palace",
+      "utc": "2026-10-18T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-18-leeds-united-manchester-united",
+      "weekend": "2026-10-18",
+      "name": "Leeds United v Manchester United",
+      "utc": "2026-10-18T13:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-18-nottingham-forest-arsenal",
+      "weekend": "2026-10-18",
+      "name": "Nottingham Forest v Arsenal",
+      "utc": "2026-10-18T15:30:00Z"
+    },
+    {
+      "id": "pl-2026-10-19-tottenham-hotspur-coventry-city",
+      "weekend": "2026-10-19",
+      "name": "Tottenham Hotspur v Coventry City",
+      "utc": "2026-10-19T19:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-23-ipswich-town-nottingham-forest",
+      "weekend": "2026-10-23",
+      "name": "Ipswich Town v Nottingham Forest",
+      "utc": "2026-10-23T19:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-24-aston-villa-manchester-city",
+      "weekend": "2026-10-24",
+      "name": "Aston Villa v Manchester City",
+      "utc": "2026-10-24T11:30:00Z"
+    },
+    {
+      "id": "pl-2026-10-24-arsenal-everton",
+      "weekend": "2026-10-24",
+      "name": "Arsenal v Everton",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-24-coventry-city-fulham",
+      "weekend": "2026-10-24",
+      "name": "Coventry City v Fulham",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-24-liverpool-brighton-hove-albion",
+      "weekend": "2026-10-24",
+      "name": "Liverpool v Brighton & Hove Albion",
+      "utc": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-24-chelsea-tottenham-hotspur",
+      "weekend": "2026-10-24",
+      "name": "Chelsea v Tottenham Hotspur",
+      "utc": "2026-10-24T16:30:00Z"
+    },
+    {
+      "id": "pl-2026-10-25-crystal-palace-newcastle-united",
+      "weekend": "2026-10-25",
+      "name": "Crystal Palace v Newcastle United",
+      "utc": "2026-10-25T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-25-hull-city-brentford",
+      "weekend": "2026-10-25",
+      "name": "Hull City v Brentford",
+      "utc": "2026-10-25T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-25-manchester-united-afc-bournemouth",
+      "weekend": "2026-10-25",
+      "name": "Manchester United v AFC Bournemouth",
+      "utc": "2026-10-25T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-25-sunderland-leeds-united",
+      "weekend": "2026-10-25",
+      "name": "Sunderland v Leeds United",
+      "utc": "2026-10-25T16:30:00Z"
+    },
+    {
+      "id": "pl-2026-10-31-chelsea-manchester-united",
+      "weekend": "2026-10-31",
+      "name": "Chelsea v Manchester United",
+      "utc": "2026-10-31T12:30:00Z"
+    },
+    {
+      "id": "pl-2026-10-31-afc-bournemouth-leeds-united",
+      "weekend": "2026-10-31",
+      "name": "AFC Bournemouth v Leeds United",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-31-brentford-nottingham-forest",
+      "weekend": "2026-10-31",
+      "name": "Brentford v Nottingham Forest",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-31-coventry-city-sunderland",
+      "weekend": "2026-10-31",
+      "name": "Coventry City v Sunderland",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-31-hull-city-ipswich-town",
+      "weekend": "2026-10-31",
+      "name": "Hull City v Ipswich Town",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-31-manchester-city-brighton-hove-albion",
+      "weekend": "2026-10-31",
+      "name": "Manchester City v Brighton & Hove Albion",
+      "utc": "2026-10-31T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-10-31-tottenham-hotspur-crystal-palace",
+      "weekend": "2026-10-31",
+      "name": "Tottenham Hotspur v Crystal Palace",
+      "utc": "2026-10-31T17:30:00Z"
+    },
+    {
+      "id": "pl-2026-11-01-aston-villa-fulham",
+      "weekend": "2026-11-01",
+      "name": "Aston Villa v Fulham",
+      "utc": "2026-11-01T14:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-01-liverpool-arsenal",
+      "weekend": "2026-11-01",
+      "name": "Liverpool v Arsenal",
+      "utc": "2026-11-01T16:30:00Z"
+    },
+    {
+      "id": "pl-2026-11-02-newcastle-united-everton",
+      "weekend": "2026-11-02",
+      "name": "Newcastle United v Everton",
+      "utc": "2026-11-02T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-07-arsenal-hull-city",
+      "weekend": "2026-11-07",
+      "name": "Arsenal v Hull City",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-07-brighton-hove-albion-brentford",
+      "weekend": "2026-11-07",
+      "name": "Brighton & Hove Albion v Brentford",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-07-crystal-palace-liverpool",
+      "weekend": "2026-11-07",
+      "name": "Crystal Palace v Liverpool",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-07-everton-coventry-city",
+      "weekend": "2026-11-07",
+      "name": "Everton v Coventry City",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-07-fulham-newcastle-united",
+      "weekend": "2026-11-07",
+      "name": "Fulham v Newcastle United",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-07-ipswich-town-afc-bournemouth",
+      "weekend": "2026-11-07",
+      "name": "Ipswich Town v AFC Bournemouth",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-07-leeds-united-tottenham-hotspur",
+      "weekend": "2026-11-07",
+      "name": "Leeds United v Tottenham Hotspur",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-07-manchester-united-aston-villa",
+      "weekend": "2026-11-07",
+      "name": "Manchester United v Aston Villa",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-07-nottingham-forest-manchester-city",
+      "weekend": "2026-11-07",
+      "name": "Nottingham Forest v Manchester City",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-07-sunderland-chelsea",
+      "weekend": "2026-11-07",
+      "name": "Sunderland v Chelsea",
+      "utc": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-21-afc-bournemouth-nottingham-forest",
+      "weekend": "2026-11-21",
+      "name": "AFC Bournemouth v Nottingham Forest",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-21-aston-villa-sunderland",
+      "weekend": "2026-11-21",
+      "name": "Aston Villa v Sunderland",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-21-brentford-everton",
+      "weekend": "2026-11-21",
+      "name": "Brentford v Everton",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-21-chelsea-leeds-united",
+      "weekend": "2026-11-21",
+      "name": "Chelsea v Leeds United",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-21-coventry-city-crystal-palace",
+      "weekend": "2026-11-21",
+      "name": "Coventry City v Crystal Palace",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-21-hull-city-brighton-hove-albion",
+      "weekend": "2026-11-21",
+      "name": "Hull City v Brighton & Hove Albion",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-21-liverpool-manchester-united",
+      "weekend": "2026-11-21",
+      "name": "Liverpool v Manchester United",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-21-manchester-city-fulham",
+      "weekend": "2026-11-21",
+      "name": "Manchester City v Fulham",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-21-newcastle-united-arsenal",
+      "weekend": "2026-11-21",
+      "name": "Newcastle United v Arsenal",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-21-tottenham-hotspur-ipswich-town",
+      "weekend": "2026-11-21",
+      "name": "Tottenham Hotspur v Ipswich Town",
+      "utc": "2026-11-21T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-28-arsenal-manchester-city",
+      "weekend": "2026-11-28",
+      "name": "Arsenal v Manchester City",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-28-brighton-hove-albion-newcastle-united",
+      "weekend": "2026-11-28",
+      "name": "Brighton & Hove Albion v Newcastle United",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-28-crystal-palace-hull-city",
+      "weekend": "2026-11-28",
+      "name": "Crystal Palace v Hull City",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-28-everton-liverpool",
+      "weekend": "2026-11-28",
+      "name": "Everton v Liverpool",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-28-fulham-afc-bournemouth",
+      "weekend": "2026-11-28",
+      "name": "Fulham v AFC Bournemouth",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-28-ipswich-town-aston-villa",
+      "weekend": "2026-11-28",
+      "name": "Ipswich Town v Aston Villa",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-28-leeds-united-coventry-city",
+      "weekend": "2026-11-28",
+      "name": "Leeds United v Coventry City",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-28-manchester-united-brentford",
+      "weekend": "2026-11-28",
+      "name": "Manchester United v Brentford",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-28-nottingham-forest-chelsea",
+      "weekend": "2026-11-28",
+      "name": "Nottingham Forest v Chelsea",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-11-28-sunderland-tottenham-hotspur",
+      "weekend": "2026-11-28",
+      "name": "Sunderland v Tottenham Hotspur",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-02-afc-bournemouth-brighton-hove-albion",
+      "weekend": "2026-12-02",
+      "name": "AFC Bournemouth v Brighton & Hove Albion",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-02-aston-villa-everton",
+      "weekend": "2026-12-02",
+      "name": "Aston Villa v Everton",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-02-brentford-arsenal",
+      "weekend": "2026-12-02",
+      "name": "Brentford v Arsenal",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-02-chelsea-crystal-palace",
+      "weekend": "2026-12-02",
+      "name": "Chelsea v Crystal Palace",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-02-coventry-city-ipswich-town",
+      "weekend": "2026-12-02",
+      "name": "Coventry City v Ipswich Town",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-02-hull-city-nottingham-forest",
+      "weekend": "2026-12-02",
+      "name": "Hull City v Nottingham Forest",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-02-liverpool-sunderland",
+      "weekend": "2026-12-02",
+      "name": "Liverpool v Sunderland",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-02-manchester-city-leeds-united",
+      "weekend": "2026-12-02",
+      "name": "Manchester City v Leeds United",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-02-newcastle-united-manchester-united",
+      "weekend": "2026-12-02",
+      "name": "Newcastle United v Manchester United",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-02-tottenham-hotspur-fulham",
+      "weekend": "2026-12-02",
+      "name": "Tottenham Hotspur v Fulham",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-05-afc-bournemouth-hull-city",
+      "weekend": "2026-12-05",
+      "name": "AFC Bournemouth v Hull City",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-05-aston-villa-crystal-palace",
+      "weekend": "2026-12-05",
+      "name": "Aston Villa v Crystal Palace",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-05-brentford-manchester-city",
+      "weekend": "2026-12-05",
+      "name": "Brentford v Manchester City",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-05-chelsea-liverpool",
+      "weekend": "2026-12-05",
+      "name": "Chelsea v Liverpool",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-05-everton-fulham",
+      "weekend": "2026-12-05",
+      "name": "Everton v Fulham",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-05-leeds-united-ipswich-town",
+      "weekend": "2026-12-05",
+      "name": "Leeds United v Ipswich Town",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-05-manchester-united-coventry-city",
+      "weekend": "2026-12-05",
+      "name": "Manchester United v Coventry City",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-05-newcastle-united-sunderland",
+      "weekend": "2026-12-05",
+      "name": "Newcastle United v Sunderland",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-05-nottingham-forest-brighton-hove-albion",
+      "weekend": "2026-12-05",
+      "name": "Nottingham Forest v Brighton & Hove Albion",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-05-tottenham-hotspur-arsenal",
+      "weekend": "2026-12-05",
+      "name": "Tottenham Hotspur v Arsenal",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-12-arsenal-afc-bournemouth",
+      "weekend": "2026-12-12",
+      "name": "Arsenal v AFC Bournemouth",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-12-brighton-hove-albion-everton",
+      "weekend": "2026-12-12",
+      "name": "Brighton & Hove Albion v Everton",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-12-coventry-city-aston-villa",
+      "weekend": "2026-12-12",
+      "name": "Coventry City v Aston Villa",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-12-crystal-palace-manchester-united",
+      "weekend": "2026-12-12",
+      "name": "Crystal Palace v Manchester United",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-12-fulham-brentford",
+      "weekend": "2026-12-12",
+      "name": "Fulham v Brentford",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-12-hull-city-tottenham-hotspur",
+      "weekend": "2026-12-12",
+      "name": "Hull City v Tottenham Hotspur",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-12-ipswich-town-newcastle-united",
+      "weekend": "2026-12-12",
+      "name": "Ipswich Town v Newcastle United",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-12-liverpool-leeds-united",
+      "weekend": "2026-12-12",
+      "name": "Liverpool v Leeds United",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-12-manchester-city-chelsea",
+      "weekend": "2026-12-12",
+      "name": "Manchester City v Chelsea",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-12-sunderland-nottingham-forest",
+      "weekend": "2026-12-12",
+      "name": "Sunderland v Nottingham Forest",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-19-afc-bournemouth-coventry-city",
+      "weekend": "2026-12-19",
+      "name": "AFC Bournemouth v Coventry City",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-19-arsenal-manchester-united",
+      "weekend": "2026-12-19",
+      "name": "Arsenal v Manchester United",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-19-brentford-newcastle-united",
+      "weekend": "2026-12-19",
+      "name": "Brentford v Newcastle United",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-19-brighton-hove-albion-ipswich-town",
+      "weekend": "2026-12-19",
+      "name": "Brighton & Hove Albion v Ipswich Town",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-19-chelsea-aston-villa",
+      "weekend": "2026-12-19",
+      "name": "Chelsea v Aston Villa",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-19-leeds-united-fulham",
+      "weekend": "2026-12-19",
+      "name": "Leeds United v Fulham",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-19-liverpool-tottenham-hotspur",
+      "weekend": "2026-12-19",
+      "name": "Liverpool v Tottenham Hotspur",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-19-manchester-city-hull-city",
+      "weekend": "2026-12-19",
+      "name": "Manchester City v Hull City",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-19-nottingham-forest-everton",
+      "weekend": "2026-12-19",
+      "name": "Nottingham Forest v Everton",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-19-sunderland-crystal-palace",
+      "weekend": "2026-12-19",
+      "name": "Sunderland v Crystal Palace",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-26-aston-villa-leeds-united",
+      "weekend": "2026-12-26",
+      "name": "Aston Villa v Leeds United",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-26-coventry-city-chelsea",
+      "weekend": "2026-12-26",
+      "name": "Coventry City v Chelsea",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-26-crystal-palace-arsenal",
+      "weekend": "2026-12-26",
+      "name": "Crystal Palace v Arsenal",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-26-everton-sunderland",
+      "weekend": "2026-12-26",
+      "name": "Everton v Sunderland",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-26-fulham-brighton-hove-albion",
+      "weekend": "2026-12-26",
+      "name": "Fulham v Brighton & Hove Albion",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-26-hull-city-liverpool",
+      "weekend": "2026-12-26",
+      "name": "Hull City v Liverpool",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-26-ipswich-town-brentford",
+      "weekend": "2026-12-26",
+      "name": "Ipswich Town v Brentford",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-26-manchester-united-nottingham-forest",
+      "weekend": "2026-12-26",
+      "name": "Manchester United v Nottingham Forest",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-26-newcastle-united-manchester-city",
+      "weekend": "2026-12-26",
+      "name": "Newcastle United v Manchester City",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-26-tottenham-hotspur-afc-bournemouth",
+      "weekend": "2026-12-26",
+      "name": "Tottenham Hotspur v AFC Bournemouth",
+      "utc": "2026-12-26T15:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-30-aston-villa-liverpool",
+      "weekend": "2026-12-30",
+      "name": "Aston Villa v Liverpool",
+      "utc": "2026-12-30T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-30-coventry-city-brentford",
+      "weekend": "2026-12-30",
+      "name": "Coventry City v Brentford",
+      "utc": "2026-12-30T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-30-crystal-palace-afc-bournemouth",
+      "weekend": "2026-12-30",
+      "name": "Crystal Palace v AFC Bournemouth",
+      "utc": "2026-12-30T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-30-everton-manchester-city",
+      "weekend": "2026-12-30",
+      "name": "Everton v Manchester City",
+      "utc": "2026-12-30T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-30-fulham-arsenal",
+      "weekend": "2026-12-30",
+      "name": "Fulham v Arsenal",
+      "utc": "2026-12-30T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-30-hull-city-leeds-united",
+      "weekend": "2026-12-30",
+      "name": "Hull City v Leeds United",
+      "utc": "2026-12-30T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-30-ipswich-town-chelsea",
+      "weekend": "2026-12-30",
+      "name": "Ipswich Town v Chelsea",
+      "utc": "2026-12-30T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-30-manchester-united-sunderland",
+      "weekend": "2026-12-30",
+      "name": "Manchester United v Sunderland",
+      "utc": "2026-12-30T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-30-newcastle-united-nottingham-forest",
+      "weekend": "2026-12-30",
+      "name": "Newcastle United v Nottingham Forest",
+      "utc": "2026-12-30T20:00:00Z"
+    },
+    {
+      "id": "pl-2026-12-30-tottenham-hotspur-brighton-hove-albion",
+      "weekend": "2026-12-30",
+      "name": "Tottenham Hotspur v Brighton & Hove Albion",
+      "utc": "2026-12-30T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-02-afc-bournemouth-aston-villa",
+      "weekend": "2027-01-02",
+      "name": "AFC Bournemouth v Aston Villa",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-02-arsenal-ipswich-town",
+      "weekend": "2027-01-02",
+      "name": "Arsenal v Ipswich Town",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-02-brentford-crystal-palace",
+      "weekend": "2027-01-02",
+      "name": "Brentford v Crystal Palace",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-02-brighton-hove-albion-manchester-united",
+      "weekend": "2027-01-02",
+      "name": "Brighton & Hove Albion v Manchester United",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-02-chelsea-newcastle-united",
+      "weekend": "2027-01-02",
+      "name": "Chelsea v Newcastle United",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-02-leeds-united-everton",
+      "weekend": "2027-01-02",
+      "name": "Leeds United v Everton",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-02-liverpool-coventry-city",
+      "weekend": "2027-01-02",
+      "name": "Liverpool v Coventry City",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-02-manchester-city-tottenham-hotspur",
+      "weekend": "2027-01-02",
+      "name": "Manchester City v Tottenham Hotspur",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-02-nottingham-forest-fulham",
+      "weekend": "2027-01-02",
+      "name": "Nottingham Forest v Fulham",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-02-sunderland-hull-city",
+      "weekend": "2027-01-02",
+      "name": "Sunderland v Hull City",
+      "utc": "2027-01-02T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-06-arsenal-brentford",
+      "weekend": "2027-01-06",
+      "name": "Arsenal v Brentford",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-06-brighton-hove-albion-afc-bournemouth",
+      "weekend": "2027-01-06",
+      "name": "Brighton & Hove Albion v AFC Bournemouth",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-06-crystal-palace-chelsea",
+      "weekend": "2027-01-06",
+      "name": "Crystal Palace v Chelsea",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-06-everton-aston-villa",
+      "weekend": "2027-01-06",
+      "name": "Everton v Aston Villa",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-06-fulham-tottenham-hotspur",
+      "weekend": "2027-01-06",
+      "name": "Fulham v Tottenham Hotspur",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-06-ipswich-town-coventry-city",
+      "weekend": "2027-01-06",
+      "name": "Ipswich Town v Coventry City",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-06-leeds-united-manchester-city",
+      "weekend": "2027-01-06",
+      "name": "Leeds United v Manchester City",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-06-manchester-united-newcastle-united",
+      "weekend": "2027-01-06",
+      "name": "Manchester United v Newcastle United",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-06-nottingham-forest-hull-city",
+      "weekend": "2027-01-06",
+      "name": "Nottingham Forest v Hull City",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-06-sunderland-liverpool",
+      "weekend": "2027-01-06",
+      "name": "Sunderland v Liverpool",
+      "utc": "2027-01-06T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-16-afc-bournemouth-ipswich-town",
+      "weekend": "2027-01-16",
+      "name": "AFC Bournemouth v Ipswich Town",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-16-aston-villa-manchester-united",
+      "weekend": "2027-01-16",
+      "name": "Aston Villa v Manchester United",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-16-brentford-brighton-hove-albion",
+      "weekend": "2027-01-16",
+      "name": "Brentford v Brighton & Hove Albion",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-16-chelsea-sunderland",
+      "weekend": "2027-01-16",
+      "name": "Chelsea v Sunderland",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-16-coventry-city-everton",
+      "weekend": "2027-01-16",
+      "name": "Coventry City v Everton",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-16-hull-city-arsenal",
+      "weekend": "2027-01-16",
+      "name": "Hull City v Arsenal",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-16-liverpool-crystal-palace",
+      "weekend": "2027-01-16",
+      "name": "Liverpool v Crystal Palace",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-16-manchester-city-nottingham-forest",
+      "weekend": "2027-01-16",
+      "name": "Manchester City v Nottingham Forest",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-16-newcastle-united-fulham",
+      "weekend": "2027-01-16",
+      "name": "Newcastle United v Fulham",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-16-tottenham-hotspur-leeds-united",
+      "weekend": "2027-01-16",
+      "name": "Tottenham Hotspur v Leeds United",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-23-arsenal-newcastle-united",
+      "weekend": "2027-01-23",
+      "name": "Arsenal v Newcastle United",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-23-brighton-hove-albion-manchester-city",
+      "weekend": "2027-01-23",
+      "name": "Brighton & Hove Albion v Manchester City",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-23-crystal-palace-tottenham-hotspur",
+      "weekend": "2027-01-23",
+      "name": "Crystal Palace v Tottenham Hotspur",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-23-everton-brentford",
+      "weekend": "2027-01-23",
+      "name": "Everton v Brentford",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-23-fulham-aston-villa",
+      "weekend": "2027-01-23",
+      "name": "Fulham v Aston Villa",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-23-ipswich-town-hull-city",
+      "weekend": "2027-01-23",
+      "name": "Ipswich Town v Hull City",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-23-leeds-united-chelsea",
+      "weekend": "2027-01-23",
+      "name": "Leeds United v Chelsea",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-23-manchester-united-liverpool",
+      "weekend": "2027-01-23",
+      "name": "Manchester United v Liverpool",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-23-nottingham-forest-afc-bournemouth",
+      "weekend": "2027-01-23",
+      "name": "Nottingham Forest v AFC Bournemouth",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-23-sunderland-coventry-city",
+      "weekend": "2027-01-23",
+      "name": "Sunderland v Coventry City",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-30-afc-bournemouth-fulham",
+      "weekend": "2027-01-30",
+      "name": "AFC Bournemouth v Fulham",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-30-aston-villa-ipswich-town",
+      "weekend": "2027-01-30",
+      "name": "Aston Villa v Ipswich Town",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-30-brentford-manchester-united",
+      "weekend": "2027-01-30",
+      "name": "Brentford v Manchester United",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-30-chelsea-nottingham-forest",
+      "weekend": "2027-01-30",
+      "name": "Chelsea v Nottingham Forest",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-30-coventry-city-leeds-united",
+      "weekend": "2027-01-30",
+      "name": "Coventry City v Leeds United",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-30-hull-city-crystal-palace",
+      "weekend": "2027-01-30",
+      "name": "Hull City v Crystal Palace",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-30-liverpool-everton",
+      "weekend": "2027-01-30",
+      "name": "Liverpool v Everton",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-30-manchester-city-arsenal",
+      "weekend": "2027-01-30",
+      "name": "Manchester City v Arsenal",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-30-newcastle-united-brighton-hove-albion",
+      "weekend": "2027-01-30",
+      "name": "Newcastle United v Brighton & Hove Albion",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-01-30-tottenham-hotspur-sunderland",
+      "weekend": "2027-01-30",
+      "name": "Tottenham Hotspur v Sunderland",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-06-arsenal-liverpool",
+      "weekend": "2027-02-06",
+      "name": "Arsenal v Liverpool",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-06-brighton-hove-albion-hull-city",
+      "weekend": "2027-02-06",
+      "name": "Brighton & Hove Albion v Hull City",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-06-crystal-palace-coventry-city",
+      "weekend": "2027-02-06",
+      "name": "Crystal Palace v Coventry City",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-06-everton-newcastle-united",
+      "weekend": "2027-02-06",
+      "name": "Everton v Newcastle United",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-06-fulham-manchester-city",
+      "weekend": "2027-02-06",
+      "name": "Fulham v Manchester City",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-06-ipswich-town-tottenham-hotspur",
+      "weekend": "2027-02-06",
+      "name": "Ipswich Town v Tottenham Hotspur",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-06-leeds-united-afc-bournemouth",
+      "weekend": "2027-02-06",
+      "name": "Leeds United v AFC Bournemouth",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-06-manchester-united-chelsea",
+      "weekend": "2027-02-06",
+      "name": "Manchester United v Chelsea",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-06-nottingham-forest-brentford",
+      "weekend": "2027-02-06",
+      "name": "Nottingham Forest v Brentford",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-06-sunderland-aston-villa",
+      "weekend": "2027-02-06",
+      "name": "Sunderland v Aston Villa",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-10-aston-villa-afc-bournemouth",
+      "weekend": "2027-02-10",
+      "name": "Aston Villa v AFC Bournemouth",
+      "utc": "2027-02-10T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-10-coventry-city-liverpool",
+      "weekend": "2027-02-10",
+      "name": "Coventry City v Liverpool",
+      "utc": "2027-02-10T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-10-crystal-palace-brentford",
+      "weekend": "2027-02-10",
+      "name": "Crystal Palace v Brentford",
+      "utc": "2027-02-10T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-10-everton-leeds-united",
+      "weekend": "2027-02-10",
+      "name": "Everton v Leeds United",
+      "utc": "2027-02-10T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-10-fulham-nottingham-forest",
+      "weekend": "2027-02-10",
+      "name": "Fulham v Nottingham Forest",
+      "utc": "2027-02-10T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-10-hull-city-sunderland",
+      "weekend": "2027-02-10",
+      "name": "Hull City v Sunderland",
+      "utc": "2027-02-10T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-10-ipswich-town-arsenal",
+      "weekend": "2027-02-10",
+      "name": "Ipswich Town v Arsenal",
+      "utc": "2027-02-10T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-10-manchester-united-brighton-hove-albion",
+      "weekend": "2027-02-10",
+      "name": "Manchester United v Brighton & Hove Albion",
+      "utc": "2027-02-10T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-10-newcastle-united-chelsea",
+      "weekend": "2027-02-10",
+      "name": "Newcastle United v Chelsea",
+      "utc": "2027-02-10T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-10-tottenham-hotspur-manchester-city",
+      "weekend": "2027-02-10",
+      "name": "Tottenham Hotspur v Manchester City",
+      "utc": "2027-02-10T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-20-afc-bournemouth-crystal-palace",
+      "weekend": "2027-02-20",
+      "name": "AFC Bournemouth v Crystal Palace",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-20-arsenal-fulham",
+      "weekend": "2027-02-20",
+      "name": "Arsenal v Fulham",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-20-brentford-coventry-city",
+      "weekend": "2027-02-20",
+      "name": "Brentford v Coventry City",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-20-brighton-hove-albion-tottenham-hotspur",
+      "weekend": "2027-02-20",
+      "name": "Brighton & Hove Albion v Tottenham Hotspur",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-20-chelsea-ipswich-town",
+      "weekend": "2027-02-20",
+      "name": "Chelsea v Ipswich Town",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-20-leeds-united-aston-villa",
+      "weekend": "2027-02-20",
+      "name": "Leeds United v Aston Villa",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-20-liverpool-hull-city",
+      "weekend": "2027-02-20",
+      "name": "Liverpool v Hull City",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-20-manchester-city-newcastle-united",
+      "weekend": "2027-02-20",
+      "name": "Manchester City v Newcastle United",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-20-nottingham-forest-manchester-united",
+      "weekend": "2027-02-20",
+      "name": "Nottingham Forest v Manchester United",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-20-sunderland-everton",
+      "weekend": "2027-02-20",
+      "name": "Sunderland v Everton",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-27-aston-villa-chelsea",
+      "weekend": "2027-02-27",
+      "name": "Aston Villa v Chelsea",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-27-coventry-city-afc-bournemouth",
+      "weekend": "2027-02-27",
+      "name": "Coventry City v AFC Bournemouth",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-27-crystal-palace-sunderland",
+      "weekend": "2027-02-27",
+      "name": "Crystal Palace v Sunderland",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-27-everton-nottingham-forest",
+      "weekend": "2027-02-27",
+      "name": "Everton v Nottingham Forest",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-27-fulham-leeds-united",
+      "weekend": "2027-02-27",
+      "name": "Fulham v Leeds United",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-27-hull-city-manchester-city",
+      "weekend": "2027-02-27",
+      "name": "Hull City v Manchester City",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-27-ipswich-town-brighton-hove-albion",
+      "weekend": "2027-02-27",
+      "name": "Ipswich Town v Brighton & Hove Albion",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-27-manchester-united-arsenal",
+      "weekend": "2027-02-27",
+      "name": "Manchester United v Arsenal",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-27-newcastle-united-brentford",
+      "weekend": "2027-02-27",
+      "name": "Newcastle United v Brentford",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-02-27-tottenham-hotspur-liverpool",
+      "weekend": "2027-02-27",
+      "name": "Tottenham Hotspur v Liverpool",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-03-afc-bournemouth-tottenham-hotspur",
+      "weekend": "2027-03-03",
+      "name": "AFC Bournemouth v Tottenham Hotspur",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-03-arsenal-crystal-palace",
+      "weekend": "2027-03-03",
+      "name": "Arsenal v Crystal Palace",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-03-brentford-ipswich-town",
+      "weekend": "2027-03-03",
+      "name": "Brentford v Ipswich Town",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-03-brighton-hove-albion-fulham",
+      "weekend": "2027-03-03",
+      "name": "Brighton & Hove Albion v Fulham",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-03-chelsea-coventry-city",
+      "weekend": "2027-03-03",
+      "name": "Chelsea v Coventry City",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-03-leeds-united-hull-city",
+      "weekend": "2027-03-03",
+      "name": "Leeds United v Hull City",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-03-liverpool-aston-villa",
+      "weekend": "2027-03-03",
+      "name": "Liverpool v Aston Villa",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-03-manchester-city-everton",
+      "weekend": "2027-03-03",
+      "name": "Manchester City v Everton",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-03-nottingham-forest-newcastle-united",
+      "weekend": "2027-03-03",
+      "name": "Nottingham Forest v Newcastle United",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-03-sunderland-manchester-united",
+      "weekend": "2027-03-03",
+      "name": "Sunderland v Manchester United",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-13-afc-bournemouth-newcastle-united",
+      "weekend": "2027-03-13",
+      "name": "AFC Bournemouth v Newcastle United",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-13-aston-villa-hull-city",
+      "weekend": "2027-03-13",
+      "name": "Aston Villa v Hull City",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-13-chelsea-arsenal",
+      "weekend": "2027-03-13",
+      "name": "Chelsea v Arsenal",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-13-coventry-city-manchester-city",
+      "weekend": "2027-03-13",
+      "name": "Coventry City v Manchester City",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-13-crystal-palace-fulham",
+      "weekend": "2027-03-13",
+      "name": "Crystal Palace v Fulham",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-13-leeds-united-brighton-hove-albion",
+      "weekend": "2027-03-13",
+      "name": "Leeds United v Brighton & Hove Albion",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-13-liverpool-ipswich-town",
+      "weekend": "2027-03-13",
+      "name": "Liverpool v Ipswich Town",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-13-manchester-united-everton",
+      "weekend": "2027-03-13",
+      "name": "Manchester United v Everton",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-13-sunderland-brentford",
+      "weekend": "2027-03-13",
+      "name": "Sunderland v Brentford",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-13-tottenham-hotspur-nottingham-forest",
+      "weekend": "2027-03-13",
+      "name": "Tottenham Hotspur v Nottingham Forest",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-20-arsenal-sunderland",
+      "weekend": "2027-03-20",
+      "name": "Arsenal v Sunderland",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-20-brentford-afc-bournemouth",
+      "weekend": "2027-03-20",
+      "name": "Brentford v AFC Bournemouth",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-20-brighton-hove-albion-coventry-city",
+      "weekend": "2027-03-20",
+      "name": "Brighton & Hove Albion v Coventry City",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-20-everton-tottenham-hotspur",
+      "weekend": "2027-03-20",
+      "name": "Everton v Tottenham Hotspur",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-20-fulham-liverpool",
+      "weekend": "2027-03-20",
+      "name": "Fulham v Liverpool",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-20-hull-city-chelsea",
+      "weekend": "2027-03-20",
+      "name": "Hull City v Chelsea",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-20-ipswich-town-crystal-palace",
+      "weekend": "2027-03-20",
+      "name": "Ipswich Town v Crystal Palace",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-20-manchester-city-manchester-united",
+      "weekend": "2027-03-20",
+      "name": "Manchester City v Manchester United",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-20-newcastle-united-leeds-united",
+      "weekend": "2027-03-20",
+      "name": "Newcastle United v Leeds United",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-03-20-nottingham-forest-aston-villa",
+      "weekend": "2027-03-20",
+      "name": "Nottingham Forest v Aston Villa",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-10-afc-bournemouth-manchester-city",
+      "weekend": "2027-04-10",
+      "name": "AFC Bournemouth v Manchester City",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-10-aston-villa-brighton-hove-albion",
+      "weekend": "2027-04-10",
+      "name": "Aston Villa v Brighton & Hove Albion",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-10-chelsea-fulham",
+      "weekend": "2027-04-10",
+      "name": "Chelsea v Fulham",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-10-coventry-city-arsenal",
+      "weekend": "2027-04-10",
+      "name": "Coventry City v Arsenal",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-10-crystal-palace-everton",
+      "weekend": "2027-04-10",
+      "name": "Crystal Palace v Everton",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-10-leeds-united-nottingham-forest",
+      "weekend": "2027-04-10",
+      "name": "Leeds United v Nottingham Forest",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-10-liverpool-newcastle-united",
+      "weekend": "2027-04-10",
+      "name": "Liverpool v Newcastle United",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-10-manchester-united-hull-city",
+      "weekend": "2027-04-10",
+      "name": "Manchester United v Hull City",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-10-sunderland-ipswich-town",
+      "weekend": "2027-04-10",
+      "name": "Sunderland v Ipswich Town",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-10-tottenham-hotspur-brentford",
+      "weekend": "2027-04-10",
+      "name": "Tottenham Hotspur v Brentford",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-17-arsenal-aston-villa",
+      "weekend": "2027-04-17",
+      "name": "Arsenal v Aston Villa",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-17-brentford-leeds-united",
+      "weekend": "2027-04-17",
+      "name": "Brentford v Leeds United",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-17-brighton-hove-albion-chelsea",
+      "weekend": "2027-04-17",
+      "name": "Brighton & Hove Albion v Chelsea",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-17-everton-afc-bournemouth",
+      "weekend": "2027-04-17",
+      "name": "Everton v AFC Bournemouth",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-17-fulham-sunderland",
+      "weekend": "2027-04-17",
+      "name": "Fulham v Sunderland",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-17-hull-city-coventry-city",
+      "weekend": "2027-04-17",
+      "name": "Hull City v Coventry City",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-17-ipswich-town-manchester-united",
+      "weekend": "2027-04-17",
+      "name": "Ipswich Town v Manchester United",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-17-manchester-city-crystal-palace",
+      "weekend": "2027-04-17",
+      "name": "Manchester City v Crystal Palace",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-17-newcastle-united-tottenham-hotspur",
+      "weekend": "2027-04-17",
+      "name": "Newcastle United v Tottenham Hotspur",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-17-nottingham-forest-liverpool",
+      "weekend": "2027-04-17",
+      "name": "Nottingham Forest v Liverpool",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-24-afc-bournemouth-arsenal",
+      "weekend": "2027-04-24",
+      "name": "AFC Bournemouth v Arsenal",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-24-aston-villa-coventry-city",
+      "weekend": "2027-04-24",
+      "name": "Aston Villa v Coventry City",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-24-brentford-fulham",
+      "weekend": "2027-04-24",
+      "name": "Brentford v Fulham",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-24-chelsea-manchester-city",
+      "weekend": "2027-04-24",
+      "name": "Chelsea v Manchester City",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-24-everton-brighton-hove-albion",
+      "weekend": "2027-04-24",
+      "name": "Everton v Brighton & Hove Albion",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-24-leeds-united-liverpool",
+      "weekend": "2027-04-24",
+      "name": "Leeds United v Liverpool",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-24-manchester-united-crystal-palace",
+      "weekend": "2027-04-24",
+      "name": "Manchester United v Crystal Palace",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-24-newcastle-united-ipswich-town",
+      "weekend": "2027-04-24",
+      "name": "Newcastle United v Ipswich Town",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-24-nottingham-forest-sunderland",
+      "weekend": "2027-04-24",
+      "name": "Nottingham Forest v Sunderland",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-04-24-tottenham-hotspur-hull-city",
+      "weekend": "2027-04-24",
+      "name": "Tottenham Hotspur v Hull City",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-01-arsenal-tottenham-hotspur",
+      "weekend": "2027-05-01",
+      "name": "Arsenal v Tottenham Hotspur",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-01-brighton-hove-albion-nottingham-forest",
+      "weekend": "2027-05-01",
+      "name": "Brighton & Hove Albion v Nottingham Forest",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-01-coventry-city-manchester-united",
+      "weekend": "2027-05-01",
+      "name": "Coventry City v Manchester United",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-01-crystal-palace-aston-villa",
+      "weekend": "2027-05-01",
+      "name": "Crystal Palace v Aston Villa",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-01-fulham-everton",
+      "weekend": "2027-05-01",
+      "name": "Fulham v Everton",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-01-hull-city-afc-bournemouth",
+      "weekend": "2027-05-01",
+      "name": "Hull City v AFC Bournemouth",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-01-ipswich-town-leeds-united",
+      "weekend": "2027-05-01",
+      "name": "Ipswich Town v Leeds United",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-01-liverpool-chelsea",
+      "weekend": "2027-05-01",
+      "name": "Liverpool v Chelsea",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-01-manchester-city-brentford",
+      "weekend": "2027-05-01",
+      "name": "Manchester City v Brentford",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-01-sunderland-newcastle-united",
+      "weekend": "2027-05-01",
+      "name": "Sunderland v Newcastle United",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-08-afc-bournemouth-manchester-united",
+      "weekend": "2027-05-08",
+      "name": "AFC Bournemouth v Manchester United",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-08-brentford-aston-villa",
+      "weekend": "2027-05-08",
+      "name": "Brentford v Aston Villa",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-08-brighton-hove-albion-sunderland",
+      "weekend": "2027-05-08",
+      "name": "Brighton & Hove Albion v Sunderland",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-08-everton-hull-city",
+      "weekend": "2027-05-08",
+      "name": "Everton v Hull City",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-08-fulham-ipswich-town",
+      "weekend": "2027-05-08",
+      "name": "Fulham v Ipswich Town",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-08-leeds-united-arsenal",
+      "weekend": "2027-05-08",
+      "name": "Leeds United v Arsenal",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-08-manchester-city-liverpool",
+      "weekend": "2027-05-08",
+      "name": "Manchester City v Liverpool",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-08-newcastle-united-coventry-city",
+      "weekend": "2027-05-08",
+      "name": "Newcastle United v Coventry City",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-08-nottingham-forest-crystal-palace",
+      "weekend": "2027-05-08",
+      "name": "Nottingham Forest v Crystal Palace",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-08-tottenham-hotspur-chelsea",
+      "weekend": "2027-05-08",
+      "name": "Tottenham Hotspur v Chelsea",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-15-arsenal-nottingham-forest",
+      "weekend": "2027-05-15",
+      "name": "Arsenal v Nottingham Forest",
+      "utc": "2027-05-15T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-15-aston-villa-newcastle-united",
+      "weekend": "2027-05-15",
+      "name": "Aston Villa v Newcastle United",
+      "utc": "2027-05-15T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-15-chelsea-everton",
+      "weekend": "2027-05-15",
+      "name": "Chelsea v Everton",
+      "utc": "2027-05-15T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-15-coventry-city-tottenham-hotspur",
+      "weekend": "2027-05-15",
+      "name": "Coventry City v Tottenham Hotspur",
+      "utc": "2027-05-15T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-15-crystal-palace-brighton-hove-albion",
+      "weekend": "2027-05-15",
+      "name": "Crystal Palace v Brighton & Hove Albion",
+      "utc": "2027-05-15T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-15-hull-city-fulham",
+      "weekend": "2027-05-15",
+      "name": "Hull City v Fulham",
+      "utc": "2027-05-15T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-15-ipswich-town-manchester-city",
+      "weekend": "2027-05-15",
+      "name": "Ipswich Town v Manchester City",
+      "utc": "2027-05-15T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-15-liverpool-brentford",
+      "weekend": "2027-05-15",
+      "name": "Liverpool v Brentford",
+      "utc": "2027-05-15T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-15-manchester-united-leeds-united",
+      "weekend": "2027-05-15",
+      "name": "Manchester United v Leeds United",
+      "utc": "2027-05-15T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-15-sunderland-afc-bournemouth",
+      "weekend": "2027-05-15",
+      "name": "Sunderland v AFC Bournemouth",
+      "utc": "2027-05-15T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-23-afc-bournemouth-chelsea",
+      "weekend": "2027-05-23",
+      "name": "AFC Bournemouth v Chelsea",
+      "utc": "2027-05-23T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-23-brentford-hull-city",
+      "weekend": "2027-05-23",
+      "name": "Brentford v Hull City",
+      "utc": "2027-05-23T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-23-brighton-hove-albion-liverpool",
+      "weekend": "2027-05-23",
+      "name": "Brighton & Hove Albion v Liverpool",
+      "utc": "2027-05-23T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-23-everton-arsenal",
+      "weekend": "2027-05-23",
+      "name": "Everton v Arsenal",
+      "utc": "2027-05-23T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-23-fulham-coventry-city",
+      "weekend": "2027-05-23",
+      "name": "Fulham v Coventry City",
+      "utc": "2027-05-23T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-23-leeds-united-sunderland",
+      "weekend": "2027-05-23",
+      "name": "Leeds United v Sunderland",
+      "utc": "2027-05-23T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-23-manchester-city-aston-villa",
+      "weekend": "2027-05-23",
+      "name": "Manchester City v Aston Villa",
+      "utc": "2027-05-23T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-23-newcastle-united-crystal-palace",
+      "weekend": "2027-05-23",
+      "name": "Newcastle United v Crystal Palace",
+      "utc": "2027-05-23T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-23-nottingham-forest-ipswich-town",
+      "weekend": "2027-05-23",
+      "name": "Nottingham Forest v Ipswich Town",
+      "utc": "2027-05-23T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-23-tottenham-hotspur-manchester-united",
+      "weekend": "2027-05-23",
+      "name": "Tottenham Hotspur v Manchester United",
+      "utc": "2027-05-23T14:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-30-arsenal-brighton-hove-albion",
+      "weekend": "2027-05-30",
+      "name": "Arsenal v Brighton & Hove Albion",
+      "utc": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-30-aston-villa-tottenham-hotspur",
+      "weekend": "2027-05-30",
+      "name": "Aston Villa v Tottenham Hotspur",
+      "utc": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-30-chelsea-brentford",
+      "weekend": "2027-05-30",
+      "name": "Chelsea v Brentford",
+      "utc": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-30-coventry-city-nottingham-forest",
+      "weekend": "2027-05-30",
+      "name": "Coventry City v Nottingham Forest",
+      "utc": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-30-crystal-palace-leeds-united",
+      "weekend": "2027-05-30",
+      "name": "Crystal Palace v Leeds United",
+      "utc": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-30-hull-city-newcastle-united",
+      "weekend": "2027-05-30",
+      "name": "Hull City v Newcastle United",
+      "utc": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-30-ipswich-town-everton",
+      "weekend": "2027-05-30",
+      "name": "Ipswich Town v Everton",
+      "utc": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-30-liverpool-afc-bournemouth",
+      "weekend": "2027-05-30",
+      "name": "Liverpool v AFC Bournemouth",
+      "utc": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-30-manchester-united-fulham",
+      "weekend": "2027-05-30",
+      "name": "Manchester United v Fulham",
+      "utc": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": "pl-2027-05-30-sunderland-manchester-city",
+      "weekend": "2027-05-30",
+      "name": "Sunderland v Manchester City",
+      "utc": "2027-05-30T15:00:00Z"
+    }
+  ]
+}

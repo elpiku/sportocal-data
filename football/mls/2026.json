@@ -1,0 +1,3072 @@
+{
+  "sportKey": "mls",
+  "season": "2026",
+  "events": [
+    {
+      "id": "mls-2026-02-21-st-louis-city-sc-charlotte-fc",
+      "weekend": "2026-02-21",
+      "name": "St. Louis CITY SC v Charlotte FC",
+      "utc": "2026-02-21T19:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-21-fc-cincinnati-atlanta-united-fc",
+      "weekend": "2026-02-21",
+      "name": "FC Cincinnati v Atlanta United FC",
+      "utc": "2026-02-21T21:45:00Z"
+    },
+    {
+      "id": "mls-2026-02-22-d-c-united-philadelphia-union",
+      "weekend": "2026-02-22",
+      "name": "D.C. United v Philadelphia Union",
+      "utc": "2026-02-22T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-22-orlando-city-sc-red-bull-new-york",
+      "weekend": "2026-02-22",
+      "name": "Orlando City SC v Red Bull New York",
+      "utc": "2026-02-22T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-22-vancouver-whitecaps-real-salt-lake",
+      "weekend": "2026-02-22",
+      "name": "Vancouver Whitecaps v Real Salt Lake",
+      "utc": "2026-02-22T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-22-austin-fc-minnesota-united-fc",
+      "weekend": "2026-02-22",
+      "name": "Austin FC v Minnesota United FC",
+      "utc": "2026-02-22T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-22-fc-dallas-toronto-fc",
+      "weekend": "2026-02-22",
+      "name": "FC Dallas v Toronto FC",
+      "utc": "2026-02-22T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-22-houston-dynamo-fc-chicago-fire-fc",
+      "weekend": "2026-02-22",
+      "name": "Houston Dynamo FC v Chicago Fire FC",
+      "utc": "2026-02-22T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-22-nashville-sc-new-england-revolution",
+      "weekend": "2026-02-22",
+      "name": "Nashville SC v New England Revolution",
+      "utc": "2026-02-22T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-22-lafc-inter-miami-cf",
+      "weekend": "2026-02-22",
+      "name": "LAFC v Inter Miami CF",
+      "utc": "2026-02-22T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-22-portland-timbers-columbus-crew",
+      "weekend": "2026-02-22",
+      "name": "Portland Timbers v Columbus Crew",
+      "utc": "2026-02-22T03:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-22-san-diego-fc-cf-montr-al",
+      "weekend": "2026-02-22",
+      "name": "San Diego FC v CF Montr\u00e9al",
+      "utc": "2026-02-22T03:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-22-san-jose-earthquakes-sporting-kansas-city",
+      "weekend": "2026-02-22",
+      "name": "San Jose Earthquakes v Sporting Kansas City",
+      "utc": "2026-02-22T03:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-23-la-galaxy-new-york-city-fc",
+      "weekend": "2026-02-23",
+      "name": "LA Galaxy v New York City FC",
+      "utc": "2026-02-23T00:00:00Z"
+    },
+    {
+      "id": "mls-2026-02-23-seattle-sounders-fc-colorado-rapids",
+      "weekend": "2026-02-23",
+      "name": "Seattle Sounders FC v Colorado Rapids",
+      "utc": "2026-02-23T02:15:00Z"
+    },
+    {
+      "id": "mls-2026-02-28-chicago-fire-fc-cf-montr-al",
+      "weekend": "2026-02-28",
+      "name": "Chicago Fire FC v CF Montr\u00e9al",
+      "utc": "2026-02-28T19:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-28-red-bull-new-york-new-england-revolution",
+      "weekend": "2026-02-28",
+      "name": "Red Bull New York v New England Revolution",
+      "utc": "2026-02-28T19:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-28-colorado-rapids-portland-timbers",
+      "weekend": "2026-02-28",
+      "name": "Colorado Rapids v Portland Timbers",
+      "utc": "2026-02-28T21:30:00Z"
+    },
+    {
+      "id": "mls-2026-02-28-minnesota-united-fc-fc-cincinnati",
+      "weekend": "2026-02-28",
+      "name": "Minnesota United FC v FC Cincinnati",
+      "utc": "2026-02-28T21:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-01-real-salt-lake-seattle-sounders-fc",
+      "weekend": "2026-03-01",
+      "name": "Real Salt Lake v Seattle Sounders FC",
+      "utc": "2026-03-01T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-01-san-jose-earthquakes-atlanta-united-fc",
+      "weekend": "2026-03-01",
+      "name": "San Jose Earthquakes v Atlanta United FC",
+      "utc": "2026-03-01T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-01-fc-dallas-nashville-sc",
+      "weekend": "2026-03-01",
+      "name": "FC Dallas v Nashville SC",
+      "utc": "2026-03-01T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-01-houston-dynamo-fc-lafc",
+      "weekend": "2026-03-01",
+      "name": "Houston Dynamo FC v LAFC",
+      "utc": "2026-03-01T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-01-sporting-kansas-city-columbus-crew",
+      "weekend": "2026-03-01",
+      "name": "Sporting Kansas City v Columbus Crew",
+      "utc": "2026-03-01T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-01-vancouver-whitecaps-toronto-fc",
+      "weekend": "2026-03-01",
+      "name": "Vancouver Whitecaps v Toronto FC",
+      "utc": "2026-03-01T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-01-la-galaxy-charlotte-fc",
+      "weekend": "2026-03-01",
+      "name": "LA Galaxy v Charlotte FC",
+      "utc": "2026-03-01T03:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-01-austin-fc-d-c-united",
+      "weekend": "2026-03-01",
+      "name": "Austin FC v D.C. United",
+      "utc": "2026-03-01T19:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-01-philadelphia-union-new-york-city-fc",
+      "weekend": "2026-03-01",
+      "name": "Philadelphia Union v New York City FC",
+      "utc": "2026-03-01T21:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-02-orlando-city-sc-inter-miami-cf",
+      "weekend": "2026-03-02",
+      "name": "Orlando City SC v Inter Miami CF",
+      "utc": "2026-03-02T00:00:00Z"
+    },
+    {
+      "id": "mls-2026-03-02-san-diego-fc-st-louis-city-sc",
+      "weekend": "2026-03-02",
+      "name": "San Diego FC v St. Louis CITY SC",
+      "utc": "2026-03-02T02:15:00Z"
+    },
+    {
+      "id": "mls-2026-03-07-new-york-city-fc-orlando-city-sc",
+      "weekend": "2026-03-07",
+      "name": "New York City FC v Orlando City SC",
+      "utc": "2026-03-07T19:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-07-d-c-united-inter-miami-cf",
+      "weekend": "2026-03-07",
+      "name": "D.C. United v Inter Miami CF",
+      "utc": "2026-03-07T21:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-atlanta-united-fc-real-salt-lake",
+      "weekend": "2026-03-08",
+      "name": "Atlanta United FC v Real Salt Lake",
+      "utc": "2026-03-08T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-charlotte-fc-austin-fc",
+      "weekend": "2026-03-08",
+      "name": "Charlotte FC v Austin FC",
+      "utc": "2026-03-08T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-columbus-crew-chicago-fire-fc",
+      "weekend": "2026-03-08",
+      "name": "Columbus Crew v Chicago Fire FC",
+      "utc": "2026-03-08T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-philadelphia-union-san-jose-earthquakes",
+      "weekend": "2026-03-08",
+      "name": "Philadelphia Union v San Jose Earthquakes",
+      "utc": "2026-03-08T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-nashville-sc-minnesota-united-fc",
+      "weekend": "2026-03-08",
+      "name": "Nashville SC v Minnesota United FC",
+      "utc": "2026-03-08T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-sporting-kansas-city-san-diego-fc",
+      "weekend": "2026-03-08",
+      "name": "Sporting Kansas City v San Diego FC",
+      "utc": "2026-03-08T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-st-louis-city-sc-seattle-sounders-fc",
+      "weekend": "2026-03-08",
+      "name": "St. Louis CITY SC v Seattle Sounders FC",
+      "utc": "2026-03-08T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-colorado-rapids-la-galaxy",
+      "weekend": "2026-03-08",
+      "name": "Colorado Rapids v LA Galaxy",
+      "utc": "2026-03-08T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-lafc-fc-dallas",
+      "weekend": "2026-03-08",
+      "name": "LAFC v FC Dallas",
+      "utc": "2026-03-08T03:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-portland-timbers-vancouver-whitecaps",
+      "weekend": "2026-03-08",
+      "name": "Portland Timbers v Vancouver Whitecaps",
+      "utc": "2026-03-08T03:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-red-bull-new-york-cf-montr-al",
+      "weekend": "2026-03-08",
+      "name": "Red Bull New York v CF Montr\u00e9al",
+      "utc": "2026-03-08T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-08-fc-cincinnati-toronto-fc",
+      "weekend": "2026-03-08",
+      "name": "FC Cincinnati v Toronto FC",
+      "utc": "2026-03-08T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-03-14-toronto-fc-red-bull-new-york",
+      "weekend": "2026-03-14",
+      "name": "Toronto FC v Red Bull New York",
+      "utc": "2026-03-14T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-03-14-atlanta-united-fc-philadelphia-union",
+      "weekend": "2026-03-14",
+      "name": "Atlanta United FC v Philadelphia Union",
+      "utc": "2026-03-14T19:15:00Z"
+    },
+    {
+      "id": "mls-2026-03-14-columbus-crew-nashville-sc",
+      "weekend": "2026-03-14",
+      "name": "Columbus Crew v Nashville SC",
+      "utc": "2026-03-14T22:15:00Z"
+    },
+    {
+      "id": "mls-2026-03-14-charlotte-fc-inter-miami-cf",
+      "weekend": "2026-03-14",
+      "name": "Charlotte FC v Inter Miami CF",
+      "utc": "2026-03-14T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-14-new-york-city-fc-colorado-rapids",
+      "weekend": "2026-03-14",
+      "name": "New York City FC v Colorado Rapids",
+      "utc": "2026-03-14T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-14-orlando-city-sc-cf-montr-al",
+      "weekend": "2026-03-14",
+      "name": "Orlando City SC v CF Montr\u00e9al",
+      "utc": "2026-03-14T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-15-chicago-fire-fc-d-c-united",
+      "weekend": "2026-03-15",
+      "name": "Chicago Fire FC v D.C. United",
+      "utc": "2026-03-15T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-15-fc-dallas-san-diego-fc",
+      "weekend": "2026-03-15",
+      "name": "FC Dallas v San Diego FC",
+      "utc": "2026-03-15T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-15-houston-dynamo-fc-portland-timbers",
+      "weekend": "2026-03-15",
+      "name": "Houston Dynamo FC v Portland Timbers",
+      "utc": "2026-03-15T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-15-la-galaxy-sporting-kansas-city",
+      "weekend": "2026-03-15",
+      "name": "LA Galaxy v Sporting Kansas City",
+      "utc": "2026-03-15T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-15-real-salt-lake-austin-fc",
+      "weekend": "2026-03-15",
+      "name": "Real Salt Lake v Austin FC",
+      "utc": "2026-03-15T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-15-lafc-st-louis-city-sc",
+      "weekend": "2026-03-15",
+      "name": "LAFC v St. Louis CITY SC",
+      "utc": "2026-03-15T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-15-new-england-revolution-fc-cincinnati",
+      "weekend": "2026-03-15",
+      "name": "New England Revolution v FC Cincinnati",
+      "utc": "2026-03-15T18:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-15-vancouver-whitecaps-minnesota-united-fc",
+      "weekend": "2026-03-15",
+      "name": "Vancouver Whitecaps v Minnesota United FC",
+      "utc": "2026-03-15T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-15-san-jose-earthquakes-seattle-sounders-fc",
+      "weekend": "2026-03-15",
+      "name": "San Jose Earthquakes v Seattle Sounders FC",
+      "utc": "2026-03-15T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-03-21-toronto-fc-columbus-crew",
+      "weekend": "2026-03-21",
+      "name": "Toronto FC v Columbus Crew",
+      "utc": "2026-03-21T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-03-21-philadelphia-union-chicago-fire-fc",
+      "weekend": "2026-03-21",
+      "name": "Philadelphia Union v Chicago Fire FC",
+      "utc": "2026-03-21T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-21-nashville-sc-orlando-city-sc",
+      "weekend": "2026-03-21",
+      "name": "Nashville SC v Orlando City SC",
+      "utc": "2026-03-21T22:15:00Z"
+    },
+    {
+      "id": "mls-2026-03-21-atlanta-united-fc-d-c-united",
+      "weekend": "2026-03-21",
+      "name": "Atlanta United FC v D.C. United",
+      "utc": "2026-03-21T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-21-charlotte-fc-red-bull-new-york",
+      "weekend": "2026-03-21",
+      "name": "Charlotte FC v Red Bull New York",
+      "utc": "2026-03-21T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-22-fc-dallas-houston-dynamo-fc",
+      "weekend": "2026-03-22",
+      "name": "FC Dallas v Houston Dynamo FC",
+      "utc": "2026-03-22T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-22-sporting-kansas-city-colorado-rapids",
+      "weekend": "2026-03-22",
+      "name": "Sporting Kansas City v Colorado Rapids",
+      "utc": "2026-03-22T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-22-st-louis-city-sc-new-england-revolution",
+      "weekend": "2026-03-22",
+      "name": "St. Louis CITY SC v New England Revolution",
+      "utc": "2026-03-22T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-22-austin-fc-lafc",
+      "weekend": "2026-03-22",
+      "name": "Austin FC v LAFC",
+      "utc": "2026-03-22T00:45:00Z"
+    },
+    {
+      "id": "mls-2026-03-22-vancouver-whitecaps-san-jose-earthquakes",
+      "weekend": "2026-03-22",
+      "name": "Vancouver Whitecaps v San Jose Earthquakes",
+      "utc": "2026-03-22T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-22-fc-cincinnati-cf-montr-al",
+      "weekend": "2026-03-22",
+      "name": "FC Cincinnati v CF Montr\u00e9al",
+      "utc": "2026-03-22T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-03-22-new-york-city-fc-inter-miami-cf",
+      "weekend": "2026-03-22",
+      "name": "New York City FC v Inter Miami CF",
+      "utc": "2026-03-22T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-03-22-minnesota-united-fc-seattle-sounders-fc",
+      "weekend": "2026-03-22",
+      "name": "Minnesota United FC v Seattle Sounders FC",
+      "utc": "2026-03-22T18:30:00Z"
+    },
+    {
+      "id": "mls-2026-03-22-portland-timbers-la-galaxy",
+      "weekend": "2026-03-22",
+      "name": "Portland Timbers v LA Galaxy",
+      "utc": "2026-03-22T20:45:00Z"
+    },
+    {
+      "id": "mls-2026-03-22-san-diego-fc-real-salt-lake",
+      "weekend": "2026-03-22",
+      "name": "San Diego FC v Real Salt Lake",
+      "utc": "2026-03-22T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-04-04-toronto-fc-colorado-rapids",
+      "weekend": "2026-04-04",
+      "name": "Toronto FC v Colorado Rapids",
+      "utc": "2026-04-04T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-04-04-new-england-revolution-cf-montr-al",
+      "weekend": "2026-04-04",
+      "name": "New England Revolution v CF Montr\u00e9al",
+      "utc": "2026-04-04T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-04-real-salt-lake-sporting-kansas-city",
+      "weekend": "2026-04-04",
+      "name": "Real Salt Lake v Sporting Kansas City",
+      "utc": "2026-04-04T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-04-atlanta-united-fc-columbus-crew",
+      "weekend": "2026-04-04",
+      "name": "Atlanta United FC v Columbus Crew",
+      "utc": "2026-04-04T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-04-charlotte-fc-philadelphia-union",
+      "weekend": "2026-04-04",
+      "name": "Charlotte FC v Philadelphia Union",
+      "utc": "2026-04-04T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-04-d-c-united-fc-dallas",
+      "weekend": "2026-04-04",
+      "name": "D.C. United v FC Dallas",
+      "utc": "2026-04-04T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-04-inter-miami-cf-austin-fc",
+      "weekend": "2026-04-04",
+      "name": "Inter Miami CF v Austin FC",
+      "utc": "2026-04-04T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-04-new-york-city-fc-st-louis-city-sc",
+      "weekend": "2026-04-04",
+      "name": "New York City FC v St. Louis CITY SC",
+      "utc": "2026-04-04T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-04-red-bull-new-york-fc-cincinnati",
+      "weekend": "2026-04-04",
+      "name": "Red Bull New York v FC Cincinnati",
+      "utc": "2026-04-04T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-05-chicago-fire-fc-nashville-sc",
+      "weekend": "2026-04-05",
+      "name": "Chicago Fire FC v Nashville SC",
+      "utc": "2026-04-05T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-05-houston-dynamo-fc-seattle-sounders-fc",
+      "weekend": "2026-04-05",
+      "name": "Houston Dynamo FC v Seattle Sounders FC",
+      "utc": "2026-04-05T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-05-lafc-orlando-city-sc",
+      "weekend": "2026-04-05",
+      "name": "LAFC v Orlando City SC",
+      "utc": "2026-04-05T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-05-la-galaxy-minnesota-united-fc",
+      "weekend": "2026-04-05",
+      "name": "LA Galaxy v Minnesota United FC",
+      "utc": "2026-04-05T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-05-san-jose-earthquakes-san-diego-fc",
+      "weekend": "2026-04-05",
+      "name": "San Jose Earthquakes v San Diego FC",
+      "utc": "2026-04-05T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-05-vancouver-whitecaps-portland-timbers",
+      "weekend": "2026-04-05",
+      "name": "Vancouver Whitecaps v Portland Timbers",
+      "utc": "2026-04-05T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-11-toronto-fc-fc-cincinnati",
+      "weekend": "2026-04-11",
+      "name": "Toronto FC v FC Cincinnati",
+      "utc": "2026-04-11T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-04-11-austin-fc-la-galaxy",
+      "weekend": "2026-04-11",
+      "name": "Austin FC v LA Galaxy",
+      "utc": "2026-04-11T18:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-11-cf-montr-al-philadelphia-union",
+      "weekend": "2026-04-11",
+      "name": "CF Montr\u00e9al v Philadelphia Union",
+      "utc": "2026-04-11T18:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-11-portland-timbers-lafc",
+      "weekend": "2026-04-11",
+      "name": "Portland Timbers v LAFC",
+      "utc": "2026-04-11T20:45:00Z"
+    },
+    {
+      "id": "mls-2026-04-11-charlotte-fc-nashville-sc",
+      "weekend": "2026-04-11",
+      "name": "Charlotte FC v Nashville SC",
+      "utc": "2026-04-11T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-11-inter-miami-cf-red-bull-new-york",
+      "weekend": "2026-04-11",
+      "name": "Inter Miami CF v Red Bull New York",
+      "utc": "2026-04-11T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-11-new-england-revolution-d-c-united",
+      "weekend": "2026-04-11",
+      "name": "New England Revolution v D.C. United",
+      "utc": "2026-04-11T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-11-vancouver-whitecaps-new-york-city-fc",
+      "weekend": "2026-04-11",
+      "name": "Vancouver Whitecaps v New York City FC",
+      "utc": "2026-04-11T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-12-chicago-fire-fc-atlanta-united-fc",
+      "weekend": "2026-04-12",
+      "name": "Chicago Fire FC v Atlanta United FC",
+      "utc": "2026-04-12T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-12-fc-dallas-st-louis-city-sc",
+      "weekend": "2026-04-12",
+      "name": "FC Dallas v St. Louis CITY SC",
+      "utc": "2026-04-12T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-12-sporting-kansas-city-san-jose-earthquakes",
+      "weekend": "2026-04-12",
+      "name": "Sporting Kansas City v San Jose Earthquakes",
+      "utc": "2026-04-12T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-12-colorado-rapids-houston-dynamo-fc",
+      "weekend": "2026-04-12",
+      "name": "Colorado Rapids v Houston Dynamo FC",
+      "utc": "2026-04-12T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-12-san-diego-fc-minnesota-united-fc",
+      "weekend": "2026-04-12",
+      "name": "San Diego FC v Minnesota United FC",
+      "utc": "2026-04-12T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-12-columbus-crew-orlando-city-sc",
+      "weekend": "2026-04-12",
+      "name": "Columbus Crew v Orlando City SC",
+      "utc": "2026-04-12T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-04-18-vancouver-whitecaps-sporting-kansas-city",
+      "weekend": "2026-04-18",
+      "name": "Vancouver Whitecaps v Sporting Kansas City",
+      "utc": "2026-04-18T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-18-toronto-fc-austin-fc",
+      "weekend": "2026-04-18",
+      "name": "Toronto FC v Austin FC",
+      "utc": "2026-04-18T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-04-18-cf-montr-al-red-bull-new-york",
+      "weekend": "2026-04-18",
+      "name": "CF Montr\u00e9al v Red Bull New York",
+      "utc": "2026-04-18T18:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-18-colorado-rapids-inter-miami-cf",
+      "weekend": "2026-04-18",
+      "name": "Colorado Rapids v Inter Miami CF",
+      "utc": "2026-04-18T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-18-atlanta-united-fc-nashville-sc",
+      "weekend": "2026-04-18",
+      "name": "Atlanta United FC v Nashville SC",
+      "utc": "2026-04-18T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-18-fc-cincinnati-chicago-fire-fc",
+      "weekend": "2026-04-18",
+      "name": "FC Cincinnati v Chicago Fire FC",
+      "utc": "2026-04-18T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-18-new-england-revolution-columbus-crew",
+      "weekend": "2026-04-18",
+      "name": "New England Revolution v Columbus Crew",
+      "utc": "2026-04-18T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-18-new-york-city-fc-charlotte-fc",
+      "weekend": "2026-04-18",
+      "name": "New York City FC v Charlotte FC",
+      "utc": "2026-04-18T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-18-orlando-city-sc-houston-dynamo-fc",
+      "weekend": "2026-04-18",
+      "name": "Orlando City SC v Houston Dynamo FC",
+      "utc": "2026-04-18T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-18-philadelphia-union-d-c-united",
+      "weekend": "2026-04-18",
+      "name": "Philadelphia Union v D.C. United",
+      "utc": "2026-04-18T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-19-fc-dallas-la-galaxy",
+      "weekend": "2026-04-19",
+      "name": "FC Dallas v LA Galaxy",
+      "utc": "2026-04-19T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-19-minnesota-united-fc-portland-timbers",
+      "weekend": "2026-04-19",
+      "name": "Minnesota United FC v Portland Timbers",
+      "utc": "2026-04-19T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-19-real-salt-lake-san-diego-fc",
+      "weekend": "2026-04-19",
+      "name": "Real Salt Lake v San Diego FC",
+      "utc": "2026-04-19T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-19-seattle-sounders-fc-st-louis-city-sc",
+      "weekend": "2026-04-19",
+      "name": "Seattle Sounders FC v St. Louis CITY SC",
+      "utc": "2026-04-19T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-19-lafc-san-jose-earthquakes",
+      "weekend": "2026-04-19",
+      "name": "LAFC v San Jose Earthquakes",
+      "utc": "2026-04-19T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-04-22-new-york-city-fc-fc-cincinnati",
+      "weekend": "2026-04-22",
+      "name": "New York City FC v FC Cincinnati",
+      "utc": "2026-04-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-22-orlando-city-sc-charlotte-fc",
+      "weekend": "2026-04-22",
+      "name": "Orlando City SC v Charlotte FC",
+      "utc": "2026-04-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-22-red-bull-new-york-d-c-united",
+      "weekend": "2026-04-22",
+      "name": "Red Bull New York v D.C. United",
+      "utc": "2026-04-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-22-toronto-fc-philadelphia-union",
+      "weekend": "2026-04-22",
+      "name": "Toronto FC v Philadelphia Union",
+      "utc": "2026-04-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-22-atlanta-united-fc-new-england-revolution",
+      "weekend": "2026-04-22",
+      "name": "Atlanta United FC v New England Revolution",
+      "utc": "2026-04-22T23:45:00Z"
+    },
+    {
+      "id": "mls-2026-04-23-fc-dallas-minnesota-united-fc",
+      "weekend": "2026-04-23",
+      "name": "FC Dallas v Minnesota United FC",
+      "utc": "2026-04-23T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-23-houston-dynamo-fc-san-diego-fc",
+      "weekend": "2026-04-23",
+      "name": "Houston Dynamo FC v San Diego FC",
+      "utc": "2026-04-23T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-23-real-salt-lake-inter-miami-cf",
+      "weekend": "2026-04-23",
+      "name": "Real Salt Lake v Inter Miami CF",
+      "utc": "2026-04-23T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-23-columbus-crew-la-galaxy",
+      "weekend": "2026-04-23",
+      "name": "Columbus Crew v LA Galaxy",
+      "utc": "2026-04-23T01:45:00Z"
+    },
+    {
+      "id": "mls-2026-04-23-lafc-colorado-rapids",
+      "weekend": "2026-04-23",
+      "name": "LAFC v Colorado Rapids",
+      "utc": "2026-04-23T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-23-san-jose-earthquakes-austin-fc",
+      "weekend": "2026-04-23",
+      "name": "San Jose Earthquakes v Austin FC",
+      "utc": "2026-04-23T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-25-toronto-fc-atlanta-united-fc",
+      "weekend": "2026-04-25",
+      "name": "Toronto FC v Atlanta United FC",
+      "utc": "2026-04-25T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-04-25-cf-montr-al-new-york-city-fc",
+      "weekend": "2026-04-25",
+      "name": "CF Montr\u00e9al v New York City FC",
+      "utc": "2026-04-25T18:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-25-minnesota-united-fc-lafc",
+      "weekend": "2026-04-25",
+      "name": "Minnesota United FC v LAFC",
+      "utc": "2026-04-25T20:45:00Z"
+    },
+    {
+      "id": "mls-2026-04-25-columbus-crew-philadelphia-union",
+      "weekend": "2026-04-25",
+      "name": "Columbus Crew v Philadelphia Union",
+      "utc": "2026-04-25T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-25-d-c-united-orlando-city-sc",
+      "weekend": "2026-04-25",
+      "name": "D.C. United v Orlando City SC",
+      "utc": "2026-04-25T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-25-fc-cincinnati-red-bull-new-york",
+      "weekend": "2026-04-25",
+      "name": "FC Cincinnati v Red Bull New York",
+      "utc": "2026-04-25T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-25-inter-miami-cf-new-england-revolution",
+      "weekend": "2026-04-25",
+      "name": "Inter Miami CF v New England Revolution",
+      "utc": "2026-04-25T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-26-austin-fc-houston-dynamo-fc",
+      "weekend": "2026-04-26",
+      "name": "Austin FC v Houston Dynamo FC",
+      "utc": "2026-04-26T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-26-chicago-fire-fc-sporting-kansas-city",
+      "weekend": "2026-04-26",
+      "name": "Chicago Fire FC v Sporting Kansas City",
+      "utc": "2026-04-26T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-26-nashville-sc-charlotte-fc",
+      "weekend": "2026-04-26",
+      "name": "Nashville SC v Charlotte FC",
+      "utc": "2026-04-26T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-26-st-louis-city-sc-san-jose-earthquakes",
+      "weekend": "2026-04-26",
+      "name": "St. Louis CITY SC v San Jose Earthquakes",
+      "utc": "2026-04-26T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-26-san-diego-fc-portland-timbers",
+      "weekend": "2026-04-26",
+      "name": "San Diego FC v Portland Timbers",
+      "utc": "2026-04-26T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-26-seattle-sounders-fc-fc-dallas",
+      "weekend": "2026-04-26",
+      "name": "Seattle Sounders FC v FC Dallas",
+      "utc": "2026-04-26T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-26-vancouver-whitecaps-colorado-rapids",
+      "weekend": "2026-04-26",
+      "name": "Vancouver Whitecaps v Colorado Rapids",
+      "utc": "2026-04-26T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-04-26-la-galaxy-real-salt-lake",
+      "weekend": "2026-04-26",
+      "name": "LA Galaxy v Real Salt Lake",
+      "utc": "2026-04-26T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-05-02-toronto-fc-san-jose-earthquakes",
+      "weekend": "2026-05-02",
+      "name": "Toronto FC v San Jose Earthquakes",
+      "utc": "2026-05-02T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-05-02-sporting-kansas-city-seattle-sounders-fc",
+      "weekend": "2026-05-02",
+      "name": "Sporting Kansas City v Seattle Sounders FC",
+      "utc": "2026-05-02T18:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-02-real-salt-lake-portland-timbers",
+      "weekend": "2026-05-02",
+      "name": "Real Salt Lake v Portland Timbers",
+      "utc": "2026-05-02T20:45:00Z"
+    },
+    {
+      "id": "mls-2026-05-02-inter-miami-cf-orlando-city-sc",
+      "weekend": "2026-05-02",
+      "name": "Inter Miami CF v Orlando City SC",
+      "utc": "2026-05-02T23:15:00Z"
+    },
+    {
+      "id": "mls-2026-05-02-atlanta-united-fc-cf-montr-al",
+      "weekend": "2026-05-02",
+      "name": "Atlanta United FC v CF Montr\u00e9al",
+      "utc": "2026-05-02T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-02-columbus-crew-minnesota-united-fc",
+      "weekend": "2026-05-02",
+      "name": "Columbus Crew v Minnesota United FC",
+      "utc": "2026-05-02T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-02-new-england-revolution-charlotte-fc",
+      "weekend": "2026-05-02",
+      "name": "New England Revolution v Charlotte FC",
+      "utc": "2026-05-02T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-02-philadelphia-union-nashville-sc",
+      "weekend": "2026-05-02",
+      "name": "Philadelphia Union v Nashville SC",
+      "utc": "2026-05-02T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-02-red-bull-new-york-fc-dallas",
+      "weekend": "2026-05-02",
+      "name": "Red Bull New York v FC Dallas",
+      "utc": "2026-05-02T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-03-chicago-fire-fc-fc-cincinnati",
+      "weekend": "2026-05-03",
+      "name": "Chicago Fire FC v FC Cincinnati",
+      "utc": "2026-05-03T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-03-houston-dynamo-fc-colorado-rapids",
+      "weekend": "2026-05-03",
+      "name": "Houston Dynamo FC v Colorado Rapids",
+      "utc": "2026-05-03T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-03-san-diego-fc-lafc",
+      "weekend": "2026-05-03",
+      "name": "San Diego FC v LAFC",
+      "utc": "2026-05-03T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-03-la-galaxy-vancouver-whitecaps",
+      "weekend": "2026-05-03",
+      "name": "LA Galaxy v Vancouver Whitecaps",
+      "utc": "2026-05-03T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-03-new-york-city-fc-d-c-united",
+      "weekend": "2026-05-03",
+      "name": "New York City FC v D.C. United",
+      "utc": "2026-05-03T19:00:00Z"
+    },
+    {
+      "id": "mls-2026-05-03-austin-fc-st-louis-city-sc",
+      "weekend": "2026-05-03",
+      "name": "Austin FC v St. Louis CITY SC",
+      "utc": "2026-05-03T21:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-09-toronto-fc-inter-miami-cf",
+      "weekend": "2026-05-09",
+      "name": "Toronto FC v Inter Miami CF",
+      "utc": "2026-05-09T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-05-09-chicago-fire-fc-red-bull-new-york",
+      "weekend": "2026-05-09",
+      "name": "Chicago Fire FC v Red Bull New York",
+      "utc": "2026-05-09T18:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-09-cf-montr-al-orlando-city-sc",
+      "weekend": "2026-05-09",
+      "name": "CF Montr\u00e9al v Orlando City SC",
+      "utc": "2026-05-09T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-09-atlanta-united-fc-la-galaxy",
+      "weekend": "2026-05-09",
+      "name": "Atlanta United FC v LA Galaxy",
+      "utc": "2026-05-09T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-09-charlotte-fc-fc-cincinnati",
+      "weekend": "2026-05-09",
+      "name": "Charlotte FC v FC Cincinnati",
+      "utc": "2026-05-09T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-09-new-england-revolution-philadelphia-union",
+      "weekend": "2026-05-09",
+      "name": "New England Revolution v Philadelphia Union",
+      "utc": "2026-05-09T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-10-fc-dallas-real-salt-lake",
+      "weekend": "2026-05-10",
+      "name": "FC Dallas v Real Salt Lake",
+      "utc": "2026-05-10T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-10-nashville-sc-d-c-united",
+      "weekend": "2026-05-10",
+      "name": "Nashville SC v D.C. United",
+      "utc": "2026-05-10T01:15:00Z"
+    },
+    {
+      "id": "mls-2026-05-10-colorado-rapids-st-louis-city-sc",
+      "weekend": "2026-05-10",
+      "name": "Colorado Rapids v St. Louis CITY SC",
+      "utc": "2026-05-10T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-10-portland-timbers-sporting-kansas-city",
+      "weekend": "2026-05-10",
+      "name": "Portland Timbers v Sporting Kansas City",
+      "utc": "2026-05-10T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-10-san-jose-earthquakes-vancouver-whitecaps",
+      "weekend": "2026-05-10",
+      "name": "San Jose Earthquakes v Vancouver Whitecaps",
+      "utc": "2026-05-10T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-10-seattle-sounders-fc-san-diego-fc",
+      "weekend": "2026-05-10",
+      "name": "Seattle Sounders FC v San Diego FC",
+      "utc": "2026-05-10T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-10-new-york-city-fc-columbus-crew",
+      "weekend": "2026-05-10",
+      "name": "New York City FC v Columbus Crew",
+      "utc": "2026-05-10T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-10-minnesota-united-fc-austin-fc",
+      "weekend": "2026-05-10",
+      "name": "Minnesota United FC v Austin FC",
+      "utc": "2026-05-10T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-05-11-lafc-houston-dynamo-fc",
+      "weekend": "2026-05-11",
+      "name": "LAFC v Houston Dynamo FC",
+      "utc": "2026-05-11T01:00:00Z"
+    },
+    {
+      "id": "mls-2026-05-13-charlotte-fc-new-york-city-fc",
+      "weekend": "2026-05-13",
+      "name": "Charlotte FC v New York City FC",
+      "utc": "2026-05-13T23:15:00Z"
+    },
+    {
+      "id": "mls-2026-05-13-cf-montr-al-portland-timbers",
+      "weekend": "2026-05-13",
+      "name": "CF Montr\u00e9al v Portland Timbers",
+      "utc": "2026-05-13T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-13-d-c-united-chicago-fire-fc",
+      "weekend": "2026-05-13",
+      "name": "D.C. United v Chicago Fire FC",
+      "utc": "2026-05-13T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-13-fc-cincinnati-inter-miami-cf",
+      "weekend": "2026-05-13",
+      "name": "FC Cincinnati v Inter Miami CF",
+      "utc": "2026-05-13T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-13-new-england-revolution-nashville-sc",
+      "weekend": "2026-05-13",
+      "name": "New England Revolution v Nashville SC",
+      "utc": "2026-05-13T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-13-orlando-city-sc-philadelphia-union",
+      "weekend": "2026-05-13",
+      "name": "Orlando City SC v Philadelphia Union",
+      "utc": "2026-05-13T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-13-red-bull-new-york-columbus-crew",
+      "weekend": "2026-05-13",
+      "name": "Red Bull New York v Columbus Crew",
+      "utc": "2026-05-13T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-14-fc-dallas-vancouver-whitecaps",
+      "weekend": "2026-05-14",
+      "name": "FC Dallas v Vancouver Whitecaps",
+      "utc": "2026-05-14T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-14-minnesota-united-fc-colorado-rapids",
+      "weekend": "2026-05-14",
+      "name": "Minnesota United FC v Colorado Rapids",
+      "utc": "2026-05-14T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-14-sporting-kansas-city-la-galaxy",
+      "weekend": "2026-05-14",
+      "name": "Sporting Kansas City v LA Galaxy",
+      "utc": "2026-05-14T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-14-st-louis-city-sc-lafc",
+      "weekend": "2026-05-14",
+      "name": "St. Louis CITY SC v LAFC",
+      "utc": "2026-05-14T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-14-real-salt-lake-houston-dynamo-fc",
+      "weekend": "2026-05-14",
+      "name": "Real Salt Lake v Houston Dynamo FC",
+      "utc": "2026-05-14T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-14-san-diego-fc-austin-fc",
+      "weekend": "2026-05-14",
+      "name": "San Diego FC v Austin FC",
+      "utc": "2026-05-14T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-14-seattle-sounders-fc-san-jose-earthquakes",
+      "weekend": "2026-05-14",
+      "name": "Seattle Sounders FC v San Jose Earthquakes",
+      "utc": "2026-05-14T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-16-cf-montr-al-chicago-fire-fc",
+      "weekend": "2026-05-16",
+      "name": "CF Montr\u00e9al v Chicago Fire FC",
+      "utc": "2026-05-16T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-16-charlotte-fc-toronto-fc",
+      "weekend": "2026-05-16",
+      "name": "Charlotte FC v Toronto FC",
+      "utc": "2026-05-16T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-16-d-c-united-st-louis-city-sc",
+      "weekend": "2026-05-16",
+      "name": "D.C. United v St. Louis CITY SC",
+      "utc": "2026-05-16T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-16-new-england-revolution-minnesota-united-fc",
+      "weekend": "2026-05-16",
+      "name": "New England Revolution v Minnesota United FC",
+      "utc": "2026-05-16T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-16-orlando-city-sc-atlanta-united-fc",
+      "weekend": "2026-05-16",
+      "name": "Orlando City SC v Atlanta United FC",
+      "utc": "2026-05-16T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-16-philadelphia-union-columbus-crew",
+      "weekend": "2026-05-16",
+      "name": "Philadelphia Union v Columbus Crew",
+      "utc": "2026-05-16T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-16-red-bull-new-york-new-york-city-fc",
+      "weekend": "2026-05-16",
+      "name": "Red Bull New York v New York City FC",
+      "utc": "2026-05-16T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-17-austin-fc-sporting-kansas-city",
+      "weekend": "2026-05-17",
+      "name": "Austin FC v Sporting Kansas City",
+      "utc": "2026-05-17T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-17-houston-dynamo-fc-vancouver-whitecaps",
+      "weekend": "2026-05-17",
+      "name": "Houston Dynamo FC v Vancouver Whitecaps",
+      "utc": "2026-05-17T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-17-seattle-sounders-fc-la-galaxy",
+      "weekend": "2026-05-17",
+      "name": "Seattle Sounders FC v LA Galaxy",
+      "utc": "2026-05-17T01:15:00Z"
+    },
+    {
+      "id": "mls-2026-05-17-real-salt-lake-colorado-rapids",
+      "weekend": "2026-05-17",
+      "name": "Real Salt Lake v Colorado Rapids",
+      "utc": "2026-05-17T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-17-san-diego-fc-fc-cincinnati",
+      "weekend": "2026-05-17",
+      "name": "San Diego FC v FC Cincinnati",
+      "utc": "2026-05-17T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-17-san-jose-earthquakes-fc-dallas",
+      "weekend": "2026-05-17",
+      "name": "San Jose Earthquakes v FC Dallas",
+      "utc": "2026-05-17T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-17-inter-miami-cf-portland-timbers",
+      "weekend": "2026-05-17",
+      "name": "Inter Miami CF v Portland Timbers",
+      "utc": "2026-05-17T22:00:00Z"
+    },
+    {
+      "id": "mls-2026-05-18-nashville-sc-lafc",
+      "weekend": "2026-05-18",
+      "name": "Nashville SC v LAFC",
+      "utc": "2026-05-18T00:00:00Z"
+    },
+    {
+      "id": "mls-2026-05-23-st-louis-city-sc-austin-fc",
+      "weekend": "2026-05-23",
+      "name": "St. Louis CITY SC v Austin FC",
+      "utc": "2026-05-23T18:45:00Z"
+    },
+    {
+      "id": "mls-2026-05-23-minnesota-united-fc-real-salt-lake",
+      "weekend": "2026-05-23",
+      "name": "Minnesota United FC v Real Salt Lake",
+      "utc": "2026-05-23T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-23-charlotte-fc-new-england-revolution",
+      "weekend": "2026-05-23",
+      "name": "Charlotte FC v New England Revolution",
+      "utc": "2026-05-23T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-23-d-c-united-cf-montr-al",
+      "weekend": "2026-05-23",
+      "name": "D.C. United v CF Montr\u00e9al",
+      "utc": "2026-05-23T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-23-fc-cincinnati-orlando-city-sc",
+      "weekend": "2026-05-23",
+      "name": "FC Cincinnati v Orlando City SC",
+      "utc": "2026-05-23T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-24-chicago-fire-fc-toronto-fc",
+      "weekend": "2026-05-24",
+      "name": "Chicago Fire FC v Toronto FC",
+      "utc": "2026-05-24T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-24-nashville-sc-new-york-city-fc",
+      "weekend": "2026-05-24",
+      "name": "Nashville SC v New York City FC",
+      "utc": "2026-05-24T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-24-sporting-kansas-city-red-bull-new-york",
+      "weekend": "2026-05-24",
+      "name": "Sporting Kansas City v Red Bull New York",
+      "utc": "2026-05-24T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-24-colorado-rapids-fc-dallas",
+      "weekend": "2026-05-24",
+      "name": "Colorado Rapids v FC Dallas",
+      "utc": "2026-05-24T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-24-portland-timbers-san-jose-earthquakes",
+      "weekend": "2026-05-24",
+      "name": "Portland Timbers v San Jose Earthquakes",
+      "utc": "2026-05-24T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-24-san-diego-fc-vancouver-whitecaps",
+      "weekend": "2026-05-24",
+      "name": "San Diego FC v Vancouver Whitecaps",
+      "utc": "2026-05-24T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-24-la-galaxy-houston-dynamo-fc",
+      "weekend": "2026-05-24",
+      "name": "LA Galaxy v Houston Dynamo FC",
+      "utc": "2026-05-24T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-05-24-columbus-crew-atlanta-united-fc",
+      "weekend": "2026-05-24",
+      "name": "Columbus Crew v Atlanta United FC",
+      "utc": "2026-05-24T21:00:00Z"
+    },
+    {
+      "id": "mls-2026-05-24-inter-miami-cf-philadelphia-union",
+      "weekend": "2026-05-24",
+      "name": "Inter Miami CF v Philadelphia Union",
+      "utc": "2026-05-24T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-05-25-lafc-seattle-sounders-fc",
+      "weekend": "2026-05-25",
+      "name": "LAFC v Seattle Sounders FC",
+      "utc": "2026-05-25T01:15:00Z"
+    },
+    {
+      "id": "mls-2026-07-16-cf-montr-al-toronto-fc",
+      "weekend": "2026-07-16",
+      "name": "CF Montr\u00e9al v Toronto FC",
+      "utc": "2026-07-16T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-17-st-louis-city-sc-sporting-kansas-city",
+      "weekend": "2026-07-17",
+      "name": "St. Louis CITY SC v Sporting Kansas City",
+      "utc": "2026-07-17T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-17-seattle-sounders-fc-portland-timbers",
+      "weekend": "2026-07-17",
+      "name": "Seattle Sounders FC v Portland Timbers",
+      "utc": "2026-07-17T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-18-nashville-sc-atlanta-united-fc",
+      "weekend": "2026-07-18",
+      "name": "Nashville SC v Atlanta United FC",
+      "utc": "2026-07-18T00:10:00Z"
+    },
+    {
+      "id": "mls-2026-07-18-la-galaxy-lafc",
+      "weekend": "2026-07-18",
+      "name": "LA Galaxy v LAFC",
+      "utc": "2026-07-18T02:25:00Z"
+    },
+    {
+      "id": "mls-2026-07-22-columbus-crew-new-york-city-fc",
+      "weekend": "2026-07-22",
+      "name": "Columbus Crew v New York City FC",
+      "utc": "2026-07-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-22-fc-cincinnati-vancouver-whitecaps",
+      "weekend": "2026-07-22",
+      "name": "FC Cincinnati v Vancouver Whitecaps",
+      "utc": "2026-07-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-22-inter-miami-cf-chicago-fire-fc",
+      "weekend": "2026-07-22",
+      "name": "Inter Miami CF v Chicago Fire FC",
+      "utc": "2026-07-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-22-new-england-revolution-toronto-fc",
+      "weekend": "2026-07-22",
+      "name": "New England Revolution v Toronto FC",
+      "utc": "2026-07-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-22-philadelphia-union-red-bull-new-york",
+      "weekend": "2026-07-22",
+      "name": "Philadelphia Union v Red Bull New York",
+      "utc": "2026-07-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-23-charlotte-fc-atlanta-united-fc",
+      "weekend": "2026-07-23",
+      "name": "Charlotte FC v Atlanta United FC",
+      "utc": "2026-07-23T00:15:00Z"
+    },
+    {
+      "id": "mls-2026-07-23-houston-dynamo-fc-d-c-united",
+      "weekend": "2026-07-23",
+      "name": "Houston Dynamo FC v D.C. United",
+      "utc": "2026-07-23T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-23-nashville-sc-cf-montr-al",
+      "weekend": "2026-07-23",
+      "name": "Nashville SC v CF Montr\u00e9al",
+      "utc": "2026-07-23T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-23-sporting-kansas-city-minnesota-united-fc",
+      "weekend": "2026-07-23",
+      "name": "Sporting Kansas City v Minnesota United FC",
+      "utc": "2026-07-23T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-23-austin-fc-seattle-sounders-fc",
+      "weekend": "2026-07-23",
+      "name": "Austin FC v Seattle Sounders FC",
+      "utc": "2026-07-23T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-23-colorado-rapids-san-diego-fc",
+      "weekend": "2026-07-23",
+      "name": "Colorado Rapids v San Diego FC",
+      "utc": "2026-07-23T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-23-la-galaxy-st-louis-city-sc",
+      "weekend": "2026-07-23",
+      "name": "LA Galaxy v St. Louis CITY SC",
+      "utc": "2026-07-23T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-23-lafc-real-salt-lake",
+      "weekend": "2026-07-23",
+      "name": "LAFC v Real Salt Lake",
+      "utc": "2026-07-23T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-23-portland-timbers-fc-dallas",
+      "weekend": "2026-07-23",
+      "name": "Portland Timbers v FC Dallas",
+      "utc": "2026-07-23T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-23-san-jose-earthquakes-orlando-city-sc",
+      "weekend": "2026-07-23",
+      "name": "San Jose Earthquakes v Orlando City SC",
+      "utc": "2026-07-23T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-25-red-bull-new-york-charlotte-fc",
+      "weekend": "2026-07-25",
+      "name": "Red Bull New York v Charlotte FC",
+      "utc": "2026-07-25T22:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-25-columbus-crew-fc-cincinnati",
+      "weekend": "2026-07-25",
+      "name": "Columbus Crew v FC Cincinnati",
+      "utc": "2026-07-25T23:15:00Z"
+    },
+    {
+      "id": "mls-2026-07-25-cf-montr-al-inter-miami-cf",
+      "weekend": "2026-07-25",
+      "name": "CF Montr\u00e9al v Inter Miami CF",
+      "utc": "2026-07-25T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-25-d-c-united-toronto-fc",
+      "weekend": "2026-07-25",
+      "name": "D.C. United v Toronto FC",
+      "utc": "2026-07-25T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-25-new-england-revolution-atlanta-united-fc",
+      "weekend": "2026-07-25",
+      "name": "New England Revolution v Atlanta United FC",
+      "utc": "2026-07-25T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-25-new-york-city-fc-chicago-fire-fc",
+      "weekend": "2026-07-25",
+      "name": "New York City FC v Chicago Fire FC",
+      "utc": "2026-07-25T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-25-philadelphia-union-seattle-sounders-fc",
+      "weekend": "2026-07-25",
+      "name": "Philadelphia Union v Seattle Sounders FC",
+      "utc": "2026-07-25T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-26-houston-dynamo-fc-austin-fc",
+      "weekend": "2026-07-26",
+      "name": "Houston Dynamo FC v Austin FC",
+      "utc": "2026-07-26T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-26-minnesota-united-fc-vancouver-whitecaps",
+      "weekend": "2026-07-26",
+      "name": "Minnesota United FC v Vancouver Whitecaps",
+      "utc": "2026-07-26T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-26-st-louis-city-sc-colorado-rapids",
+      "weekend": "2026-07-26",
+      "name": "St. Louis CITY SC v Colorado Rapids",
+      "utc": "2026-07-26T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-26-orlando-city-sc-nashville-sc",
+      "weekend": "2026-07-26",
+      "name": "Orlando City SC v Nashville SC",
+      "utc": "2026-07-26T00:46:00Z"
+    },
+    {
+      "id": "mls-2026-07-26-san-diego-fc-fc-dallas",
+      "weekend": "2026-07-26",
+      "name": "San Diego FC v FC Dallas",
+      "utc": "2026-07-26T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-26-lafc-sporting-kansas-city",
+      "weekend": "2026-07-26",
+      "name": "LAFC v Sporting Kansas City",
+      "utc": "2026-07-26T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-26-portland-timbers-real-salt-lake",
+      "weekend": "2026-07-26",
+      "name": "Portland Timbers v Real Salt Lake",
+      "utc": "2026-07-26T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-26-san-jose-earthquakes-la-galaxy",
+      "weekend": "2026-07-26",
+      "name": "San Jose Earthquakes v LA Galaxy",
+      "utc": "2026-07-26T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-07-30-mls-all-stars-liga-mx-all-stars",
+      "weekend": "2026-07-30",
+      "name": "MLS All-Stars v Liga MX All-Stars",
+      "utc": "2026-07-30T00:00:00Z"
+    },
+    {
+      "id": "mls-2026-07-31-new-york-city-fc-toronto-fc",
+      "weekend": "2026-07-31",
+      "name": "New York City FC v Toronto FC",
+      "utc": "2026-07-31T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-01-cf-montr-al-new-england-revolution",
+      "weekend": "2026-08-01",
+      "name": "CF Montr\u00e9al v New England Revolution",
+      "utc": "2026-08-01T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-01-d-c-united-nashville-sc",
+      "weekend": "2026-08-01",
+      "name": "D.C. United v Nashville SC",
+      "utc": "2026-08-01T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-01-philadelphia-union-atlanta-united-fc",
+      "weekend": "2026-08-01",
+      "name": "Philadelphia Union v Atlanta United FC",
+      "utc": "2026-08-01T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-01-red-bull-new-york-orlando-city-sc",
+      "weekend": "2026-08-01",
+      "name": "Red Bull New York v Orlando City SC",
+      "utc": "2026-08-01T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-01-vancouver-whitecaps-lafc",
+      "weekend": "2026-08-01",
+      "name": "Vancouver Whitecaps v LAFC",
+      "utc": "2026-08-01T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-02-inter-miami-cf-columbus-crew",
+      "weekend": "2026-08-02",
+      "name": "Inter Miami CF v Columbus Crew",
+      "utc": "2026-08-02T00:10:00Z"
+    },
+    {
+      "id": "mls-2026-08-02-chicago-fire-fc-charlotte-fc",
+      "weekend": "2026-08-02",
+      "name": "Chicago Fire FC v Charlotte FC",
+      "utc": "2026-08-02T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-02-minnesota-united-fc-san-diego-fc",
+      "weekend": "2026-08-02",
+      "name": "Minnesota United FC v San Diego FC",
+      "utc": "2026-08-02T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-02-sporting-kansas-city-houston-dynamo-fc",
+      "weekend": "2026-08-02",
+      "name": "Sporting Kansas City v Houston Dynamo FC",
+      "utc": "2026-08-02T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-02-st-louis-city-sc-real-salt-lake",
+      "weekend": "2026-08-02",
+      "name": "St. Louis CITY SC v Real Salt Lake",
+      "utc": "2026-08-02T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-02-colorado-rapids-austin-fc",
+      "weekend": "2026-08-02",
+      "name": "Colorado Rapids v Austin FC",
+      "utc": "2026-08-02T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-02-fc-cincinnati-san-jose-earthquakes",
+      "weekend": "2026-08-02",
+      "name": "FC Cincinnati v San Jose Earthquakes",
+      "utc": "2026-08-02T01:46:00Z"
+    },
+    {
+      "id": "mls-2026-08-02-la-galaxy-fc-dallas",
+      "weekend": "2026-08-02",
+      "name": "LA Galaxy v FC Dallas",
+      "utc": "2026-08-02T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-02-portland-timbers-seattle-sounders-fc",
+      "weekend": "2026-08-02",
+      "name": "Portland Timbers v Seattle Sounders FC",
+      "utc": "2026-08-02T02:45:00Z"
+    },
+    {
+      "id": "mls-2026-08-08-new-england-revolution-houston-dynamo-fc",
+      "weekend": "2026-08-08",
+      "name": "New England Revolution v Houston Dynamo FC",
+      "utc": "2026-08-08T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-15-atlanta-united-fc-red-bull-new-york",
+      "weekend": "2026-08-15",
+      "name": "Atlanta United FC v Red Bull New York",
+      "utc": "2026-08-15T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-15-cf-montr-al-d-c-united",
+      "weekend": "2026-08-15",
+      "name": "CF Montr\u00e9al v D.C. United",
+      "utc": "2026-08-15T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-15-charlotte-fc-columbus-crew",
+      "weekend": "2026-08-15",
+      "name": "Charlotte FC v Columbus Crew",
+      "utc": "2026-08-15T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-15-orlando-city-sc-fc-cincinnati",
+      "weekend": "2026-08-15",
+      "name": "Orlando City SC v FC Cincinnati",
+      "utc": "2026-08-15T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-15-toronto-fc-new-england-revolution",
+      "weekend": "2026-08-15",
+      "name": "Toronto FC v New England Revolution",
+      "utc": "2026-08-15T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-16-houston-dynamo-fc-la-galaxy",
+      "weekend": "2026-08-16",
+      "name": "Houston Dynamo FC v LA Galaxy",
+      "utc": "2026-08-16T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-16-nashville-sc-inter-miami-cf",
+      "weekend": "2026-08-16",
+      "name": "Nashville SC v Inter Miami CF",
+      "utc": "2026-08-16T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-16-colorado-rapids-sporting-kansas-city",
+      "weekend": "2026-08-16",
+      "name": "Colorado Rapids v Sporting Kansas City",
+      "utc": "2026-08-16T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-16-real-salt-lake-minnesota-united-fc",
+      "weekend": "2026-08-16",
+      "name": "Real Salt Lake v Minnesota United FC",
+      "utc": "2026-08-16T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-16-lafc-san-diego-fc",
+      "weekend": "2026-08-16",
+      "name": "LAFC v San Diego FC",
+      "utc": "2026-08-16T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-16-san-jose-earthquakes-st-louis-city-sc",
+      "weekend": "2026-08-16",
+      "name": "San Jose Earthquakes v St. Louis CITY SC",
+      "utc": "2026-08-16T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-16-chicago-fire-fc-portland-timbers",
+      "weekend": "2026-08-16",
+      "name": "Chicago Fire FC v Portland Timbers",
+      "utc": "2026-08-16T22:00:00Z"
+    },
+    {
+      "id": "mls-2026-08-16-new-york-city-fc-philadelphia-union",
+      "weekend": "2026-08-16",
+      "name": "New York City FC v Philadelphia Union",
+      "utc": "2026-08-16T22:00:00Z"
+    },
+    {
+      "id": "mls-2026-08-17-austin-fc-fc-dallas",
+      "weekend": "2026-08-17",
+      "name": "Austin FC v FC Dallas",
+      "utc": "2026-08-17T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-17-seattle-sounders-fc-vancouver-whitecaps",
+      "weekend": "2026-08-17",
+      "name": "Seattle Sounders FC v Vancouver Whitecaps",
+      "utc": "2026-08-17T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-19-columbus-crew-cf-montr-al",
+      "weekend": "2026-08-19",
+      "name": "Columbus Crew v CF Montr\u00e9al",
+      "utc": "2026-08-19T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-19-d-c-united-new-england-revolution",
+      "weekend": "2026-08-19",
+      "name": "D.C. United v New England Revolution",
+      "utc": "2026-08-19T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-19-fc-cincinnati-new-york-city-fc",
+      "weekend": "2026-08-19",
+      "name": "FC Cincinnati v New York City FC",
+      "utc": "2026-08-19T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-19-orlando-city-sc-chicago-fire-fc",
+      "weekend": "2026-08-19",
+      "name": "Orlando City SC v Chicago Fire FC",
+      "utc": "2026-08-19T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-19-philadelphia-union-inter-miami-cf",
+      "weekend": "2026-08-19",
+      "name": "Philadelphia Union v Inter Miami CF",
+      "utc": "2026-08-19T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-19-red-bull-new-york-nashville-sc",
+      "weekend": "2026-08-19",
+      "name": "Red Bull New York v Nashville SC",
+      "utc": "2026-08-19T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-19-toronto-fc-charlotte-fc",
+      "weekend": "2026-08-19",
+      "name": "Toronto FC v Charlotte FC",
+      "utc": "2026-08-19T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-20-sporting-kansas-city-st-louis-city-sc",
+      "weekend": "2026-08-20",
+      "name": "Sporting Kansas City v St. Louis CITY SC",
+      "utc": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": "mls-2026-08-20-minnesota-united-fc-atlanta-united-fc",
+      "weekend": "2026-08-20",
+      "name": "Minnesota United FC v Atlanta United FC",
+      "utc": "2026-08-20T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-20-colorado-rapids-lafc",
+      "weekend": "2026-08-20",
+      "name": "Colorado Rapids v LAFC",
+      "utc": "2026-08-20T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-20-real-salt-lake-fc-dallas",
+      "weekend": "2026-08-20",
+      "name": "Real Salt Lake v FC Dallas",
+      "utc": "2026-08-20T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-20-seattle-sounders-fc-austin-fc",
+      "weekend": "2026-08-20",
+      "name": "Seattle Sounders FC v Austin FC",
+      "utc": "2026-08-20T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-20-la-galaxy-san-jose-earthquakes",
+      "weekend": "2026-08-20",
+      "name": "LA Galaxy v San Jose Earthquakes",
+      "utc": "2026-08-20T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-20-portland-timbers-san-diego-fc",
+      "weekend": "2026-08-20",
+      "name": "Portland Timbers v San Diego FC",
+      "utc": "2026-08-20T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-20-vancouver-whitecaps-houston-dynamo-fc",
+      "weekend": "2026-08-20",
+      "name": "Vancouver Whitecaps v Houston Dynamo FC",
+      "utc": "2026-08-20T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-22-cf-montr-al-la-galaxy",
+      "weekend": "2026-08-22",
+      "name": "CF Montr\u00e9al v LA Galaxy",
+      "utc": "2026-08-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-22-charlotte-fc-d-c-united",
+      "weekend": "2026-08-22",
+      "name": "Charlotte FC v D.C. United",
+      "utc": "2026-08-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-22-fc-cincinnati-seattle-sounders-fc",
+      "weekend": "2026-08-22",
+      "name": "FC Cincinnati v Seattle Sounders FC",
+      "utc": "2026-08-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-22-inter-miami-cf-toronto-fc",
+      "weekend": "2026-08-22",
+      "name": "Inter Miami CF v Toronto FC",
+      "utc": "2026-08-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-22-orlando-city-sc-real-salt-lake",
+      "weekend": "2026-08-22",
+      "name": "Orlando City SC v Real Salt Lake",
+      "utc": "2026-08-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-22-red-bull-new-york-chicago-fire-fc",
+      "weekend": "2026-08-22",
+      "name": "Red Bull New York v Chicago Fire FC",
+      "utc": "2026-08-22T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-23-nashville-sc-columbus-crew",
+      "weekend": "2026-08-23",
+      "name": "Nashville SC v Columbus Crew",
+      "utc": "2026-08-23T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-23-st-louis-city-sc-houston-dynamo-fc",
+      "weekend": "2026-08-23",
+      "name": "St. Louis CITY SC v Houston Dynamo FC",
+      "utc": "2026-08-23T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-23-austin-fc-philadelphia-union",
+      "weekend": "2026-08-23",
+      "name": "Austin FC v Philadelphia Union",
+      "utc": "2026-08-23T01:00:00Z"
+    },
+    {
+      "id": "mls-2026-08-23-vancouver-whitecaps-fc-dallas",
+      "weekend": "2026-08-23",
+      "name": "Vancouver Whitecaps v FC Dallas",
+      "utc": "2026-08-23T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-23-lafc-portland-timbers",
+      "weekend": "2026-08-23",
+      "name": "LAFC v Portland Timbers",
+      "utc": "2026-08-23T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-23-san-diego-fc-colorado-rapids",
+      "weekend": "2026-08-23",
+      "name": "San Diego FC v Colorado Rapids",
+      "utc": "2026-08-23T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-23-san-jose-earthquakes-minnesota-united-fc",
+      "weekend": "2026-08-23",
+      "name": "San Jose Earthquakes v Minnesota United FC",
+      "utc": "2026-08-23T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-23-new-england-revolution-new-york-city-fc",
+      "weekend": "2026-08-23",
+      "name": "New England Revolution v New York City FC",
+      "utc": "2026-08-23T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-23-atlanta-united-fc-sporting-kansas-city",
+      "weekend": "2026-08-23",
+      "name": "Atlanta United FC v Sporting Kansas City",
+      "utc": "2026-08-23T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-08-29-seattle-sounders-fc-chicago-fire-fc",
+      "weekend": "2026-08-29",
+      "name": "Seattle Sounders FC v Chicago Fire FC",
+      "utc": "2026-08-29T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-29-atlanta-united-fc-charlotte-fc",
+      "weekend": "2026-08-29",
+      "name": "Atlanta United FC v Charlotte FC",
+      "utc": "2026-08-29T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-29-columbus-crew-new-england-revolution",
+      "weekend": "2026-08-29",
+      "name": "Columbus Crew v New England Revolution",
+      "utc": "2026-08-29T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-29-d-c-united-lafc",
+      "weekend": "2026-08-29",
+      "name": "D.C. United v LAFC",
+      "utc": "2026-08-29T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-29-inter-miami-cf-cf-montr-al",
+      "weekend": "2026-08-29",
+      "name": "Inter Miami CF v CF Montr\u00e9al",
+      "utc": "2026-08-29T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-29-red-bull-new-york-philadelphia-union",
+      "weekend": "2026-08-29",
+      "name": "Red Bull New York v Philadelphia Union",
+      "utc": "2026-08-29T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-29-toronto-fc-new-york-city-fc",
+      "weekend": "2026-08-29",
+      "name": "Toronto FC v New York City FC",
+      "utc": "2026-08-29T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-30-houston-dynamo-fc-san-jose-earthquakes",
+      "weekend": "2026-08-30",
+      "name": "Houston Dynamo FC v San Jose Earthquakes",
+      "utc": "2026-08-30T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-30-minnesota-united-fc-orlando-city-sc",
+      "weekend": "2026-08-30",
+      "name": "Minnesota United FC v Orlando City SC",
+      "utc": "2026-08-30T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-30-nashville-sc-fc-cincinnati",
+      "weekend": "2026-08-30",
+      "name": "Nashville SC v FC Cincinnati",
+      "utc": "2026-08-30T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-30-sporting-kansas-city-vancouver-whitecaps",
+      "weekend": "2026-08-30",
+      "name": "Sporting Kansas City v Vancouver Whitecaps",
+      "utc": "2026-08-30T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-30-colorado-rapids-real-salt-lake",
+      "weekend": "2026-08-30",
+      "name": "Colorado Rapids v Real Salt Lake",
+      "utc": "2026-08-30T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-30-portland-timbers-austin-fc",
+      "weekend": "2026-08-30",
+      "name": "Portland Timbers v Austin FC",
+      "utc": "2026-08-30T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-30-san-diego-fc-la-galaxy",
+      "weekend": "2026-08-30",
+      "name": "San Diego FC v LA Galaxy",
+      "utc": "2026-08-30T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-08-30-st-louis-city-sc-fc-dallas",
+      "weekend": "2026-08-30",
+      "name": "St. Louis CITY SC v FC Dallas",
+      "utc": "2026-08-30T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-09-04-new-york-city-fc-nashville-sc",
+      "weekend": "2026-09-04",
+      "name": "New York City FC v Nashville SC",
+      "utc": "2026-09-04T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-05-charlotte-fc-houston-dynamo-fc",
+      "weekend": "2026-09-05",
+      "name": "Charlotte FC v Houston Dynamo FC",
+      "utc": "2026-09-05T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-05-columbus-crew-colorado-rapids",
+      "weekend": "2026-09-05",
+      "name": "Columbus Crew v Colorado Rapids",
+      "utc": "2026-09-05T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-05-fc-cincinnati-d-c-united",
+      "weekend": "2026-09-05",
+      "name": "FC Cincinnati v D.C. United",
+      "utc": "2026-09-05T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-05-inter-miami-cf-atlanta-united-fc",
+      "weekend": "2026-09-05",
+      "name": "Inter Miami CF v Atlanta United FC",
+      "utc": "2026-09-05T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-05-orlando-city-sc-san-diego-fc",
+      "weekend": "2026-09-05",
+      "name": "Orlando City SC v San Diego FC",
+      "utc": "2026-09-05T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-05-philadelphia-union-cf-montr-al",
+      "weekend": "2026-09-05",
+      "name": "Philadelphia Union v CF Montr\u00e9al",
+      "utc": "2026-09-05T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-05-toronto-fc-chicago-fire-fc",
+      "weekend": "2026-09-05",
+      "name": "Toronto FC v Chicago Fire FC",
+      "utc": "2026-09-05T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-06-austin-fc-san-jose-earthquakes",
+      "weekend": "2026-09-06",
+      "name": "Austin FC v San Jose Earthquakes",
+      "utc": "2026-09-06T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-06-fc-dallas-sporting-kansas-city",
+      "weekend": "2026-09-06",
+      "name": "FC Dallas v Sporting Kansas City",
+      "utc": "2026-09-06T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-06-seattle-sounders-fc-red-bull-new-york",
+      "weekend": "2026-09-06",
+      "name": "Seattle Sounders FC v Red Bull New York",
+      "utc": "2026-09-06T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-06-la-galaxy-new-england-revolution",
+      "weekend": "2026-09-06",
+      "name": "LA Galaxy v New England Revolution",
+      "utc": "2026-09-06T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-06-real-salt-lake-lafc",
+      "weekend": "2026-09-06",
+      "name": "Real Salt Lake v LAFC",
+      "utc": "2026-09-06T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-06-portland-timbers-minnesota-united-fc",
+      "weekend": "2026-09-06",
+      "name": "Portland Timbers v Minnesota United FC",
+      "utc": "2026-09-06T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-06-vancouver-whitecaps-st-louis-city-sc",
+      "weekend": "2026-09-06",
+      "name": "Vancouver Whitecaps v St. Louis CITY SC",
+      "utc": "2026-09-06T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-09-atlanta-united-fc-orlando-city-sc",
+      "weekend": "2026-09-09",
+      "name": "Atlanta United FC v Orlando City SC",
+      "utc": "2026-09-09T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-09-cf-montr-al-charlotte-fc",
+      "weekend": "2026-09-09",
+      "name": "CF Montr\u00e9al v Charlotte FC",
+      "utc": "2026-09-09T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-09-d-c-united-columbus-crew",
+      "weekend": "2026-09-09",
+      "name": "D.C. United v Columbus Crew",
+      "utc": "2026-09-09T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-09-new-york-city-fc-new-england-revolution",
+      "weekend": "2026-09-09",
+      "name": "New York City FC v New England Revolution",
+      "utc": "2026-09-09T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-09-philadelphia-union-fc-cincinnati",
+      "weekend": "2026-09-09",
+      "name": "Philadelphia Union v FC Cincinnati",
+      "utc": "2026-09-09T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-09-toronto-fc-nashville-sc",
+      "weekend": "2026-09-09",
+      "name": "Toronto FC v Nashville SC",
+      "utc": "2026-09-09T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-10-austin-fc-colorado-rapids",
+      "weekend": "2026-09-10",
+      "name": "Austin FC v Colorado Rapids",
+      "utc": "2026-09-10T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-10-chicago-fire-fc-inter-miami-cf",
+      "weekend": "2026-09-10",
+      "name": "Chicago Fire FC v Inter Miami CF",
+      "utc": "2026-09-10T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-10-houston-dynamo-fc-real-salt-lake",
+      "weekend": "2026-09-10",
+      "name": "Houston Dynamo FC v Real Salt Lake",
+      "utc": "2026-09-10T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-10-minnesota-united-fc-fc-dallas",
+      "weekend": "2026-09-10",
+      "name": "Minnesota United FC v FC Dallas",
+      "utc": "2026-09-10T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-10-lafc-red-bull-new-york",
+      "weekend": "2026-09-10",
+      "name": "LAFC v Red Bull New York",
+      "utc": "2026-09-10T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-10-portland-timbers-st-louis-city-sc",
+      "weekend": "2026-09-10",
+      "name": "Portland Timbers v St. Louis CITY SC",
+      "utc": "2026-09-10T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-10-san-diego-fc-san-jose-earthquakes",
+      "weekend": "2026-09-10",
+      "name": "San Diego FC v San Jose Earthquakes",
+      "utc": "2026-09-10T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-10-vancouver-whitecaps-la-galaxy",
+      "weekend": "2026-09-10",
+      "name": "Vancouver Whitecaps v LA Galaxy",
+      "utc": "2026-09-10T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-12-columbus-crew-red-bull-new-york",
+      "weekend": "2026-09-12",
+      "name": "Columbus Crew v Red Bull New York",
+      "utc": "2026-09-12T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-12-d-c-united-atlanta-united-fc",
+      "weekend": "2026-09-12",
+      "name": "D.C. United v Atlanta United FC",
+      "utc": "2026-09-12T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-12-fc-cincinnati-charlotte-fc",
+      "weekend": "2026-09-12",
+      "name": "FC Cincinnati v Charlotte FC",
+      "utc": "2026-09-12T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-12-inter-miami-cf-nashville-sc",
+      "weekend": "2026-09-12",
+      "name": "Inter Miami CF v Nashville SC",
+      "utc": "2026-09-12T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-12-orlando-city-sc-toronto-fc",
+      "weekend": "2026-09-12",
+      "name": "Orlando City SC v Toronto FC",
+      "utc": "2026-09-12T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-13-fc-dallas-portland-timbers",
+      "weekend": "2026-09-13",
+      "name": "FC Dallas v Portland Timbers",
+      "utc": "2026-09-13T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-13-sporting-kansas-city-lafc",
+      "weekend": "2026-09-13",
+      "name": "Sporting Kansas City v LAFC",
+      "utc": "2026-09-13T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-13-st-louis-city-sc-minnesota-united-fc",
+      "weekend": "2026-09-13",
+      "name": "St. Louis CITY SC v Minnesota United FC",
+      "utc": "2026-09-13T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-13-colorado-rapids-cf-montr-al",
+      "weekend": "2026-09-13",
+      "name": "Colorado Rapids v CF Montr\u00e9al",
+      "utc": "2026-09-13T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-13-real-salt-lake-new-york-city-fc",
+      "weekend": "2026-09-13",
+      "name": "Real Salt Lake v New York City FC",
+      "utc": "2026-09-13T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-13-la-galaxy-seattle-sounders-fc",
+      "weekend": "2026-09-13",
+      "name": "LA Galaxy v Seattle Sounders FC",
+      "utc": "2026-09-13T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-13-san-jose-earthquakes-houston-dynamo-fc",
+      "weekend": "2026-09-13",
+      "name": "San Jose Earthquakes v Houston Dynamo FC",
+      "utc": "2026-09-13T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-13-chicago-fire-fc-new-england-revolution",
+      "weekend": "2026-09-13",
+      "name": "Chicago Fire FC v New England Revolution",
+      "utc": "2026-09-13T21:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-13-vancouver-whitecaps-austin-fc",
+      "weekend": "2026-09-13",
+      "name": "Vancouver Whitecaps v Austin FC",
+      "utc": "2026-09-13T22:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-14-san-diego-fc-philadelphia-union",
+      "weekend": "2026-09-14",
+      "name": "San Diego FC v Philadelphia Union",
+      "utc": "2026-09-14T01:00:00Z"
+    },
+    {
+      "id": "mls-2026-09-18-new-york-city-fc-red-bull-new-york",
+      "weekend": "2026-09-18",
+      "name": "New York City FC v Red Bull New York",
+      "utc": "2026-09-18T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-19-cf-montr-al-columbus-crew",
+      "weekend": "2026-09-19",
+      "name": "CF Montr\u00e9al v Columbus Crew",
+      "utc": "2026-09-19T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-19-d-c-united-charlotte-fc",
+      "weekend": "2026-09-19",
+      "name": "D.C. United v Charlotte FC",
+      "utc": "2026-09-19T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-19-new-england-revolution-orlando-city-sc",
+      "weekend": "2026-09-19",
+      "name": "New England Revolution v Orlando City SC",
+      "utc": "2026-09-19T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-19-san-jose-earthquakes-lafc",
+      "weekend": "2026-09-19",
+      "name": "San Jose Earthquakes v LAFC",
+      "utc": "2026-09-19T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-20-fc-dallas-austin-fc",
+      "weekend": "2026-09-20",
+      "name": "FC Dallas v Austin FC",
+      "utc": "2026-09-20T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-20-houston-dynamo-fc-fc-cincinnati",
+      "weekend": "2026-09-20",
+      "name": "Houston Dynamo FC v FC Cincinnati",
+      "utc": "2026-09-20T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-20-minnesota-united-fc-la-galaxy",
+      "weekend": "2026-09-20",
+      "name": "Minnesota United FC v LA Galaxy",
+      "utc": "2026-09-20T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-20-sporting-kansas-city-philadelphia-union",
+      "weekend": "2026-09-20",
+      "name": "Sporting Kansas City v Philadelphia Union",
+      "utc": "2026-09-20T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-20-st-louis-city-sc-toronto-fc",
+      "weekend": "2026-09-20",
+      "name": "St. Louis CITY SC v Toronto FC",
+      "utc": "2026-09-20T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-20-colorado-rapids-seattle-sounders-fc",
+      "weekend": "2026-09-20",
+      "name": "Colorado Rapids v Seattle Sounders FC",
+      "utc": "2026-09-20T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-20-nashville-sc-chicago-fire-fc",
+      "weekend": "2026-09-20",
+      "name": "Nashville SC v Chicago Fire FC",
+      "utc": "2026-09-20T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-20-real-salt-lake-vancouver-whitecaps",
+      "weekend": "2026-09-20",
+      "name": "Real Salt Lake v Vancouver Whitecaps",
+      "utc": "2026-09-20T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-20-portland-timbers-atlanta-united-fc",
+      "weekend": "2026-09-20",
+      "name": "Portland Timbers v Atlanta United FC",
+      "utc": "2026-09-20T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-20-inter-miami-cf-san-diego-fc",
+      "weekend": "2026-09-20",
+      "name": "Inter Miami CF v San Diego FC",
+      "utc": "2026-09-20T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-09-24-seattle-sounders-fc-real-salt-lake",
+      "weekend": "2026-09-24",
+      "name": "Seattle Sounders FC v Real Salt Lake",
+      "utc": "2026-09-24T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-26-atlanta-united-fc-new-york-city-fc",
+      "weekend": "2026-09-26",
+      "name": "Atlanta United FC v New York City FC",
+      "utc": "2026-09-26T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-26-cf-montr-al-fc-cincinnati",
+      "weekend": "2026-09-26",
+      "name": "CF Montr\u00e9al v FC Cincinnati",
+      "utc": "2026-09-26T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-26-charlotte-fc-chicago-fire-fc",
+      "weekend": "2026-09-26",
+      "name": "Charlotte FC v Chicago Fire FC",
+      "utc": "2026-09-26T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-26-philadelphia-union-orlando-city-sc",
+      "weekend": "2026-09-26",
+      "name": "Philadelphia Union v Orlando City SC",
+      "utc": "2026-09-26T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-26-red-bull-new-york-st-louis-city-sc",
+      "weekend": "2026-09-26",
+      "name": "Red Bull New York v St. Louis CITY SC",
+      "utc": "2026-09-26T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-27-austin-fc-san-diego-fc",
+      "weekend": "2026-09-27",
+      "name": "Austin FC v San Diego FC",
+      "utc": "2026-09-27T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-27-fc-dallas-lafc",
+      "weekend": "2026-09-27",
+      "name": "FC Dallas v LAFC",
+      "utc": "2026-09-27T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-27-houston-dynamo-fc-sporting-kansas-city",
+      "weekend": "2026-09-27",
+      "name": "Houston Dynamo FC v Sporting Kansas City",
+      "utc": "2026-09-27T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-27-nashville-sc-toronto-fc",
+      "weekend": "2026-09-27",
+      "name": "Nashville SC v Toronto FC",
+      "utc": "2026-09-27T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-27-seattle-sounders-fc-minnesota-united-fc",
+      "weekend": "2026-09-27",
+      "name": "Seattle Sounders FC v Minnesota United FC",
+      "utc": "2026-09-27T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-27-real-salt-lake-new-england-revolution",
+      "weekend": "2026-09-27",
+      "name": "Real Salt Lake v New England Revolution",
+      "utc": "2026-09-27T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-27-la-galaxy-colorado-rapids",
+      "weekend": "2026-09-27",
+      "name": "LA Galaxy v Colorado Rapids",
+      "utc": "2026-09-27T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-27-san-jose-earthquakes-portland-timbers",
+      "weekend": "2026-09-27",
+      "name": "San Jose Earthquakes v Portland Timbers",
+      "utc": "2026-09-27T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-27-vancouver-whitecaps-d-c-united",
+      "weekend": "2026-09-27",
+      "name": "Vancouver Whitecaps v D.C. United",
+      "utc": "2026-09-27T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-09-27-columbus-crew-inter-miami-cf",
+      "weekend": "2026-09-27",
+      "name": "Columbus Crew v Inter Miami CF",
+      "utc": "2026-09-27T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-10-02-seattle-sounders-fc-sporting-kansas-city",
+      "weekend": "2026-10-02",
+      "name": "Seattle Sounders FC v Sporting Kansas City",
+      "utc": "2026-10-02T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-07-chicago-fire-fc-vancouver-whitecaps",
+      "weekend": "2026-10-07",
+      "name": "Chicago Fire FC v Vancouver Whitecaps",
+      "utc": "2026-10-07T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-10-toronto-fc-cf-montr-al",
+      "weekend": "2026-10-10",
+      "name": "Toronto FC v CF Montr\u00e9al",
+      "utc": "2026-10-10T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-10-10-chicago-fire-fc-new-york-city-fc",
+      "weekend": "2026-10-10",
+      "name": "Chicago Fire FC v New York City FC",
+      "utc": "2026-10-10T18:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-10-atlanta-united-fc-fc-cincinnati",
+      "weekend": "2026-10-10",
+      "name": "Atlanta United FC v FC Cincinnati",
+      "utc": "2026-10-10T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-10-charlotte-fc-fc-dallas",
+      "weekend": "2026-10-10",
+      "name": "Charlotte FC v FC Dallas",
+      "utc": "2026-10-10T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-10-inter-miami-cf-d-c-united",
+      "weekend": "2026-10-10",
+      "name": "Inter Miami CF v D.C. United",
+      "utc": "2026-10-10T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-10-new-england-revolution-seattle-sounders-fc",
+      "weekend": "2026-10-10",
+      "name": "New England Revolution v Seattle Sounders FC",
+      "utc": "2026-10-10T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-10-orlando-city-sc-columbus-crew",
+      "weekend": "2026-10-10",
+      "name": "Orlando City SC v Columbus Crew",
+      "utc": "2026-10-10T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-10-philadelphia-union-real-salt-lake",
+      "weekend": "2026-10-10",
+      "name": "Philadelphia Union v Real Salt Lake",
+      "utc": "2026-10-10T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-10-red-bull-new-york-san-diego-fc",
+      "weekend": "2026-10-10",
+      "name": "Red Bull New York v San Diego FC",
+      "utc": "2026-10-10T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-11-austin-fc-nashville-sc",
+      "weekend": "2026-10-11",
+      "name": "Austin FC v Nashville SC",
+      "utc": "2026-10-11T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-11-minnesota-united-fc-houston-dynamo-fc",
+      "weekend": "2026-10-11",
+      "name": "Minnesota United FC v Houston Dynamo FC",
+      "utc": "2026-10-11T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-11-sporting-kansas-city-portland-timbers",
+      "weekend": "2026-10-11",
+      "name": "Sporting Kansas City v Portland Timbers",
+      "utc": "2026-10-11T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-11-colorado-rapids-san-jose-earthquakes",
+      "weekend": "2026-10-11",
+      "name": "Colorado Rapids v San Jose Earthquakes",
+      "utc": "2026-10-11T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-11-lafc-vancouver-whitecaps",
+      "weekend": "2026-10-11",
+      "name": "LAFC v Vancouver Whitecaps",
+      "utc": "2026-10-11T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-11-st-louis-city-sc-la-galaxy",
+      "weekend": "2026-10-11",
+      "name": "St. Louis CITY SC v LA Galaxy",
+      "utc": "2026-10-11T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-10-14-cf-montr-al-atlanta-united-fc",
+      "weekend": "2026-10-14",
+      "name": "CF Montr\u00e9al v Atlanta United FC",
+      "utc": "2026-10-14T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-14-columbus-crew-charlotte-fc",
+      "weekend": "2026-10-14",
+      "name": "Columbus Crew v Charlotte FC",
+      "utc": "2026-10-14T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-14-d-c-united-red-bull-new-york",
+      "weekend": "2026-10-14",
+      "name": "D.C. United v Red Bull New York",
+      "utc": "2026-10-14T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-14-fc-cincinnati-new-england-revolution",
+      "weekend": "2026-10-14",
+      "name": "FC Cincinnati v New England Revolution",
+      "utc": "2026-10-14T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-14-inter-miami-cf-new-york-city-fc",
+      "weekend": "2026-10-14",
+      "name": "Inter Miami CF v New York City FC",
+      "utc": "2026-10-14T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-14-toronto-fc-orlando-city-sc",
+      "weekend": "2026-10-14",
+      "name": "Toronto FC v Orlando City SC",
+      "utc": "2026-10-14T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-15-chicago-fire-fc-philadelphia-union",
+      "weekend": "2026-10-15",
+      "name": "Chicago Fire FC v Philadelphia Union",
+      "utc": "2026-10-15T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-15-fc-dallas-seattle-sounders-fc",
+      "weekend": "2026-10-15",
+      "name": "FC Dallas v Seattle Sounders FC",
+      "utc": "2026-10-15T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-15-nashville-sc-sporting-kansas-city",
+      "weekend": "2026-10-15",
+      "name": "Nashville SC v Sporting Kansas City",
+      "utc": "2026-10-15T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-15-st-louis-city-sc-vancouver-whitecaps",
+      "weekend": "2026-10-15",
+      "name": "St. Louis CITY SC v Vancouver Whitecaps",
+      "utc": "2026-10-15T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-15-colorado-rapids-minnesota-united-fc",
+      "weekend": "2026-10-15",
+      "name": "Colorado Rapids v Minnesota United FC",
+      "utc": "2026-10-15T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-15-real-salt-lake-san-jose-earthquakes",
+      "weekend": "2026-10-15",
+      "name": "Real Salt Lake v San Jose Earthquakes",
+      "utc": "2026-10-15T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-15-la-galaxy-portland-timbers",
+      "weekend": "2026-10-15",
+      "name": "LA Galaxy v Portland Timbers",
+      "utc": "2026-10-15T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-15-lafc-austin-fc",
+      "weekend": "2026-10-15",
+      "name": "LAFC v Austin FC",
+      "utc": "2026-10-15T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-15-san-diego-fc-houston-dynamo-fc",
+      "weekend": "2026-10-15",
+      "name": "San Diego FC v Houston Dynamo FC",
+      "utc": "2026-10-15T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-17-philadelphia-union-charlotte-fc",
+      "weekend": "2026-10-17",
+      "name": "Philadelphia Union v Charlotte FC",
+      "utc": "2026-10-17T18:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-17-minnesota-united-fc-st-louis-city-sc",
+      "weekend": "2026-10-17",
+      "name": "Minnesota United FC v St. Louis CITY SC",
+      "utc": "2026-10-17T20:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-17-atlanta-united-fc-inter-miami-cf",
+      "weekend": "2026-10-17",
+      "name": "Atlanta United FC v Inter Miami CF",
+      "utc": "2026-10-17T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-17-new-england-revolution-chicago-fire-fc",
+      "weekend": "2026-10-17",
+      "name": "New England Revolution v Chicago Fire FC",
+      "utc": "2026-10-17T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-17-orlando-city-sc-d-c-united",
+      "weekend": "2026-10-17",
+      "name": "Orlando City SC v D.C. United",
+      "utc": "2026-10-17T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-17-red-bull-new-york-toronto-fc",
+      "weekend": "2026-10-17",
+      "name": "Red Bull New York v Toronto FC",
+      "utc": "2026-10-17T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-18-austin-fc-vancouver-whitecaps",
+      "weekend": "2026-10-18",
+      "name": "Austin FC v Vancouver Whitecaps",
+      "utc": "2026-10-18T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-18-houston-dynamo-fc-fc-dallas",
+      "weekend": "2026-10-18",
+      "name": "Houston Dynamo FC v FC Dallas",
+      "utc": "2026-10-18T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-18-sporting-kansas-city-real-salt-lake",
+      "weekend": "2026-10-18",
+      "name": "Sporting Kansas City v Real Salt Lake",
+      "utc": "2026-10-18T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-18-la-galaxy-san-diego-fc",
+      "weekend": "2026-10-18",
+      "name": "LA Galaxy v San Diego FC",
+      "utc": "2026-10-18T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-18-portland-timbers-colorado-rapids",
+      "weekend": "2026-10-18",
+      "name": "Portland Timbers v Colorado Rapids",
+      "utc": "2026-10-18T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-18-san-jose-earthquakes-nashville-sc",
+      "weekend": "2026-10-18",
+      "name": "San Jose Earthquakes v Nashville SC",
+      "utc": "2026-10-18T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-18-seattle-sounders-fc-cf-montr-al",
+      "weekend": "2026-10-18",
+      "name": "Seattle Sounders FC v CF Montr\u00e9al",
+      "utc": "2026-10-18T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-18-fc-cincinnati-columbus-crew",
+      "weekend": "2026-10-18",
+      "name": "FC Cincinnati v Columbus Crew",
+      "utc": "2026-10-18T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-10-24-cf-montr-al-nashville-sc",
+      "weekend": "2026-10-24",
+      "name": "CF Montr\u00e9al v Nashville SC",
+      "utc": "2026-10-24T17:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-24-columbus-crew-toronto-fc",
+      "weekend": "2026-10-24",
+      "name": "Columbus Crew v Toronto FC",
+      "utc": "2026-10-24T19:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-24-red-bull-new-york-inter-miami-cf",
+      "weekend": "2026-10-24",
+      "name": "Red Bull New York v Inter Miami CF",
+      "utc": "2026-10-24T21:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-24-atlanta-united-fc-chicago-fire-fc",
+      "weekend": "2026-10-24",
+      "name": "Atlanta United FC v Chicago Fire FC",
+      "utc": "2026-10-24T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-24-d-c-united-fc-cincinnati",
+      "weekend": "2026-10-24",
+      "name": "D.C. United v FC Cincinnati",
+      "utc": "2026-10-24T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-24-orlando-city-sc-new-york-city-fc",
+      "weekend": "2026-10-24",
+      "name": "Orlando City SC v New York City FC",
+      "utc": "2026-10-24T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-24-philadelphia-union-new-england-revolution",
+      "weekend": "2026-10-24",
+      "name": "Philadelphia Union v New England Revolution",
+      "utc": "2026-10-24T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-25-colorado-rapids-vancouver-whitecaps",
+      "weekend": "2026-10-25",
+      "name": "Colorado Rapids v Vancouver Whitecaps",
+      "utc": "2026-10-25T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-25-fc-dallas-san-jose-earthquakes",
+      "weekend": "2026-10-25",
+      "name": "FC Dallas v San Jose Earthquakes",
+      "utc": "2026-10-25T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-25-houston-dynamo-fc-minnesota-united-fc",
+      "weekend": "2026-10-25",
+      "name": "Houston Dynamo FC v Minnesota United FC",
+      "utc": "2026-10-25T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-25-real-salt-lake-st-louis-city-sc",
+      "weekend": "2026-10-25",
+      "name": "Real Salt Lake v St. Louis CITY SC",
+      "utc": "2026-10-25T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-25-sporting-kansas-city-austin-fc",
+      "weekend": "2026-10-25",
+      "name": "Sporting Kansas City v Austin FC",
+      "utc": "2026-10-25T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-25-portland-timbers-charlotte-fc",
+      "weekend": "2026-10-25",
+      "name": "Portland Timbers v Charlotte FC",
+      "utc": "2026-10-25T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-25-san-diego-fc-seattle-sounders-fc",
+      "weekend": "2026-10-25",
+      "name": "San Diego FC v Seattle Sounders FC",
+      "utc": "2026-10-25T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-26-lafc-la-galaxy",
+      "weekend": "2026-10-26",
+      "name": "LAFC v LA Galaxy",
+      "utc": "2026-10-26T01:00:00Z"
+    },
+    {
+      "id": "mls-2026-10-28-charlotte-fc-cf-montr-al",
+      "weekend": "2026-10-28",
+      "name": "Charlotte FC v CF Montr\u00e9al",
+      "utc": "2026-10-28T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-28-inter-miami-cf-fc-cincinnati",
+      "weekend": "2026-10-28",
+      "name": "Inter Miami CF v FC Cincinnati",
+      "utc": "2026-10-28T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-28-new-england-revolution-red-bull-new-york",
+      "weekend": "2026-10-28",
+      "name": "New England Revolution v Red Bull New York",
+      "utc": "2026-10-28T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-28-new-york-city-fc-atlanta-united-fc",
+      "weekend": "2026-10-28",
+      "name": "New York City FC v Atlanta United FC",
+      "utc": "2026-10-28T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-28-toronto-fc-d-c-united",
+      "weekend": "2026-10-28",
+      "name": "Toronto FC v D.C. United",
+      "utc": "2026-10-28T23:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-29-austin-fc-real-salt-lake",
+      "weekend": "2026-10-29",
+      "name": "Austin FC v Real Salt Lake",
+      "utc": "2026-10-29T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-29-chicago-fire-fc-orlando-city-sc",
+      "weekend": "2026-10-29",
+      "name": "Chicago Fire FC v Orlando City SC",
+      "utc": "2026-10-29T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-29-fc-dallas-columbus-crew",
+      "weekend": "2026-10-29",
+      "name": "FC Dallas v Columbus Crew",
+      "utc": "2026-10-29T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-29-minnesota-united-fc-sporting-kansas-city",
+      "weekend": "2026-10-29",
+      "name": "Minnesota United FC v Sporting Kansas City",
+      "utc": "2026-10-29T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-29-nashville-sc-philadelphia-union",
+      "weekend": "2026-10-29",
+      "name": "Nashville SC v Philadelphia Union",
+      "utc": "2026-10-29T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-29-st-louis-city-sc-portland-timbers",
+      "weekend": "2026-10-29",
+      "name": "St. Louis CITY SC v Portland Timbers",
+      "utc": "2026-10-29T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-29-san-jose-earthquakes-colorado-rapids",
+      "weekend": "2026-10-29",
+      "name": "San Jose Earthquakes v Colorado Rapids",
+      "utc": "2026-10-29T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-29-seattle-sounders-fc-houston-dynamo-fc",
+      "weekend": "2026-10-29",
+      "name": "Seattle Sounders FC v Houston Dynamo FC",
+      "utc": "2026-10-29T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-29-vancouver-whitecaps-san-diego-fc",
+      "weekend": "2026-10-29",
+      "name": "Vancouver Whitecaps v San Diego FC",
+      "utc": "2026-10-29T02:30:00Z"
+    },
+    {
+      "id": "mls-2026-10-31-charlotte-fc-orlando-city-sc",
+      "weekend": "2026-10-31",
+      "name": "Charlotte FC v Orlando City SC",
+      "utc": "2026-10-31T17:00:00Z"
+    },
+    {
+      "id": "mls-2026-10-31-columbus-crew-d-c-united",
+      "weekend": "2026-10-31",
+      "name": "Columbus Crew v D.C. United",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "mls-2026-10-31-fc-cincinnati-philadelphia-union",
+      "weekend": "2026-10-31",
+      "name": "FC Cincinnati v Philadelphia Union",
+      "utc": "2026-10-31T18:00:00Z"
+    },
+    {
+      "id": "mls-2026-10-31-sporting-kansas-city-fc-dallas",
+      "weekend": "2026-10-31",
+      "name": "Sporting Kansas City v FC Dallas",
+      "utc": "2026-10-31T19:00:00Z"
+    },
+    {
+      "id": "mls-2026-10-31-la-galaxy-austin-fc",
+      "weekend": "2026-10-31",
+      "name": "LA Galaxy v Austin FC",
+      "utc": "2026-10-31T21:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-01-colorado-rapids-chicago-fire-fc",
+      "weekend": "2026-11-01",
+      "name": "Colorado Rapids v Chicago Fire FC",
+      "utc": "2026-11-01T01:30:00Z"
+    },
+    {
+      "id": "mls-2026-11-01-lafc-minnesota-united-fc",
+      "weekend": "2026-11-01",
+      "name": "LAFC v Minnesota United FC",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-01-new-york-city-fc-cf-montr-al",
+      "weekend": "2026-11-01",
+      "name": "New York City FC v CF Montr\u00e9al",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-01-san-jose-earthquakes-real-salt-lake",
+      "weekend": "2026-11-01",
+      "name": "San Jose Earthquakes v Real Salt Lake",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-01-st-louis-city-sc-san-diego-fc",
+      "weekend": "2026-11-01",
+      "name": "St. Louis CITY SC v San Diego FC",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-01-atlanta-united-fc-toronto-fc",
+      "weekend": "2026-11-01",
+      "name": "Atlanta United FC v Toronto FC",
+      "utc": "2026-11-01T21:30:00Z"
+    },
+    {
+      "id": "mls-2026-11-01-nashville-sc-red-bull-new-york",
+      "weekend": "2026-11-01",
+      "name": "Nashville SC v Red Bull New York",
+      "utc": "2026-11-01T21:30:00Z"
+    },
+    {
+      "id": "mls-2026-11-01-vancouver-whitecaps-seattle-sounders-fc",
+      "weekend": "2026-11-01",
+      "name": "Vancouver Whitecaps v Seattle Sounders FC",
+      "utc": "2026-11-01T21:30:00Z"
+    },
+    {
+      "id": "mls-2026-11-01-new-england-revolution-inter-miami-cf",
+      "weekend": "2026-11-01",
+      "name": "New England Revolution v Inter Miami CF",
+      "utc": "2026-11-01T23:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-02-portland-timbers-houston-dynamo-fc",
+      "weekend": "2026-11-02",
+      "name": "Portland Timbers v Houston Dynamo FC",
+      "utc": "2026-11-02T01:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-05-new-york-city-fc-lafc",
+      "weekend": "2026-11-05",
+      "name": "New York City FC v LAFC",
+      "utc": "2026-11-05T00:30:00Z"
+    },
+    {
+      "id": "mls-2026-11-07-cf-montr-al-vancouver-whitecaps",
+      "weekend": "2026-11-07",
+      "name": "CF Montr\u00e9al v Vancouver Whitecaps",
+      "utc": "2026-11-07T21:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-07-chicago-fire-fc-columbus-crew",
+      "weekend": "2026-11-07",
+      "name": "Chicago Fire FC v Columbus Crew",
+      "utc": "2026-11-07T21:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-07-d-c-united-new-york-city-fc",
+      "weekend": "2026-11-07",
+      "name": "D.C. United v New York City FC",
+      "utc": "2026-11-07T21:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-07-fc-cincinnati-nashville-sc",
+      "weekend": "2026-11-07",
+      "name": "FC Cincinnati v Nashville SC",
+      "utc": "2026-11-07T21:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-07-inter-miami-cf-charlotte-fc",
+      "weekend": "2026-11-07",
+      "name": "Inter Miami CF v Charlotte FC",
+      "utc": "2026-11-07T21:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-07-orlando-city-sc-new-england-revolution",
+      "weekend": "2026-11-07",
+      "name": "Orlando City SC v New England Revolution",
+      "utc": "2026-11-07T21:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-07-philadelphia-union-toronto-fc",
+      "weekend": "2026-11-07",
+      "name": "Philadelphia Union v Toronto FC",
+      "utc": "2026-11-07T21:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-07-red-bull-new-york-atlanta-united-fc",
+      "weekend": "2026-11-07",
+      "name": "Red Bull New York v Atlanta United FC",
+      "utc": "2026-11-07T21:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-08-austin-fc-portland-timbers",
+      "weekend": "2026-11-08",
+      "name": "Austin FC v Portland Timbers",
+      "utc": "2026-11-08T00:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-08-fc-dallas-colorado-rapids",
+      "weekend": "2026-11-08",
+      "name": "FC Dallas v Colorado Rapids",
+      "utc": "2026-11-08T00:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-08-houston-dynamo-fc-st-louis-city-sc",
+      "weekend": "2026-11-08",
+      "name": "Houston Dynamo FC v St. Louis CITY SC",
+      "utc": "2026-11-08T00:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-08-minnesota-united-fc-san-jose-earthquakes",
+      "weekend": "2026-11-08",
+      "name": "Minnesota United FC v San Jose Earthquakes",
+      "utc": "2026-11-08T00:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-08-real-salt-lake-la-galaxy",
+      "weekend": "2026-11-08",
+      "name": "Real Salt Lake v LA Galaxy",
+      "utc": "2026-11-08T00:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-08-san-diego-fc-sporting-kansas-city",
+      "weekend": "2026-11-08",
+      "name": "San Diego FC v Sporting Kansas City",
+      "utc": "2026-11-08T00:00:00Z"
+    },
+    {
+      "id": "mls-2026-11-08-seattle-sounders-fc-lafc",
+      "weekend": "2026-11-08",
+      "name": "Seattle Sounders FC v LAFC",
+      "utc": "2026-11-08T00:00:00Z"
+    }
+  ]
+}

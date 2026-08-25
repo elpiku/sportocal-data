@@ -1,0 +1,103 @@
+name: Daily Multi-Sport Schedules Scraper
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-all-sports:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 python-dateutil pytz pypdf
+
+      - name: Run American Football Scraper
+        run: python scripts/american_football_generic.py || true
+
+      - name: Run Baseball Scraper
+        run: python scripts/baseball_generic.py || true
+
+      - name: Run Basketball Scraper
+        run: python scripts/basketball_generic.py || true
+
+      - name: Run Hockey Scraper
+        run: python scripts/hockey_generic.py || true
+
+      - name: Run Soccer Generic Scraper
+        run: python scripts/soccer_generic.py || true
+
+      - name: Run MMA Scraper
+        run: python scripts/mma_generic.py || true
+
+      - name: Run Rugby Scraper
+        run: python scripts/rugby_generic.py || true
+
+      - name: Run Cricket Scraper
+        run: python scripts/cricket_generic.py || true
+
+      - name: Run Australian Rules Football Scraper
+        run: python scripts/australian_football_generic.py || true
+
+      - name: Run Golf Scraper
+        run: python scripts/golf_generic.py || true
+
+      - name: Run Tennis Scraper
+        run: python scripts/tennis_generic.py || true
+
+      - name: Run Boxing Scraper
+        run: python scripts/boxing_generic.py || true
+
+      - name: Run Softball Scraper
+        run: python scripts/softball_generic.py || true
+
+      - name: Run Lacrosse Scraper
+        run: python scripts/lacrosse_generic.py || true
+
+      - name: Run Volleyball Scraper
+        run: python scripts/volleyball_generic.py || true
+
+      - name: Run Gymnastics Scraper
+        run: python scripts/gymnastics_generic.py || true
+
+      - name: Run Wrestling Scraper
+        run: python scripts/wrestling_generic.py || true
+
+      - name: Run Action Sports Scraper
+        run: python scripts/action_sports_generic.py || true
+
+      - name: Run Water Polo Scraper
+        run: python scripts/water_polo_generic.py || true
+
+      - name: Rebuild index.json
+        run: python scripts/build_index.py
+
+      - name: Commit and push updated schedules
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff-index --quiet --cached HEAD; then
+            git commit -m "chore(schedules): update daily multi-sport schedules and index.json"
+            for i in 1 2 3 4 5; do
+              git push origin main && exit 0
+              echo "Push rejected (another workflow likely pushed first) - pulling and retrying ($i/5)..."
+              git pull --rebase origin main
+              sleep $((RANDOM % 10 + 1))
+            done
+            echo "Failed to push after 5 attempts" >&2
+            exit 1
+          fi

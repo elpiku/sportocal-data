@@ -1,0 +1,1790 @@
+{
+  "sportKey": "soccer-tur.1",
+  "leagueName": "Turkish Super Lig",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "tur.1-2026-08-14-galatasaray-orum-fk",
+      "weekend": "2026-08-14",
+      "name": "Galatasaray v \u00c7orum FK",
+      "utc": "2026-08-14T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-15-kasimpasa-trabzonspor",
+      "weekend": "2026-08-15",
+      "name": "Kasimpasa v Trabzonspor",
+      "utc": "2026-08-15T16:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-15-konyaspor-caykur-rizespor",
+      "weekend": "2026-08-15",
+      "name": "Konyaspor v Caykur Rizespor",
+      "utc": "2026-08-15T16:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-15-gaziantep-fk-alanyaspor",
+      "weekend": "2026-08-15",
+      "name": "Gaziantep FK v Alanyaspor",
+      "utc": "2026-08-15T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-15-genclerbirligi-fenerbahce",
+      "weekend": "2026-08-15",
+      "name": "Genclerbirligi v Fenerbahce",
+      "utc": "2026-08-15T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-16-istanbul-basaksehir-kocaelispor",
+      "weekend": "2026-08-16",
+      "name": "Istanbul Basaksehir v Kocaelispor",
+      "utc": "2026-08-16T16:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-16-amed-sfk-erzurum-bb",
+      "weekend": "2026-08-16",
+      "name": "Amed SFK v Erzurum BB",
+      "utc": "2026-08-16T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-16-besiktas-eyupspor",
+      "weekend": "2026-08-16",
+      "name": "Besiktas v Eyupspor",
+      "utc": "2026-08-16T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-17-samsunspor-goztepe",
+      "weekend": "2026-08-17",
+      "name": "Samsunspor v Goztepe",
+      "utc": "2026-08-17T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-21-erzurum-bb-galatasaray",
+      "weekend": "2026-08-21",
+      "name": "Erzurum BB v Galatasaray",
+      "utc": "2026-08-21T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-22-caykur-rizespor-samsunspor",
+      "weekend": "2026-08-22",
+      "name": "Caykur Rizespor v Samsunspor",
+      "utc": "2026-08-22T16:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-22-orum-fk-kasimpasa",
+      "weekend": "2026-08-22",
+      "name": "\u00c7orum FK v Kasimpasa",
+      "utc": "2026-08-22T16:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-22-fenerbahce-konyaspor",
+      "weekend": "2026-08-22",
+      "name": "Fenerbahce v Konyaspor",
+      "utc": "2026-08-22T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-23-eyupspor-gaziantep-fk",
+      "weekend": "2026-08-23",
+      "name": "Eyupspor v Gaziantep FK",
+      "utc": "2026-08-23T16:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-23-trabzonspor-istanbul-basaksehir",
+      "weekend": "2026-08-23",
+      "name": "Trabzonspor v Istanbul Basaksehir",
+      "utc": "2026-08-23T16:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-23-alanyaspor-besiktas",
+      "weekend": "2026-08-23",
+      "name": "Alanyaspor v Besiktas",
+      "utc": "2026-08-23T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-23-goztepe-genclerbirligi",
+      "weekend": "2026-08-23",
+      "name": "Goztepe v Genclerbirligi",
+      "utc": "2026-08-23T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-24-kocaelispor-amed-sfk",
+      "weekend": "2026-08-24",
+      "name": "Kocaelispor v Amed SFK",
+      "utc": "2026-08-24T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-28-genclerbirligi-erzurum-bb",
+      "weekend": "2026-08-28",
+      "name": "Genclerbirligi v Erzurum BB",
+      "utc": "2026-08-28T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-29-konyaspor-kocaelispor",
+      "weekend": "2026-08-29",
+      "name": "Konyaspor v Kocaelispor",
+      "utc": "2026-08-29T16:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-29-galatasaray-goztepe",
+      "weekend": "2026-08-29",
+      "name": "Galatasaray v Goztepe",
+      "utc": "2026-08-29T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-29-gaziantep-fk-caykur-rizespor",
+      "weekend": "2026-08-29",
+      "name": "Gaziantep FK v Caykur Rizespor",
+      "utc": "2026-08-29T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-30-eyupspor-alanyaspor",
+      "weekend": "2026-08-30",
+      "name": "Eyupspor v Alanyaspor",
+      "utc": "2026-08-30T16:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-30-istanbul-basaksehir-kasimpasa",
+      "weekend": "2026-08-30",
+      "name": "Istanbul Basaksehir v Kasimpasa",
+      "utc": "2026-08-30T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-30-samsunspor-fenerbahce",
+      "weekend": "2026-08-30",
+      "name": "Samsunspor v Fenerbahce",
+      "utc": "2026-08-30T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-31-amed-sfk-trabzonspor",
+      "weekend": "2026-08-31",
+      "name": "Amed SFK v Trabzonspor",
+      "utc": "2026-08-31T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-08-31-besiktas-orum-fk",
+      "weekend": "2026-08-31",
+      "name": "Besiktas v \u00c7orum FK",
+      "utc": "2026-08-31T18:30:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-06-caykur-rizespor-alanyaspor",
+      "weekend": "2026-09-06",
+      "name": "Caykur Rizespor v Alanyaspor",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-06-orum-fk-eyupspor",
+      "weekend": "2026-09-06",
+      "name": "\u00c7orum FK v Eyupspor",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-06-erzurum-bb-konyaspor",
+      "weekend": "2026-09-06",
+      "name": "Erzurum BB v Konyaspor",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-06-fenerbahce-besiktas",
+      "weekend": "2026-09-06",
+      "name": "Fenerbahce v Besiktas",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-06-goztepe-gaziantep-fk",
+      "weekend": "2026-09-06",
+      "name": "Goztepe v Gaziantep FK",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-06-istanbul-basaksehir-galatasaray",
+      "weekend": "2026-09-06",
+      "name": "Istanbul Basaksehir v Galatasaray",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-06-kasimpasa-amed-sfk",
+      "weekend": "2026-09-06",
+      "name": "Kasimpasa v Amed SFK",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-06-kocaelispor-samsunspor",
+      "weekend": "2026-09-06",
+      "name": "Kocaelispor v Samsunspor",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-06-trabzonspor-genclerbirligi",
+      "weekend": "2026-09-06",
+      "name": "Trabzonspor v Genclerbirligi",
+      "utc": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-13-alanyaspor-goztepe",
+      "weekend": "2026-09-13",
+      "name": "Alanyaspor v Goztepe",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-13-amed-sfk-istanbul-basaksehir",
+      "weekend": "2026-09-13",
+      "name": "Amed SFK v Istanbul Basaksehir",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-13-besiktas-erzurum-bb",
+      "weekend": "2026-09-13",
+      "name": "Besiktas v Erzurum BB",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-13-eyupspor-caykur-rizespor",
+      "weekend": "2026-09-13",
+      "name": "Eyupspor v Caykur Rizespor",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-13-galatasaray-kocaelispor",
+      "weekend": "2026-09-13",
+      "name": "Galatasaray v Kocaelispor",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-13-gaziantep-fk-fenerbahce",
+      "weekend": "2026-09-13",
+      "name": "Gaziantep FK v Fenerbahce",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-13-genclerbirligi-kasimpasa",
+      "weekend": "2026-09-13",
+      "name": "Genclerbirligi v Kasimpasa",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-13-konyaspor-trabzonspor",
+      "weekend": "2026-09-13",
+      "name": "Konyaspor v Trabzonspor",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-13-samsunspor-orum-fk",
+      "weekend": "2026-09-13",
+      "name": "Samsunspor v \u00c7orum FK",
+      "utc": "2026-09-13T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-20-amed-sfk-besiktas",
+      "weekend": "2026-09-20",
+      "name": "Amed SFK v Besiktas",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-20-orum-fk-alanyaspor",
+      "weekend": "2026-09-20",
+      "name": "\u00c7orum FK v Alanyaspor",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-20-erzurum-bb-samsunspor",
+      "weekend": "2026-09-20",
+      "name": "Erzurum BB v Samsunspor",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-20-fenerbahce-eyupspor",
+      "weekend": "2026-09-20",
+      "name": "Fenerbahce v Eyupspor",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-20-goztepe-caykur-rizespor",
+      "weekend": "2026-09-20",
+      "name": "Goztepe v Caykur Rizespor",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-20-istanbul-basaksehir-genclerbirligi",
+      "weekend": "2026-09-20",
+      "name": "Istanbul Basaksehir v Genclerbirligi",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-20-kasimpasa-konyaspor",
+      "weekend": "2026-09-20",
+      "name": "Kasimpasa v Konyaspor",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-20-kocaelispor-gaziantep-fk",
+      "weekend": "2026-09-20",
+      "name": "Kocaelispor v Gaziantep FK",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-09-20-trabzonspor-galatasaray",
+      "weekend": "2026-09-20",
+      "name": "Trabzonspor v Galatasaray",
+      "utc": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-11-alanyaspor-erzurum-bb",
+      "weekend": "2026-10-11",
+      "name": "Alanyaspor v Erzurum BB",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-11-besiktas-kocaelispor",
+      "weekend": "2026-10-11",
+      "name": "Besiktas v Kocaelispor",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-11-caykur-rizespor-fenerbahce",
+      "weekend": "2026-10-11",
+      "name": "Caykur Rizespor v Fenerbahce",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-11-eyupspor-goztepe",
+      "weekend": "2026-10-11",
+      "name": "Eyupspor v Goztepe",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-11-galatasaray-kasimpasa",
+      "weekend": "2026-10-11",
+      "name": "Galatasaray v Kasimpasa",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-11-gaziantep-fk-orum-fk",
+      "weekend": "2026-10-11",
+      "name": "Gaziantep FK v \u00c7orum FK",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-11-genclerbirligi-amed-sfk",
+      "weekend": "2026-10-11",
+      "name": "Genclerbirligi v Amed SFK",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-11-konyaspor-istanbul-basaksehir",
+      "weekend": "2026-10-11",
+      "name": "Konyaspor v Istanbul Basaksehir",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-11-samsunspor-trabzonspor",
+      "weekend": "2026-10-11",
+      "name": "Samsunspor v Trabzonspor",
+      "utc": "2026-10-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-18-amed-sfk-konyaspor",
+      "weekend": "2026-10-18",
+      "name": "Amed SFK v Konyaspor",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-18-orum-fk-caykur-rizespor",
+      "weekend": "2026-10-18",
+      "name": "\u00c7orum FK v Caykur Rizespor",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-18-erzurum-bb-eyupspor",
+      "weekend": "2026-10-18",
+      "name": "Erzurum BB v Eyupspor",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-18-fenerbahce-alanyaspor",
+      "weekend": "2026-10-18",
+      "name": "Fenerbahce v Alanyaspor",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-18-genclerbirligi-galatasaray",
+      "weekend": "2026-10-18",
+      "name": "Genclerbirligi v Galatasaray",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-18-istanbul-basaksehir-gaziantep-fk",
+      "weekend": "2026-10-18",
+      "name": "Istanbul Basaksehir v Gaziantep FK",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-18-kasimpasa-samsunspor",
+      "weekend": "2026-10-18",
+      "name": "Kasimpasa v Samsunspor",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-18-kocaelispor-goztepe",
+      "weekend": "2026-10-18",
+      "name": "Kocaelispor v Goztepe",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-18-trabzonspor-besiktas",
+      "weekend": "2026-10-18",
+      "name": "Trabzonspor v Besiktas",
+      "utc": "2026-10-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-25-alanyaspor-kocaelispor",
+      "weekend": "2026-10-25",
+      "name": "Alanyaspor v Kocaelispor",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-25-besiktas-istanbul-basaksehir",
+      "weekend": "2026-10-25",
+      "name": "Besiktas v Istanbul Basaksehir",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-25-caykur-rizespor-trabzonspor",
+      "weekend": "2026-10-25",
+      "name": "Caykur Rizespor v Trabzonspor",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-25-eyupspor-kasimpasa",
+      "weekend": "2026-10-25",
+      "name": "Eyupspor v Kasimpasa",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-25-galatasaray-fenerbahce",
+      "weekend": "2026-10-25",
+      "name": "Galatasaray v Fenerbahce",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-25-gaziantep-fk-erzurum-bb",
+      "weekend": "2026-10-25",
+      "name": "Gaziantep FK v Erzurum BB",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-25-goztepe-orum-fk",
+      "weekend": "2026-10-25",
+      "name": "Goztepe v \u00c7orum FK",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-25-konyaspor-genclerbirligi",
+      "weekend": "2026-10-25",
+      "name": "Konyaspor v Genclerbirligi",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-10-25-samsunspor-amed-sfk",
+      "weekend": "2026-10-25",
+      "name": "Samsunspor v Amed SFK",
+      "utc": "2026-10-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-01-amed-sfk-eyupspor",
+      "weekend": "2026-11-01",
+      "name": "Amed SFK v Eyupspor",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-01-erzurum-bb-orum-fk",
+      "weekend": "2026-11-01",
+      "name": "Erzurum BB v \u00c7orum FK",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-01-fenerbahce-goztepe",
+      "weekend": "2026-11-01",
+      "name": "Fenerbahce v Goztepe",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-01-genclerbirligi-alanyaspor",
+      "weekend": "2026-11-01",
+      "name": "Genclerbirligi v Alanyaspor",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-01-istanbul-basaksehir-samsunspor",
+      "weekend": "2026-11-01",
+      "name": "Istanbul Basaksehir v Samsunspor",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-01-kasimpasa-besiktas",
+      "weekend": "2026-11-01",
+      "name": "Kasimpasa v Besiktas",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-01-kocaelispor-caykur-rizespor",
+      "weekend": "2026-11-01",
+      "name": "Kocaelispor v Caykur Rizespor",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-01-konyaspor-galatasaray",
+      "weekend": "2026-11-01",
+      "name": "Konyaspor v Galatasaray",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-01-trabzonspor-gaziantep-fk",
+      "weekend": "2026-11-01",
+      "name": "Trabzonspor v Gaziantep FK",
+      "utc": "2026-11-01T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-08-alanyaspor-trabzonspor",
+      "weekend": "2026-11-08",
+      "name": "Alanyaspor v Trabzonspor",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-08-besiktas-genclerbirligi",
+      "weekend": "2026-11-08",
+      "name": "Besiktas v Genclerbirligi",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-08-caykur-rizespor-erzurum-bb",
+      "weekend": "2026-11-08",
+      "name": "Caykur Rizespor v Erzurum BB",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-08-orum-fk-fenerbahce",
+      "weekend": "2026-11-08",
+      "name": "\u00c7orum FK v Fenerbahce",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-08-eyupspor-kocaelispor",
+      "weekend": "2026-11-08",
+      "name": "Eyupspor v Kocaelispor",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-08-galatasaray-amed-sfk",
+      "weekend": "2026-11-08",
+      "name": "Galatasaray v Amed SFK",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-08-gaziantep-fk-kasimpasa",
+      "weekend": "2026-11-08",
+      "name": "Gaziantep FK v Kasimpasa",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-08-goztepe-istanbul-basaksehir",
+      "weekend": "2026-11-08",
+      "name": "Goztepe v Istanbul Basaksehir",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-08-samsunspor-konyaspor",
+      "weekend": "2026-11-08",
+      "name": "Samsunspor v Konyaspor",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-22-amed-sfk-caykur-rizespor",
+      "weekend": "2026-11-22",
+      "name": "Amed SFK v Caykur Rizespor",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-22-erzurum-bb-goztepe",
+      "weekend": "2026-11-22",
+      "name": "Erzurum BB v Goztepe",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-22-galatasaray-samsunspor",
+      "weekend": "2026-11-22",
+      "name": "Galatasaray v Samsunspor",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-22-genclerbirligi-gaziantep-fk",
+      "weekend": "2026-11-22",
+      "name": "Genclerbirligi v Gaziantep FK",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-22-istanbul-basaksehir-orum-fk",
+      "weekend": "2026-11-22",
+      "name": "Istanbul Basaksehir v \u00c7orum FK",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-22-kasimpasa-alanyaspor",
+      "weekend": "2026-11-22",
+      "name": "Kasimpasa v Alanyaspor",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-22-kocaelispor-fenerbahce",
+      "weekend": "2026-11-22",
+      "name": "Kocaelispor v Fenerbahce",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-22-konyaspor-besiktas",
+      "weekend": "2026-11-22",
+      "name": "Konyaspor v Besiktas",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-22-trabzonspor-eyupspor",
+      "weekend": "2026-11-22",
+      "name": "Trabzonspor v Eyupspor",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-29-alanyaspor-konyaspor",
+      "weekend": "2026-11-29",
+      "name": "Alanyaspor v Konyaspor",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-29-besiktas-galatasaray",
+      "weekend": "2026-11-29",
+      "name": "Besiktas v Galatasaray",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-29-caykur-rizespor-kasimpasa",
+      "weekend": "2026-11-29",
+      "name": "Caykur Rizespor v Kasimpasa",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-29-orum-fk-kocaelispor",
+      "weekend": "2026-11-29",
+      "name": "\u00c7orum FK v Kocaelispor",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-29-eyupspor-istanbul-basaksehir",
+      "weekend": "2026-11-29",
+      "name": "Eyupspor v Istanbul Basaksehir",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-29-fenerbahce-erzurum-bb",
+      "weekend": "2026-11-29",
+      "name": "Fenerbahce v Erzurum BB",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-29-gaziantep-fk-amed-sfk",
+      "weekend": "2026-11-29",
+      "name": "Gaziantep FK v Amed SFK",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-29-goztepe-trabzonspor",
+      "weekend": "2026-11-29",
+      "name": "Goztepe v Trabzonspor",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-11-29-samsunspor-genclerbirligi",
+      "weekend": "2026-11-29",
+      "name": "Samsunspor v Genclerbirligi",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-06-amed-sfk-alanyaspor",
+      "weekend": "2026-12-06",
+      "name": "Amed SFK v Alanyaspor",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-06-besiktas-samsunspor",
+      "weekend": "2026-12-06",
+      "name": "Besiktas v Samsunspor",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-06-erzurum-bb-kocaelispor",
+      "weekend": "2026-12-06",
+      "name": "Erzurum BB v Kocaelispor",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-06-galatasaray-caykur-rizespor",
+      "weekend": "2026-12-06",
+      "name": "Galatasaray v Caykur Rizespor",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-06-genclerbirligi-eyupspor",
+      "weekend": "2026-12-06",
+      "name": "Genclerbirligi v Eyupspor",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-06-istanbul-basaksehir-fenerbahce",
+      "weekend": "2026-12-06",
+      "name": "Istanbul Basaksehir v Fenerbahce",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-06-kasimpasa-goztepe",
+      "weekend": "2026-12-06",
+      "name": "Kasimpasa v Goztepe",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-06-konyaspor-gaziantep-fk",
+      "weekend": "2026-12-06",
+      "name": "Konyaspor v Gaziantep FK",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-06-trabzonspor-orum-fk",
+      "weekend": "2026-12-06",
+      "name": "Trabzonspor v \u00c7orum FK",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-13-alanyaspor-samsunspor",
+      "weekend": "2026-12-13",
+      "name": "Alanyaspor v Samsunspor",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-13-caykur-rizespor-istanbul-basaksehir",
+      "weekend": "2026-12-13",
+      "name": "Caykur Rizespor v Istanbul Basaksehir",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-13-orum-fk-amed-sfk",
+      "weekend": "2026-12-13",
+      "name": "\u00c7orum FK v Amed SFK",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-13-erzurum-bb-kasimpasa",
+      "weekend": "2026-12-13",
+      "name": "Erzurum BB v Kasimpasa",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-13-eyupspor-galatasaray",
+      "weekend": "2026-12-13",
+      "name": "Eyupspor v Galatasaray",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-13-fenerbahce-trabzonspor",
+      "weekend": "2026-12-13",
+      "name": "Fenerbahce v Trabzonspor",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-13-gaziantep-fk-besiktas",
+      "weekend": "2026-12-13",
+      "name": "Gaziantep FK v Besiktas",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-13-goztepe-konyaspor",
+      "weekend": "2026-12-13",
+      "name": "Goztepe v Konyaspor",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-13-kocaelispor-genclerbirligi",
+      "weekend": "2026-12-13",
+      "name": "Kocaelispor v Genclerbirligi",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-20-amed-sfk-goztepe",
+      "weekend": "2026-12-20",
+      "name": "Amed SFK v Goztepe",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-20-besiktas-caykur-rizespor",
+      "weekend": "2026-12-20",
+      "name": "Besiktas v Caykur Rizespor",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-20-galatasaray-alanyaspor",
+      "weekend": "2026-12-20",
+      "name": "Galatasaray v Alanyaspor",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-20-genclerbirligi-orum-fk",
+      "weekend": "2026-12-20",
+      "name": "Genclerbirligi v \u00c7orum FK",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-20-istanbul-basaksehir-erzurum-bb",
+      "weekend": "2026-12-20",
+      "name": "Istanbul Basaksehir v Erzurum BB",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-20-kasimpasa-fenerbahce",
+      "weekend": "2026-12-20",
+      "name": "Kasimpasa v Fenerbahce",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-20-konyaspor-eyupspor",
+      "weekend": "2026-12-20",
+      "name": "Konyaspor v Eyupspor",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-20-samsunspor-gaziantep-fk",
+      "weekend": "2026-12-20",
+      "name": "Samsunspor v Gaziantep FK",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2026-12-20-trabzonspor-kocaelispor",
+      "weekend": "2026-12-20",
+      "name": "Trabzonspor v Kocaelispor",
+      "utc": "2026-12-20T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-17-alanyaspor-istanbul-basaksehir",
+      "weekend": "2027-01-17",
+      "name": "Alanyaspor v Istanbul Basaksehir",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-17-caykur-rizespor-genclerbirligi",
+      "weekend": "2027-01-17",
+      "name": "Caykur Rizespor v Genclerbirligi",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-17-orum-fk-konyaspor",
+      "weekend": "2027-01-17",
+      "name": "\u00c7orum FK v Konyaspor",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-17-erzurum-bb-trabzonspor",
+      "weekend": "2027-01-17",
+      "name": "Erzurum BB v Trabzonspor",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-17-eyupspor-samsunspor",
+      "weekend": "2027-01-17",
+      "name": "Eyupspor v Samsunspor",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-17-fenerbahce-amed-sfk",
+      "weekend": "2027-01-17",
+      "name": "Fenerbahce v Amed SFK",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-17-gaziantep-fk-galatasaray",
+      "weekend": "2027-01-17",
+      "name": "Gaziantep FK v Galatasaray",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-17-goztepe-besiktas",
+      "weekend": "2027-01-17",
+      "name": "Goztepe v Besiktas",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-17-kocaelispor-kasimpasa",
+      "weekend": "2027-01-17",
+      "name": "Kocaelispor v Kasimpasa",
+      "utc": "2027-01-17T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-24-alanyaspor-gaziantep-fk",
+      "weekend": "2027-01-24",
+      "name": "Alanyaspor v Gaziantep FK",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-24-caykur-rizespor-konyaspor",
+      "weekend": "2027-01-24",
+      "name": "Caykur Rizespor v Konyaspor",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-24-orum-fk-galatasaray",
+      "weekend": "2027-01-24",
+      "name": "\u00c7orum FK v Galatasaray",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-24-erzurum-bb-amed-sfk",
+      "weekend": "2027-01-24",
+      "name": "Erzurum BB v Amed SFK",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-24-eyupspor-besiktas",
+      "weekend": "2027-01-24",
+      "name": "Eyupspor v Besiktas",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-24-fenerbahce-genclerbirligi",
+      "weekend": "2027-01-24",
+      "name": "Fenerbahce v Genclerbirligi",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-24-goztepe-samsunspor",
+      "weekend": "2027-01-24",
+      "name": "Goztepe v Samsunspor",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-24-kocaelispor-istanbul-basaksehir",
+      "weekend": "2027-01-24",
+      "name": "Kocaelispor v Istanbul Basaksehir",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-24-trabzonspor-kasimpasa",
+      "weekend": "2027-01-24",
+      "name": "Trabzonspor v Kasimpasa",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-31-amed-sfk-kocaelispor",
+      "weekend": "2027-01-31",
+      "name": "Amed SFK v Kocaelispor",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-31-besiktas-alanyaspor",
+      "weekend": "2027-01-31",
+      "name": "Besiktas v Alanyaspor",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-31-galatasaray-erzurum-bb",
+      "weekend": "2027-01-31",
+      "name": "Galatasaray v Erzurum BB",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-31-gaziantep-fk-eyupspor",
+      "weekend": "2027-01-31",
+      "name": "Gaziantep FK v Eyupspor",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-31-genclerbirligi-goztepe",
+      "weekend": "2027-01-31",
+      "name": "Genclerbirligi v Goztepe",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-31-istanbul-basaksehir-trabzonspor",
+      "weekend": "2027-01-31",
+      "name": "Istanbul Basaksehir v Trabzonspor",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-31-kasimpasa-orum-fk",
+      "weekend": "2027-01-31",
+      "name": "Kasimpasa v \u00c7orum FK",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-31-konyaspor-fenerbahce",
+      "weekend": "2027-01-31",
+      "name": "Konyaspor v Fenerbahce",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-01-31-samsunspor-caykur-rizespor",
+      "weekend": "2027-01-31",
+      "name": "Samsunspor v Caykur Rizespor",
+      "utc": "2027-01-31T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-07-alanyaspor-eyupspor",
+      "weekend": "2027-02-07",
+      "name": "Alanyaspor v Eyupspor",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-07-caykur-rizespor-gaziantep-fk",
+      "weekend": "2027-02-07",
+      "name": "Caykur Rizespor v Gaziantep FK",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-07-orum-fk-besiktas",
+      "weekend": "2027-02-07",
+      "name": "\u00c7orum FK v Besiktas",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-07-erzurum-bb-genclerbirligi",
+      "weekend": "2027-02-07",
+      "name": "Erzurum BB v Genclerbirligi",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-07-fenerbahce-samsunspor",
+      "weekend": "2027-02-07",
+      "name": "Fenerbahce v Samsunspor",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-07-goztepe-galatasaray",
+      "weekend": "2027-02-07",
+      "name": "Goztepe v Galatasaray",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-07-kasimpasa-istanbul-basaksehir",
+      "weekend": "2027-02-07",
+      "name": "Kasimpasa v Istanbul Basaksehir",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-07-kocaelispor-konyaspor",
+      "weekend": "2027-02-07",
+      "name": "Kocaelispor v Konyaspor",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-07-trabzonspor-amed-sfk",
+      "weekend": "2027-02-07",
+      "name": "Trabzonspor v Amed SFK",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-14-alanyaspor-caykur-rizespor",
+      "weekend": "2027-02-14",
+      "name": "Alanyaspor v Caykur Rizespor",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-14-amed-sfk-kasimpasa",
+      "weekend": "2027-02-14",
+      "name": "Amed SFK v Kasimpasa",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-14-besiktas-fenerbahce",
+      "weekend": "2027-02-14",
+      "name": "Besiktas v Fenerbahce",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-14-eyupspor-orum-fk",
+      "weekend": "2027-02-14",
+      "name": "Eyupspor v \u00c7orum FK",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-14-galatasaray-istanbul-basaksehir",
+      "weekend": "2027-02-14",
+      "name": "Galatasaray v Istanbul Basaksehir",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-14-gaziantep-fk-goztepe",
+      "weekend": "2027-02-14",
+      "name": "Gaziantep FK v Goztepe",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-14-genclerbirligi-trabzonspor",
+      "weekend": "2027-02-14",
+      "name": "Genclerbirligi v Trabzonspor",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-14-konyaspor-erzurum-bb",
+      "weekend": "2027-02-14",
+      "name": "Konyaspor v Erzurum BB",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-14-samsunspor-kocaelispor",
+      "weekend": "2027-02-14",
+      "name": "Samsunspor v Kocaelispor",
+      "utc": "2027-02-14T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-21-caykur-rizespor-eyupspor",
+      "weekend": "2027-02-21",
+      "name": "Caykur Rizespor v Eyupspor",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-21-orum-fk-samsunspor",
+      "weekend": "2027-02-21",
+      "name": "\u00c7orum FK v Samsunspor",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-21-erzurum-bb-besiktas",
+      "weekend": "2027-02-21",
+      "name": "Erzurum BB v Besiktas",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-21-fenerbahce-gaziantep-fk",
+      "weekend": "2027-02-21",
+      "name": "Fenerbahce v Gaziantep FK",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-21-goztepe-alanyaspor",
+      "weekend": "2027-02-21",
+      "name": "Goztepe v Alanyaspor",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-21-istanbul-basaksehir-amed-sfk",
+      "weekend": "2027-02-21",
+      "name": "Istanbul Basaksehir v Amed SFK",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-21-kasimpasa-genclerbirligi",
+      "weekend": "2027-02-21",
+      "name": "Kasimpasa v Genclerbirligi",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-21-kocaelispor-galatasaray",
+      "weekend": "2027-02-21",
+      "name": "Kocaelispor v Galatasaray",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-21-trabzonspor-konyaspor",
+      "weekend": "2027-02-21",
+      "name": "Trabzonspor v Konyaspor",
+      "utc": "2027-02-21T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-28-alanyaspor-orum-fk",
+      "weekend": "2027-02-28",
+      "name": "Alanyaspor v \u00c7orum FK",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-28-besiktas-amed-sfk",
+      "weekend": "2027-02-28",
+      "name": "Besiktas v Amed SFK",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-28-caykur-rizespor-goztepe",
+      "weekend": "2027-02-28",
+      "name": "Caykur Rizespor v Goztepe",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-28-eyupspor-fenerbahce",
+      "weekend": "2027-02-28",
+      "name": "Eyupspor v Fenerbahce",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-28-galatasaray-trabzonspor",
+      "weekend": "2027-02-28",
+      "name": "Galatasaray v Trabzonspor",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-28-gaziantep-fk-kocaelispor",
+      "weekend": "2027-02-28",
+      "name": "Gaziantep FK v Kocaelispor",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-28-genclerbirligi-istanbul-basaksehir",
+      "weekend": "2027-02-28",
+      "name": "Genclerbirligi v Istanbul Basaksehir",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-28-konyaspor-kasimpasa",
+      "weekend": "2027-02-28",
+      "name": "Konyaspor v Kasimpasa",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-02-28-samsunspor-erzurum-bb",
+      "weekend": "2027-02-28",
+      "name": "Samsunspor v Erzurum BB",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-07-amed-sfk-genclerbirligi",
+      "weekend": "2027-03-07",
+      "name": "Amed SFK v Genclerbirligi",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-07-orum-fk-gaziantep-fk",
+      "weekend": "2027-03-07",
+      "name": "\u00c7orum FK v Gaziantep FK",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-07-erzurum-bb-alanyaspor",
+      "weekend": "2027-03-07",
+      "name": "Erzurum BB v Alanyaspor",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-07-fenerbahce-caykur-rizespor",
+      "weekend": "2027-03-07",
+      "name": "Fenerbahce v Caykur Rizespor",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-07-goztepe-eyupspor",
+      "weekend": "2027-03-07",
+      "name": "Goztepe v Eyupspor",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-07-istanbul-basaksehir-konyaspor",
+      "weekend": "2027-03-07",
+      "name": "Istanbul Basaksehir v Konyaspor",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-07-kasimpasa-galatasaray",
+      "weekend": "2027-03-07",
+      "name": "Kasimpasa v Galatasaray",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-07-kocaelispor-besiktas",
+      "weekend": "2027-03-07",
+      "name": "Kocaelispor v Besiktas",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-07-trabzonspor-samsunspor",
+      "weekend": "2027-03-07",
+      "name": "Trabzonspor v Samsunspor",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-14-alanyaspor-fenerbahce",
+      "weekend": "2027-03-14",
+      "name": "Alanyaspor v Fenerbahce",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-14-besiktas-trabzonspor",
+      "weekend": "2027-03-14",
+      "name": "Besiktas v Trabzonspor",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-14-caykur-rizespor-orum-fk",
+      "weekend": "2027-03-14",
+      "name": "Caykur Rizespor v \u00c7orum FK",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-14-eyupspor-erzurum-bb",
+      "weekend": "2027-03-14",
+      "name": "Eyupspor v Erzurum BB",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-14-galatasaray-genclerbirligi",
+      "weekend": "2027-03-14",
+      "name": "Galatasaray v Genclerbirligi",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-14-gaziantep-fk-istanbul-basaksehir",
+      "weekend": "2027-03-14",
+      "name": "Gaziantep FK v Istanbul Basaksehir",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-14-goztepe-kocaelispor",
+      "weekend": "2027-03-14",
+      "name": "Goztepe v Kocaelispor",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-14-konyaspor-amed-sfk",
+      "weekend": "2027-03-14",
+      "name": "Konyaspor v Amed SFK",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-14-samsunspor-kasimpasa",
+      "weekend": "2027-03-14",
+      "name": "Samsunspor v Kasimpasa",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-21-amed-sfk-samsunspor",
+      "weekend": "2027-03-21",
+      "name": "Amed SFK v Samsunspor",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-21-orum-fk-goztepe",
+      "weekend": "2027-03-21",
+      "name": "\u00c7orum FK v Goztepe",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-21-erzurum-bb-gaziantep-fk",
+      "weekend": "2027-03-21",
+      "name": "Erzurum BB v Gaziantep FK",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-21-fenerbahce-galatasaray",
+      "weekend": "2027-03-21",
+      "name": "Fenerbahce v Galatasaray",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-21-genclerbirligi-konyaspor",
+      "weekend": "2027-03-21",
+      "name": "Genclerbirligi v Konyaspor",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-21-istanbul-basaksehir-besiktas",
+      "weekend": "2027-03-21",
+      "name": "Istanbul Basaksehir v Besiktas",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-21-kasimpasa-eyupspor",
+      "weekend": "2027-03-21",
+      "name": "Kasimpasa v Eyupspor",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-21-kocaelispor-alanyaspor",
+      "weekend": "2027-03-21",
+      "name": "Kocaelispor v Alanyaspor",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-03-21-trabzonspor-caykur-rizespor",
+      "weekend": "2027-03-21",
+      "name": "Trabzonspor v Caykur Rizespor",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-04-alanyaspor-genclerbirligi",
+      "weekend": "2027-04-04",
+      "name": "Alanyaspor v Genclerbirligi",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-04-besiktas-kasimpasa",
+      "weekend": "2027-04-04",
+      "name": "Besiktas v Kasimpasa",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-04-caykur-rizespor-kocaelispor",
+      "weekend": "2027-04-04",
+      "name": "Caykur Rizespor v Kocaelispor",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-04-orum-fk-erzurum-bb",
+      "weekend": "2027-04-04",
+      "name": "\u00c7orum FK v Erzurum BB",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-04-eyupspor-amed-sfk",
+      "weekend": "2027-04-04",
+      "name": "Eyupspor v Amed SFK",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-04-galatasaray-konyaspor",
+      "weekend": "2027-04-04",
+      "name": "Galatasaray v Konyaspor",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-04-gaziantep-fk-trabzonspor",
+      "weekend": "2027-04-04",
+      "name": "Gaziantep FK v Trabzonspor",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-04-goztepe-fenerbahce",
+      "weekend": "2027-04-04",
+      "name": "Goztepe v Fenerbahce",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-04-samsunspor-istanbul-basaksehir",
+      "weekend": "2027-04-04",
+      "name": "Samsunspor v Istanbul Basaksehir",
+      "utc": "2027-04-04T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-11-amed-sfk-galatasaray",
+      "weekend": "2027-04-11",
+      "name": "Amed SFK v Galatasaray",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-11-erzurum-bb-caykur-rizespor",
+      "weekend": "2027-04-11",
+      "name": "Erzurum BB v Caykur Rizespor",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-11-fenerbahce-orum-fk",
+      "weekend": "2027-04-11",
+      "name": "Fenerbahce v \u00c7orum FK",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-11-genclerbirligi-besiktas",
+      "weekend": "2027-04-11",
+      "name": "Genclerbirligi v Besiktas",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-11-istanbul-basaksehir-goztepe",
+      "weekend": "2027-04-11",
+      "name": "Istanbul Basaksehir v Goztepe",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-11-kasimpasa-gaziantep-fk",
+      "weekend": "2027-04-11",
+      "name": "Kasimpasa v Gaziantep FK",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-11-kocaelispor-eyupspor",
+      "weekend": "2027-04-11",
+      "name": "Kocaelispor v Eyupspor",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-11-konyaspor-samsunspor",
+      "weekend": "2027-04-11",
+      "name": "Konyaspor v Samsunspor",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-11-trabzonspor-alanyaspor",
+      "weekend": "2027-04-11",
+      "name": "Trabzonspor v Alanyaspor",
+      "utc": "2027-04-11T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-18-alanyaspor-kasimpasa",
+      "weekend": "2027-04-18",
+      "name": "Alanyaspor v Kasimpasa",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-18-besiktas-konyaspor",
+      "weekend": "2027-04-18",
+      "name": "Besiktas v Konyaspor",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-18-caykur-rizespor-amed-sfk",
+      "weekend": "2027-04-18",
+      "name": "Caykur Rizespor v Amed SFK",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-18-orum-fk-istanbul-basaksehir",
+      "weekend": "2027-04-18",
+      "name": "\u00c7orum FK v Istanbul Basaksehir",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-18-eyupspor-trabzonspor",
+      "weekend": "2027-04-18",
+      "name": "Eyupspor v Trabzonspor",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-18-fenerbahce-kocaelispor",
+      "weekend": "2027-04-18",
+      "name": "Fenerbahce v Kocaelispor",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-18-gaziantep-fk-genclerbirligi",
+      "weekend": "2027-04-18",
+      "name": "Gaziantep FK v Genclerbirligi",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-18-goztepe-erzurum-bb",
+      "weekend": "2027-04-18",
+      "name": "Goztepe v Erzurum BB",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-18-samsunspor-galatasaray",
+      "weekend": "2027-04-18",
+      "name": "Samsunspor v Galatasaray",
+      "utc": "2027-04-18T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-25-amed-sfk-gaziantep-fk",
+      "weekend": "2027-04-25",
+      "name": "Amed SFK v Gaziantep FK",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-25-erzurum-bb-fenerbahce",
+      "weekend": "2027-04-25",
+      "name": "Erzurum BB v Fenerbahce",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-25-galatasaray-besiktas",
+      "weekend": "2027-04-25",
+      "name": "Galatasaray v Besiktas",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-25-genclerbirligi-samsunspor",
+      "weekend": "2027-04-25",
+      "name": "Genclerbirligi v Samsunspor",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-25-istanbul-basaksehir-eyupspor",
+      "weekend": "2027-04-25",
+      "name": "Istanbul Basaksehir v Eyupspor",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-25-kasimpasa-caykur-rizespor",
+      "weekend": "2027-04-25",
+      "name": "Kasimpasa v Caykur Rizespor",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-25-kocaelispor-orum-fk",
+      "weekend": "2027-04-25",
+      "name": "Kocaelispor v \u00c7orum FK",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-25-konyaspor-alanyaspor",
+      "weekend": "2027-04-25",
+      "name": "Konyaspor v Alanyaspor",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-04-25-trabzonspor-goztepe",
+      "weekend": "2027-04-25",
+      "name": "Trabzonspor v Goztepe",
+      "utc": "2027-04-25T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-02-alanyaspor-amed-sfk",
+      "weekend": "2027-05-02",
+      "name": "Alanyaspor v Amed SFK",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-02-caykur-rizespor-galatasaray",
+      "weekend": "2027-05-02",
+      "name": "Caykur Rizespor v Galatasaray",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-02-orum-fk-trabzonspor",
+      "weekend": "2027-05-02",
+      "name": "\u00c7orum FK v Trabzonspor",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-02-eyupspor-genclerbirligi",
+      "weekend": "2027-05-02",
+      "name": "Eyupspor v Genclerbirligi",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-02-fenerbahce-istanbul-basaksehir",
+      "weekend": "2027-05-02",
+      "name": "Fenerbahce v Istanbul Basaksehir",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-02-gaziantep-fk-konyaspor",
+      "weekend": "2027-05-02",
+      "name": "Gaziantep FK v Konyaspor",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-02-goztepe-kasimpasa",
+      "weekend": "2027-05-02",
+      "name": "Goztepe v Kasimpasa",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-02-kocaelispor-erzurum-bb",
+      "weekend": "2027-05-02",
+      "name": "Kocaelispor v Erzurum BB",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-02-samsunspor-besiktas",
+      "weekend": "2027-05-02",
+      "name": "Samsunspor v Besiktas",
+      "utc": "2027-05-02T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-09-amed-sfk-orum-fk",
+      "weekend": "2027-05-09",
+      "name": "Amed SFK v \u00c7orum FK",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-09-besiktas-gaziantep-fk",
+      "weekend": "2027-05-09",
+      "name": "Besiktas v Gaziantep FK",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-09-galatasaray-eyupspor",
+      "weekend": "2027-05-09",
+      "name": "Galatasaray v Eyupspor",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-09-genclerbirligi-kocaelispor",
+      "weekend": "2027-05-09",
+      "name": "Genclerbirligi v Kocaelispor",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-09-istanbul-basaksehir-caykur-rizespor",
+      "weekend": "2027-05-09",
+      "name": "Istanbul Basaksehir v Caykur Rizespor",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-09-kasimpasa-erzurum-bb",
+      "weekend": "2027-05-09",
+      "name": "Kasimpasa v Erzurum BB",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-09-konyaspor-goztepe",
+      "weekend": "2027-05-09",
+      "name": "Konyaspor v Goztepe",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-09-samsunspor-alanyaspor",
+      "weekend": "2027-05-09",
+      "name": "Samsunspor v Alanyaspor",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-09-trabzonspor-fenerbahce",
+      "weekend": "2027-05-09",
+      "name": "Trabzonspor v Fenerbahce",
+      "utc": "2027-05-09T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-16-alanyaspor-galatasaray",
+      "weekend": "2027-05-16",
+      "name": "Alanyaspor v Galatasaray",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-16-caykur-rizespor-besiktas",
+      "weekend": "2027-05-16",
+      "name": "Caykur Rizespor v Besiktas",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-16-orum-fk-genclerbirligi",
+      "weekend": "2027-05-16",
+      "name": "\u00c7orum FK v Genclerbirligi",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-16-erzurum-bb-istanbul-basaksehir",
+      "weekend": "2027-05-16",
+      "name": "Erzurum BB v Istanbul Basaksehir",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-16-eyupspor-konyaspor",
+      "weekend": "2027-05-16",
+      "name": "Eyupspor v Konyaspor",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-16-fenerbahce-kasimpasa",
+      "weekend": "2027-05-16",
+      "name": "Fenerbahce v Kasimpasa",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-16-gaziantep-fk-samsunspor",
+      "weekend": "2027-05-16",
+      "name": "Gaziantep FK v Samsunspor",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-16-goztepe-amed-sfk",
+      "weekend": "2027-05-16",
+      "name": "Goztepe v Amed SFK",
+      "utc": "2027-05-16T18:00:00Z"
+    },
+    {
+      "id": "tur.1-2027-05-16-kocaelispor-trabzonspor",
+      "weekend": "2027-05-16",
+      "name": "Kocaelispor v Trabzonspor",
+      "utc": "2027-05-16T18:00:00Z"
+    }
+  ]
+}

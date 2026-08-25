@@ -1,0 +1,18 @@
+{
+  "sportKey": "atp",
+  "season": "2026",
+  "events": [
+    { "id": "atp-2026-stuttgart-q", "weekend": "BOSS Open Stuttgart", "name": "Qualifying", "utc": "2026-06-08T09:00:00Z" },
+    { "id": "atp-2026-rosmalen-q", "weekend": "Libéma Open Rosmalen", "name": "Qualifying", "utc": "2026-06-08T09:00:00Z" },
+    { "id": "atp-2026-stuttgart-r1", "weekend": "BOSS Open Stuttgart", "name": "Main Draw Day 1", "utc": "2026-06-09T09:00:00Z" },
+    { "id": "atp-2026-rosmalen-r1", "weekend": "Libéma Open Rosmalen", "name": "Main Draw Day 1", "utc": "2026-06-09T09:00:00Z" },
+    { "id": "atp-2026-stuttgart-r2", "weekend": "BOSS Open Stuttgart", "name": "Main Draw Day 2", "utc": "2026-06-10T09:00:00Z" },
+    { "id": "atp-2026-rosmalen-r2", "weekend": "Libéma Open Rosmalen", "name": "Main Draw Day 2", "utc": "2026-06-10T09:00:00Z" },
+    { "id": "atp-2026-stuttgart-qf", "weekend": "BOSS Open Stuttgart", "name": "Quarterfinals", "utc": "2026-06-11T09:00:00Z" },
+    { "id": "atp-2026-rosmalen-qf", "weekend": "Libéma Open Rosmalen", "name": "Quarterfinals", "utc": "2026-06-11T09:00:00Z" },
+    { "id": "atp-2026-stuttgart-sf", "weekend": "BOSS Open Stuttgart", "name": "Semifinals", "utc": "2026-06-12T09:00:00Z" },
+    { "id": "atp-2026-rosmalen-sf", "weekend": "Libéma Open Rosmalen", "name": "Semifinals", "utc": "2026-06-12T09:00:00Z" },
+    { "id": "atp-2026-stuttgart-f", "weekend": "BOSS Open Stuttgart", "name": "Final", "utc": "2026-06-14T12:00:00Z" },
+    { "id": "atp-2026-rosmalen-f", "weekend": "Libéma Open Rosmalen", "name": "Final", "utc": "2026-06-14T12:00:00Z" }
+  ]
+}

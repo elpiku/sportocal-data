@@ -1,0 +1,1064 @@
+{
+  "sportKey": "soccer-bra.2",
+  "leagueName": "Brazilian Serie B",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "bra.2-2026-08-10-goi-s-londrina",
+      "weekend": "2026-08-10",
+      "name": "Goi\u00e1s v Londrina",
+      "utc": "2026-08-10T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-11-ava-crb",
+      "weekend": "2026-08-11",
+      "name": "Ava\u00ed v CRB",
+      "utc": "2026-08-11T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-14-ponte-preta-n-utico",
+      "weekend": "2026-08-14",
+      "name": "Ponte Preta v N\u00e1utico",
+      "utc": "2026-08-14T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-14-s-o-bernardo-botafogo-sp",
+      "weekend": "2026-08-14",
+      "name": "S\u00e3o Bernardo v Botafogo-SP",
+      "utc": "2026-08-14T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-14-sport-londrina",
+      "weekend": "2026-08-14",
+      "name": "Sport v Londrina",
+      "utc": "2026-08-14T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-15-atl-tico-goianiense-vila-nova",
+      "weekend": "2026-08-15",
+      "name": "Atl\u00e9tico Goianiense v Vila Nova",
+      "utc": "2026-08-15T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-15-cear-cuiab",
+      "weekend": "2026-08-15",
+      "name": "Cear\u00e1 v Cuiab\u00e1",
+      "utc": "2026-08-15T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-15-crici-ma-goi-s",
+      "weekend": "2026-08-15",
+      "name": "Crici\u00fama v Goi\u00e1s",
+      "utc": "2026-08-15T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-15-juventude-fortaleza",
+      "weekend": "2026-08-15",
+      "name": "Juventude v Fortaleza",
+      "utc": "2026-08-15T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-16-oper-rio-pr-ava",
+      "weekend": "2026-08-16",
+      "name": "Oper\u00e1rio PR v Ava\u00ed",
+      "utc": "2026-08-16T14:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-16-am-rica-mineiro-athletic",
+      "weekend": "2026-08-16",
+      "name": "Am\u00e9rica Mineiro v Athletic",
+      "utc": "2026-08-16T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-16-crb-novorizontino",
+      "weekend": "2026-08-16",
+      "name": "CRB v Novorizontino",
+      "utc": "2026-08-16T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-18-londrina-atl-tico-goianiense",
+      "weekend": "2026-08-18",
+      "name": "Londrina v Atl\u00e9tico Goianiense",
+      "utc": "2026-08-18T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-19-n-utico-cear",
+      "weekend": "2026-08-19",
+      "name": "N\u00e1utico v Cear\u00e1",
+      "utc": "2026-08-19T00:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-19-goi-s-juventude",
+      "weekend": "2026-08-19",
+      "name": "Goi\u00e1s v Juventude",
+      "utc": "2026-08-19T00:35:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-19-ava-sport",
+      "weekend": "2026-08-19",
+      "name": "Ava\u00ed v Sport",
+      "utc": "2026-08-19T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-19-fortaleza-s-o-bernardo",
+      "weekend": "2026-08-19",
+      "name": "Fortaleza v S\u00e3o Bernardo",
+      "utc": "2026-08-19T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-19-cuiab-oper-rio-pr",
+      "weekend": "2026-08-19",
+      "name": "Cuiab\u00e1 v Oper\u00e1rio PR",
+      "utc": "2026-08-19T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-19-vila-nova-ponte-preta",
+      "weekend": "2026-08-19",
+      "name": "Vila Nova v Ponte Preta",
+      "utc": "2026-08-19T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-20-botafogo-sp-crici-ma",
+      "weekend": "2026-08-20",
+      "name": "Botafogo-SP v Crici\u00fama",
+      "utc": "2026-08-20T00:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-20-athletic-crb",
+      "weekend": "2026-08-20",
+      "name": "Athletic v CRB",
+      "utc": "2026-08-20T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-20-novorizontino-am-rica-mineiro",
+      "weekend": "2026-08-20",
+      "name": "Novorizontino v Am\u00e9rica Mineiro",
+      "utc": "2026-08-20T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-22-cear-londrina",
+      "weekend": "2026-08-22",
+      "name": "Cear\u00e1 v Londrina",
+      "utc": "2026-08-22T21:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-22-cuiab-goi-s",
+      "weekend": "2026-08-22",
+      "name": "Cuiab\u00e1 v Goi\u00e1s",
+      "utc": "2026-08-22T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-23-ponte-preta-ava",
+      "weekend": "2026-08-23",
+      "name": "Ponte Preta v Ava\u00ed",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-23-s-o-bernardo-n-utico",
+      "weekend": "2026-08-23",
+      "name": "S\u00e3o Bernardo v N\u00e1utico",
+      "utc": "2026-08-23T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-23-oper-rio-pr-vila-nova",
+      "weekend": "2026-08-23",
+      "name": "Oper\u00e1rio PR v Vila Nova",
+      "utc": "2026-08-23T21:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-23-crici-ma-fortaleza",
+      "weekend": "2026-08-23",
+      "name": "Crici\u00fama v Fortaleza",
+      "utc": "2026-08-23T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-24-athletic-novorizontino",
+      "weekend": "2026-08-24",
+      "name": "Athletic v Novorizontino",
+      "utc": "2026-08-24T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-24-sport-am-rica-mineiro",
+      "weekend": "2026-08-24",
+      "name": "Sport v Am\u00e9rica Mineiro",
+      "utc": "2026-08-24T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-25-atl-tico-goianiense-botafogo-sp",
+      "weekend": "2026-08-25",
+      "name": "Atl\u00e9tico Goianiense v Botafogo-SP",
+      "utc": "2026-08-25T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-25-juventude-crb",
+      "weekend": "2026-08-25",
+      "name": "Juventude v CRB",
+      "utc": "2026-08-25T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-28-goi-s-s-o-bernardo",
+      "weekend": "2026-08-28",
+      "name": "Goi\u00e1s v S\u00e3o Bernardo",
+      "utc": "2026-08-28T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-28-n-utico-athletic",
+      "weekend": "2026-08-28",
+      "name": "N\u00e1utico v Athletic",
+      "utc": "2026-08-28T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-28-novorizontino-sport",
+      "weekend": "2026-08-28",
+      "name": "Novorizontino v Sport",
+      "utc": "2026-08-28T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-29-botafogo-sp-cuiab",
+      "weekend": "2026-08-29",
+      "name": "Botafogo-SP v Cuiab\u00e1",
+      "utc": "2026-08-29T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-30-ava-atl-tico-goianiense",
+      "weekend": "2026-08-30",
+      "name": "Ava\u00ed v Atl\u00e9tico Goianiense",
+      "utc": "2026-08-30T14:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-30-am-rica-mineiro-ponte-preta",
+      "weekend": "2026-08-30",
+      "name": "Am\u00e9rica Mineiro v Ponte Preta",
+      "utc": "2026-08-30T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-30-crb-crici-ma",
+      "weekend": "2026-08-30",
+      "name": "CRB v Crici\u00fama",
+      "utc": "2026-08-30T21:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-30-vila-nova-cear",
+      "weekend": "2026-08-30",
+      "name": "Vila Nova v Cear\u00e1",
+      "utc": "2026-08-30T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-08-31-fortaleza-oper-rio-pr",
+      "weekend": "2026-08-31",
+      "name": "Fortaleza v Oper\u00e1rio PR",
+      "utc": "2026-08-31T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-01-londrina-juventude",
+      "weekend": "2026-09-01",
+      "name": "Londrina v Juventude",
+      "utc": "2026-09-01T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-03-n-utico-botafogo-sp",
+      "weekend": "2026-09-03",
+      "name": "N\u00e1utico v Botafogo-SP",
+      "utc": "2026-09-03T23:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-04-crici-ma-cuiab",
+      "weekend": "2026-09-04",
+      "name": "Crici\u00fama v Cuiab\u00e1",
+      "utc": "2026-09-04T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-04-athletic-vila-nova",
+      "weekend": "2026-09-04",
+      "name": "Athletic v Vila Nova",
+      "utc": "2026-09-04T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-05-crb-am-rica-mineiro",
+      "weekend": "2026-09-05",
+      "name": "CRB v Am\u00e9rica Mineiro",
+      "utc": "2026-09-05T00:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-05-goi-s-fortaleza",
+      "weekend": "2026-09-05",
+      "name": "Goi\u00e1s v Fortaleza",
+      "utc": "2026-09-05T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-05-novorizontino-ava",
+      "weekend": "2026-09-05",
+      "name": "Novorizontino v Ava\u00ed",
+      "utc": "2026-09-05T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-05-juventude-atl-tico-goianiense",
+      "weekend": "2026-09-05",
+      "name": "Juventude v Atl\u00e9tico Goianiense",
+      "utc": "2026-09-05T21:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-05-cear-sport",
+      "weekend": "2026-09-05",
+      "name": "Cear\u00e1 v Sport",
+      "utc": "2026-09-05T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-06-londrina-oper-rio-pr",
+      "weekend": "2026-09-06",
+      "name": "Londrina v Oper\u00e1rio PR",
+      "utc": "2026-09-06T14:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-06-ponte-preta-s-o-bernardo",
+      "weekend": "2026-09-06",
+      "name": "Ponte Preta v S\u00e3o Bernardo",
+      "utc": "2026-09-06T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-08-cuiab-athletic",
+      "weekend": "2026-09-08",
+      "name": "Cuiab\u00e1 v Athletic",
+      "utc": "2026-09-08T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-09-crici-ma-juventude",
+      "weekend": "2026-09-09",
+      "name": "Crici\u00fama v Juventude",
+      "utc": "2026-09-09T00:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-09-botafogo-sp-novorizontino",
+      "weekend": "2026-09-09",
+      "name": "Botafogo-SP v Novorizontino",
+      "utc": "2026-09-09T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-09-fortaleza-ava",
+      "weekend": "2026-09-09",
+      "name": "Fortaleza v Ava\u00ed",
+      "utc": "2026-09-09T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-09-am-rica-mineiro-n-utico",
+      "weekend": "2026-09-09",
+      "name": "Am\u00e9rica Mineiro v N\u00e1utico",
+      "utc": "2026-09-09T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-09-oper-rio-pr-crb",
+      "weekend": "2026-09-09",
+      "name": "Oper\u00e1rio PR v CRB",
+      "utc": "2026-09-09T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-10-atl-tico-goianiense-cear",
+      "weekend": "2026-09-10",
+      "name": "Atl\u00e9tico Goianiense v Cear\u00e1",
+      "utc": "2026-09-10T00:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-10-s-o-bernardo-londrina",
+      "weekend": "2026-09-10",
+      "name": "S\u00e3o Bernardo v Londrina",
+      "utc": "2026-09-10T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-10-vila-nova-goi-s",
+      "weekend": "2026-09-10",
+      "name": "Vila Nova v Goi\u00e1s",
+      "utc": "2026-09-10T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-11-sport-ponte-preta",
+      "weekend": "2026-09-11",
+      "name": "Sport v Ponte Preta",
+      "utc": "2026-09-11T00:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-13-atl-tico-goianiense-crici-ma",
+      "weekend": "2026-09-13",
+      "name": "Atl\u00e9tico Goianiense v Crici\u00fama",
+      "utc": "2026-09-13T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-13-juventude-athletic",
+      "weekend": "2026-09-13",
+      "name": "Juventude v Athletic",
+      "utc": "2026-09-13T21:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-13-fortaleza-cear",
+      "weekend": "2026-09-13",
+      "name": "Fortaleza v Cear\u00e1",
+      "utc": "2026-09-13T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-13-novorizontino-cuiab",
+      "weekend": "2026-09-13",
+      "name": "Novorizontino v Cuiab\u00e1",
+      "utc": "2026-09-13T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-14-am-rica-mineiro-s-o-bernardo",
+      "weekend": "2026-09-14",
+      "name": "Am\u00e9rica Mineiro v S\u00e3o Bernardo",
+      "utc": "2026-09-14T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-14-botafogo-sp-goi-s",
+      "weekend": "2026-09-14",
+      "name": "Botafogo-SP v Goi\u00e1s",
+      "utc": "2026-09-14T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-15-ava-vila-nova",
+      "weekend": "2026-09-15",
+      "name": "Ava\u00ed v Vila Nova",
+      "utc": "2026-09-15T00:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-15-londrina-ponte-preta",
+      "weekend": "2026-09-15",
+      "name": "Londrina v Ponte Preta",
+      "utc": "2026-09-15T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-15-n-utico-oper-rio-pr",
+      "weekend": "2026-09-15",
+      "name": "N\u00e1utico v Oper\u00e1rio PR",
+      "utc": "2026-09-15T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-16-crb-sport",
+      "weekend": "2026-09-16",
+      "name": "CRB v Sport",
+      "utc": "2026-09-16T00:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-18-vila-nova-am-rica-mineiro",
+      "weekend": "2026-09-18",
+      "name": "Vila Nova v Am\u00e9rica Mineiro",
+      "utc": "2026-09-18T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-18-cear-novorizontino",
+      "weekend": "2026-09-18",
+      "name": "Cear\u00e1 v Novorizontino",
+      "utc": "2026-09-18T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-19-s-o-bernardo-atl-tico-goianiense",
+      "weekend": "2026-09-19",
+      "name": "S\u00e3o Bernardo v Atl\u00e9tico Goianiense",
+      "utc": "2026-09-19T00:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-19-sport-juventude",
+      "weekend": "2026-09-19",
+      "name": "Sport v Juventude",
+      "utc": "2026-09-19T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-19-athletic-botafogo-sp",
+      "weekend": "2026-09-19",
+      "name": "Athletic v Botafogo-SP",
+      "utc": "2026-09-19T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-20-ponte-preta-crb",
+      "weekend": "2026-09-20",
+      "name": "Ponte Preta v CRB",
+      "utc": "2026-09-20T14:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-20-goi-s-ava",
+      "weekend": "2026-09-20",
+      "name": "Goi\u00e1s v Ava\u00ed",
+      "utc": "2026-09-20T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-20-londrina-fortaleza",
+      "weekend": "2026-09-20",
+      "name": "Londrina v Fortaleza",
+      "utc": "2026-09-20T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-21-crici-ma-oper-rio-pr",
+      "weekend": "2026-09-21",
+      "name": "Crici\u00fama v Oper\u00e1rio PR",
+      "utc": "2026-09-21T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-22-cuiab-n-utico",
+      "weekend": "2026-09-22",
+      "name": "Cuiab\u00e1 v N\u00e1utico",
+      "utc": "2026-09-22T00:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-25-novorizontino-s-o-bernardo",
+      "weekend": "2026-09-25",
+      "name": "Novorizontino v S\u00e3o Bernardo",
+      "utc": "2026-09-25T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-25-vila-nova-londrina",
+      "weekend": "2026-09-25",
+      "name": "Vila Nova v Londrina",
+      "utc": "2026-09-25T23:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-26-oper-rio-pr-cear",
+      "weekend": "2026-09-26",
+      "name": "Oper\u00e1rio PR v Cear\u00e1",
+      "utc": "2026-09-26T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-26-n-utico-sport",
+      "weekend": "2026-09-26",
+      "name": "N\u00e1utico v Sport",
+      "utc": "2026-09-26T19:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-26-goi-s-atl-tico-goianiense",
+      "weekend": "2026-09-26",
+      "name": "Goi\u00e1s v Atl\u00e9tico Goianiense",
+      "utc": "2026-09-26T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-27-crici-ma-ava",
+      "weekend": "2026-09-27",
+      "name": "Crici\u00fama v Ava\u00ed",
+      "utc": "2026-09-27T14:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-27-crb-cuiab",
+      "weekend": "2026-09-27",
+      "name": "CRB v Cuiab\u00e1",
+      "utc": "2026-09-27T19:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-27-fortaleza-athletic",
+      "weekend": "2026-09-27",
+      "name": "Fortaleza v Athletic",
+      "utc": "2026-09-27T21:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-28-am-rica-mineiro-juventude",
+      "weekend": "2026-09-28",
+      "name": "Am\u00e9rica Mineiro v Juventude",
+      "utc": "2026-09-28T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-09-29-botafogo-sp-ponte-preta",
+      "weekend": "2026-09-29",
+      "name": "Botafogo-SP v Ponte Preta",
+      "utc": "2026-09-29T22:30:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-02-athletic-sport",
+      "weekend": "2026-10-02",
+      "name": "Athletic v Sport",
+      "utc": "2026-10-02T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-02-atl-tico-goianiense-am-rica-mineiro",
+      "weekend": "2026-10-02",
+      "name": "Atl\u00e9tico Goianiense v Am\u00e9rica Mineiro",
+      "utc": "2026-10-02T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-02-ava-cear",
+      "weekend": "2026-10-02",
+      "name": "Ava\u00ed v Cear\u00e1",
+      "utc": "2026-10-02T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-02-botafogo-sp-vila-nova",
+      "weekend": "2026-10-02",
+      "name": "Botafogo-SP v Vila Nova",
+      "utc": "2026-10-02T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-02-cuiab-ponte-preta",
+      "weekend": "2026-10-02",
+      "name": "Cuiab\u00e1 v Ponte Preta",
+      "utc": "2026-10-02T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-02-fortaleza-n-utico",
+      "weekend": "2026-10-02",
+      "name": "Fortaleza v N\u00e1utico",
+      "utc": "2026-10-02T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-02-juventude-oper-rio-pr",
+      "weekend": "2026-10-02",
+      "name": "Juventude v Oper\u00e1rio PR",
+      "utc": "2026-10-02T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-02-londrina-crici-ma",
+      "weekend": "2026-10-02",
+      "name": "Londrina v Crici\u00fama",
+      "utc": "2026-10-02T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-02-novorizontino-goi-s",
+      "weekend": "2026-10-02",
+      "name": "Novorizontino v Goi\u00e1s",
+      "utc": "2026-10-02T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-02-s-o-bernardo-crb",
+      "weekend": "2026-10-02",
+      "name": "S\u00e3o Bernardo v CRB",
+      "utc": "2026-10-02T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-06-am-rica-mineiro-fortaleza",
+      "weekend": "2026-10-06",
+      "name": "Am\u00e9rica Mineiro v Fortaleza",
+      "utc": "2026-10-06T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-06-ava-londrina",
+      "weekend": "2026-10-06",
+      "name": "Ava\u00ed v Londrina",
+      "utc": "2026-10-06T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-06-cear-crici-ma",
+      "weekend": "2026-10-06",
+      "name": "Cear\u00e1 v Crici\u00fama",
+      "utc": "2026-10-06T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-06-crb-atl-tico-goianiense",
+      "weekend": "2026-10-06",
+      "name": "CRB v Atl\u00e9tico Goianiense",
+      "utc": "2026-10-06T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-06-goi-s-athletic",
+      "weekend": "2026-10-06",
+      "name": "Goi\u00e1s v Athletic",
+      "utc": "2026-10-06T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-06-n-utico-novorizontino",
+      "weekend": "2026-10-06",
+      "name": "N\u00e1utico v Novorizontino",
+      "utc": "2026-10-06T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-06-oper-rio-pr-botafogo-sp",
+      "weekend": "2026-10-06",
+      "name": "Oper\u00e1rio PR v Botafogo-SP",
+      "utc": "2026-10-06T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-06-ponte-preta-juventude",
+      "weekend": "2026-10-06",
+      "name": "Ponte Preta v Juventude",
+      "utc": "2026-10-06T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-06-sport-s-o-bernardo",
+      "weekend": "2026-10-06",
+      "name": "Sport v S\u00e3o Bernardo",
+      "utc": "2026-10-06T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-06-vila-nova-cuiab",
+      "weekend": "2026-10-06",
+      "name": "Vila Nova v Cuiab\u00e1",
+      "utc": "2026-10-06T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-09-athletic-londrina",
+      "weekend": "2026-10-09",
+      "name": "Athletic v Londrina",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-09-atl-tico-goianiense-sport",
+      "weekend": "2026-10-09",
+      "name": "Atl\u00e9tico Goianiense v Sport",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-09-botafogo-sp-cear",
+      "weekend": "2026-10-09",
+      "name": "Botafogo-SP v Cear\u00e1",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-09-crici-ma-am-rica-mineiro",
+      "weekend": "2026-10-09",
+      "name": "Crici\u00fama v Am\u00e9rica Mineiro",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-09-cuiab-ava",
+      "weekend": "2026-10-09",
+      "name": "Cuiab\u00e1 v Ava\u00ed",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-09-fortaleza-crb",
+      "weekend": "2026-10-09",
+      "name": "Fortaleza v CRB",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-09-juventude-s-o-bernardo",
+      "weekend": "2026-10-09",
+      "name": "Juventude v S\u00e3o Bernardo",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-09-n-utico-vila-nova",
+      "weekend": "2026-10-09",
+      "name": "N\u00e1utico v Vila Nova",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-09-novorizontino-ponte-preta",
+      "weekend": "2026-10-09",
+      "name": "Novorizontino v Ponte Preta",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-09-oper-rio-pr-goi-s",
+      "weekend": "2026-10-09",
+      "name": "Oper\u00e1rio PR v Goi\u00e1s",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-16-am-rica-mineiro-oper-rio-pr",
+      "weekend": "2026-10-16",
+      "name": "Am\u00e9rica Mineiro v Oper\u00e1rio PR",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-16-ava-athletic",
+      "weekend": "2026-10-16",
+      "name": "Ava\u00ed v Athletic",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-16-cear-juventude",
+      "weekend": "2026-10-16",
+      "name": "Cear\u00e1 v Juventude",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-16-crb-botafogo-sp",
+      "weekend": "2026-10-16",
+      "name": "CRB v Botafogo-SP",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-16-goi-s-n-utico",
+      "weekend": "2026-10-16",
+      "name": "Goi\u00e1s v N\u00e1utico",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-16-londrina-cuiab",
+      "weekend": "2026-10-16",
+      "name": "Londrina v Cuiab\u00e1",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-16-ponte-preta-atl-tico-goianiense",
+      "weekend": "2026-10-16",
+      "name": "Ponte Preta v Atl\u00e9tico Goianiense",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-16-s-o-bernardo-crici-ma",
+      "weekend": "2026-10-16",
+      "name": "S\u00e3o Bernardo v Crici\u00fama",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-16-sport-fortaleza",
+      "weekend": "2026-10-16",
+      "name": "Sport v Fortaleza",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-16-vila-nova-novorizontino",
+      "weekend": "2026-10-16",
+      "name": "Vila Nova v Novorizontino",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-23-am-rica-mineiro-cuiab",
+      "weekend": "2026-10-23",
+      "name": "Am\u00e9rica Mineiro v Cuiab\u00e1",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-23-atl-tico-goianiense-novorizontino",
+      "weekend": "2026-10-23",
+      "name": "Atl\u00e9tico Goianiense v Novorizontino",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-23-ava-botafogo-sp",
+      "weekend": "2026-10-23",
+      "name": "Ava\u00ed v Botafogo-SP",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-23-cear-goi-s",
+      "weekend": "2026-10-23",
+      "name": "Cear\u00e1 v Goi\u00e1s",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-23-crb-londrina",
+      "weekend": "2026-10-23",
+      "name": "CRB v Londrina",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-23-juventude-n-utico",
+      "weekend": "2026-10-23",
+      "name": "Juventude v N\u00e1utico",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-23-oper-rio-pr-athletic",
+      "weekend": "2026-10-23",
+      "name": "Oper\u00e1rio PR v Athletic",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-23-ponte-preta-fortaleza",
+      "weekend": "2026-10-23",
+      "name": "Ponte Preta v Fortaleza",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-23-s-o-bernardo-vila-nova",
+      "weekend": "2026-10-23",
+      "name": "S\u00e3o Bernardo v Vila Nova",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-23-sport-crici-ma",
+      "weekend": "2026-10-23",
+      "name": "Sport v Crici\u00fama",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-30-athletic-cear",
+      "weekend": "2026-10-30",
+      "name": "Athletic v Cear\u00e1",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-30-botafogo-sp-sport",
+      "weekend": "2026-10-30",
+      "name": "Botafogo-SP v Sport",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-30-crici-ma-ponte-preta",
+      "weekend": "2026-10-30",
+      "name": "Crici\u00fama v Ponte Preta",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-30-cuiab-s-o-bernardo",
+      "weekend": "2026-10-30",
+      "name": "Cuiab\u00e1 v S\u00e3o Bernardo",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-30-fortaleza-atl-tico-goianiense",
+      "weekend": "2026-10-30",
+      "name": "Fortaleza v Atl\u00e9tico Goianiense",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-30-goi-s-crb",
+      "weekend": "2026-10-30",
+      "name": "Goi\u00e1s v CRB",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-30-londrina-am-rica-mineiro",
+      "weekend": "2026-10-30",
+      "name": "Londrina v Am\u00e9rica Mineiro",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-30-n-utico-ava",
+      "weekend": "2026-10-30",
+      "name": "N\u00e1utico v Ava\u00ed",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-30-novorizontino-oper-rio-pr",
+      "weekend": "2026-10-30",
+      "name": "Novorizontino v Oper\u00e1rio PR",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-10-30-vila-nova-juventude",
+      "weekend": "2026-10-30",
+      "name": "Vila Nova v Juventude",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-06-athletic-atl-tico-goianiense",
+      "weekend": "2026-11-06",
+      "name": "Athletic v Atl\u00e9tico Goianiense",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-06-ava-s-o-bernardo",
+      "weekend": "2026-11-06",
+      "name": "Ava\u00ed v S\u00e3o Bernardo",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-06-botafogo-sp-londrina",
+      "weekend": "2026-11-06",
+      "name": "Botafogo-SP v Londrina",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-06-cear-am-rica-mineiro",
+      "weekend": "2026-11-06",
+      "name": "Cear\u00e1 v Am\u00e9rica Mineiro",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-06-cuiab-juventude",
+      "weekend": "2026-11-06",
+      "name": "Cuiab\u00e1 v Juventude",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-06-goi-s-ponte-preta",
+      "weekend": "2026-11-06",
+      "name": "Goi\u00e1s v Ponte Preta",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-06-n-utico-crb",
+      "weekend": "2026-11-06",
+      "name": "N\u00e1utico v CRB",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-06-novorizontino-fortaleza",
+      "weekend": "2026-11-06",
+      "name": "Novorizontino v Fortaleza",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-06-oper-rio-pr-sport",
+      "weekend": "2026-11-06",
+      "name": "Oper\u00e1rio PR v Sport",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-06-vila-nova-crici-ma",
+      "weekend": "2026-11-06",
+      "name": "Vila Nova v Crici\u00fama",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-14-am-rica-mineiro-ava",
+      "weekend": "2026-11-14",
+      "name": "Am\u00e9rica Mineiro v Ava\u00ed",
+      "utc": "2026-11-14T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-14-atl-tico-goianiense-cuiab",
+      "weekend": "2026-11-14",
+      "name": "Atl\u00e9tico Goianiense v Cuiab\u00e1",
+      "utc": "2026-11-14T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-14-crb-cear",
+      "weekend": "2026-11-14",
+      "name": "CRB v Cear\u00e1",
+      "utc": "2026-11-14T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-14-crici-ma-novorizontino",
+      "weekend": "2026-11-14",
+      "name": "Crici\u00fama v Novorizontino",
+      "utc": "2026-11-14T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-14-fortaleza-vila-nova",
+      "weekend": "2026-11-14",
+      "name": "Fortaleza v Vila Nova",
+      "utc": "2026-11-14T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-14-juventude-botafogo-sp",
+      "weekend": "2026-11-14",
+      "name": "Juventude v Botafogo-SP",
+      "utc": "2026-11-14T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-14-londrina-n-utico",
+      "weekend": "2026-11-14",
+      "name": "Londrina v N\u00e1utico",
+      "utc": "2026-11-14T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-14-ponte-preta-oper-rio-pr",
+      "weekend": "2026-11-14",
+      "name": "Ponte Preta v Oper\u00e1rio PR",
+      "utc": "2026-11-14T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-14-s-o-bernardo-athletic",
+      "weekend": "2026-11-14",
+      "name": "S\u00e3o Bernardo v Athletic",
+      "utc": "2026-11-14T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-14-sport-goi-s",
+      "weekend": "2026-11-14",
+      "name": "Sport v Goi\u00e1s",
+      "utc": "2026-11-14T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-21-tbd-home-tbd-away",
+      "weekend": "2026-11-21",
+      "name": "TBD Home v TBD Away",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-21-tbd-home-tbd-away-2",
+      "weekend": "2026-11-21",
+      "name": "TBD Home v TBD Away",
+      "utc": "2026-11-21T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-28-tbd-home-tbd-away",
+      "weekend": "2026-11-28",
+      "name": "TBD Home v TBD Away",
+      "utc": "2026-11-28T20:00:00Z"
+    },
+    {
+      "id": "bra.2-2026-11-28-tbd-home-tbd-away-2",
+      "weekend": "2026-11-28",
+      "name": "TBD Home v TBD Away",
+      "utc": "2026-11-28T20:00:00Z"
+    }
+  ]
+}

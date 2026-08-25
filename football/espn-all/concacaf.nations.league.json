@@ -1,0 +1,452 @@
+{
+  "sportKey": "soccer-concacaf.nations.league",
+  "leagueName": "Concacaf Nations League",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "concacaf.nations.league-2026-09-23-turks-and-caicos-islands-montserrat",
+      "weekend": "2026-09-23",
+      "name": "Turks and Caicos Islands v Montserrat",
+      "utc": "2026-09-23T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-23-bahamas-st-martin",
+      "weekend": "2026-09-23",
+      "name": "Bahamas v St. Martin",
+      "utc": "2026-09-23T20:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-23-aruba-antigua-and-barbuda",
+      "weekend": "2026-09-23",
+      "name": "Aruba v Antigua and Barbuda",
+      "utc": "2026-09-23T23:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-24-puerto-rico-guyana",
+      "weekend": "2026-09-24",
+      "name": "Puerto Rico v Guyana",
+      "utc": "2026-09-24T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-25-cayman-islands-dominica",
+      "weekend": "2026-09-25",
+      "name": "Cayman Islands v Dominica",
+      "utc": "2026-09-25T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-25-dominican-republic-nicaragua",
+      "weekend": "2026-09-25",
+      "name": "Dominican Republic v Nicaragua",
+      "utc": "2026-09-25T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-25-haiti-trinidad-and-tobago",
+      "weekend": "2026-09-25",
+      "name": "Haiti v Trinidad and Tobago",
+      "utc": "2026-09-25T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-25-costa-rica-cura-ao",
+      "weekend": "2026-09-25",
+      "name": "Costa Rica v Cura\u00e7ao",
+      "utc": "2026-09-25T02:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-25-bermuda-guadeloupe",
+      "weekend": "2026-09-25",
+      "name": "Bermuda v Guadeloupe",
+      "utc": "2026-09-25T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-25-grenada-cuba",
+      "weekend": "2026-09-25",
+      "name": "Grenada v Cuba",
+      "utc": "2026-09-25T21:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-26-barbados-st-lucia",
+      "weekend": "2026-09-26",
+      "name": "Barbados v St. Lucia",
+      "utc": "2026-09-26T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-26-bonaire-st-kitts-and-nevis",
+      "weekend": "2026-09-26",
+      "name": "Bonaire v St. Kitts and Nevis",
+      "utc": "2026-09-26T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-26-jamaica-guatemala",
+      "weekend": "2026-09-26",
+      "name": "Jamaica v Guatemala",
+      "utc": "2026-09-26T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-26-honduras-suriname",
+      "weekend": "2026-09-26",
+      "name": "Honduras v Suriname",
+      "utc": "2026-09-26T01:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-26-el-salvador-martinique",
+      "weekend": "2026-09-26",
+      "name": "El Salvador v Martinique",
+      "utc": "2026-09-26T03:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-26-montserrat-british-virgin-islands",
+      "weekend": "2026-09-26",
+      "name": "Montserrat v British Virgin Islands",
+      "utc": "2026-09-26T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-26-st-martin-us-virgin-islands",
+      "weekend": "2026-09-26",
+      "name": "St. Martin v US Virgin Islands",
+      "utc": "2026-09-26T20:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-26-st-vincent-and-the-grenadines-french-guiana",
+      "weekend": "2026-09-26",
+      "name": "St. Vincent and the Grenadines v French Guiana",
+      "utc": "2026-09-26T21:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-26-antigua-and-barbuda-anguilla",
+      "weekend": "2026-09-26",
+      "name": "Antigua and Barbuda v Anguilla",
+      "utc": "2026-09-26T23:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-27-sint-maarten-belize",
+      "weekend": "2026-09-27",
+      "name": "Sint Maarten v Belize",
+      "utc": "2026-09-27T02:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-27-guyana-cayman-islands",
+      "weekend": "2026-09-27",
+      "name": "Guyana v Cayman Islands",
+      "utc": "2026-09-27T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-27-haiti-costa-rica",
+      "weekend": "2026-09-27",
+      "name": "Haiti v Costa Rica",
+      "utc": "2026-09-27T23:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-28-cura-ao-nicaragua",
+      "weekend": "2026-09-28",
+      "name": "Cura\u00e7ao v Nicaragua",
+      "utc": "2026-09-28T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-28-dominica-puerto-rico",
+      "weekend": "2026-09-28",
+      "name": "Dominica v Puerto Rico",
+      "utc": "2026-09-28T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-28-trinidad-and-tobago-dominican-republic",
+      "weekend": "2026-09-28",
+      "name": "Trinidad and Tobago v Dominican Republic",
+      "utc": "2026-09-28T01:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-28-guadeloupe-barbados",
+      "weekend": "2026-09-28",
+      "name": "Guadeloupe v Barbados",
+      "utc": "2026-09-28T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-28-cuba-bonaire",
+      "weekend": "2026-09-28",
+      "name": "Cuba v Bonaire",
+      "utc": "2026-09-28T21:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-28-suriname-martinique",
+      "weekend": "2026-09-28",
+      "name": "Suriname v Martinique",
+      "utc": "2026-09-28T22:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-29-jamaica-honduras",
+      "weekend": "2026-09-29",
+      "name": "Jamaica v Honduras",
+      "utc": "2026-09-29T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-29-st-kitts-and-nevis-grenada",
+      "weekend": "2026-09-29",
+      "name": "St. Kitts and Nevis v Grenada",
+      "utc": "2026-09-29T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-29-st-lucia-bermuda",
+      "weekend": "2026-09-29",
+      "name": "St. Lucia v Bermuda",
+      "utc": "2026-09-29T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-29-guatemala-el-salvador",
+      "weekend": "2026-09-29",
+      "name": "Guatemala v El Salvador",
+      "utc": "2026-09-29T02:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-29-british-virgin-islands-turks-and-caicos-islands",
+      "weekend": "2026-09-29",
+      "name": "British Virgin Islands v Turks and Caicos Islands",
+      "utc": "2026-09-29T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-29-us-virgin-islands-bahamas",
+      "weekend": "2026-09-29",
+      "name": "US Virgin Islands v Bahamas",
+      "utc": "2026-09-29T20:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-29-french-guiana-sint-maarten",
+      "weekend": "2026-09-29",
+      "name": "French Guiana v Sint Maarten",
+      "utc": "2026-09-29T21:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-29-anguilla-aruba",
+      "weekend": "2026-09-29",
+      "name": "Anguilla v Aruba",
+      "utc": "2026-09-29T23:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-09-30-belize-st-vincent-and-the-grenadines",
+      "weekend": "2026-09-30",
+      "name": "Belize v St. Vincent and the Grenadines",
+      "utc": "2026-09-30T02:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-01-british-virgin-islands-montserrat",
+      "weekend": "2026-10-01",
+      "name": "British Virgin Islands v Montserrat",
+      "utc": "2026-10-01T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-01-us-virgin-islands-st-martin",
+      "weekend": "2026-10-01",
+      "name": "US Virgin Islands v St. Martin",
+      "utc": "2026-10-01T20:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-01-dominica-guyana",
+      "weekend": "2026-10-01",
+      "name": "Dominica v Guyana",
+      "utc": "2026-10-01T21:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-01-cura-ao-trinidad-and-tobago",
+      "weekend": "2026-10-01",
+      "name": "Cura\u00e7ao v Trinidad and Tobago",
+      "utc": "2026-10-01T22:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-01-anguilla-antigua-and-barbuda",
+      "weekend": "2026-10-01",
+      "name": "Anguilla v Antigua and Barbuda",
+      "utc": "2026-10-01T23:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-02-cayman-islands-puerto-rico",
+      "weekend": "2026-10-02",
+      "name": "Cayman Islands v Puerto Rico",
+      "utc": "2026-10-02T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-02-dominican-republic-haiti",
+      "weekend": "2026-10-02",
+      "name": "Dominican Republic v Haiti",
+      "utc": "2026-10-02T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-02-nicaragua-costa-rica",
+      "weekend": "2026-10-02",
+      "name": "Nicaragua v Costa Rica",
+      "utc": "2026-10-02T02:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-02-st-lucia-guadeloupe",
+      "weekend": "2026-10-02",
+      "name": "St. Lucia v Guadeloupe",
+      "utc": "2026-10-02T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-02-st-kitts-and-nevis-cuba",
+      "weekend": "2026-10-02",
+      "name": "St. Kitts and Nevis v Cuba",
+      "utc": "2026-10-02T21:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-02-suriname-guatemala",
+      "weekend": "2026-10-02",
+      "name": "Suriname v Guatemala",
+      "utc": "2026-10-02T22:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-03-barbados-bermuda",
+      "weekend": "2026-10-03",
+      "name": "Barbados v Bermuda",
+      "utc": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-03-bonaire-grenada",
+      "weekend": "2026-10-03",
+      "name": "Bonaire v Grenada",
+      "utc": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-03-martinique-honduras",
+      "weekend": "2026-10-03",
+      "name": "Martinique v Honduras",
+      "utc": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-03-el-salvador-jamaica",
+      "weekend": "2026-10-03",
+      "name": "El Salvador v Jamaica",
+      "utc": "2026-10-03T02:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-03-sint-maarten-st-vincent-and-the-grenadines",
+      "weekend": "2026-10-03",
+      "name": "Sint Maarten v St. Vincent and the Grenadines",
+      "utc": "2026-10-03T21:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-04-belize-french-guiana",
+      "weekend": "2026-10-04",
+      "name": "Belize v French Guiana",
+      "utc": "2026-10-04T02:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-04-guyana-dominica",
+      "weekend": "2026-10-04",
+      "name": "Guyana v Dominica",
+      "utc": "2026-10-04T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-04-turks-and-caicos-islands-british-virgin-islands",
+      "weekend": "2026-10-04",
+      "name": "Turks and Caicos Islands v British Virgin Islands",
+      "utc": "2026-10-04T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-04-bahamas-us-virgin-islands",
+      "weekend": "2026-10-04",
+      "name": "Bahamas v US Virgin Islands",
+      "utc": "2026-10-04T20:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-04-puerto-rico-cayman-islands",
+      "weekend": "2026-10-04",
+      "name": "Puerto Rico v Cayman Islands",
+      "utc": "2026-10-04T22:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-04-trinidad-and-tobago-cura-ao",
+      "weekend": "2026-10-04",
+      "name": "Trinidad and Tobago v Cura\u00e7ao",
+      "utc": "2026-10-04T22:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-04-aruba-anguilla",
+      "weekend": "2026-10-04",
+      "name": "Aruba v Anguilla",
+      "utc": "2026-10-04T23:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-05-costa-rica-haiti",
+      "weekend": "2026-10-05",
+      "name": "Costa Rica v Haiti",
+      "utc": "2026-10-05T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-05-nicaragua-dominican-republic",
+      "weekend": "2026-10-05",
+      "name": "Nicaragua v Dominican Republic",
+      "utc": "2026-10-05T02:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-05-guadeloupe-st-lucia",
+      "weekend": "2026-10-05",
+      "name": "Guadeloupe v St. Lucia",
+      "utc": "2026-10-05T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-05-cuba-st-kitts-and-nevis",
+      "weekend": "2026-10-05",
+      "name": "Cuba v St. Kitts and Nevis",
+      "utc": "2026-10-05T21:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-05-martinique-el-salvador",
+      "weekend": "2026-10-05",
+      "name": "Martinique v El Salvador",
+      "utc": "2026-10-05T22:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-06-bermuda-barbados",
+      "weekend": "2026-10-06",
+      "name": "Bermuda v Barbados",
+      "utc": "2026-10-06T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-06-grenada-bonaire",
+      "weekend": "2026-10-06",
+      "name": "Grenada v Bonaire",
+      "utc": "2026-10-06T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-06-guatemala-suriname",
+      "weekend": "2026-10-06",
+      "name": "Guatemala v Suriname",
+      "utc": "2026-10-06T00:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-06-honduras-jamaica",
+      "weekend": "2026-10-06",
+      "name": "Honduras v Jamaica",
+      "utc": "2026-10-06T02:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-06-montserrat-turks-and-caicos-islands",
+      "weekend": "2026-10-06",
+      "name": "Montserrat v Turks and Caicos Islands",
+      "utc": "2026-10-06T19:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-06-st-martin-bahamas",
+      "weekend": "2026-10-06",
+      "name": "St. Martin v Bahamas",
+      "utc": "2026-10-06T20:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-06-st-vincent-and-the-grenadines-sint-maarten",
+      "weekend": "2026-10-06",
+      "name": "St. Vincent and the Grenadines v Sint Maarten",
+      "utc": "2026-10-06T21:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-06-antigua-and-barbuda-aruba",
+      "weekend": "2026-10-06",
+      "name": "Antigua and Barbuda v Aruba",
+      "utc": "2026-10-06T23:00:00Z"
+    },
+    {
+      "id": "concacaf.nations.league-2026-10-07-french-guiana-belize",
+      "weekend": "2026-10-07",
+      "name": "French Guiana v Belize",
+      "utc": "2026-10-07T02:00:00Z"
+    }
+  ]
+}

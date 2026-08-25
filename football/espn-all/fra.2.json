@@ -1,0 +1,1736 @@
+{
+  "sportKey": "soccer-fra.2",
+  "leagueName": "French Ligue 2",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "fra.2-2026-08-14-annecy-rodez-aveyron",
+      "weekend": "2026-08-14",
+      "name": "Annecy v Rodez Aveyron",
+      "utc": "2026-08-14T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-14-as-nancy-lorraine-montpellier",
+      "weekend": "2026-08-14",
+      "name": "AS Nancy Lorraine v Montpellier",
+      "utc": "2026-08-14T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-14-dijon-fco-pau",
+      "weekend": "2026-08-14",
+      "name": "Dijon FCO v Pau",
+      "utc": "2026-08-14T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-14-grenoble-metz",
+      "weekend": "2026-08-14",
+      "name": "Grenoble v Metz",
+      "utc": "2026-08-14T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-14-guingamp-boulogne",
+      "weekend": "2026-08-14",
+      "name": "Guingamp v Boulogne",
+      "utc": "2026-08-14T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-14-red-star-fc-93-sochaux",
+      "weekend": "2026-08-14",
+      "name": "Red Star FC 93 v Sochaux",
+      "utc": "2026-08-14T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-14-saint-tienne-clermont-foot",
+      "weekend": "2026-08-14",
+      "name": "Saint-\u00c9tienne v Clermont Foot",
+      "utc": "2026-08-14T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-14-stade-de-reims-dunkerque",
+      "weekend": "2026-08-14",
+      "name": "Stade de Reims v Dunkerque",
+      "utc": "2026-08-14T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-14-stade-laval-nantes",
+      "weekend": "2026-08-14",
+      "name": "Stade Laval v Nantes",
+      "utc": "2026-08-14T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-21-boulogne-red-star-fc-93",
+      "weekend": "2026-08-21",
+      "name": "Boulogne v Red Star FC 93",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-21-clermont-foot-dijon-fco",
+      "weekend": "2026-08-21",
+      "name": "Clermont Foot v Dijon FCO",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-21-dunkerque-montpellier",
+      "weekend": "2026-08-21",
+      "name": "Dunkerque v Montpellier",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-21-pau-as-nancy-lorraine",
+      "weekend": "2026-08-21",
+      "name": "Pau v AS Nancy Lorraine",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-21-sochaux-guingamp",
+      "weekend": "2026-08-21",
+      "name": "Sochaux v Guingamp",
+      "utc": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-22-metz-stade-laval",
+      "weekend": "2026-08-22",
+      "name": "Metz v Stade Laval",
+      "utc": "2026-08-22T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-22-nantes-rodez-aveyron",
+      "weekend": "2026-08-22",
+      "name": "Nantes v Rodez Aveyron",
+      "utc": "2026-08-22T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-22-saint-tienne-grenoble",
+      "weekend": "2026-08-22",
+      "name": "Saint-\u00c9tienne v Grenoble",
+      "utc": "2026-08-22T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-24-stade-de-reims-annecy",
+      "weekend": "2026-08-24",
+      "name": "Stade de Reims v Annecy",
+      "utc": "2026-08-24T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-28-as-nancy-lorraine-dunkerque",
+      "weekend": "2026-08-28",
+      "name": "AS Nancy Lorraine v Dunkerque",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-28-clermont-foot-sochaux",
+      "weekend": "2026-08-28",
+      "name": "Clermont Foot v Sochaux",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-28-montpellier-boulogne",
+      "weekend": "2026-08-28",
+      "name": "Montpellier v Boulogne",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-28-rodez-aveyron-pau",
+      "weekend": "2026-08-28",
+      "name": "Rodez Aveyron v Pau",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-28-stade-laval-grenoble",
+      "weekend": "2026-08-28",
+      "name": "Stade Laval v Grenoble",
+      "utc": "2026-08-28T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-29-annecy-metz",
+      "weekend": "2026-08-29",
+      "name": "Annecy v Metz",
+      "utc": "2026-08-29T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-29-red-star-fc-93-stade-de-reims",
+      "weekend": "2026-08-29",
+      "name": "Red Star FC 93 v Stade de Reims",
+      "utc": "2026-08-29T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-29-guingamp-nantes",
+      "weekend": "2026-08-29",
+      "name": "Guingamp v Nantes",
+      "utc": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-08-31-dijon-fco-saint-tienne",
+      "weekend": "2026-08-31",
+      "name": "Dijon FCO v Saint-\u00c9tienne",
+      "utc": "2026-08-31T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-04-boulogne-dijon-fco",
+      "weekend": "2026-09-04",
+      "name": "Boulogne v Dijon FCO",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-04-dunkerque-clermont-foot",
+      "weekend": "2026-09-04",
+      "name": "Dunkerque v Clermont Foot",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-04-grenoble-annecy",
+      "weekend": "2026-09-04",
+      "name": "Grenoble v Annecy",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-04-pau-sochaux",
+      "weekend": "2026-09-04",
+      "name": "Pau v Sochaux",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-04-stade-laval-red-star-fc-93",
+      "weekend": "2026-09-04",
+      "name": "Stade Laval v Red Star FC 93",
+      "utc": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-05-metz-rodez-aveyron",
+      "weekend": "2026-09-05",
+      "name": "Metz v Rodez Aveyron",
+      "utc": "2026-09-05T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-05-stade-de-reims-guingamp",
+      "weekend": "2026-09-05",
+      "name": "Stade de Reims v Guingamp",
+      "utc": "2026-09-05T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-05-saint-tienne-montpellier",
+      "weekend": "2026-09-05",
+      "name": "Saint-\u00c9tienne v Montpellier",
+      "utc": "2026-09-05T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-07-nantes-as-nancy-lorraine",
+      "weekend": "2026-09-07",
+      "name": "Nantes v AS Nancy Lorraine",
+      "utc": "2026-09-07T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-11-as-nancy-lorraine-stade-de-reims",
+      "weekend": "2026-09-11",
+      "name": "AS Nancy Lorraine v Stade de Reims",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-11-clermont-foot-boulogne",
+      "weekend": "2026-09-11",
+      "name": "Clermont Foot v Boulogne",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-11-dijon-fco-stade-laval",
+      "weekend": "2026-09-11",
+      "name": "Dijon FCO v Stade Laval",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-11-montpellier-pau",
+      "weekend": "2026-09-11",
+      "name": "Montpellier v Pau",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-11-rodez-aveyron-grenoble",
+      "weekend": "2026-09-11",
+      "name": "Rodez Aveyron v Grenoble",
+      "utc": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-12-guingamp-annecy",
+      "weekend": "2026-09-12",
+      "name": "Guingamp v Annecy",
+      "utc": "2026-09-12T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-12-sochaux-nantes",
+      "weekend": "2026-09-12",
+      "name": "Sochaux v Nantes",
+      "utc": "2026-09-12T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-12-dunkerque-saint-tienne",
+      "weekend": "2026-09-12",
+      "name": "Dunkerque v Saint-\u00c9tienne",
+      "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-14-red-star-fc-93-metz",
+      "weekend": "2026-09-14",
+      "name": "Red Star FC 93 v Metz",
+      "utc": "2026-09-14T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-18-annecy-dijon-fco",
+      "weekend": "2026-09-18",
+      "name": "Annecy v Dijon FCO",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-18-grenoble-clermont-foot",
+      "weekend": "2026-09-18",
+      "name": "Grenoble v Clermont Foot",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-18-pau-dunkerque",
+      "weekend": "2026-09-18",
+      "name": "Pau v Dunkerque",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-18-rodez-aveyron-as-nancy-lorraine",
+      "weekend": "2026-09-18",
+      "name": "Rodez Aveyron v AS Nancy Lorraine",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-18-stade-de-reims-montpellier",
+      "weekend": "2026-09-18",
+      "name": "Stade de Reims v Montpellier",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-18-stade-laval-sochaux",
+      "weekend": "2026-09-18",
+      "name": "Stade Laval v Sochaux",
+      "utc": "2026-09-18T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-19-boulogne-nantes",
+      "weekend": "2026-09-19",
+      "name": "Boulogne v Nantes",
+      "utc": "2026-09-19T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-19-guingamp-red-star-fc-93",
+      "weekend": "2026-09-19",
+      "name": "Guingamp v Red Star FC 93",
+      "utc": "2026-09-19T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-09-19-metz-saint-tienne",
+      "weekend": "2026-09-19",
+      "name": "Metz v Saint-\u00c9tienne",
+      "utc": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-09-as-nancy-lorraine-guingamp",
+      "weekend": "2026-10-09",
+      "name": "AS Nancy Lorraine v Guingamp",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-09-dunkerque-annecy",
+      "weekend": "2026-10-09",
+      "name": "Dunkerque v Annecy",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-09-montpellier-grenoble",
+      "weekend": "2026-10-09",
+      "name": "Montpellier v Grenoble",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-09-pau-stade-laval",
+      "weekend": "2026-10-09",
+      "name": "Pau v Stade Laval",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-09-sochaux-boulogne",
+      "weekend": "2026-10-09",
+      "name": "Sochaux v Boulogne",
+      "utc": "2026-10-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-10-clermont-foot-red-star-fc-93",
+      "weekend": "2026-10-10",
+      "name": "Clermont Foot v Red Star FC 93",
+      "utc": "2026-10-10T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-10-nantes-stade-de-reims",
+      "weekend": "2026-10-10",
+      "name": "Nantes v Stade de Reims",
+      "utc": "2026-10-10T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-10-saint-tienne-rodez-aveyron",
+      "weekend": "2026-10-10",
+      "name": "Saint-\u00c9tienne v Rodez Aveyron",
+      "utc": "2026-10-10T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-12-dijon-fco-metz",
+      "weekend": "2026-10-12",
+      "name": "Dijon FCO v Metz",
+      "utc": "2026-10-12T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-16-annecy-as-nancy-lorraine",
+      "weekend": "2026-10-16",
+      "name": "Annecy v AS Nancy Lorraine",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-16-grenoble-boulogne",
+      "weekend": "2026-10-16",
+      "name": "Grenoble v Boulogne",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-16-guingamp-pau",
+      "weekend": "2026-10-16",
+      "name": "Guingamp v Pau",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-16-stade-de-reims-dijon-fco",
+      "weekend": "2026-10-16",
+      "name": "Stade de Reims v Dijon FCO",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-16-stade-laval-clermont-foot",
+      "weekend": "2026-10-16",
+      "name": "Stade Laval v Clermont Foot",
+      "utc": "2026-10-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-17-metz-sochaux",
+      "weekend": "2026-10-17",
+      "name": "Metz v Sochaux",
+      "utc": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-17-nantes-dunkerque",
+      "weekend": "2026-10-17",
+      "name": "Nantes v Dunkerque",
+      "utc": "2026-10-17T12:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-17-red-star-fc-93-saint-tienne",
+      "weekend": "2026-10-17",
+      "name": "Red Star FC 93 v Saint-\u00c9tienne",
+      "utc": "2026-10-17T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-19-rodez-aveyron-montpellier",
+      "weekend": "2026-10-19",
+      "name": "Rodez Aveyron v Montpellier",
+      "utc": "2026-10-19T18:45:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-23-as-nancy-lorraine-stade-laval",
+      "weekend": "2026-10-23",
+      "name": "AS Nancy Lorraine v Stade Laval",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-23-boulogne-stade-de-reims",
+      "weekend": "2026-10-23",
+      "name": "Boulogne v Stade de Reims",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-23-clermont-foot-guingamp",
+      "weekend": "2026-10-23",
+      "name": "Clermont Foot v Guingamp",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-23-dijon-fco-rodez-aveyron",
+      "weekend": "2026-10-23",
+      "name": "Dijon FCO v Rodez Aveyron",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-23-dunkerque-metz",
+      "weekend": "2026-10-23",
+      "name": "Dunkerque v Metz",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-23-montpellier-red-star-fc-93",
+      "weekend": "2026-10-23",
+      "name": "Montpellier v Red Star FC 93",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-23-pau-grenoble",
+      "weekend": "2026-10-23",
+      "name": "Pau v Grenoble",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-23-saint-tienne-nantes",
+      "weekend": "2026-10-23",
+      "name": "Saint-\u00c9tienne v Nantes",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-23-sochaux-annecy",
+      "weekend": "2026-10-23",
+      "name": "Sochaux v Annecy",
+      "utc": "2026-10-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-30-annecy-montpellier",
+      "weekend": "2026-10-30",
+      "name": "Annecy v Montpellier",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-30-grenoble-dijon-fco",
+      "weekend": "2026-10-30",
+      "name": "Grenoble v Dijon FCO",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-30-guingamp-saint-tienne",
+      "weekend": "2026-10-30",
+      "name": "Guingamp v Saint-\u00c9tienne",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-30-metz-pau",
+      "weekend": "2026-10-30",
+      "name": "Metz v Pau",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-30-nantes-clermont-foot",
+      "weekend": "2026-10-30",
+      "name": "Nantes v Clermont Foot",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-30-red-star-fc-93-as-nancy-lorraine",
+      "weekend": "2026-10-30",
+      "name": "Red Star FC 93 v AS Nancy Lorraine",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-30-rodez-aveyron-dunkerque",
+      "weekend": "2026-10-30",
+      "name": "Rodez Aveyron v Dunkerque",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-30-stade-de-reims-sochaux",
+      "weekend": "2026-10-30",
+      "name": "Stade de Reims v Sochaux",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-10-30-stade-laval-boulogne",
+      "weekend": "2026-10-30",
+      "name": "Stade Laval v Boulogne",
+      "utc": "2026-10-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-06-as-nancy-lorraine-sochaux",
+      "weekend": "2026-11-06",
+      "name": "AS Nancy Lorraine v Sochaux",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-06-boulogne-annecy",
+      "weekend": "2026-11-06",
+      "name": "Boulogne v Annecy",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-06-clermont-foot-rodez-aveyron",
+      "weekend": "2026-11-06",
+      "name": "Clermont Foot v Rodez Aveyron",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-06-dijon-fco-red-star-fc-93",
+      "weekend": "2026-11-06",
+      "name": "Dijon FCO v Red Star FC 93",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-06-dunkerque-guingamp",
+      "weekend": "2026-11-06",
+      "name": "Dunkerque v Guingamp",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-06-grenoble-stade-de-reims",
+      "weekend": "2026-11-06",
+      "name": "Grenoble v Stade de Reims",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-06-montpellier-metz",
+      "weekend": "2026-11-06",
+      "name": "Montpellier v Metz",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-06-pau-nantes",
+      "weekend": "2026-11-06",
+      "name": "Pau v Nantes",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-06-saint-tienne-stade-laval",
+      "weekend": "2026-11-06",
+      "name": "Saint-\u00c9tienne v Stade Laval",
+      "utc": "2026-11-06T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-20-annecy-clermont-foot",
+      "weekend": "2026-11-20",
+      "name": "Annecy v Clermont Foot",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-20-as-nancy-lorraine-dijon-fco",
+      "weekend": "2026-11-20",
+      "name": "AS Nancy Lorraine v Dijon FCO",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-20-guingamp-rodez-aveyron",
+      "weekend": "2026-11-20",
+      "name": "Guingamp v Rodez Aveyron",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-20-metz-boulogne",
+      "weekend": "2026-11-20",
+      "name": "Metz v Boulogne",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-20-nantes-grenoble",
+      "weekend": "2026-11-20",
+      "name": "Nantes v Grenoble",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-20-red-star-fc-93-pau",
+      "weekend": "2026-11-20",
+      "name": "Red Star FC 93 v Pau",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-20-sochaux-dunkerque",
+      "weekend": "2026-11-20",
+      "name": "Sochaux v Dunkerque",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-20-stade-de-reims-saint-tienne",
+      "weekend": "2026-11-20",
+      "name": "Stade de Reims v Saint-\u00c9tienne",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-11-20-stade-laval-montpellier",
+      "weekend": "2026-11-20",
+      "name": "Stade Laval v Montpellier",
+      "utc": "2026-11-20T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-04-annecy-stade-laval",
+      "weekend": "2026-12-04",
+      "name": "Annecy v Stade Laval",
+      "utc": "2026-12-04T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-04-boulogne-pau",
+      "weekend": "2026-12-04",
+      "name": "Boulogne v Pau",
+      "utc": "2026-12-04T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-04-clermont-foot-metz",
+      "weekend": "2026-12-04",
+      "name": "Clermont Foot v Metz",
+      "utc": "2026-12-04T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-04-dijon-fco-sochaux",
+      "weekend": "2026-12-04",
+      "name": "Dijon FCO v Sochaux",
+      "utc": "2026-12-04T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-04-dunkerque-red-star-fc-93",
+      "weekend": "2026-12-04",
+      "name": "Dunkerque v Red Star FC 93",
+      "utc": "2026-12-04T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-04-grenoble-guingamp",
+      "weekend": "2026-12-04",
+      "name": "Grenoble v Guingamp",
+      "utc": "2026-12-04T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-04-montpellier-nantes",
+      "weekend": "2026-12-04",
+      "name": "Montpellier v Nantes",
+      "utc": "2026-12-04T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-04-rodez-aveyron-stade-de-reims",
+      "weekend": "2026-12-04",
+      "name": "Rodez Aveyron v Stade de Reims",
+      "utc": "2026-12-04T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-04-saint-tienne-as-nancy-lorraine",
+      "weekend": "2026-12-04",
+      "name": "Saint-\u00c9tienne v AS Nancy Lorraine",
+      "utc": "2026-12-04T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-11-as-nancy-lorraine-clermont-foot",
+      "weekend": "2026-12-11",
+      "name": "AS Nancy Lorraine v Clermont Foot",
+      "utc": "2026-12-11T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-11-boulogne-rodez-aveyron",
+      "weekend": "2026-12-11",
+      "name": "Boulogne v Rodez Aveyron",
+      "utc": "2026-12-11T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-11-guingamp-dijon-fco",
+      "weekend": "2026-12-11",
+      "name": "Guingamp v Dijon FCO",
+      "utc": "2026-12-11T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-11-metz-stade-de-reims",
+      "weekend": "2026-12-11",
+      "name": "Metz v Stade de Reims",
+      "utc": "2026-12-11T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-11-nantes-annecy",
+      "weekend": "2026-12-11",
+      "name": "Nantes v Annecy",
+      "utc": "2026-12-11T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-11-pau-saint-tienne",
+      "weekend": "2026-12-11",
+      "name": "Pau v Saint-\u00c9tienne",
+      "utc": "2026-12-11T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-11-red-star-fc-93-grenoble",
+      "weekend": "2026-12-11",
+      "name": "Red Star FC 93 v Grenoble",
+      "utc": "2026-12-11T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-11-sochaux-montpellier",
+      "weekend": "2026-12-11",
+      "name": "Sochaux v Montpellier",
+      "utc": "2026-12-11T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2026-12-11-stade-laval-dunkerque",
+      "weekend": "2026-12-11",
+      "name": "Stade Laval v Dunkerque",
+      "utc": "2026-12-11T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-02-annecy-saint-tienne",
+      "weekend": "2027-01-02",
+      "name": "Annecy v Saint-\u00c9tienne",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-02-clermont-foot-pau",
+      "weekend": "2027-01-02",
+      "name": "Clermont Foot v Pau",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-02-dijon-fco-nantes",
+      "weekend": "2027-01-02",
+      "name": "Dijon FCO v Nantes",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-02-dunkerque-boulogne",
+      "weekend": "2027-01-02",
+      "name": "Dunkerque v Boulogne",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-02-grenoble-sochaux",
+      "weekend": "2027-01-02",
+      "name": "Grenoble v Sochaux",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-02-metz-as-nancy-lorraine",
+      "weekend": "2027-01-02",
+      "name": "Metz v AS Nancy Lorraine",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-02-montpellier-guingamp",
+      "weekend": "2027-01-02",
+      "name": "Montpellier v Guingamp",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-02-rodez-aveyron-red-star-fc-93",
+      "weekend": "2027-01-02",
+      "name": "Rodez Aveyron v Red Star FC 93",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-02-stade-de-reims-stade-laval",
+      "weekend": "2027-01-02",
+      "name": "Stade de Reims v Stade Laval",
+      "utc": "2027-01-02T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-15-as-nancy-lorraine-grenoble",
+      "weekend": "2027-01-15",
+      "name": "AS Nancy Lorraine v Grenoble",
+      "utc": "2027-01-15T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-15-dijon-fco-dunkerque",
+      "weekend": "2027-01-15",
+      "name": "Dijon FCO v Dunkerque",
+      "utc": "2027-01-15T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-15-montpellier-clermont-foot",
+      "weekend": "2027-01-15",
+      "name": "Montpellier v Clermont Foot",
+      "utc": "2027-01-15T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-15-nantes-metz",
+      "weekend": "2027-01-15",
+      "name": "Nantes v Metz",
+      "utc": "2027-01-15T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-15-pau-stade-de-reims",
+      "weekend": "2027-01-15",
+      "name": "Pau v Stade de Reims",
+      "utc": "2027-01-15T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-15-red-star-fc-93-annecy",
+      "weekend": "2027-01-15",
+      "name": "Red Star FC 93 v Annecy",
+      "utc": "2027-01-15T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-15-saint-tienne-boulogne",
+      "weekend": "2027-01-15",
+      "name": "Saint-\u00c9tienne v Boulogne",
+      "utc": "2027-01-15T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-15-sochaux-rodez-aveyron",
+      "weekend": "2027-01-15",
+      "name": "Sochaux v Rodez Aveyron",
+      "utc": "2027-01-15T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-15-stade-laval-guingamp",
+      "weekend": "2027-01-15",
+      "name": "Stade Laval v Guingamp",
+      "utc": "2027-01-15T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-22-boulogne-sochaux",
+      "weekend": "2027-01-22",
+      "name": "Boulogne v Sochaux",
+      "utc": "2027-01-22T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-22-clermont-foot-saint-tienne",
+      "weekend": "2027-01-22",
+      "name": "Clermont Foot v Saint-\u00c9tienne",
+      "utc": "2027-01-22T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-22-dunkerque-nantes",
+      "weekend": "2027-01-22",
+      "name": "Dunkerque v Nantes",
+      "utc": "2027-01-22T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-22-grenoble-montpellier",
+      "weekend": "2027-01-22",
+      "name": "Grenoble v Montpellier",
+      "utc": "2027-01-22T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-22-guingamp-as-nancy-lorraine",
+      "weekend": "2027-01-22",
+      "name": "Guingamp v AS Nancy Lorraine",
+      "utc": "2027-01-22T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-22-metz-dijon-fco",
+      "weekend": "2027-01-22",
+      "name": "Metz v Dijon FCO",
+      "utc": "2027-01-22T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-22-rodez-aveyron-annecy",
+      "weekend": "2027-01-22",
+      "name": "Rodez Aveyron v Annecy",
+      "utc": "2027-01-22T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-22-stade-de-reims-red-star-fc-93",
+      "weekend": "2027-01-22",
+      "name": "Stade de Reims v Red Star FC 93",
+      "utc": "2027-01-22T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-22-stade-laval-pau",
+      "weekend": "2027-01-22",
+      "name": "Stade Laval v Pau",
+      "utc": "2027-01-22T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-29-annecy-grenoble",
+      "weekend": "2027-01-29",
+      "name": "Annecy v Grenoble",
+      "utc": "2027-01-29T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-29-as-nancy-lorraine-boulogne",
+      "weekend": "2027-01-29",
+      "name": "AS Nancy Lorraine v Boulogne",
+      "utc": "2027-01-29T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-29-dijon-fco-clermont-foot",
+      "weekend": "2027-01-29",
+      "name": "Dijon FCO v Clermont Foot",
+      "utc": "2027-01-29T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-29-montpellier-rodez-aveyron",
+      "weekend": "2027-01-29",
+      "name": "Montpellier v Rodez Aveyron",
+      "utc": "2027-01-29T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-29-nantes-guingamp",
+      "weekend": "2027-01-29",
+      "name": "Nantes v Guingamp",
+      "utc": "2027-01-29T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-29-pau-metz",
+      "weekend": "2027-01-29",
+      "name": "Pau v Metz",
+      "utc": "2027-01-29T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-29-red-star-fc-93-stade-laval",
+      "weekend": "2027-01-29",
+      "name": "Red Star FC 93 v Stade Laval",
+      "utc": "2027-01-29T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-29-saint-tienne-dunkerque",
+      "weekend": "2027-01-29",
+      "name": "Saint-\u00c9tienne v Dunkerque",
+      "utc": "2027-01-29T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-01-29-sochaux-stade-de-reims",
+      "weekend": "2027-01-29",
+      "name": "Sochaux v Stade de Reims",
+      "utc": "2027-01-29T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-05-boulogne-clermont-foot",
+      "weekend": "2027-02-05",
+      "name": "Boulogne v Clermont Foot",
+      "utc": "2027-02-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-05-grenoble-saint-tienne",
+      "weekend": "2027-02-05",
+      "name": "Grenoble v Saint-\u00c9tienne",
+      "utc": "2027-02-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-05-guingamp-dunkerque",
+      "weekend": "2027-02-05",
+      "name": "Guingamp v Dunkerque",
+      "utc": "2027-02-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-05-metz-annecy",
+      "weekend": "2027-02-05",
+      "name": "Metz v Annecy",
+      "utc": "2027-02-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-05-red-star-fc-93-montpellier",
+      "weekend": "2027-02-05",
+      "name": "Red Star FC 93 v Montpellier",
+      "utc": "2027-02-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-05-rodez-aveyron-nantes",
+      "weekend": "2027-02-05",
+      "name": "Rodez Aveyron v Nantes",
+      "utc": "2027-02-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-05-sochaux-pau",
+      "weekend": "2027-02-05",
+      "name": "Sochaux v Pau",
+      "utc": "2027-02-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-05-stade-de-reims-as-nancy-lorraine",
+      "weekend": "2027-02-05",
+      "name": "Stade de Reims v AS Nancy Lorraine",
+      "utc": "2027-02-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-05-stade-laval-dijon-fco",
+      "weekend": "2027-02-05",
+      "name": "Stade Laval v Dijon FCO",
+      "utc": "2027-02-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-12-annecy-sochaux",
+      "weekend": "2027-02-12",
+      "name": "Annecy v Sochaux",
+      "utc": "2027-02-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-12-as-nancy-lorraine-red-star-fc-93",
+      "weekend": "2027-02-12",
+      "name": "AS Nancy Lorraine v Red Star FC 93",
+      "utc": "2027-02-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-12-clermont-foot-stade-laval",
+      "weekend": "2027-02-12",
+      "name": "Clermont Foot v Stade Laval",
+      "utc": "2027-02-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-12-dijon-fco-grenoble",
+      "weekend": "2027-02-12",
+      "name": "Dijon FCO v Grenoble",
+      "utc": "2027-02-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-12-dunkerque-pau",
+      "weekend": "2027-02-12",
+      "name": "Dunkerque v Pau",
+      "utc": "2027-02-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-12-montpellier-stade-de-reims",
+      "weekend": "2027-02-12",
+      "name": "Montpellier v Stade de Reims",
+      "utc": "2027-02-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-12-nantes-boulogne",
+      "weekend": "2027-02-12",
+      "name": "Nantes v Boulogne",
+      "utc": "2027-02-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-12-rodez-aveyron-guingamp",
+      "weekend": "2027-02-12",
+      "name": "Rodez Aveyron v Guingamp",
+      "utc": "2027-02-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-12-saint-tienne-metz",
+      "weekend": "2027-02-12",
+      "name": "Saint-\u00c9tienne v Metz",
+      "utc": "2027-02-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-19-boulogne-saint-tienne",
+      "weekend": "2027-02-19",
+      "name": "Boulogne v Saint-\u00c9tienne",
+      "utc": "2027-02-19T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-19-dunkerque-as-nancy-lorraine",
+      "weekend": "2027-02-19",
+      "name": "Dunkerque v AS Nancy Lorraine",
+      "utc": "2027-02-19T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-19-grenoble-rodez-aveyron",
+      "weekend": "2027-02-19",
+      "name": "Grenoble v Rodez Aveyron",
+      "utc": "2027-02-19T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-19-guingamp-clermont-foot",
+      "weekend": "2027-02-19",
+      "name": "Guingamp v Clermont Foot",
+      "utc": "2027-02-19T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-19-metz-montpellier",
+      "weekend": "2027-02-19",
+      "name": "Metz v Montpellier",
+      "utc": "2027-02-19T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-19-pau-red-star-fc-93",
+      "weekend": "2027-02-19",
+      "name": "Pau v Red Star FC 93",
+      "utc": "2027-02-19T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-19-sochaux-dijon-fco",
+      "weekend": "2027-02-19",
+      "name": "Sochaux v Dijon FCO",
+      "utc": "2027-02-19T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-19-stade-de-reims-nantes",
+      "weekend": "2027-02-19",
+      "name": "Stade de Reims v Nantes",
+      "utc": "2027-02-19T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-19-stade-laval-annecy",
+      "weekend": "2027-02-19",
+      "name": "Stade Laval v Annecy",
+      "utc": "2027-02-19T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-26-annecy-stade-de-reims",
+      "weekend": "2027-02-26",
+      "name": "Annecy v Stade de Reims",
+      "utc": "2027-02-26T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-26-clermont-foot-dunkerque",
+      "weekend": "2027-02-26",
+      "name": "Clermont Foot v Dunkerque",
+      "utc": "2027-02-26T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-26-dijon-fco-as-nancy-lorraine",
+      "weekend": "2027-02-26",
+      "name": "Dijon FCO v AS Nancy Lorraine",
+      "utc": "2027-02-26T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-26-metz-grenoble",
+      "weekend": "2027-02-26",
+      "name": "Metz v Grenoble",
+      "utc": "2027-02-26T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-26-montpellier-stade-laval",
+      "weekend": "2027-02-26",
+      "name": "Montpellier v Stade Laval",
+      "utc": "2027-02-26T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-26-nantes-pau",
+      "weekend": "2027-02-26",
+      "name": "Nantes v Pau",
+      "utc": "2027-02-26T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-26-red-star-fc-93-guingamp",
+      "weekend": "2027-02-26",
+      "name": "Red Star FC 93 v Guingamp",
+      "utc": "2027-02-26T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-26-rodez-aveyron-boulogne",
+      "weekend": "2027-02-26",
+      "name": "Rodez Aveyron v Boulogne",
+      "utc": "2027-02-26T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-02-26-saint-tienne-sochaux",
+      "weekend": "2027-02-26",
+      "name": "Saint-\u00c9tienne v Sochaux",
+      "utc": "2027-02-26T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-05-as-nancy-lorraine-nantes",
+      "weekend": "2027-03-05",
+      "name": "AS Nancy Lorraine v Nantes",
+      "utc": "2027-03-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-05-boulogne-stade-laval",
+      "weekend": "2027-03-05",
+      "name": "Boulogne v Stade Laval",
+      "utc": "2027-03-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-05-dunkerque-dijon-fco",
+      "weekend": "2027-03-05",
+      "name": "Dunkerque v Dijon FCO",
+      "utc": "2027-03-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-05-grenoble-red-star-fc-93",
+      "weekend": "2027-03-05",
+      "name": "Grenoble v Red Star FC 93",
+      "utc": "2027-03-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-05-montpellier-annecy",
+      "weekend": "2027-03-05",
+      "name": "Montpellier v Annecy",
+      "utc": "2027-03-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-05-pau-clermont-foot",
+      "weekend": "2027-03-05",
+      "name": "Pau v Clermont Foot",
+      "utc": "2027-03-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-05-saint-tienne-guingamp",
+      "weekend": "2027-03-05",
+      "name": "Saint-\u00c9tienne v Guingamp",
+      "utc": "2027-03-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-05-sochaux-metz",
+      "weekend": "2027-03-05",
+      "name": "Sochaux v Metz",
+      "utc": "2027-03-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-05-stade-de-reims-rodez-aveyron",
+      "weekend": "2027-03-05",
+      "name": "Stade de Reims v Rodez Aveyron",
+      "utc": "2027-03-05T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-12-annecy-boulogne",
+      "weekend": "2027-03-12",
+      "name": "Annecy v Boulogne",
+      "utc": "2027-03-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-12-as-nancy-lorraine-pau",
+      "weekend": "2027-03-12",
+      "name": "AS Nancy Lorraine v Pau",
+      "utc": "2027-03-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-12-clermont-foot-montpellier",
+      "weekend": "2027-03-12",
+      "name": "Clermont Foot v Montpellier",
+      "utc": "2027-03-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-12-guingamp-grenoble",
+      "weekend": "2027-03-12",
+      "name": "Guingamp v Grenoble",
+      "utc": "2027-03-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-12-metz-dunkerque",
+      "weekend": "2027-03-12",
+      "name": "Metz v Dunkerque",
+      "utc": "2027-03-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-12-nantes-saint-tienne",
+      "weekend": "2027-03-12",
+      "name": "Nantes v Saint-\u00c9tienne",
+      "utc": "2027-03-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-12-red-star-fc-93-dijon-fco",
+      "weekend": "2027-03-12",
+      "name": "Red Star FC 93 v Dijon FCO",
+      "utc": "2027-03-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-12-rodez-aveyron-sochaux",
+      "weekend": "2027-03-12",
+      "name": "Rodez Aveyron v Sochaux",
+      "utc": "2027-03-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-12-stade-laval-stade-de-reims",
+      "weekend": "2027-03-12",
+      "name": "Stade Laval v Stade de Reims",
+      "utc": "2027-03-12T20:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-19-boulogne-metz",
+      "weekend": "2027-03-19",
+      "name": "Boulogne v Metz",
+      "utc": "2027-03-19T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-19-dijon-fco-annecy",
+      "weekend": "2027-03-19",
+      "name": "Dijon FCO v Annecy",
+      "utc": "2027-03-19T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-19-dunkerque-rodez-aveyron",
+      "weekend": "2027-03-19",
+      "name": "Dunkerque v Rodez Aveyron",
+      "utc": "2027-03-19T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-19-grenoble-nantes",
+      "weekend": "2027-03-19",
+      "name": "Grenoble v Nantes",
+      "utc": "2027-03-19T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-19-guingamp-stade-laval",
+      "weekend": "2027-03-19",
+      "name": "Guingamp v Stade Laval",
+      "utc": "2027-03-19T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-19-pau-montpellier",
+      "weekend": "2027-03-19",
+      "name": "Pau v Montpellier",
+      "utc": "2027-03-19T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-19-saint-tienne-red-star-fc-93",
+      "weekend": "2027-03-19",
+      "name": "Saint-\u00c9tienne v Red Star FC 93",
+      "utc": "2027-03-19T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-19-sochaux-as-nancy-lorraine",
+      "weekend": "2027-03-19",
+      "name": "Sochaux v AS Nancy Lorraine",
+      "utc": "2027-03-19T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-03-19-stade-de-reims-clermont-foot",
+      "weekend": "2027-03-19",
+      "name": "Stade de Reims v Clermont Foot",
+      "utc": "2027-03-19T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-02-annecy-guingamp",
+      "weekend": "2027-04-02",
+      "name": "Annecy v Guingamp",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-02-as-nancy-lorraine-saint-tienne",
+      "weekend": "2027-04-02",
+      "name": "AS Nancy Lorraine v Saint-\u00c9tienne",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-02-clermont-foot-grenoble",
+      "weekend": "2027-04-02",
+      "name": "Clermont Foot v Grenoble",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-02-montpellier-dunkerque",
+      "weekend": "2027-04-02",
+      "name": "Montpellier v Dunkerque",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-02-nantes-sochaux",
+      "weekend": "2027-04-02",
+      "name": "Nantes v Sochaux",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-02-red-star-fc-93-boulogne",
+      "weekend": "2027-04-02",
+      "name": "Red Star FC 93 v Boulogne",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-02-rodez-aveyron-dijon-fco",
+      "weekend": "2027-04-02",
+      "name": "Rodez Aveyron v Dijon FCO",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-02-stade-de-reims-pau",
+      "weekend": "2027-04-02",
+      "name": "Stade de Reims v Pau",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-02-stade-laval-metz",
+      "weekend": "2027-04-02",
+      "name": "Stade Laval v Metz",
+      "utc": "2027-04-02T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-09-boulogne-grenoble",
+      "weekend": "2027-04-09",
+      "name": "Boulogne v Grenoble",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-09-clermont-foot-as-nancy-lorraine",
+      "weekend": "2027-04-09",
+      "name": "Clermont Foot v AS Nancy Lorraine",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-09-dijon-fco-stade-de-reims",
+      "weekend": "2027-04-09",
+      "name": "Dijon FCO v Stade de Reims",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-09-dunkerque-stade-laval",
+      "weekend": "2027-04-09",
+      "name": "Dunkerque v Stade Laval",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-09-guingamp-montpellier",
+      "weekend": "2027-04-09",
+      "name": "Guingamp v Montpellier",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-09-metz-nantes",
+      "weekend": "2027-04-09",
+      "name": "Metz v Nantes",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-09-pau-rodez-aveyron",
+      "weekend": "2027-04-09",
+      "name": "Pau v Rodez Aveyron",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-09-saint-tienne-annecy",
+      "weekend": "2027-04-09",
+      "name": "Saint-\u00c9tienne v Annecy",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-09-sochaux-red-star-fc-93",
+      "weekend": "2027-04-09",
+      "name": "Sochaux v Red Star FC 93",
+      "utc": "2027-04-09T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-16-annecy-dunkerque",
+      "weekend": "2027-04-16",
+      "name": "Annecy v Dunkerque",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-16-dijon-fco-guingamp",
+      "weekend": "2027-04-16",
+      "name": "Dijon FCO v Guingamp",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-16-grenoble-as-nancy-lorraine",
+      "weekend": "2027-04-16",
+      "name": "Grenoble v AS Nancy Lorraine",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-16-montpellier-sochaux",
+      "weekend": "2027-04-16",
+      "name": "Montpellier v Sochaux",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-16-pau-boulogne",
+      "weekend": "2027-04-16",
+      "name": "Pau v Boulogne",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-16-red-star-fc-93-nantes",
+      "weekend": "2027-04-16",
+      "name": "Red Star FC 93 v Nantes",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-16-rodez-aveyron-clermont-foot",
+      "weekend": "2027-04-16",
+      "name": "Rodez Aveyron v Clermont Foot",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-16-stade-de-reims-metz",
+      "weekend": "2027-04-16",
+      "name": "Stade de Reims v Metz",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-16-stade-laval-saint-tienne",
+      "weekend": "2027-04-16",
+      "name": "Stade Laval v Saint-\u00c9tienne",
+      "utc": "2027-04-16T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-23-as-nancy-lorraine-annecy",
+      "weekend": "2027-04-23",
+      "name": "AS Nancy Lorraine v Annecy",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-23-boulogne-dunkerque",
+      "weekend": "2027-04-23",
+      "name": "Boulogne v Dunkerque",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-23-grenoble-pau",
+      "weekend": "2027-04-23",
+      "name": "Grenoble v Pau",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-23-guingamp-stade-de-reims",
+      "weekend": "2027-04-23",
+      "name": "Guingamp v Stade de Reims",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-23-metz-clermont-foot",
+      "weekend": "2027-04-23",
+      "name": "Metz v Clermont Foot",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-23-nantes-montpellier",
+      "weekend": "2027-04-23",
+      "name": "Nantes v Montpellier",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-23-red-star-fc-93-rodez-aveyron",
+      "weekend": "2027-04-23",
+      "name": "Red Star FC 93 v Rodez Aveyron",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-23-saint-tienne-dijon-fco",
+      "weekend": "2027-04-23",
+      "name": "Saint-\u00c9tienne v Dijon FCO",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-23-sochaux-stade-laval",
+      "weekend": "2027-04-23",
+      "name": "Sochaux v Stade Laval",
+      "utc": "2027-04-23T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-30-annecy-red-star-fc-93",
+      "weekend": "2027-04-30",
+      "name": "Annecy v Red Star FC 93",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-30-clermont-foot-nantes",
+      "weekend": "2027-04-30",
+      "name": "Clermont Foot v Nantes",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-30-dijon-fco-boulogne",
+      "weekend": "2027-04-30",
+      "name": "Dijon FCO v Boulogne",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-30-dunkerque-sochaux",
+      "weekend": "2027-04-30",
+      "name": "Dunkerque v Sochaux",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-30-montpellier-saint-tienne",
+      "weekend": "2027-04-30",
+      "name": "Montpellier v Saint-\u00c9tienne",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-30-pau-guingamp",
+      "weekend": "2027-04-30",
+      "name": "Pau v Guingamp",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-30-rodez-aveyron-metz",
+      "weekend": "2027-04-30",
+      "name": "Rodez Aveyron v Metz",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-30-stade-de-reims-grenoble",
+      "weekend": "2027-04-30",
+      "name": "Stade de Reims v Grenoble",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-04-30-stade-laval-as-nancy-lorraine",
+      "weekend": "2027-04-30",
+      "name": "Stade Laval v AS Nancy Lorraine",
+      "utc": "2027-04-30T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-07-annecy-pau",
+      "weekend": "2027-05-07",
+      "name": "Annecy v Pau",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-07-as-nancy-lorraine-rodez-aveyron",
+      "weekend": "2027-05-07",
+      "name": "AS Nancy Lorraine v Rodez Aveyron",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-07-boulogne-montpellier",
+      "weekend": "2027-05-07",
+      "name": "Boulogne v Montpellier",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-07-grenoble-stade-laval",
+      "weekend": "2027-05-07",
+      "name": "Grenoble v Stade Laval",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-07-guingamp-metz",
+      "weekend": "2027-05-07",
+      "name": "Guingamp v Metz",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-07-nantes-dijon-fco",
+      "weekend": "2027-05-07",
+      "name": "Nantes v Dijon FCO",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-07-red-star-fc-93-dunkerque",
+      "weekend": "2027-05-07",
+      "name": "Red Star FC 93 v Dunkerque",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-07-saint-tienne-stade-de-reims",
+      "weekend": "2027-05-07",
+      "name": "Saint-\u00c9tienne v Stade de Reims",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-07-sochaux-clermont-foot",
+      "weekend": "2027-05-07",
+      "name": "Sochaux v Clermont Foot",
+      "utc": "2027-05-07T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-14-boulogne-guingamp",
+      "weekend": "2027-05-14",
+      "name": "Boulogne v Guingamp",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-14-clermont-foot-annecy",
+      "weekend": "2027-05-14",
+      "name": "Clermont Foot v Annecy",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-14-dunkerque-stade-de-reims",
+      "weekend": "2027-05-14",
+      "name": "Dunkerque v Stade de Reims",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-14-metz-red-star-fc-93",
+      "weekend": "2027-05-14",
+      "name": "Metz v Red Star FC 93",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-14-montpellier-as-nancy-lorraine",
+      "weekend": "2027-05-14",
+      "name": "Montpellier v AS Nancy Lorraine",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-14-nantes-stade-laval",
+      "weekend": "2027-05-14",
+      "name": "Nantes v Stade Laval",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-14-pau-dijon-fco",
+      "weekend": "2027-05-14",
+      "name": "Pau v Dijon FCO",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-14-rodez-aveyron-saint-tienne",
+      "weekend": "2027-05-14",
+      "name": "Rodez Aveyron v Saint-\u00c9tienne",
+      "utc": "2027-05-14T18:00:00Z"
+    },
+    {
+      "id": "fra.2-2027-05-14-sochaux-grenoble",
+      "weekend": "2027-05-14",
+      "name": "Sochaux v Grenoble",
+      "utc": "2027-05-14T18:00:00Z"
+    }
+  ]
+}

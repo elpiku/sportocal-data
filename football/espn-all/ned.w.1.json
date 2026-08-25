@@ -1,0 +1,548 @@
+{
+  "sportKey": "soccer-ned.w.1",
+  "leagueName": "Dutch Vrouwen Eredivisie",
+  "windowFrom": "20260810",
+  "windowTo": "20270521",
+  "events": [
+    {
+      "id": "ned.w.1-2026-08-16-fc-utrecht-ajax-amsterdam",
+      "weekend": "2026-08-16",
+      "name": "FC Utrecht v Ajax Amsterdam",
+      "utc": "2026-08-16T10:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-08-16-az-alkmaar-ado-den-haag",
+      "weekend": "2026-08-16",
+      "name": "AZ Alkmaar v ADO Den Haag",
+      "utc": "2026-08-16T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-08-16-fc-twente-de-graafschap",
+      "weekend": "2026-08-16",
+      "name": "FC Twente v De Graafschap",
+      "utc": "2026-08-16T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-08-16-heerenveen-feyenoord-rotterdam",
+      "weekend": "2026-08-16",
+      "name": "Heerenveen v Feyenoord Rotterdam",
+      "utc": "2026-08-16T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-08-16-pec-zwolle-psv-eindhoven",
+      "weekend": "2026-08-16",
+      "name": "PEC Zwolle v PSV Eindhoven",
+      "utc": "2026-08-16T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-08-22-psv-eindhoven-fc-utrecht",
+      "weekend": "2026-08-22",
+      "name": "PSV Eindhoven v FC Utrecht",
+      "utc": "2026-08-22T12:00:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-08-22-ajax-amsterdam-pec-zwolle",
+      "weekend": "2026-08-22",
+      "name": "Ajax Amsterdam v PEC Zwolle",
+      "utc": "2026-08-22T14:30:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-08-22-feyenoord-rotterdam-az-alkmaar",
+      "weekend": "2026-08-22",
+      "name": "Feyenoord Rotterdam v AZ Alkmaar",
+      "utc": "2026-08-22T14:30:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-08-23-de-graafschap-heerenveen",
+      "weekend": "2026-08-23",
+      "name": "De Graafschap v Heerenveen",
+      "utc": "2026-08-23T10:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-08-23-ado-den-haag-fc-twente",
+      "weekend": "2026-08-23",
+      "name": "ADO Den Haag v FC Twente",
+      "utc": "2026-08-23T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-06-feyenoord-rotterdam-psv-eindhoven",
+      "weekend": "2026-09-06",
+      "name": "Feyenoord Rotterdam v PSV Eindhoven",
+      "utc": "2026-09-06T10:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-06-ajax-amsterdam-de-graafschap",
+      "weekend": "2026-09-06",
+      "name": "Ajax Amsterdam v De Graafschap",
+      "utc": "2026-09-06T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-06-az-alkmaar-fc-utrecht",
+      "weekend": "2026-09-06",
+      "name": "AZ Alkmaar v FC Utrecht",
+      "utc": "2026-09-06T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-06-fc-twente-heerenveen",
+      "weekend": "2026-09-06",
+      "name": "FC Twente v Heerenveen",
+      "utc": "2026-09-06T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-06-pec-zwolle-ado-den-haag",
+      "weekend": "2026-09-06",
+      "name": "PEC Zwolle v ADO Den Haag",
+      "utc": "2026-09-06T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-13-fc-twente-feyenoord-rotterdam",
+      "weekend": "2026-09-13",
+      "name": "FC Twente v Feyenoord Rotterdam",
+      "utc": "2026-09-13T10:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-13-az-alkmaar-psv-eindhoven",
+      "weekend": "2026-09-13",
+      "name": "AZ Alkmaar v PSV Eindhoven",
+      "utc": "2026-09-13T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-13-de-graafschap-ado-den-haag",
+      "weekend": "2026-09-13",
+      "name": "De Graafschap v ADO Den Haag",
+      "utc": "2026-09-13T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-13-fc-utrecht-pec-zwolle",
+      "weekend": "2026-09-13",
+      "name": "FC Utrecht v PEC Zwolle",
+      "utc": "2026-09-13T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-13-heerenveen-ajax-amsterdam",
+      "weekend": "2026-09-13",
+      "name": "Heerenveen v Ajax Amsterdam",
+      "utc": "2026-09-13T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-19-psv-eindhoven-fc-twente",
+      "weekend": "2026-09-19",
+      "name": "PSV Eindhoven v FC Twente",
+      "utc": "2026-09-19T12:00:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-19-ajax-amsterdam-az-alkmaar",
+      "weekend": "2026-09-19",
+      "name": "Ajax Amsterdam v AZ Alkmaar",
+      "utc": "2026-09-19T14:30:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-19-fc-utrecht-feyenoord-rotterdam",
+      "weekend": "2026-09-19",
+      "name": "FC Utrecht v Feyenoord Rotterdam",
+      "utc": "2026-09-19T14:30:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-20-pec-zwolle-de-graafschap",
+      "weekend": "2026-09-20",
+      "name": "PEC Zwolle v De Graafschap",
+      "utc": "2026-09-20T10:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-20-ado-den-haag-heerenveen",
+      "weekend": "2026-09-20",
+      "name": "ADO Den Haag v Heerenveen",
+      "utc": "2026-09-20T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-26-psv-eindhoven-de-graafschap",
+      "weekend": "2026-09-26",
+      "name": "PSV Eindhoven v De Graafschap",
+      "utc": "2026-09-26T12:00:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-26-ajax-amsterdam-ado-den-haag",
+      "weekend": "2026-09-26",
+      "name": "Ajax Amsterdam v ADO Den Haag",
+      "utc": "2026-09-26T14:30:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-26-feyenoord-rotterdam-pec-zwolle",
+      "weekend": "2026-09-26",
+      "name": "Feyenoord Rotterdam v PEC Zwolle",
+      "utc": "2026-09-26T14:30:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-27-az-alkmaar-fc-twente",
+      "weekend": "2026-09-27",
+      "name": "AZ Alkmaar v FC Twente",
+      "utc": "2026-09-27T10:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-09-27-heerenveen-fc-utrecht",
+      "weekend": "2026-09-27",
+      "name": "Heerenveen v FC Utrecht",
+      "utc": "2026-09-27T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-10-04-fc-twente-fc-utrecht",
+      "weekend": "2026-10-04",
+      "name": "FC Twente v FC Utrecht",
+      "utc": "2026-10-04T10:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-10-04-ado-den-haag-psv-eindhoven",
+      "weekend": "2026-10-04",
+      "name": "ADO Den Haag v PSV Eindhoven",
+      "utc": "2026-10-04T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-10-04-de-graafschap-az-alkmaar",
+      "weekend": "2026-10-04",
+      "name": "De Graafschap v AZ Alkmaar",
+      "utc": "2026-10-04T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-10-04-feyenoord-rotterdam-ajax-amsterdam",
+      "weekend": "2026-10-04",
+      "name": "Feyenoord Rotterdam v Ajax Amsterdam",
+      "utc": "2026-10-04T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-10-04-pec-zwolle-heerenveen",
+      "weekend": "2026-10-04",
+      "name": "PEC Zwolle v Heerenveen",
+      "utc": "2026-10-04T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-10-18-ajax-amsterdam-psv-eindhoven",
+      "weekend": "2026-10-18",
+      "name": "Ajax Amsterdam v PSV Eindhoven",
+      "utc": "2026-10-18T10:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-10-18-de-graafschap-feyenoord-rotterdam",
+      "weekend": "2026-10-18",
+      "name": "De Graafschap v Feyenoord Rotterdam",
+      "utc": "2026-10-18T14:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-10-25-heerenveen-az-alkmaar",
+      "weekend": "2026-10-25",
+      "name": "Heerenveen v AZ Alkmaar",
+      "utc": "2026-10-25T11:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-10-25-fc-utrecht-ado-den-haag",
+      "weekend": "2026-10-25",
+      "name": "FC Utrecht v ADO Den Haag",
+      "utc": "2026-10-25T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-10-25-pec-zwolle-fc-twente",
+      "weekend": "2026-10-25",
+      "name": "PEC Zwolle v FC Twente",
+      "utc": "2026-10-25T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-01-ajax-amsterdam-fc-twente",
+      "weekend": "2026-11-01",
+      "name": "Ajax Amsterdam v FC Twente",
+      "utc": "2026-11-01T11:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-01-ado-den-haag-feyenoord-rotterdam",
+      "weekend": "2026-11-01",
+      "name": "ADO Den Haag v Feyenoord Rotterdam",
+      "utc": "2026-11-01T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-01-az-alkmaar-pec-zwolle",
+      "weekend": "2026-11-01",
+      "name": "AZ Alkmaar v PEC Zwolle",
+      "utc": "2026-11-01T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-01-fc-utrecht-de-graafschap",
+      "weekend": "2026-11-01",
+      "name": "FC Utrecht v De Graafschap",
+      "utc": "2026-11-01T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-01-psv-eindhoven-heerenveen",
+      "weekend": "2026-11-01",
+      "name": "PSV Eindhoven v Heerenveen",
+      "utc": "2026-11-01T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-14-az-alkmaar-ajax-amsterdam",
+      "weekend": "2026-11-14",
+      "name": "AZ Alkmaar v Ajax Amsterdam",
+      "utc": "2026-11-14T15:30:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-14-fc-twente-psv-eindhoven",
+      "weekend": "2026-11-14",
+      "name": "FC Twente v PSV Eindhoven",
+      "utc": "2026-11-14T15:30:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-15-ado-den-haag-de-graafschap",
+      "weekend": "2026-11-15",
+      "name": "ADO Den Haag v De Graafschap",
+      "utc": "2026-11-15T11:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-15-feyenoord-rotterdam-heerenveen",
+      "weekend": "2026-11-15",
+      "name": "Feyenoord Rotterdam v Heerenveen",
+      "utc": "2026-11-15T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-15-pec-zwolle-fc-utrecht",
+      "weekend": "2026-11-15",
+      "name": "PEC Zwolle v FC Utrecht",
+      "utc": "2026-11-15T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-22-heerenveen-ado-den-haag",
+      "weekend": "2026-11-22",
+      "name": "Heerenveen v ADO Den Haag",
+      "utc": "2026-11-22T11:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-22-de-graafschap-ajax-amsterdam",
+      "weekend": "2026-11-22",
+      "name": "De Graafschap v Ajax Amsterdam",
+      "utc": "2026-11-22T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-22-fc-utrecht-az-alkmaar",
+      "weekend": "2026-11-22",
+      "name": "FC Utrecht v AZ Alkmaar",
+      "utc": "2026-11-22T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-22-feyenoord-rotterdam-fc-twente",
+      "weekend": "2026-11-22",
+      "name": "Feyenoord Rotterdam v FC Twente",
+      "utc": "2026-11-22T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-11-22-psv-eindhoven-pec-zwolle",
+      "weekend": "2026-11-22",
+      "name": "PSV Eindhoven v PEC Zwolle",
+      "utc": "2026-11-22T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-12-20-fc-twente-az-alkmaar",
+      "weekend": "2026-12-20",
+      "name": "FC Twente v AZ Alkmaar",
+      "utc": "2026-12-20T11:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-12-20-ado-den-haag-pec-zwolle",
+      "weekend": "2026-12-20",
+      "name": "ADO Den Haag v PEC Zwolle",
+      "utc": "2026-12-20T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-12-20-ajax-amsterdam-fc-utrecht",
+      "weekend": "2026-12-20",
+      "name": "Ajax Amsterdam v FC Utrecht",
+      "utc": "2026-12-20T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-12-20-heerenveen-de-graafschap",
+      "weekend": "2026-12-20",
+      "name": "Heerenveen v De Graafschap",
+      "utc": "2026-12-20T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2026-12-20-psv-eindhoven-feyenoord-rotterdam",
+      "weekend": "2026-12-20",
+      "name": "PSV Eindhoven v Feyenoord Rotterdam",
+      "utc": "2026-12-20T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-17-az-alkmaar-heerenveen",
+      "weekend": "2027-01-17",
+      "name": "AZ Alkmaar v Heerenveen",
+      "utc": "2027-01-17T11:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-17-de-graafschap-psv-eindhoven",
+      "weekend": "2027-01-17",
+      "name": "De Graafschap v PSV Eindhoven",
+      "utc": "2027-01-17T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-17-fc-twente-ado-den-haag",
+      "weekend": "2027-01-17",
+      "name": "FC Twente v ADO Den Haag",
+      "utc": "2027-01-17T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-17-feyenoord-rotterdam-fc-utrecht",
+      "weekend": "2027-01-17",
+      "name": "Feyenoord Rotterdam v FC Utrecht",
+      "utc": "2027-01-17T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-17-pec-zwolle-ajax-amsterdam",
+      "weekend": "2027-01-17",
+      "name": "PEC Zwolle v Ajax Amsterdam",
+      "utc": "2027-01-17T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-24-psv-eindhoven-ajax-amsterdam",
+      "weekend": "2027-01-24",
+      "name": "PSV Eindhoven v Ajax Amsterdam",
+      "utc": "2027-01-24T11:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-24-ado-den-haag-az-alkmaar",
+      "weekend": "2027-01-24",
+      "name": "ADO Den Haag v AZ Alkmaar",
+      "utc": "2027-01-24T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-24-fc-utrecht-fc-twente",
+      "weekend": "2027-01-24",
+      "name": "FC Utrecht v FC Twente",
+      "utc": "2027-01-24T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-24-feyenoord-rotterdam-de-graafschap",
+      "weekend": "2027-01-24",
+      "name": "Feyenoord Rotterdam v De Graafschap",
+      "utc": "2027-01-24T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-24-heerenveen-pec-zwolle",
+      "weekend": "2027-01-24",
+      "name": "Heerenveen v PEC Zwolle",
+      "utc": "2027-01-24T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-31-fc-utrecht-heerenveen",
+      "weekend": "2027-01-31",
+      "name": "FC Utrecht v Heerenveen",
+      "utc": "2027-01-31T11:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-31-ajax-amsterdam-feyenoord-rotterdam",
+      "weekend": "2027-01-31",
+      "name": "Ajax Amsterdam v Feyenoord Rotterdam",
+      "utc": "2027-01-31T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-31-de-graafschap-fc-twente",
+      "weekend": "2027-01-31",
+      "name": "De Graafschap v FC Twente",
+      "utc": "2027-01-31T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-31-pec-zwolle-az-alkmaar",
+      "weekend": "2027-01-31",
+      "name": "PEC Zwolle v AZ Alkmaar",
+      "utc": "2027-01-31T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-01-31-psv-eindhoven-ado-den-haag",
+      "weekend": "2027-01-31",
+      "name": "PSV Eindhoven v ADO Den Haag",
+      "utc": "2027-01-31T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-07-ado-den-haag-fc-utrecht",
+      "weekend": "2027-02-07",
+      "name": "ADO Den Haag v FC Utrecht",
+      "utc": "2027-02-07T11:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-07-az-alkmaar-feyenoord-rotterdam",
+      "weekend": "2027-02-07",
+      "name": "AZ Alkmaar v Feyenoord Rotterdam",
+      "utc": "2027-02-07T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-07-de-graafschap-pec-zwolle",
+      "weekend": "2027-02-07",
+      "name": "De Graafschap v PEC Zwolle",
+      "utc": "2027-02-07T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-07-fc-twente-ajax-amsterdam",
+      "weekend": "2027-02-07",
+      "name": "FC Twente v Ajax Amsterdam",
+      "utc": "2027-02-07T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-07-heerenveen-psv-eindhoven",
+      "weekend": "2027-02-07",
+      "name": "Heerenveen v PSV Eindhoven",
+      "utc": "2027-02-07T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-14-feyenoord-rotterdam-ado-den-haag",
+      "weekend": "2027-02-14",
+      "name": "Feyenoord Rotterdam v ADO Den Haag",
+      "utc": "2027-02-14T11:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-14-ajax-amsterdam-heerenveen",
+      "weekend": "2027-02-14",
+      "name": "Ajax Amsterdam v Heerenveen",
+      "utc": "2027-02-14T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-14-az-alkmaar-de-graafschap",
+      "weekend": "2027-02-14",
+      "name": "AZ Alkmaar v De Graafschap",
+      "utc": "2027-02-14T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-14-fc-twente-pec-zwolle",
+      "weekend": "2027-02-14",
+      "name": "FC Twente v PEC Zwolle",
+      "utc": "2027-02-14T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-14-fc-utrecht-psv-eindhoven",
+      "weekend": "2027-02-14",
+      "name": "FC Utrecht v PSV Eindhoven",
+      "utc": "2027-02-14T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-21-psv-eindhoven-az-alkmaar",
+      "weekend": "2027-02-21",
+      "name": "PSV Eindhoven v AZ Alkmaar",
+      "utc": "2027-02-21T11:15:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-21-ado-den-haag-ajax-amsterdam",
+      "weekend": "2027-02-21",
+      "name": "ADO Den Haag v Ajax Amsterdam",
+      "utc": "2027-02-21T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-21-de-graafschap-fc-utrecht",
+      "weekend": "2027-02-21",
+      "name": "De Graafschap v FC Utrecht",
+      "utc": "2027-02-21T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-21-heerenveen-fc-twente",
+      "weekend": "2027-02-21",
+      "name": "Heerenveen v FC Twente",
+      "utc": "2027-02-21T15:45:00Z"
+    },
+    {
+      "id": "ned.w.1-2027-02-21-pec-zwolle-feyenoord-rotterdam",
+      "weekend": "2027-02-21",
+      "name": "PEC Zwolle v Feyenoord Rotterdam",
+      "utc": "2027-02-21T15:45:00Z"
+    }
+  ]
+}

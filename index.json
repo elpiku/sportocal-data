@@ -1,0 +1,648 @@
+{
+  "generatedAt": "2026-08-25T07:25:42Z",
+  "count": 68,
+  "leagues": [
+    {
+      "name": "NCAA - Football",
+      "sportKey": "american-football-college-football",
+      "category": "american-football",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 946,
+      "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/college-football.json"
+    },
+    {
+      "name": "National Football League",
+      "sportKey": "american-football-nfl",
+      "category": "american-football",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 333,
+      "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/nfl.json"
+    },
+    {
+      "name": "AFL",
+      "sportKey": "afl-afl",
+      "category": "australian-football",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 22,
+      "url": "https://elpiku.github.io/sportocal-data/australian-football/espn-all/afl.json"
+    },
+    {
+      "name": "Major League Baseball",
+      "sportKey": "baseball-mlb",
+      "category": "baseball",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 1479,
+      "url": "https://elpiku.github.io/sportocal-data/baseball/espn-all/mlb.json"
+    },
+    {
+      "name": "FIBA World Cup",
+      "sportKey": "basketball-fiba",
+      "category": "basketball",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 24,
+      "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/fiba.json"
+    },
+    {
+      "name": "NBA",
+      "sportKey": "nba",
+      "category": "basketball",
+      "season": "2026-27",
+      "eventCount": 1261,
+      "url": "https://elpiku.github.io/sportocal-data/basketball/nba/2027.json"
+    },
+    {
+      "name": "National Basketball League",
+      "sportKey": "basketball-nbl",
+      "category": "basketball",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 183,
+      "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/nbl.json"
+    },
+    {
+      "name": "Women's National Basketball Association",
+      "sportKey": "basketball-wnba",
+      "category": "basketball",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 86,
+      "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/wnba.json"
+    },
+    {
+      "name": "AFC Champions League Elite",
+      "sportKey": "soccer-afc.champions",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 128,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/afc.champions.json"
+    },
+    {
+      "name": "Argentine Liga Profesional de F\u00fatbol",
+      "sportKey": "soccer-arg.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 183,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/arg.1.json"
+    },
+    {
+      "name": "Belgian Pro League",
+      "sportKey": "soccer-bel.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 288,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/bel.1.json"
+    },
+    {
+      "name": "Brazilian Serie A",
+      "sportKey": "soccer-bra.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 161,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/bra.1.json"
+    },
+    {
+      "name": "Brazilian Serie B",
+      "sportKey": "soccer-bra.2",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 176,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/bra.2.json"
+    },
+    {
+      "name": "Bundesliga",
+      "sportKey": "bundesliga",
+      "category": "football",
+      "season": "2026-27",
+      "eventCount": 306,
+      "url": "https://elpiku.github.io/sportocal-data/football/bundesliga/2027.json"
+    },
+    {
+      "name": "CAF Champions League",
+      "sportKey": "soccer-caf.champions",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 58,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/caf.champions.json"
+    },
+    {
+      "name": "CONMEBOL Libertadores",
+      "sportKey": "soccer-conmebol.libertadores",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 29,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/conmebol.libertadores.json"
+    },
+    {
+      "name": "CONMEBOL Sudamericana",
+      "sportKey": "soccer-conmebol.sudamericana",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 22,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/conmebol.sudamericana.json"
+    },
+    {
+      "name": "Concacaf Nations League",
+      "sportKey": "soccer-concacaf.nations.league",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 74,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/concacaf.nations.league.json"
+    },
+    {
+      "name": "Copa Argentina",
+      "sportKey": "soccer-arg.copa",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 8,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/arg.copa.json"
+    },
+    {
+      "name": "Copa do Brasil",
+      "sportKey": "soccer-bra.copa_do_brazil",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 8,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/bra.copa_do_brazil.json"
+    },
+    {
+      "name": "Coppa Italia",
+      "sportKey": "soccer-ita.coppa_italia",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 36,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/ita.coppa_italia.json"
+    },
+    {
+      "name": "Dutch Eredivisie",
+      "sportKey": "soccer-ned.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 288,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/ned.1.json"
+    },
+    {
+      "name": "Dutch KNVB Beker",
+      "sportKey": "soccer-ned.cup",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 32,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/ned.cup.json"
+    },
+    {
+      "name": "Dutch Keuken Kampioen Divisie",
+      "sportKey": "soccer-ned.2",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 372,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/ned.2.json"
+    },
+    {
+      "name": "Dutch Vrouwen Eredivisie",
+      "sportKey": "soccer-ned.w.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 90,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/ned.w.1.json"
+    },
+    {
+      "name": "English Carabao Cup",
+      "sportKey": "soccer-eng.league_cup",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 24,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/eng.league_cup.json"
+    },
+    {
+      "name": "English League Championship",
+      "sportKey": "soccer-eng.2",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 552,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/eng.2.json"
+    },
+    {
+      "name": "English Women's Super League",
+      "sportKey": "soccer-eng.w.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 175,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/eng.w.1.json"
+    },
+    {
+      "name": "French Ligue 1",
+      "sportKey": "soccer-fra.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 288,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/fra.1.json"
+    },
+    {
+      "name": "French Ligue 2",
+      "sportKey": "soccer-fra.2",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 288,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/fra.2.json"
+    },
+    {
+      "name": "French Premi\u00e8re Ligue",
+      "sportKey": "soccer-fra.w.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 132,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/fra.w.1.json"
+    },
+    {
+      "name": "German 2. Bundesliga",
+      "sportKey": "soccer-ger.2",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 288,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/ger.2.json"
+    },
+    {
+      "name": "German Cup",
+      "sportKey": "soccer-ger.dfb_pokal",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 32,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/ger.dfb_pokal.json"
+    },
+    {
+      "name": "Italian Serie B",
+      "sportKey": "soccer-ita.2",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 380,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/ita.2.json"
+    },
+    {
+      "name": "Japanese J.League",
+      "sportKey": "soccer-jpn.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 340,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/jpn.1.json"
+    },
+    {
+      "name": "La Liga",
+      "sportKey": "laliga",
+      "category": "football",
+      "season": "2026-27",
+      "eventCount": 380,
+      "url": "https://elpiku.github.io/sportocal-data/football/laliga/2027.json"
+    },
+    {
+      "name": "Leagues Cup",
+      "sportKey": "soccer-concacaf.leagues.cup",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 22,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/concacaf.leagues.cup.json"
+    },
+    {
+      "name": "MLS",
+      "sportKey": "mls",
+      "category": "football",
+      "season": "2026",
+      "eventCount": 511,
+      "url": "https://elpiku.github.io/sportocal-data/football/mls/2026.json"
+    },
+    {
+      "name": "Mexican Liga BBVA MX",
+      "sportKey": "soccer-mex.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 126,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/mex.1.json"
+    },
+    {
+      "name": "NWSL",
+      "sportKey": "soccer-usa.nwsl",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 93,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/usa.nwsl.json"
+    },
+    {
+      "name": "Portuguese Primeira Liga",
+      "sportKey": "soccer-por.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 298,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/por.1.json"
+    },
+    {
+      "name": "Premier League",
+      "sportKey": "premierleague",
+      "category": "football",
+      "season": "2026-27",
+      "eventCount": 380,
+      "url": "https://elpiku.github.io/sportocal-data/football/premierleague/2027.json"
+    },
+    {
+      "name": "Saudi King's Cup",
+      "sportKey": "soccer-ksa.kings.cup",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 24,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/ksa.kings.cup.json"
+    },
+    {
+      "name": "Saudi Pro League",
+      "sportKey": "soccer-ksa.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 288,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/ksa.1.json"
+    },
+    {
+      "name": "Scottish Premiership",
+      "sportKey": "soccer-sco.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 186,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/sco.1.json"
+    },
+    {
+      "name": "Serie A",
+      "sportKey": "seriea",
+      "category": "football",
+      "season": "2026-27",
+      "eventCount": 380,
+      "url": "https://elpiku.github.io/sportocal-data/football/seriea/2027.json"
+    },
+    {
+      "name": "Spanish LALIGA 2",
+      "sportKey": "soccer-esp.2",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 429,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/esp.2.json"
+    },
+    {
+      "name": "Spanish Liga F",
+      "sportKey": "soccer-esp.w.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 232,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/esp.w.1.json"
+    },
+    {
+      "name": "Taca de Portugal",
+      "sportKey": "soccer-por.taca.portugal",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 47,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/por.taca.portugal.json"
+    },
+    {
+      "name": "Turkish Super Lig",
+      "sportKey": "soccer-tur.1",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 297,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/tur.1.json"
+    },
+    {
+      "name": "U.S. Open Cup",
+      "sportKey": "soccer-usa.open",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 2,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/usa.open.json"
+    },
+    {
+      "name": "UEFA Nations League",
+      "sportKey": "soccer-uefa.nations",
+      "category": "football",
+      "season": null,
+      "windowFrom": "20260810",
+      "windowTo": "20270521",
+      "eventCount": 156,
+      "url": "https://elpiku.github.io/sportocal-data/football/espn-all/uefa.nations.json"
+    },
+    {
+      "name": "NHL",
+      "sportKey": "nhl",
+      "category": "hockey",
+      "season": "2025-26",
+      "eventCount": 27,
+      "url": "https://elpiku.github.io/sportocal-data/hockey/nhl/2026.json"
+    },
+    {
+      "name": "National Hockey League",
+      "sportKey": "hockey-nhl",
+      "category": "hockey",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 1409,
+      "url": "https://elpiku.github.io/sportocal-data/hockey/espn-all/nhl.json"
+    },
+    {
+      "name": "Professional Fighters League",
+      "sportKey": "mma-pfl",
+      "category": "mma",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 2,
+      "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/pfl.json"
+    },
+    {
+      "name": "Ultimate Fighting Championship",
+      "sportKey": "mma-ufc",
+      "category": "mma",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 10,
+      "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/ufc.json"
+    },
+    {
+      "name": "Formula 1",
+      "sportKey": "f1",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 55,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/f1/2026.json"
+    },
+    {
+      "name": "IndyCar NTT",
+      "sportKey": "ntt-indycar",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 92,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/indycar/ntt/2026.json"
+    },
+    {
+      "name": "Moto2",
+      "sportKey": "moto2",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 133,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/motorcycleracing/moto2/2026.json"
+    },
+    {
+      "name": "Moto3",
+      "sportKey": "moto3",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 133,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/motorcycleracing/moto3/2026.json"
+    },
+    {
+      "name": "MotoGP",
+      "sportKey": "motogp",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 177,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/motorcycleracing/motogp/2026.json"
+    },
+    {
+      "name": "NASCAR Craftsman Trucks",
+      "sportKey": "nascar-craftsman",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 76,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/nascar/craftsman/2026.json"
+    },
+    {
+      "name": "NASCAR Cup Series",
+      "sportKey": "nascar-cup",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 109,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/nascar/cup/2026.json"
+    },
+    {
+      "name": "NASCAR O'Reilly Series",
+      "sportKey": "nascar-oreilly",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 94,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/nascar/oreilly/2026.json"
+    },
+    {
+      "name": "WRC",
+      "sportKey": "wrc",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 34,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/wrc/2026.json"
+    },
+    {
+      "name": "World Endurance Championship",
+      "sportKey": "wec",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 64,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/wec/2026.json"
+    },
+    {
+      "name": "ATP Tour",
+      "sportKey": "atp",
+      "category": "tennis",
+      "season": "2026",
+      "eventCount": 12,
+      "url": "https://elpiku.github.io/sportocal-data/tennis/atp/2026.json"
+    },
+    {
+      "name": "WTA Tour",
+      "sportKey": "wta",
+      "category": "tennis",
+      "season": "2026",
+      "eventCount": 64,
+      "url": "https://elpiku.github.io/sportocal-data/tennis/wta/2026.json"
+    }
+  ]
+}
