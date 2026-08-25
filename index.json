@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T13:29:14Z",
-  "count": 68,
+  "generatedAt": "2026-08-25T16:26:42Z",
+  "count": 70,
   "leagues": [
     {
       "name": "NCAA - Football",
@@ -529,6 +529,16 @@
       "url": "https://elpiku.github.io/sportocal-data/hockey/espn-all/nhl.json"
     },
     {
+      "name": "Premier Lacrosse League",
+      "sportKey": "lacrosse-pll",
+      "category": "lacrosse",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 5,
+      "url": "https://elpiku.github.io/sportocal-data/lacrosse/espn-all/pll.json"
+    },
+    {
       "name": "Professional Fighters League",
       "sportKey": "mma-pfl",
       "category": "mma",
@@ -601,11 +611,7 @@
       "sportKey": "nascar-cup",
       "category": "motorsport",
       "season": "2026",
-<<<<<<< HEAD
-      "eventCount": 109,
-=======
       "eventCount": 112,
->>>>>>> aae79001d411735e78e14d6be671da0a1a1c58b2
       "url": "https://elpiku.github.io/sportocal-data/motorsport/nascar/cup/2026.json"
     },
     {
@@ -647,6 +653,16 @@
       "season": "2026",
       "eventCount": 64,
       "url": "https://elpiku.github.io/sportocal-data/tennis/wta/2026.json"
+    },
+    {
+      "name": "NCAA Women's Volleyball",
+      "sportKey": "volleyball-womens-college-volleyball",
+      "category": "volleyball",
+      "season": null,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 4828,
+      "url": "https://elpiku.github.io/sportocal-data/volleyball/espn-all/womens-college-volleyball.json"
     }
   ]
 }
