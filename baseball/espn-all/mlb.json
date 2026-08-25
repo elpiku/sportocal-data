@@ -1,69 +1,9 @@
 {
   "sportKey": "baseball-mlb",
   "leagueName": "Major League Baseball",
-  "windowFrom": "20260810",
-  "windowTo": "20270521",
+  "windowFrom": "20260811",
+  "windowTo": "20270522",
   "events": [
-    {
-      "id": "baseball-mlb-2026-08-10-toronto-blue-jays-boston-red-sox",
-      "weekend": "2026-08-10",
-      "name": "Toronto Blue Jays v Boston Red Sox",
-      "utc": "2026-08-10T23:07:00Z"
-    },
-    {
-      "id": "baseball-mlb-2026-08-10-atlanta-braves-new-york-mets",
-      "weekend": "2026-08-10",
-      "name": "Atlanta Braves v New York Mets",
-      "utc": "2026-08-10T23:15:00Z"
-    },
-    {
-      "id": "baseball-mlb-2026-08-10-minnesota-twins-baltimore-orioles",
-      "weekend": "2026-08-10",
-      "name": "Minnesota Twins v Baltimore Orioles",
-      "utc": "2026-08-10T23:40:00Z"
-    },
-    {
-      "id": "baseball-mlb-2026-08-10-st-louis-cardinals-philadelphia-phillies",
-      "weekend": "2026-08-10",
-      "name": "St. Louis Cardinals v Philadelphia Phillies",
-      "utc": "2026-08-10T23:45:00Z"
-    },
-    {
-      "id": "baseball-mlb-2026-08-11-los-angeles-angels-texas-rangers",
-      "weekend": "2026-08-11",
-      "name": "Los Angeles Angels v Texas Rangers",
-      "utc": "2026-08-11T01:38:00Z"
-    },
-    {
-      "id": "baseball-mlb-2026-08-11-arizona-diamondbacks-colorado-rockies",
-      "weekend": "2026-08-11",
-      "name": "Arizona Diamondbacks v Colorado Rockies",
-      "utc": "2026-08-11T01:40:00Z"
-    },
-    {
-      "id": "baseball-mlb-2026-08-11-san-diego-padres-milwaukee-brewers",
-      "weekend": "2026-08-11",
-      "name": "San Diego Padres v Milwaukee Brewers",
-      "utc": "2026-08-11T01:40:00Z"
-    },
-    {
-      "id": "baseball-mlb-2026-08-11-athletics-athletics-tampa-bay-rays",
-      "weekend": "2026-08-11",
-      "name": "Athletics Athletics v Tampa Bay Rays",
-      "utc": "2026-08-11T01:40:00Z"
-    },
-    {
-      "id": "baseball-mlb-2026-08-11-san-francisco-giants-houston-astros",
-      "weekend": "2026-08-11",
-      "name": "San Francisco Giants v Houston Astros",
-      "utc": "2026-08-11T01:45:00Z"
-    },
-    {
-      "id": "baseball-mlb-2026-08-11-los-angeles-dodgers-kansas-city-royals",
-      "weekend": "2026-08-11",
-      "name": "Los Angeles Dodgers v Kansas City Royals",
-      "utc": "2026-08-11T02:10:00Z"
-    },
     {
       "id": "baseball-mlb-2026-08-11-detroit-tigers-cleveland-guardians",
       "weekend": "2026-08-11",
@@ -8847,6 +8787,96 @@
       "weekend": "2027-05-21",
       "name": "Chicago Cubs v Washington Nationals",
       "utc": "2027-05-21T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-philadelphia-phillies-los-angeles-angels",
+      "weekend": "2027-05-22",
+      "name": "Philadelphia Phillies v Los Angeles Angels",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-kansas-city-royals-atlanta-braves",
+      "weekend": "2027-05-22",
+      "name": "Kansas City Royals v Atlanta Braves",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-cleveland-guardians-baltimore-orioles",
+      "weekend": "2027-05-22",
+      "name": "Cleveland Guardians v Baltimore Orioles",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-pittsburgh-pirates-chicago-white-sox",
+      "weekend": "2027-05-22",
+      "name": "Pittsburgh Pirates v Chicago White Sox",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-arizona-diamondbacks-colorado-rockies",
+      "weekend": "2027-05-22",
+      "name": "Arizona Diamondbacks v Colorado Rockies",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-st-louis-cardinals-detroit-tigers",
+      "weekend": "2027-05-22",
+      "name": "St. Louis Cardinals v Detroit Tigers",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-athletics-athletics-houston-astros",
+      "weekend": "2027-05-22",
+      "name": "Athletics Athletics v Houston Astros",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-miami-marlins-milwaukee-brewers",
+      "weekend": "2027-05-22",
+      "name": "Miami Marlins v Milwaukee Brewers",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-minnesota-twins-new-york-mets",
+      "weekend": "2027-05-22",
+      "name": "Minnesota Twins v New York Mets",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-los-angeles-dodgers-san-diego-padres",
+      "weekend": "2027-05-22",
+      "name": "Los Angeles Dodgers v San Diego Padres",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-new-york-yankees-san-francisco-giants",
+      "weekend": "2027-05-22",
+      "name": "New York Yankees v San Francisco Giants",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-seattle-mariners-tampa-bay-rays",
+      "weekend": "2027-05-22",
+      "name": "Seattle Mariners v Tampa Bay Rays",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-boston-red-sox-texas-rangers",
+      "weekend": "2027-05-22",
+      "name": "Boston Red Sox v Texas Rangers",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-cincinnati-reds-toronto-blue-jays",
+      "weekend": "2027-05-22",
+      "name": "Cincinnati Reds v Toronto Blue Jays",
+      "utc": "2027-05-22T04:00:00Z"
+    },
+    {
+      "id": "baseball-mlb-2027-05-22-chicago-cubs-washington-nationals",
+      "weekend": "2027-05-22",
+      "name": "Chicago Cubs v Washington Nationals",
+      "utc": "2027-05-22T04:00:00Z"
     }
   ]
 }

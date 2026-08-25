@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:26:09Z",
+  "generatedAt": "2026-08-25T06:51:19Z",
   "count": 68,
   "leagues": [
     {
@@ -7,8 +7,8 @@
       "sportKey": "american-football-college-football",
       "category": "american-football",
       "season": null,
-      "windowFrom": "20260810",
-      "windowTo": "20270521",
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
       "eventCount": 946,
       "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/college-football.json"
     },
@@ -17,8 +17,8 @@
       "sportKey": "american-football-nfl",
       "category": "american-football",
       "season": null,
-      "windowFrom": "20260810",
-      "windowTo": "20270521",
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
       "eventCount": 333,
       "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/nfl.json"
     },
@@ -27,8 +27,8 @@
       "sportKey": "afl-afl",
       "category": "australian-football",
       "season": null,
-      "windowFrom": "20260810",
-      "windowTo": "20270521",
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
       "eventCount": 22,
       "url": "https://elpiku.github.io/sportocal-data/australian-football/espn-all/afl.json"
     },
@@ -37,9 +37,9 @@
       "sportKey": "baseball-mlb",
       "category": "baseball",
       "season": null,
-      "windowFrom": "20260810",
-      "windowTo": "20270521",
-      "eventCount": 1474,
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
+      "eventCount": 1479,
       "url": "https://elpiku.github.io/sportocal-data/baseball/espn-all/mlb.json"
     },
     {
@@ -47,8 +47,8 @@
       "sportKey": "basketball-fiba",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260810",
-      "windowTo": "20270521",
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
       "eventCount": 24,
       "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/fiba.json"
     },
@@ -533,8 +533,8 @@
       "sportKey": "mma-pfl",
       "category": "mma",
       "season": null,
-      "windowFrom": "20260810",
-      "windowTo": "20270521",
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
       "eventCount": 2,
       "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/pfl.json"
     },
@@ -543,8 +543,8 @@
       "sportKey": "mma-ufc",
       "category": "mma",
       "season": null,
-      "windowFrom": "20260810",
-      "windowTo": "20270521",
+      "windowFrom": "20260811",
+      "windowTo": "20270522",
       "eventCount": 10,
       "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/ufc.json"
     },
