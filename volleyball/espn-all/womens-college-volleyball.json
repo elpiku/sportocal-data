@@ -1,8 +1,8 @@
 {
   "sportKey": "volleyball-womens-college-volleyball",
   "leagueName": "NCAA Women's Volleyball",
-  "windowFrom": "20260811",
-  "windowTo": "20270522",
+  "windowFrom": "20260812",
+  "windowTo": "20270523",
   "events": [
     {
       "id": "volleyball-womens-college-volleyball-2026-08-21-louisville-cardinals-texas-a-m-aggies",
@@ -65,9 +65,9 @@
       "utc": "2026-08-28T13:00:00Z"
     },
     {
-      "id": "volleyball-womens-college-volleyball-2026-08-28-liberty-flames-auburn-tigers",
+      "id": "volleyball-womens-college-volleyball-2026-08-28-auburn-tigers-liberty-flames",
       "weekend": "2026-08-28",
-      "name": "Liberty Flames v Auburn Tigers",
+      "name": "Auburn Tigers v Liberty Flames",
       "utc": "2026-08-28T14:00:00Z"
     },
     {
@@ -200,6 +200,12 @@
       "id": "volleyball-womens-college-volleyball-2026-08-28-temple-owls-manhattan-jaspers",
       "weekend": "2026-08-28",
       "name": "Temple Owls v Manhattan Jaspers",
+      "utc": "2026-08-28T16:00:00Z"
+    },
+    {
+      "id": "volleyball-womens-college-volleyball-2026-08-28-northern-arizona-lumberjacks-loyola-marymount-lions",
+      "weekend": "2026-08-28",
+      "name": "Northern Arizona Lumberjacks v Loyola Marymount Lions",
       "utc": "2026-08-28T16:00:00Z"
     },
     {
@@ -473,9 +479,9 @@
       "utc": "2026-08-28T20:00:00Z"
     },
     {
-      "id": "volleyball-womens-college-volleyball-2026-08-28-houston-cougars-incarnate-word-cardinals",
+      "id": "volleyball-womens-college-volleyball-2026-08-28-incarnate-word-cardinals-houston-cougars",
       "weekend": "2026-08-28",
-      "name": "Houston Cougars v Incarnate Word Cardinals",
+      "name": "Incarnate Word Cardinals v Houston Cougars",
       "utc": "2026-08-28T20:00:00Z"
     },
     {
@@ -1229,9 +1235,9 @@
       "utc": "2026-08-29T14:00:00Z"
     },
     {
-      "id": "volleyball-womens-college-volleyball-2026-08-29-liberty-flames-akron-zips",
+      "id": "volleyball-womens-college-volleyball-2026-08-29-akron-zips-liberty-flames",
       "weekend": "2026-08-29",
-      "name": "Liberty Flames v Akron Zips",
+      "name": "Akron Zips v Liberty Flames",
       "utc": "2026-08-29T14:00:00Z"
     },
     {
@@ -1598,12 +1604,6 @@
       "id": "volleyball-womens-college-volleyball-2026-08-29-wake-forest-demon-deacons-houston-cougars",
       "weekend": "2026-08-29",
       "name": "Wake Forest Demon Deacons v Houston Cougars",
-      "utc": "2026-08-29T18:00:00Z"
-    },
-    {
-      "id": "volleyball-womens-college-volleyball-2026-08-29-northern-arizona-lumberjacks-loyola-marymount-lions",
-      "weekend": "2026-08-29",
-      "name": "Northern Arizona Lumberjacks v Loyola Marymount Lions",
       "utc": "2026-08-29T18:00:00Z"
     },
     {
