@@ -2,6 +2,7 @@
   "sportKey": "wrc",
   "season": "2026",
   "events": [
+<<<<<<< HEAD
     { "id": "wrc-monte-carlo-2026-sd", "weekend": "Rallye Monte-Carlo", "name": "Shakedown Route de la Garde", "utc": "2026-01-22T08:01:00Z" },
     { "id": "wrc-monte-carlo-2026-ss1", "weekend": "Rallye Monte-Carlo", "name": "SS1 Thoard / Saint-Geniez", "utc": "2026-01-22T19:05:00Z" },
     { "id": "wrc-monte-carlo-2026-ss2", "weekend": "Rallye Monte-Carlo", "name": "SS2 Bayons / Bréziers", "utc": "2026-01-22T20:35:00Z" },
@@ -282,5 +283,343 @@
     { "id": "wrc-saudi-arabia-2026-ss15", "weekend": "Rally Saudi Arabia", "name": "SS15 Jeddah Waterfront", "utc": "2026-11-14T07:00:00Z" },
     { "id": "wrc-saudi-arabia-2026-ss16", "weekend": "Rally Saudi Arabia", "name": "SS16 Asir Escarpment 2", "utc": "2026-11-14T08:30:00Z" },
     { "id": "wrc-saudi-arabia-2026-ss17", "weekend": "Rally Saudi Arabia", "name": "SS17 Jeddah Corniche Circuit (Wolf Power Stage)", "utc": "2026-11-14T11:15:00Z" }
+=======
+    {
+      "id": "wrc-2026-r1-shakedown",
+      "weekend": "Rallye Monte-Carlo",
+      "name": "Shakedown",
+      "utc": "2026-01-22T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r1-leg1",
+      "weekend": "Rallye Monte-Carlo",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-01-23T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r1-leg2",
+      "weekend": "Rallye Monte-Carlo",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-01-24T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r1-powerstage",
+      "weekend": "Rallye Monte-Carlo",
+      "name": "Wolf Power Stage",
+      "utc": "2026-01-25T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r2-shakedown",
+      "weekend": "Rally Sweden",
+      "name": "Shakedown",
+      "utc": "2026-02-12T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r2-leg1",
+      "weekend": "Rally Sweden",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-02-13T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r2-leg2",
+      "weekend": "Rally Sweden",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-02-14T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r2-powerstage",
+      "weekend": "Rally Sweden",
+      "name": "Wolf Power Stage",
+      "utc": "2026-02-15T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r3-shakedown",
+      "weekend": "Safari Rally Kenya",
+      "name": "Shakedown",
+      "utc": "2026-03-12T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r3-leg1",
+      "weekend": "Safari Rally Kenya",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-03-13T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r3-leg2",
+      "weekend": "Safari Rally Kenya",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-03-14T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r3-powerstage",
+      "weekend": "Safari Rally Kenya",
+      "name": "Wolf Power Stage",
+      "utc": "2026-03-15T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r4-shakedown",
+      "weekend": "Croatia Rally",
+      "name": "Shakedown",
+      "utc": "2026-04-09T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r4-leg1",
+      "weekend": "Croatia Rally",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-04-10T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r4-leg2",
+      "weekend": "Croatia Rally",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-04-11T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r4-powerstage",
+      "weekend": "Croatia Rally",
+      "name": "Wolf Power Stage",
+      "utc": "2026-04-12T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r5-shakedown",
+      "weekend": "Rally Islas Canarias",
+      "name": "Shakedown",
+      "utc": "2026-04-23T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r5-leg1",
+      "weekend": "Rally Islas Canarias",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-04-24T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r5-leg2",
+      "weekend": "Rally Islas Canarias",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-04-25T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r5-powerstage",
+      "weekend": "Rally Islas Canarias",
+      "name": "Wolf Power Stage",
+      "utc": "2026-04-26T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r6-shakedown",
+      "weekend": "Vodafone Rally de Portugal",
+      "name": "Shakedown",
+      "utc": "2026-05-07T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r6-leg1",
+      "weekend": "Vodafone Rally de Portugal",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-05-08T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r6-leg2",
+      "weekend": "Vodafone Rally de Portugal",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-05-09T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r6-powerstage",
+      "weekend": "Vodafone Rally de Portugal",
+      "name": "Wolf Power Stage",
+      "utc": "2026-05-10T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r7-shakedown",
+      "weekend": "FORUM8 Rally Japan",
+      "name": "Shakedown",
+      "utc": "2026-05-28T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r7-leg1",
+      "weekend": "FORUM8 Rally Japan",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-05-29T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r7-leg2",
+      "weekend": "FORUM8 Rally Japan",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-05-30T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r7-powerstage",
+      "weekend": "FORUM8 Rally Japan",
+      "name": "Wolf Power Stage",
+      "utc": "2026-05-31T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r8-shakedown",
+      "weekend": "EKO Acropolis Rally Greece",
+      "name": "Shakedown",
+      "utc": "2026-06-25T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r8-leg1",
+      "weekend": "EKO Acropolis Rally Greece",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-06-26T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r8-leg2",
+      "weekend": "EKO Acropolis Rally Greece",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-06-27T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r8-powerstage",
+      "weekend": "EKO Acropolis Rally Greece",
+      "name": "Wolf Power Stage",
+      "utc": "2026-06-28T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r9-shakedown",
+      "weekend": "Delfi Rally Estonia",
+      "name": "Shakedown",
+      "utc": "2026-07-16T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r9-leg1",
+      "weekend": "Delfi Rally Estonia",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-07-17T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r9-leg2",
+      "weekend": "Delfi Rally Estonia",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-07-18T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r9-powerstage",
+      "weekend": "Delfi Rally Estonia",
+      "name": "Wolf Power Stage",
+      "utc": "2026-07-19T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r10-shakedown",
+      "weekend": "Secto Rally Finland",
+      "name": "Shakedown",
+      "utc": "2026-07-30T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r10-leg1",
+      "weekend": "Secto Rally Finland",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-07-31T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r10-leg2",
+      "weekend": "Secto Rally Finland",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-08-01T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r10-powerstage",
+      "weekend": "Secto Rally Finland",
+      "name": "Wolf Power Stage",
+      "utc": "2026-08-02T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r11-shakedown",
+      "weekend": "ueno Rally del Paraguay",
+      "name": "Shakedown",
+      "utc": "2026-08-27T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r11-leg1",
+      "weekend": "ueno Rally del Paraguay",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-08-28T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r11-leg2",
+      "weekend": "ueno Rally del Paraguay",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-08-29T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r11-powerstage",
+      "weekend": "ueno Rally del Paraguay",
+      "name": "Wolf Power Stage",
+      "utc": "2026-08-30T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r12-shakedown",
+      "weekend": "Rally Chile Bio Bío",
+      "name": "Shakedown",
+      "utc": "2026-09-10T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r12-leg1",
+      "weekend": "Rally Chile Bio Bío",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-09-11T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r12-leg2",
+      "weekend": "Rally Chile Bio Bío",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-09-12T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r12-powerstage",
+      "weekend": "Rally Chile Bio Bío",
+      "name": "Wolf Power Stage",
+      "utc": "2026-09-13T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r13-shakedown",
+      "weekend": "Rally Italia Sardegna",
+      "name": "Shakedown",
+      "utc": "2026-10-01T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r13-leg1",
+      "weekend": "Rally Italia Sardegna",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-10-02T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r13-leg2",
+      "weekend": "Rally Italia Sardegna",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-10-03T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r13-powerstage",
+      "weekend": "Rally Italia Sardegna",
+      "name": "Wolf Power Stage",
+      "utc": "2026-10-04T11:15:00Z"
+    },
+    {
+      "id": "wrc-2026-r14-shakedown",
+      "weekend": "Rally Saudi Arabia",
+      "name": "Shakedown",
+      "utc": "2026-11-11T08:01:00Z"
+    },
+    {
+      "id": "wrc-2026-r14-leg1",
+      "weekend": "Rally Saudi Arabia",
+      "name": "Day 1 / Leg 1",
+      "utc": "2026-11-12T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r14-leg2",
+      "weekend": "Rally Saudi Arabia",
+      "name": "Day 2 / Leg 2",
+      "utc": "2026-11-13T07:00:00Z"
+    },
+    {
+      "id": "wrc-2026-r14-powerstage",
+      "weekend": "Rally Saudi Arabia",
+      "name": "Wolf Power Stage",
+      "utc": "2026-11-14T11:15:00Z"
+    }
+>>>>>>> d897dc878677d747b5765fb1ed027ebc3ad0fa20
   ]
 }
