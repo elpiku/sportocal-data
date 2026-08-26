@@ -1,119 +1,105 @@
 {
-  "scraped_at": "2026-08-26T14:15:45.122807+00:00",
+  "scraped_at": "2026-08-26T14:21:17.007262+00:00",
   "season": 2026,
   "calendar": {
     "events": [
       {
+        "round": 1,
         "name": "Rallye Monte-Carlo",
-        "url": "https://www.wrc.com/en/events/wrc-rallye-monte-carlo-2026",
-        "raw_text": "Rallye Monte-Carlo",
-        "start_dt": "2026-01-22 08:01:00+00:00",
-        "end_dt": "2026-01-25 11:15:00+00:00",
-        "utc": "2026-01-22T08:01:00Z"
+        "start": "2026-01-22",
+        "end": "2026-01-25",
+        "stage_count": 18
       },
       {
+        "round": 2,
         "name": "Rally Sweden",
-        "url": "https://www.wrc.com/en/events/wrc-rally-sweden-2026",
-        "raw_text": "Rally Sweden",
-        "start_dt": "2026-02-12 08:01:00+00:00",
-        "end_dt": "2026-02-15 11:15:00+00:00",
-        "utc": "2026-02-12T08:01:00Z"
+        "start": "2026-02-12",
+        "end": "2026-02-15",
+        "stage_count": 19
       },
       {
+        "round": 3,
         "name": "Safari Rally Kenya",
-        "url": "https://www.wrc.com/en/events/wrc-safari-rally-kenya-2026",
-        "raw_text": "Safari Rally Kenya",
-        "start_dt": "2026-03-12 08:01:00+00:00",
-        "end_dt": "2026-03-15 11:15:00+00:00",
-        "utc": "2026-03-12T08:01:00Z"
+        "start": "2026-03-12",
+        "end": "2026-03-15",
+        "stage_count": 21
       },
       {
+        "round": 4,
         "name": "Croatia Rally",
-        "url": "https://www.wrc.com/en/events/wrc-croatia-rally-2026",
-        "raw_text": "Croatia Rally",
-        "start_dt": "2026-04-09 08:01:00+00:00",
-        "end_dt": "2026-04-12 11:15:00+00:00",
-        "utc": "2026-04-09T08:01:00Z"
+        "start": "2026-04-09",
+        "end": "2026-04-12",
+        "stage_count": 21
       },
       {
+        "round": 5,
         "name": "Rally Islas Canarias",
-        "url": "https://www.wrc.com/en/events/wrc-rally-islas-canarias-2026",
-        "raw_text": "Rally Islas Canarias",
-        "start_dt": "2026-04-23 08:01:00+00:00",
-        "end_dt": "2026-04-26 11:15:00+00:00",
-        "utc": "2026-04-23T08:01:00Z"
+        "start": "2026-04-23",
+        "end": "2026-04-26",
+        "stage_count": 18
       },
       {
+        "round": 6,
         "name": "Vodafone Rally de Portugal",
-        "url": "https://www.wrc.com/en/events/wrc-vodafone-rally-de-portugal-2026",
-        "raw_text": "Vodafone Rally de Portugal",
-        "start_dt": "2026-05-07 08:01:00+00:00",
-        "end_dt": "2026-05-10 11:15:00+00:00",
-        "utc": "2026-05-07T08:01:00Z"
+        "start": "2026-05-07",
+        "end": "2026-05-10",
+        "stage_count": 23
       },
       {
+        "round": 7,
         "name": "FORUM8 Rally Japan",
-        "url": "https://www.wrc.com/en/events/wrc-forum8-rally-japan-2026",
-        "raw_text": "FORUM8 Rally Japan",
-        "start_dt": "2026-05-28 08:01:00+00:00",
-        "end_dt": "2026-05-31 11:15:00+00:00",
-        "utc": "2026-05-28T08:01:00Z"
+        "start": "2026-05-28",
+        "end": "2026-05-31",
+        "stage_count": 21
       },
       {
+        "round": 8,
         "name": "EKO Acropolis Rally Greece",
-        "url": "https://www.wrc.com/en/events/wrc-eko-acropolis-rally-greece-2026",
-        "raw_text": "EKO Acropolis Rally Greece",
-        "start_dt": "2026-06-25 08:01:00+00:00",
-        "end_dt": "2026-06-28 11:15:00+00:00",
-        "utc": "2026-06-25T08:01:00Z"
+        "start": "2026-06-25",
+        "end": "2026-06-28",
+        "stage_count": 17
       },
       {
+        "round": 9,
         "name": "Delfi Rally Estonia",
-        "url": "https://www.wrc.com/en/events/wrc-delfi-rally-estonia-2026",
-        "raw_text": "Delfi Rally Estonia",
-        "start_dt": "2026-07-16 08:01:00+00:00",
-        "end_dt": "2026-07-19 11:15:00+00:00",
-        "utc": "2026-07-16T08:01:00Z"
+        "start": "2026-07-16",
+        "end": "2026-07-19",
+        "stage_count": 20
       },
       {
+        "round": 10,
         "name": "Secto Rally Finland",
-        "url": "https://www.wrc.com/en/events/wrc-secto-rally-finland-2026",
-        "raw_text": "Secto Rally Finland",
-        "start_dt": "2026-07-30 08:01:00+00:00",
-        "end_dt": "2026-08-02 11:15:00+00:00",
-        "utc": "2026-07-30T08:01:00Z"
+        "start": "2026-07-30",
+        "end": "2026-08-02",
+        "stage_count": 21
       },
       {
+        "round": 11,
         "name": "ueno Rally del Paraguay",
-        "url": "https://www.wrc.com/en/events/wrc-rally-del-paraguay-2026",
-        "raw_text": "ueno Rally del Paraguay",
-        "start_dt": "2026-08-27 08:01:00+00:00",
-        "end_dt": "2026-08-30 11:15:00+00:00",
-        "utc": "2026-08-27T08:01:00Z"
+        "start": "2026-08-27",
+        "end": "2026-08-30",
+        "stage_count": 18
       },
       {
+        "round": 12,
         "name": "Rally Chile Bio Bío",
-        "url": "https://www.wrc.com/en/events/wrc-rally-chile-bio-bio-2026",
-        "raw_text": "Rally Chile Bio Bío",
-        "start_dt": "2026-09-10 08:01:00+00:00",
-        "end_dt": "2026-09-13 11:15:00+00:00",
-        "utc": "2026-09-10T08:01:00Z"
+        "start": "2026-09-10",
+        "end": "2026-09-13",
+        "stage_count": 17
       },
       {
+        "round": 13,
         "name": "Rally Italia Sardegna",
-        "url": "https://www.wrc.com/en/events/wrc-rally-italia-sardegna-2026",
-        "raw_text": "Rally Italia Sardegna",
-        "start_dt": "2026-10-01 08:01:00+00:00",
-        "end_dt": "2026-10-04 11:15:00+00:00",
-        "utc": "2026-10-01T08:01:00Z"
+        "start": "2026-10-01",
+        "end": "2026-10-04",
+        "stage_count": 15
       },
       {
+        "round": 14,
         "name": "Rally Saudi Arabia",
-        "url": "https://www.wrc.com/en/events/wrc-rally-saudi-arabia-2026",
-        "raw_text": "Rally Saudi Arabia",
-        "start_dt": "2026-11-11 08:01:00+00:00",
-        "end_dt": "2026-11-14 11:15:00+00:00",
-        "utc": "2026-11-11T08:01:00Z"
+        "start": "2026-11-11",
+        "end": "2026-11-14",
+        "stage_count": 18
       }
     ]
   }
