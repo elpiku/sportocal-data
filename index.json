@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T16:02:26Z",
+  "generatedAt": "2026-08-27T17:47:24Z",
   "count": 70,
   "leagues": [
     {
@@ -7,8 +7,8 @@
       "sportKey": "american-football-college-football",
       "category": "american-football",
       "season": null,
-      "windowFrom": "20260812",
-      "windowTo": "20270523",
+      "windowFrom": "20260813",
+      "windowTo": "20270524",
       "eventCount": 946,
       "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/college-football.json"
     },
@@ -17,8 +17,8 @@
       "sportKey": "american-football-nfl",
       "category": "american-football",
       "season": null,
-      "windowFrom": "20260812",
-      "windowTo": "20270523",
+      "windowFrom": "20260813",
+      "windowTo": "20270524",
       "eventCount": 333,
       "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/nfl.json"
     },
@@ -27,8 +27,8 @@
       "sportKey": "afl-afl",
       "category": "australian-football",
       "season": null,
-      "windowFrom": "20260812",
-      "windowTo": "20270523",
+      "windowFrom": "20260813",
+      "windowTo": "20270524",
       "eventCount": 22,
       "url": "https://elpiku.github.io/sportocal-data/australian-football/espn-all/afl.json"
     },
@@ -37,9 +37,9 @@
       "sportKey": "baseball-mlb",
       "category": "baseball",
       "season": null,
-      "windowFrom": "20260812",
-      "windowTo": "20270523",
-      "eventCount": 1479,
+      "windowFrom": "20260813",
+      "windowTo": "20270524",
+      "eventCount": 1473,
       "url": "https://elpiku.github.io/sportocal-data/baseball/espn-all/mlb.json"
     },
     {
@@ -65,8 +65,8 @@
       "sportKey": "basketball-nbl",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260812",
-      "windowTo": "20270523",
+      "windowFrom": "20260813",
+      "windowTo": "20270524",
       "eventCount": 183,
       "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/nbl.json"
     },
@@ -75,9 +75,9 @@
       "sportKey": "basketball-wnba",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260812",
-      "windowTo": "20270523",
-      "eventCount": 83,
+      "windowFrom": "20260813",
+      "windowTo": "20270524",
+      "eventCount": 80,
       "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/wnba.json"
     },
     {
@@ -533,8 +533,8 @@
       "sportKey": "lacrosse-pll",
       "category": "lacrosse",
       "season": null,
-      "windowFrom": "20260812",
-      "windowTo": "20270523",
+      "windowFrom": "20260813",
+      "windowTo": "20270524",
       "eventCount": 5,
       "url": "https://elpiku.github.io/sportocal-data/lacrosse/espn-all/pll.json"
     },
@@ -543,8 +543,8 @@
       "sportKey": "mma-pfl",
       "category": "mma",
       "season": null,
-      "windowFrom": "20260812",
-      "windowTo": "20270523",
+      "windowFrom": "20260813",
+      "windowTo": "20270524",
       "eventCount": 2,
       "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/pfl.json"
     },
@@ -553,8 +553,8 @@
       "sportKey": "mma-ufc",
       "category": "mma",
       "season": null,
-      "windowFrom": "20260812",
-      "windowTo": "20270523",
+      "windowFrom": "20260813",
+      "windowTo": "20270524",
       "eventCount": 10,
       "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/ufc.json"
     },
@@ -619,7 +619,7 @@
       "sportKey": "nascar-oreilly",
       "category": "motorsport",
       "season": "2026",
-      "eventCount": 94,
+      "eventCount": 88,
       "url": "https://elpiku.github.io/sportocal-data/motorsport/nascar/oreilly/2026.json"
     },
     {
@@ -659,8 +659,8 @@
       "sportKey": "volleyball-womens-college-volleyball",
       "category": "volleyball",
       "season": null,
-      "windowFrom": "20260812",
-      "windowTo": "20270523",
+      "windowFrom": "20260813",
+      "windowTo": "20270524",
       "eventCount": 4828,
       "url": "https://elpiku.github.io/sportocal-data/volleyball/espn-all/womens-college-volleyball.json"
     }
