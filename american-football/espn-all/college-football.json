@@ -1,8 +1,8 @@
 {
   "sportKey": "american-football-college-football",
   "leagueName": "NCAA - Football",
-  "windowFrom": "20260813",
-  "windowTo": "20270524",
+  "windowFrom": "20260814",
+  "windowTo": "20270525",
   "events": [
     {
       "id": "football-college-football-2026-08-29-tcu-horned-frogs-north-carolina-tar-heels",
@@ -1031,12 +1031,6 @@
       "utc": "2026-09-12T23:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-auburn-tigers-southern-miss-golden-eagles",
-      "weekend": "2026-09-12",
-      "name": "Auburn Tigers v Southern Miss Golden Eagles",
-      "utc": "2026-09-12T23:30:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-12-clemson-tigers-georgia-southern-eagles",
       "weekend": "2026-09-12",
       "name": "Clemson Tigers v Georgia Southern Eagles",
@@ -1058,6 +1052,12 @@
       "id": "football-college-football-2026-09-12-ole-miss-rebels-charlotte-49ers",
       "weekend": "2026-09-12",
       "name": "Ole Miss Rebels v Charlotte 49ers",
+      "utc": "2026-09-12T23:45:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-auburn-tigers-southern-miss-golden-eagles",
+      "weekend": "2026-09-12",
+      "name": "Auburn Tigers v Southern Miss Golden Eagles",
       "utc": "2026-09-12T23:45:00Z"
     },
     {
