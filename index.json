@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T11:40:07Z",
+  "generatedAt": "2026-08-28T17:07:07Z",
   "count": 70,
   "leagues": [
     {
@@ -47,8 +47,8 @@
       "sportKey": "basketball-fiba",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260813",
-      "windowTo": "20270524",
+      "windowFrom": "20260814",
+      "windowTo": "20270525",
       "eventCount": 24,
       "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/fiba.json"
     },
@@ -65,8 +65,8 @@
       "sportKey": "basketball-nbl",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260813",
-      "windowTo": "20270524",
+      "windowFrom": "20260814",
+      "windowTo": "20270525",
       "eventCount": 183,
       "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/nbl.json"
     },
@@ -75,9 +75,9 @@
       "sportKey": "basketball-wnba",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260813",
-      "windowTo": "20270524",
-      "eventCount": 80,
+      "windowFrom": "20260814",
+      "windowTo": "20270525",
+      "eventCount": 77,
       "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/wnba.json"
     },
     {
@@ -523,8 +523,8 @@
       "sportKey": "hockey-nhl",
       "category": "hockey",
       "season": null,
-      "windowFrom": "20260813",
-      "windowTo": "20270524",
+      "windowFrom": "20260814",
+      "windowTo": "20270525",
       "eventCount": 1409,
       "url": "https://elpiku.github.io/sportocal-data/hockey/espn-all/nhl.json"
     },
