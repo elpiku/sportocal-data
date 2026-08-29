@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-29T11:28:13Z",
-  "count": 71,
+  "generatedAt": "2026-08-29T12:49:55Z",
+  "count": 72,
   "leagues": [
     {
       "name": "NCAA - Football",
       "sportKey": "american-football-college-football",
       "category": "american-football",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
-      "eventCount": 946,
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
+      "eventCount": 947,
       "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/college-football.json"
     },
     {
@@ -17,9 +17,9 @@
       "sportKey": "american-football-nfl",
       "category": "american-football",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
-      "eventCount": 327,
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
+      "eventCount": 324,
       "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/nfl.json"
     },
     {
@@ -27,8 +27,8 @@
       "sportKey": "afl-afl",
       "category": "australian-football",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
       "eventCount": 22,
       "url": "https://elpiku.github.io/sportocal-data/australian-football/espn-all/afl.json"
     },
@@ -37,9 +37,9 @@
       "sportKey": "baseball-mlb",
       "category": "baseball",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
-      "eventCount": 1479,
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
+      "eventCount": 1480,
       "url": "https://elpiku.github.io/sportocal-data/baseball/espn-all/mlb.json"
     },
     {
@@ -511,6 +511,14 @@
       "url": "https://elpiku.github.io/sportocal-data/football/espn-all/usa.open.json"
     },
     {
+      "name": "UEFA Champions League",
+      "sportKey": "uefachampionsleague",
+      "category": "football",
+      "season": "2026-27",
+      "eventCount": 144,
+      "url": "https://elpiku.github.io/sportocal-data/football/championsleague/2027.json"
+    },
+    {
       "name": "UEFA Nations League",
       "sportKey": "soccer-uefa.nations",
       "category": "football",
@@ -543,8 +551,8 @@
       "sportKey": "lacrosse-pll",
       "category": "lacrosse",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
       "eventCount": 5,
       "url": "https://elpiku.github.io/sportocal-data/lacrosse/espn-all/pll.json"
     },
@@ -553,8 +561,8 @@
       "sportKey": "mma-pfl",
       "category": "mma",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
       "eventCount": 2,
       "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/pfl.json"
     },
@@ -563,8 +571,8 @@
       "sportKey": "mma-ufc",
       "category": "mma",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
       "eventCount": 10,
       "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/ufc.json"
     },
@@ -669,9 +677,9 @@
       "sportKey": "volleyball-womens-college-volleyball",
       "category": "volleyball",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
-      "eventCount": 4828,
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
+      "eventCount": 4829,
       "url": "https://elpiku.github.io/sportocal-data/volleyball/espn-all/womens-college-volleyball.json"
     }
   ]

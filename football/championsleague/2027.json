@@ -1,0 +1,870 @@
+{
+  "sportKey": "uefachampionsleague",
+  "season": "2026-27",
+  "events": [
+    {
+      "id": "ucl-2026-09-08-aek-athens-lask-linz",
+      "weekend": "2026-09-08",
+      "name": "AEK Athens v LASK Linz",
+      "utc": "2026-09-08T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-09-08-club-brugge-aston-villa",
+      "weekend": "2026-09-08",
+      "name": "Club Brugge v Aston Villa",
+      "utc": "2026-09-08T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-09-08-borussia-dortmund-villarreal",
+      "weekend": "2026-09-08",
+      "name": "Borussia Dortmund v Villarreal",
+      "utc": "2026-09-08T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-09-08-fc-porto-manchester-city",
+      "weekend": "2026-09-08",
+      "name": "FC Porto v Manchester City",
+      "utc": "2026-09-08T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-09-08-lille-real-betis",
+      "weekend": "2026-09-08",
+      "name": "Lille v Real Betis",
+      "utc": "2026-09-08T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-09-08-real-madrid-internazionale",
+      "weekend": "2026-09-08",
+      "name": "Real Madrid v Internazionale",
+      "utc": "2026-09-08T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-09-09-barcelona-feyenoord-rotterdam",
+      "weekend": "2026-09-09",
+      "name": "Barcelona v Feyenoord Rotterdam",
+      "utc": "2026-09-09T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-09-09-vfb-stuttgart-viking-fk",
+      "weekend": "2026-09-09",
+      "name": "VfB Stuttgart v Viking FK",
+      "utc": "2026-09-09T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-09-09-liverpool-atl-tico-madrid",
+      "weekend": "2026-09-09",
+      "name": "Liverpool v Atl\u00e9tico Madrid",
+      "utc": "2026-09-09T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-09-09-napoli-arsenal",
+      "weekend": "2026-09-09",
+      "name": "Napoli v Arsenal",
+      "utc": "2026-09-09T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-09-09-paris-saint-germain-slovan-bratislava",
+      "weekend": "2026-09-09",
+      "name": "Paris Saint-Germain v Slovan Bratislava",
+      "utc": "2026-09-09T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-09-09-sporting-cp-galatasaray",
+      "weekend": "2026-09-09",
+      "name": "Sporting CP v Galatasaray",
+      "utc": "2026-09-09T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-09-10-fenerbahce-as-roma",
+      "weekend": "2026-09-10",
+      "name": "Fenerbahce v AS Roma",
+      "utc": "2026-09-10T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-09-10-psv-eindhoven-shakhtar-donetsk",
+      "weekend": "2026-09-10",
+      "name": "PSV Eindhoven v Shakhtar Donetsk",
+      "utc": "2026-09-10T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-09-10-bayern-munich-bodo-glimt",
+      "weekend": "2026-09-10",
+      "name": "Bayern Munich v Bodo/Glimt",
+      "utc": "2026-09-10T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-09-10-como-rb-leipzig",
+      "weekend": "2026-09-10",
+      "name": "Como v RB Leipzig",
+      "utc": "2026-09-10T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-09-10-manchester-united-sabah-fk",
+      "weekend": "2026-09-10",
+      "name": "Manchester United v SABAH FK",
+      "utc": "2026-09-10T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-09-10-slavia-prague-lens",
+      "weekend": "2026-09-10",
+      "name": "Slavia Prague v Lens",
+      "utc": "2026-09-10T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-13-lens-sporting-cp",
+      "weekend": "2026-10-13",
+      "name": "Lens v Sporting CP",
+      "utc": "2026-10-13T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-10-13-sabah-fk-slavia-prague",
+      "weekend": "2026-10-13",
+      "name": "SABAH FK v Slavia Prague",
+      "utc": "2026-10-13T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-10-13-arsenal-lille",
+      "weekend": "2026-10-13",
+      "name": "Arsenal v Lille",
+      "utc": "2026-10-13T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-13-atl-tico-madrid-manchester-united",
+      "weekend": "2026-10-13",
+      "name": "Atl\u00e9tico Madrid v Manchester United",
+      "utc": "2026-10-13T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-13-galatasaray-barcelona",
+      "weekend": "2026-10-13",
+      "name": "Galatasaray v Barcelona",
+      "utc": "2026-10-13T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-13-internazionale-club-brugge",
+      "weekend": "2026-10-13",
+      "name": "Internazionale v Club Brugge",
+      "utc": "2026-10-13T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-13-rb-leipzig-psv-eindhoven",
+      "weekend": "2026-10-13",
+      "name": "RB Leipzig v PSV Eindhoven",
+      "utc": "2026-10-13T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-13-viking-fk-bayern-munich",
+      "weekend": "2026-10-13",
+      "name": "Viking FK v Bayern Munich",
+      "utc": "2026-10-13T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-13-villarreal-napoli",
+      "weekend": "2026-10-13",
+      "name": "Villarreal v Napoli",
+      "utc": "2026-10-13T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-14-feyenoord-rotterdam-como",
+      "weekend": "2026-10-14",
+      "name": "Feyenoord Rotterdam v Como",
+      "utc": "2026-10-14T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-10-14-lask-linz-liverpool",
+      "weekend": "2026-10-14",
+      "name": "LASK Linz v Liverpool",
+      "utc": "2026-10-14T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-10-14-as-roma-real-madrid",
+      "weekend": "2026-10-14",
+      "name": "AS Roma v Real Madrid",
+      "utc": "2026-10-14T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-14-aston-villa-fenerbahce",
+      "weekend": "2026-10-14",
+      "name": "Aston Villa v Fenerbahce",
+      "utc": "2026-10-14T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-14-bodo-glimt-borussia-dortmund",
+      "weekend": "2026-10-14",
+      "name": "Bodo/Glimt v Borussia Dortmund",
+      "utc": "2026-10-14T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-14-manchester-city-paris-saint-germain",
+      "weekend": "2026-10-14",
+      "name": "Manchester City v Paris Saint-Germain",
+      "utc": "2026-10-14T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-14-real-betis-fc-porto",
+      "weekend": "2026-10-14",
+      "name": "Real Betis v FC Porto",
+      "utc": "2026-10-14T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-14-shakhtar-donetsk-aek-athens",
+      "weekend": "2026-10-14",
+      "name": "Shakhtar Donetsk v AEK Athens",
+      "utc": "2026-10-14T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-14-slovan-bratislava-vfb-stuttgart",
+      "weekend": "2026-10-14",
+      "name": "Slovan Bratislava v VfB Stuttgart",
+      "utc": "2026-10-14T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-20-fenerbahce-slavia-prague",
+      "weekend": "2026-10-20",
+      "name": "Fenerbahce v Slavia Prague",
+      "utc": "2026-10-20T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-10-20-sabah-fk-borussia-dortmund",
+      "weekend": "2026-10-20",
+      "name": "SABAH FK v Borussia Dortmund",
+      "utc": "2026-10-20T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-10-20-as-roma-slovan-bratislava",
+      "weekend": "2026-10-20",
+      "name": "AS Roma v Slovan Bratislava",
+      "utc": "2026-10-20T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-20-fc-porto-psv-eindhoven",
+      "weekend": "2026-10-20",
+      "name": "FC Porto v PSV Eindhoven",
+      "utc": "2026-10-20T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-20-liverpool-villarreal",
+      "weekend": "2026-10-20",
+      "name": "Liverpool v Villarreal",
+      "utc": "2026-10-20T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-20-manchester-city-aek-athens",
+      "weekend": "2026-10-20",
+      "name": "Manchester City v AEK Athens",
+      "utc": "2026-10-20T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-20-napoli-bodo-glimt",
+      "weekend": "2026-10-20",
+      "name": "Napoli v Bodo/Glimt",
+      "utc": "2026-10-20T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-20-paris-saint-germain-barcelona",
+      "weekend": "2026-10-20",
+      "name": "Paris Saint-Germain v Barcelona",
+      "utc": "2026-10-20T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-20-vfb-stuttgart-atl-tico-madrid",
+      "weekend": "2026-10-20",
+      "name": "VfB Stuttgart v Atl\u00e9tico Madrid",
+      "utc": "2026-10-20T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-21-como-manchester-united",
+      "weekend": "2026-10-21",
+      "name": "Como v Manchester United",
+      "utc": "2026-10-21T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-10-21-lille-galatasaray",
+      "weekend": "2026-10-21",
+      "name": "Lille v Galatasaray",
+      "utc": "2026-10-21T16:45:00Z"
+    },
+    {
+      "id": "ucl-2026-10-21-aston-villa-viking-fk",
+      "weekend": "2026-10-21",
+      "name": "Aston Villa v Viking FK",
+      "utc": "2026-10-21T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-21-bayern-munich-arsenal",
+      "weekend": "2026-10-21",
+      "name": "Bayern Munich v Arsenal",
+      "utc": "2026-10-21T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-21-club-brugge-lens",
+      "weekend": "2026-10-21",
+      "name": "Club Brugge v Lens",
+      "utc": "2026-10-21T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-21-internazionale-shakhtar-donetsk",
+      "weekend": "2026-10-21",
+      "name": "Internazionale v Shakhtar Donetsk",
+      "utc": "2026-10-21T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-21-real-betis-feyenoord-rotterdam",
+      "weekend": "2026-10-21",
+      "name": "Real Betis v Feyenoord Rotterdam",
+      "utc": "2026-10-21T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-21-real-madrid-rb-leipzig",
+      "weekend": "2026-10-21",
+      "name": "Real Madrid v RB Leipzig",
+      "utc": "2026-10-21T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-10-21-sporting-cp-lask-linz",
+      "weekend": "2026-10-21",
+      "name": "Sporting CP v LASK Linz",
+      "utc": "2026-10-21T19:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-03-galatasaray-vfb-stuttgart",
+      "weekend": "2026-11-03",
+      "name": "Galatasaray v VfB Stuttgart",
+      "utc": "2026-11-03T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-11-03-shakhtar-donetsk-sporting-cp",
+      "weekend": "2026-11-03",
+      "name": "Shakhtar Donetsk v Sporting CP",
+      "utc": "2026-11-03T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-11-03-atl-tico-madrid-bayern-munich",
+      "weekend": "2026-11-03",
+      "name": "Atl\u00e9tico Madrid v Bayern Munich",
+      "utc": "2026-11-03T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-03-barcelona-aston-villa",
+      "weekend": "2026-11-03",
+      "name": "Barcelona v Aston Villa",
+      "utc": "2026-11-03T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-03-bodo-glimt-lille",
+      "weekend": "2026-11-03",
+      "name": "Bodo/Glimt v Lille",
+      "utc": "2026-11-03T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-03-feyenoord-rotterdam-internazionale",
+      "weekend": "2026-11-03",
+      "name": "Feyenoord Rotterdam v Internazionale",
+      "utc": "2026-11-03T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-03-lask-linz-slovan-bratislava",
+      "weekend": "2026-11-03",
+      "name": "LASK Linz v Slovan Bratislava",
+      "utc": "2026-11-03T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-03-manchester-united-as-roma",
+      "weekend": "2026-11-03",
+      "name": "Manchester United v AS Roma",
+      "utc": "2026-11-03T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-03-villarreal-paris-saint-germain",
+      "weekend": "2026-11-03",
+      "name": "Villarreal v Paris Saint-Germain",
+      "utc": "2026-11-03T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-04-aek-athens-real-madrid",
+      "weekend": "2026-11-04",
+      "name": "AEK Athens v Real Madrid",
+      "utc": "2026-11-04T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-11-04-fenerbahce-liverpool",
+      "weekend": "2026-11-04",
+      "name": "Fenerbahce v Liverpool",
+      "utc": "2026-11-04T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-11-04-borussia-dortmund-real-betis",
+      "weekend": "2026-11-04",
+      "name": "Borussia Dortmund v Real Betis",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-04-fc-porto-napoli",
+      "weekend": "2026-11-04",
+      "name": "FC Porto v Napoli",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-04-lens-como",
+      "weekend": "2026-11-04",
+      "name": "Lens v Como",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-04-psv-eindhoven-club-brugge",
+      "weekend": "2026-11-04",
+      "name": "PSV Eindhoven v Club Brugge",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-04-rb-leipzig-manchester-city",
+      "weekend": "2026-11-04",
+      "name": "RB Leipzig v Manchester City",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-04-slavia-prague-arsenal",
+      "weekend": "2026-11-04",
+      "name": "Slavia Prague v Arsenal",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-04-viking-fk-sabah-fk",
+      "weekend": "2026-11-04",
+      "name": "Viking FK v SABAH FK",
+      "utc": "2026-11-04T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-24-bodo-glimt-lask-linz",
+      "weekend": "2026-11-24",
+      "name": "Bodo/Glimt v LASK Linz",
+      "utc": "2026-11-24T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-11-24-galatasaray-aston-villa",
+      "weekend": "2026-11-24",
+      "name": "Galatasaray v Aston Villa",
+      "utc": "2026-11-24T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-11-24-arsenal-borussia-dortmund",
+      "weekend": "2026-11-24",
+      "name": "Arsenal v Borussia Dortmund",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-24-como-aek-athens",
+      "weekend": "2026-11-24",
+      "name": "Como v AEK Athens",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-24-feyenoord-rotterdam-fc-porto",
+      "weekend": "2026-11-24",
+      "name": "Feyenoord Rotterdam v FC Porto",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-24-manchester-city-napoli",
+      "weekend": "2026-11-24",
+      "name": "Manchester City v Napoli",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-24-rb-leipzig-lens",
+      "weekend": "2026-11-24",
+      "name": "RB Leipzig v Lens",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-24-real-madrid-psv-eindhoven",
+      "weekend": "2026-11-24",
+      "name": "Real Madrid v PSV Eindhoven",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-24-slovan-bratislava-real-betis",
+      "weekend": "2026-11-24",
+      "name": "Slovan Bratislava v Real Betis",
+      "utc": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-25-sabah-fk-barcelona",
+      "weekend": "2026-11-25",
+      "name": "SABAH FK v Barcelona",
+      "utc": "2026-11-25T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-11-25-slavia-prague-villarreal",
+      "weekend": "2026-11-25",
+      "name": "Slavia Prague v Villarreal",
+      "utc": "2026-11-25T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-11-25-atl-tico-madrid-viking-fk",
+      "weekend": "2026-11-25",
+      "name": "Atl\u00e9tico Madrid v Viking FK",
+      "utc": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-25-club-brugge-liverpool",
+      "weekend": "2026-11-25",
+      "name": "Club Brugge v Liverpool",
+      "utc": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-25-internazionale-vfb-stuttgart",
+      "weekend": "2026-11-25",
+      "name": "Internazionale v VfB Stuttgart",
+      "utc": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-25-lille-bayern-munich",
+      "weekend": "2026-11-25",
+      "name": "Lille v Bayern Munich",
+      "utc": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-25-paris-saint-germain-as-roma",
+      "weekend": "2026-11-25",
+      "name": "Paris Saint-Germain v AS Roma",
+      "utc": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-25-shakhtar-donetsk-fenerbahce",
+      "weekend": "2026-11-25",
+      "name": "Shakhtar Donetsk v Fenerbahce",
+      "utc": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-11-25-sporting-cp-manchester-united",
+      "weekend": "2026-11-25",
+      "name": "Sporting CP v Manchester United",
+      "utc": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-08-viking-fk-feyenoord-rotterdam",
+      "weekend": "2026-12-08",
+      "name": "Viking FK v Feyenoord Rotterdam",
+      "utc": "2026-12-08T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-12-08-villarreal-sabah-fk",
+      "weekend": "2026-12-08",
+      "name": "Villarreal v SABAH FK",
+      "utc": "2026-12-08T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-12-08-aek-athens-galatasaray",
+      "weekend": "2026-12-08",
+      "name": "AEK Athens v Galatasaray",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-08-as-roma-sporting-cp",
+      "weekend": "2026-12-08",
+      "name": "AS Roma v Sporting CP",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-08-aston-villa-paris-saint-germain",
+      "weekend": "2026-12-08",
+      "name": "Aston Villa v Paris Saint-Germain",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-08-barcelona-manchester-city",
+      "weekend": "2026-12-08",
+      "name": "Barcelona v Manchester City",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-08-bayern-munich-slavia-prague",
+      "weekend": "2026-12-08",
+      "name": "Bayern Munich v Slavia Prague",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-08-manchester-united-rb-leipzig",
+      "weekend": "2026-12-08",
+      "name": "Manchester United v RB Leipzig",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-08-napoli-club-brugge",
+      "weekend": "2026-12-08",
+      "name": "Napoli v Club Brugge",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-09-real-betis-como",
+      "weekend": "2026-12-09",
+      "name": "Real Betis v Como",
+      "utc": "2026-12-09T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-12-09-slovan-bratislava-shakhtar-donetsk",
+      "weekend": "2026-12-09",
+      "name": "Slovan Bratislava v Shakhtar Donetsk",
+      "utc": "2026-12-09T17:45:00Z"
+    },
+    {
+      "id": "ucl-2026-12-09-arsenal-real-madrid",
+      "weekend": "2026-12-09",
+      "name": "Arsenal v Real Madrid",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-09-borussia-dortmund-internazionale",
+      "weekend": "2026-12-09",
+      "name": "Borussia Dortmund v Internazionale",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-09-lask-linz-fenerbahce",
+      "weekend": "2026-12-09",
+      "name": "LASK Linz v Fenerbahce",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-09-lens-bodo-glimt",
+      "weekend": "2026-12-09",
+      "name": "Lens v Bodo/Glimt",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-09-liverpool-fc-porto",
+      "weekend": "2026-12-09",
+      "name": "Liverpool v FC Porto",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-09-psv-eindhoven-atl-tico-madrid",
+      "weekend": "2026-12-09",
+      "name": "PSV Eindhoven v Atl\u00e9tico Madrid",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "ucl-2026-12-09-vfb-stuttgart-lille",
+      "weekend": "2026-12-09",
+      "name": "VfB Stuttgart v Lille",
+      "utc": "2026-12-09T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-19-bodo-glimt-atl-tico-madrid",
+      "weekend": "2027-01-19",
+      "name": "Bodo/Glimt v Atl\u00e9tico Madrid",
+      "utc": "2027-01-19T17:45:00Z"
+    },
+    {
+      "id": "ucl-2027-01-19-galatasaray-feyenoord-rotterdam",
+      "weekend": "2027-01-19",
+      "name": "Galatasaray v Feyenoord Rotterdam",
+      "utc": "2027-01-19T17:45:00Z"
+    },
+    {
+      "id": "ucl-2027-01-19-aek-athens-as-roma",
+      "weekend": "2027-01-19",
+      "name": "AEK Athens v AS Roma",
+      "utc": "2027-01-19T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-19-aston-villa-borussia-dortmund",
+      "weekend": "2027-01-19",
+      "name": "Aston Villa v Borussia Dortmund",
+      "utc": "2027-01-19T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-19-fc-porto-slavia-prague",
+      "weekend": "2027-01-19",
+      "name": "FC Porto v Slavia Prague",
+      "utc": "2027-01-19T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-19-internazionale-liverpool",
+      "weekend": "2027-01-19",
+      "name": "Internazionale v Liverpool",
+      "utc": "2027-01-19T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-19-lille-slovan-bratislava",
+      "weekend": "2027-01-19",
+      "name": "Lille v Slovan Bratislava",
+      "utc": "2027-01-19T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-19-real-madrid-lask-linz",
+      "weekend": "2027-01-19",
+      "name": "Real Madrid v LASK Linz",
+      "utc": "2027-01-19T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-19-vfb-stuttgart-club-brugge",
+      "weekend": "2027-01-19",
+      "name": "VfB Stuttgart v Club Brugge",
+      "utc": "2027-01-19T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-20-fenerbahce-villarreal",
+      "weekend": "2027-01-20",
+      "name": "Fenerbahce v Villarreal",
+      "utc": "2027-01-20T17:45:00Z"
+    },
+    {
+      "id": "ucl-2027-01-20-sabah-fk-napoli",
+      "weekend": "2027-01-20",
+      "name": "SABAH FK v Napoli",
+      "utc": "2027-01-20T17:45:00Z"
+    },
+    {
+      "id": "ucl-2027-01-20-como-paris-saint-germain",
+      "weekend": "2027-01-20",
+      "name": "Como v Paris Saint-Germain",
+      "utc": "2027-01-20T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-20-lens-manchester-city",
+      "weekend": "2027-01-20",
+      "name": "Lens v Manchester City",
+      "utc": "2027-01-20T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-20-manchester-united-bayern-munich",
+      "weekend": "2027-01-20",
+      "name": "Manchester United v Bayern Munich",
+      "utc": "2027-01-20T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-20-rb-leipzig-shakhtar-donetsk",
+      "weekend": "2027-01-20",
+      "name": "RB Leipzig v Shakhtar Donetsk",
+      "utc": "2027-01-20T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-20-real-betis-arsenal",
+      "weekend": "2027-01-20",
+      "name": "Real Betis v Arsenal",
+      "utc": "2027-01-20T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-20-sporting-cp-barcelona",
+      "weekend": "2027-01-20",
+      "name": "Sporting CP v Barcelona",
+      "utc": "2027-01-20T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-20-viking-fk-psv-eindhoven",
+      "weekend": "2027-01-20",
+      "name": "Viking FK v PSV Eindhoven",
+      "utc": "2027-01-20T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-arsenal-sabah-fk",
+      "weekend": "2027-01-27",
+      "name": "Arsenal v SABAH FK",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-as-roma-lille",
+      "weekend": "2027-01-27",
+      "name": "AS Roma v Lille",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-atl-tico-madrid-fenerbahce",
+      "weekend": "2027-01-27",
+      "name": "Atl\u00e9tico Madrid v Fenerbahce",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-barcelona-como",
+      "weekend": "2027-01-27",
+      "name": "Barcelona v Como",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-bayern-munich-real-betis",
+      "weekend": "2027-01-27",
+      "name": "Bayern Munich v Real Betis",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-borussia-dortmund-aek-athens",
+      "weekend": "2027-01-27",
+      "name": "Borussia Dortmund v AEK Athens",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-club-brugge-bodo-glimt",
+      "weekend": "2027-01-27",
+      "name": "Club Brugge v Bodo/Glimt",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-feyenoord-rotterdam-rb-leipzig",
+      "weekend": "2027-01-27",
+      "name": "Feyenoord Rotterdam v RB Leipzig",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-lask-linz-fc-porto",
+      "weekend": "2027-01-27",
+      "name": "LASK Linz v FC Porto",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-liverpool-lens",
+      "weekend": "2027-01-27",
+      "name": "Liverpool v Lens",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-manchester-city-sporting-cp",
+      "weekend": "2027-01-27",
+      "name": "Manchester City v Sporting CP",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-napoli-viking-fk",
+      "weekend": "2027-01-27",
+      "name": "Napoli v Viking FK",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-paris-saint-germain-galatasaray",
+      "weekend": "2027-01-27",
+      "name": "Paris Saint-Germain v Galatasaray",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-psv-eindhoven-vfb-stuttgart",
+      "weekend": "2027-01-27",
+      "name": "PSV Eindhoven v VfB Stuttgart",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-shakhtar-donetsk-real-madrid",
+      "weekend": "2027-01-27",
+      "name": "Shakhtar Donetsk v Real Madrid",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-slavia-prague-aston-villa",
+      "weekend": "2027-01-27",
+      "name": "Slavia Prague v Aston Villa",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-slovan-bratislava-internazionale",
+      "weekend": "2027-01-27",
+      "name": "Slovan Bratislava v Internazionale",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ucl-2027-01-27-villarreal-manchester-united",
+      "weekend": "2027-01-27",
+      "name": "Villarreal v Manchester United",
+      "utc": "2027-01-27T20:00:00Z"
+    }
+  ]
+}

@@ -1,15 +1,9 @@
 {
   "sportKey": "afl-afl",
   "leagueName": "AFL",
-  "windowFrom": "20260814",
-  "windowTo": "20270525",
+  "windowFrom": "20260815",
+  "windowTo": "20270526",
   "events": [
-    {
-      "id": "afl-afl-2026-08-14-fremantle-adelaide-crows",
-      "weekend": "2026-08-14",
-      "name": "Fremantle v Adelaide Crows",
-      "utc": "2026-08-14T10:10:00Z"
-    },
     {
       "id": "afl-afl-2026-08-15-richmond-st-kilda",
       "weekend": "2026-08-15",
@@ -129,6 +123,12 @@
       "weekend": "2026-09-03",
       "name": "Fremantle v Hawthorn",
       "utc": "2026-09-03T10:10:00Z"
+    },
+    {
+      "id": "afl-afl-2026-09-04-geelong-cats-carlton",
+      "weekend": "2026-09-04",
+      "name": "Geelong Cats v Carlton",
+      "utc": "2026-09-04T09:40:00Z"
     },
     {
       "id": "afl-afl-2026-09-05-sydney-swans-brisbane-lions",

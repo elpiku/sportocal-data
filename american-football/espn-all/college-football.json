@@ -1,8 +1,8 @@
 {
   "sportKey": "american-football-college-football",
   "leagueName": "NCAA - Football",
-  "windowFrom": "20260814",
-  "windowTo": "20270525",
+  "windowFrom": "20260815",
+  "windowTo": "20270526",
   "events": [
     {
       "id": "football-college-football-2026-08-29-tcu-horned-frogs-north-carolina-tar-heels",
@@ -5516,10 +5516,16 @@
       "id": "football-college-football-2026-12-24-tbd-tbd",
       "weekend": "2026-12-24",
       "name": "TBD v TBD",
-      "utc": "2026-12-24T02:00:00Z"
+      "utc": "2026-12-24T00:30:00Z"
     },
     {
       "id": "football-college-football-2026-12-24-tbd-tbd-2",
+      "weekend": "2026-12-24",
+      "name": "TBD v TBD",
+      "utc": "2026-12-24T02:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-12-24-tbd-tbd-3",
       "weekend": "2026-12-24",
       "name": "TBD v TBD",
       "utc": "2026-12-24T19:30:00Z"
