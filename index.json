@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T07:17:09Z",
-  "count": 70,
+  "generatedAt": "2026-08-29T11:28:13Z",
+  "count": 71,
   "leagues": [
     {
       "name": "NCAA - Football",
@@ -47,8 +47,8 @@
       "sportKey": "basketball-fiba",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
       "eventCount": 24,
       "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/fiba.json"
     },
@@ -61,12 +61,22 @@
       "url": "https://elpiku.github.io/sportocal-data/basketball/nba/2027.json"
     },
     {
+      "name": "NBA G League",
+      "sportKey": "basketball-nba-development",
+      "category": "basketball",
+      "season": null,
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
+      "eventCount": 744,
+      "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/nba-development.json"
+    },
+    {
       "name": "National Basketball League",
       "sportKey": "basketball-nbl",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
       "eventCount": 183,
       "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/nbl.json"
     },
@@ -75,9 +85,9 @@
       "sportKey": "basketball-wnba",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
-      "eventCount": 77,
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
+      "eventCount": 75,
       "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/wnba.json"
     },
     {
@@ -523,8 +533,8 @@
       "sportKey": "hockey-nhl",
       "category": "hockey",
       "season": null,
-      "windowFrom": "20260814",
-      "windowTo": "20270525",
+      "windowFrom": "20260815",
+      "windowTo": "20270526",
       "eventCount": 1409,
       "url": "https://elpiku.github.io/sportocal-data/hockey/espn-all/nhl.json"
     },
