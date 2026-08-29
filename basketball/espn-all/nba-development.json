@@ -1,0 +1,4472 @@
+{
+  "sportKey": "basketball-nba-development",
+  "leagueName": "NBA G League",
+  "windowFrom": "20260815",
+  "windowTo": "20270526",
+  "events": [
+    {
+      "id": "nba-development-2026-11-07-maine-celtics-westchester-knicks",
+      "weekend": "2026-11-07",
+      "name": "Maine Celtics v Westchester Knicks",
+      "utc": "2026-11-07T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-07-greensboro-swarm-long-island-nets",
+      "weekend": "2026-11-07",
+      "name": "Greensboro Swarm v Long Island Nets",
+      "utc": "2026-11-07T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-07-delaware-blue-coats-capital-city-go-go",
+      "weekend": "2026-11-07",
+      "name": "Delaware Blue Coats v Capital City Go-Go",
+      "utc": "2026-11-07T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-07-college-park-skyhawks-raptors-905",
+      "weekend": "2026-11-07",
+      "name": "College Park Skyhawks v Raptors 905",
+      "utc": "2026-11-07T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-07-windy-city-bulls-noblesville-boom",
+      "weekend": "2026-11-07",
+      "name": "Windy City Bulls v Noblesville Boom",
+      "utc": "2026-11-07T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-07-oklahoma-city-blue-mexico-city-capitanes",
+      "weekend": "2026-11-07",
+      "name": "Oklahoma City Blue v Mexico City Capitanes",
+      "utc": "2026-11-07T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-07-iowa-wolves-wisconsin-herd",
+      "weekend": "2026-11-07",
+      "name": "Iowa Wolves v Wisconsin Herd",
+      "utc": "2026-11-07T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-07-rio-grande-valley-vipers-austin-spurs",
+      "weekend": "2026-11-07",
+      "name": "Rio Grande Valley Vipers v Austin Spurs",
+      "utc": "2026-11-07T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-07-san-diego-clippers-valley-suns",
+      "weekend": "2026-11-07",
+      "name": "San Diego Clippers v Valley Suns",
+      "utc": "2026-11-07T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-07-coachella-valley-lakers-salt-lake-city-stars",
+      "weekend": "2026-11-07",
+      "name": "Coachella Valley Lakers v Salt Lake City Stars",
+      "utc": "2026-11-07T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-07-greensboro-swarm-long-island-nets-2",
+      "weekend": "2026-11-07",
+      "name": "Greensboro Swarm v Long Island Nets",
+      "utc": "2026-11-07T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-07-delaware-blue-coats-capital-city-go-go-2",
+      "weekend": "2026-11-07",
+      "name": "Delaware Blue Coats v Capital City Go-Go",
+      "utc": "2026-11-07T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-08-grand-rapids-gold-sioux-falls-skyforce",
+      "weekend": "2026-11-08",
+      "name": "Grand Rapids Gold v Sioux Falls Skyforce",
+      "utc": "2026-11-08T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-08-stockton-kings-santa-cruz-warriors",
+      "weekend": "2026-11-08",
+      "name": "Stockton Kings v Santa Cruz Warriors",
+      "utc": "2026-11-08T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-08-windy-city-bulls-noblesville-boom",
+      "weekend": "2026-11-08",
+      "name": "Windy City Bulls v Noblesville Boom",
+      "utc": "2026-11-08T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-08-maine-celtics-westchester-knicks",
+      "weekend": "2026-11-08",
+      "name": "Maine Celtics v Westchester Knicks",
+      "utc": "2026-11-08T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-08-college-park-skyhawks-raptors-905",
+      "weekend": "2026-11-08",
+      "name": "College Park Skyhawks v Raptors 905",
+      "utc": "2026-11-08T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-08-osceola-magic-oklahoma-city-blue",
+      "weekend": "2026-11-08",
+      "name": "Osceola Magic v Oklahoma City Blue",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-08-grand-rapids-gold-sioux-falls-skyforce-2",
+      "weekend": "2026-11-08",
+      "name": "Grand Rapids Gold v Sioux Falls Skyforce",
+      "utc": "2026-11-08T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-08-iowa-wolves-wisconsin-herd",
+      "weekend": "2026-11-08",
+      "name": "Iowa Wolves v Wisconsin Herd",
+      "utc": "2026-11-08T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-08-austin-spurs-laketown-squadron",
+      "weekend": "2026-11-08",
+      "name": "Austin Spurs v Laketown Squadron",
+      "utc": "2026-11-08T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-09-mexico-city-capitanes-texas-legends",
+      "weekend": "2026-11-09",
+      "name": "Mexico City Capitanes v Texas Legends",
+      "utc": "2026-11-09T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-10-coachella-valley-lakers-san-diego-clippers",
+      "weekend": "2026-11-10",
+      "name": "Coachella Valley Lakers v San Diego Clippers",
+      "utc": "2026-11-10T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-10-oklahoma-city-blue-rio-grande-valley-vipers",
+      "weekend": "2026-11-10",
+      "name": "Oklahoma City Blue v Rio Grande Valley Vipers",
+      "utc": "2026-11-10T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-10-salt-lake-city-stars-rip-city-remix",
+      "weekend": "2026-11-10",
+      "name": "Salt Lake City Stars v Rip City Remix",
+      "utc": "2026-11-10T17:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-11-noblesville-boom-iowa-wolves",
+      "weekend": "2026-11-11",
+      "name": "Noblesville Boom v Iowa Wolves",
+      "utc": "2026-11-11T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-11-college-park-skyhawks-long-island-nets",
+      "weekend": "2026-11-11",
+      "name": "College Park Skyhawks v Long Island Nets",
+      "utc": "2026-11-11T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-11-cleveland-charge-motor-city-cruise",
+      "weekend": "2026-11-11",
+      "name": "Cleveland Charge v Motor City Cruise",
+      "utc": "2026-11-11T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-11-memphis-hustle-osceola-magic",
+      "weekend": "2026-11-11",
+      "name": "Memphis Hustle v Osceola Magic",
+      "utc": "2026-11-11T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-11-mexico-city-capitanes-texas-legends",
+      "weekend": "2026-11-11",
+      "name": "Mexico City Capitanes v Texas Legends",
+      "utc": "2026-11-11T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-11-stockton-kings-valley-suns",
+      "weekend": "2026-11-11",
+      "name": "Stockton Kings v Valley Suns",
+      "utc": "2026-11-11T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-11-coachella-valley-lakers-san-diego-clippers",
+      "weekend": "2026-11-11",
+      "name": "Coachella Valley Lakers v San Diego Clippers",
+      "utc": "2026-11-11T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-11-salt-lake-city-stars-rip-city-remix",
+      "weekend": "2026-11-11",
+      "name": "Salt Lake City Stars v Rip City Remix",
+      "utc": "2026-11-11T17:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-12-noblesville-boom-iowa-wolves",
+      "weekend": "2026-11-12",
+      "name": "Noblesville Boom v Iowa Wolves",
+      "utc": "2026-11-12T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-12-raptors-905-greensboro-swarm",
+      "weekend": "2026-11-12",
+      "name": "Raptors 905 v Greensboro Swarm",
+      "utc": "2026-11-12T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-13-osceola-magic-mexico-city-capitanes",
+      "weekend": "2026-11-13",
+      "name": "Osceola Magic v Mexico City Capitanes",
+      "utc": "2026-11-13T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-13-raptors-905-greensboro-swarm",
+      "weekend": "2026-11-13",
+      "name": "Raptors 905 v Greensboro Swarm",
+      "utc": "2026-11-13T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-13-windy-city-bulls-grand-rapids-gold",
+      "weekend": "2026-11-13",
+      "name": "Windy City Bulls v Grand Rapids Gold",
+      "utc": "2026-11-13T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-13-memphis-hustle-oklahoma-city-blue",
+      "weekend": "2026-11-13",
+      "name": "Memphis Hustle v Oklahoma City Blue",
+      "utc": "2026-11-13T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-13-valley-suns-coachella-valley-lakers",
+      "weekend": "2026-11-13",
+      "name": "Valley Suns v Coachella Valley Lakers",
+      "utc": "2026-11-13T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-13-motor-city-cruise-noblesville-boom",
+      "weekend": "2026-11-13",
+      "name": "Motor City Cruise v Noblesville Boom",
+      "utc": "2026-11-13T23:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-14-long-island-nets-college-park-skyhawks",
+      "weekend": "2026-11-14",
+      "name": "Long Island Nets v College Park Skyhawks",
+      "utc": "2026-11-14T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-14-delaware-blue-coats-maine-celtics",
+      "weekend": "2026-11-14",
+      "name": "Delaware Blue Coats v Maine Celtics",
+      "utc": "2026-11-14T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-14-texas-legends-rio-grande-valley-vipers",
+      "weekend": "2026-11-14",
+      "name": "Texas Legends v Rio Grande Valley Vipers",
+      "utc": "2026-11-14T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-14-memphis-hustle-oklahoma-city-blue",
+      "weekend": "2026-11-14",
+      "name": "Memphis Hustle v Oklahoma City Blue",
+      "utc": "2026-11-14T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-14-stockton-kings-rip-city-remix",
+      "weekend": "2026-11-14",
+      "name": "Stockton Kings v Rip City Remix",
+      "utc": "2026-11-14T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-14-santa-cruz-warriors-san-diego-clippers",
+      "weekend": "2026-11-14",
+      "name": "Santa Cruz Warriors v San Diego Clippers",
+      "utc": "2026-11-14T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-14-laketown-squadron-mexico-city-capitanes",
+      "weekend": "2026-11-14",
+      "name": "Laketown Squadron v Mexico City Capitanes",
+      "utc": "2026-11-14T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-14-westchester-knicks-greensboro-swarm",
+      "weekend": "2026-11-14",
+      "name": "Westchester Knicks v Greensboro Swarm",
+      "utc": "2026-11-14T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-14-cleveland-charge-sioux-falls-skyforce",
+      "weekend": "2026-11-14",
+      "name": "Cleveland Charge v Sioux Falls Skyforce",
+      "utc": "2026-11-14T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-14-windy-city-bulls-grand-rapids-gold",
+      "weekend": "2026-11-14",
+      "name": "Windy City Bulls v Grand Rapids Gold",
+      "utc": "2026-11-14T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-14-delaware-blue-coats-maine-celtics-2",
+      "weekend": "2026-11-14",
+      "name": "Delaware Blue Coats v Maine Celtics",
+      "utc": "2026-11-14T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-15-capital-city-go-go-raptors-905",
+      "weekend": "2026-11-15",
+      "name": "Capital City Go-Go v Raptors 905",
+      "utc": "2026-11-15T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-15-santa-cruz-warriors-san-diego-clippers",
+      "weekend": "2026-11-15",
+      "name": "Santa Cruz Warriors v San Diego Clippers",
+      "utc": "2026-11-15T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-15-valley-suns-coachella-valley-lakers",
+      "weekend": "2026-11-15",
+      "name": "Valley Suns v Coachella Valley Lakers",
+      "utc": "2026-11-15T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-15-windy-city-bulls-wisconsin-herd",
+      "weekend": "2026-11-15",
+      "name": "Windy City Bulls v Wisconsin Herd",
+      "utc": "2026-11-15T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-15-texas-legends-rio-grande-valley-vipers",
+      "weekend": "2026-11-15",
+      "name": "Texas Legends v Rio Grande Valley Vipers",
+      "utc": "2026-11-15T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-15-austin-spurs-memphis-hustle",
+      "weekend": "2026-11-15",
+      "name": "Austin Spurs v Memphis Hustle",
+      "utc": "2026-11-15T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-15-stockton-kings-rip-city-remix",
+      "weekend": "2026-11-15",
+      "name": "Stockton Kings v Rip City Remix",
+      "utc": "2026-11-15T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-16-motor-city-cruise-noblesville-boom",
+      "weekend": "2026-11-16",
+      "name": "Motor City Cruise v Noblesville Boom",
+      "utc": "2026-11-16T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-16-laketown-squadron-oklahoma-city-blue",
+      "weekend": "2026-11-16",
+      "name": "Laketown Squadron v Oklahoma City Blue",
+      "utc": "2026-11-16T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-16-mexico-city-capitanes-osceola-magic",
+      "weekend": "2026-11-16",
+      "name": "Mexico City Capitanes v Osceola Magic",
+      "utc": "2026-11-16T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-17-long-island-nets-delaware-blue-coats",
+      "weekend": "2026-11-17",
+      "name": "Long Island Nets v Delaware Blue Coats",
+      "utc": "2026-11-17T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-17-capital-city-go-go-raptors-905",
+      "weekend": "2026-11-17",
+      "name": "Capital City Go-Go v Raptors 905",
+      "utc": "2026-11-17T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-17-valley-suns-salt-lake-city-stars",
+      "weekend": "2026-11-17",
+      "name": "Valley Suns v Salt Lake City Stars",
+      "utc": "2026-11-17T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-17-motor-city-cruise-grand-rapids-gold",
+      "weekend": "2026-11-17",
+      "name": "Motor City Cruise v Grand Rapids Gold",
+      "utc": "2026-11-17T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-18-wisconsin-herd-windy-city-bulls",
+      "weekend": "2026-11-18",
+      "name": "Wisconsin Herd v Windy City Bulls",
+      "utc": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-18-noblesville-boom-sioux-falls-skyforce",
+      "weekend": "2026-11-18",
+      "name": "Noblesville Boom v Sioux Falls Skyforce",
+      "utc": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-18-cleveland-charge-iowa-wolves",
+      "weekend": "2026-11-18",
+      "name": "Cleveland Charge v Iowa Wolves",
+      "utc": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-18-rio-grande-valley-vipers-austin-spurs",
+      "weekend": "2026-11-18",
+      "name": "Rio Grande Valley Vipers v Austin Spurs",
+      "utc": "2026-11-18T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-18-greensboro-swarm-capital-city-go-go",
+      "weekend": "2026-11-18",
+      "name": "Greensboro Swarm v Capital City Go-Go",
+      "utc": "2026-11-18T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-19-motor-city-cruise-grand-rapids-gold",
+      "weekend": "2026-11-19",
+      "name": "Motor City Cruise v Grand Rapids Gold",
+      "utc": "2026-11-19T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-19-long-island-nets-delaware-blue-coats",
+      "weekend": "2026-11-19",
+      "name": "Long Island Nets v Delaware Blue Coats",
+      "utc": "2026-11-19T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-19-valley-suns-salt-lake-city-stars",
+      "weekend": "2026-11-19",
+      "name": "Valley Suns v Salt Lake City Stars",
+      "utc": "2026-11-19T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-19-osceola-magic-austin-spurs",
+      "weekend": "2026-11-19",
+      "name": "Osceola Magic v Austin Spurs",
+      "utc": "2026-11-19T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-19-memphis-hustle-texas-legends",
+      "weekend": "2026-11-19",
+      "name": "Memphis Hustle v Texas Legends",
+      "utc": "2026-11-19T16:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-20-oklahoma-city-blue-mexico-city-capitanes",
+      "weekend": "2026-11-20",
+      "name": "Oklahoma City Blue v Mexico City Capitanes",
+      "utc": "2026-11-20T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-20-coachella-valley-lakers-stockton-kings",
+      "weekend": "2026-11-20",
+      "name": "Coachella Valley Lakers v Stockton Kings",
+      "utc": "2026-11-20T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-21-maine-celtics-capital-city-go-go",
+      "weekend": "2026-11-21",
+      "name": "Maine Celtics v Capital City Go-Go",
+      "utc": "2026-11-21T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-21-grand-rapids-gold-cleveland-charge",
+      "weekend": "2026-11-21",
+      "name": "Grand Rapids Gold v Cleveland Charge",
+      "utc": "2026-11-21T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-21-college-park-skyhawks-delaware-blue-coats",
+      "weekend": "2026-11-21",
+      "name": "College Park Skyhawks v Delaware Blue Coats",
+      "utc": "2026-11-21T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-21-raptors-905-westchester-knicks",
+      "weekend": "2026-11-21",
+      "name": "Raptors 905 v Westchester Knicks",
+      "utc": "2026-11-21T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-21-rip-city-remix-santa-cruz-warriors",
+      "weekend": "2026-11-21",
+      "name": "Rip City Remix v Santa Cruz Warriors",
+      "utc": "2026-11-21T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-21-sioux-falls-skyforce-windy-city-bulls",
+      "weekend": "2026-11-21",
+      "name": "Sioux Falls Skyforce v Windy City Bulls",
+      "utc": "2026-11-21T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-21-rio-grande-valley-vipers-laketown-squadron",
+      "weekend": "2026-11-21",
+      "name": "Rio Grande Valley Vipers v Laketown Squadron",
+      "utc": "2026-11-21T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-21-san-diego-clippers-valley-suns",
+      "weekend": "2026-11-21",
+      "name": "San Diego Clippers v Valley Suns",
+      "utc": "2026-11-21T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-21-coachella-valley-lakers-stockton-kings",
+      "weekend": "2026-11-21",
+      "name": "Coachella Valley Lakers v Stockton Kings",
+      "utc": "2026-11-21T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-21-rip-city-remix-santa-cruz-warriors-2",
+      "weekend": "2026-11-21",
+      "name": "Rip City Remix v Santa Cruz Warriors",
+      "utc": "2026-11-21T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-22-wisconsin-herd-noblesville-boom",
+      "weekend": "2026-11-22",
+      "name": "Wisconsin Herd v Noblesville Boom",
+      "utc": "2026-11-22T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-22-texas-legends-memphis-hustle",
+      "weekend": "2026-11-22",
+      "name": "Texas Legends v Memphis Hustle",
+      "utc": "2026-11-22T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-22-sioux-falls-skyforce-windy-city-bulls",
+      "weekend": "2026-11-22",
+      "name": "Sioux Falls Skyforce v Windy City Bulls",
+      "utc": "2026-11-22T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-22-iowa-wolves-motor-city-cruise",
+      "weekend": "2026-11-22",
+      "name": "Iowa Wolves v Motor City Cruise",
+      "utc": "2026-11-22T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-22-rio-grande-valley-vipers-laketown-squadron",
+      "weekend": "2026-11-22",
+      "name": "Rio Grande Valley Vipers v Laketown Squadron",
+      "utc": "2026-11-22T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-22-maine-celtics-capital-city-go-go",
+      "weekend": "2026-11-22",
+      "name": "Maine Celtics v Capital City Go-Go",
+      "utc": "2026-11-22T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-22-raptors-905-westchester-knicks",
+      "weekend": "2026-11-22",
+      "name": "Raptors 905 v Westchester Knicks",
+      "utc": "2026-11-22T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-22-college-park-skyhawks-delaware-blue-coats",
+      "weekend": "2026-11-22",
+      "name": "College Park Skyhawks v Delaware Blue Coats",
+      "utc": "2026-11-22T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-22-oklahoma-city-blue-austin-spurs",
+      "weekend": "2026-11-22",
+      "name": "Oklahoma City Blue v Austin Spurs",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-22-grand-rapids-gold-cleveland-charge",
+      "weekend": "2026-11-22",
+      "name": "Grand Rapids Gold v Cleveland Charge",
+      "utc": "2026-11-22T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-23-san-diego-clippers-coachella-valley-lakers",
+      "weekend": "2026-11-23",
+      "name": "San Diego Clippers v Coachella Valley Lakers",
+      "utc": "2026-11-23T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-24-stockton-kings-salt-lake-city-stars",
+      "weekend": "2026-11-24",
+      "name": "Stockton Kings v Salt Lake City Stars",
+      "utc": "2026-11-24T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-25-capital-city-go-go-long-island-nets",
+      "weekend": "2026-11-25",
+      "name": "Capital City Go-Go v Long Island Nets",
+      "utc": "2026-11-25T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-25-laketown-squadron-osceola-magic",
+      "weekend": "2026-11-25",
+      "name": "Laketown Squadron v Osceola Magic",
+      "utc": "2026-11-25T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-25-oklahoma-city-blue-austin-spurs",
+      "weekend": "2026-11-25",
+      "name": "Oklahoma City Blue v Austin Spurs",
+      "utc": "2026-11-25T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-26-westchester-knicks-greensboro-swarm",
+      "weekend": "2026-11-26",
+      "name": "Westchester Knicks v Greensboro Swarm",
+      "utc": "2026-11-26T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-26-sioux-falls-skyforce-cleveland-charge",
+      "weekend": "2026-11-26",
+      "name": "Sioux Falls Skyforce v Cleveland Charge",
+      "utc": "2026-11-26T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-26-laketown-squadron-osceola-magic",
+      "weekend": "2026-11-26",
+      "name": "Laketown Squadron v Osceola Magic",
+      "utc": "2026-11-26T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-27-westchester-knicks-capital-city-go-go",
+      "weekend": "2026-11-27",
+      "name": "Westchester Knicks v Capital City Go-Go",
+      "utc": "2026-11-27T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-27-long-island-nets-maine-celtics",
+      "weekend": "2026-11-27",
+      "name": "Long Island Nets v Maine Celtics",
+      "utc": "2026-11-27T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-27-delaware-blue-coats-raptors-905",
+      "weekend": "2026-11-27",
+      "name": "Delaware Blue Coats v Raptors 905",
+      "utc": "2026-11-27T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-27-motor-city-cruise-windy-city-bulls",
+      "weekend": "2026-11-27",
+      "name": "Motor City Cruise v Windy City Bulls",
+      "utc": "2026-11-27T23:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-28-greensboro-swarm-college-park-skyhawks",
+      "weekend": "2026-11-28",
+      "name": "Greensboro Swarm v College Park Skyhawks",
+      "utc": "2026-11-28T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-28-texas-legends-osceola-magic",
+      "weekend": "2026-11-28",
+      "name": "Texas Legends v Osceola Magic",
+      "utc": "2026-11-28T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-28-sioux-falls-skyforce-wisconsin-herd",
+      "weekend": "2026-11-28",
+      "name": "Sioux Falls Skyforce v Wisconsin Herd",
+      "utc": "2026-11-28T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-28-santa-cruz-warriors-valley-suns",
+      "weekend": "2026-11-28",
+      "name": "Santa Cruz Warriors v Valley Suns",
+      "utc": "2026-11-28T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-28-austin-spurs-mexico-city-capitanes",
+      "weekend": "2026-11-28",
+      "name": "Austin Spurs v Mexico City Capitanes",
+      "utc": "2026-11-28T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-28-long-island-nets-maine-celtics",
+      "weekend": "2026-11-28",
+      "name": "Long Island Nets v Maine Celtics",
+      "utc": "2026-11-28T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-28-salt-lake-city-stars-stockton-kings",
+      "weekend": "2026-11-28",
+      "name": "Salt Lake City Stars v Stockton Kings",
+      "utc": "2026-11-28T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-28-greensboro-swarm-college-park-skyhawks-2",
+      "weekend": "2026-11-28",
+      "name": "Greensboro Swarm v College Park Skyhawks",
+      "utc": "2026-11-28T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-grand-rapids-gold-noblesville-boom",
+      "weekend": "2026-11-29",
+      "name": "Grand Rapids Gold v Noblesville Boom",
+      "utc": "2026-11-29T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-cleveland-charge-iowa-wolves",
+      "weekend": "2026-11-29",
+      "name": "Cleveland Charge v Iowa Wolves",
+      "utc": "2026-11-29T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-rio-grande-valley-vipers-memphis-hustle",
+      "weekend": "2026-11-29",
+      "name": "Rio Grande Valley Vipers v Memphis Hustle",
+      "utc": "2026-11-29T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-santa-cruz-warriors-valley-suns",
+      "weekend": "2026-11-29",
+      "name": "Santa Cruz Warriors v Valley Suns",
+      "utc": "2026-11-29T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-westchester-knicks-capital-city-go-go",
+      "weekend": "2026-11-29",
+      "name": "Westchester Knicks v Capital City Go-Go",
+      "utc": "2026-11-29T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-delaware-blue-coats-raptors-905",
+      "weekend": "2026-11-29",
+      "name": "Delaware Blue Coats v Raptors 905",
+      "utc": "2026-11-29T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-motor-city-cruise-windy-city-bulls",
+      "weekend": "2026-11-29",
+      "name": "Motor City Cruise v Windy City Bulls",
+      "utc": "2026-11-29T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-texas-legends-osceola-magic",
+      "weekend": "2026-11-29",
+      "name": "Texas Legends v Osceola Magic",
+      "utc": "2026-11-29T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-sioux-falls-skyforce-wisconsin-herd",
+      "weekend": "2026-11-29",
+      "name": "Sioux Falls Skyforce v Wisconsin Herd",
+      "utc": "2026-11-29T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-austin-spurs-mexico-city-capitanes",
+      "weekend": "2026-11-29",
+      "name": "Austin Spurs v Mexico City Capitanes",
+      "utc": "2026-11-29T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-salt-lake-city-stars-san-diego-clippers",
+      "weekend": "2026-11-29",
+      "name": "Salt Lake City Stars v San Diego Clippers",
+      "utc": "2026-11-29T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-11-29-coachella-valley-lakers-rip-city-remix",
+      "weekend": "2026-11-29",
+      "name": "Coachella Valley Lakers v Rip City Remix",
+      "utc": "2026-11-29T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-01-college-park-skyhawks-maine-celtics",
+      "weekend": "2026-12-01",
+      "name": "College Park Skyhawks v Maine Celtics",
+      "utc": "2026-12-01T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-01-rio-grande-valley-vipers-memphis-hustle",
+      "weekend": "2026-12-01",
+      "name": "Rio Grande Valley Vipers v Memphis Hustle",
+      "utc": "2026-12-01T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-01-laketown-squadron-austin-spurs",
+      "weekend": "2026-12-01",
+      "name": "Laketown Squadron v Austin Spurs",
+      "utc": "2026-12-01T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-01-wisconsin-herd-cleveland-charge",
+      "weekend": "2026-12-01",
+      "name": "Wisconsin Herd v Cleveland Charge",
+      "utc": "2026-12-01T17:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-02-salt-lake-city-stars-san-diego-clippers",
+      "weekend": "2026-12-02",
+      "name": "Salt Lake City Stars v San Diego Clippers",
+      "utc": "2026-12-02T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-02-stockton-kings-santa-cruz-warriors",
+      "weekend": "2026-12-02",
+      "name": "Stockton Kings v Santa Cruz Warriors",
+      "utc": "2026-12-02T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-02-college-park-skyhawks-maine-celtics",
+      "weekend": "2026-12-02",
+      "name": "College Park Skyhawks v Maine Celtics",
+      "utc": "2026-12-02T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-02-rio-grande-valley-vipers-oklahoma-city-blue",
+      "weekend": "2026-12-02",
+      "name": "Rio Grande Valley Vipers v Oklahoma City Blue",
+      "utc": "2026-12-02T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-02-laketown-squadron-mexico-city-capitanes",
+      "weekend": "2026-12-02",
+      "name": "Laketown Squadron v Mexico City Capitanes",
+      "utc": "2026-12-02T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-02-wisconsin-herd-cleveland-charge",
+      "weekend": "2026-12-02",
+      "name": "Wisconsin Herd v Cleveland Charge",
+      "utc": "2026-12-02T17:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-03-noblesville-boom-grand-rapids-gold",
+      "weekend": "2026-12-03",
+      "name": "Noblesville Boom v Grand Rapids Gold",
+      "utc": "2026-12-03T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-04-capital-city-go-go-long-island-nets",
+      "weekend": "2026-12-04",
+      "name": "Capital City Go-Go v Long Island Nets",
+      "utc": "2026-12-04T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-04-rip-city-remix-valley-suns",
+      "weekend": "2026-12-04",
+      "name": "Rip City Remix v Valley Suns",
+      "utc": "2026-12-04T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-04-san-diego-clippers-stockton-kings",
+      "weekend": "2026-12-04",
+      "name": "San Diego Clippers v Stockton Kings",
+      "utc": "2026-12-04T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-04-coachella-valley-lakers-salt-lake-city-stars",
+      "weekend": "2026-12-04",
+      "name": "Coachella Valley Lakers v Salt Lake City Stars",
+      "utc": "2026-12-04T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-05-westchester-knicks-college-park-skyhawks",
+      "weekend": "2026-12-05",
+      "name": "Westchester Knicks v College Park Skyhawks",
+      "utc": "2026-12-05T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-05-noblesville-boom-cleveland-charge",
+      "weekend": "2026-12-05",
+      "name": "Noblesville Boom v Cleveland Charge",
+      "utc": "2026-12-05T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-05-greensboro-swarm-delaware-blue-coats",
+      "weekend": "2026-12-05",
+      "name": "Greensboro Swarm v Delaware Blue Coats",
+      "utc": "2026-12-05T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-05-windy-city-bulls-iowa-wolves",
+      "weekend": "2026-12-05",
+      "name": "Windy City Bulls v Iowa Wolves",
+      "utc": "2026-12-05T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-05-sioux-falls-skyforce-motor-city-cruise",
+      "weekend": "2026-12-05",
+      "name": "Sioux Falls Skyforce v Motor City Cruise",
+      "utc": "2026-12-05T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-05-memphis-hustle-laketown-squadron",
+      "weekend": "2026-12-05",
+      "name": "Memphis Hustle v Laketown Squadron",
+      "utc": "2026-12-05T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-05-rip-city-remix-valley-suns",
+      "weekend": "2026-12-05",
+      "name": "Rip City Remix v Valley Suns",
+      "utc": "2026-12-05T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-grand-rapids-gold-wisconsin-herd",
+      "weekend": "2026-12-06",
+      "name": "Grand Rapids Gold v Wisconsin Herd",
+      "utc": "2026-12-06T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-sioux-falls-skyforce-motor-city-cruise",
+      "weekend": "2026-12-06",
+      "name": "Sioux Falls Skyforce v Motor City Cruise",
+      "utc": "2026-12-06T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-oklahoma-city-blue-texas-legends",
+      "weekend": "2026-12-06",
+      "name": "Oklahoma City Blue v Texas Legends",
+      "utc": "2026-12-06T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-memphis-hustle-laketown-squadron",
+      "weekend": "2026-12-06",
+      "name": "Memphis Hustle v Laketown Squadron",
+      "utc": "2026-12-06T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-raptors-905-maine-celtics",
+      "weekend": "2026-12-06",
+      "name": "Raptors 905 v Maine Celtics",
+      "utc": "2026-12-06T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-noblesville-boom-cleveland-charge",
+      "weekend": "2026-12-06",
+      "name": "Noblesville Boom v Cleveland Charge",
+      "utc": "2026-12-06T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-windy-city-bulls-iowa-wolves",
+      "weekend": "2026-12-06",
+      "name": "Windy City Bulls v Iowa Wolves",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-westchester-knicks-college-park-skyhawks",
+      "weekend": "2026-12-06",
+      "name": "Westchester Knicks v College Park Skyhawks",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-osceola-magic-austin-spurs",
+      "weekend": "2026-12-06",
+      "name": "Osceola Magic v Austin Spurs",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-greensboro-swarm-delaware-blue-coats",
+      "weekend": "2026-12-06",
+      "name": "Greensboro Swarm v Delaware Blue Coats",
+      "utc": "2026-12-06T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-santa-cruz-warriors-salt-lake-city-stars",
+      "weekend": "2026-12-06",
+      "name": "Santa Cruz Warriors v Salt Lake City Stars",
+      "utc": "2026-12-06T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-06-rip-city-remix-coachella-valley-lakers",
+      "weekend": "2026-12-06",
+      "name": "Rip City Remix v Coachella Valley Lakers",
+      "utc": "2026-12-06T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-07-san-diego-clippers-stockton-kings",
+      "weekend": "2026-12-07",
+      "name": "San Diego Clippers v Stockton Kings",
+      "utc": "2026-12-07T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-08-oklahoma-city-blue-texas-legends",
+      "weekend": "2026-12-08",
+      "name": "Oklahoma City Blue v Texas Legends",
+      "utc": "2026-12-08T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-08-mexico-city-capitanes-rio-grande-valley-vipers",
+      "weekend": "2026-12-08",
+      "name": "Mexico City Capitanes v Rio Grande Valley Vipers",
+      "utc": "2026-12-08T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-09-long-island-nets-westchester-knicks",
+      "weekend": "2026-12-09",
+      "name": "Long Island Nets v Westchester Knicks",
+      "utc": "2026-12-09T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-09-grand-rapids-gold-wisconsin-herd",
+      "weekend": "2026-12-09",
+      "name": "Grand Rapids Gold v Wisconsin Herd",
+      "utc": "2026-12-09T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-09-iowa-wolves-sioux-falls-skyforce",
+      "weekend": "2026-12-09",
+      "name": "Iowa Wolves v Sioux Falls Skyforce",
+      "utc": "2026-12-09T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-09-salt-lake-city-stars-santa-cruz-warriors",
+      "weekend": "2026-12-09",
+      "name": "Salt Lake City Stars v Santa Cruz Warriors",
+      "utc": "2026-12-09T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-09-rip-city-remix-coachella-valley-lakers",
+      "weekend": "2026-12-09",
+      "name": "Rip City Remix v Coachella Valley Lakers",
+      "utc": "2026-12-09T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-09-mexico-city-capitanes-rio-grande-valley-vipers",
+      "weekend": "2026-12-09",
+      "name": "Mexico City Capitanes v Rio Grande Valley Vipers",
+      "utc": "2026-12-09T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-09-capital-city-go-go-college-park-skyhawks",
+      "weekend": "2026-12-09",
+      "name": "Capital City Go-Go v College Park Skyhawks",
+      "utc": "2026-12-09T16:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-10-salt-lake-city-stars-santa-cruz-warriors",
+      "weekend": "2026-12-10",
+      "name": "Salt Lake City Stars v Santa Cruz Warriors",
+      "utc": "2026-12-10T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-10-austin-spurs-memphis-hustle",
+      "weekend": "2026-12-10",
+      "name": "Austin Spurs v Memphis Hustle",
+      "utc": "2026-12-10T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-11-noblesville-boom-sioux-falls-skyforce",
+      "weekend": "2026-12-11",
+      "name": "Noblesville Boom v Sioux Falls Skyforce",
+      "utc": "2026-12-11T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-11-motor-city-cruise-iowa-wolves",
+      "weekend": "2026-12-11",
+      "name": "Motor City Cruise v Iowa Wolves",
+      "utc": "2026-12-11T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-11-valley-suns-stockton-kings",
+      "weekend": "2026-12-11",
+      "name": "Valley Suns v Stockton Kings",
+      "utc": "2026-12-11T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-12-maine-celtics-greensboro-swarm",
+      "weekend": "2026-12-12",
+      "name": "Maine Celtics v Greensboro Swarm",
+      "utc": "2026-12-12T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-12-delaware-blue-coats-westchester-knicks",
+      "weekend": "2026-12-12",
+      "name": "Delaware Blue Coats v Westchester Knicks",
+      "utc": "2026-12-12T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-12-cleveland-charge-windy-city-bulls",
+      "weekend": "2026-12-12",
+      "name": "Cleveland Charge v Windy City Bulls",
+      "utc": "2026-12-12T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-12-capital-city-go-go-college-park-skyhawks",
+      "weekend": "2026-12-12",
+      "name": "Capital City Go-Go v College Park Skyhawks",
+      "utc": "2026-12-12T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-12-raptors-905-long-island-nets",
+      "weekend": "2026-12-12",
+      "name": "Raptors 905 v Long Island Nets",
+      "utc": "2026-12-12T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-12-texas-legends-laketown-squadron",
+      "weekend": "2026-12-12",
+      "name": "Texas Legends v Laketown Squadron",
+      "utc": "2026-12-12T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-12-memphis-hustle-osceola-magic",
+      "weekend": "2026-12-12",
+      "name": "Memphis Hustle v Osceola Magic",
+      "utc": "2026-12-12T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-12-santa-cruz-warriors-coachella-valley-lakers",
+      "weekend": "2026-12-12",
+      "name": "Santa Cruz Warriors v Coachella Valley Lakers",
+      "utc": "2026-12-12T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-12-san-diego-clippers-rip-city-remix",
+      "weekend": "2026-12-12",
+      "name": "San Diego Clippers v Rip City Remix",
+      "utc": "2026-12-12T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-12-wisconsin-herd-motor-city-cruise",
+      "weekend": "2026-12-12",
+      "name": "Wisconsin Herd v Motor City Cruise",
+      "utc": "2026-12-12T18:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-12-cleveland-charge-windy-city-bulls-2",
+      "weekend": "2026-12-12",
+      "name": "Cleveland Charge v Windy City Bulls",
+      "utc": "2026-12-12T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-13-maine-celtics-greensboro-swarm",
+      "weekend": "2026-12-13",
+      "name": "Maine Celtics v Greensboro Swarm",
+      "utc": "2026-12-13T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-13-texas-legends-laketown-squadron",
+      "weekend": "2026-12-13",
+      "name": "Texas Legends v Laketown Squadron",
+      "utc": "2026-12-13T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-13-iowa-wolves-grand-rapids-gold",
+      "weekend": "2026-12-13",
+      "name": "Iowa Wolves v Grand Rapids Gold",
+      "utc": "2026-12-13T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-13-san-diego-clippers-rip-city-remix",
+      "weekend": "2026-12-13",
+      "name": "San Diego Clippers v Rip City Remix",
+      "utc": "2026-12-13T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-13-wisconsin-herd-motor-city-cruise",
+      "weekend": "2026-12-13",
+      "name": "Wisconsin Herd v Motor City Cruise",
+      "utc": "2026-12-13T18:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-13-raptors-905-long-island-nets",
+      "weekend": "2026-12-13",
+      "name": "Raptors 905 v Long Island Nets",
+      "utc": "2026-12-13T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-13-westchester-knicks-delaware-blue-coats",
+      "weekend": "2026-12-13",
+      "name": "Westchester Knicks v Delaware Blue Coats",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-13-osceola-magic-oklahoma-city-blue",
+      "weekend": "2026-12-13",
+      "name": "Osceola Magic v Oklahoma City Blue",
+      "utc": "2026-12-13T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-13-valley-suns-stockton-kings",
+      "weekend": "2026-12-13",
+      "name": "Valley Suns v Stockton Kings",
+      "utc": "2026-12-13T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-13-iowa-wolves-grand-rapids-gold-2",
+      "weekend": "2026-12-13",
+      "name": "Iowa Wolves v Grand Rapids Gold",
+      "utc": "2026-12-13T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-14-santa-cruz-warriors-coachella-valley-lakers",
+      "weekend": "2026-12-14",
+      "name": "Santa Cruz Warriors v Coachella Valley Lakers",
+      "utc": "2026-12-14T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-15-austin-spurs-texas-legends",
+      "weekend": "2026-12-15",
+      "name": "Austin Spurs v Texas Legends",
+      "utc": "2026-12-15T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-15-mexico-city-capitanes-memphis-hustle",
+      "weekend": "2026-12-15",
+      "name": "Mexico City Capitanes v Memphis Hustle",
+      "utc": "2026-12-15T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-15-rip-city-remix-san-diego-clippers",
+      "weekend": "2026-12-15",
+      "name": "Rip City Remix v San Diego Clippers",
+      "utc": "2026-12-15T18:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-16-wisconsin-herd-noblesville-boom",
+      "weekend": "2026-12-16",
+      "name": "Wisconsin Herd v Noblesville Boom",
+      "utc": "2026-12-16T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-16-osceola-magic-rio-grande-valley-vipers",
+      "weekend": "2026-12-16",
+      "name": "Osceola Magic v Rio Grande Valley Vipers",
+      "utc": "2026-12-16T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-16-cleveland-charge-motor-city-cruise",
+      "weekend": "2026-12-16",
+      "name": "Cleveland Charge v Motor City Cruise",
+      "utc": "2026-12-16T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-16-capital-city-go-go-greensboro-swarm",
+      "weekend": "2026-12-16",
+      "name": "Capital City Go-Go v Greensboro Swarm",
+      "utc": "2026-12-16T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-16-laketown-squadron-oklahoma-city-blue",
+      "weekend": "2026-12-16",
+      "name": "Laketown Squadron v Oklahoma City Blue",
+      "utc": "2026-12-16T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-16-iowa-wolves-sioux-falls-skyforce",
+      "weekend": "2026-12-16",
+      "name": "Iowa Wolves v Sioux Falls Skyforce",
+      "utc": "2026-12-16T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-16-valley-suns-santa-cruz-warriors",
+      "weekend": "2026-12-16",
+      "name": "Valley Suns v Santa Cruz Warriors",
+      "utc": "2026-12-16T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-16-mexico-city-capitanes-memphis-hustle",
+      "weekend": "2026-12-16",
+      "name": "Mexico City Capitanes v Memphis Hustle",
+      "utc": "2026-12-16T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-16-stockton-kings-salt-lake-city-stars",
+      "weekend": "2026-12-16",
+      "name": "Stockton Kings v Salt Lake City Stars",
+      "utc": "2026-12-16T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-17-osceola-magic-rio-grande-valley-vipers",
+      "weekend": "2026-12-17",
+      "name": "Osceola Magic v Rio Grande Valley Vipers",
+      "utc": "2026-12-17T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-17-maine-celtics-raptors-905",
+      "weekend": "2026-12-17",
+      "name": "Maine Celtics v Raptors 905",
+      "utc": "2026-12-17T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-17-long-island-nets-westchester-knicks",
+      "weekend": "2026-12-17",
+      "name": "Long Island Nets v Westchester Knicks",
+      "utc": "2026-12-17T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-17-austin-spurs-texas-legends",
+      "weekend": "2026-12-17",
+      "name": "Austin Spurs v Texas Legends",
+      "utc": "2026-12-17T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-27-westchester-knicks-long-island-nets",
+      "weekend": "2026-12-27",
+      "name": "Westchester Knicks v Long Island Nets",
+      "utc": "2026-12-27T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-27-maine-celtics-capital-city-go-go",
+      "weekend": "2026-12-27",
+      "name": "Maine Celtics v Capital City Go-Go",
+      "utc": "2026-12-27T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-27-noblesville-boom-motor-city-cruise",
+      "weekend": "2026-12-27",
+      "name": "Noblesville Boom v Motor City Cruise",
+      "utc": "2026-12-27T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-27-grand-rapids-gold-osceola-magic",
+      "weekend": "2026-12-27",
+      "name": "Grand Rapids Gold v Osceola Magic",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-27-delaware-blue-coats-wisconsin-herd",
+      "weekend": "2026-12-27",
+      "name": "Delaware Blue Coats v Wisconsin Herd",
+      "utc": "2026-12-27T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-27-iowa-wolves-memphis-hustle",
+      "weekend": "2026-12-27",
+      "name": "Iowa Wolves v Memphis Hustle",
+      "utc": "2026-12-27T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-27-austin-spurs-stockton-kings",
+      "weekend": "2026-12-27",
+      "name": "Austin Spurs v Stockton Kings",
+      "utc": "2026-12-27T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-27-mexico-city-capitanes-valley-suns",
+      "weekend": "2026-12-27",
+      "name": "Mexico City Capitanes v Valley Suns",
+      "utc": "2026-12-27T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-27-greensboro-swarm-laketown-squadron",
+      "weekend": "2026-12-27",
+      "name": "Greensboro Swarm v Laketown Squadron",
+      "utc": "2026-12-27T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-28-raptors-905-cleveland-charge",
+      "weekend": "2026-12-28",
+      "name": "Raptors 905 v Cleveland Charge",
+      "utc": "2026-12-28T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-28-santa-cruz-warriors-rio-grande-valley-vipers",
+      "weekend": "2026-12-28",
+      "name": "Santa Cruz Warriors v Rio Grande Valley Vipers",
+      "utc": "2026-12-28T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-29-greensboro-swarm-windy-city-bulls",
+      "weekend": "2026-12-29",
+      "name": "Greensboro Swarm v Windy City Bulls",
+      "utc": "2026-12-29T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-29-iowa-wolves-memphis-hustle",
+      "weekend": "2026-12-29",
+      "name": "Iowa Wolves v Memphis Hustle",
+      "utc": "2026-12-29T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-29-texas-legends-stockton-kings",
+      "weekend": "2026-12-29",
+      "name": "Texas Legends v Stockton Kings",
+      "utc": "2026-12-29T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-29-oklahoma-city-blue-salt-lake-city-stars",
+      "weekend": "2026-12-29",
+      "name": "Oklahoma City Blue v Salt Lake City Stars",
+      "utc": "2026-12-29T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-29-san-diego-clippers-coachella-valley-lakers",
+      "weekend": "2026-12-29",
+      "name": "San Diego Clippers v Coachella Valley Lakers",
+      "utc": "2026-12-29T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-29-noblesville-boom-motor-city-cruise",
+      "weekend": "2026-12-29",
+      "name": "Noblesville Boom v Motor City Cruise",
+      "utc": "2026-12-29T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-29-college-park-skyhawks-capital-city-go-go",
+      "weekend": "2026-12-29",
+      "name": "College Park Skyhawks v Capital City Go-Go",
+      "utc": "2026-12-29T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-29-rip-city-remix-sioux-falls-skyforce",
+      "weekend": "2026-12-29",
+      "name": "Rip City Remix v Sioux Falls Skyforce",
+      "utc": "2026-12-29T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-29-delaware-blue-coats-wisconsin-herd",
+      "weekend": "2026-12-29",
+      "name": "Delaware Blue Coats v Wisconsin Herd",
+      "utc": "2026-12-29T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-30-westchester-knicks-long-island-nets",
+      "weekend": "2026-12-30",
+      "name": "Westchester Knicks v Long Island Nets",
+      "utc": "2026-12-30T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-30-cleveland-charge-grand-rapids-gold",
+      "weekend": "2026-12-30",
+      "name": "Cleveland Charge v Grand Rapids Gold",
+      "utc": "2026-12-30T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-30-mexico-city-capitanes-valley-suns",
+      "weekend": "2026-12-30",
+      "name": "Mexico City Capitanes v Valley Suns",
+      "utc": "2026-12-30T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-30-santa-cruz-warriors-rio-grande-valley-vipers",
+      "weekend": "2026-12-30",
+      "name": "Santa Cruz Warriors v Rio Grande Valley Vipers",
+      "utc": "2026-12-30T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-30-san-diego-clippers-austin-spurs",
+      "weekend": "2026-12-30",
+      "name": "San Diego Clippers v Austin Spurs",
+      "utc": "2026-12-30T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-31-greensboro-swarm-windy-city-bulls",
+      "weekend": "2026-12-31",
+      "name": "Greensboro Swarm v Windy City Bulls",
+      "utc": "2026-12-31T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-31-college-park-skyhawks-capital-city-go-go",
+      "weekend": "2026-12-31",
+      "name": "College Park Skyhawks v Capital City Go-Go",
+      "utc": "2026-12-31T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-31-iowa-wolves-stockton-kings",
+      "weekend": "2026-12-31",
+      "name": "Iowa Wolves v Stockton Kings",
+      "utc": "2026-12-31T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-31-oklahoma-city-blue-salt-lake-city-stars",
+      "weekend": "2026-12-31",
+      "name": "Oklahoma City Blue v Salt Lake City Stars",
+      "utc": "2026-12-31T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-31-coachella-valley-lakers-memphis-hustle",
+      "weekend": "2026-12-31",
+      "name": "Coachella Valley Lakers v Memphis Hustle",
+      "utc": "2026-12-31T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-31-maine-celtics-motor-city-cruise",
+      "weekend": "2026-12-31",
+      "name": "Maine Celtics v Motor City Cruise",
+      "utc": "2026-12-31T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-31-cleveland-charge-delaware-blue-coats",
+      "weekend": "2026-12-31",
+      "name": "Cleveland Charge v Delaware Blue Coats",
+      "utc": "2026-12-31T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-31-raptors-905-noblesville-boom",
+      "weekend": "2026-12-31",
+      "name": "Raptors 905 v Noblesville Boom",
+      "utc": "2026-12-31T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2026-12-31-rip-city-remix-sioux-falls-skyforce",
+      "weekend": "2026-12-31",
+      "name": "Rip City Remix v Sioux Falls Skyforce",
+      "utc": "2026-12-31T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-01-san-diego-clippers-austin-spurs",
+      "weekend": "2027-01-01",
+      "name": "San Diego Clippers v Austin Spurs",
+      "utc": "2027-01-01T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-01-laketown-squadron-wisconsin-herd",
+      "weekend": "2027-01-01",
+      "name": "Laketown Squadron v Wisconsin Herd",
+      "utc": "2027-01-01T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-01-westchester-knicks-osceola-magic",
+      "weekend": "2027-01-01",
+      "name": "Westchester Knicks v Osceola Magic",
+      "utc": "2027-01-01T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-02-grand-rapids-gold-windy-city-bulls",
+      "weekend": "2027-01-02",
+      "name": "Grand Rapids Gold v Windy City Bulls",
+      "utc": "2027-01-02T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-02-maine-celtics-motor-city-cruise",
+      "weekend": "2027-01-02",
+      "name": "Maine Celtics v Motor City Cruise",
+      "utc": "2027-01-02T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-02-laketown-squadron-wisconsin-herd",
+      "weekend": "2027-01-02",
+      "name": "Laketown Squadron v Wisconsin Herd",
+      "utc": "2027-01-02T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-02-raptors-905-college-park-skyhawks",
+      "weekend": "2027-01-02",
+      "name": "Raptors 905 v College Park Skyhawks",
+      "utc": "2027-01-02T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-grand-rapids-gold-windy-city-bulls",
+      "weekend": "2027-01-03",
+      "name": "Grand Rapids Gold v Windy City Bulls",
+      "utc": "2027-01-03T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-cleveland-charge-delaware-blue-coats",
+      "weekend": "2027-01-03",
+      "name": "Cleveland Charge v Delaware Blue Coats",
+      "utc": "2027-01-03T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-texas-legends-valley-suns",
+      "weekend": "2027-01-03",
+      "name": "Texas Legends v Valley Suns",
+      "utc": "2027-01-03T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-memphis-hustle-san-diego-clippers",
+      "weekend": "2027-01-03",
+      "name": "Memphis Hustle v San Diego Clippers",
+      "utc": "2027-01-03T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-iowa-wolves-salt-lake-city-stars",
+      "weekend": "2027-01-03",
+      "name": "Iowa Wolves v Salt Lake City Stars",
+      "utc": "2027-01-03T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-rio-grande-valley-vipers-santa-cruz-warriors",
+      "weekend": "2027-01-03",
+      "name": "Rio Grande Valley Vipers v Santa Cruz Warriors",
+      "utc": "2027-01-03T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-maine-celtics-long-island-nets",
+      "weekend": "2027-01-03",
+      "name": "Maine Celtics v Long Island Nets",
+      "utc": "2027-01-03T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-raptors-905-college-park-skyhawks",
+      "weekend": "2027-01-03",
+      "name": "Raptors 905 v College Park Skyhawks",
+      "utc": "2027-01-03T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-westchester-knicks-osceola-magic",
+      "weekend": "2027-01-03",
+      "name": "Westchester Knicks v Osceola Magic",
+      "utc": "2027-01-03T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-sioux-falls-skyforce-oklahoma-city-blue",
+      "weekend": "2027-01-03",
+      "name": "Sioux Falls Skyforce v Oklahoma City Blue",
+      "utc": "2027-01-03T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-iowa-wolves-salt-lake-city-stars-2",
+      "weekend": "2027-01-03",
+      "name": "Iowa Wolves v Salt Lake City Stars",
+      "utc": "2027-01-03T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-mexico-city-capitanes-coachella-valley-lakers",
+      "weekend": "2027-01-03",
+      "name": "Mexico City Capitanes v Coachella Valley Lakers",
+      "utc": "2027-01-03T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-noblesville-boom-greensboro-swarm",
+      "weekend": "2027-01-03",
+      "name": "Noblesville Boom v Greensboro Swarm",
+      "utc": "2027-01-03T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-03-stockton-kings-austin-spurs",
+      "weekend": "2027-01-03",
+      "name": "Stockton Kings v Austin Spurs",
+      "utc": "2027-01-03T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-05-westchester-knicks-delaware-blue-coats",
+      "weekend": "2027-01-05",
+      "name": "Westchester Knicks v Delaware Blue Coats",
+      "utc": "2027-01-05T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-05-capital-city-go-go-wisconsin-herd",
+      "weekend": "2027-01-05",
+      "name": "Capital City Go-Go v Wisconsin Herd",
+      "utc": "2027-01-05T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-05-memphis-hustle-san-diego-clippers",
+      "weekend": "2027-01-05",
+      "name": "Memphis Hustle v San Diego Clippers",
+      "utc": "2027-01-05T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-06-mexico-city-capitanes-coachella-valley-lakers",
+      "weekend": "2027-01-06",
+      "name": "Mexico City Capitanes v Coachella Valley Lakers",
+      "utc": "2027-01-06T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-06-grand-rapids-gold-long-island-nets",
+      "weekend": "2027-01-06",
+      "name": "Grand Rapids Gold v Long Island Nets",
+      "utc": "2027-01-06T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-06-sioux-falls-skyforce-oklahoma-city-blue",
+      "weekend": "2027-01-06",
+      "name": "Sioux Falls Skyforce v Oklahoma City Blue",
+      "utc": "2027-01-06T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-06-rio-grande-valley-vipers-santa-cruz-warriors",
+      "weekend": "2027-01-06",
+      "name": "Rio Grande Valley Vipers v Santa Cruz Warriors",
+      "utc": "2027-01-06T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-06-memphis-hustle-iowa-wolves",
+      "weekend": "2027-01-06",
+      "name": "Memphis Hustle v Iowa Wolves",
+      "utc": "2027-01-06T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-06-valley-suns-texas-legends",
+      "weekend": "2027-01-06",
+      "name": "Valley Suns v Texas Legends",
+      "utc": "2027-01-06T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-06-stockton-kings-austin-spurs",
+      "weekend": "2027-01-06",
+      "name": "Stockton Kings v Austin Spurs",
+      "utc": "2027-01-06T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-07-motor-city-cruise-cleveland-charge",
+      "weekend": "2027-01-07",
+      "name": "Motor City Cruise v Cleveland Charge",
+      "utc": "2027-01-07T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-07-grand-rapids-gold-college-park-skyhawks",
+      "weekend": "2027-01-07",
+      "name": "Grand Rapids Gold v College Park Skyhawks",
+      "utc": "2027-01-07T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-07-capital-city-go-go-wisconsin-herd",
+      "weekend": "2027-01-07",
+      "name": "Capital City Go-Go v Wisconsin Herd",
+      "utc": "2027-01-07T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-07-valley-suns-san-diego-clippers",
+      "weekend": "2027-01-07",
+      "name": "Valley Suns v San Diego Clippers",
+      "utc": "2027-01-07T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-07-mexico-city-capitanes-rip-city-remix",
+      "weekend": "2027-01-07",
+      "name": "Mexico City Capitanes v Rip City Remix",
+      "utc": "2027-01-07T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-08-delaware-blue-coats-noblesville-boom",
+      "weekend": "2027-01-08",
+      "name": "Delaware Blue Coats v Noblesville Boom",
+      "utc": "2027-01-08T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-08-sioux-falls-skyforce-stockton-kings",
+      "weekend": "2027-01-08",
+      "name": "Sioux Falls Skyforce v Stockton Kings",
+      "utc": "2027-01-08T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-08-laketown-squadron-westchester-knicks",
+      "weekend": "2027-01-08",
+      "name": "Laketown Squadron v Westchester Knicks",
+      "utc": "2027-01-08T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-08-oklahoma-city-blue-rio-grande-valley-vipers",
+      "weekend": "2027-01-08",
+      "name": "Oklahoma City Blue v Rio Grande Valley Vipers",
+      "utc": "2027-01-08T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-08-motor-city-cruise-capital-city-go-go",
+      "weekend": "2027-01-08",
+      "name": "Motor City Cruise v Capital City Go-Go",
+      "utc": "2027-01-08T23:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-09-long-island-nets-raptors-905",
+      "weekend": "2027-01-09",
+      "name": "Long Island Nets v Raptors 905",
+      "utc": "2027-01-09T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-09-grand-rapids-gold-college-park-skyhawks",
+      "weekend": "2027-01-09",
+      "name": "Grand Rapids Gold v College Park Skyhawks",
+      "utc": "2027-01-09T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-09-cleveland-charge-maine-celtics",
+      "weekend": "2027-01-09",
+      "name": "Cleveland Charge v Maine Celtics",
+      "utc": "2027-01-09T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-09-wisconsin-herd-greensboro-swarm",
+      "weekend": "2027-01-09",
+      "name": "Wisconsin Herd v Greensboro Swarm",
+      "utc": "2027-01-09T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-09-windy-city-bulls-osceola-magic",
+      "weekend": "2027-01-09",
+      "name": "Windy City Bulls v Osceola Magic",
+      "utc": "2027-01-09T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-09-oklahoma-city-blue-memphis-hustle",
+      "weekend": "2027-01-09",
+      "name": "Oklahoma City Blue v Memphis Hustle",
+      "utc": "2027-01-09T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-09-austin-spurs-coachella-valley-lakers",
+      "weekend": "2027-01-09",
+      "name": "Austin Spurs v Coachella Valley Lakers",
+      "utc": "2027-01-09T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-09-mexico-city-capitanes-rip-city-remix",
+      "weekend": "2027-01-09",
+      "name": "Mexico City Capitanes v Rip City Remix",
+      "utc": "2027-01-09T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-09-san-diego-clippers-salt-lake-city-stars",
+      "weekend": "2027-01-09",
+      "name": "San Diego Clippers v Salt Lake City Stars",
+      "utc": "2027-01-09T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-09-delaware-blue-coats-noblesville-boom",
+      "weekend": "2027-01-09",
+      "name": "Delaware Blue Coats v Noblesville Boom",
+      "utc": "2027-01-09T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-long-island-nets-raptors-905",
+      "weekend": "2027-01-10",
+      "name": "Long Island Nets v Raptors 905",
+      "utc": "2027-01-10T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-cleveland-charge-maine-celtics",
+      "weekend": "2027-01-10",
+      "name": "Cleveland Charge v Maine Celtics",
+      "utc": "2027-01-10T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-laketown-squadron-westchester-knicks",
+      "weekend": "2027-01-10",
+      "name": "Laketown Squadron v Westchester Knicks",
+      "utc": "2027-01-10T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-wisconsin-herd-greensboro-swarm",
+      "weekend": "2027-01-10",
+      "name": "Wisconsin Herd v Greensboro Swarm",
+      "utc": "2027-01-10T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-windy-city-bulls-osceola-magic",
+      "weekend": "2027-01-10",
+      "name": "Windy City Bulls v Osceola Magic",
+      "utc": "2027-01-10T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-texas-legends-santa-cruz-warriors",
+      "weekend": "2027-01-10",
+      "name": "Texas Legends v Santa Cruz Warriors",
+      "utc": "2027-01-10T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-austin-spurs-coachella-valley-lakers",
+      "weekend": "2027-01-10",
+      "name": "Austin Spurs v Coachella Valley Lakers",
+      "utc": "2027-01-10T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-rio-grande-valley-vipers-sioux-falls-skyforce",
+      "weekend": "2027-01-10",
+      "name": "Rio Grande Valley Vipers v Sioux Falls Skyforce",
+      "utc": "2027-01-10T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-oklahoma-city-blue-memphis-hustle",
+      "weekend": "2027-01-10",
+      "name": "Oklahoma City Blue v Memphis Hustle",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-motor-city-cruise-capital-city-go-go",
+      "weekend": "2027-01-10",
+      "name": "Motor City Cruise v Capital City Go-Go",
+      "utc": "2027-01-10T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-valley-suns-iowa-wolves",
+      "weekend": "2027-01-10",
+      "name": "Valley Suns v Iowa Wolves",
+      "utc": "2027-01-10T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-10-mexico-city-capitanes-stockton-kings",
+      "weekend": "2027-01-10",
+      "name": "Mexico City Capitanes v Stockton Kings",
+      "utc": "2027-01-10T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-11-san-diego-clippers-salt-lake-city-stars",
+      "weekend": "2027-01-11",
+      "name": "San Diego Clippers v Salt Lake City Stars",
+      "utc": "2027-01-11T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-12-long-island-nets-grand-rapids-gold",
+      "weekend": "2027-01-12",
+      "name": "Long Island Nets v Grand Rapids Gold",
+      "utc": "2027-01-12T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-12-college-park-skyhawks-westchester-knicks",
+      "weekend": "2027-01-12",
+      "name": "College Park Skyhawks v Westchester Knicks",
+      "utc": "2027-01-12T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-12-rip-city-remix-texas-legends",
+      "weekend": "2027-01-12",
+      "name": "Rip City Remix v Texas Legends",
+      "utc": "2027-01-12T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-13-noblesville-boom-capital-city-go-go",
+      "weekend": "2027-01-13",
+      "name": "Noblesville Boom v Capital City Go-Go",
+      "utc": "2027-01-13T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-13-rio-grande-valley-vipers-sioux-falls-skyforce",
+      "weekend": "2027-01-13",
+      "name": "Rio Grande Valley Vipers v Sioux Falls Skyforce",
+      "utc": "2027-01-13T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-13-oklahoma-city-blue-iowa-wolves",
+      "weekend": "2027-01-13",
+      "name": "Oklahoma City Blue v Iowa Wolves",
+      "utc": "2027-01-13T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-13-valley-suns-austin-spurs",
+      "weekend": "2027-01-13",
+      "name": "Valley Suns v Austin Spurs",
+      "utc": "2027-01-13T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-13-mexico-city-capitanes-stockton-kings",
+      "weekend": "2027-01-13",
+      "name": "Mexico City Capitanes v Stockton Kings",
+      "utc": "2027-01-13T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-13-coachella-valley-lakers-salt-lake-city-stars",
+      "weekend": "2027-01-13",
+      "name": "Coachella Valley Lakers v Salt Lake City Stars",
+      "utc": "2027-01-13T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-14-wisconsin-herd-delaware-blue-coats",
+      "weekend": "2027-01-14",
+      "name": "Wisconsin Herd v Delaware Blue Coats",
+      "utc": "2027-01-14T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-14-motor-city-cruise-osceola-magic",
+      "weekend": "2027-01-14",
+      "name": "Motor City Cruise v Osceola Magic",
+      "utc": "2027-01-14T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-14-maine-celtics-laketown-squadron",
+      "weekend": "2027-01-14",
+      "name": "Maine Celtics v Laketown Squadron",
+      "utc": "2027-01-14T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-14-long-island-nets-grand-rapids-gold",
+      "weekend": "2027-01-14",
+      "name": "Long Island Nets v Grand Rapids Gold",
+      "utc": "2027-01-14T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-14-greensboro-swarm-cleveland-charge",
+      "weekend": "2027-01-14",
+      "name": "Greensboro Swarm v Cleveland Charge",
+      "utc": "2027-01-14T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-14-college-park-skyhawks-westchester-knicks",
+      "weekend": "2027-01-14",
+      "name": "College Park Skyhawks v Westchester Knicks",
+      "utc": "2027-01-14T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-14-rip-city-remix-texas-legends",
+      "weekend": "2027-01-14",
+      "name": "Rip City Remix v Texas Legends",
+      "utc": "2027-01-14T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-15-noblesville-boom-capital-city-go-go",
+      "weekend": "2027-01-15",
+      "name": "Noblesville Boom v Capital City Go-Go",
+      "utc": "2027-01-15T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-15-motor-city-cruise-osceola-magic",
+      "weekend": "2027-01-15",
+      "name": "Motor City Cruise v Osceola Magic",
+      "utc": "2027-01-15T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-15-windy-city-bulls-raptors-905",
+      "weekend": "2027-01-15",
+      "name": "Windy City Bulls v Raptors 905",
+      "utc": "2027-01-15T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-15-coachella-valley-lakers-santa-cruz-warriors",
+      "weekend": "2027-01-15",
+      "name": "Coachella Valley Lakers v Santa Cruz Warriors",
+      "utc": "2027-01-15T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-16-maine-celtics-laketown-squadron",
+      "weekend": "2027-01-16",
+      "name": "Maine Celtics v Laketown Squadron",
+      "utc": "2027-01-16T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-16-greensboro-swarm-cleveland-charge",
+      "weekend": "2027-01-16",
+      "name": "Greensboro Swarm v Cleveland Charge",
+      "utc": "2027-01-16T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-16-delaware-blue-coats-long-island-nets",
+      "weekend": "2027-01-16",
+      "name": "Delaware Blue Coats v Long Island Nets",
+      "utc": "2027-01-16T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-16-college-park-skyhawks-grand-rapids-gold",
+      "weekend": "2027-01-16",
+      "name": "College Park Skyhawks v Grand Rapids Gold",
+      "utc": "2027-01-16T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-16-sioux-falls-skyforce-memphis-hustle",
+      "weekend": "2027-01-16",
+      "name": "Sioux Falls Skyforce v Memphis Hustle",
+      "utc": "2027-01-16T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-16-austin-spurs-rip-city-remix",
+      "weekend": "2027-01-16",
+      "name": "Austin Spurs v Rip City Remix",
+      "utc": "2027-01-16T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-16-rio-grande-valley-vipers-valley-suns",
+      "weekend": "2027-01-16",
+      "name": "Rio Grande Valley Vipers v Valley Suns",
+      "utc": "2027-01-16T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-16-stockton-kings-texas-legends",
+      "weekend": "2027-01-16",
+      "name": "Stockton Kings v Texas Legends",
+      "utc": "2027-01-16T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-16-greensboro-swarm-motor-city-cruise",
+      "weekend": "2027-01-16",
+      "name": "Greensboro Swarm v Motor City Cruise",
+      "utc": "2027-01-16T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-17-noblesville-boom-osceola-magic",
+      "weekend": "2027-01-17",
+      "name": "Noblesville Boom v Osceola Magic",
+      "utc": "2027-01-17T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-17-stockton-kings-texas-legends",
+      "weekend": "2027-01-17",
+      "name": "Stockton Kings v Texas Legends",
+      "utc": "2027-01-17T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-17-salt-lake-city-stars-coachella-valley-lakers",
+      "weekend": "2027-01-17",
+      "name": "Salt Lake City Stars v Coachella Valley Lakers",
+      "utc": "2027-01-17T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-17-windy-city-bulls-raptors-905",
+      "weekend": "2027-01-17",
+      "name": "Windy City Bulls v Raptors 905",
+      "utc": "2027-01-17T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-17-sioux-falls-skyforce-memphis-hustle",
+      "weekend": "2027-01-17",
+      "name": "Sioux Falls Skyforce v Memphis Hustle",
+      "utc": "2027-01-17T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-17-rio-grande-valley-vipers-valley-suns",
+      "weekend": "2027-01-17",
+      "name": "Rio Grande Valley Vipers v Valley Suns",
+      "utc": "2027-01-17T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-17-santa-cruz-warriors-mexico-city-capitanes",
+      "weekend": "2027-01-17",
+      "name": "Santa Cruz Warriors v Mexico City Capitanes",
+      "utc": "2027-01-17T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-17-college-park-skyhawks-grand-rapids-gold",
+      "weekend": "2027-01-17",
+      "name": "College Park Skyhawks v Grand Rapids Gold",
+      "utc": "2027-01-17T19:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-17-iowa-wolves-san-diego-clippers",
+      "weekend": "2027-01-17",
+      "name": "Iowa Wolves v San Diego Clippers",
+      "utc": "2027-01-17T21:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-17-capital-city-go-go-maine-celtics",
+      "weekend": "2027-01-17",
+      "name": "Capital City Go-Go v Maine Celtics",
+      "utc": "2027-01-17T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-18-westchester-knicks-cleveland-charge",
+      "weekend": "2027-01-18",
+      "name": "Westchester Knicks v Cleveland Charge",
+      "utc": "2027-01-18T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-18-windy-city-bulls-noblesville-boom",
+      "weekend": "2027-01-18",
+      "name": "Windy City Bulls v Noblesville Boom",
+      "utc": "2027-01-18T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-18-texas-legends-oklahoma-city-blue",
+      "weekend": "2027-01-18",
+      "name": "Texas Legends v Oklahoma City Blue",
+      "utc": "2027-01-18T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-18-austin-spurs-rip-city-remix",
+      "weekend": "2027-01-18",
+      "name": "Austin Spurs v Rip City Remix",
+      "utc": "2027-01-18T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-18-santa-cruz-warriors-mexico-city-capitanes",
+      "weekend": "2027-01-18",
+      "name": "Santa Cruz Warriors v Mexico City Capitanes",
+      "utc": "2027-01-18T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-18-long-island-nets-laketown-squadron",
+      "weekend": "2027-01-18",
+      "name": "Long Island Nets v Laketown Squadron",
+      "utc": "2027-01-18T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-19-delaware-blue-coats-greensboro-swarm",
+      "weekend": "2027-01-19",
+      "name": "Delaware Blue Coats v Greensboro Swarm",
+      "utc": "2027-01-19T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-20-long-island-nets-laketown-squadron",
+      "weekend": "2027-01-20",
+      "name": "Long Island Nets v Laketown Squadron",
+      "utc": "2027-01-20T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-20-grand-rapids-gold-motor-city-cruise",
+      "weekend": "2027-01-20",
+      "name": "Grand Rapids Gold v Motor City Cruise",
+      "utc": "2027-01-20T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-20-capital-city-go-go-maine-celtics",
+      "weekend": "2027-01-20",
+      "name": "Capital City Go-Go v Maine Celtics",
+      "utc": "2027-01-20T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-20-salt-lake-city-stars-san-diego-clippers",
+      "weekend": "2027-01-20",
+      "name": "Salt Lake City Stars v San Diego Clippers",
+      "utc": "2027-01-20T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-20-rio-grande-valley-vipers-coachella-valley-lakers",
+      "weekend": "2027-01-20",
+      "name": "Rio Grande Valley Vipers v Coachella Valley Lakers",
+      "utc": "2027-01-20T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-20-valley-suns-iowa-wolves",
+      "weekend": "2027-01-20",
+      "name": "Valley Suns v Iowa Wolves",
+      "utc": "2027-01-20T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-20-raptors-905-greensboro-swarm",
+      "weekend": "2027-01-20",
+      "name": "Raptors 905 v Greensboro Swarm",
+      "utc": "2027-01-20T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-20-austin-spurs-oklahoma-city-blue",
+      "weekend": "2027-01-20",
+      "name": "Austin Spurs v Oklahoma City Blue",
+      "utc": "2027-01-20T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-20-westchester-knicks-cleveland-charge",
+      "weekend": "2027-01-20",
+      "name": "Westchester Knicks v Cleveland Charge",
+      "utc": "2027-01-20T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-21-memphis-hustle-rip-city-remix",
+      "weekend": "2027-01-21",
+      "name": "Memphis Hustle v Rip City Remix",
+      "utc": "2027-01-21T16:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-21-wisconsin-herd-college-park-skyhawks",
+      "weekend": "2027-01-21",
+      "name": "Wisconsin Herd v College Park Skyhawks",
+      "utc": "2027-01-21T17:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-21-valley-suns-sioux-falls-skyforce",
+      "weekend": "2027-01-21",
+      "name": "Valley Suns v Sioux Falls Skyforce",
+      "utc": "2027-01-21T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-22-osceola-magic-long-island-nets",
+      "weekend": "2027-01-22",
+      "name": "Osceola Magic v Long Island Nets",
+      "utc": "2027-01-22T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-22-capital-city-go-go-windy-city-bulls",
+      "weekend": "2027-01-22",
+      "name": "Capital City Go-Go v Windy City Bulls",
+      "utc": "2027-01-22T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-22-stockton-kings-rio-grande-valley-vipers",
+      "weekend": "2027-01-22",
+      "name": "Stockton Kings v Rio Grande Valley Vipers",
+      "utc": "2027-01-22T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-22-motor-city-cruise-raptors-905",
+      "weekend": "2027-01-22",
+      "name": "Motor City Cruise v Raptors 905",
+      "utc": "2027-01-22T23:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-noblesville-boom-laketown-squadron",
+      "weekend": "2027-01-23",
+      "name": "Noblesville Boom v Laketown Squadron",
+      "utc": "2027-01-23T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-maine-celtics-cleveland-charge",
+      "weekend": "2027-01-23",
+      "name": "Maine Celtics v Cleveland Charge",
+      "utc": "2027-01-23T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-greensboro-swarm-westchester-knicks",
+      "weekend": "2027-01-23",
+      "name": "Greensboro Swarm v Westchester Knicks",
+      "utc": "2027-01-23T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-capital-city-go-go-windy-city-bulls",
+      "weekend": "2027-01-23",
+      "name": "Capital City Go-Go v Windy City Bulls",
+      "utc": "2027-01-23T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-wisconsin-herd-grand-rapids-gold",
+      "weekend": "2027-01-23",
+      "name": "Wisconsin Herd v Grand Rapids Gold",
+      "utc": "2027-01-23T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-memphis-hustle-rip-city-remix",
+      "weekend": "2027-01-23",
+      "name": "Memphis Hustle v Rip City Remix",
+      "utc": "2027-01-23T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-iowa-wolves-coachella-valley-lakers",
+      "weekend": "2027-01-23",
+      "name": "Iowa Wolves v Coachella Valley Lakers",
+      "utc": "2027-01-23T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-austin-spurs-oklahoma-city-blue",
+      "weekend": "2027-01-23",
+      "name": "Austin Spurs v Oklahoma City Blue",
+      "utc": "2027-01-23T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-san-diego-clippers-texas-legends",
+      "weekend": "2027-01-23",
+      "name": "San Diego Clippers v Texas Legends",
+      "utc": "2027-01-23T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-salt-lake-city-stars-valley-suns",
+      "weekend": "2027-01-23",
+      "name": "Salt Lake City Stars v Valley Suns",
+      "utc": "2027-01-23T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-college-park-skyhawks-delaware-blue-coats",
+      "weekend": "2027-01-23",
+      "name": "College Park Skyhawks v Delaware Blue Coats",
+      "utc": "2027-01-23T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-23-greensboro-swarm-westchester-knicks-2",
+      "weekend": "2027-01-23",
+      "name": "Greensboro Swarm v Westchester Knicks",
+      "utc": "2027-01-23T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-24-noblesville-boom-laketown-squadron",
+      "weekend": "2027-01-24",
+      "name": "Noblesville Boom v Laketown Squadron",
+      "utc": "2027-01-24T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-24-stockton-kings-rio-grande-valley-vipers",
+      "weekend": "2027-01-24",
+      "name": "Stockton Kings v Rio Grande Valley Vipers",
+      "utc": "2027-01-24T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-24-iowa-wolves-coachella-valley-lakers",
+      "weekend": "2027-01-24",
+      "name": "Iowa Wolves v Coachella Valley Lakers",
+      "utc": "2027-01-24T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-24-santa-cruz-warriors-sioux-falls-skyforce",
+      "weekend": "2027-01-24",
+      "name": "Santa Cruz Warriors v Sioux Falls Skyforce",
+      "utc": "2027-01-24T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-24-san-diego-clippers-texas-legends",
+      "weekend": "2027-01-24",
+      "name": "San Diego Clippers v Texas Legends",
+      "utc": "2027-01-24T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-24-maine-celtics-cleveland-charge",
+      "weekend": "2027-01-24",
+      "name": "Maine Celtics v Cleveland Charge",
+      "utc": "2027-01-24T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-24-wisconsin-herd-grand-rapids-gold",
+      "weekend": "2027-01-24",
+      "name": "Wisconsin Herd v Grand Rapids Gold",
+      "utc": "2027-01-24T18:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-24-motor-city-cruise-raptors-905",
+      "weekend": "2027-01-24",
+      "name": "Motor City Cruise v Raptors 905",
+      "utc": "2027-01-24T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-24-mexico-city-capitanes-oklahoma-city-blue",
+      "weekend": "2027-01-24",
+      "name": "Mexico City Capitanes v Oklahoma City Blue",
+      "utc": "2027-01-24T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-24-college-park-skyhawks-windy-city-bulls",
+      "weekend": "2027-01-24",
+      "name": "College Park Skyhawks v Windy City Bulls",
+      "utc": "2027-01-24T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-25-santa-cruz-warriors-sioux-falls-skyforce",
+      "weekend": "2027-01-25",
+      "name": "Santa Cruz Warriors v Sioux Falls Skyforce",
+      "utc": "2027-01-25T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-26-westchester-knicks-noblesville-boom",
+      "weekend": "2027-01-26",
+      "name": "Westchester Knicks v Noblesville Boom",
+      "utc": "2027-01-26T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-26-osceola-magic-capital-city-go-go",
+      "weekend": "2027-01-26",
+      "name": "Osceola Magic v Capital City Go-Go",
+      "utc": "2027-01-26T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-26-mexico-city-capitanes-oklahoma-city-blue",
+      "weekend": "2027-01-26",
+      "name": "Mexico City Capitanes v Oklahoma City Blue",
+      "utc": "2027-01-26T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-26-stockton-kings-valley-suns",
+      "weekend": "2027-01-26",
+      "name": "Stockton Kings v Valley Suns",
+      "utc": "2027-01-26T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-27-laketown-squadron-raptors-905",
+      "weekend": "2027-01-27",
+      "name": "Laketown Squadron v Raptors 905",
+      "utc": "2027-01-27T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-27-rip-city-remix-san-diego-clippers",
+      "weekend": "2027-01-27",
+      "name": "Rip City Remix v San Diego Clippers",
+      "utc": "2027-01-27T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-27-rio-grande-valley-vipers-iowa-wolves",
+      "weekend": "2027-01-27",
+      "name": "Rio Grande Valley Vipers v Iowa Wolves",
+      "utc": "2027-01-27T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-27-coachella-valley-lakers-texas-legends",
+      "weekend": "2027-01-27",
+      "name": "Coachella Valley Lakers v Texas Legends",
+      "utc": "2027-01-27T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-27-westchester-knicks-noblesville-boom",
+      "weekend": "2027-01-27",
+      "name": "Westchester Knicks v Noblesville Boom",
+      "utc": "2027-01-27T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-27-oklahoma-city-blue-stockton-kings",
+      "weekend": "2027-01-27",
+      "name": "Oklahoma City Blue v Stockton Kings",
+      "utc": "2027-01-27T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-28-wisconsin-herd-windy-city-bulls",
+      "weekend": "2027-01-28",
+      "name": "Wisconsin Herd v Windy City Bulls",
+      "utc": "2027-01-28T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-28-osceola-magic-capital-city-go-go",
+      "weekend": "2027-01-28",
+      "name": "Osceola Magic v Capital City Go-Go",
+      "utc": "2027-01-28T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-28-salt-lake-city-stars-sioux-falls-skyforce",
+      "weekend": "2027-01-28",
+      "name": "Salt Lake City Stars v Sioux Falls Skyforce",
+      "utc": "2027-01-28T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-28-coachella-valley-lakers-valley-suns",
+      "weekend": "2027-01-28",
+      "name": "Coachella Valley Lakers v Valley Suns",
+      "utc": "2027-01-28T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-28-laketown-squadron-raptors-905",
+      "weekend": "2027-01-28",
+      "name": "Laketown Squadron v Raptors 905",
+      "utc": "2027-01-28T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-29-osceola-magic-delaware-blue-coats",
+      "weekend": "2027-01-29",
+      "name": "Osceola Magic v Delaware Blue Coats",
+      "utc": "2027-01-29T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-29-long-island-nets-greensboro-swarm",
+      "weekend": "2027-01-29",
+      "name": "Long Island Nets v Greensboro Swarm",
+      "utc": "2027-01-29T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-29-rio-grande-valley-vipers-iowa-wolves",
+      "weekend": "2027-01-29",
+      "name": "Rio Grande Valley Vipers v Iowa Wolves",
+      "utc": "2027-01-29T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-29-austin-spurs-mexico-city-capitanes",
+      "weekend": "2027-01-29",
+      "name": "Austin Spurs v Mexico City Capitanes",
+      "utc": "2027-01-29T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-29-capital-city-go-go-grand-rapids-gold",
+      "weekend": "2027-01-29",
+      "name": "Capital City Go-Go v Grand Rapids Gold",
+      "utc": "2027-01-29T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-29-motor-city-cruise-wisconsin-herd",
+      "weekend": "2027-01-29",
+      "name": "Motor City Cruise v Wisconsin Herd",
+      "utc": "2027-01-29T23:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-30-maine-celtics-college-park-skyhawks",
+      "weekend": "2027-01-30",
+      "name": "Maine Celtics v College Park Skyhawks",
+      "utc": "2027-01-30T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-30-cleveland-charge-noblesville-boom",
+      "weekend": "2027-01-30",
+      "name": "Cleveland Charge v Noblesville Boom",
+      "utc": "2027-01-30T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-30-salt-lake-city-stars-sioux-falls-skyforce",
+      "weekend": "2027-01-30",
+      "name": "Salt Lake City Stars v Sioux Falls Skyforce",
+      "utc": "2027-01-30T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-30-oklahoma-city-blue-stockton-kings",
+      "weekend": "2027-01-30",
+      "name": "Oklahoma City Blue v Stockton Kings",
+      "utc": "2027-01-30T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-30-rip-city-remix-san-diego-clippers",
+      "weekend": "2027-01-30",
+      "name": "Rip City Remix v San Diego Clippers",
+      "utc": "2027-01-30T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-30-coachella-valley-lakers-memphis-hustle",
+      "weekend": "2027-01-30",
+      "name": "Coachella Valley Lakers v Memphis Hustle",
+      "utc": "2027-01-30T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-30-long-island-nets-greensboro-swarm",
+      "weekend": "2027-01-30",
+      "name": "Long Island Nets v Greensboro Swarm",
+      "utc": "2027-01-30T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-30-raptors-905-osceola-magic",
+      "weekend": "2027-01-30",
+      "name": "Raptors 905 v Osceola Magic",
+      "utc": "2027-01-30T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-30-motor-city-cruise-wisconsin-herd",
+      "weekend": "2027-01-30",
+      "name": "Motor City Cruise v Wisconsin Herd",
+      "utc": "2027-01-30T23:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-31-capital-city-go-go-westchester-knicks",
+      "weekend": "2027-01-31",
+      "name": "Capital City Go-Go v Westchester Knicks",
+      "utc": "2027-01-31T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-31-laketown-squadron-delaware-blue-coats",
+      "weekend": "2027-01-31",
+      "name": "Laketown Squadron v Delaware Blue Coats",
+      "utc": "2027-01-31T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-31-texas-legends-mexico-city-capitanes",
+      "weekend": "2027-01-31",
+      "name": "Texas Legends v Mexico City Capitanes",
+      "utc": "2027-01-31T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-31-santa-cruz-warriors-iowa-wolves",
+      "weekend": "2027-01-31",
+      "name": "Santa Cruz Warriors v Iowa Wolves",
+      "utc": "2027-01-31T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-31-cleveland-charge-noblesville-boom",
+      "weekend": "2027-01-31",
+      "name": "Cleveland Charge v Noblesville Boom",
+      "utc": "2027-01-31T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-31-valley-suns-rio-grande-valley-vipers",
+      "weekend": "2027-01-31",
+      "name": "Valley Suns v Rio Grande Valley Vipers",
+      "utc": "2027-01-31T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-31-texas-legends-mexico-city-capitanes-2",
+      "weekend": "2027-01-31",
+      "name": "Texas Legends v Mexico City Capitanes",
+      "utc": "2027-01-31T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-31-sioux-falls-skyforce-san-diego-clippers",
+      "weekend": "2027-01-31",
+      "name": "Sioux Falls Skyforce v San Diego Clippers",
+      "utc": "2027-01-31T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-31-austin-spurs-stockton-kings",
+      "weekend": "2027-01-31",
+      "name": "Austin Spurs v Stockton Kings",
+      "utc": "2027-01-31T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-31-salt-lake-city-stars-memphis-hustle",
+      "weekend": "2027-01-31",
+      "name": "Salt Lake City Stars v Memphis Hustle",
+      "utc": "2027-01-31T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-01-31-coachella-valley-lakers-oklahoma-city-blue",
+      "weekend": "2027-01-31",
+      "name": "Coachella Valley Lakers v Oklahoma City Blue",
+      "utc": "2027-01-31T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-02-osceola-magic-windy-city-bulls",
+      "weekend": "2027-02-02",
+      "name": "Osceola Magic v Windy City Bulls",
+      "utc": "2027-02-02T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-02-long-island-nets-college-park-skyhawks",
+      "weekend": "2027-02-02",
+      "name": "Long Island Nets v College Park Skyhawks",
+      "utc": "2027-02-02T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-02-laketown-squadron-delaware-blue-coats",
+      "weekend": "2027-02-02",
+      "name": "Laketown Squadron v Delaware Blue Coats",
+      "utc": "2027-02-02T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-02-rip-city-remix-iowa-wolves",
+      "weekend": "2027-02-02",
+      "name": "Rip City Remix v Iowa Wolves",
+      "utc": "2027-02-02T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-02-motor-city-cruise-greensboro-swarm",
+      "weekend": "2027-02-02",
+      "name": "Motor City Cruise v Greensboro Swarm",
+      "utc": "2027-02-02T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-03-noblesville-boom-wisconsin-herd",
+      "weekend": "2027-02-03",
+      "name": "Noblesville Boom v Wisconsin Herd",
+      "utc": "2027-02-03T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-03-grand-rapids-gold-westchester-knicks",
+      "weekend": "2027-02-03",
+      "name": "Grand Rapids Gold v Westchester Knicks",
+      "utc": "2027-02-03T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-03-sioux-falls-skyforce-san-diego-clippers",
+      "weekend": "2027-02-03",
+      "name": "Sioux Falls Skyforce v San Diego Clippers",
+      "utc": "2027-02-03T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-03-rip-city-remix-iowa-wolves",
+      "weekend": "2027-02-03",
+      "name": "Rip City Remix v Iowa Wolves",
+      "utc": "2027-02-03T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-03-salt-lake-city-stars-memphis-hustle",
+      "weekend": "2027-02-03",
+      "name": "Salt Lake City Stars v Memphis Hustle",
+      "utc": "2027-02-03T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-03-valley-suns-rio-grande-valley-vipers",
+      "weekend": "2027-02-03",
+      "name": "Valley Suns v Rio Grande Valley Vipers",
+      "utc": "2027-02-03T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-03-coachella-valley-lakers-oklahoma-city-blue",
+      "weekend": "2027-02-03",
+      "name": "Coachella Valley Lakers v Oklahoma City Blue",
+      "utc": "2027-02-03T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-03-austin-spurs-santa-cruz-warriors",
+      "weekend": "2027-02-03",
+      "name": "Austin Spurs v Santa Cruz Warriors",
+      "utc": "2027-02-03T16:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-04-osceola-magic-windy-city-bulls",
+      "weekend": "2027-02-04",
+      "name": "Osceola Magic v Windy City Bulls",
+      "utc": "2027-02-04T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-04-long-island-nets-college-park-skyhawks",
+      "weekend": "2027-02-04",
+      "name": "Long Island Nets v College Park Skyhawks",
+      "utc": "2027-02-04T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-04-raptors-905-cleveland-charge",
+      "weekend": "2027-02-04",
+      "name": "Raptors 905 v Cleveland Charge",
+      "utc": "2027-02-04T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-05-osceola-magic-maine-celtics",
+      "weekend": "2027-02-05",
+      "name": "Osceola Magic v Maine Celtics",
+      "utc": "2027-02-05T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-05-motor-city-cruise-greensboro-swarm",
+      "weekend": "2027-02-05",
+      "name": "Motor City Cruise v Greensboro Swarm",
+      "utc": "2027-02-05T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-05-sioux-falls-skyforce-salt-lake-city-stars",
+      "weekend": "2027-02-05",
+      "name": "Sioux Falls Skyforce v Salt Lake City Stars",
+      "utc": "2027-02-05T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-05-austin-spurs-santa-cruz-warriors",
+      "weekend": "2027-02-05",
+      "name": "Austin Spurs v Santa Cruz Warriors",
+      "utc": "2027-02-05T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-05-valley-suns-texas-legends",
+      "weekend": "2027-02-05",
+      "name": "Valley Suns v Texas Legends",
+      "utc": "2027-02-05T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-05-stockton-kings-oklahoma-city-blue",
+      "weekend": "2027-02-05",
+      "name": "Stockton Kings v Oklahoma City Blue",
+      "utc": "2027-02-05T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-05-san-diego-clippers-mexico-city-capitanes",
+      "weekend": "2027-02-05",
+      "name": "San Diego Clippers v Mexico City Capitanes",
+      "utc": "2027-02-05T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-06-grand-rapids-gold-westchester-knicks",
+      "weekend": "2027-02-06",
+      "name": "Grand Rapids Gold v Westchester Knicks",
+      "utc": "2027-02-06T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-06-college-park-skyhawks-wisconsin-herd",
+      "weekend": "2027-02-06",
+      "name": "College Park Skyhawks v Wisconsin Herd",
+      "utc": "2027-02-06T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-06-cleveland-charge-long-island-nets",
+      "weekend": "2027-02-06",
+      "name": "Cleveland Charge v Long Island Nets",
+      "utc": "2027-02-06T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-06-capital-city-go-go-delaware-blue-coats",
+      "weekend": "2027-02-06",
+      "name": "Capital City Go-Go v Delaware Blue Coats",
+      "utc": "2027-02-06T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-06-raptors-905-laketown-squadron",
+      "weekend": "2027-02-06",
+      "name": "Raptors 905 v Laketown Squadron",
+      "utc": "2027-02-06T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-06-sioux-falls-skyforce-salt-lake-city-stars",
+      "weekend": "2027-02-06",
+      "name": "Sioux Falls Skyforce v Salt Lake City Stars",
+      "utc": "2027-02-06T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-06-iowa-wolves-rio-grande-valley-vipers",
+      "weekend": "2027-02-06",
+      "name": "Iowa Wolves v Rio Grande Valley Vipers",
+      "utc": "2027-02-06T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-noblesville-boom-maine-celtics",
+      "weekend": "2027-02-07",
+      "name": "Noblesville Boom v Maine Celtics",
+      "utc": "2027-02-07T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-stockton-kings-coachella-valley-lakers",
+      "weekend": "2027-02-07",
+      "name": "Stockton Kings v Coachella Valley Lakers",
+      "utc": "2027-02-07T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-texas-legends-austin-spurs",
+      "weekend": "2027-02-07",
+      "name": "Texas Legends v Austin Spurs",
+      "utc": "2027-02-07T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-iowa-wolves-rio-grande-valley-vipers",
+      "weekend": "2027-02-07",
+      "name": "Iowa Wolves v Rio Grande Valley Vipers",
+      "utc": "2027-02-07T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-san-diego-clippers-mexico-city-capitanes",
+      "weekend": "2027-02-07",
+      "name": "San Diego Clippers v Mexico City Capitanes",
+      "utc": "2027-02-07T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-memphis-hustle-santa-cruz-warriors",
+      "weekend": "2027-02-07",
+      "name": "Memphis Hustle v Santa Cruz Warriors",
+      "utc": "2027-02-07T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-raptors-905-laketown-squadron",
+      "weekend": "2027-02-07",
+      "name": "Raptors 905 v Laketown Squadron",
+      "utc": "2027-02-07T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-college-park-skyhawks-wisconsin-herd",
+      "weekend": "2027-02-07",
+      "name": "College Park Skyhawks v Wisconsin Herd",
+      "utc": "2027-02-07T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-greensboro-swarm-grand-rapids-gold",
+      "weekend": "2027-02-07",
+      "name": "Greensboro Swarm v Grand Rapids Gold",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-capital-city-go-go-delaware-blue-coats",
+      "weekend": "2027-02-07",
+      "name": "Capital City Go-Go v Delaware Blue Coats",
+      "utc": "2027-02-07T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-valley-suns-rip-city-remix",
+      "weekend": "2027-02-07",
+      "name": "Valley Suns v Rip City Remix",
+      "utc": "2027-02-07T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-cleveland-charge-osceola-magic",
+      "weekend": "2027-02-07",
+      "name": "Cleveland Charge v Osceola Magic",
+      "utc": "2027-02-07T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-noblesville-boom-maine-celtics-2",
+      "weekend": "2027-02-07",
+      "name": "Noblesville Boom v Maine Celtics",
+      "utc": "2027-02-07T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-07-stockton-kings-coachella-valley-lakers-2",
+      "weekend": "2027-02-07",
+      "name": "Stockton Kings v Coachella Valley Lakers",
+      "utc": "2027-02-07T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-08-san-diego-clippers-oklahoma-city-blue",
+      "weekend": "2027-02-08",
+      "name": "San Diego Clippers v Oklahoma City Blue",
+      "utc": "2027-02-08T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-09-salt-lake-city-stars-texas-legends",
+      "weekend": "2027-02-09",
+      "name": "Salt Lake City Stars v Texas Legends",
+      "utc": "2027-02-09T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-09-memphis-hustle-santa-cruz-warriors",
+      "weekend": "2027-02-09",
+      "name": "Memphis Hustle v Santa Cruz Warriors",
+      "utc": "2027-02-09T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-09-westchester-knicks-delaware-blue-coats",
+      "weekend": "2027-02-09",
+      "name": "Westchester Knicks v Delaware Blue Coats",
+      "utc": "2027-02-09T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-09-long-island-nets-motor-city-cruise",
+      "weekend": "2027-02-09",
+      "name": "Long Island Nets v Motor City Cruise",
+      "utc": "2027-02-09T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-09-iowa-wolves-san-diego-clippers",
+      "weekend": "2027-02-09",
+      "name": "Iowa Wolves v San Diego Clippers",
+      "utc": "2027-02-09T16:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-09-valley-suns-rip-city-remix",
+      "weekend": "2027-02-09",
+      "name": "Valley Suns v Rip City Remix",
+      "utc": "2027-02-09T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-10-wisconsin-herd-osceola-magic",
+      "weekend": "2027-02-10",
+      "name": "Wisconsin Herd v Osceola Magic",
+      "utc": "2027-02-10T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-10-grand-rapids-gold-laketown-squadron",
+      "weekend": "2027-02-10",
+      "name": "Grand Rapids Gold v Laketown Squadron",
+      "utc": "2027-02-10T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-10-college-park-skyhawks-noblesville-boom",
+      "weekend": "2027-02-10",
+      "name": "College Park Skyhawks v Noblesville Boom",
+      "utc": "2027-02-10T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-11-maine-celtics-windy-city-bulls",
+      "weekend": "2027-02-11",
+      "name": "Maine Celtics v Windy City Bulls",
+      "utc": "2027-02-11T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-11-sioux-falls-skyforce-austin-spurs",
+      "weekend": "2027-02-11",
+      "name": "Sioux Falls Skyforce v Austin Spurs",
+      "utc": "2027-02-11T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-11-salt-lake-city-stars-texas-legends",
+      "weekend": "2027-02-11",
+      "name": "Salt Lake City Stars v Texas Legends",
+      "utc": "2027-02-11T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-11-stockton-kings-mexico-city-capitanes",
+      "weekend": "2027-02-11",
+      "name": "Stockton Kings v Mexico City Capitanes",
+      "utc": "2027-02-11T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-12-westchester-knicks-raptors-905",
+      "weekend": "2027-02-12",
+      "name": "Westchester Knicks v Raptors 905",
+      "utc": "2027-02-12T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-12-long-island-nets-capital-city-go-go",
+      "weekend": "2027-02-12",
+      "name": "Long Island Nets v Capital City Go-Go",
+      "utc": "2027-02-12T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-12-grand-rapids-gold-laketown-squadron",
+      "weekend": "2027-02-12",
+      "name": "Grand Rapids Gold v Laketown Squadron",
+      "utc": "2027-02-12T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-12-santa-cruz-warriors-rip-city-remix",
+      "weekend": "2027-02-12",
+      "name": "Santa Cruz Warriors v Rip City Remix",
+      "utc": "2027-02-12T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-13-greensboro-swarm-maine-celtics",
+      "weekend": "2027-02-13",
+      "name": "Greensboro Swarm v Maine Celtics",
+      "utc": "2027-02-13T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-13-delaware-blue-coats-motor-city-cruise",
+      "weekend": "2027-02-13",
+      "name": "Delaware Blue Coats v Motor City Cruise",
+      "utc": "2027-02-13T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-13-windy-city-bulls-cleveland-charge",
+      "weekend": "2027-02-13",
+      "name": "Windy City Bulls v Cleveland Charge",
+      "utc": "2027-02-13T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-13-sioux-falls-skyforce-austin-spurs",
+      "weekend": "2027-02-13",
+      "name": "Sioux Falls Skyforce v Austin Spurs",
+      "utc": "2027-02-13T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-13-memphis-hustle-valley-suns",
+      "weekend": "2027-02-13",
+      "name": "Memphis Hustle v Valley Suns",
+      "utc": "2027-02-13T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-13-rio-grande-valley-vipers-texas-legends",
+      "weekend": "2027-02-13",
+      "name": "Rio Grande Valley Vipers v Texas Legends",
+      "utc": "2027-02-13T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-13-long-island-nets-capital-city-go-go",
+      "weekend": "2027-02-13",
+      "name": "Long Island Nets v Capital City Go-Go",
+      "utc": "2027-02-13T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-13-greensboro-swarm-maine-celtics-2",
+      "weekend": "2027-02-13",
+      "name": "Greensboro Swarm v Maine Celtics",
+      "utc": "2027-02-13T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-13-delaware-blue-coats-motor-city-cruise-2",
+      "weekend": "2027-02-13",
+      "name": "Delaware Blue Coats v Motor City Cruise",
+      "utc": "2027-02-13T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-14-noblesville-boom-osceola-magic",
+      "weekend": "2027-02-14",
+      "name": "Noblesville Boom v Osceola Magic",
+      "utc": "2027-02-14T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-14-grand-rapids-gold-raptors-905",
+      "weekend": "2027-02-14",
+      "name": "Grand Rapids Gold v Raptors 905",
+      "utc": "2027-02-14T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-14-laketown-squadron-college-park-skyhawks",
+      "weekend": "2027-02-14",
+      "name": "Laketown Squadron v College Park Skyhawks",
+      "utc": "2027-02-14T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-14-windy-city-bulls-cleveland-charge",
+      "weekend": "2027-02-14",
+      "name": "Windy City Bulls v Cleveland Charge",
+      "utc": "2027-02-14T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-14-sioux-falls-skyforce-stockton-kings",
+      "weekend": "2027-02-14",
+      "name": "Sioux Falls Skyforce v Stockton Kings",
+      "utc": "2027-02-14T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-14-santa-cruz-warriors-rip-city-remix",
+      "weekend": "2027-02-14",
+      "name": "Santa Cruz Warriors v Rip City Remix",
+      "utc": "2027-02-14T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-14-austin-spurs-valley-suns",
+      "weekend": "2027-02-14",
+      "name": "Austin Spurs v Valley Suns",
+      "utc": "2027-02-14T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-14-mexico-city-capitanes-memphis-hustle",
+      "weekend": "2027-02-14",
+      "name": "Mexico City Capitanes v Memphis Hustle",
+      "utc": "2027-02-14T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-15-windy-city-bulls-motor-city-cruise",
+      "weekend": "2027-02-15",
+      "name": "Windy City Bulls v Motor City Cruise",
+      "utc": "2027-02-15T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-15-coachella-valley-lakers-rip-city-remix",
+      "weekend": "2027-02-15",
+      "name": "Coachella Valley Lakers v Rip City Remix",
+      "utc": "2027-02-15T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-15-texas-legends-oklahoma-city-blue",
+      "weekend": "2027-02-15",
+      "name": "Texas Legends v Oklahoma City Blue",
+      "utc": "2027-02-15T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-16-delaware-blue-coats-grand-rapids-gold",
+      "weekend": "2027-02-16",
+      "name": "Delaware Blue Coats v Grand Rapids Gold",
+      "utc": "2027-02-16T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-16-san-diego-clippers-santa-cruz-warriors",
+      "weekend": "2027-02-16",
+      "name": "San Diego Clippers v Santa Cruz Warriors",
+      "utc": "2027-02-16T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-wisconsin-herd-long-island-nets",
+      "weekend": "2027-02-17",
+      "name": "Wisconsin Herd v Long Island Nets",
+      "utc": "2027-02-17T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-college-park-skyhawks-greensboro-swarm",
+      "weekend": "2027-02-17",
+      "name": "College Park Skyhawks v Greensboro Swarm",
+      "utc": "2027-02-17T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-capital-city-go-go-noblesville-boom",
+      "weekend": "2027-02-17",
+      "name": "Capital City Go-Go v Noblesville Boom",
+      "utc": "2027-02-17T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-laketown-squadron-cleveland-charge",
+      "weekend": "2027-02-17",
+      "name": "Laketown Squadron v Cleveland Charge",
+      "utc": "2027-02-17T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-salt-lake-city-stars-stockton-kings",
+      "weekend": "2027-02-17",
+      "name": "Salt Lake City Stars v Stockton Kings",
+      "utc": "2027-02-17T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-texas-legends-austin-spurs",
+      "weekend": "2027-02-17",
+      "name": "Texas Legends v Austin Spurs",
+      "utc": "2027-02-17T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-rio-grande-valley-vipers-mexico-city-capitanes",
+      "weekend": "2027-02-17",
+      "name": "Rio Grande Valley Vipers v Mexico City Capitanes",
+      "utc": "2027-02-17T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-valley-suns-memphis-hustle",
+      "weekend": "2027-02-17",
+      "name": "Valley Suns v Memphis Hustle",
+      "utc": "2027-02-17T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-san-diego-clippers-santa-cruz-warriors",
+      "weekend": "2027-02-17",
+      "name": "San Diego Clippers v Santa Cruz Warriors",
+      "utc": "2027-02-17T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-coachella-valley-lakers-rip-city-remix",
+      "weekend": "2027-02-17",
+      "name": "Coachella Valley Lakers v Rip City Remix",
+      "utc": "2027-02-17T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-raptors-905-osceola-magic",
+      "weekend": "2027-02-17",
+      "name": "Raptors 905 v Osceola Magic",
+      "utc": "2027-02-17T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-delaware-blue-coats-grand-rapids-gold",
+      "weekend": "2027-02-17",
+      "name": "Delaware Blue Coats v Grand Rapids Gold",
+      "utc": "2027-02-17T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-windy-city-bulls-motor-city-cruise",
+      "weekend": "2027-02-17",
+      "name": "Windy City Bulls v Motor City Cruise",
+      "utc": "2027-02-17T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-17-oklahoma-city-blue-iowa-wolves",
+      "weekend": "2027-02-17",
+      "name": "Oklahoma City Blue v Iowa Wolves",
+      "utc": "2027-02-17T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-18-wisconsin-herd-long-island-nets",
+      "weekend": "2027-02-18",
+      "name": "Wisconsin Herd v Long Island Nets",
+      "utc": "2027-02-18T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-18-westchester-knicks-maine-celtics",
+      "weekend": "2027-02-18",
+      "name": "Westchester Knicks v Maine Celtics",
+      "utc": "2027-02-18T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-18-rio-grande-valley-vipers-mexico-city-capitanes",
+      "weekend": "2027-02-18",
+      "name": "Rio Grande Valley Vipers v Mexico City Capitanes",
+      "utc": "2027-02-18T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-18-valley-suns-memphis-hustle",
+      "weekend": "2027-02-18",
+      "name": "Valley Suns v Memphis Hustle",
+      "utc": "2027-02-18T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-19-westchester-knicks-maine-celtics",
+      "weekend": "2027-02-19",
+      "name": "Westchester Knicks v Maine Celtics",
+      "utc": "2027-02-19T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-19-college-park-skyhawks-greensboro-swarm",
+      "weekend": "2027-02-19",
+      "name": "College Park Skyhawks v Greensboro Swarm",
+      "utc": "2027-02-19T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-19-capital-city-go-go-noblesville-boom",
+      "weekend": "2027-02-19",
+      "name": "Capital City Go-Go v Noblesville Boom",
+      "utc": "2027-02-19T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-19-sioux-falls-skyforce-texas-legends",
+      "weekend": "2027-02-19",
+      "name": "Sioux Falls Skyforce v Texas Legends",
+      "utc": "2027-02-19T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-19-laketown-squadron-cleveland-charge",
+      "weekend": "2027-02-19",
+      "name": "Laketown Squadron v Cleveland Charge",
+      "utc": "2027-02-19T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-19-coachella-valley-lakers-santa-cruz-warriors",
+      "weekend": "2027-02-19",
+      "name": "Coachella Valley Lakers v Santa Cruz Warriors",
+      "utc": "2027-02-19T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-25-delaware-blue-coats-raptors-905",
+      "weekend": "2027-02-25",
+      "name": "Delaware Blue Coats v Raptors 905",
+      "utc": "2027-02-25T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-25-oklahoma-city-blue-rip-city-remix",
+      "weekend": "2027-02-25",
+      "name": "Oklahoma City Blue v Rip City Remix",
+      "utc": "2027-02-25T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-25-westchester-knicks-wisconsin-herd",
+      "weekend": "2027-02-25",
+      "name": "Westchester Knicks v Wisconsin Herd",
+      "utc": "2027-02-25T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-25-laketown-squadron-maine-celtics",
+      "weekend": "2027-02-25",
+      "name": "Laketown Squadron v Maine Celtics",
+      "utc": "2027-02-25T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-26-osceola-magic-noblesville-boom",
+      "weekend": "2027-02-26",
+      "name": "Osceola Magic v Noblesville Boom",
+      "utc": "2027-02-26T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-26-cleveland-charge-grand-rapids-gold",
+      "weekend": "2027-02-26",
+      "name": "Cleveland Charge v Grand Rapids Gold",
+      "utc": "2027-02-26T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-26-stockton-kings-valley-suns",
+      "weekend": "2027-02-26",
+      "name": "Stockton Kings v Valley Suns",
+      "utc": "2027-02-26T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-26-coachella-valley-lakers-mexico-city-capitanes",
+      "weekend": "2027-02-26",
+      "name": "Coachella Valley Lakers v Mexico City Capitanes",
+      "utc": "2027-02-26T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-26-motor-city-cruise-long-island-nets",
+      "weekend": "2027-02-26",
+      "name": "Motor City Cruise v Long Island Nets",
+      "utc": "2027-02-26T23:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-27-westchester-knicks-windy-city-bulls",
+      "weekend": "2027-02-27",
+      "name": "Westchester Knicks v Windy City Bulls",
+      "utc": "2027-02-27T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-27-greensboro-swarm-capital-city-go-go",
+      "weekend": "2027-02-27",
+      "name": "Greensboro Swarm v Capital City Go-Go",
+      "utc": "2027-02-27T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-27-laketown-squadron-college-park-skyhawks",
+      "weekend": "2027-02-27",
+      "name": "Laketown Squadron v College Park Skyhawks",
+      "utc": "2027-02-27T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-27-salt-lake-city-stars-iowa-wolves",
+      "weekend": "2027-02-27",
+      "name": "Salt Lake City Stars v Iowa Wolves",
+      "utc": "2027-02-27T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-27-texas-legends-san-diego-clippers",
+      "weekend": "2027-02-27",
+      "name": "Texas Legends v San Diego Clippers",
+      "utc": "2027-02-27T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-27-memphis-hustle-rio-grande-valley-vipers",
+      "weekend": "2027-02-27",
+      "name": "Memphis Hustle v Rio Grande Valley Vipers",
+      "utc": "2027-02-27T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-27-santa-cruz-warriors-austin-spurs",
+      "weekend": "2027-02-27",
+      "name": "Santa Cruz Warriors v Austin Spurs",
+      "utc": "2027-02-27T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-27-coachella-valley-lakers-mexico-city-capitanes",
+      "weekend": "2027-02-27",
+      "name": "Coachella Valley Lakers v Mexico City Capitanes",
+      "utc": "2027-02-27T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-27-maine-celtics-raptors-905",
+      "weekend": "2027-02-27",
+      "name": "Maine Celtics v Raptors 905",
+      "utc": "2027-02-27T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-27-delaware-blue-coats-cleveland-charge",
+      "weekend": "2027-02-27",
+      "name": "Delaware Blue Coats v Cleveland Charge",
+      "utc": "2027-02-27T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-27-greensboro-swarm-capital-city-go-go-2",
+      "weekend": "2027-02-27",
+      "name": "Greensboro Swarm v Capital City Go-Go",
+      "utc": "2027-02-27T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-noblesville-boom-grand-rapids-gold",
+      "weekend": "2027-02-28",
+      "name": "Noblesville Boom v Grand Rapids Gold",
+      "utc": "2027-02-28T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-wisconsin-herd-osceola-magic",
+      "weekend": "2027-02-28",
+      "name": "Wisconsin Herd v Osceola Magic",
+      "utc": "2027-02-28T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-texas-legends-san-diego-clippers",
+      "weekend": "2027-02-28",
+      "name": "Texas Legends v San Diego Clippers",
+      "utc": "2027-02-28T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-memphis-hustle-rio-grande-valley-vipers",
+      "weekend": "2027-02-28",
+      "name": "Memphis Hustle v Rio Grande Valley Vipers",
+      "utc": "2027-02-28T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-salt-lake-city-stars-iowa-wolves",
+      "weekend": "2027-02-28",
+      "name": "Salt Lake City Stars v Iowa Wolves",
+      "utc": "2027-02-28T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-maine-celtics-raptors-905",
+      "weekend": "2027-02-28",
+      "name": "Maine Celtics v Raptors 905",
+      "utc": "2027-02-28T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-delaware-blue-coats-cleveland-charge",
+      "weekend": "2027-02-28",
+      "name": "Delaware Blue Coats v Cleveland Charge",
+      "utc": "2027-02-28T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-college-park-skyhawks-windy-city-bulls",
+      "weekend": "2027-02-28",
+      "name": "College Park Skyhawks v Windy City Bulls",
+      "utc": "2027-02-28T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-motor-city-cruise-long-island-nets",
+      "weekend": "2027-02-28",
+      "name": "Motor City Cruise v Long Island Nets",
+      "utc": "2027-02-28T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-santa-cruz-warriors-austin-spurs",
+      "weekend": "2027-02-28",
+      "name": "Santa Cruz Warriors v Austin Spurs",
+      "utc": "2027-02-28T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-rip-city-remix-oklahoma-city-blue",
+      "weekend": "2027-02-28",
+      "name": "Rip City Remix v Oklahoma City Blue",
+      "utc": "2027-02-28T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-02-28-coachella-valley-lakers-valley-suns",
+      "weekend": "2027-02-28",
+      "name": "Coachella Valley Lakers v Valley Suns",
+      "utc": "2027-02-28T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-01-noblesville-boom-grand-rapids-gold",
+      "weekend": "2027-03-01",
+      "name": "Noblesville Boom v Grand Rapids Gold",
+      "utc": "2027-03-01T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-02-osceola-magic-westchester-knicks",
+      "weekend": "2027-03-02",
+      "name": "Osceola Magic v Westchester Knicks",
+      "utc": "2027-03-02T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-02-salt-lake-city-stars-mexico-city-capitanes",
+      "weekend": "2027-03-02",
+      "name": "Salt Lake City Stars v Mexico City Capitanes",
+      "utc": "2027-03-02T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-02-rip-city-remix-oklahoma-city-blue",
+      "weekend": "2027-03-02",
+      "name": "Rip City Remix v Oklahoma City Blue",
+      "utc": "2027-03-02T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-02-grand-rapids-gold-maine-celtics",
+      "weekend": "2027-03-02",
+      "name": "Grand Rapids Gold v Maine Celtics",
+      "utc": "2027-03-02T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-03-wisconsin-herd-delaware-blue-coats",
+      "weekend": "2027-03-03",
+      "name": "Wisconsin Herd v Delaware Blue Coats",
+      "utc": "2027-03-03T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-03-osceola-magic-westchester-knicks",
+      "weekend": "2027-03-03",
+      "name": "Osceola Magic v Westchester Knicks",
+      "utc": "2027-03-03T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-03-laketown-squadron-windy-city-bulls",
+      "weekend": "2027-03-03",
+      "name": "Laketown Squadron v Windy City Bulls",
+      "utc": "2027-03-03T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-03-valley-suns-san-diego-clippers",
+      "weekend": "2027-03-03",
+      "name": "Valley Suns v San Diego Clippers",
+      "utc": "2027-03-03T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-03-coachella-valley-lakers-texas-legends",
+      "weekend": "2027-03-03",
+      "name": "Coachella Valley Lakers v Texas Legends",
+      "utc": "2027-03-03T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-03-greensboro-swarm-motor-city-cruise",
+      "weekend": "2027-03-03",
+      "name": "Greensboro Swarm v Motor City Cruise",
+      "utc": "2027-03-03T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-03-cleveland-charge-college-park-skyhawks",
+      "weekend": "2027-03-03",
+      "name": "Cleveland Charge v College Park Skyhawks",
+      "utc": "2027-03-03T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-03-memphis-hustle-iowa-wolves",
+      "weekend": "2027-03-03",
+      "name": "Memphis Hustle v Iowa Wolves",
+      "utc": "2027-03-03T16:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-03-oklahoma-city-blue-santa-cruz-warriors",
+      "weekend": "2027-03-03",
+      "name": "Oklahoma City Blue v Santa Cruz Warriors",
+      "utc": "2027-03-03T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-04-salt-lake-city-stars-mexico-city-capitanes",
+      "weekend": "2027-03-04",
+      "name": "Salt Lake City Stars v Mexico City Capitanes",
+      "utc": "2027-03-04T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-04-stockton-kings-rip-city-remix",
+      "weekend": "2027-03-04",
+      "name": "Stockton Kings v Rip City Remix",
+      "utc": "2027-03-04T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-04-laketown-squadron-windy-city-bulls",
+      "weekend": "2027-03-04",
+      "name": "Laketown Squadron v Windy City Bulls",
+      "utc": "2027-03-04T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-05-long-island-nets-noblesville-boom",
+      "weekend": "2027-03-05",
+      "name": "Long Island Nets v Noblesville Boom",
+      "utc": "2027-03-05T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-05-grand-rapids-gold-maine-celtics",
+      "weekend": "2027-03-05",
+      "name": "Grand Rapids Gold v Maine Celtics",
+      "utc": "2027-03-05T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-05-san-diego-clippers-coachella-valley-lakers",
+      "weekend": "2027-03-05",
+      "name": "San Diego Clippers v Coachella Valley Lakers",
+      "utc": "2027-03-05T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-05-memphis-hustle-valley-suns",
+      "weekend": "2027-03-05",
+      "name": "Memphis Hustle v Valley Suns",
+      "utc": "2027-03-05T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-05-austin-spurs-rio-grande-valley-vipers",
+      "weekend": "2027-03-05",
+      "name": "Austin Spurs v Rio Grande Valley Vipers",
+      "utc": "2027-03-05T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-05-raptors-905-capital-city-go-go",
+      "weekend": "2027-03-05",
+      "name": "Raptors 905 v Capital City Go-Go",
+      "utc": "2027-03-05T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-05-laketown-squadron-osceola-magic",
+      "weekend": "2027-03-05",
+      "name": "Laketown Squadron v Osceola Magic",
+      "utc": "2027-03-05T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-06-greensboro-swarm-wisconsin-herd",
+      "weekend": "2027-03-06",
+      "name": "Greensboro Swarm v Wisconsin Herd",
+      "utc": "2027-03-06T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-06-cleveland-charge-westchester-knicks",
+      "weekend": "2027-03-06",
+      "name": "Cleveland Charge v Westchester Knicks",
+      "utc": "2027-03-06T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-06-sioux-falls-skyforce-iowa-wolves",
+      "weekend": "2027-03-06",
+      "name": "Sioux Falls Skyforce v Iowa Wolves",
+      "utc": "2027-03-06T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-06-oklahoma-city-blue-santa-cruz-warriors",
+      "weekend": "2027-03-06",
+      "name": "Oklahoma City Blue v Santa Cruz Warriors",
+      "utc": "2027-03-06T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-06-stockton-kings-mexico-city-capitanes",
+      "weekend": "2027-03-06",
+      "name": "Stockton Kings v Mexico City Capitanes",
+      "utc": "2027-03-06T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-06-greensboro-swarm-wisconsin-herd-2",
+      "weekend": "2027-03-06",
+      "name": "Greensboro Swarm v Wisconsin Herd",
+      "utc": "2027-03-06T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-07-sioux-falls-skyforce-iowa-wolves",
+      "weekend": "2027-03-07",
+      "name": "Sioux Falls Skyforce v Iowa Wolves",
+      "utc": "2027-03-07T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-07-long-island-nets-noblesville-boom",
+      "weekend": "2027-03-07",
+      "name": "Long Island Nets v Noblesville Boom",
+      "utc": "2027-03-07T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-07-raptors-905-capital-city-go-go",
+      "weekend": "2027-03-07",
+      "name": "Raptors 905 v Capital City Go-Go",
+      "utc": "2027-03-07T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-07-osceola-magic-delaware-blue-coats",
+      "weekend": "2027-03-07",
+      "name": "Osceola Magic v Delaware Blue Coats",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-07-austin-spurs-rio-grande-valley-vipers",
+      "weekend": "2027-03-07",
+      "name": "Austin Spurs v Rio Grande Valley Vipers",
+      "utc": "2027-03-07T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-07-cleveland-charge-westchester-knicks",
+      "weekend": "2027-03-07",
+      "name": "Cleveland Charge v Westchester Knicks",
+      "utc": "2027-03-07T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-07-stockton-kings-san-diego-clippers",
+      "weekend": "2027-03-07",
+      "name": "Stockton Kings v San Diego Clippers",
+      "utc": "2027-03-07T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-07-rip-city-remix-santa-cruz-warriors",
+      "weekend": "2027-03-07",
+      "name": "Rip City Remix v Santa Cruz Warriors",
+      "utc": "2027-03-07T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-08-maine-celtics-college-park-skyhawks",
+      "weekend": "2027-03-08",
+      "name": "Maine Celtics v College Park Skyhawks",
+      "utc": "2027-03-08T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-09-salt-lake-city-stars-valley-suns",
+      "weekend": "2027-03-09",
+      "name": "Salt Lake City Stars v Valley Suns",
+      "utc": "2027-03-09T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-09-memphis-hustle-sioux-falls-skyforce",
+      "weekend": "2027-03-09",
+      "name": "Memphis Hustle v Sioux Falls Skyforce",
+      "utc": "2027-03-09T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-10-grand-rapids-gold-raptors-905",
+      "weekend": "2027-03-10",
+      "name": "Grand Rapids Gold v Raptors 905",
+      "utc": "2027-03-10T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-10-iowa-wolves-austin-spurs",
+      "weekend": "2027-03-10",
+      "name": "Iowa Wolves v Austin Spurs",
+      "utc": "2027-03-10T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-10-salt-lake-city-stars-coachella-valley-lakers",
+      "weekend": "2027-03-10",
+      "name": "Salt Lake City Stars v Coachella Valley Lakers",
+      "utc": "2027-03-10T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-10-rio-grande-valley-vipers-texas-legends",
+      "weekend": "2027-03-10",
+      "name": "Rio Grande Valley Vipers v Texas Legends",
+      "utc": "2027-03-10T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-10-oklahoma-city-blue-rip-city-remix",
+      "weekend": "2027-03-10",
+      "name": "Oklahoma City Blue v Rip City Remix",
+      "utc": "2027-03-10T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-10-stockton-kings-san-diego-clippers",
+      "weekend": "2027-03-10",
+      "name": "Stockton Kings v San Diego Clippers",
+      "utc": "2027-03-10T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-10-noblesville-boom-greensboro-swarm",
+      "weekend": "2027-03-10",
+      "name": "Noblesville Boom v Greensboro Swarm",
+      "utc": "2027-03-10T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-11-osceola-magic-college-park-skyhawks",
+      "weekend": "2027-03-11",
+      "name": "Osceola Magic v College Park Skyhawks",
+      "utc": "2027-03-11T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-11-maine-celtics-windy-city-bulls",
+      "weekend": "2027-03-11",
+      "name": "Maine Celtics v Windy City Bulls",
+      "utc": "2027-03-11T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-11-memphis-hustle-sioux-falls-skyforce",
+      "weekend": "2027-03-11",
+      "name": "Memphis Hustle v Sioux Falls Skyforce",
+      "utc": "2027-03-11T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-11-westchester-knicks-wisconsin-herd",
+      "weekend": "2027-03-11",
+      "name": "Westchester Knicks v Wisconsin Herd",
+      "utc": "2027-03-11T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-12-raptors-905-motor-city-cruise",
+      "weekend": "2027-03-12",
+      "name": "Raptors 905 v Motor City Cruise",
+      "utc": "2027-03-12T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-12-rio-grande-valley-vipers-rip-city-remix",
+      "weekend": "2027-03-12",
+      "name": "Rio Grande Valley Vipers v Rip City Remix",
+      "utc": "2027-03-12T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-12-memphis-hustle-stockton-kings",
+      "weekend": "2027-03-12",
+      "name": "Memphis Hustle v Stockton Kings",
+      "utc": "2027-03-12T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-12-austin-spurs-salt-lake-city-stars",
+      "weekend": "2027-03-12",
+      "name": "Austin Spurs v Salt Lake City Stars",
+      "utc": "2027-03-12T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-13-osceola-magic-college-park-skyhawks",
+      "weekend": "2027-03-13",
+      "name": "Osceola Magic v College Park Skyhawks",
+      "utc": "2027-03-13T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-13-maine-celtics-long-island-nets",
+      "weekend": "2027-03-13",
+      "name": "Maine Celtics v Long Island Nets",
+      "utc": "2027-03-13T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-13-delaware-blue-coats-laketown-squadron",
+      "weekend": "2027-03-13",
+      "name": "Delaware Blue Coats v Laketown Squadron",
+      "utc": "2027-03-13T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-13-raptors-905-motor-city-cruise",
+      "weekend": "2027-03-13",
+      "name": "Raptors 905 v Motor City Cruise",
+      "utc": "2027-03-13T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-13-windy-city-bulls-capital-city-go-go",
+      "weekend": "2027-03-13",
+      "name": "Windy City Bulls v Capital City Go-Go",
+      "utc": "2027-03-13T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-13-texas-legends-sioux-falls-skyforce",
+      "weekend": "2027-03-13",
+      "name": "Texas Legends v Sioux Falls Skyforce",
+      "utc": "2027-03-13T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-13-santa-cruz-warriors-oklahoma-city-blue",
+      "weekend": "2027-03-13",
+      "name": "Santa Cruz Warriors v Oklahoma City Blue",
+      "utc": "2027-03-13T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-13-greensboro-swarm-grand-rapids-gold",
+      "weekend": "2027-03-13",
+      "name": "Greensboro Swarm v Grand Rapids Gold",
+      "utc": "2027-03-13T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-cleveland-charge-wisconsin-herd",
+      "weekend": "2027-03-14",
+      "name": "Cleveland Charge v Wisconsin Herd",
+      "utc": "2027-03-14T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-texas-legends-sioux-falls-skyforce",
+      "weekend": "2027-03-14",
+      "name": "Texas Legends v Sioux Falls Skyforce",
+      "utc": "2027-03-14T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-austin-spurs-salt-lake-city-stars",
+      "weekend": "2027-03-14",
+      "name": "Austin Spurs v Salt Lake City Stars",
+      "utc": "2027-03-14T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-rio-grande-valley-vipers-rip-city-remix",
+      "weekend": "2027-03-14",
+      "name": "Rio Grande Valley Vipers v Rip City Remix",
+      "utc": "2027-03-14T01:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-santa-cruz-warriors-oklahoma-city-blue",
+      "weekend": "2027-03-14",
+      "name": "Santa Cruz Warriors v Oklahoma City Blue",
+      "utc": "2027-03-14T03:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-delaware-blue-coats-laketown-squadron",
+      "weekend": "2027-03-14",
+      "name": "Delaware Blue Coats v Laketown Squadron",
+      "utc": "2027-03-14T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-raptors-905-noblesville-boom",
+      "weekend": "2027-03-14",
+      "name": "Raptors 905 v Noblesville Boom",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-college-park-skyhawks-motor-city-cruise",
+      "weekend": "2027-03-14",
+      "name": "College Park Skyhawks v Motor City Cruise",
+      "utc": "2027-03-14T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-windy-city-bulls-capital-city-go-go",
+      "weekend": "2027-03-14",
+      "name": "Windy City Bulls v Capital City Go-Go",
+      "utc": "2027-03-14T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-osceola-magic-long-island-nets",
+      "weekend": "2027-03-14",
+      "name": "Osceola Magic v Long Island Nets",
+      "utc": "2027-03-14T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-iowa-wolves-stockton-kings",
+      "weekend": "2027-03-14",
+      "name": "Iowa Wolves v Stockton Kings",
+      "utc": "2027-03-14T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-14-cleveland-charge-wisconsin-herd-2",
+      "weekend": "2027-03-14",
+      "name": "Cleveland Charge v Wisconsin Herd",
+      "utc": "2027-03-14T21:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-15-mexico-city-capitanes-san-diego-clippers",
+      "weekend": "2027-03-15",
+      "name": "Mexico City Capitanes v San Diego Clippers",
+      "utc": "2027-03-15T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-15-delaware-blue-coats-greensboro-swarm",
+      "weekend": "2027-03-15",
+      "name": "Delaware Blue Coats v Greensboro Swarm",
+      "utc": "2027-03-15T15:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-15-mexico-city-capitanes-san-diego-clippers-2",
+      "weekend": "2027-03-15",
+      "name": "Mexico City Capitanes v San Diego Clippers",
+      "utc": "2027-03-15T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-16-texas-legends-santa-cruz-warriors",
+      "weekend": "2027-03-16",
+      "name": "Texas Legends v Santa Cruz Warriors",
+      "utc": "2027-03-16T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-16-rip-city-remix-salt-lake-city-stars",
+      "weekend": "2027-03-16",
+      "name": "Rip City Remix v Salt Lake City Stars",
+      "utc": "2027-03-16T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-16-capital-city-go-go-laketown-squadron",
+      "weekend": "2027-03-16",
+      "name": "Capital City Go-Go v Laketown Squadron",
+      "utc": "2027-03-16T15:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-16-oklahoma-city-blue-valley-suns",
+      "weekend": "2027-03-16",
+      "name": "Oklahoma City Blue v Valley Suns",
+      "utc": "2027-03-16T17:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-16-wisconsin-herd-windy-city-bulls",
+      "weekend": "2027-03-16",
+      "name": "Wisconsin Herd v Windy City Bulls",
+      "utc": "2027-03-16T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-16-long-island-nets-westchester-knicks",
+      "weekend": "2027-03-16",
+      "name": "Long Island Nets v Westchester Knicks",
+      "utc": "2027-03-16T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-16-college-park-skyhawks-motor-city-cruise",
+      "weekend": "2027-03-16",
+      "name": "College Park Skyhawks v Motor City Cruise",
+      "utc": "2027-03-16T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-17-memphis-hustle-austin-spurs",
+      "weekend": "2027-03-17",
+      "name": "Memphis Hustle v Austin Spurs",
+      "utc": "2027-03-17T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-17-coachella-valley-lakers-rio-grande-valley-vipers",
+      "weekend": "2027-03-17",
+      "name": "Coachella Valley Lakers v Rio Grande Valley Vipers",
+      "utc": "2027-03-17T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-17-oklahoma-city-blue-valley-suns",
+      "weekend": "2027-03-17",
+      "name": "Oklahoma City Blue v Valley Suns",
+      "utc": "2027-03-17T16:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-17-capital-city-go-go-laketown-squadron",
+      "weekend": "2027-03-17",
+      "name": "Capital City Go-Go v Laketown Squadron",
+      "utc": "2027-03-17T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-18-rip-city-remix-salt-lake-city-stars",
+      "weekend": "2027-03-18",
+      "name": "Rip City Remix v Salt Lake City Stars",
+      "utc": "2027-03-18T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-18-texas-legends-stockton-kings",
+      "weekend": "2027-03-18",
+      "name": "Texas Legends v Stockton Kings",
+      "utc": "2027-03-18T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-18-memphis-hustle-austin-spurs",
+      "weekend": "2027-03-18",
+      "name": "Memphis Hustle v Austin Spurs",
+      "utc": "2027-03-18T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-18-windy-city-bulls-delaware-blue-coats",
+      "weekend": "2027-03-18",
+      "name": "Windy City Bulls v Delaware Blue Coats",
+      "utc": "2027-03-18T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-18-iowa-wolves-mexico-city-capitanes",
+      "weekend": "2027-03-18",
+      "name": "Iowa Wolves v Mexico City Capitanes",
+      "utc": "2027-03-18T23:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-19-san-diego-clippers-sioux-falls-skyforce",
+      "weekend": "2027-03-19",
+      "name": "San Diego Clippers v Sioux Falls Skyforce",
+      "utc": "2027-03-19T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-19-coachella-valley-lakers-rio-grande-valley-vipers",
+      "weekend": "2027-03-19",
+      "name": "Coachella Valley Lakers v Rio Grande Valley Vipers",
+      "utc": "2027-03-19T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-19-laketown-squadron-maine-celtics",
+      "weekend": "2027-03-19",
+      "name": "Laketown Squadron v Maine Celtics",
+      "utc": "2027-03-19T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-19-noblesville-boom-college-park-skyhawks",
+      "weekend": "2027-03-19",
+      "name": "Noblesville Boom v College Park Skyhawks",
+      "utc": "2027-03-19T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-19-cleveland-charge-osceola-magic",
+      "weekend": "2027-03-19",
+      "name": "Cleveland Charge v Osceola Magic",
+      "utc": "2027-03-19T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-20-windy-city-bulls-delaware-blue-coats",
+      "weekend": "2027-03-20",
+      "name": "Windy City Bulls v Delaware Blue Coats",
+      "utc": "2027-03-20T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-20-iowa-wolves-mexico-city-capitanes",
+      "weekend": "2027-03-20",
+      "name": "Iowa Wolves v Mexico City Capitanes",
+      "utc": "2027-03-20T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-20-rip-city-remix-memphis-hustle",
+      "weekend": "2027-03-20",
+      "name": "Rip City Remix v Memphis Hustle",
+      "utc": "2027-03-20T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-20-santa-cruz-warriors-salt-lake-city-stars",
+      "weekend": "2027-03-20",
+      "name": "Santa Cruz Warriors v Salt Lake City Stars",
+      "utc": "2027-03-20T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-20-san-diego-clippers-sioux-falls-skyforce",
+      "weekend": "2027-03-20",
+      "name": "San Diego Clippers v Sioux Falls Skyforce",
+      "utc": "2027-03-20T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-20-grand-rapids-gold-long-island-nets",
+      "weekend": "2027-03-20",
+      "name": "Grand Rapids Gold v Long Island Nets",
+      "utc": "2027-03-20T16:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-20-motor-city-cruise-westchester-knicks",
+      "weekend": "2027-03-20",
+      "name": "Motor City Cruise v Westchester Knicks",
+      "utc": "2027-03-20T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-wisconsin-herd-raptors-905",
+      "weekend": "2027-03-21",
+      "name": "Wisconsin Herd v Raptors 905",
+      "utc": "2027-03-21T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-austin-spurs-valley-suns",
+      "weekend": "2027-03-21",
+      "name": "Austin Spurs v Valley Suns",
+      "utc": "2027-03-21T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-stockton-kings-oklahoma-city-blue",
+      "weekend": "2027-03-21",
+      "name": "Stockton Kings v Oklahoma City Blue",
+      "utc": "2027-03-21T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-santa-cruz-warriors-salt-lake-city-stars",
+      "weekend": "2027-03-21",
+      "name": "Santa Cruz Warriors v Salt Lake City Stars",
+      "utc": "2027-03-21T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-noblesville-boom-college-park-skyhawks",
+      "weekend": "2027-03-21",
+      "name": "Noblesville Boom v College Park Skyhawks",
+      "utc": "2027-03-21T18:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-motor-city-cruise-westchester-knicks",
+      "weekend": "2027-03-21",
+      "name": "Motor City Cruise v Westchester Knicks",
+      "utc": "2027-03-21T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-maine-celtics-delaware-blue-coats",
+      "weekend": "2027-03-21",
+      "name": "Maine Celtics v Delaware Blue Coats",
+      "utc": "2027-03-21T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-capital-city-go-go-cleveland-charge",
+      "weekend": "2027-03-21",
+      "name": "Capital City Go-Go v Cleveland Charge",
+      "utc": "2027-03-21T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-wisconsin-herd-raptors-905-2",
+      "weekend": "2027-03-21",
+      "name": "Wisconsin Herd v Raptors 905",
+      "utc": "2027-03-21T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-iowa-wolves-texas-legends",
+      "weekend": "2027-03-21",
+      "name": "Iowa Wolves v Texas Legends",
+      "utc": "2027-03-21T20:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-rip-city-remix-memphis-hustle",
+      "weekend": "2027-03-21",
+      "name": "Rip City Remix v Memphis Hustle",
+      "utc": "2027-03-21T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-21-mexico-city-capitanes-sioux-falls-skyforce",
+      "weekend": "2027-03-21",
+      "name": "Mexico City Capitanes v Sioux Falls Skyforce",
+      "utc": "2027-03-21T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-22-san-diego-clippers-rio-grande-valley-vipers",
+      "weekend": "2027-03-22",
+      "name": "San Diego Clippers v Rio Grande Valley Vipers",
+      "utc": "2027-03-22T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-22-osceola-magic-greensboro-swarm",
+      "weekend": "2027-03-22",
+      "name": "Osceola Magic v Greensboro Swarm",
+      "utc": "2027-03-22T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-23-rip-city-remix-austin-spurs",
+      "weekend": "2027-03-23",
+      "name": "Rip City Remix v Austin Spurs",
+      "utc": "2027-03-23T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-23-windy-city-bulls-long-island-nets",
+      "weekend": "2027-03-23",
+      "name": "Windy City Bulls v Long Island Nets",
+      "utc": "2027-03-23T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-23-oklahoma-city-blue-coachella-valley-lakers",
+      "weekend": "2027-03-23",
+      "name": "Oklahoma City Blue v Coachella Valley Lakers",
+      "utc": "2027-03-23T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-23-valley-suns-santa-cruz-warriors",
+      "weekend": "2027-03-23",
+      "name": "Valley Suns v Santa Cruz Warriors",
+      "utc": "2027-03-23T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-23-salt-lake-city-stars-stockton-kings",
+      "weekend": "2027-03-23",
+      "name": "Salt Lake City Stars v Stockton Kings",
+      "utc": "2027-03-23T16:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-23-motor-city-cruise-laketown-squadron",
+      "weekend": "2027-03-23",
+      "name": "Motor City Cruise v Laketown Squadron",
+      "utc": "2027-03-23T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-23-college-park-skyhawks-noblesville-boom",
+      "weekend": "2027-03-23",
+      "name": "College Park Skyhawks v Noblesville Boom",
+      "utc": "2027-03-23T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-23-capital-city-go-go-cleveland-charge",
+      "weekend": "2027-03-23",
+      "name": "Capital City Go-Go v Cleveland Charge",
+      "utc": "2027-03-23T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-23-iowa-wolves-texas-legends",
+      "weekend": "2027-03-23",
+      "name": "Iowa Wolves v Texas Legends",
+      "utc": "2027-03-23T23:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-24-oklahoma-city-blue-coachella-valley-lakers",
+      "weekend": "2027-03-24",
+      "name": "Oklahoma City Blue v Coachella Valley Lakers",
+      "utc": "2027-03-24T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-24-san-diego-clippers-rio-grande-valley-vipers",
+      "weekend": "2027-03-24",
+      "name": "San Diego Clippers v Rio Grande Valley Vipers",
+      "utc": "2027-03-24T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-24-mexico-city-capitanes-sioux-falls-skyforce",
+      "weekend": "2027-03-24",
+      "name": "Mexico City Capitanes v Sioux Falls Skyforce",
+      "utc": "2027-03-24T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-24-raptors-905-grand-rapids-gold",
+      "weekend": "2027-03-24",
+      "name": "Raptors 905 v Grand Rapids Gold",
+      "utc": "2027-03-24T15:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-24-osceola-magic-greensboro-swarm",
+      "weekend": "2027-03-24",
+      "name": "Osceola Magic v Greensboro Swarm",
+      "utc": "2027-03-24T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-24-maine-celtics-delaware-blue-coats",
+      "weekend": "2027-03-24",
+      "name": "Maine Celtics v Delaware Blue Coats",
+      "utc": "2027-03-24T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-25-windy-city-bulls-long-island-nets",
+      "weekend": "2027-03-25",
+      "name": "Windy City Bulls v Long Island Nets",
+      "utc": "2027-03-25T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-25-rip-city-remix-austin-spurs",
+      "weekend": "2027-03-25",
+      "name": "Rip City Remix v Austin Spurs",
+      "utc": "2027-03-25T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-25-valley-suns-santa-cruz-warriors",
+      "weekend": "2027-03-25",
+      "name": "Valley Suns v Santa Cruz Warriors",
+      "utc": "2027-03-25T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-25-motor-city-cruise-laketown-squadron",
+      "weekend": "2027-03-25",
+      "name": "Motor City Cruise v Laketown Squadron",
+      "utc": "2027-03-25T15:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-25-osceola-magic-noblesville-boom",
+      "weekend": "2027-03-25",
+      "name": "Osceola Magic v Noblesville Boom",
+      "utc": "2027-03-25T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-25-capital-city-go-go-westchester-knicks",
+      "weekend": "2027-03-25",
+      "name": "Capital City Go-Go v Westchester Knicks",
+      "utc": "2027-03-25T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-25-raptors-905-grand-rapids-gold",
+      "weekend": "2027-03-25",
+      "name": "Raptors 905 v Grand Rapids Gold",
+      "utc": "2027-03-25T23:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-26-texas-legends-memphis-hustle",
+      "weekend": "2027-03-26",
+      "name": "Texas Legends v Memphis Hustle",
+      "utc": "2027-03-26T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-26-delaware-blue-coats-long-island-nets",
+      "weekend": "2027-03-26",
+      "name": "Delaware Blue Coats v Long Island Nets",
+      "utc": "2027-03-26T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-27-wisconsin-herd-maine-celtics",
+      "weekend": "2027-03-27",
+      "name": "Wisconsin Herd v Maine Celtics",
+      "utc": "2027-03-27T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-27-windy-city-bulls-greensboro-swarm",
+      "weekend": "2027-03-27",
+      "name": "Windy City Bulls v Greensboro Swarm",
+      "utc": "2027-03-27T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-27-sioux-falls-skyforce-coachella-valley-lakers",
+      "weekend": "2027-03-27",
+      "name": "Sioux Falls Skyforce v Coachella Valley Lakers",
+      "utc": "2027-03-27T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-27-rio-grande-valley-vipers-salt-lake-city-stars",
+      "weekend": "2027-03-27",
+      "name": "Rio Grande Valley Vipers v Salt Lake City Stars",
+      "utc": "2027-03-27T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-27-valley-suns-austin-spurs",
+      "weekend": "2027-03-27",
+      "name": "Valley Suns v Austin Spurs",
+      "utc": "2027-03-27T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-27-santa-cruz-warriors-stockton-kings",
+      "weekend": "2027-03-27",
+      "name": "Santa Cruz Warriors v Stockton Kings",
+      "utc": "2027-03-27T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-27-mexico-city-capitanes-iowa-wolves",
+      "weekend": "2027-03-27",
+      "name": "Mexico City Capitanes v Iowa Wolves",
+      "utc": "2027-03-27T02:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-27-westchester-knicks-raptors-905",
+      "weekend": "2027-03-27",
+      "name": "Westchester Knicks v Raptors 905",
+      "utc": "2027-03-27T19:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-27-long-island-nets-motor-city-cruise",
+      "weekend": "2027-03-27",
+      "name": "Long Island Nets v Motor City Cruise",
+      "utc": "2027-03-27T22:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-27-grand-rapids-gold-osceola-magic",
+      "weekend": "2027-03-27",
+      "name": "Grand Rapids Gold v Osceola Magic",
+      "utc": "2027-03-27T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-27-cleveland-charge-college-park-skyhawks",
+      "weekend": "2027-03-27",
+      "name": "Cleveland Charge v College Park Skyhawks",
+      "utc": "2027-03-27T23:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-28-wisconsin-herd-maine-celtics",
+      "weekend": "2027-03-28",
+      "name": "Wisconsin Herd v Maine Celtics",
+      "utc": "2027-03-28T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-28-windy-city-bulls-greensboro-swarm",
+      "weekend": "2027-03-28",
+      "name": "Windy City Bulls v Greensboro Swarm",
+      "utc": "2027-03-28T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-28-texas-legends-memphis-hustle",
+      "weekend": "2027-03-28",
+      "name": "Texas Legends v Memphis Hustle",
+      "utc": "2027-03-28T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-28-sioux-falls-skyforce-coachella-valley-lakers",
+      "weekend": "2027-03-28",
+      "name": "Sioux Falls Skyforce v Coachella Valley Lakers",
+      "utc": "2027-03-28T00:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-28-rio-grande-valley-vipers-salt-lake-city-stars",
+      "weekend": "2027-03-28",
+      "name": "Rio Grande Valley Vipers v Salt Lake City Stars",
+      "utc": "2027-03-28T00:30:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-28-mexico-city-capitanes-iowa-wolves",
+      "weekend": "2027-03-28",
+      "name": "Mexico City Capitanes v Iowa Wolves",
+      "utc": "2027-03-28T01:00:00Z"
+    },
+    {
+      "id": "nba-development-2027-03-28-santa-cruz-warriors-stockton-kings",
+      "weekend": "2027-03-28",
+      "name": "Santa Cruz Warriors v Stockton Kings",
+      "utc": "2027-03-28T02:00:00Z"
+    }
+  ]
+}
