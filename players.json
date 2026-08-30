@@ -1,845 +1,218 @@
 [
   {
-    "name": "Max Verstappen",
-    "team": "Red Bull Racing",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇳🇱 Netherlands",
-    "category": "MOTORSPORT"
+    "name": "Anthony Davis",
+    "team": "Los Angeles Lakers",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Lewis Hamilton",
-    "team": "Ferrari",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇬🇧 Great Britain",
-    "category": "MOTORSPORT"
+    "name": "Anthony Edwards",
+    "team": "Minnesota Timberwolves",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Charles Leclerc",
-    "team": "Ferrari",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇲🇨 Monaco",
-    "category": "MOTORSPORT"
+    "name": "Bam Adebayo",
+    "team": "Miami Heat",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Lando Norris",
-    "team": "McLaren",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇬🇧 Great Britain",
-    "category": "MOTORSPORT"
+    "name": "Chet Holmgren",
+    "team": "Oklahoma City Thunder",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Oscar Piastri",
-    "team": "McLaren",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇦🇺 Australia",
-    "category": "MOTORSPORT"
+    "name": "Damian Lillard",
+    "team": "Milwaukee Bucks",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "George Russell",
-    "team": "Mercedes",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇬🇧 Great Britain",
-    "category": "MOTORSPORT"
+    "name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Fernando Alonso",
-    "team": "Aston Martin",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇪🇸 Spain",
-    "category": "MOTORSPORT"
+    "name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇬🇷 Greece",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Carlos Sainz",
-    "team": "Williams",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇪🇸 Spain",
-    "category": "MOTORSPORT"
+    "name": "Ja Morant",
+    "team": "Memphis Grizzlies",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Liam Lawson",
-    "team": "Red Bull Racing",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇳🇿 New Zealand",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Alex Albon",
-    "team": "Williams",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇹🇭 Thailand",
-    "category": "MOTORSPORT"
-  },
-  {
-<<<<<<< HEAD
-    "name": "Yuki Tsunoda",
-    "team": "RB",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇯🇵 Japan",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Isack Hadjar",
-    "team": "RB",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇫🇷 France",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Pierre Gasly",
-    "team": "Alpine",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇫🇷 France",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Jack Doohan",
-    "team": "Alpine",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇦🇺 Australia",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Nico Hülkenberg",
-    "team": "Sauber",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇩🇪 Germany",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Gabriel Bortoleto",
-    "team": "Sauber",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇧🇷 Brazil",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Esteban Ocon",
-    "team": "Haas",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇫🇷 France",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Oliver Bearman",
-    "team": "Haas",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇬🇧 Great Britain",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Lance Stroll",
-    "team": "Aston Martin",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
+    "name": "Jamal Murray",
+    "team": "Denver Nuggets",
+    "leagueId": "nba",
+    "leagueName": "NBA",
     "country": "🇨🇦 Canada",
-    "category": "MOTORSPORT"
+    "category": "BASKETBALL"
   },
   {
-    "name": "Kimi Antonelli",
-    "team": "Mercedes",
-    "leagueId": "f1",
-    "leagueName": "Formula 1",
-    "country": "🇮🇹 Italy",
-    "category": "MOTORSPORT"
+    "name": "Jaylen Brown",
+    "team": "Boston Celtics",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Marc Márquez",
-    "team": "Ducati Lenovo",
-    "leagueId": "motogp",
-    "leagueName": "MotoGP",
-    "country": "🇪🇸 Spain",
-    "category": "MOTORSPORT"
+    "name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Francesco Bagnaia",
-    "team": "Ducati Lenovo",
-    "leagueId": "motogp",
-    "leagueName": "MotoGP",
-    "country": "🇮🇹 Italy",
-    "category": "MOTORSPORT"
+    "name": "Jimmy Butler",
+    "team": "Miami Heat",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Jorge Martín",
-    "team": "Aprilia Racing",
-    "leagueId": "motogp",
-    "leagueName": "MotoGP",
-    "country": "🇪🇸 Spain",
-    "category": "MOTORSPORT"
+    "name": "Joel Embiid",
+    "team": "Philadelphia 76ers",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Pedro Acosta",
-    "team": "Red Bull KTM",
-    "leagueId": "motogp",
-    "leagueName": "MotoGP",
-    "country": "🇪🇸 Spain",
-    "category": "MOTORSPORT"
+    "name": "Kevin Durant",
+    "team": "Phoenix Suns",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-<<<<<<< HEAD
-    "name": "Brad Binder",
-    "team": "Red Bull KTM",
-    "leagueId": "motogp",
-    "leagueName": "MotoGP",
-    "country": "🇿🇦 South Africa",
-    "category": "MOTORSPORT"
+    "name": "Kyrie Irving",
+    "team": "Dallas Mavericks",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Marco Bezzecchi",
-    "team": "Aprilia Racing",
-    "leagueId": "motogp",
-    "leagueName": "MotoGP",
-    "country": "🇮🇹 Italy",
-    "category": "MOTORSPORT"
+    "name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Fabio Quartararo",
-    "team": "Monster Yamaha",
-    "leagueId": "motogp",
-    "leagueName": "MotoGP",
-    "country": "🇫🇷 France",
-    "category": "MOTORSPORT"
+    "name": "Luka Dončić",
+    "team": "Dallas Mavericks",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇸🇮 Slovenia",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Maverick Viñales",
-    "team": "Tech3 KTM",
-    "leagueId": "motogp",
-    "leagueName": "MotoGP",
-    "country": "🇪🇸 Spain",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Enea Bastianini",
-    "team": "Tech3 KTM",
-    "leagueId": "motogp",
-    "leagueName": "MotoGP",
-    "country": "🇮🇹 Italy",
-    "category": "MOTORSPORT"
-  },
-  {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Kalle Rovanperä",
-    "team": "Toyota Gazoo Racing",
-    "leagueId": "wrc",
-    "leagueName": "WRC",
-    "country": "🇫🇮 Finland",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Thierry Neuville",
-    "team": "Hyundai Motorsport",
-    "leagueId": "wrc",
-    "leagueName": "WRC",
-    "country": "🇧🇪 Belgium",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Sébastien Ogier",
-    "team": "Toyota Gazoo Racing",
-    "leagueId": "wrc",
-    "leagueName": "WRC",
-    "country": "🇫🇷 France",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Elfyn Evans",
-    "team": "Toyota Gazoo Racing",
-    "leagueId": "wrc",
-    "leagueName": "WRC",
-    "country": "🇬🇧 Great Britain",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Ott Tänak",
-    "team": "Hyundai Motorsport",
-    "leagueId": "wrc",
-    "leagueName": "WRC",
-    "country": "🇪🇪 Estonia",
-    "category": "MOTORSPORT"
-  },
-  {
-<<<<<<< HEAD
-    "name": "Adrien Fourmaux",
-    "team": "M-Sport Ford",
-    "leagueId": "wrc",
-    "leagueName": "WRC",
-    "country": "🇫🇷 France",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Takamoto Katsuta",
-    "team": "Toyota Gazoo Racing",
-    "leagueId": "wrc",
-    "leagueName": "WRC",
-    "country": "🇯🇵 Japan",
-    "category": "MOTORSPORT"
-  },
-  {
-    "name": "Grégoire Munster",
-    "team": "M-Sport Ford",
-    "leagueId": "wrc",
-    "leagueName": "WRC",
-    "country": "🇱🇺 Luxembourg",
-    "category": "MOTORSPORT"
-  },
-  {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Carlos Alcaraz",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
-    "country": "🇪🇸 Spain",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Jannik Sinner",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
-    "country": "🇮🇹 Italy",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Novak Djokovic",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
+    "name": "Nikola Jokić",
+    "team": "Denver Nuggets",
+    "leagueId": "nba",
+    "leagueName": "NBA",
     "country": "🇷🇸 Serbia",
-    "category": "TENNIS"
+    "category": "BASKETBALL"
   },
   {
-    "name": "Daniil Medvedev",
-<<<<<<< HEAD
-    "team": "ATP Tour",
-=======
-    "team": "Daniil Medvedev",
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
-    "country": "🇷🇺 Russia",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Alexander Zverev",
-<<<<<<< HEAD
-    "team": "ATP Tour",
-=======
-    "team": "Alexander Zverev",
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
-    "country": "🇩🇪 Germany",
-    "category": "TENNIS"
-  },
-  {
-<<<<<<< HEAD
-    "name": "Taylor Fritz",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
+    "name": "Paolo Banchero",
+    "team": "Orlando Magic",
+    "leagueId": "nba",
+    "leagueName": "NBA",
     "country": "🇺🇸 USA",
-    "category": "TENNIS"
+    "category": "BASKETBALL"
   },
   {
-    "name": "Casper Ruud",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
-    "country": "🇳🇴 Norway",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Stefanos Tsitsipas",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
-    "country": "🇬🇷 Greece",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Holger Rune",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
-    "country": "🇩🇰 Denmark",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Grigor Dimitrov",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
-    "country": "🇧🇬 Bulgaria",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Alex de Minaur",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
-    "country": "🇦🇺 Australia",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Tommy Paul",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
+    "name": "Paul George",
+    "team": "Philadelphia 76ers",
+    "leagueId": "nba",
+    "leagueName": "NBA",
     "country": "🇺🇸 USA",
-    "category": "TENNIS"
+    "category": "BASKETBALL"
   },
   {
-    "name": "Ben Shelton",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
+    "name": "Shai Gilgeous-Alexander",
+    "team": "Oklahoma City Thunder",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇨🇦 Canada",
+    "category": "BASKETBALL"
+  },
+  {
+    "name": "Stephen Curry",
+    "team": "Golden State Warriors",
+    "leagueId": "nba",
+    "leagueName": "NBA",
     "country": "🇺🇸 USA",
-    "category": "TENNIS"
+    "category": "BASKETBALL"
   },
   {
-    "name": "Frances Tiafoe",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
+    "name": "Trae Young",
+    "team": "Atlanta Hawks",
+    "leagueId": "nba",
+    "leagueName": "NBA",
     "country": "🇺🇸 USA",
-    "category": "TENNIS"
+    "category": "BASKETBALL"
   },
   {
-    "name": "Andrey Rublev",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
-    "country": "🇷🇺 Russia",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Hubert Hurkacz",
-    "team": "ATP Tour",
-    "leagueId": "atp",
-    "leagueName": "ATP Tour",
-    "country": "🇵🇱 Poland",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Aryna Sabalenka",
-    "team": "WTA Tour",
-=======
-    "name": "Aryna Sabalenka",
-    "team": "Aryna Sabalenka",
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "leagueId": "wta",
-    "leagueName": "WTA Tour",
-    "country": "🇧🇾 Belarus",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Iga Świątek",
-<<<<<<< HEAD
-    "team": "WTA Tour",
-=======
-    "team": "Iga Świątek",
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "leagueId": "wta",
-    "leagueName": "WTA Tour",
-    "country": "🇵🇱 Poland",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Coco Gauff",
-<<<<<<< HEAD
-    "team": "WTA Tour",
-=======
-    "team": "Coco Gauff",
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "leagueId": "wta",
-    "leagueName": "WTA Tour",
+    "name": "Tyrese Haliburton",
+    "team": "Indiana Pacers",
+    "leagueId": "nba",
+    "leagueName": "NBA",
     "country": "🇺🇸 USA",
-    "category": "TENNIS"
+    "category": "BASKETBALL"
   },
   {
-<<<<<<< HEAD
-    "name": "Elena Rybakina",
-    "team": "WTA Tour",
-    "leagueId": "wta",
-    "leagueName": "WTA Tour",
-    "country": "🇰🇿 Kazakhstan",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Jessica Pegula",
-    "team": "WTA Tour",
-    "leagueId": "wta",
-    "leagueName": "WTA Tour",
-    "country": "🇺🇸 USA",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Jasmine Paolini",
-    "team": "WTA Tour",
-    "leagueId": "wta",
-    "leagueName": "WTA Tour",
-    "country": "🇮🇹 Italy",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Qinwen Zheng",
-    "team": "WTA Tour",
-    "leagueId": "wta",
-    "leagueName": "WTA Tour",
-    "country": "🇨🇳 China",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Emma Navarro",
-    "team": "WTA Tour",
-    "leagueId": "wta",
-    "leagueName": "WTA Tour",
-    "country": "🇺🇸 USA",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Paula Badosa",
-    "team": "WTA Tour",
-    "leagueId": "wta",
-    "leagueName": "WTA Tour",
-    "country": "🇪🇸 Spain",
-    "category": "TENNIS"
-  },
-  {
-    "name": "Maria Sakkari",
-    "team": "WTA Tour",
-    "leagueId": "wta",
-    "leagueName": "WTA Tour",
-    "country": "🇬🇷 Greece",
-    "category": "TENNIS"
-  },
-  {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Jon Jones",
-    "team": "UFC Heavyweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇺🇸 USA",
-    "category": "MMA"
-  },
-  {
-    "name": "Alex Pereira",
-    "team": "UFC Light Heavyweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇧🇷 Brazil",
-    "category": "MMA"
-  },
-  {
-    "name": "Ilia Topuria",
-    "team": "UFC Featherweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇪🇸 Spain",
-    "category": "MMA"
-  },
-  {
-    "name": "Islam Makhachev",
-<<<<<<< HEAD
-    "team": "UFC Lightweight",
-=======
-    "team": "Islam Makhachev",
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇷🇺 Russia",
-    "category": "MMA"
-  },
-  {
-    "name": "Sean O'Malley",
-<<<<<<< HEAD
-    "team": "UFC Bantamweight",
-=======
-    "team": "Sean O'Malley",
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇺🇸 USA",
-    "category": "MMA"
-  },
-  {
-<<<<<<< HEAD
-    "name": "Merab Dvalishvili",
-    "team": "UFC Bantamweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇬🇪 Georgia",
-    "category": "MMA"
-  },
-  {
-    "name": "Dricus du Plessis",
-    "team": "UFC Middleweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇿🇦 South Africa",
-    "category": "MMA"
-  },
-  {
-    "name": "Israel Adesanya",
-    "team": "UFC Middleweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇳🇿 New Zealand",
-    "category": "MMA"
-  },
-  {
-    "name": "Belal Muhammad",
-    "team": "UFC Welterweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇵🇸 Palestine",
-    "category": "MMA"
-  },
-  {
-    "name": "Shavkat Rakhmonov",
-    "team": "UFC Welterweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇰🇿 Kazakhstan",
-    "category": "MMA"
-  },
-  {
-    "name": "Alexandre Pantoja",
-    "team": "UFC Flyweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇧🇷 Brazil",
-    "category": "MMA"
-  },
-  {
-    "name": "Max Holloway",
-    "team": "UFC Featherweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇺🇸 USA",
-    "category": "MMA"
-  },
-  {
-    "name": "Dustin Poirier",
-    "team": "UFC Lightweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇺🇸 USA",
-    "category": "MMA"
-  },
-  {
-    "name": "Justin Gaethje",
-    "team": "UFC Lightweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇺🇸 USA",
-    "category": "MMA"
-  },
-  {
-    "name": "Charles Oliveira",
-    "team": "UFC Lightweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇧🇷 Brazil",
-    "category": "MMA"
-  },
-  {
-    "name": "Khamzat Chimaev",
-    "team": "UFC Middleweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇦🇪 UAE",
-    "category": "MMA"
-  },
-  {
-    "name": "Tom Aspinall",
-    "team": "UFC Heavyweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
-    "country": "🇬🇧 Great Britain",
-    "category": "MMA"
-  },
-  {
-    "name": "Ciryl Gane",
-    "team": "UFC Heavyweight",
-    "leagueId": "ufc",
-    "leagueName": "UFC",
+    "name": "Victor Wembanyama",
+    "team": "San Antonio Spurs",
+    "leagueId": "nba",
+    "leagueName": "NBA",
     "country": "🇫🇷 France",
-    "category": "MMA"
+    "category": "BASKETBALL"
   },
   {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Erling Haaland",
-    "team": "Manchester City",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇳🇴 Norway",
-    "category": "FOOTBALL"
+    "name": "Zion Williamson",
+    "team": "New Orleans Pelicans",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
   },
   {
-    "name": "Kevin De Bruyne",
-    "team": "Manchester City",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇧🇪 Belgium",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Phil Foden",
-    "team": "Manchester City",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇬🇧 England",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Rodri",
-    "team": "Manchester City",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇪🇸 Spain",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Mohamed Salah",
-    "team": "Liverpool FC",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇪🇬 Egypt",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Virgil van Dijk",
-    "team": "Liverpool FC",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇳🇱 Netherlands",
-    "category": "FOOTBALL"
-  },
-  {
-<<<<<<< HEAD
-    "name": "Trent Alexander-Arnold",
-    "team": "Liverpool FC",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇬🇧 England",
-    "category": "FOOTBALL"
-  },
-  {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Bukayo Saka",
-    "team": "Arsenal",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇬🇧 England",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Martin Ødegaard",
-    "team": "Arsenal",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇳🇴 Norway",
-    "category": "FOOTBALL"
-  },
-  {
-<<<<<<< HEAD
-    "name": "Declan Rice",
-    "team": "Arsenal",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇬🇧 England",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "William Saliba",
-    "team": "Arsenal",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇫🇷 France",
-=======
-    "name": "Bruno Fernandes",
-    "team": "Manchester United",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇵🇹 Portugal",
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Cole Palmer",
-    "team": "Chelsea",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇬🇧 England",
-    "category": "FOOTBALL"
-  },
-  {
-<<<<<<< HEAD
-    "name": "Enzo Fernández",
-    "team": "Chelsea",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇦🇷 Argentina",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Bruno Fernandes",
-    "team": "Manchester United",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇵🇹 Portugal",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Marcus Rashford",
-    "team": "Manchester United",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇬🇧 England",
-    "category": "FOOTBALL"
-  },
-  {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Son Heung-min",
-    "team": "Tottenham Hotspur",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇰🇷 South Korea",
-    "category": "FOOTBALL"
-  },
-  {
-<<<<<<< HEAD
-    "name": "James Maddison",
-    "team": "Tottenham Hotspur",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇬🇧 England",
+    "name": "Achraf Hakimi",
+    "team": "Paris Saint-Germain",
+    "leagueId": "ligue1",
+    "leagueName": "Ligue 1",
+    "country": "🇲🇦 Morocco",
     "category": "FOOTBALL"
   },
   {
@@ -851,102 +224,35 @@
     "category": "FOOTBALL"
   },
   {
-    "name": "Ollie Watkins",
-    "team": "Aston Villa",
-    "leagueId": "premierleague",
-    "leagueName": "Premier League",
-    "country": "🇬🇧 England",
-    "category": "FOOTBALL"
-  },
-  {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Kylian Mbappé",
-    "team": "Real Madrid",
+    "name": "Antoine Griezmann",
+    "team": "Atletico Madrid",
     "leagueId": "laliga",
     "leagueName": "La Liga",
     "country": "🇫🇷 France",
     "category": "FOOTBALL"
   },
   {
-    "name": "Vinicius Junior",
-    "team": "Real Madrid",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇧🇷 Brazil",
+    "name": "Bruno Fernandes",
+    "team": "Manchester United",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇵🇹 Portugal",
     "category": "FOOTBALL"
   },
   {
-    "name": "Jude Bellingham",
-    "team": "Real Madrid",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
+    "name": "Bukayo Saka",
+    "team": "Arsenal",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
     "country": "🇬🇧 England",
     "category": "FOOTBALL"
   },
   {
-    "name": "Federico Valverde",
-    "team": "Real Madrid",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇺🇾 Uruguay",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Rodrygo",
-    "team": "Real Madrid",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇧🇷 Brazil",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Luka Modrić",
-    "team": "Real Madrid",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇭🇷 Croatia",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Lamine Yamal",
-    "team": "FC Barcelona",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇪🇸 Spain",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Robert Lewandowski",
-    "team": "FC Barcelona",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇵🇱 Poland",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Raphinha",
-    "team": "FC Barcelona",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇧🇷 Brazil",
-    "category": "FOOTBALL"
-  },
-  {
-<<<<<<< HEAD
-    "name": "Pedri",
-    "team": "FC Barcelona",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇪🇸 Spain",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Gavi",
-    "team": "FC Barcelona",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇪🇸 Spain",
+    "name": "Cole Palmer",
+    "team": "Chelsea",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇬🇧 England",
     "category": "FOOTBALL"
   },
   {
@@ -958,35 +264,54 @@
     "category": "FOOTBALL"
   },
   {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Antoine Griezmann",
-    "team": "Atletico Madrid",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇫🇷 France",
+    "name": "Declan Rice",
+    "team": "Arsenal",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇬🇧 England",
     "category": "FOOTBALL"
   },
   {
-<<<<<<< HEAD
-    "name": "Julián Alvarez",
-    "team": "Atletico Madrid",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
+    "name": "Enzo Fernández",
+    "team": "Chelsea",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
     "country": "🇦🇷 Argentina",
     "category": "FOOTBALL"
   },
   {
-    "name": "Nico Williams",
-    "team": "Athletic Club",
+    "name": "Erling Haaland",
+    "team": "Manchester City",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇳🇴 Norway",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Federico Valverde",
+    "team": "Real Madrid",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇺🇾 Uruguay",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Florian Wirtz",
+    "team": "Bayer Leverkusen",
+    "leagueId": "bundesliga",
+    "leagueName": "Bundesliga",
+    "country": "🇩🇪 Germany",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Gavi",
+    "team": "FC Barcelona",
     "leagueId": "laliga",
     "leagueName": "La Liga",
     "country": "🇪🇸 Spain",
     "category": "FOOTBALL"
   },
   {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
     "name": "Harry Kane",
     "team": "Bayern Munich",
     "leagueId": "bundesliga",
@@ -1003,28 +328,35 @@
     "category": "FOOTBALL"
   },
   {
-    "name": "Florian Wirtz",
-    "team": "Bayer Leverkusen",
-    "leagueId": "bundesliga",
-    "leagueName": "Bundesliga",
-    "country": "🇩🇪 Germany",
+    "name": "James Maddison",
+    "team": "Tottenham Hotspur",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇬🇧 England",
     "category": "FOOTBALL"
   },
   {
-    "name": "Lautaro Martínez",
-    "team": "Inter Milan",
-    "leagueId": "seriea",
-    "leagueName": "Serie A",
+    "name": "Jude Bellingham",
+    "team": "Real Madrid",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇬🇧 England",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Julián Alvarez",
+    "team": "Atletico Madrid",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
     "country": "🇦🇷 Argentina",
     "category": "FOOTBALL"
   },
   {
-<<<<<<< HEAD
-    "name": "Nicolò Barella",
-    "team": "Inter Milan",
-    "leagueId": "seriea",
-    "leagueName": "Serie A",
-    "country": "🇮🇹 Italy",
+    "name": "Kevin De Bruyne",
+    "team": "Manchester City",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇧🇪 Belgium",
     "category": "FOOTBALL"
   },
   {
@@ -1036,16 +368,86 @@
     "category": "FOOTBALL"
   },
   {
-    "name": "Victor Osimhen",
-    "team": "Galatasaray",
-    "leagueId": "tur.1",
-    "leagueName": "Super Lig",
-    "country": "🇳🇬 Nigeria",
+    "name": "Kylian Mbappé",
+    "team": "Real Madrid",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇫🇷 France",
     "category": "FOOTBALL"
   },
   {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
+    "name": "Lamine Yamal",
+    "team": "FC Barcelona",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇪🇸 Spain",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Lautaro Martínez",
+    "team": "Inter Milan",
+    "leagueId": "seriea",
+    "leagueName": "Serie A",
+    "country": "🇦🇷 Argentina",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Luka Modrić",
+    "team": "Real Madrid",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇭🇷 Croatia",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Marcus Rashford",
+    "team": "Manchester United",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇬🇧 England",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Martin Ødegaard",
+    "team": "Arsenal",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇳🇴 Norway",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Mohamed Salah",
+    "team": "Liverpool FC",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇪🇬 Egypt",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Nico Williams",
+    "team": "Athletic Club",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇪🇸 Spain",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Nicolò Barella",
+    "team": "Inter Milan",
+    "leagueId": "seriea",
+    "leagueName": "Serie A",
+    "country": "🇮🇹 Italy",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Ollie Watkins",
+    "team": "Aston Villa",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇬🇧 England",
+    "category": "FOOTBALL"
+  },
+  {
     "name": "Ousmane Dembélé",
     "team": "Paris Saint-Germain",
     "leagueId": "ligue1",
@@ -1054,234 +456,907 @@
     "category": "FOOTBALL"
   },
   {
-<<<<<<< HEAD
-    "name": "Achraf Hakimi",
-    "team": "Paris Saint-Germain",
-    "leagueId": "ligue1",
-    "leagueName": "Ligue 1",
-    "country": "🇲🇦 Morocco",
+    "name": "Pedri",
+    "team": "FC Barcelona",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇪🇸 Spain",
     "category": "FOOTBALL"
   },
   {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "LeBron James",
-    "team": "Los Angeles Lakers",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Phil Foden",
+    "team": "Manchester City",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇬🇧 England",
+    "category": "FOOTBALL"
   },
   {
-    "name": "Anthony Davis",
-    "team": "Los Angeles Lakers",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Raphinha",
+    "team": "FC Barcelona",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇧🇷 Brazil",
+    "category": "FOOTBALL"
   },
   {
-    "name": "Stephen Curry",
-    "team": "Golden State Warriors",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Robert Lewandowski",
+    "team": "FC Barcelona",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇵🇱 Poland",
+    "category": "FOOTBALL"
   },
   {
-    "name": "Luka Dončić",
-    "team": "Dallas Mavericks",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇸🇮 Slovenia",
-    "category": "BASKETBALL"
+    "name": "Rodri",
+    "team": "Manchester City",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇪🇸 Spain",
+    "category": "FOOTBALL"
   },
   {
-    "name": "Kyrie Irving",
-    "team": "Dallas Mavericks",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Rodrygo",
+    "team": "Real Madrid",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇧🇷 Brazil",
+    "category": "FOOTBALL"
   },
   {
-    "name": "Nikola Jokić",
-    "team": "Denver Nuggets",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇷🇸 Serbia",
-    "category": "BASKETBALL"
+    "name": "Son Heung-min",
+    "team": "Tottenham Hotspur",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇰🇷 South Korea",
+    "category": "FOOTBALL"
   },
   {
-<<<<<<< HEAD
-    "name": "Jamal Murray",
-    "team": "Denver Nuggets",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇨🇦 Canada",
-    "category": "BASKETBALL"
+    "name": "Trent Alexander-Arnold",
+    "team": "Liverpool FC",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇬🇧 England",
+    "category": "FOOTBALL"
   },
   {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Giannis Antetokounmpo",
-    "team": "Milwaukee Bucks",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇬🇷 Greece",
-    "category": "BASKETBALL"
+    "name": "Victor Osimhen",
+    "team": "Galatasaray",
+    "leagueId": "tur.1",
+    "leagueName": "Super Lig",
+    "country": "🇳🇬 Nigeria",
+    "category": "FOOTBALL"
   },
   {
-<<<<<<< HEAD
-    "name": "Damian Lillard",
-    "team": "Milwaukee Bucks",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Vinicius Junior",
+    "team": "Real Madrid",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇧🇷 Brazil",
+    "category": "FOOTBALL"
   },
   {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Jayson Tatum",
-    "team": "Boston Celtics",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Virgil van Dijk",
+    "team": "Liverpool FC",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇳🇱 Netherlands",
+    "category": "FOOTBALL"
   },
   {
-<<<<<<< HEAD
-    "name": "Jaylen Brown",
-    "team": "Boston Celtics",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
-  },
-  {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Shai Gilgeous-Alexander",
-    "team": "Oklahoma City Thunder",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇨🇦 Canada",
-    "category": "BASKETBALL"
-  },
-  {
-<<<<<<< HEAD
-    "name": "Chet Holmgren",
-    "team": "Oklahoma City Thunder",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
-  },
-  {
-=======
->>>>>>> 52a8a4e83a40b929e70700b0b7f23bad8ca6c47a
-    "name": "Victor Wembanyama",
-    "team": "San Antonio Spurs",
-    "leagueId": "nba",
-    "leagueName": "NBA",
+    "name": "William Saliba",
+    "team": "Arsenal",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
     "country": "🇫🇷 France",
-    "category": "BASKETBALL"
+    "category": "FOOTBALL"
   },
   {
-    "name": "Anthony Edwards",
-    "team": "Minnesota Timberwolves",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Alex Pereira",
+    "team": "UFC Light Heavyweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇧🇷 Brazil",
+    "category": "MMA"
   },
   {
-    "name": "Kevin Durant",
-    "team": "Phoenix Suns",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Alexandre Pantoja",
+    "team": "UFC Flyweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇧🇷 Brazil",
+    "category": "MMA"
   },
   {
-    "name": "Devin Booker",
-    "team": "Phoenix Suns",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Belal Muhammad",
+    "team": "UFC Welterweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇵🇸 Palestine",
+    "category": "MMA"
   },
   {
-    "name": "Joel Embiid",
-    "team": "Philadelphia 76ers",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Bishop",
+    "team": "Professional Fighters League",
+    "leagueId": "mma-pfl",
+    "leagueName": "Professional Fighters League",
+    "country": "🌍 Global",
+    "category": "MMA"
   },
   {
-    "name": "Paul George",
-    "team": "Philadelphia 76ers",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Bonfim",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
   },
   {
-    "name": "Tyrese Haliburton",
-    "team": "Indiana Pacers",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Brady",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
   },
   {
-    "name": "Ja Morant",
-    "team": "Memphis Grizzlies",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Buckley",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
   },
   {
-    "name": "Jimmy Butler",
-    "team": "Miami Heat",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Carmouche",
+    "team": "Professional Fighters League",
+    "leagueId": "mma-pfl",
+    "leagueName": "Professional Fighters League",
+    "country": "🌍 Global",
+    "category": "MMA"
   },
   {
-    "name": "Bam Adebayo",
-    "team": "Miami Heat",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Charles Oliveira",
+    "team": "UFC Lightweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇧🇷 Brazil",
+    "category": "MMA"
   },
   {
-    "name": "Trae Young",
-    "team": "Atlanta Hawks",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Ciryl Gane",
+    "team": "UFC Heavyweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇫🇷 France",
+    "category": "MMA"
   },
   {
-    "name": "Zion Williamson",
-    "team": "New Orleans Pelicans",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "name": "Cyborg",
+    "team": "Professional Fighters League",
+    "leagueId": "mma-pfl",
+    "leagueName": "Professional Fighters League",
+    "country": "🌍 Global",
+    "category": "MMA"
   },
   {
-    "name": "Paolo Banchero",
-    "team": "Orlando Magic",
-    "leagueId": "nba",
-    "leagueName": "NBA",
+    "name": "Delgado",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Dricus du Plessis",
+    "team": "UFC Middleweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇿🇦 South Africa",
+    "category": "MMA"
+  },
+  {
+    "name": "Dustin Poirier",
+    "team": "UFC Lightweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
     "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
+    "category": "MMA"
+  },
+  {
+    "name": "Evloev",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Hernandez",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Hooker",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Ilia Topuria",
+    "team": "UFC Featherweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇪🇸 Spain",
+    "category": "MMA"
+  },
+  {
+    "name": "Islam Makhachev",
+    "team": "UFC Lightweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇷🇺 Russia",
+    "category": "MMA"
+  },
+  {
+    "name": "Israel Adesanya",
+    "team": "UFC Middleweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇳🇿 New Zealand",
+    "category": "MMA"
+  },
+  {
+    "name": "Jon Jones",
+    "team": "UFC Heavyweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇺🇸 USA",
+    "category": "MMA"
+  },
+  {
+    "name": "Justin Gaethje",
+    "team": "UFC Lightweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇺🇸 USA",
+    "category": "MMA"
+  },
+  {
+    "name": "Khamzat Chimaev",
+    "team": "UFC Middleweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇦🇪 UAE",
+    "category": "MMA"
+  },
+  {
+    "name": "Malott",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Max Holloway",
+    "team": "UFC Featherweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇺🇸 USA",
+    "category": "MMA"
+  },
+  {
+    "name": "Merab Dvalishvili",
+    "team": "UFC Bantamweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇬🇪 Georgia",
+    "category": "MMA"
+  },
+  {
+    "name": "Nurmagomedov",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Pantoja",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Parnasse",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Rodrigues",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Sean O'Malley",
+    "team": "UFC Bantamweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇺🇸 USA",
+    "category": "MMA"
+  },
+  {
+    "name": "Shavkat Rakhmonov",
+    "team": "UFC Welterweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇰🇿 Kazakhstan",
+    "category": "MMA"
+  },
+  {
+    "name": "Silva",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Song",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Tom Aspinall",
+    "team": "UFC Heavyweight",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇬🇧 Great Britain",
+    "category": "MMA"
+  },
+  {
+    "name": "Van",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Vieira",
+    "team": "Professional Fighters League",
+    "leagueId": "mma-pfl",
+    "leagueName": "Professional Fighters League",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Volkanovski",
+    "team": "Ultimate Fighting Championship",
+    "leagueId": "mma-ufc",
+    "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Adrien Fourmaux",
+    "team": "M-Sport Ford",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇫🇷 France",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Alex Albon",
+    "team": "Williams",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇹🇭 Thailand",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Brad Binder",
+    "team": "Red Bull KTM",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇿🇦 South Africa",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Carlos Sainz",
+    "team": "Williams",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇪🇸 Spain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Charles Leclerc",
+    "team": "Ferrari",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇲🇨 Monaco",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Elfyn Evans",
+    "team": "Toyota Gazoo Racing",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇬🇧 Great Britain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Enea Bastianini",
+    "team": "Tech3 KTM",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇮🇹 Italy",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Esteban Ocon",
+    "team": "Haas",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇫🇷 France",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Fabio Quartararo",
+    "team": "Monster Yamaha",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇫🇷 France",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Fernando Alonso",
+    "team": "Aston Martin",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇪🇸 Spain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Francesco Bagnaia",
+    "team": "Ducati Lenovo",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇮🇹 Italy",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Gabriel Bortoleto",
+    "team": "Sauber",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇧🇷 Brazil",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "George Russell",
+    "team": "Mercedes",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇬🇧 Great Britain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Grégoire Munster",
+    "team": "M-Sport Ford",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇱🇺 Luxembourg",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Isack Hadjar",
+    "team": "RB",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇫🇷 France",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Jack Doohan",
+    "team": "Alpine",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇦🇺 Australia",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Jorge Martín",
+    "team": "Aprilia Racing",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇪🇸 Spain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Kalle Rovanperä",
+    "team": "Toyota Gazoo Racing",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇫🇮 Finland",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Kimi Antonelli",
+    "team": "Mercedes",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇮🇹 Italy",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Lance Stroll",
+    "team": "Aston Martin",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇨🇦 Canada",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Lando Norris",
+    "team": "McLaren",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇬🇧 Great Britain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Lewis Hamilton",
+    "team": "Ferrari",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇬🇧 Great Britain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Liam Lawson",
+    "team": "Red Bull Racing",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇳🇿 New Zealand",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Marc Márquez",
+    "team": "Ducati Lenovo",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇪🇸 Spain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Marco Bezzecchi",
+    "team": "Aprilia Racing",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇮🇹 Italy",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Maverick Viñales",
+    "team": "Tech3 KTM",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇪🇸 Spain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Max Verstappen",
+    "team": "Red Bull Racing",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇳🇱 Netherlands",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Nico Hülkenberg",
+    "team": "Sauber",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇩🇪 Germany",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Oliver Bearman",
+    "team": "Haas",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇬🇧 Great Britain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Oscar Piastri",
+    "team": "McLaren",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇦🇺 Australia",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Ott Tänak",
+    "team": "Hyundai Motorsport",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇪🇪 Estonia",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Pedro Acosta",
+    "team": "Red Bull KTM",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇪🇸 Spain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Pierre Gasly",
+    "team": "Alpine",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇫🇷 France",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Sébastien Ogier",
+    "team": "Toyota Gazoo Racing",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇫🇷 France",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Takamoto Katsuta",
+    "team": "Toyota Gazoo Racing",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇯🇵 Japan",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Thierry Neuville",
+    "team": "Hyundai Motorsport",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇧🇪 Belgium",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Yuki Tsunoda",
+    "team": "RB",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇯🇵 Japan",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Alex de Minaur",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇦🇺 Australia",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Alexander Zverev",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇩🇪 Germany",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Andrey Rublev",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇷🇺 Russia",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Aryna Sabalenka",
+    "team": "WTA Tour",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇧🇾 Belarus",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Ben Shelton",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇺🇸 USA",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Carlos Alcaraz",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇪🇸 Spain",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Casper Ruud",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇳🇴 Norway",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Coco Gauff",
+    "team": "WTA Tour",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇺🇸 USA",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Daniil Medvedev",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇷🇺 Russia",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Elena Rybakina",
+    "team": "WTA Tour",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇰🇿 Kazakhstan",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Emma Navarro",
+    "team": "WTA Tour",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇺🇸 USA",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Frances Tiafoe",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇺🇸 USA",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Grigor Dimitrov",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇧🇬 Bulgaria",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Holger Rune",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇩🇰 Denmark",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Hubert Hurkacz",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇵🇱 Poland",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Iga Świątek",
+    "team": "WTA Tour",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇵🇱 Poland",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Jannik Sinner",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇮🇹 Italy",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Jasmine Paolini",
+    "team": "WTA Tour",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇮🇹 Italy",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Jessica Pegula",
+    "team": "WTA Tour",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇺🇸 USA",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Maria Sakkari",
+    "team": "WTA Tour",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇬🇷 Greece",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Novak Djokovic",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇷🇸 Serbia",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Paula Badosa",
+    "team": "WTA Tour",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇪🇸 Spain",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Qinwen Zheng",
+    "team": "WTA Tour",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇨🇳 China",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Stefanos Tsitsipas",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇬🇷 Greece",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Taylor Fritz",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇺🇸 USA",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Tommy Paul",
+    "team": "ATP Tour",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇺🇸 USA",
+    "category": "TENNIS"
   }
 ]
