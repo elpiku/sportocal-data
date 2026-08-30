@@ -64,6 +64,22 @@
     "category": "MOTORSPORT"
   },
   {
+    "name": "Liam Lawson",
+    "team": "Red Bull Racing",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇳🇿 New Zealand",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Alex Albon",
+    "team": "Williams",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇹🇭 Thailand",
+    "category": "MOTORSPORT"
+  },
+  {
     "name": "Marc Márquez",
     "team": "Ducati Lenovo",
     "leagueId": "motogp",
@@ -80,6 +96,22 @@
     "category": "MOTORSPORT"
   },
   {
+    "name": "Jorge Martín",
+    "team": "Aprilia Racing",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇪🇸 Spain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Pedro Acosta",
+    "team": "Red Bull KTM",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇪🇸 Spain",
+    "category": "MOTORSPORT"
+  },
+  {
     "name": "Kalle Rovanperä",
     "team": "Toyota Gazoo Racing",
     "leagueId": "wrc",
@@ -93,6 +125,30 @@
     "leagueId": "wrc",
     "leagueName": "WRC",
     "country": "🇧🇪 Belgium",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Sébastien Ogier",
+    "team": "Toyota Gazoo Racing",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇫🇷 France",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Elfyn Evans",
+    "team": "Toyota Gazoo Racing",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇬🇧 Great Britain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Ott Tänak",
+    "team": "Hyundai Motorsport",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇪🇪 Estonia",
     "category": "MOTORSPORT"
   },
   {
@@ -120,6 +176,46 @@
     "category": "TENNIS"
   },
   {
+    "name": "Daniil Medvedev",
+    "team": "Daniil Medvedev",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇷🇺 Russia",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Alexander Zverev",
+    "team": "Alexander Zverev",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇩🇪 Germany",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Aryna Sabalenka",
+    "team": "Aryna Sabalenka",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇧🇾 Belarus",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Iga Świątek",
+    "team": "Iga Świątek",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇵🇱 Poland",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Coco Gauff",
+    "team": "Coco Gauff",
+    "leagueId": "wta",
+    "leagueName": "WTA Tour",
+    "country": "🇺🇸 USA",
+    "category": "TENNIS"
+  },
+  {
     "name": "Jon Jones",
     "team": "Jon Jones",
     "leagueId": "ufc",
@@ -141,6 +237,22 @@
     "leagueId": "ufc",
     "leagueName": "UFC",
     "country": "🇪🇸 Spain",
+    "category": "MMA"
+  },
+  {
+    "name": "Islam Makhachev",
+    "team": "Islam Makhachev",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇷🇺 Russia",
+    "category": "MMA"
+  },
+  {
+    "name": "Sean O'Malley",
+    "team": "Sean O'Malley",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇺🇸 USA",
     "category": "MMA"
   },
   {
@@ -176,6 +288,14 @@
     "category": "FOOTBALL"
   },
   {
+    "name": "Virgil van Dijk",
+    "team": "Liverpool FC",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇳🇱 Netherlands",
+    "category": "FOOTBALL"
+  },
+  {
     "name": "Bukayo Saka",
     "team": "Arsenal",
     "leagueId": "premierleague",
@@ -184,11 +304,35 @@
     "category": "FOOTBALL"
   },
   {
+    "name": "Martin Ødegaard",
+    "team": "Arsenal",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇳🇴 Norway",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Bruno Fernandes",
+    "team": "Manchester United",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇵🇹 Portugal",
+    "category": "FOOTBALL"
+  },
+  {
     "name": "Cole Palmer",
     "team": "Chelsea",
     "leagueId": "premierleague",
     "leagueName": "Premier League",
     "country": "🇬🇧 England",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Son Heung-min",
+    "team": "Tottenham Hotspur",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇰🇷 South Korea",
     "category": "FOOTBALL"
   },
   {
@@ -232,6 +376,22 @@
     "category": "FOOTBALL"
   },
   {
+    "name": "Raphinha",
+    "team": "FC Barcelona",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇧🇷 Brazil",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Antoine Griezmann",
+    "team": "Atletico Madrid",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇫🇷 France",
+    "category": "FOOTBALL"
+  },
+  {
     "name": "Harry Kane",
     "team": "Bayern Munich",
     "leagueId": "bundesliga",
@@ -240,7 +400,47 @@
     "category": "FOOTBALL"
   },
   {
+    "name": "Jamal Musiala",
+    "team": "Bayern Munich",
+    "leagueId": "bundesliga",
+    "leagueName": "Bundesliga",
+    "country": "🇩🇪 Germany",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Florian Wirtz",
+    "team": "Bayer Leverkusen",
+    "leagueId": "bundesliga",
+    "leagueName": "Bundesliga",
+    "country": "🇩🇪 Germany",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Lautaro Martínez",
+    "team": "Inter Milan",
+    "leagueId": "seriea",
+    "leagueName": "Serie A",
+    "country": "🇦🇷 Argentina",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Ousmane Dembélé",
+    "team": "Paris Saint-Germain",
+    "leagueId": "ligue1",
+    "leagueName": "Ligue 1",
+    "country": "🇫🇷 France",
+    "category": "FOOTBALL"
+  },
+  {
     "name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
+  },
+  {
+    "name": "Anthony Davis",
     "team": "Los Angeles Lakers",
     "leagueId": "nba",
     "leagueName": "NBA",
@@ -269,6 +469,30 @@
     "leagueId": "nba",
     "leagueName": "NBA",
     "country": "🇷🇸 Serbia",
+    "category": "BASKETBALL"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇬🇷 Greece",
+    "category": "BASKETBALL"
+  },
+  {
+    "name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
+  },
+  {
+    "name": "Shai Gilgeous-Alexander",
+    "team": "Oklahoma City Thunder",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇨🇦 Canada",
     "category": "BASKETBALL"
   },
   {
