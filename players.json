@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Max Verstappen",
+    "team": "Red Bull Racing",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇳🇱 Netherlands",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Lewis Hamilton",
+    "team": "Ferrari",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇬🇧 Great Britain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Charles Leclerc",
+    "team": "Ferrari",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇲🇨 Monaco",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Lando Norris",
+    "team": "McLaren",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇬🇧 Great Britain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Oscar Piastri",
+    "team": "McLaren",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇦🇺 Australia",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "George Russell",
+    "team": "Mercedes",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇬🇧 Great Britain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Fernando Alonso",
+    "team": "Aston Martin",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇪🇸 Spain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Carlos Sainz",
+    "team": "Williams",
+    "leagueId": "f1",
+    "leagueName": "Formula 1",
+    "country": "🇪🇸 Spain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Marc Márquez",
+    "team": "Ducati Lenovo",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇪🇸 Spain",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Francesco Bagnaia",
+    "team": "Ducati Lenovo",
+    "leagueId": "motogp",
+    "leagueName": "MotoGP",
+    "country": "🇮🇹 Italy",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Kalle Rovanperä",
+    "team": "Toyota Gazoo Racing",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇫🇮 Finland",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Thierry Neuville",
+    "team": "Hyundai Motorsport",
+    "leagueId": "wrc",
+    "leagueName": "WRC",
+    "country": "🇧🇪 Belgium",
+    "category": "MOTORSPORT"
+  },
+  {
+    "name": "Carlos Alcaraz",
+    "team": "Carlos Alcaraz",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇪🇸 Spain",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Jannik Sinner",
+    "team": "Jannik Sinner",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇮🇹 Italy",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Novak Djokovic",
+    "team": "Novak Djokovic",
+    "leagueId": "atp",
+    "leagueName": "ATP Tour",
+    "country": "🇷🇸 Serbia",
+    "category": "TENNIS"
+  },
+  {
+    "name": "Jon Jones",
+    "team": "Jon Jones",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇺🇸 USA",
+    "category": "MMA"
+  },
+  {
+    "name": "Alex Pereira",
+    "team": "Alex Pereira",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇧🇷 Brazil",
+    "category": "MMA"
+  },
+  {
+    "name": "Ilia Topuria",
+    "team": "Ilia Topuria",
+    "leagueId": "ufc",
+    "leagueName": "UFC",
+    "country": "🇪🇸 Spain",
+    "category": "MMA"
+  },
+  {
+    "name": "Erling Haaland",
+    "team": "Manchester City",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇳🇴 Norway",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "team": "Manchester City",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇧🇪 Belgium",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Phil Foden",
+    "team": "Manchester City",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇬🇧 England",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Mohamed Salah",
+    "team": "Liverpool FC",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇪🇬 Egypt",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Bukayo Saka",
+    "team": "Arsenal",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇬🇧 England",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Cole Palmer",
+    "team": "Chelsea",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
+    "country": "🇬🇧 England",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Kylian Mbappé",
+    "team": "Real Madrid",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇫🇷 France",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Vinicius Junior",
+    "team": "Real Madrid",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇧🇷 Brazil",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Jude Bellingham",
+    "team": "Real Madrid",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇬🇧 England",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Lamine Yamal",
+    "team": "FC Barcelona",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇪🇸 Spain",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Robert Lewandowski",
+    "team": "FC Barcelona",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇵🇱 Poland",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Harry Kane",
+    "team": "Bayern Munich",
+    "leagueId": "bundesliga",
+    "leagueName": "Bundesliga",
+    "country": "🇬🇧 England",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
+  },
+  {
+    "name": "Stephen Curry",
+    "team": "Golden State Warriors",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
+  },
+  {
+    "name": "Luka Dončić",
+    "team": "Dallas Mavericks",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇸🇮 Slovenia",
+    "category": "BASKETBALL"
+  },
+  {
+    "name": "Nikola Jokić",
+    "team": "Denver Nuggets",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇷🇸 Serbia",
+    "category": "BASKETBALL"
+  },
+  {
+    "name": "Victor Wembanyama",
+    "team": "San Antonio Spurs",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇫🇷 France",
+    "category": "BASKETBALL"
+  }
+]
