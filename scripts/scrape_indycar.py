@@ -275,8 +275,52 @@ def build_repo_events(scraped_events: list[dict]) -> list[dict]:
     return repo_events
 
 
+def fetch_espn_indycar_fallback() -> list[dict]:
+    """Fallback to ESPN Core API for IndyCar schedule."""
+    url = f"https://sports.core.api.espn.com/v2/sports/racing/leagues/racing-irl/events?limit=100"
+    print("Fetching IndyCar schedule from ESPN Core API fallback...", file=sys.stderr)
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=15)
+        if res.status_code != 200:
+            return []
+        items = res.json().get("items", [])
+        events = []
+        assign_id = make_unique_id_assigner()
+
+        for item in items:
+            ref = item.get("$ref")
+            if not ref:
+                continue
+            ev_res = requests.get(ref, headers=HEADERS, timeout=10)
+            if ev_res.status_code != 200:
+                continue
+            ev = ev_res.json()
+            name = ev.get("name") or ev.get("shortName") or "IndyCar Race"
+            date_str = ev.get("date")
+            if not date_str:
+                continue
+            try:
+                dt = dateparser.parse(str(date_str)).astimezone(timezone.utc)
+                utc_str = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+            except Exception:
+                continue
+
+            base_id = f"indycar-{SEASON_YEAR}-{slugify(name)}"
+            events.append({
+                "id": assign_id(base_id),
+                "weekend": name,
+                "name": "Race",
+                "utc": utc_str,
+            })
+
+        events.sort(key=lambda x: x["utc"])
+        return events
+    except Exception as e:
+        print(f"ESPN IndyCar fallback error: {e}", file=sys.stderr)
+        return []
+
+
 def main():
-    print("Fetching event list from schedule page...", file=sys.stderr)
     events = get_event_list()
     print(f"Found {len(events)} event pages for {SEASON_YEAR}", file=sys.stderr)
 
@@ -293,8 +337,11 @@ def main():
     repo_events = build_repo_events(scraped_events)
 
     if not repo_events:
-        print("ERROR: parsed 0 sessions. Site structure may have changed. "
-              "Aborting without writing output.", file=sys.stderr)
+        print("Scraped 0 sessions from indycar.com, trying ESPN Core API fallback...", file=sys.stderr)
+        repo_events = fetch_espn_indycar_fallback()
+
+    if not repo_events:
+        print("ERROR: parsed 0 sessions from all sources.", file=sys.stderr)
         sys.exit(1)
 
     output = {

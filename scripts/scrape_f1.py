@@ -182,11 +182,64 @@ def parse_schedule():
     return events
 
 
+def fetch_jolpica_fallback() -> list[dict]:
+    """Fallback to official Jolpica / Ergast F1 API."""
+    url = f"https://api.jolpica.com/ergast/f1/{SEASON_YEAR}.json"
+    print(f"Fetching F1 schedule from Jolpica API ({url})...", file=sys.stderr)
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=15)
+        if res.status_code != 200:
+            return []
+        data = res.json()
+        races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
+        events = []
+        assign_id = make_unique_id_assigner()
+
+        for race in races:
+            weekend = race.get("raceName", "Grand Prix")
+            track_slug = slugify(race.get("Circuit", {}).get("circuitId", "gp"))
+
+            sessions = [
+                ("fp1", "Free Practice 1", race.get("FirstPractice")),
+                ("fp2", "Free Practice 2", race.get("SecondPractice")),
+                ("fp3", "Free Practice 3", race.get("ThirdPractice")),
+                ("sprint-quali", "Sprint Qualifying", race.get("SprintQualifying") or race.get("SprintShootout")),
+                ("sprint", "Sprint", race.get("Sprint")),
+                ("quali", "Qualifying", race.get("Qualifying")),
+                ("race", "Race", {"date": race.get("date"), "time": race.get("time")}),
+            ]
+
+            for sid, sname, sdata in sessions:
+                if not sdata or not sdata.get("date"):
+                    continue
+                d = sdata.get("date")
+                t = sdata.get("time", "12:00:00Z").replace("Z", "")
+                utc_str = f"{d}T{t}Z"
+                base_id = f"f1-{SEASON_YEAR}-{track_slug}-{sid}"
+                events.append({
+                    "id": assign_id(base_id),
+                    "weekend": weekend,
+                    "name": sname,
+                    "utc": utc_str,
+                })
+
+        events.sort(key=lambda e: e["utc"])
+        return events
+    except Exception as e:
+        print(f"Jolpica fallback error: {e}", file=sys.stderr)
+        return []
+
+
 def main():
     print("Fetching Sky Sports F1 schedule...", file=sys.stderr)
     events = parse_schedule()
-    print(f"Parsed {len(events)} sessions", file=sys.stderr)
+    if len(events) < 5:
+        print("Sky Sports returned few/no events, trying Jolpica F1 API fallback...", file=sys.stderr)
+        jolpica_events = fetch_jolpica_fallback()
+        if len(jolpica_events) > len(events):
+            events = jolpica_events
 
+    print(f"Parsed {len(events)} F1 sessions", file=sys.stderr)
     output = {
         "sportKey": "f1",
         "season": str(SEASON_YEAR),
