@@ -76,33 +76,117 @@
     "Wales": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
   },
   "venues": {
-    "Monaco": { "country": "Monaco", "flag": "🇲🇨" },
-    "Silverstone": { "country": "Great Britain", "flag": "🇬🇧" },
-    "Monza": { "country": "Italy", "flag": "🇮🇹" },
-    "Spa": { "country": "Belgium", "flag": "🇧🇪" },
-    "Suzuka": { "country": "Japan", "flag": "🇯🇵" },
-    "Albert Park": { "country": "Australia", "flag": "🇦🇺" },
-    "Interlagos": { "country": "Brazil", "flag": "🇧🇷" },
-    "Austin": { "country": "United States", "flag": "🇺🇸" },
-    "Las Vegas": { "country": "United States", "flag": "🇺🇸" },
-    "Miami": { "country": "United States", "flag": "🇺🇸" },
-    "Montreal": { "country": "Canada", "flag": "🇨🇦" },
-    "Zandvoort": { "country": "Netherlands", "flag": "🇳🇱" },
-    "Spielberg": { "country": "Austria", "flag": "🇦🇹" },
-    "Hungaroring": { "country": "Hungary", "flag": "🇭🇺" },
-    "Bahrain": { "country": "Bahrain", "flag": "🇧🇭" },
-    "Jeddah": { "country": "Saudi Arabia", "flag": "🇸🇦" },
-    "Abu Dhabi": { "country": "United Arab Emirates", "flag": "🇦🇪" },
-    "Qatar": { "country": "Qatar", "flag": "🇶🇦" },
-    "Baku": { "country": "Azerbaijan", "flag": "🇦🇿" },
-    "Singapore": { "country": "Singapore", "flag": "🇸🇬" },
-    "Barcelona": { "country": "Spain", "flag": "🇪🇸" },
-    "Madrid": { "country": "Spain", "flag": "🇪🇸" },
-    "London": { "country": "England", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿" },
-    "Manchester": { "country": "England", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿" },
-    "Paris": { "country": "France", "flag": "🇫🇷" },
-    "Munich": { "country": "Germany", "flag": "🇩🇪" },
-    "Milan": { "country": "Italy", "flag": "🇮🇹" },
-    "Rome": { "country": "Italy", "flag": "🇮🇹" }
+    "Monaco": {
+      "country": "Monaco",
+      "flag": "🇲🇨"
+    },
+    "Silverstone": {
+      "country": "Great Britain",
+      "flag": "🇬🇧"
+    },
+    "Monza": {
+      "country": "Italy",
+      "flag": "🇮🇹"
+    },
+    "Spa": {
+      "country": "Belgium",
+      "flag": "🇧🇪"
+    },
+    "Suzuka": {
+      "country": "Japan",
+      "flag": "🇯🇵"
+    },
+    "Albert Park": {
+      "country": "Australia",
+      "flag": "🇦🇺"
+    },
+    "Interlagos": {
+      "country": "Brazil",
+      "flag": "🇧🇷"
+    },
+    "Austin": {
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "Las Vegas": {
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "Miami": {
+      "country": "United States",
+      "flag": "🇺🇸"
+    },
+    "Montreal": {
+      "country": "Canada",
+      "flag": "🇨🇦"
+    },
+    "Zandvoort": {
+      "country": "Netherlands",
+      "flag": "🇳🇱"
+    },
+    "Spielberg": {
+      "country": "Austria",
+      "flag": "🇦🇹"
+    },
+    "Hungaroring": {
+      "country": "Hungary",
+      "flag": "🇭🇺"
+    },
+    "Bahrain": {
+      "country": "Bahrain",
+      "flag": "🇧🇭"
+    },
+    "Jeddah": {
+      "country": "Saudi Arabia",
+      "flag": "🇸🇦"
+    },
+    "Abu Dhabi": {
+      "country": "United Arab Emirates",
+      "flag": "🇦🇪"
+    },
+    "Qatar": {
+      "country": "Qatar",
+      "flag": "🇶🇦"
+    },
+    "Baku": {
+      "country": "Azerbaijan",
+      "flag": "🇦🇿"
+    },
+    "Singapore": {
+      "country": "Singapore",
+      "flag": "🇸🇬"
+    },
+    "Barcelona": {
+      "country": "Spain",
+      "flag": "🇪🇸"
+    },
+    "Madrid": {
+      "country": "Spain",
+      "flag": "🇪🇸"
+    },
+    "London": {
+      "country": "England",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    },
+    "Manchester": {
+      "country": "England",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    },
+    "Paris": {
+      "country": "France",
+      "flag": "🇫🇷"
+    },
+    "Munich": {
+      "country": "Germany",
+      "flag": "🇩🇪"
+    },
+    "Milan": {
+      "country": "Italy",
+      "flag": "🇮🇹"
+    },
+    "Rome": {
+      "country": "Italy",
+      "flag": "🇮🇹"
+    }
   }
 }
