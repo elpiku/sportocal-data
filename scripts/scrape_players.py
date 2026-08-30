@@ -10,7 +10,6 @@ import json
 import re
 import sys
 from pathlib import Path
-import requests
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_PATH = REPO_ROOT / "players.json"
