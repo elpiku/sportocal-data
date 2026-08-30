@@ -1,14 +1,14 @@
 {
   "sportKey": "mma-ufc",
   "leagueName": "Ultimate Fighting Championship",
-  "windowFrom": "20260815",
-  "windowTo": "20270526",
+  "windowFrom": "20260816",
+  "windowTo": "20270527",
   "events": [
     {
-      "id": "mma-ufc-2026-08-15-ufc-330-makhachev-machado-garry",
-      "weekend": "2026-08-15",
-      "name": "UFC 330: Makhachev v Machado Garry",
-      "utc": "2026-08-15T21:30:00Z"
+      "id": "mma-ufc-2026-08-18-dana-white-s-contender-series-season-10-week-2",
+      "weekend": "2026-08-18",
+      "name": "Dana White's Contender Series: Season 10, Week 2",
+      "utc": "2026-08-18T23:00:00Z"
     },
     {
       "id": "mma-ufc-2026-08-22-ufc-fight-night-hernandez-rodrigues",
@@ -17,10 +17,22 @@
       "utc": "2026-08-22T21:00:00Z"
     },
     {
+      "id": "mma-ufc-2026-08-25-dana-white-s-contender-series-season-10-week-3",
+      "weekend": "2026-08-25",
+      "name": "Dana White's Contender Series: Season 10, Week 3",
+      "utc": "2026-08-25T23:00:00Z"
+    },
+    {
       "id": "mma-ufc-2026-08-29-ufc-fight-night-nurmagomedov-song",
       "weekend": "2026-08-29",
       "name": "UFC Fight Night: Nurmagomedov v Song",
       "utc": "2026-08-29T07:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-09-01-dana-white-s-contender-series-season-10-week-4",
+      "weekend": "2026-09-01",
+      "name": "Dana White's Contender Series: Season 10, Week 4",
+      "utc": "2026-09-01T23:00:00Z"
     },
     {
       "id": "mma-ufc-2026-09-05-ufc-fight-night-hooker-parnasse",
@@ -29,10 +41,22 @@
       "utc": "2026-09-05T16:00:00Z"
     },
     {
+      "id": "mma-ufc-2026-09-08-dana-white-s-contender-series-season-10-week-5",
+      "weekend": "2026-09-08",
+      "name": "Dana White's Contender Series: Season 10, Week 5",
+      "utc": "2026-09-08T23:00:00Z"
+    },
+    {
       "id": "mma-ufc-2026-09-12-noche-ufc-silva-delgado",
       "weekend": "2026-09-12",
       "name": "Noche UFC: Silva v Delgado",
       "utc": "2026-09-12T18:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-09-15-dana-white-s-contender-series-season-10-week-6",
+      "weekend": "2026-09-15",
+      "name": "Dana White's Contender Series: Season 10, Week 6",
+      "utc": "2026-09-15T23:00:00Z"
     },
     {
       "id": "mma-ufc-2026-09-19-ufc-331-van-pantoja-2",
@@ -41,10 +65,40 @@
       "utc": "2026-09-19T21:00:00Z"
     },
     {
+      "id": "mma-ufc-2026-09-22-dana-white-s-contender-series-season-10-week-7",
+      "weekend": "2026-09-22",
+      "name": "Dana White's Contender Series: Season 10, Week 7",
+      "utc": "2026-09-22T23:00:00Z"
+    },
+    {
       "id": "mma-ufc-2026-09-26-ufc-fight-night-rosas-jr-barcelos",
       "weekend": "2026-09-26",
       "name": "UFC Fight Night: Rosas Jr. v Barcelos",
       "utc": "2026-09-26T19:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-09-29-dana-white-s-contender-series-season-10-week-8",
+      "weekend": "2026-09-29",
+      "name": "Dana White's Contender Series: Season 10, Week 8",
+      "utc": "2026-09-29T23:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-10-03-ufc-332",
+      "weekend": "2026-10-03",
+      "name": "UFC 332",
+      "utc": "2026-10-03T21:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-10-06-dana-white-s-contender-series-season-10-week-9",
+      "weekend": "2026-10-06",
+      "name": "Dana White's Contender Series: Season 10, Week 9",
+      "utc": "2026-10-06T23:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-10-13-dana-white-s-contender-series-season-10-week-10",
+      "weekend": "2026-10-13",
+      "name": "Dana White's Contender Series: Season 10, Week 10",
+      "utc": "2026-10-13T23:00:00Z"
     },
     {
       "id": "mma-ufc-2026-10-17-ufc-fight-night-buckley-malott",
@@ -59,10 +113,28 @@
       "utc": "2026-10-24T14:00:00Z"
     },
     {
+      "id": "mma-ufc-2026-10-31-ufc-fight-night-las-vegas",
+      "weekend": "2026-10-31",
+      "name": "UFC Fight Night: Las Vegas",
+      "utc": "2026-10-31T21:00:00Z"
+    },
+    {
       "id": "mma-ufc-2026-11-07-ufc-fight-night-bonfim-brady",
       "weekend": "2026-11-07",
       "name": "UFC Fight Night: Bonfim v Brady",
       "utc": "2026-11-07T22:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-11-14-ufc-334",
+      "weekend": "2026-11-14",
+      "name": "UFC 334",
+      "utc": "2026-11-14T22:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-12-12-ufc-335",
+      "weekend": "2026-12-12",
+      "name": "UFC 335",
+      "utc": "2026-12-12T22:00:00Z"
     }
   ]
 }

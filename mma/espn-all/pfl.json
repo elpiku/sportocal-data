@@ -1,8 +1,8 @@
 {
   "sportKey": "mma-pfl",
   "leagueName": "Professional Fighters League",
-  "windowFrom": "20260815",
-  "windowTo": "20270526",
+  "windowFrom": "20260816",
+  "windowTo": "20270527",
   "events": [
     {
       "id": "mma-pfl-2026-08-22-pfl-tampa-cyborg-vieira",
@@ -15,6 +15,18 @@
       "weekend": "2026-10-17",
       "name": "PFL Chicago: Carmouche v Bishop 2",
       "utc": "2026-10-17T00:00:00Z"
+    },
+    {
+      "id": "mma-pfl-2026-11-14-pfl-dubai",
+      "weekend": "2026-11-14",
+      "name": "PFL Dubai",
+      "utc": "2026-11-14T14:00:00Z"
+    },
+    {
+      "id": "mma-pfl-2026-12-19-pfl-lyon",
+      "weekend": "2026-12-19",
+      "name": "PFL Lyon",
+      "utc": "2026-12-19T14:00:00Z"
     }
   ]
 }
