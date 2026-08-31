@@ -1,8 +1,8 @@
 {
   "sportKey": "tennis-atp",
   "leagueName": "ATP",
-  "windowFrom": "20260816",
-  "windowTo": "20270527",
+  "windowFrom": "20260817",
+  "windowTo": "20270528",
   "events": [
     {
       "id": "tennis-atp-2026-08-11-cincinnati-open",
@@ -53,6 +53,12 @@
       "utc": "2026-10-05T04:00:00Z"
     },
     {
+      "id": "tennis-atp-2026-10-17-almaty-open",
+      "weekend": "2026-10-17",
+      "name": "Almaty Open",
+      "utc": "2026-10-17T04:00:00Z"
+    },
+    {
       "id": "tennis-atp-2026-10-17-bnp-paribas-fortis-european-open",
       "weekend": "2026-10-17",
       "name": "BNP Paribas Fortis European Open",
@@ -62,12 +68,6 @@
       "id": "tennis-atp-2026-10-17-grand-prix-auvergne-rh-ne-alpes",
       "weekend": "2026-10-17",
       "name": "Grand Prix Auvergne-Rh\u00f4ne-Alpes",
-      "utc": "2026-10-17T04:00:00Z"
-    },
-    {
-      "id": "tennis-atp-2026-10-17-almaty-open",
-      "weekend": "2026-10-17",
-      "name": "Almaty Open",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
