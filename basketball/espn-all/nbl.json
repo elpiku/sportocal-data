@@ -1,8 +1,8 @@
 {
   "sportKey": "basketball-nbl",
   "leagueName": "National Basketball League",
-  "windowFrom": "20260816",
-  "windowTo": "20270527",
+  "windowFrom": "20260817",
+  "windowTo": "20270528",
   "events": [
     {
       "id": "nbl-2026-08-22-perth-wildcats-cairns-taipans",
@@ -105,6 +105,12 @@
       "weekend": "2026-09-10",
       "name": "Melbourne United v New Zealand Breakers",
       "utc": "2026-09-10T08:30:00Z"
+    },
+    {
+      "id": "nbl-2026-09-12-tasmania-jackjumpers-sydney-kings",
+      "weekend": "2026-09-12",
+      "name": "Tasmania JackJumpers v Sydney Kings",
+      "utc": "2026-09-12T08:00:00Z"
     },
     {
       "id": "nbl-2026-09-12-brisbane-bullets-cairns-taipans",
