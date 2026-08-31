@@ -1,8 +1,6 @@
 name: Update Champions League Schedule
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:

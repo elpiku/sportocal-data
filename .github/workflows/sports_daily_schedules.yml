@@ -2,9 +2,13 @@ name: Daily Multi-Sport Schedules Scraper
 
 on:
   schedule:
-    # Runs daily at 06:00 UTC
-    - cron: '0 6 * * *'
+    # Runs every 6 hours to keep all sports, leagues, rosters, and countries fresh
+    - cron: '0 */6 * * *'
   workflow_dispatch:
+
+concurrency:
+  group: sportocal-data-sync
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -23,7 +27,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 python-dateutil pytz pypdf
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 python-dateutil pytz pypdf playwright
+          if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
 
       - name: Run American Football Scraper
         run: python scripts/american_football_generic.py || true
@@ -123,6 +129,12 @@ jobs:
 
       - name: Run NASCAR Truck Scraper
         run: python scripts/nascar_truck.py || true
+
+      - name: Run Players Scraper
+        run: python scripts/scrape_players.py || true
+
+      - name: Run Countries Scraper
+        run: python scripts/scrape_countries.py || true
 
       - name: Rebuild index.json
         run: python scripts/build_index.py

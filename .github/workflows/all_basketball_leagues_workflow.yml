@@ -8,8 +8,6 @@ name: Update All ESPN Basketball Leagues
 # `scrape` fans out one matrix job per batch.
 
 on:
-  schedule:
-    - cron: '0 4 * * *'
   workflow_dispatch:
 
 permissions:

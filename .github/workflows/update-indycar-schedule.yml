@@ -1,8 +1,6 @@
 name: Update IndyCar Schedule
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'   # roughly every 6 hours (GitHub may delay under load)
   workflow_dispatch: {}     # manual "Run workflow" button in the Actions tab
 
 permissions:

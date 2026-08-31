@@ -1,8 +1,6 @@
 name: Update MLS Schedule
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:

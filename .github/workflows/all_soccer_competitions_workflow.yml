@@ -10,8 +10,6 @@ name: Update All ESPN Soccer Competitions
 # is the more considerate default. Adjust the cron if you want it fresher.
 
 on:
-  schedule:
-    - cron: '0 3 * * *'
   workflow_dispatch:
 
 permissions:
