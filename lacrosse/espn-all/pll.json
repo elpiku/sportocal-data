@@ -1,21 +1,9 @@
 {
   "sportKey": "lacrosse-pll",
   "leagueName": "Premier Lacrosse League",
-  "windowFrom": "20260816",
-  "windowTo": "20270527",
+  "windowFrom": "20260818",
+  "windowTo": "20270529",
   "events": [
-    {
-      "id": "lacrosse-pll-2026-08-16-philadelphia-waterdogs-maryland-whipsnakes",
-      "weekend": "2026-08-16",
-      "name": "Philadelphia Waterdogs v Maryland Whipsnakes",
-      "utc": "2026-08-16T17:00:00Z"
-    },
-    {
-      "id": "lacrosse-pll-2026-08-16-california-redwoods-denver-outlaws",
-      "weekend": "2026-08-16",
-      "name": "California Redwoods v Denver Outlaws",
-      "utc": "2026-08-16T19:30:00Z"
-    },
     {
       "id": "lacrosse-pll-2026-08-29-california-redwoods-denver-outlaws",
       "weekend": "2026-08-29",
@@ -27,6 +15,18 @@
       "weekend": "2026-08-30",
       "name": "Boston Cannons v Maryland Whipsnakes",
       "utc": "2026-08-30T00:30:00Z"
+    },
+    {
+      "id": "lacrosse-pll-2026-09-07-utah-archers-denver-outlaws",
+      "weekend": "2026-09-07",
+      "name": "Utah Archers v Denver Outlaws",
+      "utc": "2026-09-07T19:00:00Z"
+    },
+    {
+      "id": "lacrosse-pll-2026-09-07-philadelphia-waterdogs-boston-cannons",
+      "weekend": "2026-09-07",
+      "name": "Philadelphia Waterdogs v Boston Cannons",
+      "utc": "2026-09-07T21:30:00Z"
     }
   ]
 }
