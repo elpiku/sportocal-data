@@ -29,9 +29,9 @@
       "utc": "2026-08-24T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-07-montreux-nestl-open",
+      "id": "tennis-wta-2026-09-07-atik-antalya-open",
       "weekend": "2026-09-07",
-      "name": "Montreux Nestl\u00e9 Open",
+      "name": "ATIK Antalya Open",
       "utc": "2026-09-07T04:00:00Z"
     },
     {
@@ -41,9 +41,9 @@
       "utc": "2026-09-07T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-07-atik-antalya-open",
+      "id": "tennis-wta-2026-09-07-montreux-nestl-open",
       "weekend": "2026-09-07",
-      "name": "ATIK Antalya Open",
+      "name": "Montreux Nestl\u00e9 Open",
       "utc": "2026-09-07T04:00:00Z"
     },
     {
@@ -53,21 +53,15 @@
       "utc": "2026-09-13T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-14-zavarovalnica-triglav-ljubljana",
-      "weekend": "2026-09-14",
-      "name": "Zavarovalnica Triglav Ljubljana",
-      "utc": "2026-09-14T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-09-14-bbva-open-internacional-de-valencia",
       "weekend": "2026-09-14",
       "name": "BBVA Open Internacional De Valencia",
       "utc": "2026-09-14T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-14-caldas-da-rainha-ladies-open",
+      "id": "tennis-wta-2026-09-14-zavarovalnica-triglav-ljubljana",
       "weekend": "2026-09-14",
-      "name": "Caldas da Rainha Ladies Open",
+      "name": "Zavarovalnica Triglav Ljubljana",
       "utc": "2026-09-14T04:00:00Z"
     },
     {
@@ -77,10 +71,10 @@
       "utc": "2026-09-14T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-21-singapore-tennis-open",
-      "weekend": "2026-09-21",
-      "name": "Singapore Tennis Open",
-      "utc": "2026-09-21T04:00:00Z"
+      "id": "tennis-wta-2026-09-14-caldas-da-rainha-ladies-open",
+      "weekend": "2026-09-14",
+      "name": "Caldas da Rainha Ladies Open",
+      "utc": "2026-09-14T04:00:00Z"
     },
     {
       "id": "tennis-wta-2026-09-21-delta-motors-tolentino-open",
@@ -92,6 +86,12 @@
       "id": "tennis-wta-2026-09-21-korea-open",
       "weekend": "2026-09-21",
       "name": "Korea Open",
+      "utc": "2026-09-21T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-09-21-singapore-tennis-open",
+      "weekend": "2026-09-21",
+      "name": "Singapore Tennis Open",
       "utc": "2026-09-21T04:00:00Z"
     },
     {
@@ -137,12 +137,6 @@
       "utc": "2026-10-03T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-10-roveretopen-citt-della-pace",
-      "weekend": "2026-10-10",
-      "name": "RoveretOpen Citt\u00e0 della Pace",
-      "utc": "2026-10-10T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-10-wuhan-open",
       "weekend": "2026-10-10",
       "name": "Wuhan Open",
@@ -152,6 +146,12 @@
       "id": "tennis-wta-2026-10-10-vanda-pharmaceuticals-mallorca-women-s-championships-presented-by-ecotrans-group",
       "weekend": "2026-10-10",
       "name": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
+      "utc": "2026-10-10T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-10-roveretopen-citt-della-pace",
+      "weekend": "2026-10-10",
+      "name": "RoveretOpen Citt\u00e0 della Pace",
       "utc": "2026-10-10T04:00:00Z"
     },
     {
@@ -179,18 +179,6 @@
       "utc": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-24-guangzhou-open",
-      "weekend": "2026-10-24",
-      "name": "Guangzhou Open",
-      "utc": "2026-10-24T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-24-queretaro-open",
-      "weekend": "2026-10-24",
-      "name": "Queretaro Open",
-      "utc": "2026-10-24T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-24-abierto-de-curitiba",
       "weekend": "2026-10-24",
       "name": "Abierto de Curitiba",
@@ -200,6 +188,18 @@
       "id": "tennis-wta-2026-10-24-toray-pan-pacific-open-tennis",
       "weekend": "2026-10-24",
       "name": "Toray Pan Pacific Open Tennis",
+      "utc": "2026-10-24T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-24-queretaro-open",
+      "weekend": "2026-10-24",
+      "name": "Queretaro Open",
+      "utc": "2026-10-24T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-24-guangzhou-open",
+      "weekend": "2026-10-24",
+      "name": "Guangzhou Open",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
@@ -215,9 +215,9 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-angola-ladies-open",
+      "id": "tennis-wta-2026-10-31-chennai-open",
       "weekend": "2026-10-31",
-      "name": "Angola Ladies Open",
+      "name": "Chennai Open",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -227,9 +227,9 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-chennai-open",
+      "id": "tennis-wta-2026-10-31-angola-ladies-open",
       "weekend": "2026-10-31",
-      "name": "Chennai Open",
+      "name": "Angola Ladies Open",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -239,15 +239,15 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-11-07-wta-finals",
-      "weekend": "2026-11-07",
-      "name": "WTA Finals",
-      "utc": "2026-11-07T05:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-11-07-cundinamarca-open",
       "weekend": "2026-11-07",
       "name": "Cundinamarca Open",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-11-07-wta-finals",
+      "weekend": "2026-11-07",
+      "name": "WTA Finals",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
@@ -269,15 +269,15 @@
       "utc": "2026-11-21T05:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-11-28-open-angers-loire-tr-laz",
-      "weekend": "2026-11-28",
-      "name": "Open Angers Loire Tr\u00e9laz\u00e9",
-      "utc": "2026-11-28T05:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-11-28-quito-open",
       "weekend": "2026-11-28",
       "name": "Quito Open",
+      "utc": "2026-11-28T05:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-11-28-open-angers-loire-tr-laz",
+      "weekend": "2026-11-28",
+      "name": "Open Angers Loire Tr\u00e9laz\u00e9",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
