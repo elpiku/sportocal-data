@@ -1,8 +1,8 @@
 {
   "sportKey": "basketball-fiba",
   "leagueName": "FIBA World Cup",
-  "windowFrom": "20260818",
-  "windowTo": "20270529",
+  "windowFrom": "20260819",
+  "windowTo": "20270530",
   "events": [
     {
       "id": "fiba-2026-09-04-puerto-rico-puerto-rico-australia-australia",
@@ -101,15 +101,15 @@
       "utc": "2026-09-06T18:45:00Z"
     },
     {
-      "id": "fiba-2026-09-07-t-rkiye-t-rkiye-puerto-rico-puerto-rico",
-      "weekend": "2026-09-07",
-      "name": "T\u00fcrkiye T\u00fcrkiye v Puerto Rico Puerto Rico",
-      "utc": "2026-09-07T09:30:00Z"
-    },
-    {
       "id": "fiba-2026-09-07-australia-australia-belgium-belgium",
       "weekend": "2026-09-07",
       "name": "Australia Australia v Belgium Belgium",
+      "utc": "2026-09-07T09:30:00Z"
+    },
+    {
+      "id": "fiba-2026-09-07-t-rkiye-t-rkiye-puerto-rico-puerto-rico",
+      "weekend": "2026-09-07",
+      "name": "T\u00fcrkiye T\u00fcrkiye v Puerto Rico Puerto Rico",
       "utc": "2026-09-07T09:30:00Z"
     },
     {

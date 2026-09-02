@@ -1,8 +1,8 @@
 {
   "sportKey": "tennis-atp",
   "leagueName": "ATP",
-  "windowFrom": "20260818",
-  "windowTo": "20270529",
+  "windowFrom": "20260819",
+  "windowTo": "20270530",
   "events": [
     {
       "id": "tennis-atp-2026-08-11-cincinnati-open",
@@ -23,15 +23,15 @@
       "utc": "2026-08-24T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-09-23-hangzhou-open",
-      "weekend": "2026-09-23",
-      "name": "Hangzhou Open",
-      "utc": "2026-09-23T04:00:00Z"
-    },
-    {
       "id": "tennis-atp-2026-09-23-chengdu-open",
       "weekend": "2026-09-23",
       "name": "Chengdu Open",
+      "utc": "2026-09-23T04:00:00Z"
+    },
+    {
+      "id": "tennis-atp-2026-09-23-hangzhou-open",
+      "weekend": "2026-09-23",
+      "name": "Hangzhou Open",
       "utc": "2026-09-23T04:00:00Z"
     },
     {

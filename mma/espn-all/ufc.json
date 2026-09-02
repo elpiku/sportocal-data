@@ -1,15 +1,9 @@
 {
   "sportKey": "mma-ufc",
   "leagueName": "Ultimate Fighting Championship",
-  "windowFrom": "20260818",
-  "windowTo": "20270529",
+  "windowFrom": "20260819",
+  "windowTo": "20270530",
   "events": [
-    {
-      "id": "mma-ufc-2026-08-18-dana-white-s-contender-series-season-10-week-2",
-      "weekend": "2026-08-18",
-      "name": "Dana White's Contender Series: Season 10, Week 2",
-      "utc": "2026-08-18T23:00:00Z"
-    },
     {
       "id": "mma-ufc-2026-08-22-ufc-fight-night-hernandez-rodrigues",
       "weekend": "2026-08-22",
@@ -93,6 +87,12 @@
       "weekend": "2026-10-06",
       "name": "Dana White's Contender Series: Season 10, Week 9",
       "utc": "2026-10-06T23:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-10-10-ufc-fight-night-allen-duncan",
+      "weekend": "2026-10-10",
+      "name": "UFC Fight Night: Allen v Duncan",
+      "utc": "2026-10-10T21:00:00Z"
     },
     {
       "id": "mma-ufc-2026-10-13-dana-white-s-contender-series-season-10-week-10",
