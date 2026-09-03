@@ -1,32 +1,14 @@
 {
   "sportKey": "basketball-wnba",
   "leagueName": "Women's National Basketball Association",
-  "windowFrom": "20260819",
-  "windowTo": "20270530",
+  "windowFrom": "20260820",
+  "windowTo": "20270531",
   "events": [
-    {
-      "id": "wnba-2026-08-19-washington-mystics-toronto-tempo",
-      "weekend": "2026-08-19",
-      "name": "Washington Mystics v Toronto Tempo",
-      "utc": "2026-08-19T23:30:00Z"
-    },
-    {
-      "id": "wnba-2026-08-20-golden-state-valkyries-minnesota-lynx",
-      "weekend": "2026-08-20",
-      "name": "Golden State Valkyries v Minnesota Lynx",
-      "utc": "2026-08-20T02:00:00Z"
-    },
     {
       "id": "wnba-2026-08-21-dallas-wings-indiana-fever",
       "weekend": "2026-08-21",
       "name": "Dallas Wings v Indiana Fever",
       "utc": "2026-08-21T00:00:00Z"
-    },
-    {
-      "id": "wnba-2026-08-21-los-angeles-sparks-atlanta-dream",
-      "weekend": "2026-08-21",
-      "name": "Los Angeles Sparks v Atlanta Dream",
-      "utc": "2026-08-21T02:00:00Z"
     },
     {
       "id": "wnba-2026-08-21-las-vegas-aces-connecticut-sun",
@@ -35,15 +17,21 @@
       "utc": "2026-08-21T02:00:00Z"
     },
     {
-      "id": "wnba-2026-08-21-washington-mystics-minnesota-lynx",
+      "id": "wnba-2026-08-21-los-angeles-sparks-atlanta-dream",
       "weekend": "2026-08-21",
-      "name": "Washington Mystics v Minnesota Lynx",
-      "utc": "2026-08-21T23:30:00Z"
+      "name": "Los Angeles Sparks v Atlanta Dream",
+      "utc": "2026-08-21T02:00:00Z"
     },
     {
       "id": "wnba-2026-08-21-chicago-sky-golden-state-valkyries",
       "weekend": "2026-08-21",
       "name": "Chicago Sky v Golden State Valkyries",
+      "utc": "2026-08-21T23:30:00Z"
+    },
+    {
+      "id": "wnba-2026-08-21-washington-mystics-minnesota-lynx",
+      "weekend": "2026-08-21",
+      "name": "Washington Mystics v Minnesota Lynx",
       "utc": "2026-08-21T23:30:00Z"
     },
     {
@@ -77,9 +65,9 @@
       "utc": "2026-08-23T20:00:00Z"
     },
     {
-      "id": "wnba-2026-08-23-chicago-sky-indiana-fever",
+      "id": "wnba-2026-08-23-toronto-tempo-las-vegas-aces",
       "weekend": "2026-08-23",
-      "name": "Chicago Sky v Indiana Fever",
+      "name": "Toronto Tempo v Las Vegas Aces",
       "utc": "2026-08-23T23:00:00Z"
     },
     {
@@ -89,9 +77,9 @@
       "utc": "2026-08-23T23:00:00Z"
     },
     {
-      "id": "wnba-2026-08-23-toronto-tempo-las-vegas-aces",
+      "id": "wnba-2026-08-23-chicago-sky-indiana-fever",
       "weekend": "2026-08-23",
-      "name": "Toronto Tempo v Las Vegas Aces",
+      "name": "Chicago Sky v Indiana Fever",
       "utc": "2026-08-23T23:00:00Z"
     },
     {
@@ -149,27 +137,27 @@
       "utc": "2026-08-28T02:00:00Z"
     },
     {
-      "id": "wnba-2026-08-28-indiana-fever-connecticut-sun",
-      "weekend": "2026-08-28",
-      "name": "Indiana Fever v Connecticut Sun",
-      "utc": "2026-08-28T23:30:00Z"
-    },
-    {
       "id": "wnba-2026-08-28-atlanta-dream-portland-fire",
       "weekend": "2026-08-28",
       "name": "Atlanta Dream v Portland Fire",
       "utc": "2026-08-28T23:30:00Z"
     },
     {
-      "id": "wnba-2026-08-29-las-vegas-aces-toronto-tempo",
-      "weekend": "2026-08-29",
-      "name": "Las Vegas Aces v Toronto Tempo",
-      "utc": "2026-08-29T02:00:00Z"
+      "id": "wnba-2026-08-28-indiana-fever-connecticut-sun",
+      "weekend": "2026-08-28",
+      "name": "Indiana Fever v Connecticut Sun",
+      "utc": "2026-08-28T23:30:00Z"
     },
     {
       "id": "wnba-2026-08-29-los-angeles-sparks-washington-mystics",
       "weekend": "2026-08-29",
       "name": "Los Angeles Sparks v Washington Mystics",
+      "utc": "2026-08-29T02:00:00Z"
+    },
+    {
+      "id": "wnba-2026-08-29-las-vegas-aces-toronto-tempo",
+      "weekend": "2026-08-29",
+      "name": "Las Vegas Aces v Toronto Tempo",
       "utc": "2026-08-29T02:00:00Z"
     },
     {
@@ -227,15 +215,15 @@
       "utc": "2026-09-18T00:00:00Z"
     },
     {
-      "id": "wnba-2026-09-18-portland-fire-phoenix-mercury",
-      "weekend": "2026-09-18",
-      "name": "Portland Fire v Phoenix Mercury",
-      "utc": "2026-09-18T02:00:00Z"
-    },
-    {
       "id": "wnba-2026-09-18-seattle-storm-las-vegas-aces",
       "weekend": "2026-09-18",
       "name": "Seattle Storm v Las Vegas Aces",
+      "utc": "2026-09-18T02:00:00Z"
+    },
+    {
+      "id": "wnba-2026-09-18-portland-fire-phoenix-mercury",
+      "weekend": "2026-09-18",
+      "name": "Portland Fire v Phoenix Mercury",
       "utc": "2026-09-18T02:00:00Z"
     },
     {

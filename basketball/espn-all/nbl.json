@@ -1,8 +1,8 @@
 {
   "sportKey": "basketball-nbl",
   "leagueName": "National Basketball League",
-  "windowFrom": "20260819",
-  "windowTo": "20270530",
+  "windowFrom": "20260820",
+  "windowTo": "20270531",
   "events": [
     {
       "id": "nbl-2026-08-22-perth-wildcats-cairns-taipans",
@@ -1007,15 +1007,15 @@
       "utc": "2027-01-31T08:30:00Z"
     },
     {
-      "id": "nbl-2027-02-04-illawarra-hawks-brisbane-bullets",
-      "weekend": "2027-02-04",
-      "name": "Illawarra Hawks v Brisbane Bullets",
-      "utc": "2027-02-04T08:30:00Z"
-    },
-    {
       "id": "nbl-2027-02-04-new-zealand-breakers-south-east-melbourne-phoenix",
       "weekend": "2027-02-04",
       "name": "New Zealand Breakers v South East Melbourne Phoenix",
+      "utc": "2027-02-04T08:30:00Z"
+    },
+    {
+      "id": "nbl-2027-02-04-illawarra-hawks-brisbane-bullets",
+      "weekend": "2027-02-04",
+      "name": "Illawarra Hawks v Brisbane Bullets",
       "utc": "2027-02-04T08:30:00Z"
     },
     {
