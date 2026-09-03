@@ -41,9 +41,9 @@
       "utc": "2026-08-22T16:00:00Z"
     },
     {
-      "id": "football-nfl-2026-08-22-cleveland-browns-buffalo-bills",
+      "id": "football-nfl-2026-08-22-indianapolis-colts-atlanta-falcons",
       "weekend": "2026-08-22",
-      "name": "Cleveland Browns v Buffalo Bills",
+      "name": "Indianapolis Colts v Atlanta Falcons",
       "utc": "2026-08-22T17:00:00Z"
     },
     {
@@ -53,16 +53,10 @@
       "utc": "2026-08-22T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-08-22-indianapolis-colts-atlanta-falcons",
+      "id": "football-nfl-2026-08-22-cleveland-browns-buffalo-bills",
       "weekend": "2026-08-22",
-      "name": "Indianapolis Colts v Atlanta Falcons",
+      "name": "Cleveland Browns v Buffalo Bills",
       "utc": "2026-08-22T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-08-22-miami-dolphins-new-york-giants",
-      "weekend": "2026-08-22",
-      "name": "Miami Dolphins v New York Giants",
-      "utc": "2026-08-22T20:00:00Z"
     },
     {
       "id": "football-nfl-2026-08-22-los-angeles-rams-new-orleans-saints",
@@ -71,15 +65,21 @@
       "utc": "2026-08-22T20:00:00Z"
     },
     {
-      "id": "football-nfl-2026-08-22-new-england-patriots-philadelphia-eagles",
+      "id": "football-nfl-2026-08-22-miami-dolphins-new-york-giants",
       "weekend": "2026-08-22",
-      "name": "New England Patriots v Philadelphia Eagles",
-      "utc": "2026-08-22T23:00:00Z"
+      "name": "Miami Dolphins v New York Giants",
+      "utc": "2026-08-22T20:00:00Z"
     },
     {
       "id": "football-nfl-2026-08-22-cincinnati-bengals-chicago-bears",
       "weekend": "2026-08-22",
       "name": "Cincinnati Bengals v Chicago Bears",
+      "utc": "2026-08-22T23:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-08-22-new-england-patriots-philadelphia-eagles",
+      "weekend": "2026-08-22",
+      "name": "New England Patriots v Philadelphia Eagles",
       "utc": "2026-08-22T23:00:00Z"
     },
     {
@@ -107,15 +107,15 @@
       "utc": "2026-08-27T23:00:00Z"
     },
     {
-      "id": "football-nfl-2026-08-28-cleveland-browns-new-england-patriots",
-      "weekend": "2026-08-28",
-      "name": "Cleveland Browns v New England Patriots",
-      "utc": "2026-08-28T00:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-08-28-las-vegas-raiders-san-francisco-49ers",
       "weekend": "2026-08-28",
       "name": "Las Vegas Raiders v San Francisco 49ers",
+      "utc": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-08-28-cleveland-browns-new-england-patriots",
+      "weekend": "2026-08-28",
+      "name": "Cleveland Browns v New England Patriots",
       "utc": "2026-08-28T00:00:00Z"
     },
     {
@@ -155,12 +155,6 @@
       "utc": "2026-08-28T23:30:00Z"
     },
     {
-      "id": "football-nfl-2026-08-29-dallas-cowboys-new-orleans-saints",
-      "weekend": "2026-08-29",
-      "name": "Dallas Cowboys v New Orleans Saints",
-      "utc": "2026-08-29T00:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-08-29-kansas-city-chiefs-seattle-seahawks",
       "weekend": "2026-08-29",
       "name": "Kansas City Chiefs v Seattle Seahawks",
@@ -170,6 +164,12 @@
       "id": "football-nfl-2026-08-29-philadelphia-eagles-cincinnati-bengals",
       "weekend": "2026-08-29",
       "name": "Philadelphia Eagles v Cincinnati Bengals",
+      "utc": "2026-08-29T00:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-08-29-dallas-cowboys-new-orleans-saints",
+      "weekend": "2026-08-29",
+      "name": "Dallas Cowboys v New Orleans Saints",
       "utc": "2026-08-29T00:00:00Z"
     },
     {
@@ -209,9 +209,9 @@
       "utc": "2026-09-11T00:35:00Z"
     },
     {
-      "id": "football-nfl-2026-09-13-cincinnati-bengals-tampa-bay-buccaneers",
+      "id": "football-nfl-2026-09-13-detroit-lions-new-orleans-saints",
       "weekend": "2026-09-13",
-      "name": "Cincinnati Bengals v Tampa Bay Buccaneers",
+      "name": "Detroit Lions v New Orleans Saints",
       "utc": "2026-09-13T17:00:00Z"
     },
     {
@@ -227,27 +227,21 @@
       "utc": "2026-09-13T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-09-13-carolina-panthers-chicago-bears",
-      "weekend": "2026-09-13",
-      "name": "Carolina Panthers v Chicago Bears",
-      "utc": "2026-09-13T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-09-13-detroit-lions-new-orleans-saints",
-      "weekend": "2026-09-13",
-      "name": "Detroit Lions v New Orleans Saints",
-      "utc": "2026-09-13T17:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-09-13-houston-texans-buffalo-bills",
       "weekend": "2026-09-13",
       "name": "Houston Texans v Buffalo Bills",
       "utc": "2026-09-13T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-09-13-jacksonville-jaguars-cleveland-browns",
+      "id": "football-nfl-2026-09-13-cincinnati-bengals-tampa-bay-buccaneers",
       "weekend": "2026-09-13",
-      "name": "Jacksonville Jaguars v Cleveland Browns",
+      "name": "Cincinnati Bengals v Tampa Bay Buccaneers",
+      "utc": "2026-09-13T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-09-13-carolina-panthers-chicago-bears",
+      "weekend": "2026-09-13",
+      "name": "Carolina Panthers v Chicago Bears",
       "utc": "2026-09-13T17:00:00Z"
     },
     {
@@ -257,15 +251,15 @@
       "utc": "2026-09-13T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-09-13-las-vegas-raiders-miami-dolphins",
+      "id": "football-nfl-2026-09-13-jacksonville-jaguars-cleveland-browns",
       "weekend": "2026-09-13",
-      "name": "Las Vegas Raiders v Miami Dolphins",
-      "utc": "2026-09-13T20:25:00Z"
+      "name": "Jacksonville Jaguars v Cleveland Browns",
+      "utc": "2026-09-13T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-09-13-minnesota-vikings-green-bay-packers",
+      "id": "football-nfl-2026-09-13-philadelphia-eagles-washington-commanders",
       "weekend": "2026-09-13",
-      "name": "Minnesota Vikings v Green Bay Packers",
+      "name": "Philadelphia Eagles v Washington Commanders",
       "utc": "2026-09-13T20:25:00Z"
     },
     {
@@ -275,9 +269,15 @@
       "utc": "2026-09-13T20:25:00Z"
     },
     {
-      "id": "football-nfl-2026-09-13-philadelphia-eagles-washington-commanders",
+      "id": "football-nfl-2026-09-13-minnesota-vikings-green-bay-packers",
       "weekend": "2026-09-13",
-      "name": "Philadelphia Eagles v Washington Commanders",
+      "name": "Minnesota Vikings v Green Bay Packers",
+      "utc": "2026-09-13T20:25:00Z"
+    },
+    {
+      "id": "football-nfl-2026-09-13-las-vegas-raiders-miami-dolphins",
+      "weekend": "2026-09-13",
+      "name": "Las Vegas Raiders v Miami Dolphins",
       "utc": "2026-09-13T20:25:00Z"
     },
     {
@@ -311,21 +311,15 @@
       "utc": "2026-09-20T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-09-20-houston-texans-cincinnati-bengals",
-      "weekend": "2026-09-20",
-      "name": "Houston Texans v Cincinnati Bengals",
-      "utc": "2026-09-20T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-09-20-baltimore-ravens-new-orleans-saints",
-      "weekend": "2026-09-20",
-      "name": "Baltimore Ravens v New Orleans Saints",
-      "utc": "2026-09-20T17:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-09-20-chicago-bears-minnesota-vikings",
       "weekend": "2026-09-20",
       "name": "Chicago Bears v Minnesota Vikings",
+      "utc": "2026-09-20T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-09-20-houston-texans-cincinnati-bengals",
+      "weekend": "2026-09-20",
+      "name": "Houston Texans v Cincinnati Bengals",
       "utc": "2026-09-20T17:00:00Z"
     },
     {
@@ -335,9 +329,9 @@
       "utc": "2026-09-20T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-09-20-tampa-bay-buccaneers-cleveland-browns",
+      "id": "football-nfl-2026-09-20-baltimore-ravens-new-orleans-saints",
       "weekend": "2026-09-20",
-      "name": "Tampa Bay Buccaneers v Cleveland Browns",
+      "name": "Baltimore Ravens v New Orleans Saints",
       "utc": "2026-09-20T17:00:00Z"
     },
     {
@@ -347,15 +341,21 @@
       "utc": "2026-09-20T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-09-20-los-angeles-chargers-las-vegas-raiders",
+      "id": "football-nfl-2026-09-20-tampa-bay-buccaneers-cleveland-browns",
       "weekend": "2026-09-20",
-      "name": "Los Angeles Chargers v Las Vegas Raiders",
-      "utc": "2026-09-20T20:05:00Z"
+      "name": "Tampa Bay Buccaneers v Cleveland Browns",
+      "utc": "2026-09-20T17:00:00Z"
     },
     {
       "id": "football-nfl-2026-09-20-denver-broncos-jacksonville-jaguars",
       "weekend": "2026-09-20",
       "name": "Denver Broncos v Jacksonville Jaguars",
+      "utc": "2026-09-20T20:05:00Z"
+    },
+    {
+      "id": "football-nfl-2026-09-20-los-angeles-chargers-las-vegas-raiders",
+      "weekend": "2026-09-20",
+      "name": "Los Angeles Chargers v Las Vegas Raiders",
       "utc": "2026-09-20T20:05:00Z"
     },
     {
@@ -395,42 +395,6 @@
       "utc": "2026-09-25T00:15:00Z"
     },
     {
-      "id": "football-nfl-2026-09-27-buffalo-bills-los-angeles-chargers",
-      "weekend": "2026-09-27",
-      "name": "Buffalo Bills v Los Angeles Chargers",
-      "utc": "2026-09-27T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-09-27-cleveland-browns-carolina-panthers",
-      "weekend": "2026-09-27",
-      "name": "Cleveland Browns v Carolina Panthers",
-      "utc": "2026-09-27T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-09-27-detroit-lions-new-york-jets",
-      "weekend": "2026-09-27",
-      "name": "Detroit Lions v New York Jets",
-      "utc": "2026-09-27T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-09-27-indianapolis-colts-houston-texans",
-      "weekend": "2026-09-27",
-      "name": "Indianapolis Colts v Houston Texans",
-      "utc": "2026-09-27T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-09-27-washington-commanders-seattle-seahawks",
-      "weekend": "2026-09-27",
-      "name": "Washington Commanders v Seattle Seahawks",
-      "utc": "2026-09-27T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-09-27-miami-dolphins-kansas-city-chiefs",
-      "weekend": "2026-09-27",
-      "name": "Miami Dolphins v Kansas City Chiefs",
-      "utc": "2026-09-27T17:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-09-27-pittsburgh-steelers-cincinnati-bengals",
       "weekend": "2026-09-27",
       "name": "Pittsburgh Steelers v Cincinnati Bengals",
@@ -443,9 +407,45 @@
       "utc": "2026-09-27T17:00:00Z"
     },
     {
+      "id": "football-nfl-2026-09-27-miami-dolphins-kansas-city-chiefs",
+      "weekend": "2026-09-27",
+      "name": "Miami Dolphins v Kansas City Chiefs",
+      "utc": "2026-09-27T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-09-27-buffalo-bills-los-angeles-chargers",
+      "weekend": "2026-09-27",
+      "name": "Buffalo Bills v Los Angeles Chargers",
+      "utc": "2026-09-27T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-09-27-cleveland-browns-carolina-panthers",
+      "weekend": "2026-09-27",
+      "name": "Cleveland Browns v Carolina Panthers",
+      "utc": "2026-09-27T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-09-27-indianapolis-colts-houston-texans",
+      "weekend": "2026-09-27",
+      "name": "Indianapolis Colts v Houston Texans",
+      "utc": "2026-09-27T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-09-27-detroit-lions-new-york-jets",
+      "weekend": "2026-09-27",
+      "name": "Detroit Lions v New York Jets",
+      "utc": "2026-09-27T17:00:00Z"
+    },
+    {
       "id": "football-nfl-2026-09-27-jacksonville-jaguars-new-england-patriots",
       "weekend": "2026-09-27",
       "name": "Jacksonville Jaguars v New England Patriots",
+      "utc": "2026-09-27T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-09-27-washington-commanders-seattle-seahawks",
+      "weekend": "2026-09-27",
+      "name": "Washington Commanders v Seattle Seahawks",
       "utc": "2026-09-27T17:00:00Z"
     },
     {
@@ -497,21 +497,9 @@
       "utc": "2026-10-04T13:30:00Z"
     },
     {
-      "id": "football-nfl-2026-10-04-baltimore-ravens-tennessee-titans",
+      "id": "football-nfl-2026-10-04-chicago-bears-new-york-jets",
       "weekend": "2026-10-04",
-      "name": "Baltimore Ravens v Tennessee Titans",
-      "utc": "2026-10-04T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-10-04-new-york-giants-arizona-cardinals",
-      "weekend": "2026-10-04",
-      "name": "New York Giants v Arizona Cardinals",
-      "utc": "2026-10-04T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-10-04-cincinnati-bengals-jacksonville-jaguars",
-      "weekend": "2026-10-04",
-      "name": "Cincinnati Bengals v Jacksonville Jaguars",
+      "name": "Chicago Bears v New York Jets",
       "utc": "2026-10-04T17:00:00Z"
     },
     {
@@ -521,9 +509,9 @@
       "utc": "2026-10-04T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-10-04-chicago-bears-new-york-jets",
+      "id": "football-nfl-2026-10-04-houston-texans-dallas-cowboys",
       "weekend": "2026-10-04",
-      "name": "Chicago Bears v New York Jets",
+      "name": "Houston Texans v Dallas Cowboys",
       "utc": "2026-10-04T17:00:00Z"
     },
     {
@@ -533,15 +521,27 @@
       "utc": "2026-10-04T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-10-04-tampa-bay-buccaneers-green-bay-packers",
+      "id": "football-nfl-2026-10-04-cincinnati-bengals-jacksonville-jaguars",
       "weekend": "2026-10-04",
-      "name": "Tampa Bay Buccaneers v Green Bay Packers",
+      "name": "Cincinnati Bengals v Jacksonville Jaguars",
       "utc": "2026-10-04T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-10-04-houston-texans-dallas-cowboys",
+      "id": "football-nfl-2026-10-04-new-york-giants-arizona-cardinals",
       "weekend": "2026-10-04",
-      "name": "Houston Texans v Dallas Cowboys",
+      "name": "New York Giants v Arizona Cardinals",
+      "utc": "2026-10-04T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-10-04-baltimore-ravens-tennessee-titans",
+      "weekend": "2026-10-04",
+      "name": "Baltimore Ravens v Tennessee Titans",
+      "utc": "2026-10-04T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-10-04-tampa-bay-buccaneers-green-bay-packers",
+      "weekend": "2026-10-04",
+      "name": "Tampa Bay Buccaneers v Green Bay Packers",
       "utc": "2026-10-04T17:00:00Z"
     },
     {
@@ -549,6 +549,12 @@
       "weekend": "2026-10-04",
       "name": "Minnesota Vikings v Miami Dolphins",
       "utc": "2026-10-04T20:05:00Z"
+    },
+    {
+      "id": "football-nfl-2026-10-04-las-vegas-raiders-kansas-city-chiefs",
+      "weekend": "2026-10-04",
+      "name": "Las Vegas Raiders v Kansas City Chiefs",
+      "utc": "2026-10-04T20:25:00Z"
     },
     {
       "id": "football-nfl-2026-10-04-san-francisco-49ers-denver-broncos",
@@ -560,12 +566,6 @@
       "id": "football-nfl-2026-10-04-seattle-seahawks-los-angeles-chargers",
       "weekend": "2026-10-04",
       "name": "Seattle Seahawks v Los Angeles Chargers",
-      "utc": "2026-10-04T20:25:00Z"
-    },
-    {
-      "id": "football-nfl-2026-10-04-las-vegas-raiders-kansas-city-chiefs",
-      "weekend": "2026-10-04",
-      "name": "Las Vegas Raiders v Kansas City Chiefs",
       "utc": "2026-10-04T20:25:00Z"
     },
     {
@@ -593,6 +593,24 @@
       "utc": "2026-10-11T13:30:00Z"
     },
     {
+      "id": "football-nfl-2026-10-11-pittsburgh-steelers-indianapolis-colts",
+      "weekend": "2026-10-11",
+      "name": "Pittsburgh Steelers v Indianapolis Colts",
+      "utc": "2026-10-11T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-10-11-miami-dolphins-cincinnati-bengals",
+      "weekend": "2026-10-11",
+      "name": "Miami Dolphins v Cincinnati Bengals",
+      "utc": "2026-10-11T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-10-11-new-orleans-saints-minnesota-vikings",
+      "weekend": "2026-10-11",
+      "name": "New Orleans Saints v Minnesota Vikings",
+      "utc": "2026-10-11T17:00:00Z"
+    },
+    {
       "id": "football-nfl-2026-10-11-tennessee-titans-houston-texans",
       "weekend": "2026-10-11",
       "name": "Tennessee Titans v Houston Texans",
@@ -605,27 +623,9 @@
       "utc": "2026-10-11T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-10-11-miami-dolphins-cincinnati-bengals",
-      "weekend": "2026-10-11",
-      "name": "Miami Dolphins v Cincinnati Bengals",
-      "utc": "2026-10-11T17:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-10-11-new-york-jets-cleveland-browns",
       "weekend": "2026-10-11",
       "name": "New York Jets v Cleveland Browns",
-      "utc": "2026-10-11T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-10-11-new-orleans-saints-minnesota-vikings",
-      "weekend": "2026-10-11",
-      "name": "New Orleans Saints v Minnesota Vikings",
-      "utc": "2026-10-11T17:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-10-11-pittsburgh-steelers-indianapolis-colts",
-      "weekend": "2026-10-11",
-      "name": "Pittsburgh Steelers v Indianapolis Colts",
       "utc": "2026-10-11T17:00:00Z"
     },
     {
@@ -689,21 +689,15 @@
       "utc": "2026-10-18T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-10-18-new-england-patriots-new-york-jets",
-      "weekend": "2026-10-18",
-      "name": "New England Patriots v New York Jets",
-      "utc": "2026-10-18T17:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-10-18-tampa-bay-buccaneers-pittsburgh-steelers",
       "weekend": "2026-10-18",
       "name": "Tampa Bay Buccaneers v Pittsburgh Steelers",
       "utc": "2026-10-18T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-10-18-new-york-giants-new-orleans-saints",
+      "id": "football-nfl-2026-10-18-indianapolis-colts-tennessee-titans",
       "weekend": "2026-10-18",
-      "name": "New York Giants v New Orleans Saints",
+      "name": "Indianapolis Colts v Tennessee Titans",
       "utc": "2026-10-18T17:00:00Z"
     },
     {
@@ -713,15 +707,21 @@
       "utc": "2026-10-18T17:00:00Z"
     },
     {
+      "id": "football-nfl-2026-10-18-new-england-patriots-new-york-jets",
+      "weekend": "2026-10-18",
+      "name": "New England Patriots v New York Jets",
+      "utc": "2026-10-18T17:00:00Z"
+    },
+    {
       "id": "football-nfl-2026-10-18-cleveland-browns-baltimore-ravens",
       "weekend": "2026-10-18",
       "name": "Cleveland Browns v Baltimore Ravens",
       "utc": "2026-10-18T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-10-18-indianapolis-colts-tennessee-titans",
+      "id": "football-nfl-2026-10-18-new-york-giants-new-orleans-saints",
       "weekend": "2026-10-18",
-      "name": "Indianapolis Colts v Tennessee Titans",
+      "name": "New York Giants v New Orleans Saints",
       "utc": "2026-10-18T17:00:00Z"
     },
     {
@@ -773,27 +773,21 @@
       "utc": "2026-10-25T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-10-25-minnesota-vikings-indianapolis-colts",
-      "weekend": "2026-10-25",
-      "name": "Minnesota Vikings v Indianapolis Colts",
-      "utc": "2026-10-25T17:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-10-25-tennessee-titans-cleveland-browns",
       "weekend": "2026-10-25",
       "name": "Tennessee Titans v Cleveland Browns",
       "utc": "2026-10-25T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-10-25-houston-texans-new-york-giants",
+      "id": "football-nfl-2026-10-25-minnesota-vikings-indianapolis-colts",
       "weekend": "2026-10-25",
-      "name": "Houston Texans v New York Giants",
+      "name": "Minnesota Vikings v Indianapolis Colts",
       "utc": "2026-10-25T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-10-25-carolina-panthers-tampa-bay-buccaneers",
+      "id": "football-nfl-2026-10-25-new-york-jets-miami-dolphins",
       "weekend": "2026-10-25",
-      "name": "Carolina Panthers v Tampa Bay Buccaneers",
+      "name": "New York Jets v Miami Dolphins",
       "utc": "2026-10-25T17:00:00Z"
     },
     {
@@ -803,9 +797,15 @@
       "utc": "2026-10-25T17:00:00Z"
     },
     {
-      "id": "football-nfl-2026-10-25-new-york-jets-miami-dolphins",
+      "id": "football-nfl-2026-10-25-carolina-panthers-tampa-bay-buccaneers",
       "weekend": "2026-10-25",
-      "name": "New York Jets v Miami Dolphins",
+      "name": "Carolina Panthers v Tampa Bay Buccaneers",
+      "utc": "2026-10-25T17:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-10-25-houston-texans-new-york-giants",
+      "weekend": "2026-10-25",
+      "name": "Houston Texans v New York Giants",
       "utc": "2026-10-25T17:00:00Z"
     },
     {
@@ -845,9 +845,9 @@
       "utc": "2026-10-30T00:15:00Z"
     },
     {
-      "id": "football-nfl-2026-11-01-cincinnati-bengals-tennessee-titans",
+      "id": "football-nfl-2026-11-01-tampa-bay-buccaneers-atlanta-falcons",
       "weekend": "2026-11-01",
-      "name": "Cincinnati Bengals v Tennessee Titans",
+      "name": "Tampa Bay Buccaneers v Atlanta Falcons",
       "utc": "2026-11-01T18:00:00Z"
     },
     {
@@ -857,15 +857,9 @@
       "utc": "2026-11-01T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-11-01-dallas-cowboys-arizona-cardinals",
+      "id": "football-nfl-2026-11-01-new-york-jets-las-vegas-raiders",
       "weekend": "2026-11-01",
-      "name": "Dallas Cowboys v Arizona Cardinals",
-      "utc": "2026-11-01T18:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-11-01-jacksonville-jaguars-indianapolis-colts",
-      "weekend": "2026-11-01",
-      "name": "Jacksonville Jaguars v Indianapolis Colts",
+      "name": "New York Jets v Las Vegas Raiders",
       "utc": "2026-11-01T18:00:00Z"
     },
     {
@@ -875,21 +869,27 @@
       "utc": "2026-11-01T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-11-01-new-york-jets-las-vegas-raiders",
-      "weekend": "2026-11-01",
-      "name": "New York Jets v Las Vegas Raiders",
-      "utc": "2026-11-01T18:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-11-01-tampa-bay-buccaneers-atlanta-falcons",
-      "weekend": "2026-11-01",
-      "name": "Tampa Bay Buccaneers v Atlanta Falcons",
-      "utc": "2026-11-01T18:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-11-01-pittsburgh-steelers-cleveland-browns",
       "weekend": "2026-11-01",
       "name": "Pittsburgh Steelers v Cleveland Browns",
+      "utc": "2026-11-01T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-01-dallas-cowboys-arizona-cardinals",
+      "weekend": "2026-11-01",
+      "name": "Dallas Cowboys v Arizona Cardinals",
+      "utc": "2026-11-01T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-01-cincinnati-bengals-tennessee-titans",
+      "weekend": "2026-11-01",
+      "name": "Cincinnati Bengals v Tennessee Titans",
+      "utc": "2026-11-01T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-01-jacksonville-jaguars-indianapolis-colts",
+      "weekend": "2026-11-01",
+      "name": "Jacksonville Jaguars v Indianapolis Colts",
       "utc": "2026-11-01T18:00:00Z"
     },
     {
@@ -935,9 +935,33 @@
       "utc": "2026-11-08T14:30:00Z"
     },
     {
+      "id": "football-nfl-2026-11-08-washington-commanders-los-angeles-rams",
+      "weekend": "2026-11-08",
+      "name": "Washington Commanders v Los Angeles Rams",
+      "utc": "2026-11-08T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-08-indianapolis-colts-dallas-cowboys",
+      "weekend": "2026-11-08",
+      "name": "Indianapolis Colts v Dallas Cowboys",
+      "utc": "2026-11-08T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-08-new-orleans-saints-cleveland-browns",
+      "weekend": "2026-11-08",
+      "name": "New Orleans Saints v Cleveland Browns",
+      "utc": "2026-11-08T18:00:00Z"
+    },
+    {
       "id": "football-nfl-2026-11-08-miami-dolphins-detroit-lions",
       "weekend": "2026-11-08",
       "name": "Miami Dolphins v Detroit Lions",
+      "utc": "2026-11-08T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-08-carolina-panthers-denver-broncos",
+      "weekend": "2026-11-08",
+      "name": "Carolina Panthers v Denver Broncos",
       "utc": "2026-11-08T18:00:00Z"
     },
     {
@@ -953,28 +977,10 @@
       "utc": "2026-11-08T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-11-08-new-orleans-saints-cleveland-browns",
+      "id": "football-nfl-2026-11-08-los-angeles-chargers-houston-texans",
       "weekend": "2026-11-08",
-      "name": "New Orleans Saints v Cleveland Browns",
-      "utc": "2026-11-08T18:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-11-08-washington-commanders-los-angeles-rams",
-      "weekend": "2026-11-08",
-      "name": "Washington Commanders v Los Angeles Rams",
-      "utc": "2026-11-08T18:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-11-08-indianapolis-colts-dallas-cowboys",
-      "weekend": "2026-11-08",
-      "name": "Indianapolis Colts v Dallas Cowboys",
-      "utc": "2026-11-08T18:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-11-08-carolina-panthers-denver-broncos",
-      "weekend": "2026-11-08",
-      "name": "Carolina Panthers v Denver Broncos",
-      "utc": "2026-11-08T18:00:00Z"
+      "name": "Los Angeles Chargers v Houston Texans",
+      "utc": "2026-11-08T21:05:00Z"
     },
     {
       "id": "football-nfl-2026-11-08-san-francisco-49ers-las-vegas-raiders",
@@ -983,21 +989,15 @@
       "utc": "2026-11-08T21:05:00Z"
     },
     {
-      "id": "football-nfl-2026-11-08-los-angeles-chargers-houston-texans",
+      "id": "football-nfl-2026-11-08-new-england-patriots-green-bay-packers",
       "weekend": "2026-11-08",
-      "name": "Los Angeles Chargers v Houston Texans",
-      "utc": "2026-11-08T21:05:00Z"
+      "name": "New England Patriots v Green Bay Packers",
+      "utc": "2026-11-08T21:25:00Z"
     },
     {
       "id": "football-nfl-2026-11-08-seattle-seahawks-arizona-cardinals",
       "weekend": "2026-11-08",
       "name": "Seattle Seahawks v Arizona Cardinals",
-      "utc": "2026-11-08T21:25:00Z"
-    },
-    {
-      "id": "football-nfl-2026-11-08-new-england-patriots-green-bay-packers",
-      "weekend": "2026-11-08",
-      "name": "New England Patriots v Green Bay Packers",
       "utc": "2026-11-08T21:25:00Z"
     },
     {
@@ -1025,27 +1025,9 @@
       "utc": "2026-11-15T14:30:00Z"
     },
     {
-      "id": "football-nfl-2026-11-15-indianapolis-colts-miami-dolphins",
+      "id": "football-nfl-2026-11-15-green-bay-packers-minnesota-vikings",
       "weekend": "2026-11-15",
-      "name": "Indianapolis Colts v Miami Dolphins",
-      "utc": "2026-11-15T18:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-11-15-tennessee-titans-jacksonville-jaguars",
-      "weekend": "2026-11-15",
-      "name": "Tennessee Titans v Jacksonville Jaguars",
-      "utc": "2026-11-15T18:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-11-15-new-orleans-saints-carolina-panthers",
-      "weekend": "2026-11-15",
-      "name": "New Orleans Saints v Carolina Panthers",
-      "utc": "2026-11-15T18:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-11-15-atlanta-falcons-kansas-city-chiefs",
-      "weekend": "2026-11-15",
-      "name": "Atlanta Falcons v Kansas City Chiefs",
+      "name": "Green Bay Packers v Minnesota Vikings",
       "utc": "2026-11-15T18:00:00Z"
     },
     {
@@ -1055,15 +1037,33 @@
       "utc": "2026-11-15T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-11-15-green-bay-packers-minnesota-vikings",
+      "id": "football-nfl-2026-11-15-atlanta-falcons-kansas-city-chiefs",
       "weekend": "2026-11-15",
-      "name": "Green Bay Packers v Minnesota Vikings",
+      "name": "Atlanta Falcons v Kansas City Chiefs",
+      "utc": "2026-11-15T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-15-tennessee-titans-jacksonville-jaguars",
+      "weekend": "2026-11-15",
+      "name": "Tennessee Titans v Jacksonville Jaguars",
+      "utc": "2026-11-15T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-15-indianapolis-colts-miami-dolphins",
+      "weekend": "2026-11-15",
+      "name": "Indianapolis Colts v Miami Dolphins",
       "utc": "2026-11-15T18:00:00Z"
     },
     {
       "id": "football-nfl-2026-11-15-new-york-jets-buffalo-bills",
       "weekend": "2026-11-15",
       "name": "New York Jets v Buffalo Bills",
+      "utc": "2026-11-15T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-15-new-orleans-saints-carolina-panthers",
+      "weekend": "2026-11-15",
+      "name": "New Orleans Saints v Carolina Panthers",
       "utc": "2026-11-15T18:00:00Z"
     },
     {
@@ -1103,12 +1103,6 @@
       "utc": "2026-11-20T01:15:00Z"
     },
     {
-      "id": "football-nfl-2026-11-22-chicago-bears-new-orleans-saints",
-      "weekend": "2026-11-22",
-      "name": "Chicago Bears v New Orleans Saints",
-      "utc": "2026-11-22T18:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-11-22-buffalo-bills-miami-dolphins",
       "weekend": "2026-11-22",
       "name": "Buffalo Bills v Miami Dolphins",
@@ -1118,6 +1112,12 @@
       "id": "football-nfl-2026-11-22-dallas-cowboys-tennessee-titans",
       "weekend": "2026-11-22",
       "name": "Dallas Cowboys v Tennessee Titans",
+      "utc": "2026-11-22T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-22-chicago-bears-new-orleans-saints",
+      "weekend": "2026-11-22",
+      "name": "Chicago Bears v New Orleans Saints",
       "utc": "2026-11-22T18:00:00Z"
     },
     {
@@ -1133,15 +1133,15 @@
       "utc": "2026-11-22T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-11-22-kansas-city-chiefs-arizona-cardinals",
-      "weekend": "2026-11-22",
-      "name": "Kansas City Chiefs v Arizona Cardinals",
-      "utc": "2026-11-22T18:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-11-22-carolina-panthers-baltimore-ravens",
       "weekend": "2026-11-22",
       "name": "Carolina Panthers v Baltimore Ravens",
+      "utc": "2026-11-22T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-22-kansas-city-chiefs-arizona-cardinals",
+      "weekend": "2026-11-22",
+      "name": "Kansas City Chiefs v Arizona Cardinals",
       "utc": "2026-11-22T18:00:00Z"
     },
     {
@@ -1151,15 +1151,15 @@
       "utc": "2026-11-22T21:05:00Z"
     },
     {
-      "id": "football-nfl-2026-11-22-denver-broncos-las-vegas-raiders",
-      "weekend": "2026-11-22",
-      "name": "Denver Broncos v Las Vegas Raiders",
-      "utc": "2026-11-22T21:25:00Z"
-    },
-    {
       "id": "football-nfl-2026-11-22-philadelphia-eagles-pittsburgh-steelers",
       "weekend": "2026-11-22",
       "name": "Philadelphia Eagles v Pittsburgh Steelers",
+      "utc": "2026-11-22T21:25:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-22-denver-broncos-las-vegas-raiders",
+      "weekend": "2026-11-22",
+      "name": "Denver Broncos v Las Vegas Raiders",
       "utc": "2026-11-22T21:25:00Z"
     },
     {
@@ -1229,15 +1229,15 @@
       "utc": "2026-11-29T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-11-29-minnesota-vikings-atlanta-falcons",
-      "weekend": "2026-11-29",
-      "name": "Minnesota Vikings v Atlanta Falcons",
-      "utc": "2026-11-29T18:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-11-29-houston-texans-baltimore-ravens",
       "weekend": "2026-11-29",
       "name": "Houston Texans v Baltimore Ravens",
+      "utc": "2026-11-29T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-29-minnesota-vikings-atlanta-falcons",
+      "weekend": "2026-11-29",
+      "name": "Minnesota Vikings v Atlanta Falcons",
       "utc": "2026-11-29T18:00:00Z"
     },
     {
@@ -1247,15 +1247,15 @@
       "utc": "2026-11-29T21:05:00Z"
     },
     {
-      "id": "football-nfl-2026-11-29-arizona-cardinals-washington-commanders",
-      "weekend": "2026-11-29",
-      "name": "Arizona Cardinals v Washington Commanders",
-      "utc": "2026-11-29T21:25:00Z"
-    },
-    {
       "id": "football-nfl-2026-11-29-san-francisco-49ers-seattle-seahawks",
       "weekend": "2026-11-29",
       "name": "San Francisco 49ers v Seattle Seahawks",
+      "utc": "2026-11-29T21:25:00Z"
+    },
+    {
+      "id": "football-nfl-2026-11-29-arizona-cardinals-washington-commanders",
+      "weekend": "2026-11-29",
+      "name": "Arizona Cardinals v Washington Commanders",
       "utc": "2026-11-29T21:25:00Z"
     },
     {
@@ -1283,15 +1283,21 @@
       "utc": "2026-12-06T18:00:00Z"
     },
     {
+      "id": "football-nfl-2026-12-06-cleveland-browns-cincinnati-bengals",
+      "weekend": "2026-12-06",
+      "name": "Cleveland Browns v Cincinnati Bengals",
+      "utc": "2026-12-06T18:00:00Z"
+    },
+    {
       "id": "football-nfl-2026-12-06-chicago-bears-jacksonville-jaguars",
       "weekend": "2026-12-06",
       "name": "Chicago Bears v Jacksonville Jaguars",
       "utc": "2026-12-06T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-12-06-cleveland-browns-cincinnati-bengals",
+      "id": "football-nfl-2026-12-06-tennessee-titans-washington-commanders",
       "weekend": "2026-12-06",
-      "name": "Cleveland Browns v Cincinnati Bengals",
+      "name": "Tennessee Titans v Washington Commanders",
       "utc": "2026-12-06T18:00:00Z"
     },
     {
@@ -1301,21 +1307,15 @@
       "utc": "2026-12-06T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-12-06-new-orleans-saints-green-bay-packers",
-      "weekend": "2026-12-06",
-      "name": "New Orleans Saints v Green Bay Packers",
-      "utc": "2026-12-06T18:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-12-06-new-york-giants-san-francisco-49ers",
       "weekend": "2026-12-06",
       "name": "New York Giants v San Francisco 49ers",
       "utc": "2026-12-06T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-12-06-tennessee-titans-washington-commanders",
+      "id": "football-nfl-2026-12-06-new-orleans-saints-green-bay-packers",
       "weekend": "2026-12-06",
-      "name": "Tennessee Titans v Washington Commanders",
+      "name": "New Orleans Saints v Green Bay Packers",
       "utc": "2026-12-06T18:00:00Z"
     },
     {
@@ -1331,15 +1331,15 @@
       "utc": "2026-12-06T21:05:00Z"
     },
     {
-      "id": "football-nfl-2026-12-06-new-england-patriots-buffalo-bills",
-      "weekend": "2026-12-06",
-      "name": "New England Patriots v Buffalo Bills",
-      "utc": "2026-12-06T21:25:00Z"
-    },
-    {
       "id": "football-nfl-2026-12-06-minnesota-vikings-carolina-panthers",
       "weekend": "2026-12-06",
       "name": "Minnesota Vikings v Carolina Panthers",
+      "utc": "2026-12-06T21:25:00Z"
+    },
+    {
+      "id": "football-nfl-2026-12-06-new-england-patriots-buffalo-bills",
+      "weekend": "2026-12-06",
+      "name": "New England Patriots v Buffalo Bills",
       "utc": "2026-12-06T21:25:00Z"
     },
     {
@@ -1361,9 +1361,9 @@
       "utc": "2026-12-11T01:15:00Z"
     },
     {
-      "id": "football-nfl-2026-12-13-miami-dolphins-chicago-bears",
+      "id": "football-nfl-2026-12-13-new-york-jets-denver-broncos",
       "weekend": "2026-12-13",
-      "name": "Miami Dolphins v Chicago Bears",
+      "name": "New York Jets v Denver Broncos",
       "utc": "2026-12-13T18:00:00Z"
     },
     {
@@ -1373,21 +1373,9 @@
       "utc": "2026-12-13T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-12-13-detroit-lions-tennessee-titans",
-      "weekend": "2026-12-13",
-      "name": "Detroit Lions v Tennessee Titans",
-      "utc": "2026-12-13T18:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-12-13-philadelphia-eagles-indianapolis-colts",
       "weekend": "2026-12-13",
       "name": "Philadelphia Eagles v Indianapolis Colts",
-      "utc": "2026-12-13T18:00:00Z"
-    },
-    {
-      "id": "football-nfl-2026-12-13-carolina-panthers-new-orleans-saints",
-      "weekend": "2026-12-13",
-      "name": "Carolina Panthers v New Orleans Saints",
       "utc": "2026-12-13T18:00:00Z"
     },
     {
@@ -1397,9 +1385,21 @@
       "utc": "2026-12-13T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-12-13-new-york-jets-denver-broncos",
+      "id": "football-nfl-2026-12-13-detroit-lions-tennessee-titans",
       "weekend": "2026-12-13",
-      "name": "New York Jets v Denver Broncos",
+      "name": "Detroit Lions v Tennessee Titans",
+      "utc": "2026-12-13T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-12-13-miami-dolphins-chicago-bears",
+      "weekend": "2026-12-13",
+      "name": "Miami Dolphins v Chicago Bears",
+      "utc": "2026-12-13T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-12-13-carolina-panthers-new-orleans-saints",
+      "weekend": "2026-12-13",
+      "name": "Carolina Panthers v New Orleans Saints",
       "utc": "2026-12-13T18:00:00Z"
     },
     {
@@ -1463,21 +1463,21 @@
       "utc": "2026-12-20T01:20:00Z"
     },
     {
-      "id": "football-nfl-2026-12-20-new-york-giants-cleveland-browns",
-      "weekend": "2026-12-20",
-      "name": "New York Giants v Cleveland Browns",
-      "utc": "2026-12-20T18:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-12-20-green-bay-packers-miami-dolphins",
       "weekend": "2026-12-20",
       "name": "Green Bay Packers v Miami Dolphins",
       "utc": "2026-12-20T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-12-20-tampa-bay-buccaneers-new-orleans-saints",
+      "id": "football-nfl-2026-12-20-tennessee-titans-indianapolis-colts",
       "weekend": "2026-12-20",
-      "name": "Tampa Bay Buccaneers v New Orleans Saints",
+      "name": "Tennessee Titans v Indianapolis Colts",
+      "utc": "2026-12-20T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-12-20-new-york-giants-cleveland-browns",
+      "weekend": "2026-12-20",
+      "name": "New York Giants v Cleveland Browns",
       "utc": "2026-12-20T18:00:00Z"
     },
     {
@@ -1493,9 +1493,9 @@
       "utc": "2026-12-20T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-12-20-tennessee-titans-indianapolis-colts",
+      "id": "football-nfl-2026-12-20-tampa-bay-buccaneers-new-orleans-saints",
       "weekend": "2026-12-20",
-      "name": "Tennessee Titans v Indianapolis Colts",
+      "name": "Tampa Bay Buccaneers v New Orleans Saints",
       "utc": "2026-12-20T18:00:00Z"
     },
     {
@@ -1565,15 +1565,15 @@
       "utc": "2026-12-26T01:15:00Z"
     },
     {
-      "id": "football-nfl-2026-12-27-atlanta-falcons-tampa-bay-buccaneers",
-      "weekend": "2026-12-27",
-      "name": "Atlanta Falcons v Tampa Bay Buccaneers",
-      "utc": "2026-12-27T05:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-12-27-indianapolis-colts-cincinnati-bengals",
       "weekend": "2026-12-27",
       "name": "Indianapolis Colts v Cincinnati Bengals",
+      "utc": "2026-12-27T05:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-12-27-atlanta-falcons-tampa-bay-buccaneers",
+      "weekend": "2026-12-27",
+      "name": "Atlanta Falcons v Tampa Bay Buccaneers",
       "utc": "2026-12-27T05:00:00Z"
     },
     {
@@ -1601,15 +1601,15 @@
       "utc": "2026-12-27T18:00:00Z"
     },
     {
-      "id": "football-nfl-2026-12-27-new-orleans-saints-arizona-cardinals",
-      "weekend": "2026-12-27",
-      "name": "New Orleans Saints v Arizona Cardinals",
-      "utc": "2026-12-27T18:00:00Z"
-    },
-    {
       "id": "football-nfl-2026-12-27-baltimore-ravens-cleveland-browns",
       "weekend": "2026-12-27",
       "name": "Baltimore Ravens v Cleveland Browns",
+      "utc": "2026-12-27T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2026-12-27-new-orleans-saints-arizona-cardinals",
+      "weekend": "2026-12-27",
+      "name": "New Orleans Saints v Arizona Cardinals",
       "utc": "2026-12-27T18:00:00Z"
     },
     {
@@ -1643,6 +1643,12 @@
       "utc": "2027-01-01T01:15:00Z"
     },
     {
+      "id": "football-nfl-2027-01-03-jacksonville-jaguars-washington-commanders",
+      "weekend": "2027-01-03",
+      "name": "Jacksonville Jaguars v Washington Commanders",
+      "utc": "2027-01-03T05:00:00Z"
+    },
+    {
       "id": "football-nfl-2027-01-03-tampa-bay-buccaneers-los-angeles-rams",
       "weekend": "2027-01-03",
       "name": "Tampa Bay Buccaneers v Los Angeles Rams",
@@ -1661,21 +1667,21 @@
       "utc": "2027-01-03T05:00:00Z"
     },
     {
-      "id": "football-nfl-2027-01-03-jacksonville-jaguars-washington-commanders",
+      "id": "football-nfl-2027-01-03-tennessee-titans-pittsburgh-steelers",
       "weekend": "2027-01-03",
-      "name": "Jacksonville Jaguars v Washington Commanders",
-      "utc": "2027-01-03T05:00:00Z"
-    },
-    {
-      "id": "football-nfl-2027-01-03-atlanta-falcons-new-orleans-saints",
-      "weekend": "2027-01-03",
-      "name": "Atlanta Falcons v New Orleans Saints",
+      "name": "Tennessee Titans v Pittsburgh Steelers",
       "utc": "2027-01-03T18:00:00Z"
     },
     {
       "id": "football-nfl-2027-01-03-cleveland-browns-indianapolis-colts",
       "weekend": "2027-01-03",
       "name": "Cleveland Browns v Indianapolis Colts",
+      "utc": "2027-01-03T18:00:00Z"
+    },
+    {
+      "id": "football-nfl-2027-01-03-atlanta-falcons-new-orleans-saints",
+      "weekend": "2027-01-03",
+      "name": "Atlanta Falcons v New Orleans Saints",
       "utc": "2027-01-03T18:00:00Z"
     },
     {
@@ -1694,12 +1700,6 @@
       "id": "football-nfl-2027-01-03-miami-dolphins-buffalo-bills",
       "weekend": "2027-01-03",
       "name": "Miami Dolphins v Buffalo Bills",
-      "utc": "2027-01-03T18:00:00Z"
-    },
-    {
-      "id": "football-nfl-2027-01-03-tennessee-titans-pittsburgh-steelers",
-      "weekend": "2027-01-03",
-      "name": "Tennessee Titans v Pittsburgh Steelers",
       "utc": "2027-01-03T18:00:00Z"
     },
     {
@@ -1733,6 +1733,18 @@
       "utc": "2027-01-05T01:15:00Z"
     },
     {
+      "id": "football-nfl-2027-01-10-buffalo-bills-new-york-jets",
+      "weekend": "2027-01-10",
+      "name": "Buffalo Bills v New York Jets",
+      "utc": "2027-01-10T05:00:00Z"
+    },
+    {
+      "id": "football-nfl-2027-01-10-cincinnati-bengals-cleveland-browns",
+      "weekend": "2027-01-10",
+      "name": "Cincinnati Bengals v Cleveland Browns",
+      "utc": "2027-01-10T05:00:00Z"
+    },
+    {
       "id": "football-nfl-2027-01-10-green-bay-packers-detroit-lions",
       "weekend": "2027-01-10",
       "name": "Green Bay Packers v Detroit Lions",
@@ -1745,21 +1757,9 @@
       "utc": "2027-01-10T05:00:00Z"
     },
     {
-      "id": "football-nfl-2027-01-10-buffalo-bills-new-york-jets",
-      "weekend": "2027-01-10",
-      "name": "Buffalo Bills v New York Jets",
-      "utc": "2027-01-10T05:00:00Z"
-    },
-    {
       "id": "football-nfl-2027-01-10-indianapolis-colts-jacksonville-jaguars",
       "weekend": "2027-01-10",
       "name": "Indianapolis Colts v Jacksonville Jaguars",
-      "utc": "2027-01-10T05:00:00Z"
-    },
-    {
-      "id": "football-nfl-2027-01-10-cincinnati-bengals-cleveland-browns",
-      "weekend": "2027-01-10",
-      "name": "Cincinnati Bengals v Cleveland Browns",
       "utc": "2027-01-10T05:00:00Z"
     },
     {
@@ -1775,27 +1775,9 @@
       "utc": "2027-01-10T05:00:00Z"
     },
     {
-      "id": "football-nfl-2027-01-10-new-england-patriots-miami-dolphins",
-      "weekend": "2027-01-10",
-      "name": "New England Patriots v Miami Dolphins",
-      "utc": "2027-01-10T05:00:00Z"
-    },
-    {
       "id": "football-nfl-2027-01-10-minnesota-vikings-chicago-bears",
       "weekend": "2027-01-10",
       "name": "Minnesota Vikings v Chicago Bears",
-      "utc": "2027-01-10T05:00:00Z"
-    },
-    {
-      "id": "football-nfl-2027-01-10-arizona-cardinals-san-francisco-49ers",
-      "weekend": "2027-01-10",
-      "name": "Arizona Cardinals v San Francisco 49ers",
-      "utc": "2027-01-10T05:00:00Z"
-    },
-    {
-      "id": "football-nfl-2027-01-10-new-york-giants-philadelphia-eagles",
-      "weekend": "2027-01-10",
-      "name": "New York Giants v Philadelphia Eagles",
       "utc": "2027-01-10T05:00:00Z"
     },
     {
@@ -1805,9 +1787,27 @@
       "utc": "2027-01-10T05:00:00Z"
     },
     {
+      "id": "football-nfl-2027-01-10-new-england-patriots-miami-dolphins",
+      "weekend": "2027-01-10",
+      "name": "New England Patriots v Miami Dolphins",
+      "utc": "2027-01-10T05:00:00Z"
+    },
+    {
+      "id": "football-nfl-2027-01-10-arizona-cardinals-san-francisco-49ers",
+      "weekend": "2027-01-10",
+      "name": "Arizona Cardinals v San Francisco 49ers",
+      "utc": "2027-01-10T05:00:00Z"
+    },
+    {
       "id": "football-nfl-2027-01-10-carolina-panthers-atlanta-falcons",
       "weekend": "2027-01-10",
       "name": "Carolina Panthers v Atlanta Falcons",
+      "utc": "2027-01-10T05:00:00Z"
+    },
+    {
+      "id": "football-nfl-2027-01-10-washington-commanders-dallas-cowboys",
+      "weekend": "2027-01-10",
+      "name": "Washington Commanders v Dallas Cowboys",
       "utc": "2027-01-10T05:00:00Z"
     },
     {
@@ -1817,9 +1817,9 @@
       "utc": "2027-01-10T05:00:00Z"
     },
     {
-      "id": "football-nfl-2027-01-10-washington-commanders-dallas-cowboys",
+      "id": "football-nfl-2027-01-10-new-york-giants-philadelphia-eagles",
       "weekend": "2027-01-10",
-      "name": "Washington Commanders v Dallas Cowboys",
+      "name": "New York Giants v Philadelphia Eagles",
       "utc": "2027-01-10T05:00:00Z"
     },
     {
