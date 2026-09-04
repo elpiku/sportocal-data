@@ -1,8 +1,8 @@
 {
   "sportKey": "american-football-college-football",
   "leagueName": "NCAA - Football",
-  "windowFrom": "20260820",
-  "windowTo": "20270531",
+  "windowFrom": "20260821",
+  "windowTo": "20270601",
   "events": [
     {
       "id": "football-college-football-2026-08-29-tcu-horned-frogs-north-carolina-tar-heels",
@@ -59,27 +59,9 @@
       "utc": "2026-09-03T22:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-03-ucf-knights-bethune-cookman-wildcats",
-      "weekend": "2026-09-03",
-      "name": "UCF Knights v Bethune-Cookman Wildcats",
-      "utc": "2026-09-03T23:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-03-buffalo-bulls-ualbany-great-danes",
       "weekend": "2026-09-03",
       "name": "Buffalo Bulls v UAlbany Great Danes",
-      "utc": "2026-09-03T23:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-03-delaware-blue-hens-merrimack-warriors",
-      "weekend": "2026-09-03",
-      "name": "Delaware Blue Hens v Merrimack Warriors",
-      "utc": "2026-09-03T23:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-03-wake-forest-demon-deacons-akron-zips",
-      "weekend": "2026-09-03",
-      "name": "Wake Forest Demon Deacons v Akron Zips",
       "utc": "2026-09-03T23:00:00Z"
     },
     {
@@ -89,21 +71,39 @@
       "utc": "2026-09-03T23:00:00Z"
     },
     {
+      "id": "football-college-football-2026-09-03-ucf-knights-bethune-cookman-wildcats",
+      "weekend": "2026-09-03",
+      "name": "UCF Knights v Bethune-Cookman Wildcats",
+      "utc": "2026-09-03T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-03-wake-forest-demon-deacons-akron-zips",
+      "weekend": "2026-09-03",
+      "name": "Wake Forest Demon Deacons v Akron Zips",
+      "utc": "2026-09-03T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-03-delaware-blue-hens-merrimack-warriors",
+      "weekend": "2026-09-03",
+      "name": "Delaware Blue Hens v Merrimack Warriors",
+      "utc": "2026-09-03T23:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-04-georgia-tech-yellow-jackets-colorado-buffaloes",
       "weekend": "2026-09-04",
       "name": "Georgia Tech Yellow Jackets v Colorado Buffaloes",
       "utc": "2026-09-04T00:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-04-minnesota-golden-gophers-eastern-illinois-panthers",
-      "weekend": "2026-09-04",
-      "name": "Minnesota Golden Gophers v Eastern Illinois Panthers",
-      "utc": "2026-09-04T00:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-04-missouri-tigers-arkansas-pine-bluff-golden-lions",
       "weekend": "2026-09-04",
       "name": "Missouri Tigers v Arkansas-Pine Bluff Golden Lions",
+      "utc": "2026-09-04T00:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-04-minnesota-golden-gophers-eastern-illinois-panthers",
+      "weekend": "2026-09-04",
+      "name": "Minnesota Golden Gophers v Eastern Illinois Panthers",
       "utc": "2026-09-04T00:00:00Z"
     },
     {
@@ -137,12 +137,6 @@
       "utc": "2026-09-04T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-michigan-state-spartans-toledo-rockets",
-      "weekend": "2026-09-05",
-      "name": "Michigan State Spartans v Toledo Rockets",
-      "utc": "2026-09-05T00:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-05-kansas-jayhawks-long-island-university-sharks",
       "weekend": "2026-09-05",
       "name": "Kansas Jayhawks v Long Island University Sharks",
@@ -152,6 +146,12 @@
       "id": "football-college-football-2026-09-05-oklahoma-sooners-utep-miners",
       "weekend": "2026-09-05",
       "name": "Oklahoma Sooners v UTEP Miners",
+      "utc": "2026-09-05T00:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-05-michigan-state-spartans-toledo-rockets",
+      "weekend": "2026-09-05",
+      "name": "Michigan State Spartans v Toledo Rockets",
       "utc": "2026-09-05T00:00:00Z"
     },
     {
@@ -167,21 +167,15 @@
       "utc": "2026-09-05T01:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-alabama-crimson-tide-east-carolina-pirates",
-      "weekend": "2026-09-05",
-      "name": "Alabama Crimson Tide v East Carolina Pirates",
-      "utc": "2026-09-05T16:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-05-indiana-hoosiers-north-texas-mean-green",
       "weekend": "2026-09-05",
       "name": "Indiana Hoosiers v North Texas Mean Green",
       "utc": "2026-09-05T16:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-west-virginia-mountaineers-coastal-carolina-chanticleers",
+      "id": "football-college-football-2026-09-05-alabama-crimson-tide-east-carolina-pirates",
       "weekend": "2026-09-05",
-      "name": "West Virginia Mountaineers v Coastal Carolina Chanticleers",
+      "name": "Alabama Crimson Tide v East Carolina Pirates",
       "utc": "2026-09-05T16:00:00Z"
     },
     {
@@ -191,27 +185,15 @@
       "utc": "2026-09-05T16:00:00Z"
     },
     {
+      "id": "football-college-football-2026-09-05-west-virginia-mountaineers-coastal-carolina-chanticleers",
+      "weekend": "2026-09-05",
+      "name": "West Virginia Mountaineers v Coastal Carolina Chanticleers",
+      "utc": "2026-09-05T16:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-05-syracuse-orange-new-hampshire-wildcats",
       "weekend": "2026-09-05",
       "name": "Syracuse Orange v New Hampshire Wildcats",
-      "utc": "2026-09-05T16:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-05-james-madison-dukes-liberty-flames",
-      "weekend": "2026-09-05",
-      "name": "James Madison Dukes v Liberty Flames",
-      "utc": "2026-09-05T16:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-05-bowling-green-falcons-tarleton-state-texans",
-      "weekend": "2026-09-05",
-      "name": "Bowling Green Falcons v Tarleton State Texans",
-      "utc": "2026-09-05T16:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-05-nebraska-cornhuskers-ohio-bobcats",
-      "weekend": "2026-09-05",
-      "name": "Nebraska Cornhuskers v Ohio Bobcats",
       "utc": "2026-09-05T16:00:00Z"
     },
     {
@@ -221,21 +203,39 @@
       "utc": "2026-09-05T16:00:00Z"
     },
     {
+      "id": "football-college-football-2026-09-05-nebraska-cornhuskers-ohio-bobcats",
+      "weekend": "2026-09-05",
+      "name": "Nebraska Cornhuskers v Ohio Bobcats",
+      "utc": "2026-09-05T16:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-05-army-black-knights-bryant-bulldogs",
       "weekend": "2026-09-05",
       "name": "Army Black Knights v Bryant Bulldogs",
       "utc": "2026-09-05T16:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-pittsburgh-panthers-miami-oh-redhawks",
+      "id": "football-college-football-2026-09-05-bowling-green-falcons-tarleton-state-texans",
       "weekend": "2026-09-05",
-      "name": "Pittsburgh Panthers v Miami (OH) RedHawks",
-      "utc": "2026-09-05T16:30:00Z"
+      "name": "Bowling Green Falcons v Tarleton State Texans",
+      "utc": "2026-09-05T16:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-05-james-madison-dukes-liberty-flames",
+      "weekend": "2026-09-05",
+      "name": "James Madison Dukes v Liberty Flames",
+      "utc": "2026-09-05T16:00:00Z"
     },
     {
       "id": "football-college-football-2026-09-05-ohio-state-buckeyes-ball-state-cardinals",
       "weekend": "2026-09-05",
       "name": "Ohio State Buckeyes v Ball State Cardinals",
+      "utc": "2026-09-05T16:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-05-pittsburgh-panthers-miami-oh-redhawks",
+      "weekend": "2026-09-05",
+      "name": "Pittsburgh Panthers v Miami (OH) RedHawks",
       "utc": "2026-09-05T16:30:00Z"
     },
     {
@@ -275,15 +275,27 @@
       "utc": "2026-09-05T19:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-tennessee-volunteers-furman-paladins",
+      "id": "football-college-football-2026-09-05-oregon-ducks-boise-state-broncos",
       "weekend": "2026-09-05",
-      "name": "Tennessee Volunteers v Furman Paladins",
+      "name": "Oregon Ducks v Boise State Broncos",
       "utc": "2026-09-05T19:30:00Z"
     },
     {
       "id": "football-college-football-2026-09-05-texas-longhorns-texas-state-bobcats",
       "weekend": "2026-09-05",
       "name": "Texas Longhorns v Texas State Bobcats",
+      "utc": "2026-09-05T19:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-05-penn-state-nittany-lions-marshall-thundering-herd",
+      "weekend": "2026-09-05",
+      "name": "Penn State Nittany Lions v Marshall Thundering Herd",
+      "utc": "2026-09-05T19:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-05-tennessee-volunteers-furman-paladins",
+      "weekend": "2026-09-05",
+      "name": "Tennessee Volunteers v Furman Paladins",
       "utc": "2026-09-05T19:30:00Z"
     },
     {
@@ -299,15 +311,9 @@
       "utc": "2026-09-05T19:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-penn-state-nittany-lions-marshall-thundering-herd",
+      "id": "football-college-football-2026-09-05-duke-blue-devils-tulane-green-wave",
       "weekend": "2026-09-05",
-      "name": "Penn State Nittany Lions v Marshall Thundering Herd",
-      "utc": "2026-09-05T19:30:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-05-oregon-ducks-boise-state-broncos",
-      "weekend": "2026-09-05",
-      "name": "Oregon Ducks v Boise State Broncos",
+      "name": "Duke Blue Devils v Tulane Green Wave",
       "utc": "2026-09-05T19:30:00Z"
     },
     {
@@ -317,15 +323,9 @@
       "utc": "2026-09-05T19:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-duke-blue-devils-tulane-green-wave",
+      "id": "football-college-football-2026-09-05-navy-midshipmen-towson-tigers",
       "weekend": "2026-09-05",
-      "name": "Duke Blue Devils v Tulane Green Wave",
-      "utc": "2026-09-05T19:30:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-05-utsa-roadrunners-ut-rio-grande-valley-vaqueros",
-      "weekend": "2026-09-05",
-      "name": "UTSA Roadrunners v UT Rio Grande Valley Vaqueros",
+      "name": "Navy Midshipmen v Towson Tigers",
       "utc": "2026-09-05T19:30:00Z"
     },
     {
@@ -335,15 +335,15 @@
       "utc": "2026-09-05T19:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-app-state-mountaineers-maine-black-bears",
+      "id": "football-college-football-2026-09-05-utsa-roadrunners-ut-rio-grande-valley-vaqueros",
       "weekend": "2026-09-05",
-      "name": "App State Mountaineers v Maine Black Bears",
+      "name": "UTSA Roadrunners v UT Rio Grande Valley Vaqueros",
       "utc": "2026-09-05T19:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-navy-midshipmen-towson-tigers",
+      "id": "football-college-football-2026-09-05-app-state-mountaineers-maine-black-bears",
       "weekend": "2026-09-05",
-      "name": "Navy Midshipmen v Towson Tigers",
+      "name": "App State Mountaineers v Maine Black Bears",
       "utc": "2026-09-05T19:30:00Z"
     },
     {
@@ -353,15 +353,15 @@
       "utc": "2026-09-05T19:45:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-arkansas-razorbacks-north-alabama-lions",
-      "weekend": "2026-09-05",
-      "name": "Arkansas Razorbacks v North Alabama Lions",
-      "utc": "2026-09-05T20:15:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-05-iowa-hawkeyes-northern-illinois-huskies",
       "weekend": "2026-09-05",
       "name": "Iowa Hawkeyes v Northern Illinois Huskies",
+      "utc": "2026-09-05T20:15:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-05-arkansas-razorbacks-north-alabama-lions",
+      "weekend": "2026-09-05",
+      "name": "Arkansas Razorbacks v North Alabama Lions",
       "utc": "2026-09-05T20:15:00Z"
     },
     {
@@ -383,27 +383,21 @@
       "utc": "2026-09-05T22:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-texas-tech-red-raiders-abilene-christian-wildcats",
-      "weekend": "2026-09-05",
-      "name": "Texas Tech Red Raiders v Abilene Christian Wildcats",
-      "utc": "2026-09-05T23:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-05-texas-a-m-aggies-missouri-state-bears",
       "weekend": "2026-09-05",
       "name": "Texas A&M Aggies v Missouri State Bears",
       "utc": "2026-09-05T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-vanderbilt-commodores-austin-peay-governors",
+      "id": "football-college-football-2026-09-05-texas-tech-red-raiders-abilene-christian-wildcats",
       "weekend": "2026-09-05",
-      "name": "Vanderbilt Commodores v Austin Peay Governors",
+      "name": "Texas Tech Red Raiders v Abilene Christian Wildcats",
       "utc": "2026-09-05T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-memphis-tigers-arkansas-state-red-wolves",
+      "id": "football-college-football-2026-09-05-vanderbilt-commodores-austin-peay-governors",
       "weekend": "2026-09-05",
-      "name": "Memphis Tigers v Arkansas State Red Wolves",
+      "name": "Vanderbilt Commodores v Austin Peay Governors",
       "utc": "2026-09-05T23:00:00Z"
     },
     {
@@ -419,9 +413,21 @@
       "utc": "2026-09-05T23:00:00Z"
     },
     {
+      "id": "football-college-football-2026-09-05-memphis-tigers-arkansas-state-red-wolves",
+      "weekend": "2026-09-05",
+      "name": "Memphis Tigers v Arkansas State Red Wolves",
+      "utc": "2026-09-05T23:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-05-rice-owls-houston-christian-huskies",
       "weekend": "2026-09-05",
       "name": "Rice Owls v Houston Christian Huskies",
+      "utc": "2026-09-05T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-05-middle-tennessee-blue-raiders-murray-state-racers",
+      "weekend": "2026-09-05",
+      "name": "Middle Tennessee Blue Raiders v Murray State Racers",
       "utc": "2026-09-05T23:00:00Z"
     },
     {
@@ -431,9 +437,9 @@
       "utc": "2026-09-05T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-05-middle-tennessee-blue-raiders-murray-state-racers",
+      "id": "football-college-football-2026-09-05-jacksonville-state-gamecocks-eastern-kentucky-colonels",
       "weekend": "2026-09-05",
-      "name": "Middle Tennessee Blue Raiders v Murray State Racers",
+      "name": "Jacksonville State Gamecocks v Eastern Kentucky Colonels",
       "utc": "2026-09-05T23:00:00Z"
     },
     {
@@ -452,12 +458,6 @@
       "id": "football-college-football-2026-09-05-troy-trojans-sam-houston-bearkats",
       "weekend": "2026-09-05",
       "name": "Troy Trojans v Sam Houston Bearkats",
-      "utc": "2026-09-05T23:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-05-jacksonville-state-gamecocks-eastern-kentucky-colonels",
-      "weekend": "2026-09-05",
-      "name": "Jacksonville State Gamecocks v Eastern Kentucky Colonels",
       "utc": "2026-09-05T23:00:00Z"
     },
     {
@@ -497,21 +497,9 @@
       "utc": "2026-09-05T23:45:00Z"
     },
     {
-      "id": "football-college-football-2026-09-06-byu-cougars-utah-tech-trailblazers",
-      "weekend": "2026-09-06",
-      "name": "BYU Cougars v Utah Tech Trailblazers",
-      "utc": "2026-09-06T00:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-06-maryland-terrapins-hampton-pirates",
       "weekend": "2026-09-06",
       "name": "Maryland Terrapins v Hampton Pirates",
-      "utc": "2026-09-06T00:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-06-northwestern-wildcats-south-dakota-state-jackrabbits",
-      "weekend": "2026-09-06",
-      "name": "Northwestern Wildcats v South Dakota State Jackrabbits",
       "utc": "2026-09-06T00:00:00Z"
     },
     {
@@ -521,16 +509,22 @@
       "utc": "2026-09-06T00:00:00Z"
     },
     {
+      "id": "football-college-football-2026-09-06-byu-cougars-utah-tech-trailblazers",
+      "weekend": "2026-09-06",
+      "name": "BYU Cougars v Utah Tech Trailblazers",
+      "utc": "2026-09-06T00:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-06-northwestern-wildcats-south-dakota-state-jackrabbits",
+      "weekend": "2026-09-06",
+      "name": "Northwestern Wildcats v South Dakota State Jackrabbits",
+      "utc": "2026-09-06T00:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-06-new-mexico-state-aggies-mercyhurst-lakers",
       "weekend": "2026-09-06",
       "name": "New Mexico State Aggies v Mercyhurst Lakers",
       "utc": "2026-09-06T01:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-06-san-diego-state-aztecs-portland-state-vikings",
-      "weekend": "2026-09-06",
-      "name": "San Diego State Aztecs v Portland State Vikings",
-      "utc": "2026-09-06T01:30:00Z"
     },
     {
       "id": "football-college-football-2026-09-06-arizona-wildcats-northern-arizona-lumberjacks",
@@ -539,10 +533,10 @@
       "utc": "2026-09-06T01:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-06-arizona-state-sun-devils-morgan-state-bears",
+      "id": "football-college-football-2026-09-06-san-diego-state-aztecs-portland-state-vikings",
       "weekend": "2026-09-06",
-      "name": "Arizona State Sun Devils v Morgan State Bears",
-      "utc": "2026-09-06T02:00:00Z"
+      "name": "San Diego State Aztecs v Portland State Vikings",
+      "utc": "2026-09-06T01:30:00Z"
     },
     {
       "id": "football-college-football-2026-09-06-hawai-i-rainbow-warriors-unlv-rebels",
@@ -551,9 +545,9 @@
       "utc": "2026-09-06T02:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-06-sacramento-state-hornets-mississippi-valley-state-delta-devils",
+      "id": "football-college-football-2026-09-06-arizona-state-sun-devils-morgan-state-bears",
       "weekend": "2026-09-06",
-      "name": "Sacramento State Hornets v Mississippi Valley State Delta Devils",
+      "name": "Arizona State Sun Devils v Morgan State Bears",
       "utc": "2026-09-06T02:00:00Z"
     },
     {
@@ -563,15 +557,21 @@
       "utc": "2026-09-06T02:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-06-california-golden-bears-ucla-bruins",
+      "id": "football-college-football-2026-09-06-sacramento-state-hornets-mississippi-valley-state-delta-devils",
       "weekend": "2026-09-06",
-      "name": "California Golden Bears v UCLA Bruins",
-      "utc": "2026-09-06T02:30:00Z"
+      "name": "Sacramento State Hornets v Mississippi Valley State Delta Devils",
+      "utc": "2026-09-06T02:00:00Z"
     },
     {
       "id": "football-college-football-2026-09-06-nevada-wolf-pack-western-kentucky-hilltoppers",
       "weekend": "2026-09-06",
       "name": "Nevada Wolf Pack v Western Kentucky Hilltoppers",
+      "utc": "2026-09-06T02:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-06-california-golden-bears-ucla-bruins",
+      "weekend": "2026-09-06",
+      "name": "California Golden Bears v UCLA Bruins",
       "utc": "2026-09-06T02:30:00Z"
     },
     {
@@ -605,15 +605,15 @@
       "utc": "2026-09-11T00:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-11-louisville-cardinals-villanova-wildcats",
-      "weekend": "2026-09-11",
-      "name": "Louisville Cardinals v Villanova Wildcats",
-      "utc": "2026-09-11T23:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-11-virginia-cavaliers-norfolk-state-spartans",
       "weekend": "2026-09-11",
       "name": "Virginia Cavaliers v Norfolk State Spartans",
+      "utc": "2026-09-11T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-11-louisville-cardinals-villanova-wildcats",
+      "weekend": "2026-09-11",
+      "name": "Louisville Cardinals v Villanova Wildcats",
       "utc": "2026-09-11T23:00:00Z"
     },
     {
@@ -641,21 +641,15 @@
       "utc": "2026-09-12T16:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-texas-a-m-aggies-arizona-state-sun-devils",
-      "weekend": "2026-09-12",
-      "name": "Texas A&M Aggies v Arizona State Sun Devils",
-      "utc": "2026-09-12T16:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-12-indiana-hoosiers-howard-bison",
       "weekend": "2026-09-12",
       "name": "Indiana Hoosiers v Howard Bison",
       "utc": "2026-09-12T16:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-temple-owls-penn-state-nittany-lions",
+      "id": "football-college-football-2026-09-12-texas-a-m-aggies-arizona-state-sun-devils",
       "weekend": "2026-09-12",
-      "name": "Temple Owls v Penn State Nittany Lions",
+      "name": "Texas A&M Aggies v Arizona State Sun Devils",
       "utc": "2026-09-12T16:00:00Z"
     },
     {
@@ -665,9 +659,9 @@
       "utc": "2026-09-12T16:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-north-carolina-tar-heels-east-tennessee-state-buccaneers",
+      "id": "football-college-football-2026-09-12-temple-owls-penn-state-nittany-lions",
       "weekend": "2026-09-12",
-      "name": "North Carolina Tar Heels v East Tennessee State Buccaneers",
+      "name": "Temple Owls v Penn State Nittany Lions",
       "utc": "2026-09-12T16:00:00Z"
     },
     {
@@ -677,21 +671,9 @@
       "utc": "2026-09-12T16:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-army-black-knights-south-florida-bulls",
+      "id": "football-college-football-2026-09-12-north-carolina-tar-heels-east-tennessee-state-buccaneers",
       "weekend": "2026-09-12",
-      "name": "Army Black Knights v South Florida Bulls",
-      "utc": "2026-09-12T16:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-12-east-carolina-pirates-app-state-mountaineers",
-      "weekend": "2026-09-12",
-      "name": "East Carolina Pirates v App State Mountaineers",
-      "utc": "2026-09-12T16:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-12-purdue-boilermakers-wake-forest-demon-deacons",
-      "weekend": "2026-09-12",
-      "name": "Purdue Boilermakers v Wake Forest Demon Deacons",
+      "name": "North Carolina Tar Heels v East Tennessee State Buccaneers",
       "utc": "2026-09-12T16:00:00Z"
     },
     {
@@ -701,9 +683,27 @@
       "utc": "2026-09-12T16:00:00Z"
     },
     {
+      "id": "football-college-football-2026-09-12-army-black-knights-south-florida-bulls",
+      "weekend": "2026-09-12",
+      "name": "Army Black Knights v South Florida Bulls",
+      "utc": "2026-09-12T16:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-purdue-boilermakers-wake-forest-demon-deacons",
+      "weekend": "2026-09-12",
+      "name": "Purdue Boilermakers v Wake Forest Demon Deacons",
+      "utc": "2026-09-12T16:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-12-kent-state-golden-flashes-wofford-terriers",
       "weekend": "2026-09-12",
       "name": "Kent State Golden Flashes v Wofford Terriers",
+      "utc": "2026-09-12T16:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-east-carolina-pirates-app-state-mountaineers",
+      "weekend": "2026-09-12",
+      "name": "East Carolina Pirates v App State Mountaineers",
       "utc": "2026-09-12T16:00:00Z"
     },
     {
@@ -713,15 +713,15 @@
       "utc": "2026-09-12T16:45:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-central-michigan-chippewas-colgate-raiders",
-      "weekend": "2026-09-12",
-      "name": "Central Michigan Chippewas v Colgate Raiders",
-      "utc": "2026-09-12T17:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-12-west-virginia-mountaineers-ut-martin-skyhawks",
       "weekend": "2026-09-12",
       "name": "West Virginia Mountaineers v UT Martin Skyhawks",
+      "utc": "2026-09-12T17:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-central-michigan-chippewas-colgate-raiders",
+      "weekend": "2026-09-12",
+      "name": "Central Michigan Chippewas v Colgate Raiders",
       "utc": "2026-09-12T17:00:00Z"
     },
     {
@@ -749,6 +749,18 @@
       "utc": "2026-09-12T19:30:00Z"
     },
     {
+      "id": "football-college-football-2026-09-12-washington-huskies-utah-state-aggies",
+      "weekend": "2026-09-12",
+      "name": "Washington Huskies v Utah State Aggies",
+      "utc": "2026-09-12T19:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-colorado-buffaloes-weber-state-wildcats",
+      "weekend": "2026-09-12",
+      "name": "Colorado Buffaloes v Weber State Wildcats",
+      "utc": "2026-09-12T19:30:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-12-minnesota-golden-gophers-mississippi-state-bulldogs",
       "weekend": "2026-09-12",
       "name": "Minnesota Golden Gophers v Mississippi State Bulldogs",
@@ -761,33 +773,9 @@
       "utc": "2026-09-12T19:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-washington-huskies-utah-state-aggies",
-      "weekend": "2026-09-12",
-      "name": "Washington Huskies v Utah State Aggies",
-      "utc": "2026-09-12T19:30:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-12-pittsburgh-panthers-ucf-knights",
       "weekend": "2026-09-12",
       "name": "Pittsburgh Panthers v UCF Knights",
-      "utc": "2026-09-12T19:30:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-12-colorado-buffaloes-weber-state-wildcats",
-      "weekend": "2026-09-12",
-      "name": "Colorado Buffaloes v Weber State Wildcats",
-      "utc": "2026-09-12T19:30:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-12-syracuse-orange-california-golden-bears",
-      "weekend": "2026-09-12",
-      "name": "Syracuse Orange v California Golden Bears",
-      "utc": "2026-09-12T19:30:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-12-illinois-fighting-illini-duke-blue-devils",
-      "weekend": "2026-09-12",
-      "name": "Illinois Fighting Illini v Duke Blue Devils",
       "utc": "2026-09-12T19:30:00Z"
     },
     {
@@ -797,9 +785,21 @@
       "utc": "2026-09-12T19:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-texas-state-bobcats-utsa-roadrunners",
+      "id": "football-college-football-2026-09-12-illinois-fighting-illini-duke-blue-devils",
       "weekend": "2026-09-12",
-      "name": "Texas State Bobcats v UTSA Roadrunners",
+      "name": "Illinois Fighting Illini v Duke Blue Devils",
+      "utc": "2026-09-12T19:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-syracuse-orange-california-golden-bears",
+      "weekend": "2026-09-12",
+      "name": "Syracuse Orange v California Golden Bears",
+      "utc": "2026-09-12T19:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-uconn-huskies-maryland-terrapins",
+      "weekend": "2026-09-12",
+      "name": "UConn Huskies v Maryland Terrapins",
       "utc": "2026-09-12T19:30:00Z"
     },
     {
@@ -809,9 +809,15 @@
       "utc": "2026-09-12T19:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-uconn-huskies-maryland-terrapins",
+      "id": "football-college-football-2026-09-12-toledo-rockets-central-connecticut-blue-devils",
       "weekend": "2026-09-12",
-      "name": "UConn Huskies v Maryland Terrapins",
+      "name": "Toledo Rockets v Central Connecticut Blue Devils",
+      "utc": "2026-09-12T19:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-texas-state-bobcats-utsa-roadrunners",
+      "weekend": "2026-09-12",
+      "name": "Texas State Bobcats v UTSA Roadrunners",
       "utc": "2026-09-12T19:30:00Z"
     },
     {
@@ -824,12 +830,6 @@
       "id": "football-college-football-2026-09-12-massachusetts-minutemen-sacred-heart-pioneers",
       "weekend": "2026-09-12",
       "name": "Massachusetts Minutemen v Sacred Heart Pioneers",
-      "utc": "2026-09-12T19:30:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-12-toledo-rockets-central-connecticut-blue-devils",
-      "weekend": "2026-09-12",
-      "name": "Toledo Rockets v Central Connecticut Blue Devils",
       "utc": "2026-09-12T19:30:00Z"
     },
     {
@@ -857,15 +857,15 @@
       "utc": "2026-09-12T20:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-troy-trojans-alabama-state-hornets",
-      "weekend": "2026-09-12",
-      "name": "Troy Trojans v Alabama State Hornets",
-      "utc": "2026-09-12T20:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-12-new-mexico-lobos-mercyhurst-lakers",
       "weekend": "2026-09-12",
       "name": "New Mexico Lobos v Mercyhurst Lakers",
+      "utc": "2026-09-12T20:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-troy-trojans-alabama-state-hornets",
+      "weekend": "2026-09-12",
+      "name": "Troy Trojans v Alabama State Hornets",
       "utc": "2026-09-12T20:00:00Z"
     },
     {
@@ -881,6 +881,12 @@
       "utc": "2026-09-12T21:30:00Z"
     },
     {
+      "id": "football-college-football-2026-09-12-boise-state-broncos-memphis-tigers",
+      "weekend": "2026-09-12",
+      "name": "Boise State Broncos v Memphis Tigers",
+      "utc": "2026-09-12T22:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-12-florida-international-panthers-buffalo-bulls",
       "weekend": "2026-09-12",
       "name": "Florida International Panthers v Buffalo Bulls",
@@ -890,12 +896,6 @@
       "id": "football-college-football-2026-09-12-liberty-flames-gardner-webb-runnin-bulldogs",
       "weekend": "2026-09-12",
       "name": "Liberty Flames v Gardner-Webb Runnin' Bulldogs",
-      "utc": "2026-09-12T22:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-12-boise-state-broncos-memphis-tigers",
-      "weekend": "2026-09-12",
-      "name": "Boise State Broncos v Memphis Tigers",
       "utc": "2026-09-12T22:00:00Z"
     },
     {
@@ -917,24 +917,6 @@
       "utc": "2026-09-12T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-nebraska-cornhuskers-bowling-green-falcons",
-      "weekend": "2026-09-12",
-      "name": "Nebraska Cornhuskers v Bowling Green Falcons",
-      "utc": "2026-09-12T23:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-12-cincinnati-bearcats-western-carolina-catamounts",
-      "weekend": "2026-09-12",
-      "name": "Cincinnati Bearcats v Western Carolina Catamounts",
-      "utc": "2026-09-12T23:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-12-northern-illinois-huskies-illinois-state-redbirds",
-      "weekend": "2026-09-12",
-      "name": "Northern Illinois Huskies v Illinois State Redbirds",
-      "utc": "2026-09-12T23:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-12-houston-cougars-southern-jaguars",
       "weekend": "2026-09-12",
       "name": "Houston Cougars v Southern Jaguars",
@@ -944,6 +926,18 @@
       "id": "football-college-football-2026-09-12-south-carolina-gamecocks-towson-tigers",
       "weekend": "2026-09-12",
       "name": "South Carolina Gamecocks v Towson Tigers",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-cincinnati-bearcats-western-carolina-catamounts",
+      "weekend": "2026-09-12",
+      "name": "Cincinnati Bearcats v Western Carolina Catamounts",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-nebraska-cornhuskers-bowling-green-falcons",
+      "weekend": "2026-09-12",
+      "name": "Nebraska Cornhuskers v Bowling Green Falcons",
       "utc": "2026-09-12T23:00:00Z"
     },
     {
@@ -959,6 +953,12 @@
       "utc": "2026-09-12T23:00:00Z"
     },
     {
+      "id": "football-college-football-2026-09-12-arkansas-state-red-wolves-west-georgia-wolves",
+      "weekend": "2026-09-12",
+      "name": "Arkansas State Red Wolves v West Georgia Wolves",
+      "utc": "2026-09-12T23:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-12-tulane-green-wave-south-alabama-jaguars",
       "weekend": "2026-09-12",
       "name": "Tulane Green Wave v South Alabama Jaguars",
@@ -971,9 +971,9 @@
       "utc": "2026-09-12T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-arkansas-state-red-wolves-west-georgia-wolves",
+      "id": "football-college-football-2026-09-12-northern-illinois-huskies-illinois-state-redbirds",
       "weekend": "2026-09-12",
-      "name": "Arkansas State Red Wolves v West Georgia Wolves",
+      "name": "Northern Illinois Huskies v Illinois State Redbirds",
       "utc": "2026-09-12T23:00:00Z"
     },
     {
@@ -989,15 +989,15 @@
       "utc": "2026-09-12T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-12-wisconsin-badgers-western-illinois-leathernecks",
-      "weekend": "2026-09-12",
-      "name": "Wisconsin Badgers v Western Illinois Leathernecks",
-      "utc": "2026-09-12T23:15:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-12-ucla-bruins-san-diego-state-aztecs",
       "weekend": "2026-09-12",
       "name": "UCLA Bruins v San Diego State Aztecs",
+      "utc": "2026-09-12T23:15:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-12-wisconsin-badgers-western-illinois-leathernecks",
+      "weekend": "2026-09-12",
+      "name": "Wisconsin Badgers v Western Illinois Leathernecks",
       "utc": "2026-09-12T23:15:00Z"
     },
     {
@@ -1019,6 +1019,12 @@
       "utc": "2026-09-12T23:30:00Z"
     },
     {
+      "id": "football-college-football-2026-09-12-clemson-tigers-georgia-southern-eagles",
+      "weekend": "2026-09-12",
+      "name": "Clemson Tigers v Georgia Southern Eagles",
+      "utc": "2026-09-12T23:30:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-12-iowa-hawkeyes-iowa-state-cyclones",
       "weekend": "2026-09-12",
       "name": "Iowa Hawkeyes v Iowa State Cyclones",
@@ -1028,12 +1034,6 @@
       "id": "football-college-football-2026-09-12-florida-atlantic-owls-navy-midshipmen",
       "weekend": "2026-09-12",
       "name": "Florida Atlantic Owls v Navy Midshipmen",
-      "utc": "2026-09-12T23:30:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-12-clemson-tigers-georgia-southern-eagles",
-      "weekend": "2026-09-12",
-      "name": "Clemson Tigers v Georgia Southern Eagles",
       "utc": "2026-09-12T23:30:00Z"
     },
     {
@@ -1175,27 +1175,27 @@
       "utc": "2026-09-19T16:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-19-georgia-tech-yellow-jackets-mercer-bears",
-      "weekend": "2026-09-19",
-      "name": "Georgia Tech Yellow Jackets v Mercer Bears",
-      "utc": "2026-09-19T16:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-19-clemson-tigers-north-carolina-tar-heels",
       "weekend": "2026-09-19",
       "name": "Clemson Tigers v North Carolina Tar Heels",
       "utc": "2026-09-19T16:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-19-minnesota-golden-gophers-akron-zips",
-      "weekend": "2026-09-19",
-      "name": "Minnesota Golden Gophers v Akron Zips",
-      "utc": "2026-09-19T16:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-19-kansas-jayhawks-arizona-state-sun-devils",
       "weekend": "2026-09-19",
       "name": "Kansas Jayhawks v Arizona State Sun Devils",
+      "utc": "2026-09-19T16:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-19-georgia-tech-yellow-jackets-mercer-bears",
+      "weekend": "2026-09-19",
+      "name": "Georgia Tech Yellow Jackets v Mercer Bears",
+      "utc": "2026-09-19T16:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-19-minnesota-golden-gophers-akron-zips",
+      "weekend": "2026-09-19",
+      "name": "Minnesota Golden Gophers v Akron Zips",
       "utc": "2026-09-19T16:00:00Z"
     },
     {
@@ -1241,21 +1241,15 @@
       "utc": "2026-09-19T19:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-19-texas-a-m-aggies-kentucky-wildcats",
-      "weekend": "2026-09-19",
-      "name": "Texas A&M Aggies v Kentucky Wildcats",
-      "utc": "2026-09-19T19:30:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-19-michigan-wolverines-utep-miners",
-      "weekend": "2026-09-19",
-      "name": "Michigan Wolverines v UTEP Miners",
-      "utc": "2026-09-19T19:30:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-19-alabama-crimson-tide-florida-state-seminoles",
       "weekend": "2026-09-19",
       "name": "Alabama Crimson Tide v Florida State Seminoles",
+      "utc": "2026-09-19T19:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-19-texas-a-m-aggies-kentucky-wildcats",
+      "weekend": "2026-09-19",
+      "name": "Texas A&M Aggies v Kentucky Wildcats",
       "utc": "2026-09-19T19:30:00Z"
     },
     {
@@ -1265,9 +1259,9 @@
       "utc": "2026-09-19T19:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-19-utah-utes-utah-state-aggies",
+      "id": "football-college-football-2026-09-19-michigan-wolverines-utep-miners",
       "weekend": "2026-09-19",
-      "name": "Utah Utes v Utah State Aggies",
+      "name": "Michigan Wolverines v UTEP Miners",
       "utc": "2026-09-19T19:30:00Z"
     },
     {
@@ -1277,21 +1271,9 @@
       "utc": "2026-09-19T19:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-19-california-golden-bears-wagner-seahawks",
+      "id": "football-college-football-2026-09-19-utah-utes-utah-state-aggies",
       "weekend": "2026-09-19",
-      "name": "California Golden Bears v Wagner Seahawks",
-      "utc": "2026-09-19T19:30:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-19-massachusetts-minutemen-stonehill-skyhawks",
-      "weekend": "2026-09-19",
-      "name": "Massachusetts Minutemen v Stonehill Skyhawks",
-      "utc": "2026-09-19T19:30:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-19-washington-state-cougars-duquesne-dukes",
-      "weekend": "2026-09-19",
-      "name": "Washington State Cougars v Duquesne Dukes",
+      "name": "Utah Utes v Utah State Aggies",
       "utc": "2026-09-19T19:30:00Z"
     },
     {
@@ -1301,21 +1283,27 @@
       "utc": "2026-09-19T19:30:00Z"
     },
     {
+      "id": "football-college-football-2026-09-19-california-golden-bears-wagner-seahawks",
+      "weekend": "2026-09-19",
+      "name": "California Golden Bears v Wagner Seahawks",
+      "utc": "2026-09-19T19:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-19-washington-state-cougars-duquesne-dukes",
+      "weekend": "2026-09-19",
+      "name": "Washington State Cougars v Duquesne Dukes",
+      "utc": "2026-09-19T19:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-19-massachusetts-minutemen-stonehill-skyhawks",
+      "weekend": "2026-09-19",
+      "name": "Massachusetts Minutemen v Stonehill Skyhawks",
+      "utc": "2026-09-19T19:30:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-19-indiana-hoosiers-western-kentucky-hilltoppers",
       "weekend": "2026-09-19",
       "name": "Indiana Hoosiers v Western Kentucky Hilltoppers",
-      "utc": "2026-09-19T20:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-19-duke-blue-devils-stanford-cardinal",
-      "weekend": "2026-09-19",
-      "name": "Duke Blue Devils v Stanford Cardinal",
-      "utc": "2026-09-19T20:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-19-baylor-bears-louisiana-tech-bulldogs",
-      "weekend": "2026-09-19",
-      "name": "Baylor Bears v Louisiana Tech Bulldogs",
       "utc": "2026-09-19T20:00:00Z"
     },
     {
@@ -1325,9 +1313,21 @@
       "utc": "2026-09-19T20:00:00Z"
     },
     {
+      "id": "football-college-football-2026-09-19-baylor-bears-louisiana-tech-bulldogs",
+      "weekend": "2026-09-19",
+      "name": "Baylor Bears v Louisiana Tech Bulldogs",
+      "utc": "2026-09-19T20:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-19-liberty-flames-ball-state-cardinals",
       "weekend": "2026-09-19",
       "name": "Liberty Flames v Ball State Cardinals",
+      "utc": "2026-09-19T20:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-19-duke-blue-devils-stanford-cardinal",
+      "weekend": "2026-09-19",
+      "name": "Duke Blue Devils v Stanford Cardinal",
       "utc": "2026-09-19T20:00:00Z"
     },
     {
@@ -1343,9 +1343,9 @@
       "utc": "2026-09-19T20:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-19-florida-atlantic-owls-florida-international-panthers",
+      "id": "football-college-football-2026-09-19-old-dominion-monarchs-east-carolina-pirates",
       "weekend": "2026-09-19",
-      "name": "Florida Atlantic Owls v Florida International Panthers",
+      "name": "Old Dominion Monarchs v East Carolina Pirates",
       "utc": "2026-09-19T22:00:00Z"
     },
     {
@@ -1355,9 +1355,9 @@
       "utc": "2026-09-19T22:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-19-old-dominion-monarchs-east-carolina-pirates",
+      "id": "football-college-football-2026-09-19-florida-atlantic-owls-florida-international-panthers",
       "weekend": "2026-09-19",
-      "name": "Old Dominion Monarchs v East Carolina Pirates",
+      "name": "Florida Atlantic Owls v Florida International Panthers",
       "utc": "2026-09-19T22:00:00Z"
     },
     {
@@ -1373,6 +1373,12 @@
       "utc": "2026-09-19T23:00:00Z"
     },
     {
+      "id": "football-college-football-2026-09-19-ucf-knights-georgia-state-panthers",
+      "weekend": "2026-09-19",
+      "name": "UCF Knights v Georgia State Panthers",
+      "utc": "2026-09-19T23:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-19-oklahoma-state-cowboys-murray-state-racers",
       "weekend": "2026-09-19",
       "name": "Oklahoma State Cowboys v Murray State Racers",
@@ -1382,12 +1388,6 @@
       "id": "football-college-football-2026-09-19-auburn-tigers-florida-gators",
       "weekend": "2026-09-19",
       "name": "Auburn Tigers v Florida Gators",
-      "utc": "2026-09-19T23:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-19-ucf-knights-georgia-state-panthers",
-      "weekend": "2026-09-19",
-      "name": "UCF Knights v Georgia State Panthers",
       "utc": "2026-09-19T23:00:00Z"
     },
     {
@@ -1409,15 +1409,15 @@
       "utc": "2026-09-19T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-19-middle-tennessee-blue-raiders-nevada-wolf-pack",
-      "weekend": "2026-09-19",
-      "name": "Middle Tennessee Blue Raiders v Nevada Wolf Pack",
-      "utc": "2026-09-19T23:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-19-south-florida-bulls-delaware-state-hornets",
       "weekend": "2026-09-19",
       "name": "South Florida Bulls v Delaware State Hornets",
+      "utc": "2026-09-19T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-19-middle-tennessee-blue-raiders-nevada-wolf-pack",
+      "weekend": "2026-09-19",
+      "name": "Middle Tennessee Blue Raiders v Nevada Wolf Pack",
       "utc": "2026-09-19T23:00:00Z"
     },
     {
@@ -1427,15 +1427,15 @@
       "utc": "2026-09-19T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-19-sam-houston-bearkats-nicholls-colonels",
-      "weekend": "2026-09-19",
-      "name": "Sam Houston Bearkats v Nicholls Colonels",
-      "utc": "2026-09-19T23:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-19-jacksonville-state-gamecocks-georgia-southern-eagles",
       "weekend": "2026-09-19",
       "name": "Jacksonville State Gamecocks v Georgia Southern Eagles",
+      "utc": "2026-09-19T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-19-sam-houston-bearkats-nicholls-colonels",
+      "weekend": "2026-09-19",
+      "name": "Sam Houston Bearkats v Nicholls Colonels",
       "utc": "2026-09-19T23:00:00Z"
     },
     {
@@ -1457,21 +1457,15 @@
       "utc": "2026-09-19T23:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-19-ole-miss-rebels-lsu-tigers",
-      "weekend": "2026-09-19",
-      "name": "Ole Miss Rebels v LSU Tigers",
-      "utc": "2026-09-19T23:30:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-19-colorado-state-rams-byu-cougars",
-      "weekend": "2026-09-19",
-      "name": "Colorado State Rams v BYU Cougars",
-      "utc": "2026-09-19T23:30:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-19-oklahoma-sooners-new-mexico-lobos",
       "weekend": "2026-09-19",
       "name": "Oklahoma Sooners v New Mexico Lobos",
+      "utc": "2026-09-19T23:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-19-ole-miss-rebels-lsu-tigers",
+      "weekend": "2026-09-19",
+      "name": "Ole Miss Rebels v LSU Tigers",
       "utc": "2026-09-19T23:30:00Z"
     },
     {
@@ -1481,15 +1475,21 @@
       "utc": "2026-09-19T23:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-19-maryland-terrapins-virginia-tech-hokies",
+      "id": "football-college-football-2026-09-19-colorado-state-rams-byu-cougars",
       "weekend": "2026-09-19",
-      "name": "Maryland Terrapins v Virginia Tech Hokies",
+      "name": "Colorado State Rams v BYU Cougars",
       "utc": "2026-09-19T23:30:00Z"
     },
     {
       "id": "football-college-football-2026-09-19-virginia-cavaliers-west-virginia-mountaineers",
       "weekend": "2026-09-19",
       "name": "Virginia Cavaliers v West Virginia Mountaineers",
+      "utc": "2026-09-19T23:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-19-maryland-terrapins-virginia-tech-hokies",
+      "weekend": "2026-09-19",
+      "name": "Maryland Terrapins v Virginia Tech Hokies",
       "utc": "2026-09-19T23:30:00Z"
     },
     {
@@ -1505,15 +1505,15 @@
       "utc": "2026-09-20T00:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-20-tcu-horned-frogs-arkansas-state-red-wolves",
-      "weekend": "2026-09-20",
-      "name": "TCU Horned Frogs v Arkansas State Red Wolves",
-      "utc": "2026-09-20T00:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-20-tulsa-golden-hurricane-east-texas-a-m-lions",
       "weekend": "2026-09-20",
       "name": "Tulsa Golden Hurricane v East Texas A&M Lions",
+      "utc": "2026-09-20T00:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-20-tcu-horned-frogs-arkansas-state-red-wolves",
+      "weekend": "2026-09-20",
+      "name": "TCU Horned Frogs v Arkansas State Red Wolves",
       "utc": "2026-09-20T00:00:00Z"
     },
     {
@@ -1553,15 +1553,15 @@
       "utc": "2026-09-20T03:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-20-san-jos-state-spartans-fresno-state-bulldogs",
-      "weekend": "2026-09-20",
-      "name": "San Jos\u00e9 State Spartans v Fresno State Bulldogs",
-      "utc": "2026-09-20T03:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-20-oregon-state-beavers-montana-grizzlies",
       "weekend": "2026-09-20",
       "name": "Oregon State Beavers v Montana Grizzlies",
+      "utc": "2026-09-20T03:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-20-san-jos-state-spartans-fresno-state-bulldogs",
+      "weekend": "2026-09-20",
+      "name": "San Jos\u00e9 State Spartans v Fresno State Bulldogs",
       "utc": "2026-09-20T03:00:00Z"
     },
     {
@@ -1613,21 +1613,15 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-purdue-boilermakers-notre-dame-fighting-irish",
-      "weekend": "2026-09-26",
-      "name": "Purdue Boilermakers v Notre Dame Fighting Irish",
-      "utc": "2026-09-26T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-26-georgia-bulldogs-oklahoma-sooners",
       "weekend": "2026-09-26",
       "name": "Georgia Bulldogs v Oklahoma Sooners",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-florida-gators-ole-miss-rebels",
+      "id": "football-college-football-2026-09-26-purdue-boilermakers-notre-dame-fighting-irish",
       "weekend": "2026-09-26",
-      "name": "Florida Gators v Ole Miss Rebels",
+      "name": "Purdue Boilermakers v Notre Dame Fighting Irish",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1637,15 +1631,21 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-alabama-crimson-tide-south-carolina-gamecocks",
-      "weekend": "2026-09-26",
-      "name": "Alabama Crimson Tide v South Carolina Gamecocks",
-      "utc": "2026-09-26T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-26-lsu-tigers-texas-a-m-aggies",
       "weekend": "2026-09-26",
       "name": "LSU Tigers v Texas A&M Aggies",
+      "utc": "2026-09-26T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-26-florida-gators-ole-miss-rebels",
+      "weekend": "2026-09-26",
+      "name": "Florida Gators v Ole Miss Rebels",
+      "utc": "2026-09-26T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-26-alabama-crimson-tide-south-carolina-gamecocks",
+      "weekend": "2026-09-26",
+      "name": "Alabama Crimson Tide v South Carolina Gamecocks",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1655,9 +1655,9 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-smu-mustangs-missouri-state-bears",
+      "id": "football-college-football-2026-09-26-washington-huskies-minnesota-golden-gophers",
       "weekend": "2026-09-26",
-      "name": "SMU Mustangs v Missouri State Bears",
+      "name": "Washington Huskies v Minnesota Golden Gophers",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1667,15 +1667,9 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-georgia-southern-eagles-houston-cougars",
+      "id": "football-college-football-2026-09-26-smu-mustangs-missouri-state-bears",
       "weekend": "2026-09-26",
-      "name": "Georgia Southern Eagles v Houston Cougars",
-      "utc": "2026-09-26T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-26-washington-huskies-minnesota-golden-gophers",
-      "weekend": "2026-09-26",
-      "name": "Washington Huskies v Minnesota Golden Gophers",
+      "name": "SMU Mustangs v Missouri State Bears",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1685,9 +1679,9 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-louisville-cardinals-wake-forest-demon-deacons",
+      "id": "football-college-football-2026-09-26-georgia-southern-eagles-houston-cougars",
       "weekend": "2026-09-26",
-      "name": "Louisville Cardinals v Wake Forest Demon Deacons",
+      "name": "Georgia Southern Eagles v Houston Cougars",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1697,15 +1691,15 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-auburn-tigers-vanderbilt-commodores",
-      "weekend": "2026-09-26",
-      "name": "Auburn Tigers v Vanderbilt Commodores",
-      "utc": "2026-09-26T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-26-baylor-bears-colorado-buffaloes",
       "weekend": "2026-09-26",
       "name": "Baylor Bears v Colorado Buffaloes",
+      "utc": "2026-09-26T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-26-louisville-cardinals-wake-forest-demon-deacons",
+      "weekend": "2026-09-26",
+      "name": "Louisville Cardinals v Wake Forest Demon Deacons",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1715,9 +1709,9 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-cincinnati-bearcats-kansas-state-wildcats",
+      "id": "football-college-football-2026-09-26-auburn-tigers-vanderbilt-commodores",
       "weekend": "2026-09-26",
-      "name": "Cincinnati Bearcats v Kansas State Wildcats",
+      "name": "Auburn Tigers v Vanderbilt Commodores",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1727,15 +1721,33 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-boston-college-eagles-virginia-tech-hokies",
+      "id": "football-college-football-2026-09-26-cincinnati-bearcats-kansas-state-wildcats",
       "weekend": "2026-09-26",
-      "name": "Boston College Eagles v Virginia Tech Hokies",
+      "name": "Cincinnati Bearcats v Kansas State Wildcats",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
       "id": "football-college-football-2026-09-26-florida-state-seminoles-central-arkansas-bears",
       "weekend": "2026-09-26",
       "name": "Florida State Seminoles v Central Arkansas Bears",
+      "utc": "2026-09-26T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-26-boston-college-eagles-virginia-tech-hokies",
+      "weekend": "2026-09-26",
+      "name": "Boston College Eagles v Virginia Tech Hokies",
+      "utc": "2026-09-26T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-26-virginia-cavaliers-delaware-blue-hens",
+      "weekend": "2026-09-26",
+      "name": "Virginia Cavaliers v Delaware Blue Hens",
+      "utc": "2026-09-26T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-26-maryland-terrapins-ucla-bruins",
+      "weekend": "2026-09-26",
+      "name": "Maryland Terrapins v UCLA Bruins",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1751,15 +1763,9 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-miami-oh-redhawks-uconn-huskies",
+      "id": "football-college-football-2026-09-26-western-michigan-broncos-boise-state-broncos",
       "weekend": "2026-09-26",
-      "name": "Miami (OH) RedHawks v UConn Huskies",
-      "utc": "2026-09-26T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-26-virginia-cavaliers-delaware-blue-hens",
-      "weekend": "2026-09-26",
-      "name": "Virginia Cavaliers v Delaware Blue Hens",
+      "name": "Western Michigan Broncos v Boise State Broncos",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1769,21 +1775,21 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
+      "id": "football-college-football-2026-09-26-miami-oh-redhawks-uconn-huskies",
+      "weekend": "2026-09-26",
+      "name": "Miami (OH) RedHawks v UConn Huskies",
+      "utc": "2026-09-26T04:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-09-26-charlotte-49ers-louisiana-ragin-cajuns",
       "weekend": "2026-09-26",
       "name": "Charlotte 49ers v Louisiana Ragin' Cajuns",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-bowling-green-falcons-south-florida-bulls",
+      "id": "football-college-football-2026-09-26-ul-monroe-warhawks-florida-atlantic-owls",
       "weekend": "2026-09-26",
-      "name": "Bowling Green Falcons v South Florida Bulls",
-      "utc": "2026-09-26T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-26-maryland-terrapins-ucla-bruins",
-      "weekend": "2026-09-26",
-      "name": "Maryland Terrapins v UCLA Bruins",
+      "name": "UL Monroe Warhawks v Florida Atlantic Owls",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1793,15 +1799,27 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-akron-zips-unlv-rebels",
+      "id": "football-college-football-2026-09-26-bowling-green-falcons-south-florida-bulls",
       "weekend": "2026-09-26",
-      "name": "Akron Zips v UNLV Rebels",
+      "name": "Bowling Green Falcons v South Florida Bulls",
+      "utc": "2026-09-26T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-26-nevada-wolf-pack-air-force-falcons",
+      "weekend": "2026-09-26",
+      "name": "Nevada Wolf Pack v Air Force Falcons",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
       "id": "football-college-football-2026-09-26-georgia-state-panthers-northern-illinois-huskies",
       "weekend": "2026-09-26",
       "name": "Georgia State Panthers v Northern Illinois Huskies",
+      "utc": "2026-09-26T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-26-akron-zips-unlv-rebels",
+      "weekend": "2026-09-26",
+      "name": "Akron Zips v UNLV Rebels",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1817,18 +1835,6 @@
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-nevada-wolf-pack-air-force-falcons",
-      "weekend": "2026-09-26",
-      "name": "Nevada Wolf Pack v Air Force Falcons",
-      "utc": "2026-09-26T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-26-ul-monroe-warhawks-florida-atlantic-owls",
-      "weekend": "2026-09-26",
-      "name": "UL Monroe Warhawks v Florida Atlantic Owls",
-      "utc": "2026-09-26T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-26-sacramento-state-hornets-massachusetts-minutemen",
       "weekend": "2026-09-26",
       "name": "Sacramento State Hornets v Massachusetts Minutemen",
@@ -1838,12 +1844,6 @@
       "id": "football-college-football-2026-09-26-old-dominion-monarchs-james-madison-dukes",
       "weekend": "2026-09-26",
       "name": "Old Dominion Monarchs v James Madison Dukes",
-      "utc": "2026-09-26T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-09-26-western-michigan-broncos-boise-state-broncos",
-      "weekend": "2026-09-26",
-      "name": "Western Michigan Broncos v Boise State Broncos",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
@@ -1895,15 +1895,15 @@
       "utc": "2026-09-26T19:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-marshall-thundering-herd-gardner-webb-runnin-bulldogs",
-      "weekend": "2026-09-26",
-      "name": "Marshall Thundering Herd v Gardner-Webb Runnin' Bulldogs",
-      "utc": "2026-09-26T19:30:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-26-ohio-bobcats-stonehill-skyhawks",
       "weekend": "2026-09-26",
       "name": "Ohio Bobcats v Stonehill Skyhawks",
+      "utc": "2026-09-26T19:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-26-marshall-thundering-herd-gardner-webb-runnin-bulldogs",
+      "weekend": "2026-09-26",
+      "name": "Marshall Thundering Herd v Gardner-Webb Runnin' Bulldogs",
       "utc": "2026-09-26T19:30:00Z"
     },
     {
@@ -1913,15 +1913,15 @@
       "utc": "2026-09-26T20:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-texas-state-bobcats-incarnate-word-cardinals",
-      "weekend": "2026-09-26",
-      "name": "Texas State Bobcats v Incarnate Word Cardinals",
-      "utc": "2026-09-26T22:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-26-florida-international-panthers-long-island-university-sharks",
       "weekend": "2026-09-26",
       "name": "Florida International Panthers v Long Island University Sharks",
+      "utc": "2026-09-26T22:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-26-texas-state-bobcats-incarnate-word-cardinals",
+      "weekend": "2026-09-26",
+      "name": "Texas State Bobcats v Incarnate Word Cardinals",
       "utc": "2026-09-26T22:00:00Z"
     },
     {
@@ -1937,21 +1937,21 @@
       "utc": "2026-09-26T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-jacksonville-state-gamecocks-middle-tennessee-blue-raiders",
-      "weekend": "2026-09-26",
-      "name": "Jacksonville State Gamecocks v Middle Tennessee Blue Raiders",
-      "utc": "2026-09-26T23:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-09-26-western-kentucky-hilltoppers-mercyhurst-lakers",
       "weekend": "2026-09-26",
       "name": "Western Kentucky Hilltoppers v Mercyhurst Lakers",
       "utc": "2026-09-26T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-utah-state-aggies-troy-trojans",
+      "id": "football-college-football-2026-09-26-jacksonville-state-gamecocks-middle-tennessee-blue-raiders",
       "weekend": "2026-09-26",
-      "name": "Utah State Aggies v Troy Trojans",
+      "name": "Jacksonville State Gamecocks v Middle Tennessee Blue Raiders",
+      "utc": "2026-09-26T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-09-26-washington-state-cougars-arizona-wildcats",
+      "weekend": "2026-09-26",
+      "name": "Washington State Cougars v Arizona Wildcats",
       "utc": "2026-09-26T23:30:00Z"
     },
     {
@@ -1961,9 +1961,9 @@
       "utc": "2026-09-26T23:30:00Z"
     },
     {
-      "id": "football-college-football-2026-09-26-washington-state-cougars-arizona-wildcats",
+      "id": "football-college-football-2026-09-26-utah-state-aggies-troy-trojans",
       "weekend": "2026-09-26",
-      "name": "Washington State Cougars v Arizona Wildcats",
+      "name": "Utah State Aggies v Troy Trojans",
       "utc": "2026-09-26T23:30:00Z"
     },
     {
@@ -2021,15 +2021,15 @@
       "utc": "2026-10-03T00:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-03-georgia-bulldogs-vanderbilt-commodores",
-      "weekend": "2026-10-03",
-      "name": "Georgia Bulldogs v Vanderbilt Commodores",
-      "utc": "2026-10-03T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-03-iowa-hawkeyes-ohio-state-buckeyes",
       "weekend": "2026-10-03",
       "name": "Iowa Hawkeyes v Ohio State Buckeyes",
+      "utc": "2026-10-03T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-03-georgia-bulldogs-vanderbilt-commodores",
+      "weekend": "2026-10-03",
+      "name": "Georgia Bulldogs v Vanderbilt Commodores",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
@@ -2045,9 +2045,9 @@
       "utc": "2026-10-03T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-03-tcu-horned-frogs-byu-cougars",
+      "id": "football-college-football-2026-10-03-mississippi-state-bulldogs-alabama-crimson-tide",
       "weekend": "2026-10-03",
-      "name": "TCU Horned Frogs v BYU Cougars",
+      "name": "Mississippi State Bulldogs v Alabama Crimson Tide",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
@@ -2063,15 +2063,9 @@
       "utc": "2026-10-03T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-03-mississippi-state-bulldogs-alabama-crimson-tide",
+      "id": "football-college-football-2026-10-03-tcu-horned-frogs-byu-cougars",
       "weekend": "2026-10-03",
-      "name": "Mississippi State Bulldogs v Alabama Crimson Tide",
-      "utc": "2026-10-03T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-03-smu-mustangs-boston-college-eagles",
-      "weekend": "2026-10-03",
-      "name": "SMU Mustangs v Boston College Eagles",
+      "name": "TCU Horned Frogs v BYU Cougars",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
@@ -2081,15 +2075,27 @@
       "utc": "2026-10-03T04:00:00Z"
     },
     {
+      "id": "football-college-football-2026-10-03-tennessee-volunteers-auburn-tigers",
+      "weekend": "2026-10-03",
+      "name": "Tennessee Volunteers v Auburn Tigers",
+      "utc": "2026-10-03T04:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-10-03-minnesota-golden-gophers-michigan-wolverines",
       "weekend": "2026-10-03",
       "name": "Minnesota Golden Gophers v Michigan Wolverines",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-03-tennessee-volunteers-auburn-tigers",
+      "id": "football-college-football-2026-10-03-smu-mustangs-boston-college-eagles",
       "weekend": "2026-10-03",
-      "name": "Tennessee Volunteers v Auburn Tigers",
+      "name": "SMU Mustangs v Boston College Eagles",
+      "utc": "2026-10-03T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-03-houston-cougars-ucf-knights",
+      "weekend": "2026-10-03",
+      "name": "Houston Cougars v UCF Knights",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
@@ -2099,9 +2105,9 @@
       "utc": "2026-10-03T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-03-houston-cougars-ucf-knights",
+      "id": "football-college-football-2026-10-03-south-carolina-gamecocks-kentucky-wildcats",
       "weekend": "2026-10-03",
-      "name": "Houston Cougars v UCF Knights",
+      "name": "South Carolina Gamecocks v Kentucky Wildcats",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
@@ -2117,24 +2123,6 @@
       "utc": "2026-10-03T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-03-iowa-state-cyclones-west-virginia-mountaineers",
-      "weekend": "2026-10-03",
-      "name": "Iowa State Cyclones v West Virginia Mountaineers",
-      "utc": "2026-10-03T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-03-kansas-jayhawks-middle-tennessee-blue-raiders",
-      "weekend": "2026-10-03",
-      "name": "Kansas Jayhawks v Middle Tennessee Blue Raiders",
-      "utc": "2026-10-03T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-03-south-carolina-gamecocks-kentucky-wildcats",
-      "weekend": "2026-10-03",
-      "name": "South Carolina Gamecocks v Kentucky Wildcats",
-      "utc": "2026-10-03T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-03-arizona-wildcats-cincinnati-bearcats",
       "weekend": "2026-10-03",
       "name": "Arizona Wildcats v Cincinnati Bearcats",
@@ -2144,6 +2132,12 @@
       "id": "football-college-football-2026-10-03-wake-forest-demon-deacons-stanford-cardinal",
       "weekend": "2026-10-03",
       "name": "Wake Forest Demon Deacons v Stanford Cardinal",
+      "utc": "2026-10-03T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-03-iowa-state-cyclones-west-virginia-mountaineers",
+      "weekend": "2026-10-03",
+      "name": "Iowa State Cyclones v West Virginia Mountaineers",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
@@ -2177,9 +2171,9 @@
       "utc": "2026-10-03T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-03-rice-owls-utsa-roadrunners",
+      "id": "football-college-football-2026-10-03-kansas-jayhawks-middle-tennessee-blue-raiders",
       "weekend": "2026-10-03",
-      "name": "Rice Owls v UTSA Roadrunners",
+      "name": "Kansas Jayhawks v Middle Tennessee Blue Raiders",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
@@ -2189,15 +2183,9 @@
       "utc": "2026-10-03T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-03-central-michigan-chippewas-akron-zips",
+      "id": "football-college-football-2026-10-03-rice-owls-utsa-roadrunners",
       "weekend": "2026-10-03",
-      "name": "Central Michigan Chippewas v Akron Zips",
-      "utc": "2026-10-03T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-03-buffalo-bulls-western-michigan-broncos",
-      "weekend": "2026-10-03",
-      "name": "Buffalo Bulls v Western Michigan Broncos",
+      "name": "Rice Owls v UTSA Roadrunners",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
@@ -2207,9 +2195,21 @@
       "utc": "2026-10-03T04:00:00Z"
     },
     {
+      "id": "football-college-football-2026-10-03-central-michigan-chippewas-akron-zips",
+      "weekend": "2026-10-03",
+      "name": "Central Michigan Chippewas v Akron Zips",
+      "utc": "2026-10-03T04:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-10-03-ball-state-cardinals-toledo-rockets",
       "weekend": "2026-10-03",
       "name": "Ball State Cardinals v Toledo Rockets",
+      "utc": "2026-10-03T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-03-buffalo-bulls-western-michigan-broncos",
+      "weekend": "2026-10-03",
+      "name": "Buffalo Bulls v Western Michigan Broncos",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
@@ -2225,15 +2225,21 @@
       "utc": "2026-10-03T04:00:00Z"
     },
     {
+      "id": "football-college-football-2026-10-03-miami-oh-redhawks-bowling-green-falcons",
+      "weekend": "2026-10-03",
+      "name": "Miami (OH) RedHawks v Bowling Green Falcons",
+      "utc": "2026-10-03T04:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-10-03-louisiana-tech-bulldogs-army-black-knights",
       "weekend": "2026-10-03",
       "name": "Louisiana Tech Bulldogs v Army Black Knights",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-03-miami-oh-redhawks-bowling-green-falcons",
+      "id": "football-college-football-2026-10-03-coastal-carolina-chanticleers-georgia-southern-eagles",
       "weekend": "2026-10-03",
-      "name": "Miami (OH) RedHawks v Bowling Green Falcons",
+      "name": "Coastal Carolina Chanticleers v Georgia Southern Eagles",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
@@ -2249,21 +2255,15 @@
       "utc": "2026-10-03T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-03-james-madison-dukes-marshall-thundering-herd",
-      "weekend": "2026-10-03",
-      "name": "James Madison Dukes v Marshall Thundering Herd",
-      "utc": "2026-10-03T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-03-coastal-carolina-chanticleers-georgia-southern-eagles",
-      "weekend": "2026-10-03",
-      "name": "Coastal Carolina Chanticleers v Georgia Southern Eagles",
-      "utc": "2026-10-03T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-03-south-alabama-jaguars-ul-monroe-warhawks",
       "weekend": "2026-10-03",
       "name": "South Alabama Jaguars v UL Monroe Warhawks",
+      "utc": "2026-10-03T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-03-james-madison-dukes-marshall-thundering-herd",
+      "weekend": "2026-10-03",
+      "name": "James Madison Dukes v Marshall Thundering Herd",
       "utc": "2026-10-03T04:00:00Z"
     },
     {
@@ -2363,15 +2363,15 @@
       "utc": "2026-10-07T23:30:00Z"
     },
     {
-      "id": "football-college-football-2026-10-08-western-kentucky-hilltoppers-missouri-state-bears",
-      "weekend": "2026-10-08",
-      "name": "Western Kentucky Hilltoppers v Missouri State Bears",
-      "utc": "2026-10-08T23:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-08-liberty-flames-sam-houston-bearkats",
       "weekend": "2026-10-08",
       "name": "Liberty Flames v Sam Houston Bearkats",
+      "utc": "2026-10-08T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-08-western-kentucky-hilltoppers-missouri-state-bears",
+      "weekend": "2026-10-08",
+      "name": "Western Kentucky Hilltoppers v Missouri State Bears",
       "utc": "2026-10-08T23:00:00Z"
     },
     {
@@ -2393,15 +2393,15 @@
       "utc": "2026-10-09T23:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-10-utah-state-aggies-washington-state-cougars",
-      "weekend": "2026-10-10",
-      "name": "Utah State Aggies v Washington State Cougars",
-      "utc": "2026-10-10T01:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-10-washington-huskies-iowa-hawkeyes",
       "weekend": "2026-10-10",
       "name": "Washington Huskies v Iowa Hawkeyes",
+      "utc": "2026-10-10T01:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-10-utah-state-aggies-washington-state-cougars",
+      "weekend": "2026-10-10",
+      "name": "Utah State Aggies v Washington State Cougars",
       "utc": "2026-10-10T01:00:00Z"
     },
     {
@@ -2423,21 +2423,15 @@
       "utc": "2026-10-10T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-10-alabama-crimson-tide-georgia-bulldogs",
-      "weekend": "2026-10-10",
-      "name": "Alabama Crimson Tide v Georgia Bulldogs",
-      "utc": "2026-10-10T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-10-oregon-ducks-ucla-bruins",
       "weekend": "2026-10-10",
       "name": "Oregon Ducks v UCLA Bruins",
       "utc": "2026-10-10T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-10-vanderbilt-commodores-ole-miss-rebels",
+      "id": "football-college-football-2026-10-10-alabama-crimson-tide-georgia-bulldogs",
       "weekend": "2026-10-10",
-      "name": "Vanderbilt Commodores v Ole Miss Rebels",
+      "name": "Alabama Crimson Tide v Georgia Bulldogs",
       "utc": "2026-10-10T04:00:00Z"
     },
     {
@@ -2456,6 +2450,12 @@
       "id": "football-college-football-2026-10-10-kentucky-wildcats-lsu-tigers",
       "weekend": "2026-10-10",
       "name": "Kentucky Wildcats v LSU Tigers",
+      "utc": "2026-10-10T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-10-vanderbilt-commodores-ole-miss-rebels",
+      "weekend": "2026-10-10",
+      "name": "Vanderbilt Commodores v Ole Miss Rebels",
       "utc": "2026-10-10T04:00:00Z"
     },
     {
@@ -2489,12 +2489,6 @@
       "utc": "2026-10-10T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-10-arizona-state-sun-devils-hawai-i-rainbow-warriors",
-      "weekend": "2026-10-10",
-      "name": "Arizona State Sun Devils v Hawai'i Rainbow Warriors",
-      "utc": "2026-10-10T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-10-west-virginia-mountaineers-arizona-wildcats",
       "weekend": "2026-10-10",
       "name": "West Virginia Mountaineers v Arizona Wildcats",
@@ -2504,6 +2498,12 @@
       "id": "football-college-football-2026-10-10-oklahoma-state-cowboys-ucf-knights",
       "weekend": "2026-10-10",
       "name": "Oklahoma State Cowboys v UCF Knights",
+      "utc": "2026-10-10T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-10-arizona-state-sun-devils-hawai-i-rainbow-warriors",
+      "weekend": "2026-10-10",
+      "name": "Arizona State Sun Devils v Hawai'i Rainbow Warriors",
       "utc": "2026-10-10T04:00:00Z"
     },
     {
@@ -2543,9 +2543,9 @@
       "utc": "2026-10-10T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-10-purdue-boilermakers-minnesota-golden-gophers",
+      "id": "football-college-football-2026-10-10-north-texas-mean-green-charlotte-49ers",
       "weekend": "2026-10-10",
-      "name": "Purdue Boilermakers v Minnesota Golden Gophers",
+      "name": "North Texas Mean Green v Charlotte 49ers",
       "utc": "2026-10-10T04:00:00Z"
     },
     {
@@ -2555,15 +2555,15 @@
       "utc": "2026-10-10T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-10-north-texas-mean-green-charlotte-49ers",
-      "weekend": "2026-10-10",
-      "name": "North Texas Mean Green v Charlotte 49ers",
-      "utc": "2026-10-10T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-10-temple-owls-uconn-huskies",
       "weekend": "2026-10-10",
       "name": "Temple Owls v UConn Huskies",
+      "utc": "2026-10-10T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-10-purdue-boilermakers-minnesota-golden-gophers",
+      "weekend": "2026-10-10",
+      "name": "Purdue Boilermakers v Minnesota Golden Gophers",
       "utc": "2026-10-10T04:00:00Z"
     },
     {
@@ -2579,6 +2579,12 @@
       "utc": "2026-10-10T04:00:00Z"
     },
     {
+      "id": "football-college-football-2026-10-10-toledo-rockets-buffalo-bulls",
+      "weekend": "2026-10-10",
+      "name": "Toledo Rockets v Buffalo Bulls",
+      "utc": "2026-10-10T04:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-10-10-utep-miners-nevada-wolf-pack",
       "weekend": "2026-10-10",
       "name": "UTEP Miners v Nevada Wolf Pack",
@@ -2591,21 +2597,15 @@
       "utc": "2026-10-10T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-10-toledo-rockets-buffalo-bulls",
-      "weekend": "2026-10-10",
-      "name": "Toledo Rockets v Buffalo Bulls",
-      "utc": "2026-10-10T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-10-ohio-bobcats-central-michigan-chippewas",
       "weekend": "2026-10-10",
       "name": "Ohio Bobcats v Central Michigan Chippewas",
       "utc": "2026-10-10T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-10-western-michigan-broncos-kent-state-golden-flashes",
+      "id": "football-college-football-2026-10-10-app-state-mountaineers-old-dominion-monarchs",
       "weekend": "2026-10-10",
-      "name": "Western Michigan Broncos v Kent State Golden Flashes",
+      "name": "App State Mountaineers v Old Dominion Monarchs",
       "utc": "2026-10-10T04:00:00Z"
     },
     {
@@ -2621,12 +2621,6 @@
       "utc": "2026-10-10T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-10-app-state-mountaineers-old-dominion-monarchs",
-      "weekend": "2026-10-10",
-      "name": "App State Mountaineers v Old Dominion Monarchs",
-      "utc": "2026-10-10T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-10-georgia-southern-eagles-james-madison-dukes",
       "weekend": "2026-10-10",
       "name": "Georgia Southern Eagles v James Madison Dukes",
@@ -2636,6 +2630,12 @@
       "id": "football-college-football-2026-10-10-louisiana-tech-bulldogs-louisiana-ragin-cajuns",
       "weekend": "2026-10-10",
       "name": "Louisiana Tech Bulldogs v Louisiana Ragin' Cajuns",
+      "utc": "2026-10-10T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-10-western-michigan-broncos-kent-state-golden-flashes",
+      "weekend": "2026-10-10",
+      "name": "Western Michigan Broncos v Kent State Golden Flashes",
       "utc": "2026-10-10T04:00:00Z"
     },
     {
@@ -2759,12 +2759,6 @@
       "utc": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-17-byu-cougars-notre-dame-fighting-irish",
-      "weekend": "2026-10-17",
-      "name": "BYU Cougars v Notre Dame Fighting Irish",
-      "utc": "2026-10-17T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-17-indiana-hoosiers-ohio-state-buckeyes",
       "weekend": "2026-10-17",
       "name": "Indiana Hoosiers v Ohio State Buckeyes",
@@ -2783,9 +2777,9 @@
       "utc": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-17-miami-hurricanes-florida-state-seminoles",
+      "id": "football-college-football-2026-10-17-byu-cougars-notre-dame-fighting-irish",
       "weekend": "2026-10-17",
-      "name": "Miami Hurricanes v Florida State Seminoles",
+      "name": "BYU Cougars v Notre Dame Fighting Irish",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
@@ -2795,15 +2789,21 @@
       "utc": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-17-lsu-tigers-mississippi-state-bulldogs",
+      "id": "football-college-football-2026-10-17-miami-hurricanes-florida-state-seminoles",
       "weekend": "2026-10-17",
-      "name": "LSU Tigers v Mississippi State Bulldogs",
+      "name": "Miami Hurricanes v Florida State Seminoles",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
       "id": "football-college-football-2026-10-17-oklahoma-sooners-kentucky-wildcats",
       "weekend": "2026-10-17",
       "name": "Oklahoma Sooners v Kentucky Wildcats",
+      "utc": "2026-10-17T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-17-lsu-tigers-mississippi-state-bulldogs",
+      "weekend": "2026-10-17",
+      "name": "LSU Tigers v Mississippi State Bulldogs",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
@@ -2819,21 +2819,15 @@
       "utc": "2026-10-17T04:00:00Z"
     },
     {
+      "id": "football-college-football-2026-10-17-houston-cougars-oklahoma-state-cowboys",
+      "weekend": "2026-10-17",
+      "name": "Houston Cougars v Oklahoma State Cowboys",
+      "utc": "2026-10-17T04:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-10-17-smu-mustangs-virginia-cavaliers",
       "weekend": "2026-10-17",
       "name": "SMU Mustangs v Virginia Cavaliers",
-      "utc": "2026-10-17T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-17-michigan-wolverines-penn-state-nittany-lions",
-      "weekend": "2026-10-17",
-      "name": "Michigan Wolverines v Penn State Nittany Lions",
-      "utc": "2026-10-17T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-17-syracuse-orange-louisville-cardinals",
-      "weekend": "2026-10-17",
-      "name": "Syracuse Orange v Louisville Cardinals",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
@@ -2843,15 +2837,21 @@
       "utc": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-17-houston-cougars-oklahoma-state-cowboys",
+      "id": "football-college-football-2026-10-17-michigan-wolverines-penn-state-nittany-lions",
       "weekend": "2026-10-17",
-      "name": "Houston Cougars v Oklahoma State Cowboys",
+      "name": "Michigan Wolverines v Penn State Nittany Lions",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
       "id": "football-college-football-2026-10-17-vanderbilt-commodores-arkansas-razorbacks",
       "weekend": "2026-10-17",
       "name": "Vanderbilt Commodores v Arkansas Razorbacks",
+      "utc": "2026-10-17T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-17-syracuse-orange-louisville-cardinals",
+      "weekend": "2026-10-17",
+      "name": "Syracuse Orange v Louisville Cardinals",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
@@ -2873,15 +2873,15 @@
       "utc": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-17-virginia-tech-hokies-georgia-tech-yellow-jackets",
-      "weekend": "2026-10-17",
-      "name": "Virginia Tech Hokies v Georgia Tech Yellow Jackets",
-      "utc": "2026-10-17T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-17-clemson-tigers-charleston-southern-buccaneers",
       "weekend": "2026-10-17",
       "name": "Clemson Tigers v Charleston Southern Buccaneers",
+      "utc": "2026-10-17T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-17-virginia-tech-hokies-georgia-tech-yellow-jackets",
+      "weekend": "2026-10-17",
+      "name": "Virginia Tech Hokies v Georgia Tech Yellow Jackets",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
@@ -2903,21 +2903,9 @@
       "utc": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-17-michigan-state-spartans-northwestern-wildcats",
-      "weekend": "2026-10-17",
-      "name": "Michigan State Spartans v Northwestern Wildcats",
-      "utc": "2026-10-17T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-17-maryland-terrapins-rutgers-scarlet-knights",
       "weekend": "2026-10-17",
       "name": "Maryland Terrapins v Rutgers Scarlet Knights",
-      "utc": "2026-10-17T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-17-ucla-bruins-wisconsin-badgers",
-      "weekend": "2026-10-17",
-      "name": "UCLA Bruins v Wisconsin Badgers",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
@@ -2927,21 +2915,27 @@
       "utc": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-17-rice-owls-tulsa-golden-hurricane",
+      "id": "football-college-football-2026-10-17-ucla-bruins-wisconsin-badgers",
       "weekend": "2026-10-17",
-      "name": "Rice Owls v Tulsa Golden Hurricane",
+      "name": "UCLA Bruins v Wisconsin Badgers",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-17-south-florida-bulls-kent-state-golden-flashes",
+      "id": "football-college-football-2026-10-17-michigan-state-spartans-northwestern-wildcats",
       "weekend": "2026-10-17",
-      "name": "South Florida Bulls v Kent State Golden Flashes",
+      "name": "Michigan State Spartans v Northwestern Wildcats",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
       "id": "football-college-football-2026-10-17-utsa-roadrunners-navy-midshipmen",
       "weekend": "2026-10-17",
       "name": "UTSA Roadrunners v Navy Midshipmen",
+      "utc": "2026-10-17T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-17-rice-owls-tulsa-golden-hurricane",
+      "weekend": "2026-10-17",
+      "name": "Rice Owls v Tulsa Golden Hurricane",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
@@ -2957,6 +2951,12 @@
       "utc": "2026-10-17T04:00:00Z"
     },
     {
+      "id": "football-college-football-2026-10-17-south-florida-bulls-kent-state-golden-flashes",
+      "weekend": "2026-10-17",
+      "name": "South Florida Bulls v Kent State Golden Flashes",
+      "utc": "2026-10-17T04:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-10-17-buffalo-bulls-massachusetts-minutemen",
       "weekend": "2026-10-17",
       "name": "Buffalo Bulls v Massachusetts Minutemen",
@@ -2969,12 +2969,6 @@
       "utc": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-17-sacramento-state-hornets-ohio-bobcats",
-      "weekend": "2026-10-17",
-      "name": "Sacramento State Hornets v Ohio Bobcats",
-      "utc": "2026-10-17T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-17-eastern-michigan-eagles-toledo-rockets",
       "weekend": "2026-10-17",
       "name": "Eastern Michigan Eagles v Toledo Rockets",
@@ -2984,6 +2978,12 @@
       "id": "football-college-football-2026-10-17-miami-oh-redhawks-akron-zips",
       "weekend": "2026-10-17",
       "name": "Miami (OH) RedHawks v Akron Zips",
+      "utc": "2026-10-17T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-17-sacramento-state-hornets-ohio-bobcats",
+      "weekend": "2026-10-17",
+      "name": "Sacramento State Hornets v Ohio Bobcats",
       "utc": "2026-10-17T04:00:00Z"
     },
     {
@@ -3065,15 +3065,15 @@
       "utc": "2026-10-18T02:30:00Z"
     },
     {
-      "id": "football-college-football-2026-10-20-florida-international-panthers-middle-tennessee-blue-raiders",
-      "weekend": "2026-10-20",
-      "name": "Florida International Panthers v Middle Tennessee Blue Raiders",
-      "utc": "2026-10-20T23:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-20-delaware-blue-hens-missouri-state-bears",
       "weekend": "2026-10-20",
       "name": "Delaware Blue Hens v Missouri State Bears",
+      "utc": "2026-10-20T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-20-florida-international-panthers-middle-tennessee-blue-raiders",
+      "weekend": "2026-10-20",
+      "name": "Florida International Panthers v Middle Tennessee Blue Raiders",
       "utc": "2026-10-20T23:00:00Z"
     },
     {
@@ -3167,12 +3167,6 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-cincinnati-bearcats-texas-tech-red-raiders",
-      "weekend": "2026-10-24",
-      "name": "Cincinnati Bearcats v Texas Tech Red Raiders",
-      "utc": "2026-10-24T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-24-mississippi-state-bulldogs-oklahoma-sooners",
       "weekend": "2026-10-24",
       "name": "Mississippi State Bulldogs v Oklahoma Sooners",
@@ -3185,9 +3179,9 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-wisconsin-badgers-usc-trojans",
+      "id": "football-college-football-2026-10-24-cincinnati-bearcats-texas-tech-red-raiders",
       "weekend": "2026-10-24",
-      "name": "Wisconsin Badgers v USC Trojans",
+      "name": "Cincinnati Bearcats v Texas Tech Red Raiders",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
@@ -3197,9 +3191,15 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-utah-utes-houston-cougars",
+      "id": "football-college-football-2026-10-24-wisconsin-badgers-usc-trojans",
       "weekend": "2026-10-24",
-      "name": "Utah Utes v Houston Cougars",
+      "name": "Wisconsin Badgers v USC Trojans",
+      "utc": "2026-10-24T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-24-minnesota-golden-gophers-iowa-hawkeyes",
+      "weekend": "2026-10-24",
+      "name": "Minnesota Golden Gophers v Iowa Hawkeyes",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
@@ -3209,9 +3209,9 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-minnesota-golden-gophers-iowa-hawkeyes",
+      "id": "football-college-football-2026-10-24-utah-utes-houston-cougars",
       "weekend": "2026-10-24",
-      "name": "Minnesota Golden Gophers v Iowa Hawkeyes",
+      "name": "Utah Utes v Houston Cougars",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
@@ -3227,15 +3227,15 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-arizona-wildcats-iowa-state-cyclones",
-      "weekend": "2026-10-24",
-      "name": "Arizona Wildcats v Iowa State Cyclones",
-      "utc": "2026-10-24T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-24-oklahoma-state-cowboys-colorado-buffaloes",
       "weekend": "2026-10-24",
       "name": "Oklahoma State Cowboys v Colorado Buffaloes",
+      "utc": "2026-10-24T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-24-arizona-wildcats-iowa-state-cyclones",
+      "weekend": "2026-10-24",
+      "name": "Arizona Wildcats v Iowa State Cyclones",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
@@ -3245,9 +3245,9 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-north-carolina-tar-heels-syracuse-orange",
+      "id": "football-college-football-2026-10-24-tcu-horned-frogs-west-virginia-mountaineers",
       "weekend": "2026-10-24",
-      "name": "North Carolina Tar Heels v Syracuse Orange",
+      "name": "TCU Horned Frogs v West Virginia Mountaineers",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
@@ -3257,9 +3257,15 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-kent-state-golden-flashes-akron-zips",
+      "id": "football-college-football-2026-10-24-north-carolina-tar-heels-syracuse-orange",
       "weekend": "2026-10-24",
-      "name": "Kent State Golden Flashes v Akron Zips",
+      "name": "North Carolina Tar Heels v Syracuse Orange",
+      "utc": "2026-10-24T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-24-clemson-tigers-virginia-tech-hokies",
+      "weekend": "2026-10-24",
+      "name": "Clemson Tigers v Virginia Tech Hokies",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
@@ -3275,12 +3281,6 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-tcu-horned-frogs-west-virginia-mountaineers",
-      "weekend": "2026-10-24",
-      "name": "TCU Horned Frogs v West Virginia Mountaineers",
-      "utc": "2026-10-24T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-24-florida-atlantic-owls-rice-owls",
       "weekend": "2026-10-24",
       "name": "Florida Atlantic Owls v Rice Owls",
@@ -3293,21 +3293,15 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
+      "id": "football-college-football-2026-10-24-kent-state-golden-flashes-akron-zips",
+      "weekend": "2026-10-24",
+      "name": "Kent State Golden Flashes v Akron Zips",
+      "utc": "2026-10-24T04:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-10-24-northern-illinois-huskies-hawai-i-rainbow-warriors",
       "weekend": "2026-10-24",
       "name": "Northern Illinois Huskies v Hawai'i Rainbow Warriors",
-      "utc": "2026-10-24T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-24-clemson-tigers-virginia-tech-hokies",
-      "weekend": "2026-10-24",
-      "name": "Clemson Tigers v Virginia Tech Hokies",
-      "utc": "2026-10-24T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-24-central-michigan-chippewas-miami-oh-redhawks",
-      "weekend": "2026-10-24",
-      "name": "Central Michigan Chippewas v Miami (OH) RedHawks",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
@@ -3317,9 +3311,9 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-ohio-bobcats-eastern-michigan-eagles",
+      "id": "football-college-football-2026-10-24-buffalo-bulls-bowling-green-falcons",
       "weekend": "2026-10-24",
-      "name": "Ohio Bobcats v Eastern Michigan Eagles",
+      "name": "Buffalo Bulls v Bowling Green Falcons",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
@@ -3329,9 +3323,9 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-troy-trojans-ul-monroe-warhawks",
+      "id": "football-college-football-2026-10-24-ohio-bobcats-eastern-michigan-eagles",
       "weekend": "2026-10-24",
-      "name": "Troy Trojans v UL Monroe Warhawks",
+      "name": "Ohio Bobcats v Eastern Michigan Eagles",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
@@ -3341,15 +3335,21 @@
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-louisiana-tech-bulldogs-old-dominion-monarchs",
+      "id": "football-college-football-2026-10-24-central-michigan-chippewas-miami-oh-redhawks",
       "weekend": "2026-10-24",
-      "name": "Louisiana Tech Bulldogs v Old Dominion Monarchs",
+      "name": "Central Michigan Chippewas v Miami (OH) RedHawks",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-24-buffalo-bulls-bowling-green-falcons",
+      "id": "football-college-football-2026-10-24-troy-trojans-ul-monroe-warhawks",
       "weekend": "2026-10-24",
-      "name": "Buffalo Bulls v Bowling Green Falcons",
+      "name": "Troy Trojans v UL Monroe Warhawks",
+      "utc": "2026-10-24T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-24-louisiana-tech-bulldogs-old-dominion-monarchs",
+      "weekend": "2026-10-24",
+      "name": "Louisiana Tech Bulldogs v Old Dominion Monarchs",
       "utc": "2026-10-24T04:00:00Z"
     },
     {
@@ -3425,15 +3425,15 @@
       "utc": "2026-10-29T00:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-29-james-madison-dukes-troy-trojans",
-      "weekend": "2026-10-29",
-      "name": "James Madison Dukes v Troy Trojans",
-      "utc": "2026-10-29T23:30:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-29-north-texas-mean-green-florida-atlantic-owls",
       "weekend": "2026-10-29",
       "name": "North Texas Mean Green v Florida Atlantic Owls",
+      "utc": "2026-10-29T23:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-29-james-madison-dukes-troy-trojans",
+      "weekend": "2026-10-29",
+      "name": "James Madison Dukes v Troy Trojans",
       "utc": "2026-10-29T23:30:00Z"
     },
     {
@@ -3455,6 +3455,12 @@
       "utc": "2026-10-31T02:30:00Z"
     },
     {
+      "id": "football-college-football-2026-10-31-usc-trojans-ohio-state-buckeyes",
+      "weekend": "2026-10-31",
+      "name": "USC Trojans v Ohio State Buckeyes",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-10-31-oregon-ducks-northwestern-wildcats",
       "weekend": "2026-10-31",
       "name": "Oregon Ducks v Northwestern Wildcats",
@@ -3467,9 +3473,9 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-usc-trojans-ohio-state-buckeyes",
+      "id": "football-college-football-2026-10-31-indiana-hoosiers-minnesota-golden-gophers",
       "weekend": "2026-10-31",
-      "name": "USC Trojans v Ohio State Buckeyes",
+      "name": "Indiana Hoosiers v Minnesota Golden Gophers",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -3479,27 +3485,9 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-nebraska-cornhuskers-washington-huskies",
+      "id": "football-college-football-2026-10-31-ole-miss-rebels-auburn-tigers",
       "weekend": "2026-10-31",
-      "name": "Nebraska Cornhuskers v Washington Huskies",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-byu-cougars-arizona-state-sun-devils",
-      "weekend": "2026-10-31",
-      "name": "BYU Cougars v Arizona State Sun Devils",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-penn-state-nittany-lions-purdue-boilermakers",
-      "weekend": "2026-10-31",
-      "name": "Penn State Nittany Lions v Purdue Boilermakers",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-texas-tech-red-raiders-arizona-wildcats",
-      "weekend": "2026-10-31",
-      "name": "Texas Tech Red Raiders v Arizona Wildcats",
+      "name": "Ole Miss Rebels v Auburn Tigers",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -3509,57 +3497,15 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-ole-miss-rebels-auburn-tigers",
+      "id": "football-college-football-2026-10-31-texas-tech-red-raiders-arizona-wildcats",
       "weekend": "2026-10-31",
-      "name": "Ole Miss Rebels v Auburn Tigers",
+      "name": "Texas Tech Red Raiders v Arizona Wildcats",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-indiana-hoosiers-minnesota-golden-gophers",
+      "id": "football-college-football-2026-10-31-byu-cougars-arizona-state-sun-devils",
       "weekend": "2026-10-31",
-      "name": "Indiana Hoosiers v Minnesota Golden Gophers",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-iowa-state-cyclones-oklahoma-state-cowboys",
-      "weekend": "2026-10-31",
-      "name": "Iowa State Cyclones v Oklahoma State Cowboys",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-colorado-buffaloes-kansas-state-wildcats",
-      "weekend": "2026-10-31",
-      "name": "Colorado Buffaloes v Kansas State Wildcats",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-cincinnati-bearcats-utah-utes",
-      "weekend": "2026-10-31",
-      "name": "Cincinnati Bearcats v Utah Utes",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-tcu-horned-frogs-kansas-jayhawks",
-      "weekend": "2026-10-31",
-      "name": "TCU Horned Frogs v Kansas Jayhawks",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-louisville-cardinals-stanford-cardinal",
-      "weekend": "2026-10-31",
-      "name": "Louisville Cardinals v Stanford Cardinal",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-iowa-hawkeyes-wisconsin-badgers",
-      "weekend": "2026-10-31",
-      "name": "Iowa Hawkeyes v Wisconsin Badgers",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-arkansas-razorbacks-missouri-tigers",
-      "weekend": "2026-10-31",
-      "name": "Arkansas Razorbacks v Missouri Tigers",
+      "name": "BYU Cougars v Arizona State Sun Devils",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -3569,15 +3515,69 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-nc-state-wolfpack-california-golden-bears",
+      "id": "football-college-football-2026-10-31-nebraska-cornhuskers-washington-huskies",
       "weekend": "2026-10-31",
-      "name": "NC State Wolfpack v California Golden Bears",
+      "name": "Nebraska Cornhuskers v Washington Huskies",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-wake-forest-demon-deacons-virginia-cavaliers",
+      "id": "football-college-football-2026-10-31-syracuse-orange-smu-mustangs",
       "weekend": "2026-10-31",
-      "name": "Wake Forest Demon Deacons v Virginia Cavaliers",
+      "name": "Syracuse Orange v SMU Mustangs",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-penn-state-nittany-lions-purdue-boilermakers",
+      "weekend": "2026-10-31",
+      "name": "Penn State Nittany Lions v Purdue Boilermakers",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-cincinnati-bearcats-utah-utes",
+      "weekend": "2026-10-31",
+      "name": "Cincinnati Bearcats v Utah Utes",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-iowa-hawkeyes-wisconsin-badgers",
+      "weekend": "2026-10-31",
+      "name": "Iowa Hawkeyes v Wisconsin Badgers",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-louisville-cardinals-stanford-cardinal",
+      "weekend": "2026-10-31",
+      "name": "Louisville Cardinals v Stanford Cardinal",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-arkansas-razorbacks-missouri-tigers",
+      "weekend": "2026-10-31",
+      "name": "Arkansas Razorbacks v Missouri Tigers",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-tcu-horned-frogs-kansas-jayhawks",
+      "weekend": "2026-10-31",
+      "name": "TCU Horned Frogs v Kansas Jayhawks",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-colorado-buffaloes-kansas-state-wildcats",
+      "weekend": "2026-10-31",
+      "name": "Colorado Buffaloes v Kansas State Wildcats",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-iowa-state-cyclones-oklahoma-state-cowboys",
+      "weekend": "2026-10-31",
+      "name": "Iowa State Cyclones v Oklahoma State Cowboys",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-nc-state-wolfpack-california-golden-bears",
+      "weekend": "2026-10-31",
+      "name": "NC State Wolfpack v California Golden Bears",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -3587,9 +3587,27 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-south-florida-bulls-uab-blazers",
+      "id": "football-college-football-2026-10-31-duke-blue-devils-boston-college-eagles",
       "weekend": "2026-10-31",
-      "name": "South Florida Bulls v UAB Blazers",
+      "name": "Duke Blue Devils v Boston College Eagles",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-pittsburgh-panthers-georgia-tech-yellow-jackets",
+      "weekend": "2026-10-31",
+      "name": "Pittsburgh Panthers v Georgia Tech Yellow Jackets",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-wake-forest-demon-deacons-virginia-cavaliers",
+      "weekend": "2026-10-31",
+      "name": "Wake Forest Demon Deacons v Virginia Cavaliers",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-maryland-terrapins-illinois-fighting-illini",
+      "weekend": "2026-10-31",
+      "name": "Maryland Terrapins v Illinois Fighting Illini",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -3605,21 +3623,9 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-maryland-terrapins-illinois-fighting-illini",
-      "weekend": "2026-10-31",
-      "name": "Maryland Terrapins v Illinois Fighting Illini",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-31-memphis-tigers-army-black-knights",
       "weekend": "2026-10-31",
       "name": "Memphis Tigers v Army Black Knights",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-duke-blue-devils-boston-college-eagles",
-      "weekend": "2026-10-31",
-      "name": "Duke Blue Devils v Boston College Eagles",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -3629,15 +3635,9 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-pittsburgh-panthers-georgia-tech-yellow-jackets",
+      "id": "football-college-football-2026-10-31-south-florida-bulls-uab-blazers",
       "weekend": "2026-10-31",
-      "name": "Pittsburgh Panthers v Georgia Tech Yellow Jackets",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-10-31-georgia-state-panthers-coastal-carolina-chanticleers",
-      "weekend": "2026-10-31",
-      "name": "Georgia State Panthers v Coastal Carolina Chanticleers",
+      "name": "South Florida Bulls v UAB Blazers",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -3647,21 +3647,15 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-south-alabama-jaguars-louisiana-tech-bulldogs",
-      "weekend": "2026-10-31",
-      "name": "South Alabama Jaguars v Louisiana Tech Bulldogs",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-10-31-georgia-southern-eagles-app-state-mountaineers",
       "weekend": "2026-10-31",
       "name": "Georgia Southern Eagles v App State Mountaineers",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-old-dominion-monarchs-marshall-thundering-herd",
+      "id": "football-college-football-2026-10-31-georgia-state-panthers-coastal-carolina-chanticleers",
       "weekend": "2026-10-31",
-      "name": "Old Dominion Monarchs v Marshall Thundering Herd",
+      "name": "Georgia State Panthers v Coastal Carolina Chanticleers",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -3671,10 +3665,16 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "football-college-football-2026-10-31-western-michigan-broncos-bowling-green-falcons",
+      "id": "football-college-football-2026-10-31-old-dominion-monarchs-marshall-thundering-herd",
       "weekend": "2026-10-31",
-      "name": "Western Michigan Broncos v Bowling Green Falcons",
-      "utc": "2026-10-31T16:00:00Z"
+      "name": "Old Dominion Monarchs v Marshall Thundering Herd",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-south-alabama-jaguars-louisiana-tech-bulldogs",
+      "weekend": "2026-10-31",
+      "name": "South Alabama Jaguars v Louisiana Tech Bulldogs",
+      "utc": "2026-10-31T04:00:00Z"
     },
     {
       "id": "football-college-football-2026-10-31-navy-midshipmen-notre-dame-fighting-irish",
@@ -3683,9 +3683,27 @@
       "utc": "2026-10-31T16:00:00Z"
     },
     {
+      "id": "football-college-football-2026-10-31-western-michigan-broncos-bowling-green-falcons",
+      "weekend": "2026-10-31",
+      "name": "Western Michigan Broncos v Bowling Green Falcons",
+      "utc": "2026-10-31T16:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-air-force-falcons-uconn-huskies",
+      "weekend": "2026-10-31",
+      "name": "Air Force Falcons v UConn Huskies",
+      "utc": "2026-10-31T19:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-10-31-georgia-bulldogs-florida-gators",
       "weekend": "2026-10-31",
       "name": "Georgia Bulldogs v Florida Gators",
+      "utc": "2026-10-31T19:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-10-31-utah-state-aggies-colorado-state-rams",
+      "weekend": "2026-10-31",
+      "name": "Utah State Aggies v Colorado State Rams",
       "utc": "2026-10-31T19:30:00Z"
     },
     {
@@ -3791,15 +3809,15 @@
       "utc": "2026-11-07T03:15:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-ole-miss-rebels-georgia-bulldogs",
-      "weekend": "2026-11-07",
-      "name": "Ole Miss Rebels v Georgia Bulldogs",
-      "utc": "2026-11-07T05:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-07-ohio-state-buckeyes-oregon-ducks",
       "weekend": "2026-11-07",
       "name": "Ohio State Buckeyes v Oregon Ducks",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-ole-miss-rebels-georgia-bulldogs",
+      "weekend": "2026-11-07",
+      "name": "Ole Miss Rebels v Georgia Bulldogs",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
@@ -3815,33 +3833,9 @@
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-tennessee-volunteers-kentucky-wildcats",
+      "id": "football-college-football-2026-11-07-texas-tech-red-raiders-west-virginia-mountaineers",
       "weekend": "2026-11-07",
-      "name": "Tennessee Volunteers v Kentucky Wildcats",
-      "utc": "2026-11-07T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-07-georgia-tech-yellow-jackets-louisville-cardinals",
-      "weekend": "2026-11-07",
-      "name": "Georgia Tech Yellow Jackets v Louisville Cardinals",
-      "utc": "2026-11-07T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-07-houston-cougars-cincinnati-bearcats",
-      "weekend": "2026-11-07",
-      "name": "Houston Cougars v Cincinnati Bearcats",
-      "utc": "2026-11-07T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-07-michigan-wolverines-michigan-state-spartans",
-      "weekend": "2026-11-07",
-      "name": "Michigan Wolverines v Michigan State Spartans",
-      "utc": "2026-11-07T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-07-washington-huskies-penn-state-nittany-lions",
-      "weekend": "2026-11-07",
-      "name": "Washington Huskies v Penn State Nittany Lions",
+      "name": "Texas Tech Red Raiders v West Virginia Mountaineers",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
@@ -3851,9 +3845,15 @@
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-northwestern-wildcats-iowa-hawkeyes",
+      "id": "football-college-football-2026-11-07-florida-gators-oklahoma-sooners",
       "weekend": "2026-11-07",
-      "name": "Northwestern Wildcats v Iowa Hawkeyes",
+      "name": "Florida Gators v Oklahoma Sooners",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-michigan-wolverines-michigan-state-spartans",
+      "weekend": "2026-11-07",
+      "name": "Michigan Wolverines v Michigan State Spartans",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
@@ -3863,33 +3863,33 @@
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-kansas-jayhawks-ucf-knights",
+      "id": "football-college-football-2026-11-07-washington-huskies-penn-state-nittany-lions",
       "weekend": "2026-11-07",
-      "name": "Kansas Jayhawks v UCF Knights",
+      "name": "Washington Huskies v Penn State Nittany Lions",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-baylor-bears-iowa-state-cyclones",
+      "id": "football-college-football-2026-11-07-tennessee-volunteers-kentucky-wildcats",
       "weekend": "2026-11-07",
-      "name": "Baylor Bears v Iowa State Cyclones",
+      "name": "Tennessee Volunteers v Kentucky Wildcats",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-arizona-state-sun-devils-colorado-buffaloes",
+      "id": "football-college-football-2026-11-07-northwestern-wildcats-iowa-hawkeyes",
       "weekend": "2026-11-07",
-      "name": "Arizona State Sun Devils v Colorado Buffaloes",
+      "name": "Northwestern Wildcats v Iowa Hawkeyes",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-syracuse-orange-clemson-tigers",
+      "id": "football-college-football-2026-11-07-houston-cougars-cincinnati-bearcats",
       "weekend": "2026-11-07",
-      "name": "Syracuse Orange v Clemson Tigers",
+      "name": "Houston Cougars v Cincinnati Bearcats",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-kansas-state-wildcats-oklahoma-state-cowboys",
+      "id": "football-college-football-2026-11-07-georgia-tech-yellow-jackets-louisville-cardinals",
       "weekend": "2026-11-07",
-      "name": "Kansas State Wildcats v Oklahoma State Cowboys",
+      "name": "Georgia Tech Yellow Jackets v Louisville Cardinals",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
@@ -3905,15 +3905,33 @@
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-minnesota-golden-gophers-ucla-bruins",
+      "id": "football-college-football-2026-11-07-kansas-jayhawks-ucf-knights",
       "weekend": "2026-11-07",
-      "name": "Minnesota Golden Gophers v UCLA Bruins",
+      "name": "Kansas Jayhawks v UCF Knights",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-boston-college-eagles-florida-state-seminoles",
+      "id": "football-college-football-2026-11-07-arizona-state-sun-devils-colorado-buffaloes",
       "weekend": "2026-11-07",
-      "name": "Boston College Eagles v Florida State Seminoles",
+      "name": "Arizona State Sun Devils v Colorado Buffaloes",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-baylor-bears-iowa-state-cyclones",
+      "weekend": "2026-11-07",
+      "name": "Baylor Bears v Iowa State Cyclones",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-syracuse-orange-clemson-tigers",
+      "weekend": "2026-11-07",
+      "name": "Syracuse Orange v Clemson Tigers",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-kansas-state-wildcats-oklahoma-state-cowboys",
+      "weekend": "2026-11-07",
+      "name": "Kansas State Wildcats v Oklahoma State Cowboys",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
@@ -3923,9 +3941,15 @@
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-wisconsin-badgers-rutgers-scarlet-knights",
+      "id": "football-college-football-2026-11-07-boston-college-eagles-florida-state-seminoles",
       "weekend": "2026-11-07",
-      "name": "Wisconsin Badgers v Rutgers Scarlet Knights",
+      "name": "Boston College Eagles v Florida State Seminoles",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-minnesota-golden-gophers-ucla-bruins",
+      "weekend": "2026-11-07",
+      "name": "Minnesota Golden Gophers v UCLA Bruins",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
@@ -3935,21 +3959,9 @@
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-north-texas-mean-green-rice-owls",
+      "id": "football-college-football-2026-11-07-wisconsin-badgers-rutgers-scarlet-knights",
       "weekend": "2026-11-07",
-      "name": "North Texas Mean Green v Rice Owls",
-      "utc": "2026-11-07T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-07-utep-miners-hawai-i-rainbow-warriors",
-      "weekend": "2026-11-07",
-      "name": "UTEP Miners v Hawai'i Rainbow Warriors",
-      "utc": "2026-11-07T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-07-san-jos-state-spartans-northern-illinois-huskies",
-      "weekend": "2026-11-07",
-      "name": "San Jos\u00e9 State Spartans v Northern Illinois Huskies",
+      "name": "Wisconsin Badgers v Rutgers Scarlet Knights",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
@@ -3965,15 +3977,39 @@
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-coastal-carolina-chanticleers-old-dominion-monarchs",
+      "id": "football-college-football-2026-11-07-north-texas-mean-green-rice-owls",
       "weekend": "2026-11-07",
-      "name": "Coastal Carolina Chanticleers v Old Dominion Monarchs",
+      "name": "North Texas Mean Green v Rice Owls",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-san-jos-state-spartans-northern-illinois-huskies",
+      "weekend": "2026-11-07",
+      "name": "San Jos\u00e9 State Spartans v Northern Illinois Huskies",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-utep-miners-hawai-i-rainbow-warriors",
+      "weekend": "2026-11-07",
+      "name": "UTEP Miners v Hawai'i Rainbow Warriors",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-07-app-state-mountaineers-georgia-state-panthers",
       "weekend": "2026-11-07",
       "name": "App State Mountaineers v Georgia State Panthers",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-georgia-southern-eagles-marshall-thundering-herd",
+      "weekend": "2026-11-07",
+      "name": "Georgia Southern Eagles v Marshall Thundering Herd",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-coastal-carolina-chanticleers-old-dominion-monarchs",
+      "weekend": "2026-11-07",
+      "name": "Coastal Carolina Chanticleers v Old Dominion Monarchs",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
@@ -3989,15 +4025,15 @@
       "utc": "2026-11-07T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-wake-forest-demon-deacons-merrimack-warriors",
-      "weekend": "2026-11-07",
-      "name": "Wake Forest Demon Deacons v Merrimack Warriors",
-      "utc": "2026-11-07T17:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-07-uconn-huskies-north-carolina-tar-heels",
       "weekend": "2026-11-07",
       "name": "UConn Huskies v North Carolina Tar Heels",
+      "utc": "2026-11-07T17:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-wake-forest-demon-deacons-merrimack-warriors",
+      "weekend": "2026-11-07",
+      "name": "Wake Forest Demon Deacons v Merrimack Warriors",
       "utc": "2026-11-07T17:00:00Z"
     },
     {
@@ -4013,15 +4049,15 @@
       "utc": "2026-11-07T20:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-07-middle-tennessee-blue-raiders-western-kentucky-hilltoppers",
-      "weekend": "2026-11-07",
-      "name": "Middle Tennessee Blue Raiders v Western Kentucky Hilltoppers",
-      "utc": "2026-11-07T20:30:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-07-navy-midshipmen-temple-owls",
       "weekend": "2026-11-07",
       "name": "Navy Midshipmen v Temple Owls",
+      "utc": "2026-11-07T20:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-07-middle-tennessee-blue-raiders-western-kentucky-hilltoppers",
+      "weekend": "2026-11-07",
+      "name": "Middle Tennessee Blue Raiders v Western Kentucky Hilltoppers",
       "utc": "2026-11-07T20:30:00Z"
     },
     {
@@ -4049,15 +4085,15 @@
       "utc": "2026-11-08T00:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-08-army-black-knights-air-force-falcons",
-      "weekend": "2026-11-08",
-      "name": "Army Black Knights v Air Force Falcons",
-      "utc": "2026-11-08T00:30:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-08-notre-dame-fighting-irish-miami-hurricanes",
       "weekend": "2026-11-08",
       "name": "Notre Dame Fighting Irish v Miami Hurricanes",
+      "utc": "2026-11-08T00:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-08-army-black-knights-air-force-falcons",
+      "weekend": "2026-11-08",
+      "name": "Army Black Knights v Air Force Falcons",
       "utc": "2026-11-08T00:30:00Z"
     },
     {
@@ -4097,15 +4133,15 @@
       "utc": "2026-11-11T00:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-11-central-michigan-chippewas-sacramento-state-hornets",
-      "weekend": "2026-11-11",
-      "name": "Central Michigan Chippewas v Sacramento State Hornets",
-      "utc": "2026-11-11T05:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-11-ball-state-cardinals-buffalo-bulls",
       "weekend": "2026-11-11",
       "name": "Ball State Cardinals v Buffalo Bulls",
+      "utc": "2026-11-11T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-11-central-michigan-chippewas-sacramento-state-hornets",
+      "weekend": "2026-11-11",
+      "name": "Central Michigan Chippewas v Sacramento State Hornets",
       "utc": "2026-11-11T05:00:00Z"
     },
     {
@@ -4113,6 +4149,12 @@
       "weekend": "2026-11-11",
       "name": "Toledo Rockets v Massachusetts Minutemen",
       "utc": "2026-11-11T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-13-south-florida-bulls-memphis-tigers",
+      "weekend": "2026-11-13",
+      "name": "South Florida Bulls v Memphis Tigers",
+      "utc": "2026-11-13T01:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-13-ul-monroe-warhawks-louisiana-ragin-cajuns",
@@ -4127,21 +4169,27 @@
       "utc": "2026-11-14T00:00:00Z"
     },
     {
+      "id": "football-college-football-2026-11-14-ucla-bruins-illinois-fighting-illini",
+      "weekend": "2026-11-14",
+      "name": "UCLA Bruins v Illinois Fighting Illini",
+      "utc": "2026-11-14T02:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-11-14-colorado-buffaloes-houston-cougars",
       "weekend": "2026-11-14",
       "name": "Colorado Buffaloes v Houston Cougars",
       "utc": "2026-11-14T03:15:00Z"
     },
     {
-      "id": "football-college-football-2026-11-14-oregon-ducks-michigan-wolverines",
-      "weekend": "2026-11-14",
-      "name": "Oregon Ducks v Michigan Wolverines",
-      "utc": "2026-11-14T05:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-14-ohio-state-buckeyes-northwestern-wildcats",
       "weekend": "2026-11-14",
       "name": "Ohio State Buckeyes v Northwestern Wildcats",
+      "utc": "2026-11-14T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-14-oregon-ducks-michigan-wolverines",
+      "weekend": "2026-11-14",
+      "name": "Oregon Ducks v Michigan Wolverines",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
@@ -4181,6 +4229,12 @@
       "utc": "2026-11-14T05:00:00Z"
     },
     {
+      "id": "football-college-football-2026-11-14-oklahoma-state-cowboys-texas-tech-red-raiders",
+      "weekend": "2026-11-14",
+      "name": "Oklahoma State Cowboys v Texas Tech Red Raiders",
+      "utc": "2026-11-14T05:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-11-14-vanderbilt-commodores-alabama-crimson-tide",
       "weekend": "2026-11-14",
       "name": "Vanderbilt Commodores v Alabama Crimson Tide",
@@ -4190,12 +4244,6 @@
       "id": "football-college-football-2026-11-14-byu-cougars-baylor-bears",
       "weekend": "2026-11-14",
       "name": "BYU Cougars v Baylor Bears",
-      "utc": "2026-11-14T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-14-oklahoma-state-cowboys-texas-tech-red-raiders",
-      "weekend": "2026-11-14",
-      "name": "Oklahoma State Cowboys v Texas Tech Red Raiders",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
@@ -4211,15 +4259,21 @@
       "utc": "2026-11-14T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-14-arizona-wildcats-utah-utes",
+      "id": "football-college-football-2026-11-14-smu-mustangs-wake-forest-demon-deacons",
       "weekend": "2026-11-14",
-      "name": "Arizona Wildcats v Utah Utes",
+      "name": "SMU Mustangs v Wake Forest Demon Deacons",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-14-iowa-hawkeyes-purdue-boilermakers",
       "weekend": "2026-11-14",
       "name": "Iowa Hawkeyes v Purdue Boilermakers",
+      "utc": "2026-11-14T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-14-arizona-wildcats-utah-utes",
+      "weekend": "2026-11-14",
+      "name": "Arizona Wildcats v Utah Utes",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
@@ -4241,9 +4295,15 @@
       "utc": "2026-11-14T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-14-kentucky-wildcats-florida-gators",
+      "id": "football-college-football-2026-11-14-west-virginia-mountaineers-kansas-jayhawks",
       "weekend": "2026-11-14",
-      "name": "Kentucky Wildcats v Florida Gators",
+      "name": "West Virginia Mountaineers v Kansas Jayhawks",
+      "utc": "2026-11-14T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-14-tcu-horned-frogs-kansas-state-wildcats",
+      "weekend": "2026-11-14",
+      "name": "TCU Horned Frogs v Kansas State Wildcats",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
@@ -4253,9 +4313,15 @@
       "utc": "2026-11-14T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-14-tcu-horned-frogs-kansas-state-wildcats",
+      "id": "football-college-football-2026-11-14-mississippi-state-bulldogs-auburn-tigers",
       "weekend": "2026-11-14",
-      "name": "TCU Horned Frogs v Kansas State Wildcats",
+      "name": "Mississippi State Bulldogs v Auburn Tigers",
+      "utc": "2026-11-14T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-14-kentucky-wildcats-florida-gators",
+      "weekend": "2026-11-14",
+      "name": "Kentucky Wildcats v Florida Gators",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
@@ -4271,27 +4337,27 @@
       "utc": "2026-11-14T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-14-nc-state-wolfpack-syracuse-orange",
-      "weekend": "2026-11-14",
-      "name": "NC State Wolfpack v Syracuse Orange",
-      "utc": "2026-11-14T05:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-14-virginia-tech-hokies-stanford-cardinal",
       "weekend": "2026-11-14",
       "name": "Virginia Tech Hokies v Stanford Cardinal",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-14-mississippi-state-bulldogs-auburn-tigers",
+      "id": "football-college-football-2026-11-14-nc-state-wolfpack-syracuse-orange",
       "weekend": "2026-11-14",
-      "name": "Mississippi State Bulldogs v Auburn Tigers",
+      "name": "NC State Wolfpack v Syracuse Orange",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-14-maryland-terrapins-wisconsin-badgers",
       "weekend": "2026-11-14",
       "name": "Maryland Terrapins v Wisconsin Badgers",
+      "utc": "2026-11-14T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-14-charlotte-49ers-east-carolina-pirates",
+      "weekend": "2026-11-14",
+      "name": "Charlotte 49ers v East Carolina Pirates",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
@@ -4307,9 +4373,9 @@
       "utc": "2026-11-14T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-14-charlotte-49ers-east-carolina-pirates",
+      "id": "football-college-football-2026-11-14-rice-owls-tulane-green-wave",
       "weekend": "2026-11-14",
-      "name": "Charlotte 49ers v East Carolina Pirates",
+      "name": "Rice Owls v Tulane Green Wave",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
@@ -4319,21 +4385,9 @@
       "utc": "2026-11-14T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-14-rice-owls-tulane-green-wave",
-      "weekend": "2026-11-14",
-      "name": "Rice Owls v Tulane Green Wave",
-      "utc": "2026-11-14T05:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-14-temple-owls-uab-blazers",
       "weekend": "2026-11-14",
       "name": "Temple Owls v UAB Blazers",
-      "utc": "2026-11-14T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-14-northern-illinois-huskies-nevada-wolf-pack",
-      "weekend": "2026-11-14",
-      "name": "Northern Illinois Huskies v Nevada Wolf Pack",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
@@ -4343,9 +4397,27 @@
       "utc": "2026-11-14T05:00:00Z"
     },
     {
+      "id": "football-college-football-2026-11-14-northern-illinois-huskies-nevada-wolf-pack",
+      "weekend": "2026-11-14",
+      "name": "Northern Illinois Huskies v Nevada Wolf Pack",
+      "utc": "2026-11-14T05:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-11-14-marshall-thundering-herd-app-state-mountaineers",
       "weekend": "2026-11-14",
       "name": "Marshall Thundering Herd v App State Mountaineers",
+      "utc": "2026-11-14T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-14-coastal-carolina-chanticleers-arkansas-state-red-wolves",
+      "weekend": "2026-11-14",
+      "name": "Coastal Carolina Chanticleers v Arkansas State Red Wolves",
+      "utc": "2026-11-14T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-14-louisiana-tech-bulldogs-southern-miss-golden-eagles",
+      "weekend": "2026-11-14",
+      "name": "Louisiana Tech Bulldogs v Southern Miss Golden Eagles",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
@@ -4355,9 +4427,9 @@
       "utc": "2026-11-14T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-14-louisiana-tech-bulldogs-southern-miss-golden-eagles",
+      "id": "football-college-football-2026-11-14-south-alabama-jaguars-troy-trojans",
       "weekend": "2026-11-14",
-      "name": "Louisiana Tech Bulldogs v Southern Miss Golden Eagles",
+      "name": "South Alabama Jaguars v Troy Trojans",
       "utc": "2026-11-14T05:00:00Z"
     },
     {
@@ -4373,27 +4445,27 @@
       "utc": "2026-11-14T19:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-14-delaware-blue-hens-florida-international-panthers",
-      "weekend": "2026-11-14",
-      "name": "Delaware Blue Hens v Florida International Panthers",
-      "utc": "2026-11-14T20:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-14-missouri-state-bears-new-mexico-state-aggies",
       "weekend": "2026-11-14",
       "name": "Missouri State Bears v New Mexico State Aggies",
       "utc": "2026-11-14T20:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-14-western-kentucky-hilltoppers-jacksonville-state-gamecocks",
+      "id": "football-college-football-2026-11-14-delaware-blue-hens-florida-international-panthers",
       "weekend": "2026-11-14",
-      "name": "Western Kentucky Hilltoppers v Jacksonville State Gamecocks",
-      "utc": "2026-11-14T20:30:00Z"
+      "name": "Delaware Blue Hens v Florida International Panthers",
+      "utc": "2026-11-14T20:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-14-notre-dame-fighting-irish-boston-college-eagles",
       "weekend": "2026-11-14",
       "name": "Notre Dame Fighting Irish v Boston College Eagles",
+      "utc": "2026-11-14T20:30:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-14-western-kentucky-hilltoppers-jacksonville-state-gamecocks",
+      "weekend": "2026-11-14",
+      "name": "Western Kentucky Hilltoppers v Jacksonville State Gamecocks",
       "utc": "2026-11-14T20:30:00Z"
     },
     {
@@ -4413,6 +4485,12 @@
       "weekend": "2026-11-14",
       "name": "Boise State Broncos v Oregon State Beavers",
       "utc": "2026-11-14T23:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-15-air-force-falcons-san-jos-state-spartans",
+      "weekend": "2026-11-15",
+      "name": "Air Force Falcons v San Jos\u00e9 State Spartans",
+      "utc": "2026-11-15T00:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-15-new-mexico-lobos-unlv-rebels",
@@ -4439,15 +4517,15 @@
       "utc": "2026-11-15T04:59:00Z"
     },
     {
-      "id": "football-college-football-2026-11-18-western-michigan-broncos-eastern-michigan-eagles",
-      "weekend": "2026-11-18",
-      "name": "Western Michigan Broncos v Eastern Michigan Eagles",
-      "utc": "2026-11-18T00:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-18-ohio-bobcats-ball-state-cardinals",
       "weekend": "2026-11-18",
       "name": "Ohio Bobcats v Ball State Cardinals",
+      "utc": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-18-western-michigan-broncos-eastern-michigan-eagles",
+      "weekend": "2026-11-18",
+      "name": "Western Michigan Broncos v Eastern Michigan Eagles",
       "utc": "2026-11-18T00:00:00Z"
     },
     {
@@ -4460,6 +4538,12 @@
       "id": "football-college-football-2026-11-18-buffalo-bulls-central-michigan-chippewas",
       "weekend": "2026-11-18",
       "name": "Buffalo Bulls v Central Michigan Chippewas",
+      "utc": "2026-11-18T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-18-massachusetts-minutemen-akron-zips",
+      "weekend": "2026-11-18",
+      "name": "Massachusetts Minutemen v Akron Zips",
       "utc": "2026-11-18T05:00:00Z"
     },
     {
@@ -4505,6 +4589,18 @@
       "utc": "2026-11-21T05:00:00Z"
     },
     {
+      "id": "football-college-football-2026-11-21-nebraska-cornhuskers-ohio-state-buckeyes",
+      "weekend": "2026-11-21",
+      "name": "Nebraska Cornhuskers v Ohio State Buckeyes",
+      "utc": "2026-11-21T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-21-texas-longhorns-arkansas-razorbacks",
+      "weekend": "2026-11-21",
+      "name": "Texas Longhorns v Arkansas Razorbacks",
+      "utc": "2026-11-21T05:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-11-21-washington-huskies-indiana-hoosiers",
       "weekend": "2026-11-21",
       "name": "Washington Huskies v Indiana Hoosiers",
@@ -4517,21 +4613,15 @@
       "utc": "2026-11-21T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-21-texas-longhorns-arkansas-razorbacks",
-      "weekend": "2026-11-21",
-      "name": "Texas Longhorns v Arkansas Razorbacks",
-      "utc": "2026-11-21T05:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-21-oklahoma-sooners-texas-a-m-aggies",
       "weekend": "2026-11-21",
       "name": "Oklahoma Sooners v Texas A&M Aggies",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-21-baylor-bears-texas-tech-red-raiders",
+      "id": "football-college-football-2026-11-21-tennessee-volunteers-lsu-tigers",
       "weekend": "2026-11-21",
-      "name": "Baylor Bears v Texas Tech Red Raiders",
+      "name": "Tennessee Volunteers v LSU Tigers",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
@@ -4541,21 +4631,9 @@
       "utc": "2026-11-21T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-21-kansas-jayhawks-byu-cougars",
+      "id": "football-college-football-2026-11-21-baylor-bears-texas-tech-red-raiders",
       "weekend": "2026-11-21",
-      "name": "Kansas Jayhawks v BYU Cougars",
-      "utc": "2026-11-21T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-21-tcu-horned-frogs-utah-utes",
-      "weekend": "2026-11-21",
-      "name": "TCU Horned Frogs v Utah Utes",
-      "utc": "2026-11-21T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-21-louisville-cardinals-pittsburgh-panthers",
-      "weekend": "2026-11-21",
-      "name": "Louisville Cardinals v Pittsburgh Panthers",
+      "name": "Baylor Bears v Texas Tech Red Raiders",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
@@ -4571,15 +4649,27 @@
       "utc": "2026-11-21T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-21-west-virginia-mountaineers-houston-cougars",
+      "id": "football-college-football-2026-11-21-tcu-horned-frogs-utah-utes",
       "weekend": "2026-11-21",
-      "name": "West Virginia Mountaineers v Houston Cougars",
+      "name": "TCU Horned Frogs v Utah Utes",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-21-illinois-fighting-illini-iowa-hawkeyes",
       "weekend": "2026-11-21",
       "name": "Illinois Fighting Illini v Iowa Hawkeyes",
+      "utc": "2026-11-21T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-21-west-virginia-mountaineers-houston-cougars",
+      "weekend": "2026-11-21",
+      "name": "West Virginia Mountaineers v Houston Cougars",
+      "utc": "2026-11-21T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-21-louisville-cardinals-pittsburgh-panthers",
+      "weekend": "2026-11-21",
+      "name": "Louisville Cardinals v Pittsburgh Panthers",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
@@ -4601,6 +4691,18 @@
       "utc": "2026-11-21T05:00:00Z"
     },
     {
+      "id": "football-college-football-2026-11-21-cincinnati-bearcats-colorado-buffaloes",
+      "weekend": "2026-11-21",
+      "name": "Cincinnati Bearcats v Colorado Buffaloes",
+      "utc": "2026-11-21T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-21-kansas-jayhawks-byu-cougars",
+      "weekend": "2026-11-21",
+      "name": "Kansas Jayhawks v BYU Cougars",
+      "utc": "2026-11-21T05:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-11-21-arizona-state-sun-devils-oklahoma-state-cowboys",
       "weekend": "2026-11-21",
       "name": "Arizona State Sun Devils v Oklahoma State Cowboys",
@@ -4613,15 +4715,15 @@
       "utc": "2026-11-21T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-21-cincinnati-bearcats-colorado-buffaloes",
-      "weekend": "2026-11-21",
-      "name": "Cincinnati Bearcats v Colorado Buffaloes",
-      "utc": "2026-11-21T05:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-21-virginia-cavaliers-north-carolina-tar-heels",
       "weekend": "2026-11-21",
       "name": "Virginia Cavaliers v North Carolina Tar Heels",
+      "utc": "2026-11-21T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-21-california-golden-bears-stanford-cardinal",
+      "weekend": "2026-11-21",
+      "name": "California Golden Bears v Stanford Cardinal",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
@@ -4631,9 +4733,9 @@
       "utc": "2026-11-21T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-21-california-golden-bears-stanford-cardinal",
+      "id": "football-college-football-2026-11-21-boston-college-eagles-syracuse-orange",
       "weekend": "2026-11-21",
-      "name": "California Golden Bears v Stanford Cardinal",
+      "name": "Boston College Eagles v Syracuse Orange",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
@@ -4655,15 +4757,15 @@
       "utc": "2026-11-21T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-21-tulane-green-wave-north-texas-mean-green",
-      "weekend": "2026-11-21",
-      "name": "Tulane Green Wave v North Texas Mean Green",
-      "utc": "2026-11-21T05:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-21-florida-atlantic-owls-south-florida-bulls",
       "weekend": "2026-11-21",
       "name": "Florida Atlantic Owls v South Florida Bulls",
+      "utc": "2026-11-21T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-21-tulane-green-wave-north-texas-mean-green",
+      "weekend": "2026-11-21",
+      "name": "Tulane Green Wave v North Texas Mean Green",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
@@ -4673,33 +4775,27 @@
       "utc": "2026-11-21T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-21-app-state-mountaineers-ul-monroe-warhawks",
-      "weekend": "2026-11-21",
-      "name": "App State Mountaineers v UL Monroe Warhawks",
-      "utc": "2026-11-21T05:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-21-nevada-wolf-pack-hawai-i-rainbow-warriors",
       "weekend": "2026-11-21",
       "name": "Nevada Wolf Pack v Hawai'i Rainbow Warriors",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-21-louisiana-tech-bulldogs-arkansas-state-red-wolves",
+      "id": "football-college-football-2026-11-21-app-state-mountaineers-ul-monroe-warhawks",
       "weekend": "2026-11-21",
-      "name": "Louisiana Tech Bulldogs v Arkansas State Red Wolves",
-      "utc": "2026-11-21T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-21-troy-trojans-georgia-southern-eagles",
-      "weekend": "2026-11-21",
-      "name": "Troy Trojans v Georgia Southern Eagles",
+      "name": "App State Mountaineers v UL Monroe Warhawks",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-21-louisiana-ragin-cajuns-coastal-carolina-chanticleers",
       "weekend": "2026-11-21",
       "name": "Louisiana Ragin' Cajuns v Coastal Carolina Chanticleers",
+      "utc": "2026-11-21T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-21-louisiana-tech-bulldogs-arkansas-state-red-wolves",
+      "weekend": "2026-11-21",
+      "name": "Louisiana Tech Bulldogs v Arkansas State Red Wolves",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
@@ -4712,6 +4808,12 @@
       "id": "football-college-football-2026-11-21-southern-miss-golden-eagles-south-alabama-jaguars",
       "weekend": "2026-11-21",
       "name": "Southern Miss Golden Eagles v South Alabama Jaguars",
+      "utc": "2026-11-21T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-21-troy-trojans-georgia-southern-eagles",
+      "weekend": "2026-11-21",
+      "name": "Troy Trojans v Georgia Southern Eagles",
       "utc": "2026-11-21T05:00:00Z"
     },
     {
@@ -4733,16 +4835,22 @@
       "utc": "2026-11-21T17:00:00Z"
     },
     {
+      "id": "football-college-football-2026-11-21-mississippi-state-bulldogs-tennessee-tech-golden-eagles",
+      "weekend": "2026-11-21",
+      "name": "Mississippi State Bulldogs v Tennessee Tech Golden Eagles",
+      "utc": "2026-11-21T18:00:00Z"
+    },
+    {
       "id": "football-college-football-2026-11-21-liberty-flames-western-kentucky-hilltoppers",
       "weekend": "2026-11-21",
       "name": "Liberty Flames v Western Kentucky Hilltoppers",
       "utc": "2026-11-21T18:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-21-mississippi-state-bulldogs-tennessee-tech-golden-eagles",
+      "id": "football-college-football-2026-11-21-jacksonville-state-gamecocks-missouri-state-bears",
       "weekend": "2026-11-21",
-      "name": "Mississippi State Bulldogs v Tennessee Tech Golden Eagles",
-      "utc": "2026-11-21T18:00:00Z"
+      "name": "Jacksonville State Gamecocks v Missouri State Bears",
+      "utc": "2026-11-21T19:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-21-alabama-crimson-tide-chattanooga-mocs",
@@ -4757,21 +4865,15 @@
       "utc": "2026-11-21T19:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-21-jacksonville-state-gamecocks-missouri-state-bears",
+      "id": "football-college-football-2026-11-21-kennesaw-state-owls-florida-international-panthers",
       "weekend": "2026-11-21",
-      "name": "Jacksonville State Gamecocks v Missouri State Bears",
-      "utc": "2026-11-21T19:00:00Z"
+      "name": "Kennesaw State Owls v Florida International Panthers",
+      "utc": "2026-11-21T20:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-21-new-mexico-state-aggies-delaware-blue-hens",
       "weekend": "2026-11-21",
       "name": "New Mexico State Aggies v Delaware Blue Hens",
-      "utc": "2026-11-21T20:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-21-kennesaw-state-owls-florida-international-panthers",
-      "weekend": "2026-11-21",
-      "name": "Kennesaw State Owls v Florida International Panthers",
       "utc": "2026-11-21T20:00:00Z"
     },
     {
@@ -4805,6 +4907,12 @@
       "utc": "2026-11-22T00:00:00Z"
     },
     {
+      "id": "football-college-football-2026-11-22-notre-dame-fighting-irish-smu-mustangs",
+      "weekend": "2026-11-22",
+      "name": "Notre Dame Fighting Irish v SMU Mustangs",
+      "utc": "2026-11-22T00:30:00Z"
+    },
+    {
       "id": "football-college-football-2026-11-22-fresno-state-bulldogs-colorado-state-rams",
       "weekend": "2026-11-22",
       "name": "Fresno State Bulldogs v Colorado State Rams",
@@ -4815,6 +4923,12 @@
       "weekend": "2026-11-22",
       "name": "Wyoming Cowboys v New Mexico Lobos",
       "utc": "2026-11-22T02:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-22-boise-state-broncos-san-diego-state-aztecs",
+      "weekend": "2026-11-22",
+      "name": "Boise State Broncos v San Diego State Aztecs",
+      "utc": "2026-11-22T02:30:00Z"
     },
     {
       "id": "football-college-football-2026-11-22-oregon-state-beavers-utah-state-aggies",
@@ -4841,9 +4955,9 @@
       "utc": "2026-11-27T01:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-27-memphis-tigers-temple-owls",
+      "id": "football-college-football-2026-11-27-south-florida-bulls-tulane-green-wave",
       "weekend": "2026-11-27",
-      "name": "Memphis Tigers v Temple Owls",
+      "name": "South Florida Bulls v Tulane Green Wave",
       "utc": "2026-11-27T05:00:00Z"
     },
     {
@@ -4853,16 +4967,10 @@
       "utc": "2026-11-27T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-27-south-florida-bulls-tulane-green-wave",
+      "id": "football-college-football-2026-11-27-memphis-tigers-temple-owls",
       "weekend": "2026-11-27",
-      "name": "South Florida Bulls v Tulane Green Wave",
+      "name": "Memphis Tigers v Temple Owls",
       "utc": "2026-11-27T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-27-ole-miss-rebels-mississippi-state-bulldogs",
-      "weekend": "2026-11-27",
-      "name": "Ole Miss Rebels v Mississippi State Bulldogs",
-      "utc": "2026-11-27T17:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-27-iowa-hawkeyes-nebraska-cornhuskers",
@@ -4880,6 +4988,12 @@
       "id": "football-college-football-2026-11-27-ohio-bobcats-toledo-rockets",
       "weekend": "2026-11-27",
       "name": "Ohio Bobcats v Toledo Rockets",
+      "utc": "2026-11-27T17:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-27-ole-miss-rebels-mississippi-state-bulldogs",
+      "weekend": "2026-11-27",
+      "name": "Ole Miss Rebels v Mississippi State Bulldogs",
       "utc": "2026-11-27T17:00:00Z"
     },
     {
@@ -4961,15 +5075,15 @@
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-alabama-crimson-tide-auburn-tigers",
+      "id": "football-college-football-2026-11-28-byu-cougars-cincinnati-bearcats",
       "weekend": "2026-11-28",
-      "name": "Alabama Crimson Tide v Auburn Tigers",
+      "name": "BYU Cougars v Cincinnati Bearcats",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-ucla-bruins-usc-trojans",
+      "id": "football-college-football-2026-11-28-alabama-crimson-tide-auburn-tigers",
       "weekend": "2026-11-28",
-      "name": "UCLA Bruins v USC Trojans",
+      "name": "Alabama Crimson Tide v Auburn Tigers",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
@@ -4979,15 +5093,9 @@
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-byu-cougars-cincinnati-bearcats",
+      "id": "football-college-football-2026-11-28-ucla-bruins-usc-trojans",
       "weekend": "2026-11-28",
-      "name": "BYU Cougars v Cincinnati Bearcats",
-      "utc": "2026-11-28T05:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-11-28-vanderbilt-commodores-tennessee-volunteers",
-      "weekend": "2026-11-28",
-      "name": "Vanderbilt Commodores v Tennessee Volunteers",
+      "name": "UCLA Bruins v USC Trojans",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
@@ -4997,15 +5105,21 @@
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-kentucky-wildcats-louisville-cardinals",
-      "weekend": "2026-11-28",
-      "name": "Kentucky Wildcats v Louisville Cardinals",
-      "utc": "2026-11-28T05:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-28-houston-cougars-baylor-bears",
       "weekend": "2026-11-28",
       "name": "Houston Cougars v Baylor Bears",
+      "utc": "2026-11-28T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-28-vanderbilt-commodores-tennessee-volunteers",
+      "weekend": "2026-11-28",
+      "name": "Vanderbilt Commodores v Tennessee Volunteers",
+      "utc": "2026-11-28T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-28-kentucky-wildcats-louisville-cardinals",
+      "weekend": "2026-11-28",
+      "name": "Kentucky Wildcats v Louisville Cardinals",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
@@ -5015,9 +5129,15 @@
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-wake-forest-demon-deacons-duke-blue-devils",
+      "id": "football-college-football-2026-11-28-arizona-wildcats-arizona-state-sun-devils",
       "weekend": "2026-11-28",
-      "name": "Wake Forest Demon Deacons v Duke Blue Devils",
+      "name": "Arizona Wildcats v Arizona State Sun Devils",
+      "utc": "2026-11-28T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-28-colorado-buffaloes-ucf-knights",
+      "weekend": "2026-11-28",
+      "name": "Colorado Buffaloes v UCF Knights",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
@@ -5033,9 +5153,9 @@
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-virginia-tech-hokies-virginia-cavaliers",
+      "id": "football-college-football-2026-11-28-wake-forest-demon-deacons-duke-blue-devils",
       "weekend": "2026-11-28",
-      "name": "Virginia Tech Hokies v Virginia Cavaliers",
+      "name": "Wake Forest Demon Deacons v Duke Blue Devils",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
@@ -5051,9 +5171,9 @@
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-colorado-state-rams-tbd",
+      "id": "football-college-football-2026-11-28-virginia-tech-hokies-virginia-cavaliers",
       "weekend": "2026-11-28",
-      "name": "Colorado State Rams v TBD",
+      "name": "Virginia Tech Hokies v Virginia Cavaliers",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
@@ -5069,15 +5189,15 @@
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-fresno-state-bulldogs-tbd",
+      "id": "football-college-football-2026-11-28-colorado-state-rams-tbd",
       "weekend": "2026-11-28",
-      "name": "Fresno State Bulldogs v TBD",
+      "name": "Colorado State Rams v TBD",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-wyoming-cowboys-uconn-huskies",
+      "id": "football-college-football-2026-11-28-fresno-state-bulldogs-tbd",
       "weekend": "2026-11-28",
-      "name": "Wyoming Cowboys v UConn Huskies",
+      "name": "Fresno State Bulldogs v TBD",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
@@ -5087,9 +5207,9 @@
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-washington-state-cougars-tbd",
+      "id": "football-college-football-2026-11-28-wyoming-cowboys-uconn-huskies",
       "weekend": "2026-11-28",
-      "name": "Washington State Cougars v TBD",
+      "name": "Wyoming Cowboys v UConn Huskies",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
@@ -5105,9 +5225,9 @@
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-james-madison-dukes-coastal-carolina-chanticleers",
+      "id": "football-college-football-2026-11-28-charlotte-49ers-navy-midshipmen",
       "weekend": "2026-11-28",
-      "name": "James Madison Dukes v Coastal Carolina Chanticleers",
+      "name": "Charlotte 49ers v Navy Midshipmen",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
@@ -5117,27 +5237,27 @@
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-charlotte-49ers-navy-midshipmen",
-      "weekend": "2026-11-28",
-      "name": "Charlotte 49ers v Navy Midshipmen",
-      "utc": "2026-11-28T05:00:00Z"
-    },
-    {
       "id": "football-college-football-2026-11-28-northern-illinois-huskies-utep-miners",
       "weekend": "2026-11-28",
       "name": "Northern Illinois Huskies v UTEP Miners",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-georgia-southern-eagles-louisiana-tech-bulldogs",
+      "id": "football-college-football-2026-11-28-james-madison-dukes-coastal-carolina-chanticleers",
       "weekend": "2026-11-28",
-      "name": "Georgia Southern Eagles v Louisiana Tech Bulldogs",
+      "name": "James Madison Dukes v Coastal Carolina Chanticleers",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-28-georgia-state-panthers-louisiana-ragin-cajuns",
       "weekend": "2026-11-28",
       "name": "Georgia State Panthers v Louisiana Ragin' Cajuns",
+      "utc": "2026-11-28T05:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-28-washington-state-cougars-tbd",
+      "weekend": "2026-11-28",
+      "name": "Washington State Cougars v TBD",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
@@ -5153,15 +5273,21 @@
       "utc": "2026-11-28T05:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-ball-state-cardinals-central-michigan-chippewas",
+      "id": "football-college-football-2026-11-28-georgia-southern-eagles-louisiana-tech-bulldogs",
       "weekend": "2026-11-28",
-      "name": "Ball State Cardinals v Central Michigan Chippewas",
-      "utc": "2026-11-28T17:00:00Z"
+      "name": "Georgia Southern Eagles v Louisiana Tech Bulldogs",
+      "utc": "2026-11-28T05:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-28-ohio-state-buckeyes-michigan-wolverines",
       "weekend": "2026-11-28",
       "name": "Ohio State Buckeyes v Michigan Wolverines",
+      "utc": "2026-11-28T17:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-28-ball-state-cardinals-central-michigan-chippewas",
+      "weekend": "2026-11-28",
+      "name": "Ball State Cardinals v Central Michigan Chippewas",
       "utc": "2026-11-28T17:00:00Z"
     },
     {
@@ -5177,15 +5303,21 @@
       "utc": "2026-11-28T18:00:00Z"
     },
     {
-      "id": "football-college-football-2026-11-28-florida-international-panthers-sam-houston-bearkats",
+      "id": "football-college-football-2026-11-28-missouri-state-bears-liberty-flames",
       "weekend": "2026-11-28",
-      "name": "Florida International Panthers v Sam Houston Bearkats",
+      "name": "Missouri State Bears v Liberty Flames",
       "utc": "2026-11-28T19:00:00Z"
     },
     {
       "id": "football-college-football-2026-11-28-middle-tennessee-blue-raiders-new-mexico-state-aggies",
       "weekend": "2026-11-28",
       "name": "Middle Tennessee Blue Raiders v New Mexico State Aggies",
+      "utc": "2026-11-28T19:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-11-28-florida-international-panthers-sam-houston-bearkats",
+      "weekend": "2026-11-28",
+      "name": "Florida International Panthers v Sam Houston Bearkats",
       "utc": "2026-11-28T19:00:00Z"
     },
     {
@@ -5243,25 +5375,25 @@
       "utc": "2026-12-05T01:00:00Z"
     },
     {
-      "id": "football-college-football-2026-12-05-tbd-tbd-4",
+      "id": "football-college-football-2026-12-05-tbd-tbd-6",
       "weekend": "2026-12-05",
       "name": "TBD v TBD",
       "utc": "2026-12-05T02:00:00Z"
     },
     {
-      "id": "football-college-football-2026-12-05-tbd-tbd-5",
-      "weekend": "2026-12-05",
-      "name": "TBD v TBD",
-      "utc": "2026-12-05T17:00:00Z"
-    },
-    {
-      "id": "football-college-football-2026-12-05-tbd-tbd-6",
+      "id": "football-college-football-2026-12-05-tbd-tbd-4",
       "weekend": "2026-12-05",
       "name": "TBD v TBD",
       "utc": "2026-12-05T17:00:00Z"
     },
     {
       "id": "football-college-football-2026-12-05-tbd-tbd-7",
+      "weekend": "2026-12-05",
+      "name": "TBD v TBD",
+      "utc": "2026-12-05T17:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-12-05-tbd-tbd-5",
       "weekend": "2026-12-05",
       "name": "TBD v TBD",
       "utc": "2026-12-05T21:00:00Z"
@@ -5351,25 +5483,25 @@
       "utc": "2026-12-21T19:30:00Z"
     },
     {
-      "id": "football-college-football-2026-12-22-tbd-tbd-2",
+      "id": "football-college-football-2026-12-22-tbd-tbd",
       "weekend": "2026-12-22",
       "name": "TBD v TBD",
       "utc": "2026-12-22T18:30:00Z"
     },
     {
-      "id": "football-college-football-2026-12-22-tbd-tbd",
+      "id": "football-college-football-2026-12-22-tbd-tbd-2",
       "weekend": "2026-12-22",
       "name": "TBD v TBD",
       "utc": "2026-12-22T22:00:00Z"
     },
     {
-      "id": "football-college-football-2026-12-23-tbd-tbd-2",
+      "id": "football-college-football-2026-12-23-tbd-tbd",
       "weekend": "2026-12-23",
       "name": "TBD v TBD",
       "utc": "2026-12-23T01:30:00Z"
     },
     {
-      "id": "football-college-football-2026-12-23-tbd-tbd",
+      "id": "football-college-football-2026-12-23-tbd-tbd-2",
       "weekend": "2026-12-23",
       "name": "TBD v TBD",
       "utc": "2026-12-23T19:00:00Z"
@@ -5411,19 +5543,19 @@
       "utc": "2026-12-26T17:00:00Z"
     },
     {
-      "id": "football-college-football-2026-12-26-tbd-tbd-2",
+      "id": "football-college-football-2026-12-26-tbd-tbd-3",
       "weekend": "2026-12-26",
       "name": "TBD v TBD",
       "utc": "2026-12-26T19:00:00Z"
     },
     {
-      "id": "football-college-football-2026-12-26-tbd-tbd-4",
+      "id": "football-college-football-2026-12-26-tbd-tbd-2",
       "weekend": "2026-12-26",
       "name": "TBD v TBD",
       "utc": "2026-12-26T20:30:00Z"
     },
     {
-      "id": "football-college-football-2026-12-26-tbd-tbd-3",
+      "id": "football-college-football-2026-12-26-tbd-tbd-4",
       "weekend": "2026-12-26",
       "name": "TBD v TBD",
       "utc": "2026-12-26T22:30:00Z"
@@ -5435,13 +5567,13 @@
       "utc": "2026-12-27T00:30:00Z"
     },
     {
-      "id": "football-college-football-2026-12-28-tbd-tbd",
+      "id": "football-college-football-2026-12-28-tbd-tbd-2",
       "weekend": "2026-12-28",
       "name": "TBD v TBD",
       "utc": "2026-12-28T19:00:00Z"
     },
     {
-      "id": "football-college-football-2026-12-28-tbd-tbd-2",
+      "id": "football-college-football-2026-12-28-tbd-tbd",
       "weekend": "2026-12-28",
       "name": "TBD v TBD",
       "utc": "2026-12-28T22:00:00Z"
@@ -5477,25 +5609,31 @@
       "utc": "2026-12-30T20:00:00Z"
     },
     {
-      "id": "football-college-football-2026-12-31-tbd-tbd",
+      "id": "football-college-football-2026-12-31-tbd-tbd-2",
       "weekend": "2026-12-31",
       "name": "TBD v TBD",
       "utc": "2026-12-31T00:30:00Z"
     },
     {
-      "id": "football-college-football-2026-12-31-tbd-tbd-3",
+      "id": "football-college-football-2026-12-31-tbd-tbd",
       "weekend": "2026-12-31",
       "name": "TBD v TBD",
       "utc": "2026-12-31T17:00:00Z"
     },
     {
-      "id": "football-college-football-2026-12-31-tbd-tbd-2",
+      "id": "football-college-football-2026-12-31-tbd-tbd-4",
+      "weekend": "2026-12-31",
+      "name": "TBD v TBD",
+      "utc": "2026-12-31T19:00:00Z"
+    },
+    {
+      "id": "football-college-football-2026-12-31-tbd-tbd-3",
       "weekend": "2026-12-31",
       "name": "TBD v TBD",
       "utc": "2026-12-31T20:45:00Z"
     },
     {
-      "id": "football-college-football-2027-01-01-tbd-tbd-3",
+      "id": "football-college-football-2027-01-01-tbd-tbd-2",
       "weekend": "2027-01-01",
       "name": "TBD v TBD",
       "utc": "2027-01-01T00:30:00Z"
@@ -5507,7 +5645,7 @@
       "utc": "2027-01-01T05:00:00Z"
     },
     {
-      "id": "football-college-football-2027-01-01-tbd-tbd-2",
+      "id": "football-college-football-2027-01-01-tbd-tbd-3",
       "weekend": "2027-01-01",
       "name": "TBD v TBD",
       "utc": "2027-01-01T05:00:00Z"
