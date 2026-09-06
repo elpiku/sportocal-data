@@ -1,8 +1,8 @@
 {
   "sportKey": "golf-pga",
   "leagueName": "PGA TOUR",
-  "windowFrom": "20260822",
-  "windowTo": "20270602",
+  "windowFrom": "20260823",
+  "windowTo": "20270603",
   "events": [
     {
       "id": "golf-pga-2026-08-20-bmw-championship",
@@ -207,6 +207,12 @@
       "weekend": "2027-05-27",
       "name": "Charles Schwab Challenge",
       "utc": "2027-05-27T04:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-06-03-the-memorial-tournament-pres-by-workday",
+      "weekend": "2027-06-03",
+      "name": "the Memorial Tournament pres. by Workday",
+      "utc": "2027-06-03T04:00:00Z"
     }
   ]
 }
