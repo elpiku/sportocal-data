@@ -1,15 +1,9 @@
 {
   "sportKey": "tennis-atp",
   "leagueName": "ATP",
-  "windowFrom": "20260823",
-  "windowTo": "20270603",
+  "windowFrom": "20260824",
+  "windowTo": "20270604",
   "events": [
-    {
-      "id": "tennis-atp-2026-08-11-cincinnati-open",
-      "weekend": "2026-08-11",
-      "name": "Cincinnati Open",
-      "utc": "2026-08-11T04:00:00Z"
-    },
     {
       "id": "tennis-atp-2026-08-22-winston-salem-open",
       "weekend": "2026-08-22",
@@ -35,15 +29,15 @@
       "utc": "2026-09-23T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-09-30-china-open",
-      "weekend": "2026-09-30",
-      "name": "China Open",
-      "utc": "2026-09-30T04:00:00Z"
-    },
-    {
       "id": "tennis-atp-2026-09-30-kinoshita-group-japan-open-tennis-championships",
       "weekend": "2026-09-30",
       "name": "Kinoshita Group Japan Open Tennis Championships",
+      "utc": "2026-09-30T04:00:00Z"
+    },
+    {
+      "id": "tennis-atp-2026-09-30-china-open",
+      "weekend": "2026-09-30",
+      "name": "China Open",
       "utc": "2026-09-30T04:00:00Z"
     },
     {
@@ -51,6 +45,12 @@
       "weekend": "2026-10-07",
       "name": "Rolex Shanghai Masters",
       "utc": "2026-10-07T04:00:00Z"
+    },
+    {
+      "id": "tennis-atp-2026-10-19-almaty-open",
+      "weekend": "2026-10-19",
+      "name": "Almaty Open",
+      "utc": "2026-10-19T04:00:00Z"
     },
     {
       "id": "tennis-atp-2026-10-19-grand-prix-auvergne-rh-ne-alpes",
@@ -65,21 +65,15 @@
       "utc": "2026-10-19T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-10-19-almaty-open",
-      "weekend": "2026-10-19",
-      "name": "Almaty Open",
-      "utc": "2026-10-19T04:00:00Z"
+      "id": "tennis-atp-2026-10-26-erste-bank-open",
+      "weekend": "2026-10-26",
+      "name": "Erste Bank Open",
+      "utc": "2026-10-26T04:00:00Z"
     },
     {
       "id": "tennis-atp-2026-10-26-swiss-indoors-basel",
       "weekend": "2026-10-26",
       "name": "Swiss Indoors Basel",
-      "utc": "2026-10-26T04:00:00Z"
-    },
-    {
-      "id": "tennis-atp-2026-10-26-erste-bank-open",
-      "weekend": "2026-10-26",
-      "name": "Erste Bank Open",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
