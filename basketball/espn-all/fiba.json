@@ -1,8 +1,8 @@
 {
   "sportKey": "basketball-fiba",
   "leagueName": "FIBA World Cup",
-  "windowFrom": "20260824",
-  "windowTo": "20270604",
+  "windowFrom": "20260825",
+  "windowTo": "20270605",
   "events": [
     {
       "id": "fiba-2026-09-04-mali-mali-japan-japan",
@@ -137,16 +137,64 @@
       "utc": "2026-09-07T15:50:00Z"
     },
     {
+      "id": "fiba-2026-09-07-china-china-italy-italy",
+      "weekend": "2026-09-07",
+      "name": "China China v Italy Italy",
+      "utc": "2026-09-07T18:45:00Z"
+    },
+    {
       "id": "fiba-2026-09-07-czechia-czechia-united-states-united-states",
       "weekend": "2026-09-07",
       "name": "Czechia Czechia v United States United States",
       "utc": "2026-09-07T18:45:00Z"
     },
     {
-      "id": "fiba-2026-09-07-china-china-italy-italy",
-      "weekend": "2026-09-07",
-      "name": "China China v Italy Italy",
-      "utc": "2026-09-07T18:45:00Z"
+      "id": "fiba-2026-09-08-japan-japan-hungary-hungary",
+      "weekend": "2026-09-08",
+      "name": "Japan Japan v Hungary Hungary",
+      "utc": "2026-09-08T15:45:00Z"
+    },
+    {
+      "id": "fiba-2026-09-08-south-korea-south-korea-germany-germany",
+      "weekend": "2026-09-08",
+      "name": "South Korea South Korea v Germany Germany",
+      "utc": "2026-09-08T18:45:00Z"
+    },
+    {
+      "id": "fiba-2026-09-09-china-china-puerto-rico-puerto-rico",
+      "weekend": "2026-09-09",
+      "name": "China China v Puerto Rico Puerto Rico",
+      "utc": "2026-09-09T15:45:00Z"
+    },
+    {
+      "id": "fiba-2026-09-09-australia-australia-italy-italy",
+      "weekend": "2026-09-09",
+      "name": "Australia Australia v Italy Italy",
+      "utc": "2026-09-09T18:45:00Z"
+    },
+    {
+      "id": "fiba-2026-09-10-tbd-united-states-united-states",
+      "weekend": "2026-09-10",
+      "name": "TBD v United States United States",
+      "utc": "2026-09-10T04:00:00Z"
+    },
+    {
+      "id": "fiba-2026-09-10-tbd-belgium-belgium",
+      "weekend": "2026-09-10",
+      "name": "TBD v Belgium Belgium",
+      "utc": "2026-09-10T04:00:00Z"
+    },
+    {
+      "id": "fiba-2026-09-10-france-france-tbd",
+      "weekend": "2026-09-10",
+      "name": "France France v TBD",
+      "utc": "2026-09-10T04:00:00Z"
+    },
+    {
+      "id": "fiba-2026-09-10-spain-spain-tbd",
+      "weekend": "2026-09-10",
+      "name": "Spain Spain v TBD",
+      "utc": "2026-09-10T04:00:00Z"
     }
   ]
 }
