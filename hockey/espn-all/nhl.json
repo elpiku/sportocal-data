@@ -5,12 +5,6 @@
   "windowTo": "20270605",
   "events": [
     {
-      "id": "hockey-nhl-2026-09-19-montreal-canadiens-toronto-maple-leafs",
-      "weekend": "2026-09-19",
-      "name": "Montreal Canadiens v Toronto Maple Leafs",
-      "utc": "2026-09-19T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-09-19-st-louis-blues-dallas-stars",
       "weekend": "2026-09-19",
       "name": "St. Louis Blues v Dallas Stars",
@@ -23,15 +17,21 @@
       "utc": "2026-09-19T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-09-20-minnesota-wild-chicago-blackhawks",
-      "weekend": "2026-09-20",
-      "name": "Minnesota Wild v Chicago Blackhawks",
-      "utc": "2026-09-20T00:00:00Z"
+      "id": "hockey-nhl-2026-09-19-montreal-canadiens-toronto-maple-leafs",
+      "weekend": "2026-09-19",
+      "name": "Montreal Canadiens v Toronto Maple Leafs",
+      "utc": "2026-09-19T23:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-09-20-edmonton-oilers-winnipeg-jets",
       "weekend": "2026-09-20",
       "name": "Edmonton Oilers v Winnipeg Jets",
+      "utc": "2026-09-20T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-20-minnesota-wild-chicago-blackhawks",
+      "weekend": "2026-09-20",
+      "name": "Minnesota Wild v Chicago Blackhawks",
       "utc": "2026-09-20T00:00:00Z"
     },
     {
@@ -71,15 +71,15 @@
       "utc": "2026-09-20T21:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-09-20-colorado-avalanche-utah-mammoth",
-      "weekend": "2026-09-20",
-      "name": "Colorado Avalanche v Utah Mammoth",
-      "utc": "2026-09-20T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-09-20-florida-panthers-carolina-hurricanes",
       "weekend": "2026-09-20",
       "name": "Florida Panthers v Carolina Hurricanes",
+      "utc": "2026-09-20T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-20-colorado-avalanche-utah-mammoth",
+      "weekend": "2026-09-20",
+      "name": "Colorado Avalanche v Utah Mammoth",
       "utc": "2026-09-20T23:00:00Z"
     },
     {
@@ -87,18 +87,6 @@
       "weekend": "2026-09-21",
       "name": "Calgary Flames v Seattle Kraken",
       "utc": "2026-09-21T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-09-21-washington-capitals-philadelphia-flyers",
-      "weekend": "2026-09-21",
-      "name": "Washington Capitals v Philadelphia Flyers",
-      "utc": "2026-09-21T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-09-21-columbus-blue-jackets-detroit-red-wings",
-      "weekend": "2026-09-21",
-      "name": "Columbus Blue Jackets v Detroit Red Wings",
-      "utc": "2026-09-21T23:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-09-21-pittsburgh-penguins-buffalo-sabres",
@@ -110,6 +98,18 @@
       "id": "hockey-nhl-2026-09-21-new-jersey-devils-new-york-rangers",
       "weekend": "2026-09-21",
       "name": "New Jersey Devils v New York Rangers",
+      "utc": "2026-09-21T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-21-columbus-blue-jackets-detroit-red-wings",
+      "weekend": "2026-09-21",
+      "name": "Columbus Blue Jackets v Detroit Red Wings",
+      "utc": "2026-09-21T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-21-washington-capitals-philadelphia-flyers",
+      "weekend": "2026-09-21",
+      "name": "Washington Capitals v Philadelphia Flyers",
       "utc": "2026-09-21T23:00:00Z"
     },
     {
@@ -137,21 +137,9 @@
       "utc": "2026-09-22T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-09-22-boston-bruins-philadelphia-flyers",
+      "id": "hockey-nhl-2026-09-22-carolina-hurricanes-florida-panthers",
       "weekend": "2026-09-22",
-      "name": "Boston Bruins v Philadelphia Flyers",
-      "utc": "2026-09-22T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-09-22-buffalo-sabres-columbus-blue-jackets",
-      "weekend": "2026-09-22",
-      "name": "Buffalo Sabres v Columbus Blue Jackets",
-      "utc": "2026-09-22T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-09-22-pittsburgh-penguins-detroit-red-wings",
-      "weekend": "2026-09-22",
-      "name": "Pittsburgh Penguins v Detroit Red Wings",
+      "name": "Carolina Hurricanes v Florida Panthers",
       "utc": "2026-09-22T23:00:00Z"
     },
     {
@@ -161,15 +149,27 @@
       "utc": "2026-09-22T23:00:00Z"
     },
     {
+      "id": "hockey-nhl-2026-09-22-pittsburgh-penguins-detroit-red-wings",
+      "weekend": "2026-09-22",
+      "name": "Pittsburgh Penguins v Detroit Red Wings",
+      "utc": "2026-09-22T23:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-09-22-new-york-rangers-new-york-islanders",
       "weekend": "2026-09-22",
       "name": "New York Rangers v New York Islanders",
       "utc": "2026-09-22T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-09-22-carolina-hurricanes-florida-panthers",
+      "id": "hockey-nhl-2026-09-22-boston-bruins-philadelphia-flyers",
       "weekend": "2026-09-22",
-      "name": "Carolina Hurricanes v Florida Panthers",
+      "name": "Boston Bruins v Philadelphia Flyers",
+      "utc": "2026-09-22T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-22-buffalo-sabres-columbus-blue-jackets",
+      "weekend": "2026-09-22",
+      "name": "Buffalo Sabres v Columbus Blue Jackets",
       "utc": "2026-09-22T23:00:00Z"
     },
     {
@@ -197,15 +197,15 @@
       "utc": "2026-09-23T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-09-23-ottawa-senators-toronto-maple-leafs",
-      "weekend": "2026-09-23",
-      "name": "Ottawa Senators v Toronto Maple Leafs",
-      "utc": "2026-09-23T04:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-09-23-toronto-maple-leafs-ottawa-senators",
       "weekend": "2026-09-23",
       "name": "Toronto Maple Leafs v Ottawa Senators",
+      "utc": "2026-09-23T04:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-23-ottawa-senators-toronto-maple-leafs",
+      "weekend": "2026-09-23",
+      "name": "Ottawa Senators v Toronto Maple Leafs",
       "utc": "2026-09-23T04:00:00Z"
     },
     {
@@ -221,9 +221,9 @@
       "utc": "2026-09-24T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-09-24-detroit-red-wings-buffalo-sabres",
+      "id": "hockey-nhl-2026-09-24-columbus-blue-jackets-pittsburgh-penguins",
       "weekend": "2026-09-24",
-      "name": "Detroit Red Wings v Buffalo Sabres",
+      "name": "Columbus Blue Jackets v Pittsburgh Penguins",
       "utc": "2026-09-24T23:00:00Z"
     },
     {
@@ -233,9 +233,15 @@
       "utc": "2026-09-24T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-09-24-columbus-blue-jackets-pittsburgh-penguins",
+      "id": "hockey-nhl-2026-09-24-detroit-red-wings-buffalo-sabres",
       "weekend": "2026-09-24",
-      "name": "Columbus Blue Jackets v Pittsburgh Penguins",
+      "name": "Detroit Red Wings v Buffalo Sabres",
+      "utc": "2026-09-24T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-24-carolina-hurricanes-nashville-predators",
+      "weekend": "2026-09-24",
+      "name": "Carolina Hurricanes v Nashville Predators",
       "utc": "2026-09-24T23:00:00Z"
     },
     {
@@ -248,12 +254,6 @@
       "id": "hockey-nhl-2026-09-24-tampa-bay-lightning-florida-panthers",
       "weekend": "2026-09-24",
       "name": "Tampa Bay Lightning v Florida Panthers",
-      "utc": "2026-09-24T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-09-24-carolina-hurricanes-nashville-predators",
-      "weekend": "2026-09-24",
-      "name": "Carolina Hurricanes v Nashville Predators",
       "utc": "2026-09-24T23:00:00Z"
     },
     {
@@ -275,15 +275,15 @@
       "utc": "2026-09-25T01:40:00Z"
     },
     {
-      "id": "hockey-nhl-2026-09-25-vegas-golden-knights-utah-mammoth",
-      "weekend": "2026-09-25",
-      "name": "Vegas Golden Knights v Utah Mammoth",
-      "utc": "2026-09-25T02:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-09-25-san-jose-sharks-anaheim-ducks",
       "weekend": "2026-09-25",
       "name": "San Jose Sharks v Anaheim Ducks",
+      "utc": "2026-09-25T02:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-25-vegas-golden-knights-utah-mammoth",
+      "weekend": "2026-09-25",
+      "name": "Vegas Golden Knights v Utah Mammoth",
       "utc": "2026-09-25T02:00:00Z"
     },
     {
@@ -311,27 +311,27 @@
       "utc": "2026-09-26T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-09-26-montreal-canadiens-ottawa-senators",
-      "weekend": "2026-09-26",
-      "name": "Montreal Canadiens v Ottawa Senators",
-      "utc": "2026-09-26T04:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-09-26-ottawa-senators-montreal-canadiens",
       "weekend": "2026-09-26",
       "name": "Ottawa Senators v Montreal Canadiens",
       "utc": "2026-09-26T04:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-09-26-buffalo-sabres-pittsburgh-penguins",
+      "id": "hockey-nhl-2026-09-26-montreal-canadiens-ottawa-senators",
       "weekend": "2026-09-26",
-      "name": "Buffalo Sabres v Pittsburgh Penguins",
-      "utc": "2026-09-26T19:00:00Z"
+      "name": "Montreal Canadiens v Ottawa Senators",
+      "utc": "2026-09-26T04:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-09-26-nashville-predators-carolina-hurricanes",
       "weekend": "2026-09-26",
       "name": "Nashville Predators v Carolina Hurricanes",
+      "utc": "2026-09-26T19:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-26-buffalo-sabres-pittsburgh-penguins",
+      "weekend": "2026-09-26",
+      "name": "Buffalo Sabres v Pittsburgh Penguins",
       "utc": "2026-09-26T19:00:00Z"
     },
     {
@@ -341,15 +341,15 @@
       "utc": "2026-09-26T20:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-09-26-philadelphia-flyers-washington-capitals",
-      "weekend": "2026-09-26",
-      "name": "Philadelphia Flyers v Washington Capitals",
-      "utc": "2026-09-26T21:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-09-26-utah-mammoth-colorado-avalanche",
       "weekend": "2026-09-26",
       "name": "Utah Mammoth v Colorado Avalanche",
+      "utc": "2026-09-26T21:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-26-philadelphia-flyers-washington-capitals",
+      "weekend": "2026-09-26",
+      "name": "Philadelphia Flyers v Washington Capitals",
       "utc": "2026-09-26T21:00:00Z"
     },
     {
@@ -357,18 +357,6 @@
       "weekend": "2026-09-26",
       "name": "Florida Panthers v Tampa Bay Lightning",
       "utc": "2026-09-26T22:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-09-26-detroit-red-wings-columbus-blue-jackets",
-      "weekend": "2026-09-26",
-      "name": "Detroit Red Wings v Columbus Blue Jackets",
-      "utc": "2026-09-26T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-09-26-vancouver-canucks-seattle-kraken",
-      "weekend": "2026-09-26",
-      "name": "Vancouver Canucks v Seattle Kraken",
-      "utc": "2026-09-26T23:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-09-26-new-york-islanders-new-jersey-devils",
@@ -380,6 +368,18 @@
       "id": "hockey-nhl-2026-09-26-chicago-blackhawks-st-louis-blues",
       "weekend": "2026-09-26",
       "name": "Chicago Blackhawks v St. Louis Blues",
+      "utc": "2026-09-26T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-26-vancouver-canucks-seattle-kraken",
+      "weekend": "2026-09-26",
+      "name": "Vancouver Canucks v Seattle Kraken",
+      "utc": "2026-09-26T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-09-26-detroit-red-wings-columbus-blue-jackets",
+      "weekend": "2026-09-26",
+      "name": "Detroit Red Wings v Columbus Blue Jackets",
       "utc": "2026-09-26T23:00:00Z"
     },
     {
@@ -449,15 +449,15 @@
       "utc": "2026-10-01T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-01-columbus-blue-jackets-buffalo-sabres",
-      "weekend": "2026-10-01",
-      "name": "Columbus Blue Jackets v Buffalo Sabres",
-      "utc": "2026-10-01T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-01-new-york-rangers-tampa-bay-lightning",
       "weekend": "2026-10-01",
       "name": "New York Rangers v Tampa Bay Lightning",
+      "utc": "2026-10-01T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-01-columbus-blue-jackets-buffalo-sabres",
+      "weekend": "2026-10-01",
+      "name": "Columbus Blue Jackets v Buffalo Sabres",
       "utc": "2026-10-01T23:00:00Z"
     },
     {
@@ -569,15 +569,15 @@
       "utc": "2026-10-03T23:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-04-minnesota-wild-boston-bruins",
-      "weekend": "2026-10-04",
-      "name": "Minnesota Wild v Boston Bruins",
-      "utc": "2026-10-04T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-04-nashville-predators-dallas-stars",
       "weekend": "2026-10-04",
       "name": "Nashville Predators v Dallas Stars",
+      "utc": "2026-10-04T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-04-minnesota-wild-boston-bruins",
+      "weekend": "2026-10-04",
+      "name": "Minnesota Wild v Boston Bruins",
       "utc": "2026-10-04T00:00:00Z"
     },
     {
@@ -587,15 +587,15 @@
       "utc": "2026-10-04T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-04-vancouver-canucks-calgary-flames",
-      "weekend": "2026-10-04",
-      "name": "Vancouver Canucks v Calgary Flames",
-      "utc": "2026-10-04T02:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-04-san-jose-sharks-los-angeles-kings",
       "weekend": "2026-10-04",
       "name": "San Jose Sharks v Los Angeles Kings",
+      "utc": "2026-10-04T02:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-04-vancouver-canucks-calgary-flames",
+      "weekend": "2026-10-04",
+      "name": "Vancouver Canucks v Calgary Flames",
       "utc": "2026-10-04T02:00:00Z"
     },
     {
@@ -635,15 +635,15 @@
       "utc": "2026-10-05T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-05-pittsburgh-penguins-winnipeg-jets",
-      "weekend": "2026-10-05",
-      "name": "Pittsburgh Penguins v Winnipeg Jets",
-      "utc": "2026-10-05T23:30:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-05-boston-bruins-ottawa-senators",
       "weekend": "2026-10-05",
       "name": "Boston Bruins v Ottawa Senators",
+      "utc": "2026-10-05T23:30:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-05-pittsburgh-penguins-winnipeg-jets",
+      "weekend": "2026-10-05",
+      "name": "Pittsburgh Penguins v Winnipeg Jets",
       "utc": "2026-10-05T23:30:00Z"
     },
     {
@@ -653,21 +653,15 @@
       "utc": "2026-10-06T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-06-montreal-canadiens-carolina-hurricanes",
-      "weekend": "2026-10-06",
-      "name": "Montreal Canadiens v Carolina Hurricanes",
-      "utc": "2026-10-06T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-06-toronto-maple-leafs-nashville-predators",
       "weekend": "2026-10-06",
       "name": "Toronto Maple Leafs v Nashville Predators",
       "utc": "2026-10-06T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-06-detroit-red-wings-ottawa-senators",
+      "id": "hockey-nhl-2026-10-06-montreal-canadiens-carolina-hurricanes",
       "weekend": "2026-10-06",
-      "name": "Detroit Red Wings v Ottawa Senators",
+      "name": "Montreal Canadiens v Carolina Hurricanes",
       "utc": "2026-10-06T23:00:00Z"
     },
     {
@@ -677,21 +671,27 @@
       "utc": "2026-10-06T23:00:00Z"
     },
     {
+      "id": "hockey-nhl-2026-10-06-detroit-red-wings-ottawa-senators",
+      "weekend": "2026-10-06",
+      "name": "Detroit Red Wings v Ottawa Senators",
+      "utc": "2026-10-06T23:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-10-06-buffalo-sabres-minnesota-wild",
       "weekend": "2026-10-06",
       "name": "Buffalo Sabres v Minnesota Wild",
       "utc": "2026-10-06T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-07-new-york-rangers-new-york-islanders",
-      "weekend": "2026-10-07",
-      "name": "New York Rangers v New York Islanders",
-      "utc": "2026-10-07T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-07-chicago-blackhawks-st-louis-blues",
       "weekend": "2026-10-07",
       "name": "Chicago Blackhawks v St. Louis Blues",
+      "utc": "2026-10-07T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-07-new-york-rangers-new-york-islanders",
+      "weekend": "2026-10-07",
+      "name": "New York Rangers v New York Islanders",
       "utc": "2026-10-07T00:00:00Z"
     },
     {
@@ -731,12 +731,6 @@
       "utc": "2026-10-08T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-08-buffalo-sabres-dallas-stars",
-      "weekend": "2026-10-08",
-      "name": "Buffalo Sabres v Dallas Stars",
-      "utc": "2026-10-08T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-08-boston-bruins-utah-mammoth",
       "weekend": "2026-10-08",
       "name": "Boston Bruins v Utah Mammoth",
@@ -758,6 +752,12 @@
       "id": "hockey-nhl-2026-10-08-carolina-hurricanes-vancouver-canucks",
       "weekend": "2026-10-08",
       "name": "Carolina Hurricanes v Vancouver Canucks",
+      "utc": "2026-10-08T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-08-buffalo-sabres-dallas-stars",
+      "weekend": "2026-10-08",
+      "name": "Buffalo Sabres v Dallas Stars",
       "utc": "2026-10-08T23:00:00Z"
     },
     {
@@ -851,21 +851,15 @@
       "utc": "2026-10-10T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-10-chicago-blackhawks-carolina-hurricanes",
-      "weekend": "2026-10-10",
-      "name": "Chicago Blackhawks v Carolina Hurricanes",
-      "utc": "2026-10-10T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-10-pittsburgh-penguins-dallas-stars",
       "weekend": "2026-10-10",
       "name": "Pittsburgh Penguins v Dallas Stars",
       "utc": "2026-10-10T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-10-colorado-avalanche-toronto-maple-leafs",
+      "id": "hockey-nhl-2026-10-10-chicago-blackhawks-carolina-hurricanes",
       "weekend": "2026-10-10",
-      "name": "Colorado Avalanche v Toronto Maple Leafs",
+      "name": "Chicago Blackhawks v Carolina Hurricanes",
       "utc": "2026-10-10T23:00:00Z"
     },
     {
@@ -875,21 +869,27 @@
       "utc": "2026-10-10T23:00:00Z"
     },
     {
+      "id": "hockey-nhl-2026-10-10-colorado-avalanche-toronto-maple-leafs",
+      "weekend": "2026-10-10",
+      "name": "Colorado Avalanche v Toronto Maple Leafs",
+      "utc": "2026-10-10T23:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-10-10-new-york-islanders-tampa-bay-lightning",
       "weekend": "2026-10-10",
       "name": "New York Islanders v Tampa Bay Lightning",
       "utc": "2026-10-10T23:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-11-calgary-flames-anaheim-ducks",
-      "weekend": "2026-10-11",
-      "name": "Calgary Flames v Anaheim Ducks",
-      "utc": "2026-10-11T02:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-11-vegas-golden-knights-los-angeles-kings",
       "weekend": "2026-10-11",
       "name": "Vegas Golden Knights v Los Angeles Kings",
+      "utc": "2026-10-11T02:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-11-calgary-flames-anaheim-ducks",
+      "weekend": "2026-10-11",
+      "name": "Calgary Flames v Anaheim Ducks",
       "utc": "2026-10-11T02:00:00Z"
     },
     {
@@ -1037,12 +1037,6 @@
       "utc": "2026-10-15T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-15-toronto-maple-leafs-buffalo-sabres",
-      "weekend": "2026-10-15",
-      "name": "Toronto Maple Leafs v Buffalo Sabres",
-      "utc": "2026-10-15T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-15-ottawa-senators-new-york-islanders",
       "weekend": "2026-10-15",
       "name": "Ottawa Senators v New York Islanders",
@@ -1052,6 +1046,12 @@
       "id": "hockey-nhl-2026-10-15-tampa-bay-lightning-seattle-kraken",
       "weekend": "2026-10-15",
       "name": "Tampa Bay Lightning v Seattle Kraken",
+      "utc": "2026-10-15T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-15-toronto-maple-leafs-buffalo-sabres",
+      "weekend": "2026-10-15",
+      "name": "Toronto Maple Leafs v Buffalo Sabres",
       "utc": "2026-10-15T23:00:00Z"
     },
     {
@@ -1145,6 +1145,12 @@
       "utc": "2026-10-17T23:00:00Z"
     },
     {
+      "id": "hockey-nhl-2026-10-17-montreal-canadiens-buffalo-sabres",
+      "weekend": "2026-10-17",
+      "name": "Montreal Canadiens v Buffalo Sabres",
+      "utc": "2026-10-17T23:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-10-17-detroit-red-wings-san-jose-sharks",
       "weekend": "2026-10-17",
       "name": "Detroit Red Wings v San Jose Sharks",
@@ -1157,21 +1163,15 @@
       "utc": "2026-10-17T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-17-montreal-canadiens-buffalo-sabres",
+      "id": "hockey-nhl-2026-10-17-columbus-blue-jackets-new-york-rangers",
       "weekend": "2026-10-17",
-      "name": "Montreal Canadiens v Buffalo Sabres",
+      "name": "Columbus Blue Jackets v New York Rangers",
       "utc": "2026-10-17T23:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-10-17-chicago-blackhawks-dallas-stars",
       "weekend": "2026-10-17",
       "name": "Chicago Blackhawks v Dallas Stars",
-      "utc": "2026-10-17T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-10-17-columbus-blue-jackets-new-york-rangers",
-      "weekend": "2026-10-17",
-      "name": "Columbus Blue Jackets v New York Rangers",
       "utc": "2026-10-17T23:00:00Z"
     },
     {
@@ -1187,15 +1187,15 @@
       "utc": "2026-10-18T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-18-utah-mammoth-edmonton-oilers",
-      "weekend": "2026-10-18",
-      "name": "Utah Mammoth v Edmonton Oilers",
-      "utc": "2026-10-18T02:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-18-vegas-golden-knights-pittsburgh-penguins",
       "weekend": "2026-10-18",
       "name": "Vegas Golden Knights v Pittsburgh Penguins",
+      "utc": "2026-10-18T02:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-18-utah-mammoth-edmonton-oilers",
+      "weekend": "2026-10-18",
+      "name": "Utah Mammoth v Edmonton Oilers",
       "utc": "2026-10-18T02:00:00Z"
     },
     {
@@ -1235,15 +1235,15 @@
       "utc": "2026-10-20T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-20-montreal-canadiens-san-jose-sharks",
-      "weekend": "2026-10-20",
-      "name": "Montreal Canadiens v San Jose Sharks",
-      "utc": "2026-10-20T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-20-new-york-islanders-anaheim-ducks",
       "weekend": "2026-10-20",
       "name": "New York Islanders v Anaheim Ducks",
+      "utc": "2026-10-20T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-20-washington-capitals-los-angeles-kings",
+      "weekend": "2026-10-20",
+      "name": "Washington Capitals v Los Angeles Kings",
       "utc": "2026-10-20T23:00:00Z"
     },
     {
@@ -1253,9 +1253,9 @@
       "utc": "2026-10-20T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-20-washington-capitals-los-angeles-kings",
+      "id": "hockey-nhl-2026-10-20-montreal-canadiens-san-jose-sharks",
       "weekend": "2026-10-20",
-      "name": "Washington Capitals v Los Angeles Kings",
+      "name": "Montreal Canadiens v San Jose Sharks",
       "utc": "2026-10-20T23:00:00Z"
     },
     {
@@ -1313,15 +1313,21 @@
       "utc": "2026-10-21T23:30:00Z"
     },
     {
+      "id": "hockey-nhl-2026-10-22-toronto-maple-leafs-new-york-rangers",
+      "weekend": "2026-10-22",
+      "name": "Toronto Maple Leafs v New York Rangers",
+      "utc": "2026-10-22T23:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-10-22-boston-bruins-nashville-predators",
       "weekend": "2026-10-22",
       "name": "Boston Bruins v Nashville Predators",
       "utc": "2026-10-22T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-22-toronto-maple-leafs-new-york-rangers",
+      "id": "hockey-nhl-2026-10-22-new-jersey-devils-anaheim-ducks",
       "weekend": "2026-10-22",
-      "name": "Toronto Maple Leafs v New York Rangers",
+      "name": "New Jersey Devils v Anaheim Ducks",
       "utc": "2026-10-22T23:00:00Z"
     },
     {
@@ -1334,12 +1340,6 @@
       "id": "hockey-nhl-2026-10-22-pittsburgh-penguins-florida-panthers",
       "weekend": "2026-10-22",
       "name": "Pittsburgh Penguins v Florida Panthers",
-      "utc": "2026-10-22T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-10-22-new-jersey-devils-anaheim-ducks",
-      "weekend": "2026-10-22",
-      "name": "New Jersey Devils v Anaheim Ducks",
       "utc": "2026-10-22T23:00:00Z"
     },
     {
@@ -1409,15 +1409,9 @@
       "utc": "2026-10-24T19:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-24-st-louis-blues-carolina-hurricanes",
+      "id": "hockey-nhl-2026-10-24-boston-bruins-san-jose-sharks",
       "weekend": "2026-10-24",
-      "name": "St. Louis Blues v Carolina Hurricanes",
-      "utc": "2026-10-24T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-10-24-columbus-blue-jackets-vegas-golden-knights",
-      "weekend": "2026-10-24",
-      "name": "Columbus Blue Jackets v Vegas Golden Knights",
+      "name": "Boston Bruins v San Jose Sharks",
       "utc": "2026-10-24T23:00:00Z"
     },
     {
@@ -1427,21 +1421,27 @@
       "utc": "2026-10-24T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-24-pittsburgh-penguins-nashville-predators",
+      "id": "hockey-nhl-2026-10-24-columbus-blue-jackets-vegas-golden-knights",
       "weekend": "2026-10-24",
-      "name": "Pittsburgh Penguins v Nashville Predators",
-      "utc": "2026-10-24T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-10-24-boston-bruins-san-jose-sharks",
-      "weekend": "2026-10-24",
-      "name": "Boston Bruins v San Jose Sharks",
+      "name": "Columbus Blue Jackets v Vegas Golden Knights",
       "utc": "2026-10-24T23:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-10-24-ottawa-senators-new-york-rangers",
       "weekend": "2026-10-24",
       "name": "Ottawa Senators v New York Rangers",
+      "utc": "2026-10-24T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-24-pittsburgh-penguins-nashville-predators",
+      "weekend": "2026-10-24",
+      "name": "Pittsburgh Penguins v Nashville Predators",
+      "utc": "2026-10-24T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-24-st-louis-blues-carolina-hurricanes",
+      "weekend": "2026-10-24",
+      "name": "St. Louis Blues v Carolina Hurricanes",
       "utc": "2026-10-24T23:00:00Z"
     },
     {
@@ -1529,12 +1529,6 @@
       "utc": "2026-10-28T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-28-chicago-blackhawks-los-angeles-kings",
-      "weekend": "2026-10-28",
-      "name": "Chicago Blackhawks v Los Angeles Kings",
-      "utc": "2026-10-28T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-28-nashville-predators-new-york-islanders",
       "weekend": "2026-10-28",
       "name": "Nashville Predators v New York Islanders",
@@ -1553,6 +1547,12 @@
       "utc": "2026-10-28T00:00:00Z"
     },
     {
+      "id": "hockey-nhl-2026-10-28-chicago-blackhawks-los-angeles-kings",
+      "weekend": "2026-10-28",
+      "name": "Chicago Blackhawks v Los Angeles Kings",
+      "utc": "2026-10-28T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-10-28-dallas-stars-new-jersey-devils",
       "weekend": "2026-10-28",
       "name": "Dallas Stars v New Jersey Devils",
@@ -1565,15 +1565,15 @@
       "utc": "2026-10-28T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-28-vegas-golden-knights-ottawa-senators",
-      "weekend": "2026-10-28",
-      "name": "Vegas Golden Knights v Ottawa Senators",
-      "utc": "2026-10-28T02:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-28-anaheim-ducks-vancouver-canucks",
       "weekend": "2026-10-28",
       "name": "Anaheim Ducks v Vancouver Canucks",
+      "utc": "2026-10-28T02:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-28-vegas-golden-knights-ottawa-senators",
+      "weekend": "2026-10-28",
+      "name": "Vegas Golden Knights v Ottawa Senators",
       "utc": "2026-10-28T02:00:00Z"
     },
     {
@@ -1607,15 +1607,15 @@
       "utc": "2026-10-29T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-29-carolina-hurricanes-columbus-blue-jackets",
-      "weekend": "2026-10-29",
-      "name": "Carolina Hurricanes v Columbus Blue Jackets",
-      "utc": "2026-10-29T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-29-pittsburgh-penguins-utah-mammoth",
       "weekend": "2026-10-29",
       "name": "Pittsburgh Penguins v Utah Mammoth",
+      "utc": "2026-10-29T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-29-carolina-hurricanes-columbus-blue-jackets",
+      "weekend": "2026-10-29",
+      "name": "Carolina Hurricanes v Columbus Blue Jackets",
       "utc": "2026-10-29T23:00:00Z"
     },
     {
@@ -1631,21 +1631,9 @@
       "utc": "2026-10-29T23:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-30-nashville-predators-washington-capitals",
-      "weekend": "2026-10-30",
-      "name": "Nashville Predators v Washington Capitals",
-      "utc": "2026-10-30T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-30-st-louis-blues-boston-bruins",
       "weekend": "2026-10-30",
       "name": "St. Louis Blues v Boston Bruins",
-      "utc": "2026-10-30T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-10-30-minnesota-wild-new-york-islanders",
-      "weekend": "2026-10-30",
-      "name": "Minnesota Wild v New York Islanders",
       "utc": "2026-10-30T00:00:00Z"
     },
     {
@@ -1655,21 +1643,33 @@
       "utc": "2026-10-30T00:00:00Z"
     },
     {
+      "id": "hockey-nhl-2026-10-30-nashville-predators-washington-capitals",
+      "weekend": "2026-10-30",
+      "name": "Nashville Predators v Washington Capitals",
+      "utc": "2026-10-30T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-30-minnesota-wild-new-york-islanders",
+      "weekend": "2026-10-30",
+      "name": "Minnesota Wild v New York Islanders",
+      "utc": "2026-10-30T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-10-30-los-angeles-kings-ottawa-senators",
       "weekend": "2026-10-30",
       "name": "Los Angeles Kings v Ottawa Senators",
       "utc": "2026-10-30T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-30-san-jose-sharks-vancouver-canucks",
-      "weekend": "2026-10-30",
-      "name": "San Jose Sharks v Vancouver Canucks",
-      "utc": "2026-10-30T02:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-30-anaheim-ducks-buffalo-sabres",
       "weekend": "2026-10-30",
       "name": "Anaheim Ducks v Buffalo Sabres",
+      "utc": "2026-10-30T02:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-30-san-jose-sharks-vancouver-canucks",
+      "weekend": "2026-10-30",
+      "name": "San Jose Sharks v Vancouver Canucks",
       "utc": "2026-10-30T02:00:00Z"
     },
     {
@@ -1691,15 +1691,15 @@
       "utc": "2026-10-31T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-31-boston-bruins-chicago-blackhawks",
-      "weekend": "2026-10-31",
-      "name": "Boston Bruins v Chicago Blackhawks",
-      "utc": "2026-10-31T17:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-31-detroit-red-wings-st-louis-blues",
       "weekend": "2026-10-31",
       "name": "Detroit Red Wings v St. Louis Blues",
+      "utc": "2026-10-31T17:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-31-boston-bruins-chicago-blackhawks",
+      "weekend": "2026-10-31",
+      "name": "Boston Bruins v Chicago Blackhawks",
       "utc": "2026-10-31T17:00:00Z"
     },
     {
@@ -1715,15 +1715,15 @@
       "utc": "2026-10-31T18:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-10-31-san-jose-sharks-ottawa-senators",
-      "weekend": "2026-10-31",
-      "name": "San Jose Sharks v Ottawa Senators",
-      "utc": "2026-10-31T20:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-10-31-los-angeles-kings-buffalo-sabres",
       "weekend": "2026-10-31",
       "name": "Los Angeles Kings v Buffalo Sabres",
+      "utc": "2026-10-31T20:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-10-31-san-jose-sharks-ottawa-senators",
+      "weekend": "2026-10-31",
+      "name": "San Jose Sharks v Ottawa Senators",
       "utc": "2026-10-31T20:00:00Z"
     },
     {
@@ -1811,21 +1811,15 @@
       "utc": "2026-11-04T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-04-tampa-bay-lightning-detroit-red-wings",
-      "weekend": "2026-11-04",
-      "name": "Tampa Bay Lightning v Detroit Red Wings",
-      "utc": "2026-11-04T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-04-montreal-canadiens-winnipeg-jets",
       "weekend": "2026-11-04",
       "name": "Montreal Canadiens v Winnipeg Jets",
       "utc": "2026-11-04T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-04-pittsburgh-penguins-vegas-golden-knights",
+      "id": "hockey-nhl-2026-11-04-tampa-bay-lightning-detroit-red-wings",
       "weekend": "2026-11-04",
-      "name": "Pittsburgh Penguins v Vegas Golden Knights",
+      "name": "Tampa Bay Lightning v Detroit Red Wings",
       "utc": "2026-11-04T00:00:00Z"
     },
     {
@@ -1841,15 +1835,21 @@
       "utc": "2026-11-04T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-04-washington-capitals-dallas-stars",
+      "id": "hockey-nhl-2026-11-04-pittsburgh-penguins-vegas-golden-knights",
       "weekend": "2026-11-04",
-      "name": "Washington Capitals v Dallas Stars",
+      "name": "Pittsburgh Penguins v Vegas Golden Knights",
       "utc": "2026-11-04T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-11-04-columbus-blue-jackets-colorado-avalanche",
       "weekend": "2026-11-04",
       "name": "Columbus Blue Jackets v Colorado Avalanche",
+      "utc": "2026-11-04T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-04-washington-capitals-dallas-stars",
+      "weekend": "2026-11-04",
+      "name": "Washington Capitals v Dallas Stars",
       "utc": "2026-11-04T00:00:00Z"
     },
     {
@@ -1871,15 +1871,15 @@
       "utc": "2026-11-04T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-05-florida-panthers-chicago-blackhawks",
-      "weekend": "2026-11-05",
-      "name": "Florida Panthers v Chicago Blackhawks",
-      "utc": "2026-11-05T00:30:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-05-buffalo-sabres-ottawa-senators",
       "weekend": "2026-11-05",
       "name": "Buffalo Sabres v Ottawa Senators",
+      "utc": "2026-11-05T00:30:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-05-florida-panthers-chicago-blackhawks",
+      "weekend": "2026-11-05",
+      "name": "Florida Panthers v Chicago Blackhawks",
       "utc": "2026-11-05T00:30:00Z"
     },
     {
@@ -1901,15 +1901,15 @@
       "utc": "2026-11-06T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-06-detroit-red-wings-vegas-golden-knights",
-      "weekend": "2026-11-06",
-      "name": "Detroit Red Wings v Vegas Golden Knights",
-      "utc": "2026-11-06T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-06-new-jersey-devils-st-louis-blues",
       "weekend": "2026-11-06",
       "name": "New Jersey Devils v St. Louis Blues",
+      "utc": "2026-11-06T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-06-detroit-red-wings-vegas-golden-knights",
+      "weekend": "2026-11-06",
+      "name": "Detroit Red Wings v Vegas Golden Knights",
       "utc": "2026-11-06T00:00:00Z"
     },
     {
@@ -1925,6 +1925,12 @@
       "utc": "2026-11-06T00:00:00Z"
     },
     {
+      "id": "hockey-nhl-2026-11-06-pittsburgh-penguins-boston-bruins",
+      "weekend": "2026-11-06",
+      "name": "Pittsburgh Penguins v Boston Bruins",
+      "utc": "2026-11-06T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-11-06-new-york-rangers-philadelphia-flyers",
       "weekend": "2026-11-06",
       "name": "New York Rangers v Philadelphia Flyers",
@@ -1937,21 +1943,15 @@
       "utc": "2026-11-06T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-06-pittsburgh-penguins-boston-bruins",
+      "id": "hockey-nhl-2026-11-06-edmonton-oilers-anaheim-ducks",
       "weekend": "2026-11-06",
-      "name": "Pittsburgh Penguins v Boston Bruins",
-      "utc": "2026-11-06T00:00:00Z"
+      "name": "Edmonton Oilers v Anaheim Ducks",
+      "utc": "2026-11-06T01:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-11-06-winnipeg-jets-vancouver-canucks",
       "weekend": "2026-11-06",
       "name": "Winnipeg Jets v Vancouver Canucks",
-      "utc": "2026-11-06T01:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-11-06-edmonton-oilers-anaheim-ducks",
-      "weekend": "2026-11-06",
-      "name": "Edmonton Oilers v Anaheim Ducks",
       "utc": "2026-11-06T01:00:00Z"
     },
     {
@@ -1967,15 +1967,15 @@
       "utc": "2026-11-07T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-07-calgary-flames-anaheim-ducks",
-      "weekend": "2026-11-07",
-      "name": "Calgary Flames v Anaheim Ducks",
-      "utc": "2026-11-07T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-07-minnesota-wild-san-jose-sharks",
       "weekend": "2026-11-07",
       "name": "Minnesota Wild v San Jose Sharks",
+      "utc": "2026-11-07T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-07-calgary-flames-anaheim-ducks",
+      "weekend": "2026-11-07",
+      "name": "Calgary Flames v Anaheim Ducks",
       "utc": "2026-11-07T01:00:00Z"
     },
     {
@@ -1997,12 +1997,6 @@
       "utc": "2026-11-07T22:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-08-toronto-maple-leafs-montreal-canadiens",
-      "weekend": "2026-11-08",
-      "name": "Toronto Maple Leafs v Montreal Canadiens",
-      "utc": "2026-11-08T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-08-new-york-islanders-new-jersey-devils",
       "weekend": "2026-11-08",
       "name": "New York Islanders v New Jersey Devils",
@@ -2015,15 +2009,21 @@
       "utc": "2026-11-08T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-08-carolina-hurricanes-chicago-blackhawks",
+      "id": "hockey-nhl-2026-11-08-toronto-maple-leafs-montreal-canadiens",
       "weekend": "2026-11-08",
-      "name": "Carolina Hurricanes v Chicago Blackhawks",
-      "utc": "2026-11-08T01:00:00Z"
+      "name": "Toronto Maple Leafs v Montreal Canadiens",
+      "utc": "2026-11-08T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-11-08-dallas-stars-san-jose-sharks",
       "weekend": "2026-11-08",
       "name": "Dallas Stars v San Jose Sharks",
+      "utc": "2026-11-08T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-08-carolina-hurricanes-chicago-blackhawks",
+      "weekend": "2026-11-08",
+      "name": "Carolina Hurricanes v Chicago Blackhawks",
       "utc": "2026-11-08T01:00:00Z"
     },
     {
@@ -2105,15 +2105,15 @@
       "utc": "2026-11-10T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-11-montreal-canadiens-minnesota-wild",
-      "weekend": "2026-11-11",
-      "name": "Montreal Canadiens v Minnesota Wild",
-      "utc": "2026-11-11T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-11-toronto-maple-leafs-colorado-avalanche",
       "weekend": "2026-11-11",
       "name": "Toronto Maple Leafs v Colorado Avalanche",
+      "utc": "2026-11-11T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-11-montreal-canadiens-minnesota-wild",
+      "weekend": "2026-11-11",
+      "name": "Montreal Canadiens v Minnesota Wild",
       "utc": "2026-11-11T00:00:00Z"
     },
     {
@@ -2129,15 +2129,15 @@
       "utc": "2026-11-11T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-11-st-louis-blues-detroit-red-wings",
-      "weekend": "2026-11-11",
-      "name": "St. Louis Blues v Detroit Red Wings",
-      "utc": "2026-11-11T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-11-winnipeg-jets-new-jersey-devils",
       "weekend": "2026-11-11",
       "name": "Winnipeg Jets v New Jersey Devils",
+      "utc": "2026-11-11T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-11-st-louis-blues-detroit-red-wings",
+      "weekend": "2026-11-11",
+      "name": "St. Louis Blues v Detroit Red Wings",
       "utc": "2026-11-11T01:00:00Z"
     },
     {
@@ -2201,9 +2201,9 @@
       "utc": "2026-11-13T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-13-new-jersey-devils-washington-capitals",
+      "id": "hockey-nhl-2026-11-13-columbus-blue-jackets-tampa-bay-lightning",
       "weekend": "2026-11-13",
-      "name": "New Jersey Devils v Washington Capitals",
+      "name": "Columbus Blue Jackets v Tampa Bay Lightning",
       "utc": "2026-11-13T00:00:00Z"
     },
     {
@@ -2213,9 +2213,9 @@
       "utc": "2026-11-13T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-13-columbus-blue-jackets-tampa-bay-lightning",
+      "id": "hockey-nhl-2026-11-13-new-jersey-devils-washington-capitals",
       "weekend": "2026-11-13",
-      "name": "Columbus Blue Jackets v Tampa Bay Lightning",
+      "name": "New Jersey Devils v Washington Capitals",
       "utc": "2026-11-13T00:00:00Z"
     },
     {
@@ -2225,15 +2225,15 @@
       "utc": "2026-11-13T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-13-dallas-stars-winnipeg-jets",
-      "weekend": "2026-11-13",
-      "name": "Dallas Stars v Winnipeg Jets",
-      "utc": "2026-11-13T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-13-chicago-blackhawks-buffalo-sabres",
       "weekend": "2026-11-13",
       "name": "Chicago Blackhawks v Buffalo Sabres",
+      "utc": "2026-11-13T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-13-dallas-stars-winnipeg-jets",
+      "weekend": "2026-11-13",
+      "name": "Dallas Stars v Winnipeg Jets",
       "utc": "2026-11-13T01:00:00Z"
     },
     {
@@ -2285,6 +2285,12 @@
       "utc": "2026-11-15T00:00:00Z"
     },
     {
+      "id": "hockey-nhl-2026-11-15-montreal-canadiens-colorado-avalanche",
+      "weekend": "2026-11-15",
+      "name": "Montreal Canadiens v Colorado Avalanche",
+      "utc": "2026-11-15T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-11-15-tampa-bay-lightning-detroit-red-wings",
       "weekend": "2026-11-15",
       "name": "Tampa Bay Lightning v Detroit Red Wings",
@@ -2297,21 +2303,15 @@
       "utc": "2026-11-15T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-15-montreal-canadiens-colorado-avalanche",
+      "id": "hockey-nhl-2026-11-15-st-louis-blues-florida-panthers",
       "weekend": "2026-11-15",
-      "name": "Montreal Canadiens v Colorado Avalanche",
+      "name": "St. Louis Blues v Florida Panthers",
       "utc": "2026-11-15T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-11-15-washington-capitals-new-jersey-devils",
       "weekend": "2026-11-15",
       "name": "Washington Capitals v New Jersey Devils",
-      "utc": "2026-11-15T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-11-15-st-louis-blues-florida-panthers",
-      "weekend": "2026-11-15",
-      "name": "St. Louis Blues v Florida Panthers",
       "utc": "2026-11-15T00:00:00Z"
     },
     {
@@ -2387,6 +2387,12 @@
       "utc": "2026-11-17T02:30:00Z"
     },
     {
+      "id": "hockey-nhl-2026-11-18-philadelphia-flyers-buffalo-sabres",
+      "weekend": "2026-11-18",
+      "name": "Philadelphia Flyers v Buffalo Sabres",
+      "utc": "2026-11-18T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-11-18-boston-bruins-los-angeles-kings",
       "weekend": "2026-11-18",
       "name": "Boston Bruins v Los Angeles Kings",
@@ -2402,12 +2408,6 @@
       "id": "hockey-nhl-2026-11-18-new-york-islanders-columbus-blue-jackets",
       "weekend": "2026-11-18",
       "name": "New York Islanders v Columbus Blue Jackets",
-      "utc": "2026-11-18T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-11-18-philadelphia-flyers-buffalo-sabres",
-      "weekend": "2026-11-18",
-      "name": "Philadelphia Flyers v Buffalo Sabres",
       "utc": "2026-11-18T00:00:00Z"
     },
     {
@@ -2441,22 +2441,16 @@
       "utc": "2026-11-18T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-18-vegas-golden-knights-dallas-stars",
-      "weekend": "2026-11-18",
-      "name": "Vegas Golden Knights v Dallas Stars",
-      "utc": "2026-11-18T03:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-18-san-jose-sharks-calgary-flames",
       "weekend": "2026-11-18",
       "name": "San Jose Sharks v Calgary Flames",
       "utc": "2026-11-18T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-19-detroit-red-wings-boston-bruins",
-      "weekend": "2026-11-19",
-      "name": "Detroit Red Wings v Boston Bruins",
-      "utc": "2026-11-19T00:30:00Z"
+      "id": "hockey-nhl-2026-11-18-vegas-golden-knights-dallas-stars",
+      "weekend": "2026-11-18",
+      "name": "Vegas Golden Knights v Dallas Stars",
+      "utc": "2026-11-18T03:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-11-19-new-jersey-devils-montreal-canadiens",
@@ -2465,10 +2459,22 @@
       "utc": "2026-11-19T00:30:00Z"
     },
     {
+      "id": "hockey-nhl-2026-11-19-detroit-red-wings-boston-bruins",
+      "weekend": "2026-11-19",
+      "name": "Detroit Red Wings v Boston Bruins",
+      "utc": "2026-11-19T00:30:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-11-19-utah-mammoth-colorado-avalanche",
       "weekend": "2026-11-19",
       "name": "Utah Mammoth v Colorado Avalanche",
       "utc": "2026-11-19T02:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-20-toronto-maple-leafs-los-angeles-kings",
+      "weekend": "2026-11-20",
+      "name": "Toronto Maple Leafs v Los Angeles Kings",
+      "utc": "2026-11-20T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-11-20-ottawa-senators-philadelphia-flyers",
@@ -2483,9 +2489,9 @@
       "utc": "2026-11-20T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-20-toronto-maple-leafs-los-angeles-kings",
+      "id": "hockey-nhl-2026-11-20-pittsburgh-penguins-st-louis-blues",
       "weekend": "2026-11-20",
-      "name": "Toronto Maple Leafs v Los Angeles Kings",
+      "name": "Pittsburgh Penguins v St. Louis Blues",
       "utc": "2026-11-20T00:00:00Z"
     },
     {
@@ -2495,21 +2501,15 @@
       "utc": "2026-11-20T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-20-pittsburgh-penguins-st-louis-blues",
-      "weekend": "2026-11-20",
-      "name": "Pittsburgh Penguins v St. Louis Blues",
-      "utc": "2026-11-20T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-20-tampa-bay-lightning-edmonton-oilers",
       "weekend": "2026-11-20",
       "name": "Tampa Bay Lightning v Edmonton Oilers",
       "utc": "2026-11-20T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-20-chicago-blackhawks-columbus-blue-jackets",
+      "id": "hockey-nhl-2026-11-20-calgary-flames-minnesota-wild",
       "weekend": "2026-11-20",
-      "name": "Chicago Blackhawks v Columbus Blue Jackets",
+      "name": "Calgary Flames v Minnesota Wild",
       "utc": "2026-11-20T01:00:00Z"
     },
     {
@@ -2519,9 +2519,9 @@
       "utc": "2026-11-20T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-20-calgary-flames-minnesota-wild",
+      "id": "hockey-nhl-2026-11-20-chicago-blackhawks-columbus-blue-jackets",
       "weekend": "2026-11-20",
-      "name": "Calgary Flames v Minnesota Wild",
+      "name": "Chicago Blackhawks v Columbus Blue Jackets",
       "utc": "2026-11-20T01:00:00Z"
     },
     {
@@ -2567,6 +2567,12 @@
       "utc": "2026-11-21T23:00:00Z"
     },
     {
+      "id": "hockey-nhl-2026-11-22-ottawa-senators-los-angeles-kings",
+      "weekend": "2026-11-22",
+      "name": "Ottawa Senators v Los Angeles Kings",
+      "utc": "2026-11-22T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-11-22-toronto-maple-leafs-columbus-blue-jackets",
       "weekend": "2026-11-22",
       "name": "Toronto Maple Leafs v Columbus Blue Jackets",
@@ -2585,9 +2591,9 @@
       "utc": "2026-11-22T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-22-ottawa-senators-los-angeles-kings",
+      "id": "hockey-nhl-2026-11-22-detroit-red-wings-new-york-islanders",
       "weekend": "2026-11-22",
-      "name": "Ottawa Senators v Los Angeles Kings",
+      "name": "Detroit Red Wings v New York Islanders",
       "utc": "2026-11-22T00:00:00Z"
     },
     {
@@ -2600,12 +2606,6 @@
       "id": "hockey-nhl-2026-11-22-winnipeg-jets-vegas-golden-knights",
       "weekend": "2026-11-22",
       "name": "Winnipeg Jets v Vegas Golden Knights",
-      "utc": "2026-11-22T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-11-22-detroit-red-wings-new-york-islanders",
-      "weekend": "2026-11-22",
-      "name": "Detroit Red Wings v New York Islanders",
       "utc": "2026-11-22T00:00:00Z"
     },
     {
@@ -2639,15 +2639,15 @@
       "utc": "2026-11-22T22:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-23-st-louis-blues-edmonton-oilers",
-      "weekend": "2026-11-23",
-      "name": "St. Louis Blues v Edmonton Oilers",
-      "utc": "2026-11-23T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-23-dallas-stars-pittsburgh-penguins",
       "weekend": "2026-11-23",
       "name": "Dallas Stars v Pittsburgh Penguins",
+      "utc": "2026-11-23T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-23-st-louis-blues-edmonton-oilers",
+      "weekend": "2026-11-23",
+      "name": "St. Louis Blues v Edmonton Oilers",
       "utc": "2026-11-23T00:00:00Z"
     },
     {
@@ -2663,27 +2663,27 @@
       "utc": "2026-11-24T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-24-montreal-canadiens-los-angeles-kings",
-      "weekend": "2026-11-24",
-      "name": "Montreal Canadiens v Los Angeles Kings",
-      "utc": "2026-11-24T00:30:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-24-ottawa-senators-calgary-flames",
       "weekend": "2026-11-24",
       "name": "Ottawa Senators v Calgary Flames",
       "utc": "2026-11-24T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-24-winnipeg-jets-utah-mammoth",
+      "id": "hockey-nhl-2026-11-24-montreal-canadiens-los-angeles-kings",
       "weekend": "2026-11-24",
-      "name": "Winnipeg Jets v Utah Mammoth",
+      "name": "Montreal Canadiens v Los Angeles Kings",
       "utc": "2026-11-24T00:30:00Z"
     },
     {
       "id": "hockey-nhl-2026-11-24-new-york-islanders-toronto-maple-leafs",
       "weekend": "2026-11-24",
       "name": "New York Islanders v Toronto Maple Leafs",
+      "utc": "2026-11-24T00:30:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-24-winnipeg-jets-utah-mammoth",
+      "weekend": "2026-11-24",
+      "name": "Winnipeg Jets v Utah Mammoth",
       "utc": "2026-11-24T00:30:00Z"
     },
     {
@@ -2705,15 +2705,15 @@
       "utc": "2026-11-25T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-26-boston-bruins-winnipeg-jets",
-      "weekend": "2026-11-26",
-      "name": "Boston Bruins v Winnipeg Jets",
-      "utc": "2026-11-26T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-26-buffalo-sabres-new-york-rangers",
       "weekend": "2026-11-26",
       "name": "Buffalo Sabres v New York Rangers",
+      "utc": "2026-11-26T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-26-boston-bruins-winnipeg-jets",
+      "weekend": "2026-11-26",
+      "name": "Boston Bruins v Winnipeg Jets",
       "utc": "2026-11-26T00:00:00Z"
     },
     {
@@ -2723,9 +2723,9 @@
       "utc": "2026-11-26T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-26-new-york-islanders-st-louis-blues",
+      "id": "hockey-nhl-2026-11-26-pittsburgh-penguins-calgary-flames",
       "weekend": "2026-11-26",
-      "name": "New York Islanders v St. Louis Blues",
+      "name": "Pittsburgh Penguins v Calgary Flames",
       "utc": "2026-11-26T00:00:00Z"
     },
     {
@@ -2735,9 +2735,9 @@
       "utc": "2026-11-26T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-26-pittsburgh-penguins-calgary-flames",
+      "id": "hockey-nhl-2026-11-26-new-york-islanders-st-louis-blues",
       "weekend": "2026-11-26",
-      "name": "Pittsburgh Penguins v Calgary Flames",
+      "name": "New York Islanders v St. Louis Blues",
       "utc": "2026-11-26T00:00:00Z"
     },
     {
@@ -2759,15 +2759,15 @@
       "utc": "2026-11-26T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-26-dallas-stars-nashville-predators",
-      "weekend": "2026-11-26",
-      "name": "Dallas Stars v Nashville Predators",
-      "utc": "2026-11-26T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-26-minnesota-wild-utah-mammoth",
       "weekend": "2026-11-26",
       "name": "Minnesota Wild v Utah Mammoth",
+      "utc": "2026-11-26T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-26-dallas-stars-nashville-predators",
+      "weekend": "2026-11-26",
+      "name": "Dallas Stars v Nashville Predators",
       "utc": "2026-11-26T01:00:00Z"
     },
     {
@@ -2813,9 +2813,9 @@
       "utc": "2026-11-27T19:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-27-tampa-bay-lightning-ottawa-senators",
+      "id": "hockey-nhl-2026-11-27-washington-capitals-florida-panthers",
       "weekend": "2026-11-27",
-      "name": "Tampa Bay Lightning v Ottawa Senators",
+      "name": "Washington Capitals v Florida Panthers",
       "utc": "2026-11-27T20:00:00Z"
     },
     {
@@ -2825,15 +2825,15 @@
       "utc": "2026-11-27T20:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-27-washington-capitals-florida-panthers",
-      "weekend": "2026-11-27",
-      "name": "Washington Capitals v Florida Panthers",
-      "utc": "2026-11-27T20:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-27-columbus-blue-jackets-detroit-red-wings",
       "weekend": "2026-11-27",
       "name": "Columbus Blue Jackets v Detroit Red Wings",
+      "utc": "2026-11-27T20:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-27-tampa-bay-lightning-ottawa-senators",
+      "weekend": "2026-11-27",
+      "name": "Tampa Bay Lightning v Ottawa Senators",
       "utc": "2026-11-27T20:00:00Z"
     },
     {
@@ -2843,15 +2843,15 @@
       "utc": "2026-11-27T21:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-27-minnesota-wild-colorado-avalanche",
-      "weekend": "2026-11-27",
-      "name": "Minnesota Wild v Colorado Avalanche",
-      "utc": "2026-11-27T21:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-27-san-jose-sharks-vegas-golden-knights",
       "weekend": "2026-11-27",
       "name": "San Jose Sharks v Vegas Golden Knights",
+      "utc": "2026-11-27T21:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-27-minnesota-wild-colorado-avalanche",
+      "weekend": "2026-11-27",
+      "name": "Minnesota Wild v Colorado Avalanche",
       "utc": "2026-11-27T21:00:00Z"
     },
     {
@@ -2891,15 +2891,15 @@
       "utc": "2026-11-28T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-29-new-york-rangers-calgary-flames",
-      "weekend": "2026-11-29",
-      "name": "New York Rangers v Calgary Flames",
-      "utc": "2026-11-29T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-29-detroit-red-wings-nashville-predators",
       "weekend": "2026-11-29",
       "name": "Detroit Red Wings v Nashville Predators",
+      "utc": "2026-11-29T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-29-new-york-rangers-calgary-flames",
+      "weekend": "2026-11-29",
+      "name": "New York Rangers v Calgary Flames",
       "utc": "2026-11-29T00:00:00Z"
     },
     {
@@ -2915,15 +2915,15 @@
       "utc": "2026-11-29T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-11-29-st-louis-blues-washington-capitals",
-      "weekend": "2026-11-29",
-      "name": "St. Louis Blues v Washington Capitals",
-      "utc": "2026-11-29T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-11-29-carolina-hurricanes-ottawa-senators",
       "weekend": "2026-11-29",
       "name": "Carolina Hurricanes v Ottawa Senators",
+      "utc": "2026-11-29T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-11-29-st-louis-blues-washington-capitals",
+      "weekend": "2026-11-29",
+      "name": "St. Louis Blues v Washington Capitals",
       "utc": "2026-11-29T00:00:00Z"
     },
     {
@@ -2975,22 +2975,16 @@
       "utc": "2026-11-30T18:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-01-new-york-rangers-carolina-hurricanes",
-      "weekend": "2026-12-01",
-      "name": "New York Rangers v Carolina Hurricanes",
-      "utc": "2026-12-01T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-01-pittsburgh-penguins-columbus-blue-jackets",
       "weekend": "2026-12-01",
       "name": "Pittsburgh Penguins v Columbus Blue Jackets",
       "utc": "2026-12-01T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-01-toronto-maple-leafs-philadelphia-flyers",
+      "id": "hockey-nhl-2026-12-01-new-york-rangers-carolina-hurricanes",
       "weekend": "2026-12-01",
-      "name": "Toronto Maple Leafs v Philadelphia Flyers",
-      "utc": "2026-12-01T00:30:00Z"
+      "name": "New York Rangers v Carolina Hurricanes",
+      "utc": "2026-12-01T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-12-01-winnipeg-jets-chicago-blackhawks",
@@ -2999,10 +2993,22 @@
       "utc": "2026-12-01T00:30:00Z"
     },
     {
+      "id": "hockey-nhl-2026-12-01-toronto-maple-leafs-philadelphia-flyers",
+      "weekend": "2026-12-01",
+      "name": "Toronto Maple Leafs v Philadelphia Flyers",
+      "utc": "2026-12-01T00:30:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-12-01-utah-mammoth-montreal-canadiens",
       "weekend": "2026-12-01",
       "name": "Utah Mammoth v Montreal Canadiens",
       "utc": "2026-12-01T02:30:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-02-new-york-islanders-florida-panthers",
+      "weekend": "2026-12-02",
+      "name": "New York Islanders v Florida Panthers",
+      "utc": "2026-12-02T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-12-02-detroit-red-wings-calgary-flames",
@@ -3017,21 +3023,15 @@
       "utc": "2026-12-02T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-02-new-york-islanders-florida-panthers",
+      "id": "hockey-nhl-2026-12-02-boston-bruins-colorado-avalanche",
       "weekend": "2026-12-02",
-      "name": "New York Islanders v Florida Panthers",
-      "utc": "2026-12-02T00:00:00Z"
+      "name": "Boston Bruins v Colorado Avalanche",
+      "utc": "2026-12-02T00:30:00Z"
     },
     {
       "id": "hockey-nhl-2026-12-02-new-jersey-devils-san-jose-sharks",
       "weekend": "2026-12-02",
       "name": "New Jersey Devils v San Jose Sharks",
-      "utc": "2026-12-02T00:30:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-12-02-boston-bruins-colorado-avalanche",
-      "weekend": "2026-12-02",
-      "name": "Boston Bruins v Colorado Avalanche",
       "utc": "2026-12-02T00:30:00Z"
     },
     {
@@ -3077,9 +3077,9 @@
       "utc": "2026-12-03T02:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-04-toronto-maple-leafs-florida-panthers",
+      "id": "hockey-nhl-2026-12-04-detroit-red-wings-colorado-avalanche",
       "weekend": "2026-12-04",
-      "name": "Toronto Maple Leafs v Florida Panthers",
+      "name": "Detroit Red Wings v Colorado Avalanche",
       "utc": "2026-12-04T00:00:00Z"
     },
     {
@@ -3089,21 +3089,21 @@
       "utc": "2026-12-04T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-04-carolina-hurricanes-columbus-blue-jackets",
-      "weekend": "2026-12-04",
-      "name": "Carolina Hurricanes v Columbus Blue Jackets",
-      "utc": "2026-12-04T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-12-04-detroit-red-wings-colorado-avalanche",
-      "weekend": "2026-12-04",
-      "name": "Detroit Red Wings v Colorado Avalanche",
-      "utc": "2026-12-04T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-04-new-york-rangers-san-jose-sharks",
       "weekend": "2026-12-04",
       "name": "New York Rangers v San Jose Sharks",
+      "utc": "2026-12-04T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-04-toronto-maple-leafs-florida-panthers",
+      "weekend": "2026-12-04",
+      "name": "Toronto Maple Leafs v Florida Panthers",
+      "utc": "2026-12-04T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-04-carolina-hurricanes-columbus-blue-jackets",
+      "weekend": "2026-12-04",
+      "name": "Carolina Hurricanes v Columbus Blue Jackets",
       "utc": "2026-12-04T00:00:00Z"
     },
     {
@@ -3173,15 +3173,15 @@
       "utc": "2026-12-05T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-05-montreal-canadiens-florida-panthers",
-      "weekend": "2026-12-05",
-      "name": "Montreal Canadiens v Florida Panthers",
-      "utc": "2026-12-05T18:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-05-boston-bruins-detroit-red-wings",
       "weekend": "2026-12-05",
       "name": "Boston Bruins v Detroit Red Wings",
+      "utc": "2026-12-05T18:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-05-montreal-canadiens-florida-panthers",
+      "weekend": "2026-12-05",
+      "name": "Montreal Canadiens v Florida Panthers",
       "utc": "2026-12-05T18:00:00Z"
     },
     {
@@ -3209,15 +3209,15 @@
       "utc": "2026-12-06T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-06-carolina-hurricanes-toronto-maple-leafs",
-      "weekend": "2026-12-06",
-      "name": "Carolina Hurricanes v Toronto Maple Leafs",
-      "utc": "2026-12-06T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-06-new-york-rangers-colorado-avalanche",
       "weekend": "2026-12-06",
       "name": "New York Rangers v Colorado Avalanche",
+      "utc": "2026-12-06T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-06-carolina-hurricanes-toronto-maple-leafs",
+      "weekend": "2026-12-06",
+      "name": "Carolina Hurricanes v Toronto Maple Leafs",
       "utc": "2026-12-06T00:00:00Z"
     },
     {
@@ -3233,15 +3233,15 @@
       "utc": "2026-12-06T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-06-vancouver-canucks-dallas-stars",
-      "weekend": "2026-12-06",
-      "name": "Vancouver Canucks v Dallas Stars",
-      "utc": "2026-12-06T03:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-06-los-angeles-kings-utah-mammoth",
       "weekend": "2026-12-06",
       "name": "Los Angeles Kings v Utah Mammoth",
+      "utc": "2026-12-06T03:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-06-vancouver-canucks-dallas-stars",
+      "weekend": "2026-12-06",
+      "name": "Vancouver Canucks v Dallas Stars",
       "utc": "2026-12-06T03:00:00Z"
     },
     {
@@ -3287,15 +3287,15 @@
       "utc": "2026-12-07T18:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-08-new-york-rangers-new-jersey-devils",
-      "weekend": "2026-12-08",
-      "name": "New York Rangers v New Jersey Devils",
-      "utc": "2026-12-08T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-08-tampa-bay-lightning-columbus-blue-jackets",
       "weekend": "2026-12-08",
       "name": "Tampa Bay Lightning v Columbus Blue Jackets",
+      "utc": "2026-12-08T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-08-new-york-rangers-new-jersey-devils",
+      "weekend": "2026-12-08",
+      "name": "New York Rangers v New Jersey Devils",
       "utc": "2026-12-08T00:00:00Z"
     },
     {
@@ -3305,27 +3305,27 @@
       "utc": "2026-12-08T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-09-montreal-canadiens-vegas-golden-knights",
-      "weekend": "2026-12-09",
-      "name": "Montreal Canadiens v Vegas Golden Knights",
-      "utc": "2026-12-09T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-09-ottawa-senators-anaheim-ducks",
       "weekend": "2026-12-09",
       "name": "Ottawa Senators v Anaheim Ducks",
       "utc": "2026-12-09T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-09-carolina-hurricanes-new-york-rangers",
+      "id": "hockey-nhl-2026-12-09-montreal-canadiens-vegas-golden-knights",
       "weekend": "2026-12-09",
-      "name": "Carolina Hurricanes v New York Rangers",
+      "name": "Montreal Canadiens v Vegas Golden Knights",
       "utc": "2026-12-09T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-12-09-florida-panthers-boston-bruins",
       "weekend": "2026-12-09",
       "name": "Florida Panthers v Boston Bruins",
+      "utc": "2026-12-09T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-09-carolina-hurricanes-new-york-rangers",
+      "weekend": "2026-12-09",
+      "name": "Carolina Hurricanes v New York Rangers",
       "utc": "2026-12-09T00:00:00Z"
     },
     {
@@ -3389,12 +3389,6 @@
       "utc": "2026-12-11T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-11-ottawa-senators-vegas-golden-knights",
-      "weekend": "2026-12-11",
-      "name": "Ottawa Senators v Vegas Golden Knights",
-      "utc": "2026-12-11T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-11-montreal-canadiens-anaheim-ducks",
       "weekend": "2026-12-11",
       "name": "Montreal Canadiens v Anaheim Ducks",
@@ -3407,15 +3401,21 @@
       "utc": "2026-12-11T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-11-new-york-islanders-calgary-flames",
-      "weekend": "2026-12-11",
-      "name": "New York Islanders v Calgary Flames",
-      "utc": "2026-12-11T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-11-florida-panthers-pittsburgh-penguins",
       "weekend": "2026-12-11",
       "name": "Florida Panthers v Pittsburgh Penguins",
+      "utc": "2026-12-11T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-11-ottawa-senators-vegas-golden-knights",
+      "weekend": "2026-12-11",
+      "name": "Ottawa Senators v Vegas Golden Knights",
+      "utc": "2026-12-11T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-11-new-york-islanders-calgary-flames",
+      "weekend": "2026-12-11",
+      "name": "New York Islanders v Calgary Flames",
       "utc": "2026-12-11T00:00:00Z"
     },
     {
@@ -3431,15 +3431,15 @@
       "utc": "2026-12-11T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-11-utah-mammoth-st-louis-blues",
-      "weekend": "2026-12-11",
-      "name": "Utah Mammoth v St. Louis Blues",
-      "utc": "2026-12-11T02:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-11-vancouver-canucks-nashville-predators",
       "weekend": "2026-12-11",
       "name": "Vancouver Canucks v Nashville Predators",
+      "utc": "2026-12-11T02:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-11-utah-mammoth-st-louis-blues",
+      "weekend": "2026-12-11",
+      "name": "Utah Mammoth v St. Louis Blues",
       "utc": "2026-12-11T02:00:00Z"
     },
     {
@@ -3473,15 +3473,15 @@
       "utc": "2026-12-12T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-12-columbus-blue-jackets-montreal-canadiens",
-      "weekend": "2026-12-12",
-      "name": "Columbus Blue Jackets v Montreal Canadiens",
-      "utc": "2026-12-12T18:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-12-boston-bruins-new-jersey-devils",
       "weekend": "2026-12-12",
       "name": "Boston Bruins v New Jersey Devils",
+      "utc": "2026-12-12T18:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-12-columbus-blue-jackets-montreal-canadiens",
+      "weekend": "2026-12-12",
+      "name": "Columbus Blue Jackets v Montreal Canadiens",
       "utc": "2026-12-12T18:00:00Z"
     },
     {
@@ -3503,15 +3503,15 @@
       "utc": "2026-12-13T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-13-toronto-maple-leafs-vegas-golden-knights",
-      "weekend": "2026-12-13",
-      "name": "Toronto Maple Leafs v Vegas Golden Knights",
-      "utc": "2026-12-13T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-13-ottawa-senators-edmonton-oilers",
       "weekend": "2026-12-13",
       "name": "Ottawa Senators v Edmonton Oilers",
+      "utc": "2026-12-13T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-13-toronto-maple-leafs-vegas-golden-knights",
+      "weekend": "2026-12-13",
+      "name": "Toronto Maple Leafs v Vegas Golden Knights",
       "utc": "2026-12-13T00:00:00Z"
     },
     {
@@ -3605,9 +3605,9 @@
       "utc": "2026-12-15T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-16-buffalo-sabres-calgary-flames",
+      "id": "hockey-nhl-2026-12-16-new-jersey-devils-new-york-rangers",
       "weekend": "2026-12-16",
-      "name": "Buffalo Sabres v Calgary Flames",
+      "name": "New Jersey Devils v New York Rangers",
       "utc": "2026-12-16T00:00:00Z"
     },
     {
@@ -3617,9 +3617,9 @@
       "utc": "2026-12-16T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-16-new-jersey-devils-new-york-rangers",
+      "id": "hockey-nhl-2026-12-16-buffalo-sabres-calgary-flames",
       "weekend": "2026-12-16",
-      "name": "New Jersey Devils v New York Rangers",
+      "name": "Buffalo Sabres v Calgary Flames",
       "utc": "2026-12-16T00:00:00Z"
     },
     {
@@ -3641,15 +3641,15 @@
       "utc": "2026-12-16T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-16-st-louis-blues-winnipeg-jets",
-      "weekend": "2026-12-16",
-      "name": "St. Louis Blues v Winnipeg Jets",
-      "utc": "2026-12-16T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-16-nashville-predators-seattle-kraken",
       "weekend": "2026-12-16",
       "name": "Nashville Predators v Seattle Kraken",
+      "utc": "2026-12-16T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-16-st-louis-blues-winnipeg-jets",
+      "weekend": "2026-12-16",
+      "name": "St. Louis Blues v Winnipeg Jets",
       "utc": "2026-12-16T01:00:00Z"
     },
     {
@@ -3701,18 +3701,6 @@
       "utc": "2026-12-18T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-18-columbus-blue-jackets-seattle-kraken",
-      "weekend": "2026-12-18",
-      "name": "Columbus Blue Jackets v Seattle Kraken",
-      "utc": "2026-12-18T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-12-18-washington-capitals-detroit-red-wings",
-      "weekend": "2026-12-18",
-      "name": "Washington Capitals v Detroit Red Wings",
-      "utc": "2026-12-18T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-18-tampa-bay-lightning-calgary-flames",
       "weekend": "2026-12-18",
       "name": "Tampa Bay Lightning v Calgary Flames",
@@ -3722,6 +3710,18 @@
       "id": "hockey-nhl-2026-12-18-pittsburgh-penguins-los-angeles-kings",
       "weekend": "2026-12-18",
       "name": "Pittsburgh Penguins v Los Angeles Kings",
+      "utc": "2026-12-18T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-18-washington-capitals-detroit-red-wings",
+      "weekend": "2026-12-18",
+      "name": "Washington Capitals v Detroit Red Wings",
+      "utc": "2026-12-18T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-18-columbus-blue-jackets-seattle-kraken",
+      "weekend": "2026-12-18",
+      "name": "Columbus Blue Jackets v Seattle Kraken",
       "utc": "2026-12-18T00:00:00Z"
     },
     {
@@ -3809,27 +3809,27 @@
       "utc": "2026-12-19T20:30:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-20-washington-capitals-st-louis-blues",
-      "weekend": "2026-12-20",
-      "name": "Washington Capitals v St. Louis Blues",
-      "utc": "2026-12-20T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-20-toronto-maple-leafs-tampa-bay-lightning",
       "weekend": "2026-12-20",
       "name": "Toronto Maple Leafs v Tampa Bay Lightning",
       "utc": "2026-12-20T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-20-winnipeg-jets-dallas-stars",
+      "id": "hockey-nhl-2026-12-20-washington-capitals-st-louis-blues",
       "weekend": "2026-12-20",
-      "name": "Winnipeg Jets v Dallas Stars",
+      "name": "Washington Capitals v St. Louis Blues",
       "utc": "2026-12-20T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-12-20-minnesota-wild-montreal-canadiens",
       "weekend": "2026-12-20",
       "name": "Minnesota Wild v Montreal Canadiens",
+      "utc": "2026-12-20T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-20-winnipeg-jets-dallas-stars",
+      "weekend": "2026-12-20",
+      "name": "Winnipeg Jets v Dallas Stars",
       "utc": "2026-12-20T00:00:00Z"
     },
     {
@@ -3863,15 +3863,15 @@
       "utc": "2026-12-20T22:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-20-buffalo-sabres-los-angeles-kings",
-      "weekend": "2026-12-20",
-      "name": "Buffalo Sabres v Los Angeles Kings",
-      "utc": "2026-12-20T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-20-winnipeg-jets-dallas-stars-2",
       "weekend": "2026-12-20",
       "name": "Winnipeg Jets v Dallas Stars",
+      "utc": "2026-12-20T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-20-buffalo-sabres-los-angeles-kings",
+      "weekend": "2026-12-20",
+      "name": "Buffalo Sabres v Los Angeles Kings",
       "utc": "2026-12-20T23:00:00Z"
     },
     {
@@ -3881,15 +3881,15 @@
       "utc": "2026-12-21T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-21-edmonton-oilers-anaheim-ducks",
-      "weekend": "2026-12-21",
-      "name": "Edmonton Oilers v Anaheim Ducks",
-      "utc": "2026-12-21T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-21-new-york-islanders-new-york-rangers",
       "weekend": "2026-12-21",
       "name": "New York Islanders v New York Rangers",
+      "utc": "2026-12-21T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-21-edmonton-oilers-anaheim-ducks",
+      "weekend": "2026-12-21",
+      "name": "Edmonton Oilers v Anaheim Ducks",
       "utc": "2026-12-21T00:00:00Z"
     },
     {
@@ -3935,27 +3935,15 @@
       "utc": "2026-12-23T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-23-new-york-islanders-boston-bruins",
-      "weekend": "2026-12-23",
-      "name": "New York Islanders v Boston Bruins",
-      "utc": "2026-12-23T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2026-12-23-new-york-rangers-new-jersey-devils",
       "weekend": "2026-12-23",
       "name": "New York Rangers v New Jersey Devils",
       "utc": "2026-12-23T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-23-pittsburgh-penguins-buffalo-sabres",
+      "id": "hockey-nhl-2026-12-23-new-york-islanders-boston-bruins",
       "weekend": "2026-12-23",
-      "name": "Pittsburgh Penguins v Buffalo Sabres",
-      "utc": "2026-12-23T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-12-23-detroit-red-wings-toronto-maple-leafs",
-      "weekend": "2026-12-23",
-      "name": "Detroit Red Wings v Toronto Maple Leafs",
+      "name": "New York Islanders v Boston Bruins",
       "utc": "2026-12-23T00:00:00Z"
     },
     {
@@ -3965,15 +3953,27 @@
       "utc": "2026-12-23T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-23-dallas-stars-calgary-flames",
+      "id": "hockey-nhl-2026-12-23-detroit-red-wings-toronto-maple-leafs",
       "weekend": "2026-12-23",
-      "name": "Dallas Stars v Calgary Flames",
-      "utc": "2026-12-23T01:00:00Z"
+      "name": "Detroit Red Wings v Toronto Maple Leafs",
+      "utc": "2026-12-23T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-23-pittsburgh-penguins-buffalo-sabres",
+      "weekend": "2026-12-23",
+      "name": "Pittsburgh Penguins v Buffalo Sabres",
+      "utc": "2026-12-23T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-12-23-nashville-predators-winnipeg-jets",
       "weekend": "2026-12-23",
       "name": "Nashville Predators v Winnipeg Jets",
+      "utc": "2026-12-23T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-23-dallas-stars-calgary-flames",
+      "weekend": "2026-12-23",
+      "name": "Dallas Stars v Calgary Flames",
       "utc": "2026-12-23T01:00:00Z"
     },
     {
@@ -4001,9 +4001,9 @@
       "utc": "2026-12-26T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-27-montreal-canadiens-toronto-maple-leafs",
+      "id": "hockey-nhl-2026-12-27-boston-bruins-new-york-islanders",
       "weekend": "2026-12-27",
-      "name": "Montreal Canadiens v Toronto Maple Leafs",
+      "name": "Boston Bruins v New York Islanders",
       "utc": "2026-12-27T00:00:00Z"
     },
     {
@@ -4013,15 +4013,9 @@
       "utc": "2026-12-27T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-27-boston-bruins-new-york-islanders",
+      "id": "hockey-nhl-2026-12-27-montreal-canadiens-toronto-maple-leafs",
       "weekend": "2026-12-27",
-      "name": "Boston Bruins v New York Islanders",
-      "utc": "2026-12-27T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-12-27-nashville-predators-detroit-red-wings",
-      "weekend": "2026-12-27",
-      "name": "Nashville Predators v Detroit Red Wings",
+      "name": "Montreal Canadiens v Toronto Maple Leafs",
       "utc": "2026-12-27T00:00:00Z"
     },
     {
@@ -4034,6 +4028,12 @@
       "id": "hockey-nhl-2026-12-27-minnesota-wild-winnipeg-jets",
       "weekend": "2026-12-27",
       "name": "Minnesota Wild v Winnipeg Jets",
+      "utc": "2026-12-27T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2026-12-27-nashville-predators-detroit-red-wings",
+      "weekend": "2026-12-27",
+      "name": "Nashville Predators v Detroit Red Wings",
       "utc": "2026-12-27T00:00:00Z"
     },
     {
@@ -4079,6 +4079,12 @@
       "utc": "2026-12-27T23:00:00Z"
     },
     {
+      "id": "hockey-nhl-2026-12-28-montreal-canadiens-dallas-stars",
+      "weekend": "2026-12-28",
+      "name": "Montreal Canadiens v Dallas Stars",
+      "utc": "2026-12-28T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-12-28-new-jersey-devils-boston-bruins",
       "weekend": "2026-12-28",
       "name": "New Jersey Devils v Boston Bruins",
@@ -4088,12 +4094,6 @@
       "id": "hockey-nhl-2026-12-28-new-york-islanders-ottawa-senators",
       "weekend": "2026-12-28",
       "name": "New York Islanders v Ottawa Senators",
-      "utc": "2026-12-28T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-12-28-montreal-canadiens-dallas-stars",
-      "weekend": "2026-12-28",
-      "name": "Montreal Canadiens v Dallas Stars",
       "utc": "2026-12-28T00:00:00Z"
     },
     {
@@ -4145,6 +4145,12 @@
       "utc": "2026-12-29T02:30:00Z"
     },
     {
+      "id": "hockey-nhl-2026-12-30-ottawa-senators-dallas-stars",
+      "weekend": "2026-12-30",
+      "name": "Ottawa Senators v Dallas Stars",
+      "utc": "2026-12-30T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-12-30-montreal-canadiens-columbus-blue-jackets",
       "weekend": "2026-12-30",
       "name": "Montreal Canadiens v Columbus Blue Jackets",
@@ -4157,21 +4163,15 @@
       "utc": "2026-12-30T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2026-12-30-ottawa-senators-dallas-stars",
+      "id": "hockey-nhl-2026-12-30-pittsburgh-penguins-carolina-hurricanes",
       "weekend": "2026-12-30",
-      "name": "Ottawa Senators v Dallas Stars",
+      "name": "Pittsburgh Penguins v Carolina Hurricanes",
       "utc": "2026-12-30T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2026-12-30-new-york-rangers-detroit-red-wings",
       "weekend": "2026-12-30",
       "name": "New York Rangers v Detroit Red Wings",
-      "utc": "2026-12-30T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-12-30-pittsburgh-penguins-carolina-hurricanes",
-      "weekend": "2026-12-30",
-      "name": "Pittsburgh Penguins v Carolina Hurricanes",
       "utc": "2026-12-30T00:00:00Z"
     },
     {
@@ -4241,6 +4241,12 @@
       "utc": "2026-12-31T03:00:00Z"
     },
     {
+      "id": "hockey-nhl-2026-12-31-tampa-bay-lightning-montreal-canadiens",
+      "weekend": "2026-12-31",
+      "name": "Tampa Bay Lightning v Montreal Canadiens",
+      "utc": "2026-12-31T19:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2026-12-31-ottawa-senators-pittsburgh-penguins",
       "weekend": "2026-12-31",
       "name": "Ottawa Senators v Pittsburgh Penguins",
@@ -4256,12 +4262,6 @@
       "id": "hockey-nhl-2026-12-31-columbus-blue-jackets-washington-capitals",
       "weekend": "2026-12-31",
       "name": "Columbus Blue Jackets v Washington Capitals",
-      "utc": "2026-12-31T19:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2026-12-31-tampa-bay-lightning-montreal-canadiens",
-      "weekend": "2026-12-31",
-      "name": "Tampa Bay Lightning v Montreal Canadiens",
       "utc": "2026-12-31T19:00:00Z"
     },
     {
@@ -4301,15 +4301,15 @@
       "utc": "2027-01-01T20:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-01-anaheim-ducks-new-jersey-devils",
-      "weekend": "2027-01-01",
-      "name": "Anaheim Ducks v New Jersey Devils",
-      "utc": "2027-01-01T21:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-01-san-jose-sharks-philadelphia-flyers",
       "weekend": "2027-01-01",
       "name": "San Jose Sharks v Philadelphia Flyers",
+      "utc": "2027-01-01T21:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-01-anaheim-ducks-new-jersey-devils",
+      "weekend": "2027-01-01",
+      "name": "Anaheim Ducks v New Jersey Devils",
       "utc": "2027-01-01T21:00:00Z"
     },
     {
@@ -4331,18 +4331,6 @@
       "utc": "2027-01-02T20:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-03-washington-capitals-ottawa-senators",
-      "weekend": "2027-01-03",
-      "name": "Washington Capitals v Ottawa Senators",
-      "utc": "2027-01-03T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-01-03-tampa-bay-lightning-buffalo-sabres",
-      "weekend": "2027-01-03",
-      "name": "Tampa Bay Lightning v Buffalo Sabres",
-      "utc": "2027-01-03T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-03-carolina-hurricanes-nashville-predators",
       "weekend": "2027-01-03",
       "name": "Carolina Hurricanes v Nashville Predators",
@@ -4355,9 +4343,9 @@
       "utc": "2027-01-03T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-03-minnesota-wild-st-louis-blues",
+      "id": "hockey-nhl-2027-01-03-tampa-bay-lightning-buffalo-sabres",
       "weekend": "2027-01-03",
-      "name": "Minnesota Wild v St. Louis Blues",
+      "name": "Tampa Bay Lightning v Buffalo Sabres",
       "utc": "2027-01-03T00:00:00Z"
     },
     {
@@ -4367,9 +4355,21 @@
       "utc": "2027-01-03T00:00:00Z"
     },
     {
+      "id": "hockey-nhl-2027-01-03-washington-capitals-ottawa-senators",
+      "weekend": "2027-01-03",
+      "name": "Washington Capitals v Ottawa Senators",
+      "utc": "2027-01-03T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2027-01-03-san-jose-sharks-toronto-maple-leafs",
       "weekend": "2027-01-03",
       "name": "San Jose Sharks v Toronto Maple Leafs",
+      "utc": "2027-01-03T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-03-minnesota-wild-st-louis-blues",
+      "weekend": "2027-01-03",
+      "name": "Minnesota Wild v St. Louis Blues",
       "utc": "2027-01-03T00:00:00Z"
     },
     {
@@ -4421,15 +4421,15 @@
       "utc": "2027-01-04T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-04-anaheim-ducks-philadelphia-flyers",
-      "weekend": "2027-01-04",
-      "name": "Anaheim Ducks v Philadelphia Flyers",
-      "utc": "2027-01-04T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-04-seattle-kraken-vancouver-canucks",
       "weekend": "2027-01-04",
       "name": "Seattle Kraken v Vancouver Canucks",
+      "utc": "2027-01-04T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-04-anaheim-ducks-philadelphia-flyers",
+      "weekend": "2027-01-04",
+      "name": "Anaheim Ducks v Philadelphia Flyers",
       "utc": "2027-01-04T01:00:00Z"
     },
     {
@@ -4439,15 +4439,15 @@
       "utc": "2027-01-05T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-05-montreal-canadiens-chicago-blackhawks",
-      "weekend": "2027-01-05",
-      "name": "Montreal Canadiens v Chicago Blackhawks",
-      "utc": "2027-01-05T00:30:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-05-washington-capitals-toronto-maple-leafs",
       "weekend": "2027-01-05",
       "name": "Washington Capitals v Toronto Maple Leafs",
+      "utc": "2027-01-05T00:30:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-05-montreal-canadiens-chicago-blackhawks",
+      "weekend": "2027-01-05",
+      "name": "Montreal Canadiens v Chicago Blackhawks",
       "utc": "2027-01-05T00:30:00Z"
     },
     {
@@ -4475,27 +4475,27 @@
       "utc": "2027-01-05T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-06-carolina-hurricanes-st-louis-blues",
-      "weekend": "2027-01-06",
-      "name": "Carolina Hurricanes v St. Louis Blues",
-      "utc": "2027-01-06T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-06-columbus-blue-jackets-new-york-rangers",
       "weekend": "2027-01-06",
       "name": "Columbus Blue Jackets v New York Rangers",
       "utc": "2027-01-06T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-06-nashville-predators-edmonton-oilers",
+      "id": "hockey-nhl-2027-01-06-carolina-hurricanes-st-louis-blues",
       "weekend": "2027-01-06",
-      "name": "Nashville Predators v Edmonton Oilers",
-      "utc": "2027-01-06T00:30:00Z"
+      "name": "Carolina Hurricanes v St. Louis Blues",
+      "utc": "2027-01-06T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-01-06-boston-bruins-buffalo-sabres",
       "weekend": "2027-01-06",
       "name": "Boston Bruins v Buffalo Sabres",
+      "utc": "2027-01-06T00:30:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-06-nashville-predators-edmonton-oilers",
+      "weekend": "2027-01-06",
+      "name": "Nashville Predators v Edmonton Oilers",
       "utc": "2027-01-06T00:30:00Z"
     },
     {
@@ -4553,21 +4553,15 @@
       "utc": "2027-01-07T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-08-new-jersey-devils-columbus-blue-jackets",
-      "weekend": "2027-01-08",
-      "name": "New Jersey Devils v Columbus Blue Jackets",
-      "utc": "2027-01-08T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-08-detroit-red-wings-utah-mammoth",
       "weekend": "2027-01-08",
       "name": "Detroit Red Wings v Utah Mammoth",
       "utc": "2027-01-08T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-08-philadelphia-flyers-toronto-maple-leafs",
+      "id": "hockey-nhl-2027-01-08-new-jersey-devils-columbus-blue-jackets",
       "weekend": "2027-01-08",
-      "name": "Philadelphia Flyers v Toronto Maple Leafs",
+      "name": "New Jersey Devils v Columbus Blue Jackets",
       "utc": "2027-01-08T00:00:00Z"
     },
     {
@@ -4577,10 +4571,22 @@
       "utc": "2027-01-08T00:00:00Z"
     },
     {
+      "id": "hockey-nhl-2027-01-08-philadelphia-flyers-toronto-maple-leafs",
+      "weekend": "2027-01-08",
+      "name": "Philadelphia Flyers v Toronto Maple Leafs",
+      "utc": "2027-01-08T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2027-01-08-carolina-hurricanes-pittsburgh-penguins",
       "weekend": "2027-01-08",
       "name": "Carolina Hurricanes v Pittsburgh Penguins",
       "utc": "2027-01-08T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-08-calgary-flames-new-york-islanders",
+      "weekend": "2027-01-08",
+      "name": "Calgary Flames v New York Islanders",
+      "utc": "2027-01-08T01:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-01-08-winnipeg-jets-nashville-predators",
@@ -4592,12 +4598,6 @@
       "id": "hockey-nhl-2027-01-08-edmonton-oilers-florida-panthers",
       "weekend": "2027-01-08",
       "name": "Edmonton Oilers v Florida Panthers",
-      "utc": "2027-01-08T01:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-01-08-calgary-flames-new-york-islanders",
-      "weekend": "2027-01-08",
-      "name": "Calgary Flames v New York Islanders",
       "utc": "2027-01-08T01:00:00Z"
     },
     {
@@ -4631,15 +4631,15 @@
       "utc": "2027-01-09T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-09-san-jose-sharks-washington-capitals",
-      "weekend": "2027-01-09",
-      "name": "San Jose Sharks v Washington Capitals",
-      "utc": "2027-01-09T03:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-09-anaheim-ducks-dallas-stars",
       "weekend": "2027-01-09",
       "name": "Anaheim Ducks v Dallas Stars",
+      "utc": "2027-01-09T03:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-09-san-jose-sharks-washington-capitals",
+      "weekend": "2027-01-09",
+      "name": "San Jose Sharks v Washington Capitals",
       "utc": "2027-01-09T03:00:00Z"
     },
     {
@@ -4703,12 +4703,6 @@
       "utc": "2027-01-10T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-10-vancouver-canucks-florida-panthers",
-      "weekend": "2027-01-10",
-      "name": "Vancouver Canucks v Florida Panthers",
-      "utc": "2027-01-10T03:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-10-vegas-golden-knights-seattle-kraken",
       "weekend": "2027-01-10",
       "name": "Vegas Golden Knights v Seattle Kraken",
@@ -4718,6 +4712,12 @@
       "id": "hockey-nhl-2027-01-10-san-jose-sharks-new-york-rangers",
       "weekend": "2027-01-10",
       "name": "San Jose Sharks v New York Rangers",
+      "utc": "2027-01-10T03:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-10-vancouver-canucks-florida-panthers",
+      "weekend": "2027-01-10",
+      "name": "Vancouver Canucks v Florida Panthers",
       "utc": "2027-01-10T03:00:00Z"
     },
     {
@@ -4763,9 +4763,9 @@
       "utc": "2027-01-13T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-13-buffalo-sabres-new-jersey-devils",
+      "id": "hockey-nhl-2027-01-13-washington-capitals-vegas-golden-knights",
       "weekend": "2027-01-13",
-      "name": "Buffalo Sabres v New Jersey Devils",
+      "name": "Washington Capitals v Vegas Golden Knights",
       "utc": "2027-01-13T00:00:00Z"
     },
     {
@@ -4775,21 +4775,21 @@
       "utc": "2027-01-13T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-13-washington-capitals-vegas-golden-knights",
+      "id": "hockey-nhl-2027-01-13-buffalo-sabres-new-jersey-devils",
       "weekend": "2027-01-13",
-      "name": "Washington Capitals v Vegas Golden Knights",
+      "name": "Buffalo Sabres v New Jersey Devils",
       "utc": "2027-01-13T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-13-nashville-predators-philadelphia-flyers",
+      "weekend": "2027-01-13",
+      "name": "Nashville Predators v Philadelphia Flyers",
+      "utc": "2027-01-13T01:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-01-13-chicago-blackhawks-utah-mammoth",
       "weekend": "2027-01-13",
       "name": "Chicago Blackhawks v Utah Mammoth",
-      "utc": "2027-01-13T01:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-01-13-calgary-flames-columbus-blue-jackets",
-      "weekend": "2027-01-13",
-      "name": "Calgary Flames v Columbus Blue Jackets",
       "utc": "2027-01-13T01:00:00Z"
     },
     {
@@ -4799,9 +4799,9 @@
       "utc": "2027-01-13T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-13-nashville-predators-philadelphia-flyers",
+      "id": "hockey-nhl-2027-01-13-calgary-flames-columbus-blue-jackets",
       "weekend": "2027-01-13",
-      "name": "Nashville Predators v Philadelphia Flyers",
+      "name": "Calgary Flames v Columbus Blue Jackets",
       "utc": "2027-01-13T01:00:00Z"
     },
     {
@@ -4853,27 +4853,27 @@
       "utc": "2027-01-15T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-15-ottawa-senators-winnipeg-jets",
-      "weekend": "2027-01-15",
-      "name": "Ottawa Senators v Winnipeg Jets",
-      "utc": "2027-01-15T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-15-toronto-maple-leafs-chicago-blackhawks",
       "weekend": "2027-01-15",
       "name": "Toronto Maple Leafs v Chicago Blackhawks",
       "utc": "2027-01-15T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-15-washington-capitals-carolina-hurricanes",
-      "weekend": "2027-01-15",
-      "name": "Washington Capitals v Carolina Hurricanes",
-      "utc": "2027-01-15T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-15-tampa-bay-lightning-vegas-golden-knights",
       "weekend": "2027-01-15",
       "name": "Tampa Bay Lightning v Vegas Golden Knights",
+      "utc": "2027-01-15T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-15-ottawa-senators-winnipeg-jets",
+      "weekend": "2027-01-15",
+      "name": "Ottawa Senators v Winnipeg Jets",
+      "utc": "2027-01-15T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-15-washington-capitals-carolina-hurricanes",
+      "weekend": "2027-01-15",
+      "name": "Washington Capitals v Carolina Hurricanes",
       "utc": "2027-01-15T00:00:00Z"
     },
     {
@@ -4955,27 +4955,27 @@
       "utc": "2027-01-16T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-17-buffalo-sabres-nashville-predators",
-      "weekend": "2027-01-17",
-      "name": "Buffalo Sabres v Nashville Predators",
-      "utc": "2027-01-17T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-17-toronto-maple-leafs-pittsburgh-penguins",
       "weekend": "2027-01-17",
       "name": "Toronto Maple Leafs v Pittsburgh Penguins",
       "utc": "2027-01-17T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-17-new-jersey-devils-new-york-islanders",
+      "id": "hockey-nhl-2027-01-17-buffalo-sabres-nashville-predators",
       "weekend": "2027-01-17",
-      "name": "New Jersey Devils v New York Islanders",
+      "name": "Buffalo Sabres v Nashville Predators",
       "utc": "2027-01-17T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-01-17-philadelphia-flyers-montreal-canadiens",
       "weekend": "2027-01-17",
       "name": "Philadelphia Flyers v Montreal Canadiens",
+      "utc": "2027-01-17T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-17-new-jersey-devils-new-york-islanders",
+      "weekend": "2027-01-17",
+      "name": "New Jersey Devils v New York Islanders",
       "utc": "2027-01-17T00:00:00Z"
     },
     {
@@ -4991,16 +4991,22 @@
       "utc": "2027-01-17T00:00:00Z"
     },
     {
+      "id": "hockey-nhl-2027-01-17-winnipeg-jets-anaheim-ducks",
+      "weekend": "2027-01-17",
+      "name": "Winnipeg Jets v Anaheim Ducks",
+      "utc": "2027-01-17T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2027-01-17-chicago-blackhawks-detroit-red-wings",
       "weekend": "2027-01-17",
       "name": "Chicago Blackhawks v Detroit Red Wings",
       "utc": "2027-01-17T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-17-winnipeg-jets-anaheim-ducks",
+      "id": "hockey-nhl-2027-01-17-vancouver-canucks-columbus-blue-jackets",
       "weekend": "2027-01-17",
-      "name": "Winnipeg Jets v Anaheim Ducks",
-      "utc": "2027-01-17T00:00:00Z"
+      "name": "Vancouver Canucks v Columbus Blue Jackets",
+      "utc": "2027-01-17T03:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-01-17-seattle-kraken-san-jose-sharks",
@@ -5015,27 +5021,21 @@
       "utc": "2027-01-17T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-17-vancouver-canucks-columbus-blue-jackets",
-      "weekend": "2027-01-17",
-      "name": "Vancouver Canucks v Columbus Blue Jackets",
-      "utc": "2027-01-17T03:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-17-detroit-red-wings-minnesota-wild",
       "weekend": "2027-01-17",
       "name": "Detroit Red Wings v Minnesota Wild",
       "utc": "2027-01-17T22:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-17-new-york-rangers-dallas-stars",
-      "weekend": "2027-01-17",
-      "name": "New York Rangers v Dallas Stars",
-      "utc": "2027-01-17T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-17-carolina-hurricanes-vegas-golden-knights",
       "weekend": "2027-01-17",
       "name": "Carolina Hurricanes v Vegas Golden Knights",
+      "utc": "2027-01-17T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-17-new-york-rangers-dallas-stars",
+      "weekend": "2027-01-17",
+      "name": "New York Rangers v Dallas Stars",
       "utc": "2027-01-17T23:00:00Z"
     },
     {
@@ -5057,15 +5057,15 @@
       "utc": "2027-01-18T19:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-18-colorado-avalanche-vancouver-canucks",
-      "weekend": "2027-01-18",
-      "name": "Colorado Avalanche v Vancouver Canucks",
-      "utc": "2027-01-18T20:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-18-new-york-islanders-nashville-predators",
       "weekend": "2027-01-18",
       "name": "New York Islanders v Nashville Predators",
+      "utc": "2027-01-18T20:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-18-colorado-avalanche-vancouver-canucks",
+      "weekend": "2027-01-18",
+      "name": "Colorado Avalanche v Vancouver Canucks",
       "utc": "2027-01-18T20:00:00Z"
     },
     {
@@ -5153,15 +5153,15 @@
       "utc": "2027-01-21T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-21-chicago-blackhawks-dallas-stars",
-      "weekend": "2027-01-21",
-      "name": "Chicago Blackhawks v Dallas Stars",
-      "utc": "2027-01-21T00:30:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-21-ottawa-senators-toronto-maple-leafs",
       "weekend": "2027-01-21",
       "name": "Ottawa Senators v Toronto Maple Leafs",
+      "utc": "2027-01-21T00:30:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-21-chicago-blackhawks-dallas-stars",
+      "weekend": "2027-01-21",
+      "name": "Chicago Blackhawks v Dallas Stars",
       "utc": "2027-01-21T00:30:00Z"
     },
     {
@@ -5177,21 +5177,15 @@
       "utc": "2027-01-21T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-22-buffalo-sabres-seattle-kraken",
-      "weekend": "2027-01-22",
-      "name": "Buffalo Sabres v Seattle Kraken",
-      "utc": "2027-01-22T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-22-florida-panthers-carolina-hurricanes",
       "weekend": "2027-01-22",
       "name": "Florida Panthers v Carolina Hurricanes",
       "utc": "2027-01-22T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-22-new-jersey-devils-tampa-bay-lightning",
+      "id": "hockey-nhl-2027-01-22-buffalo-sabres-seattle-kraken",
       "weekend": "2027-01-22",
-      "name": "New Jersey Devils v Tampa Bay Lightning",
+      "name": "Buffalo Sabres v Seattle Kraken",
       "utc": "2027-01-22T00:00:00Z"
     },
     {
@@ -5201,9 +5195,15 @@
       "utc": "2027-01-22T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-22-pittsburgh-penguins-anaheim-ducks",
+      "id": "hockey-nhl-2027-01-22-new-jersey-devils-tampa-bay-lightning",
       "weekend": "2027-01-22",
-      "name": "Pittsburgh Penguins v Anaheim Ducks",
+      "name": "New Jersey Devils v Tampa Bay Lightning",
+      "utc": "2027-01-22T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-22-columbus-blue-jackets-calgary-flames",
+      "weekend": "2027-01-22",
+      "name": "Columbus Blue Jackets v Calgary Flames",
       "utc": "2027-01-22T00:00:00Z"
     },
     {
@@ -5213,9 +5213,9 @@
       "utc": "2027-01-22T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-22-columbus-blue-jackets-calgary-flames",
+      "id": "hockey-nhl-2027-01-22-pittsburgh-penguins-anaheim-ducks",
       "weekend": "2027-01-22",
-      "name": "Columbus Blue Jackets v Calgary Flames",
+      "name": "Pittsburgh Penguins v Anaheim Ducks",
       "utc": "2027-01-22T00:00:00Z"
     },
     {
@@ -5243,15 +5243,15 @@
       "utc": "2027-01-23T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-23-chicago-blackhawks-vancouver-canucks",
-      "weekend": "2027-01-23",
-      "name": "Chicago Blackhawks v Vancouver Canucks",
-      "utc": "2027-01-23T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-23-dallas-stars-colorado-avalanche",
       "weekend": "2027-01-23",
       "name": "Dallas Stars v Colorado Avalanche",
+      "utc": "2027-01-23T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-23-chicago-blackhawks-vancouver-canucks",
+      "weekend": "2027-01-23",
+      "name": "Chicago Blackhawks v Vancouver Canucks",
       "utc": "2027-01-23T01:00:00Z"
     },
     {
@@ -5291,15 +5291,15 @@
       "utc": "2027-01-24T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-24-st-louis-blues-toronto-maple-leafs",
-      "weekend": "2027-01-24",
-      "name": "St. Louis Blues v Toronto Maple Leafs",
-      "utc": "2027-01-24T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-24-carolina-hurricanes-anaheim-ducks",
       "weekend": "2027-01-24",
       "name": "Carolina Hurricanes v Anaheim Ducks",
+      "utc": "2027-01-24T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-24-st-louis-blues-toronto-maple-leafs",
+      "weekend": "2027-01-24",
+      "name": "St. Louis Blues v Toronto Maple Leafs",
       "utc": "2027-01-24T00:00:00Z"
     },
     {
@@ -5393,21 +5393,9 @@
       "utc": "2027-01-26T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-27-toronto-maple-leafs-calgary-flames",
-      "weekend": "2027-01-27",
-      "name": "Toronto Maple Leafs v Calgary Flames",
-      "utc": "2027-01-27T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-27-boston-bruins-columbus-blue-jackets",
       "weekend": "2027-01-27",
       "name": "Boston Bruins v Columbus Blue Jackets",
-      "utc": "2027-01-27T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-01-27-tampa-bay-lightning-los-angeles-kings",
-      "weekend": "2027-01-27",
-      "name": "Tampa Bay Lightning v Los Angeles Kings",
       "utc": "2027-01-27T00:00:00Z"
     },
     {
@@ -5417,15 +5405,27 @@
       "utc": "2027-01-27T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-27-philadelphia-flyers-florida-panthers",
+      "id": "hockey-nhl-2027-01-27-toronto-maple-leafs-calgary-flames",
       "weekend": "2027-01-27",
-      "name": "Philadelphia Flyers v Florida Panthers",
+      "name": "Toronto Maple Leafs v Calgary Flames",
+      "utc": "2027-01-27T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-27-tampa-bay-lightning-los-angeles-kings",
+      "weekend": "2027-01-27",
+      "name": "Tampa Bay Lightning v Los Angeles Kings",
       "utc": "2027-01-27T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-01-27-new-jersey-devils-seattle-kraken",
       "weekend": "2027-01-27",
       "name": "New Jersey Devils v Seattle Kraken",
+      "utc": "2027-01-27T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-27-philadelphia-flyers-florida-panthers",
+      "weekend": "2027-01-27",
+      "name": "Philadelphia Flyers v Florida Panthers",
       "utc": "2027-01-27T00:00:00Z"
     },
     {
@@ -5447,15 +5447,15 @@
       "utc": "2027-01-27T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-27-dallas-stars-anaheim-ducks",
-      "weekend": "2027-01-27",
-      "name": "Dallas Stars v Anaheim Ducks",
-      "utc": "2027-01-27T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-27-minnesota-wild-vancouver-canucks",
       "weekend": "2027-01-27",
       "name": "Minnesota Wild v Vancouver Canucks",
+      "utc": "2027-01-27T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-27-dallas-stars-anaheim-ducks",
+      "weekend": "2027-01-27",
+      "name": "Dallas Stars v Anaheim Ducks",
       "utc": "2027-01-27T01:00:00Z"
     },
     {
@@ -5489,15 +5489,15 @@
       "utc": "2027-01-28T23:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-29-ottawa-senators-boston-bruins",
-      "weekend": "2027-01-29",
-      "name": "Ottawa Senators v Boston Bruins",
-      "utc": "2027-01-29T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-29-columbus-blue-jackets-winnipeg-jets",
       "weekend": "2027-01-29",
       "name": "Columbus Blue Jackets v Winnipeg Jets",
+      "utc": "2027-01-29T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-29-ottawa-senators-boston-bruins",
+      "weekend": "2027-01-29",
+      "name": "Ottawa Senators v Boston Bruins",
       "utc": "2027-01-29T00:00:00Z"
     },
     {
@@ -5513,15 +5513,15 @@
       "utc": "2027-01-29T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-29-calgary-flames-montreal-canadiens",
-      "weekend": "2027-01-29",
-      "name": "Calgary Flames v Montreal Canadiens",
-      "utc": "2027-01-29T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-29-dallas-stars-vancouver-canucks",
       "weekend": "2027-01-29",
       "name": "Dallas Stars v Vancouver Canucks",
+      "utc": "2027-01-29T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-29-calgary-flames-montreal-canadiens",
+      "weekend": "2027-01-29",
+      "name": "Calgary Flames v Montreal Canadiens",
       "utc": "2027-01-29T01:00:00Z"
     },
     {
@@ -5543,27 +5543,27 @@
       "utc": "2027-01-29T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-29-anaheim-ducks-chicago-blackhawks",
-      "weekend": "2027-01-29",
-      "name": "Anaheim Ducks v Chicago Blackhawks",
-      "utc": "2027-01-29T03:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-29-san-jose-sharks-nashville-predators",
       "weekend": "2027-01-29",
       "name": "San Jose Sharks v Nashville Predators",
       "utc": "2027-01-29T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-30-detroit-red-wings-florida-panthers",
-      "weekend": "2027-01-30",
-      "name": "Detroit Red Wings v Florida Panthers",
-      "utc": "2027-01-30T00:00:00Z"
+      "id": "hockey-nhl-2027-01-29-anaheim-ducks-chicago-blackhawks",
+      "weekend": "2027-01-29",
+      "name": "Anaheim Ducks v Chicago Blackhawks",
+      "utc": "2027-01-29T03:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-01-30-pittsburgh-penguins-new-york-rangers",
       "weekend": "2027-01-30",
       "name": "Pittsburgh Penguins v New York Rangers",
+      "utc": "2027-01-30T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-30-detroit-red-wings-florida-panthers",
+      "weekend": "2027-01-30",
+      "name": "Detroit Red Wings v Florida Panthers",
       "utc": "2027-01-30T00:00:00Z"
     },
     {
@@ -5579,15 +5579,15 @@
       "utc": "2027-01-30T18:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-30-calgary-flames-new-jersey-devils",
-      "weekend": "2027-01-30",
-      "name": "Calgary Flames v New Jersey Devils",
-      "utc": "2027-01-30T20:30:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-30-st-louis-blues-vancouver-canucks",
       "weekend": "2027-01-30",
       "name": "St. Louis Blues v Vancouver Canucks",
+      "utc": "2027-01-30T20:30:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-30-calgary-flames-new-jersey-devils",
+      "weekend": "2027-01-30",
+      "name": "Calgary Flames v New Jersey Devils",
       "utc": "2027-01-30T20:30:00Z"
     },
     {
@@ -5603,27 +5603,21 @@
       "utc": "2027-01-30T22:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-31-boston-bruins-toronto-maple-leafs",
-      "weekend": "2027-01-31",
-      "name": "Boston Bruins v Toronto Maple Leafs",
-      "utc": "2027-01-31T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-01-31-tampa-bay-lightning-new-york-islanders",
-      "weekend": "2027-01-31",
-      "name": "Tampa Bay Lightning v New York Islanders",
-      "utc": "2027-01-31T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-01-31-ottawa-senators-new-york-rangers",
       "weekend": "2027-01-31",
       "name": "Ottawa Senators v New York Rangers",
       "utc": "2027-01-31T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-31-carolina-hurricanes-los-angeles-kings",
+      "id": "hockey-nhl-2027-01-31-edmonton-oilers-montreal-canadiens",
       "weekend": "2027-01-31",
-      "name": "Carolina Hurricanes v Los Angeles Kings",
+      "name": "Edmonton Oilers v Montreal Canadiens",
+      "utc": "2027-01-31T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-31-boston-bruins-toronto-maple-leafs",
+      "weekend": "2027-01-31",
+      "name": "Boston Bruins v Toronto Maple Leafs",
       "utc": "2027-01-31T00:00:00Z"
     },
     {
@@ -5633,9 +5627,15 @@
       "utc": "2027-01-31T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-01-31-edmonton-oilers-montreal-canadiens",
+      "id": "hockey-nhl-2027-01-31-tampa-bay-lightning-new-york-islanders",
       "weekend": "2027-01-31",
-      "name": "Edmonton Oilers v Montreal Canadiens",
+      "name": "Tampa Bay Lightning v New York Islanders",
+      "utc": "2027-01-31T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-01-31-carolina-hurricanes-los-angeles-kings",
+      "weekend": "2027-01-31",
+      "name": "Carolina Hurricanes v Los Angeles Kings",
       "utc": "2027-01-31T00:00:00Z"
     },
     {
@@ -5723,15 +5723,15 @@
       "utc": "2027-02-04T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-04-philadelphia-flyers-tampa-bay-lightning",
-      "weekend": "2027-02-04",
-      "name": "Philadelphia Flyers v Tampa Bay Lightning",
-      "utc": "2027-02-04T00:30:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-04-new-york-rangers-winnipeg-jets",
       "weekend": "2027-02-04",
       "name": "New York Rangers v Winnipeg Jets",
+      "utc": "2027-02-04T00:30:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-04-philadelphia-flyers-tampa-bay-lightning",
+      "weekend": "2027-02-04",
+      "name": "Philadelphia Flyers v Tampa Bay Lightning",
       "utc": "2027-02-04T00:30:00Z"
     },
     {
@@ -5819,27 +5819,27 @@
       "utc": "2027-02-12T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-12-anaheim-ducks-chicago-blackhawks",
-      "weekend": "2027-02-12",
-      "name": "Anaheim Ducks v Chicago Blackhawks",
-      "utc": "2027-02-12T03:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-12-los-angeles-kings-detroit-red-wings",
       "weekend": "2027-02-12",
       "name": "Los Angeles Kings v Detroit Red Wings",
       "utc": "2027-02-12T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-13-tampa-bay-lightning-dallas-stars",
-      "weekend": "2027-02-13",
-      "name": "Tampa Bay Lightning v Dallas Stars",
-      "utc": "2027-02-13T00:00:00Z"
+      "id": "hockey-nhl-2027-02-12-anaheim-ducks-chicago-blackhawks",
+      "weekend": "2027-02-12",
+      "name": "Anaheim Ducks v Chicago Blackhawks",
+      "utc": "2027-02-12T03:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-02-13-florida-panthers-colorado-avalanche",
       "weekend": "2027-02-13",
       "name": "Florida Panthers v Colorado Avalanche",
+      "utc": "2027-02-13T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-13-tampa-bay-lightning-dallas-stars",
+      "weekend": "2027-02-13",
+      "name": "Tampa Bay Lightning v Dallas Stars",
       "utc": "2027-02-13T00:00:00Z"
     },
     {
@@ -5879,15 +5879,15 @@
       "utc": "2027-02-13T21:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-13-florida-panthers-dallas-stars",
-      "weekend": "2027-02-13",
-      "name": "Florida Panthers v Dallas Stars",
-      "utc": "2027-02-13T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-13-los-angeles-kings-chicago-blackhawks",
       "weekend": "2027-02-13",
       "name": "Los Angeles Kings v Chicago Blackhawks",
+      "utc": "2027-02-13T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-13-florida-panthers-dallas-stars",
+      "weekend": "2027-02-13",
+      "name": "Florida Panthers v Dallas Stars",
       "utc": "2027-02-13T23:00:00Z"
     },
     {
@@ -5897,15 +5897,9 @@
       "utc": "2027-02-14T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-14-edmonton-oilers-pittsburgh-penguins",
+      "id": "hockey-nhl-2027-02-14-tampa-bay-lightning-colorado-avalanche",
       "weekend": "2027-02-14",
-      "name": "Edmonton Oilers v Pittsburgh Penguins",
-      "utc": "2027-02-14T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-02-14-new-york-islanders-minnesota-wild",
-      "weekend": "2027-02-14",
-      "name": "New York Islanders v Minnesota Wild",
+      "name": "Tampa Bay Lightning v Colorado Avalanche",
       "utc": "2027-02-14T00:00:00Z"
     },
     {
@@ -5915,15 +5909,21 @@
       "utc": "2027-02-14T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-14-tampa-bay-lightning-colorado-avalanche",
-      "weekend": "2027-02-14",
-      "name": "Tampa Bay Lightning v Colorado Avalanche",
-      "utc": "2027-02-14T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-14-carolina-hurricanes-buffalo-sabres",
       "weekend": "2027-02-14",
       "name": "Carolina Hurricanes v Buffalo Sabres",
+      "utc": "2027-02-14T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-14-new-york-islanders-minnesota-wild",
+      "weekend": "2027-02-14",
+      "name": "New York Islanders v Minnesota Wild",
+      "utc": "2027-02-14T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-14-edmonton-oilers-pittsburgh-penguins",
+      "weekend": "2027-02-14",
+      "name": "Edmonton Oilers v Pittsburgh Penguins",
       "utc": "2027-02-14T00:00:00Z"
     },
     {
@@ -5969,15 +5969,15 @@
       "utc": "2027-02-15T19:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-15-colorado-avalanche-columbus-blue-jackets",
-      "weekend": "2027-02-15",
-      "name": "Colorado Avalanche v Columbus Blue Jackets",
-      "utc": "2027-02-15T20:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-15-new-york-islanders-utah-mammoth",
       "weekend": "2027-02-15",
       "name": "New York Islanders v Utah Mammoth",
+      "utc": "2027-02-15T20:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-15-colorado-avalanche-columbus-blue-jackets",
+      "weekend": "2027-02-15",
+      "name": "Colorado Avalanche v Columbus Blue Jackets",
       "utc": "2027-02-15T20:00:00Z"
     },
     {
@@ -6023,15 +6023,15 @@
       "utc": "2027-02-16T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-17-toronto-maple-leafs-carolina-hurricanes",
-      "weekend": "2027-02-17",
-      "name": "Toronto Maple Leafs v Carolina Hurricanes",
-      "utc": "2027-02-17T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-17-washington-capitals-anaheim-ducks",
       "weekend": "2027-02-17",
       "name": "Washington Capitals v Anaheim Ducks",
+      "utc": "2027-02-17T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-17-toronto-maple-leafs-carolina-hurricanes",
+      "weekend": "2027-02-17",
+      "name": "Toronto Maple Leafs v Carolina Hurricanes",
       "utc": "2027-02-17T00:00:00Z"
     },
     {
@@ -6041,15 +6041,15 @@
       "utc": "2027-02-17T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-17-dallas-stars-minnesota-wild",
-      "weekend": "2027-02-17",
-      "name": "Dallas Stars v Minnesota Wild",
-      "utc": "2027-02-17T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-17-nashville-predators-new-jersey-devils",
       "weekend": "2027-02-17",
       "name": "Nashville Predators v New Jersey Devils",
+      "utc": "2027-02-17T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-17-dallas-stars-minnesota-wild",
+      "weekend": "2027-02-17",
+      "name": "Dallas Stars v Minnesota Wild",
       "utc": "2027-02-17T01:00:00Z"
     },
     {
@@ -6059,15 +6059,15 @@
       "utc": "2027-02-17T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-18-chicago-blackhawks-st-louis-blues",
-      "weekend": "2027-02-18",
-      "name": "Chicago Blackhawks v St. Louis Blues",
-      "utc": "2027-02-18T00:30:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-18-winnipeg-jets-los-angeles-kings",
       "weekend": "2027-02-18",
       "name": "Winnipeg Jets v Los Angeles Kings",
+      "utc": "2027-02-18T00:30:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-18-chicago-blackhawks-st-louis-blues",
+      "weekend": "2027-02-18",
+      "name": "Chicago Blackhawks v St. Louis Blues",
       "utc": "2027-02-18T00:30:00Z"
     },
     {
@@ -6077,15 +6077,15 @@
       "utc": "2027-02-18T01:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-18-utah-mammoth-columbus-blue-jackets",
-      "weekend": "2027-02-18",
-      "name": "Utah Mammoth v Columbus Blue Jackets",
-      "utc": "2027-02-18T02:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-18-calgary-flames-boston-bruins",
       "weekend": "2027-02-18",
       "name": "Calgary Flames v Boston Bruins",
+      "utc": "2027-02-18T02:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-18-utah-mammoth-columbus-blue-jackets",
+      "weekend": "2027-02-18",
+      "name": "Utah Mammoth v Columbus Blue Jackets",
       "utc": "2027-02-18T02:00:00Z"
     },
     {
@@ -6107,12 +6107,6 @@
       "utc": "2027-02-19T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-19-tampa-bay-lightning-anaheim-ducks",
-      "weekend": "2027-02-19",
-      "name": "Tampa Bay Lightning v Anaheim Ducks",
-      "utc": "2027-02-19T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-19-florida-panthers-new-jersey-devils",
       "weekend": "2027-02-19",
       "name": "Florida Panthers v New Jersey Devils",
@@ -6122,6 +6116,12 @@
       "id": "hockey-nhl-2027-02-19-new-york-islanders-new-york-rangers",
       "weekend": "2027-02-19",
       "name": "New York Islanders v New York Rangers",
+      "utc": "2027-02-19T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-19-tampa-bay-lightning-anaheim-ducks",
+      "weekend": "2027-02-19",
+      "name": "Tampa Bay Lightning v Anaheim Ducks",
       "utc": "2027-02-19T00:00:00Z"
     },
     {
@@ -6173,15 +6173,15 @@
       "utc": "2027-02-20T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-20-edmonton-oilers-boston-bruins",
-      "weekend": "2027-02-20",
-      "name": "Edmonton Oilers v Boston Bruins",
-      "utc": "2027-02-20T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-20-calgary-flames-pittsburgh-penguins",
       "weekend": "2027-02-20",
       "name": "Calgary Flames v Pittsburgh Penguins",
+      "utc": "2027-02-20T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-20-edmonton-oilers-boston-bruins",
+      "weekend": "2027-02-20",
+      "name": "Edmonton Oilers v Boston Bruins",
       "utc": "2027-02-20T01:00:00Z"
     },
     {
@@ -6221,15 +6221,15 @@
       "utc": "2027-02-20T22:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-21-tampa-bay-lightning-toronto-maple-leafs",
-      "weekend": "2027-02-21",
-      "name": "Tampa Bay Lightning v Toronto Maple Leafs",
-      "utc": "2027-02-21T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-21-montreal-canadiens-new-york-islanders",
       "weekend": "2027-02-21",
       "name": "Montreal Canadiens v New York Islanders",
+      "utc": "2027-02-21T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-21-tampa-bay-lightning-toronto-maple-leafs",
+      "weekend": "2027-02-21",
+      "name": "Tampa Bay Lightning v Toronto Maple Leafs",
       "utc": "2027-02-21T00:00:00Z"
     },
     {
@@ -6263,9 +6263,15 @@
       "utc": "2027-02-21T20:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-21-washington-capitals-nashville-predators",
+      "id": "hockey-nhl-2027-02-21-chicago-blackhawks-new-jersey-devils",
       "weekend": "2027-02-21",
-      "name": "Washington Capitals v Nashville Predators",
+      "name": "Chicago Blackhawks v New Jersey Devils",
+      "utc": "2027-02-21T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-21-florida-panthers-san-jose-sharks",
+      "weekend": "2027-02-21",
+      "name": "Florida Panthers v San Jose Sharks",
       "utc": "2027-02-21T23:00:00Z"
     },
     {
@@ -6281,15 +6287,9 @@
       "utc": "2027-02-21T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-21-chicago-blackhawks-new-jersey-devils",
+      "id": "hockey-nhl-2027-02-21-washington-capitals-nashville-predators",
       "weekend": "2027-02-21",
-      "name": "Chicago Blackhawks v New Jersey Devils",
-      "utc": "2027-02-21T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-02-21-florida-panthers-san-jose-sharks",
-      "weekend": "2027-02-21",
-      "name": "Florida Panthers v San Jose Sharks",
+      "name": "Washington Capitals v Nashville Predators",
       "utc": "2027-02-21T23:00:00Z"
     },
     {
@@ -6335,12 +6335,6 @@
       "utc": "2027-02-23T02:40:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-24-toronto-maple-leafs-detroit-red-wings",
-      "weekend": "2027-02-24",
-      "name": "Toronto Maple Leafs v Detroit Red Wings",
-      "utc": "2027-02-24T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-24-washington-capitals-new-york-rangers",
       "weekend": "2027-02-24",
       "name": "Washington Capitals v New York Rangers",
@@ -6353,15 +6347,21 @@
       "utc": "2027-02-24T00:00:00Z"
     },
     {
+      "id": "hockey-nhl-2027-02-24-toronto-maple-leafs-detroit-red-wings",
+      "weekend": "2027-02-24",
+      "name": "Toronto Maple Leafs v Detroit Red Wings",
+      "utc": "2027-02-24T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2027-02-24-new-jersey-devils-carolina-hurricanes",
       "weekend": "2027-02-24",
       "name": "New Jersey Devils v Carolina Hurricanes",
       "utc": "2027-02-24T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-24-nashville-predators-winnipeg-jets",
+      "id": "hockey-nhl-2027-02-24-minnesota-wild-pittsburgh-penguins",
       "weekend": "2027-02-24",
-      "name": "Nashville Predators v Winnipeg Jets",
+      "name": "Minnesota Wild v Pittsburgh Penguins",
       "utc": "2027-02-24T01:00:00Z"
     },
     {
@@ -6371,15 +6371,15 @@
       "utc": "2027-02-24T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-24-dallas-stars-vancouver-canucks",
+      "id": "hockey-nhl-2027-02-24-nashville-predators-winnipeg-jets",
       "weekend": "2027-02-24",
-      "name": "Dallas Stars v Vancouver Canucks",
+      "name": "Nashville Predators v Winnipeg Jets",
       "utc": "2027-02-24T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-24-minnesota-wild-pittsburgh-penguins",
+      "id": "hockey-nhl-2027-02-24-dallas-stars-vancouver-canucks",
       "weekend": "2027-02-24",
-      "name": "Minnesota Wild v Pittsburgh Penguins",
+      "name": "Dallas Stars v Vancouver Canucks",
       "utc": "2027-02-24T01:00:00Z"
     },
     {
@@ -6401,15 +6401,15 @@
       "utc": "2027-02-25T02:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-25-los-angeles-kings-montreal-canadiens",
-      "weekend": "2027-02-25",
-      "name": "Los Angeles Kings v Montreal Canadiens",
-      "utc": "2027-02-25T03:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-25-anaheim-ducks-seattle-kraken",
       "weekend": "2027-02-25",
       "name": "Anaheim Ducks v Seattle Kraken",
+      "utc": "2027-02-25T03:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-25-los-angeles-kings-montreal-canadiens",
+      "weekend": "2027-02-25",
+      "name": "Los Angeles Kings v Montreal Canadiens",
       "utc": "2027-02-25T03:00:00Z"
     },
     {
@@ -6437,15 +6437,15 @@
       "utc": "2027-02-26T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-26-st-louis-blues-vancouver-canucks",
-      "weekend": "2027-02-26",
-      "name": "St. Louis Blues v Vancouver Canucks",
-      "utc": "2027-02-26T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-26-nashville-predators-edmonton-oilers",
       "weekend": "2027-02-26",
       "name": "Nashville Predators v Edmonton Oilers",
+      "utc": "2027-02-26T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-26-st-louis-blues-vancouver-canucks",
+      "weekend": "2027-02-26",
+      "name": "St. Louis Blues v Vancouver Canucks",
       "utc": "2027-02-26T01:00:00Z"
     },
     {
@@ -6461,15 +6461,15 @@
       "utc": "2027-02-26T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-27-new-york-rangers-washington-capitals",
-      "weekend": "2027-02-27",
-      "name": "New York Rangers v Washington Capitals",
-      "utc": "2027-02-27T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-02-27-new-york-islanders-philadelphia-flyers",
       "weekend": "2027-02-27",
       "name": "New York Islanders v Philadelphia Flyers",
+      "utc": "2027-02-27T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-02-27-new-york-rangers-washington-capitals",
+      "weekend": "2027-02-27",
+      "name": "New York Rangers v Washington Capitals",
       "utc": "2027-02-27T00:00:00Z"
     },
     {
@@ -6521,9 +6521,9 @@
       "utc": "2027-02-27T21:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-28-buffalo-sabres-toronto-maple-leafs",
+      "id": "hockey-nhl-2027-02-28-philadelphia-flyers-san-jose-sharks",
       "weekend": "2027-02-28",
-      "name": "Buffalo Sabres v Toronto Maple Leafs",
+      "name": "Philadelphia Flyers v San Jose Sharks",
       "utc": "2027-02-28T00:00:00Z"
     },
     {
@@ -6533,9 +6533,9 @@
       "utc": "2027-02-28T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-02-28-philadelphia-flyers-san-jose-sharks",
+      "id": "hockey-nhl-2027-02-28-buffalo-sabres-toronto-maple-leafs",
       "weekend": "2027-02-28",
-      "name": "Philadelphia Flyers v San Jose Sharks",
+      "name": "Buffalo Sabres v Toronto Maple Leafs",
       "utc": "2027-02-28T00:00:00Z"
     },
     {
@@ -6605,15 +6605,15 @@
       "utc": "2027-03-01T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-02-toronto-maple-leafs-detroit-red-wings",
+      "id": "hockey-nhl-2027-03-02-columbus-blue-jackets-carolina-hurricanes",
       "weekend": "2027-03-02",
-      "name": "Toronto Maple Leafs v Detroit Red Wings",
+      "name": "Columbus Blue Jackets v Carolina Hurricanes",
       "utc": "2027-03-02T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-02-new-york-islanders-washington-capitals",
+      "id": "hockey-nhl-2027-03-02-toronto-maple-leafs-detroit-red-wings",
       "weekend": "2027-03-02",
-      "name": "New York Islanders v Washington Capitals",
+      "name": "Toronto Maple Leafs v Detroit Red Wings",
       "utc": "2027-03-02T00:00:00Z"
     },
     {
@@ -6623,9 +6623,9 @@
       "utc": "2027-03-02T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-02-columbus-blue-jackets-carolina-hurricanes",
+      "id": "hockey-nhl-2027-03-02-new-york-islanders-washington-capitals",
       "weekend": "2027-03-02",
-      "name": "Columbus Blue Jackets v Carolina Hurricanes",
+      "name": "New York Islanders v Washington Capitals",
       "utc": "2027-03-02T00:00:00Z"
     },
     {
@@ -6635,22 +6635,16 @@
       "utc": "2027-03-02T01:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-02-san-jose-sharks-montreal-canadiens",
-      "weekend": "2027-03-02",
-      "name": "San Jose Sharks v Montreal Canadiens",
-      "utc": "2027-03-02T03:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-02-los-angeles-kings-anaheim-ducks",
       "weekend": "2027-03-02",
       "name": "Los Angeles Kings v Anaheim Ducks",
       "utc": "2027-03-02T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-03-florida-panthers-utah-mammoth",
-      "weekend": "2027-03-03",
-      "name": "Florida Panthers v Utah Mammoth",
-      "utc": "2027-03-03T00:00:00Z"
+      "id": "hockey-nhl-2027-03-02-san-jose-sharks-montreal-canadiens",
+      "weekend": "2027-03-02",
+      "name": "San Jose Sharks v Montreal Canadiens",
+      "utc": "2027-03-02T03:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-03-03-buffalo-sabres-pittsburgh-penguins",
@@ -6659,15 +6653,21 @@
       "utc": "2027-03-03T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-03-philadelphia-flyers-vegas-golden-knights",
+      "id": "hockey-nhl-2027-03-03-florida-panthers-utah-mammoth",
       "weekend": "2027-03-03",
-      "name": "Philadelphia Flyers v Vegas Golden Knights",
+      "name": "Florida Panthers v Utah Mammoth",
       "utc": "2027-03-03T00:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-03-03-new-jersey-devils-ottawa-senators",
       "weekend": "2027-03-03",
       "name": "New Jersey Devils v Ottawa Senators",
+      "utc": "2027-03-03T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-03-philadelphia-flyers-vegas-golden-knights",
+      "weekend": "2027-03-03",
+      "name": "Philadelphia Flyers v Vegas Golden Knights",
       "utc": "2027-03-03T00:00:00Z"
     },
     {
@@ -6683,15 +6683,15 @@
       "utc": "2027-03-03T23:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-04-new-york-rangers-boston-bruins",
-      "weekend": "2027-03-04",
-      "name": "New York Rangers v Boston Bruins",
-      "utc": "2027-03-04T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-04-washington-capitals-carolina-hurricanes",
       "weekend": "2027-03-04",
       "name": "Washington Capitals v Carolina Hurricanes",
+      "utc": "2027-03-04T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-04-new-york-rangers-boston-bruins",
+      "weekend": "2027-03-04",
+      "name": "New York Rangers v Boston Bruins",
       "utc": "2027-03-04T00:00:00Z"
     },
     {
@@ -6731,12 +6731,6 @@
       "utc": "2027-03-04T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-05-ottawa-senators-boston-bruins",
-      "weekend": "2027-03-05",
-      "name": "Ottawa Senators v Boston Bruins",
-      "utc": "2027-03-05T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-05-buffalo-sabres-st-louis-blues",
       "weekend": "2027-03-05",
       "name": "Buffalo Sabres v St. Louis Blues",
@@ -6752,6 +6746,12 @@
       "id": "hockey-nhl-2027-03-05-new-york-islanders-vegas-golden-knights",
       "weekend": "2027-03-05",
       "name": "New York Islanders v Vegas Golden Knights",
+      "utc": "2027-03-05T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-05-ottawa-senators-boston-bruins",
+      "weekend": "2027-03-05",
+      "name": "Ottawa Senators v Boston Bruins",
       "utc": "2027-03-05T00:00:00Z"
     },
     {
@@ -6785,15 +6785,15 @@
       "utc": "2027-03-06T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-06-winnipeg-jets-washington-capitals",
-      "weekend": "2027-03-06",
-      "name": "Winnipeg Jets v Washington Capitals",
-      "utc": "2027-03-06T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-06-calgary-flames-chicago-blackhawks",
       "weekend": "2027-03-06",
       "name": "Calgary Flames v Chicago Blackhawks",
+      "utc": "2027-03-06T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-06-winnipeg-jets-washington-capitals",
+      "weekend": "2027-03-06",
+      "name": "Winnipeg Jets v Washington Capitals",
       "utc": "2027-03-06T01:00:00Z"
     },
     {
@@ -6833,9 +6833,9 @@
       "utc": "2027-03-06T20:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-07-montreal-canadiens-vancouver-canucks",
+      "id": "hockey-nhl-2027-03-07-florida-panthers-toronto-maple-leafs",
       "weekend": "2027-03-07",
-      "name": "Montreal Canadiens v Vancouver Canucks",
+      "name": "Florida Panthers v Toronto Maple Leafs",
       "utc": "2027-03-07T00:00:00Z"
     },
     {
@@ -6845,9 +6845,9 @@
       "utc": "2027-03-07T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-07-florida-panthers-toronto-maple-leafs",
+      "id": "hockey-nhl-2027-03-07-montreal-canadiens-vancouver-canucks",
       "weekend": "2027-03-07",
-      "name": "Florida Panthers v Toronto Maple Leafs",
+      "name": "Montreal Canadiens v Vancouver Canucks",
       "utc": "2027-03-07T00:00:00Z"
     },
     {
@@ -6881,15 +6881,15 @@
       "utc": "2027-03-07T18:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-07-ottawa-senators-buffalo-sabres",
-      "weekend": "2027-03-07",
-      "name": "Ottawa Senators v Buffalo Sabres",
-      "utc": "2027-03-07T20:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-07-winnipeg-jets-calgary-flames",
       "weekend": "2027-03-07",
       "name": "Winnipeg Jets v Calgary Flames",
+      "utc": "2027-03-07T20:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-07-ottawa-senators-buffalo-sabres",
+      "weekend": "2027-03-07",
+      "name": "Ottawa Senators v Buffalo Sabres",
       "utc": "2027-03-07T20:00:00Z"
     },
     {
@@ -6941,21 +6941,15 @@
       "utc": "2027-03-09T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-10-florida-panthers-new-jersey-devils",
-      "weekend": "2027-03-10",
-      "name": "Florida Panthers v New Jersey Devils",
-      "utc": "2027-03-10T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-10-buffalo-sabres-vancouver-canucks",
       "weekend": "2027-03-10",
       "name": "Buffalo Sabres v Vancouver Canucks",
       "utc": "2027-03-10T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-10-new-york-islanders-montreal-canadiens",
+      "id": "hockey-nhl-2027-03-10-florida-panthers-new-jersey-devils",
       "weekend": "2027-03-10",
-      "name": "New York Islanders v Montreal Canadiens",
+      "name": "Florida Panthers v New Jersey Devils",
       "utc": "2027-03-10T00:00:00Z"
     },
     {
@@ -6965,16 +6959,16 @@
       "utc": "2027-03-10T00:00:00Z"
     },
     {
+      "id": "hockey-nhl-2027-03-10-new-york-islanders-montreal-canadiens",
+      "weekend": "2027-03-10",
+      "name": "New York Islanders v Montreal Canadiens",
+      "utc": "2027-03-10T00:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2027-03-10-washington-capitals-calgary-flames",
       "weekend": "2027-03-10",
       "name": "Washington Capitals v Calgary Flames",
       "utc": "2027-03-10T00:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-03-10-st-louis-blues-nashville-predators",
-      "weekend": "2027-03-10",
-      "name": "St. Louis Blues v Nashville Predators",
-      "utc": "2027-03-10T01:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-03-10-minnesota-wild-carolina-hurricanes",
@@ -6983,15 +6977,21 @@
       "utc": "2027-03-10T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-10-winnipeg-jets-detroit-red-wings",
+      "id": "hockey-nhl-2027-03-10-st-louis-blues-nashville-predators",
       "weekend": "2027-03-10",
-      "name": "Winnipeg Jets v Detroit Red Wings",
+      "name": "St. Louis Blues v Nashville Predators",
       "utc": "2027-03-10T01:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-03-10-edmonton-oilers-los-angeles-kings",
       "weekend": "2027-03-10",
       "name": "Edmonton Oilers v Los Angeles Kings",
+      "utc": "2027-03-10T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-10-winnipeg-jets-detroit-red-wings",
+      "weekend": "2027-03-10",
+      "name": "Winnipeg Jets v Detroit Red Wings",
       "utc": "2027-03-10T01:00:00Z"
     },
     {
@@ -7061,15 +7061,15 @@
       "utc": "2027-03-12T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-12-winnipeg-jets-toronto-maple-leafs",
-      "weekend": "2027-03-12",
-      "name": "Winnipeg Jets v Toronto Maple Leafs",
-      "utc": "2027-03-12T01:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-12-edmonton-oilers-nashville-predators",
       "weekend": "2027-03-12",
       "name": "Edmonton Oilers v Nashville Predators",
+      "utc": "2027-03-12T01:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-12-winnipeg-jets-toronto-maple-leafs",
+      "weekend": "2027-03-12",
+      "name": "Winnipeg Jets v Toronto Maple Leafs",
       "utc": "2027-03-12T01:00:00Z"
     },
     {
@@ -7091,9 +7091,9 @@
       "utc": "2027-03-12T03:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-13-detroit-red-wings-buffalo-sabres",
+      "id": "hockey-nhl-2027-03-13-carolina-hurricanes-calgary-flames",
       "weekend": "2027-03-13",
-      "name": "Detroit Red Wings v Buffalo Sabres",
+      "name": "Carolina Hurricanes v Calgary Flames",
       "utc": "2027-03-13T00:00:00Z"
     },
     {
@@ -7103,9 +7103,9 @@
       "utc": "2027-03-13T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-13-carolina-hurricanes-calgary-flames",
+      "id": "hockey-nhl-2027-03-13-detroit-red-wings-buffalo-sabres",
       "weekend": "2027-03-13",
-      "name": "Carolina Hurricanes v Calgary Flames",
+      "name": "Detroit Red Wings v Buffalo Sabres",
       "utc": "2027-03-13T00:00:00Z"
     },
     {
@@ -7145,15 +7145,15 @@
       "utc": "2027-03-14T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-14-boston-bruins-calgary-flames",
-      "weekend": "2027-03-14",
-      "name": "Boston Bruins v Calgary Flames",
-      "utc": "2027-03-14T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-14-ottawa-senators-montreal-canadiens",
       "weekend": "2027-03-14",
       "name": "Ottawa Senators v Montreal Canadiens",
+      "utc": "2027-03-14T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-14-carolina-hurricanes-new-jersey-devils",
+      "weekend": "2027-03-14",
+      "name": "Carolina Hurricanes v New Jersey Devils",
       "utc": "2027-03-14T00:00:00Z"
     },
     {
@@ -7163,9 +7163,9 @@
       "utc": "2027-03-14T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-14-carolina-hurricanes-new-jersey-devils",
+      "id": "hockey-nhl-2027-03-14-boston-bruins-calgary-flames",
       "weekend": "2027-03-14",
-      "name": "Carolina Hurricanes v New Jersey Devils",
+      "name": "Boston Bruins v Calgary Flames",
       "utc": "2027-03-14T00:00:00Z"
     },
     {
@@ -7181,15 +7181,15 @@
       "utc": "2027-03-14T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-14-vegas-golden-knights-new-york-rangers",
-      "weekend": "2027-03-14",
-      "name": "Vegas Golden Knights v New York Rangers",
-      "utc": "2027-03-14T03:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-14-seattle-kraken-edmonton-oilers",
       "weekend": "2027-03-14",
       "name": "Seattle Kraken v Edmonton Oilers",
+      "utc": "2027-03-14T03:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-14-vegas-golden-knights-new-york-rangers",
+      "weekend": "2027-03-14",
+      "name": "Vegas Golden Knights v New York Rangers",
       "utc": "2027-03-14T03:00:00Z"
     },
     {
@@ -7271,15 +7271,15 @@
       "utc": "2027-03-16T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-16-montreal-canadiens-florida-panthers",
-      "weekend": "2027-03-16",
-      "name": "Montreal Canadiens v Florida Panthers",
-      "utc": "2027-03-16T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-16-new-york-rangers-ottawa-senators",
       "weekend": "2027-03-16",
       "name": "New York Rangers v Ottawa Senators",
+      "utc": "2027-03-16T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-16-montreal-canadiens-florida-panthers",
+      "weekend": "2027-03-16",
+      "name": "Montreal Canadiens v Florida Panthers",
       "utc": "2027-03-16T23:00:00Z"
     },
     {
@@ -7349,9 +7349,9 @@
       "utc": "2027-03-18T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-18-montreal-canadiens-tampa-bay-lightning",
+      "id": "hockey-nhl-2027-03-18-detroit-red-wings-columbus-blue-jackets",
       "weekend": "2027-03-18",
-      "name": "Montreal Canadiens v Tampa Bay Lightning",
+      "name": "Detroit Red Wings v Columbus Blue Jackets",
       "utc": "2027-03-18T23:00:00Z"
     },
     {
@@ -7361,21 +7361,21 @@
       "utc": "2027-03-18T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-18-detroit-red-wings-columbus-blue-jackets",
+      "id": "hockey-nhl-2027-03-18-montreal-canadiens-tampa-bay-lightning",
       "weekend": "2027-03-18",
-      "name": "Detroit Red Wings v Columbus Blue Jackets",
-      "utc": "2027-03-18T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-03-18-philadelphia-flyers-boston-bruins",
-      "weekend": "2027-03-18",
-      "name": "Philadelphia Flyers v Boston Bruins",
+      "name": "Montreal Canadiens v Tampa Bay Lightning",
       "utc": "2027-03-18T23:00:00Z"
     },
     {
       "id": "hockey-nhl-2027-03-18-new-jersey-devils-pittsburgh-penguins",
       "weekend": "2027-03-18",
       "name": "New Jersey Devils v Pittsburgh Penguins",
+      "utc": "2027-03-18T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-18-philadelphia-flyers-boston-bruins",
+      "weekend": "2027-03-18",
+      "name": "Philadelphia Flyers v Boston Bruins",
       "utc": "2027-03-18T23:00:00Z"
     },
     {
@@ -7463,9 +7463,9 @@
       "utc": "2027-03-20T21:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-20-ottawa-senators-tampa-bay-lightning",
+      "id": "hockey-nhl-2027-03-20-winnipeg-jets-columbus-blue-jackets",
       "weekend": "2027-03-20",
-      "name": "Ottawa Senators v Tampa Bay Lightning",
+      "name": "Winnipeg Jets v Columbus Blue Jackets",
       "utc": "2027-03-20T23:00:00Z"
     },
     {
@@ -7475,9 +7475,9 @@
       "utc": "2027-03-20T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-20-winnipeg-jets-columbus-blue-jackets",
+      "id": "hockey-nhl-2027-03-20-ottawa-senators-tampa-bay-lightning",
       "weekend": "2027-03-20",
-      "name": "Winnipeg Jets v Columbus Blue Jackets",
+      "name": "Ottawa Senators v Tampa Bay Lightning",
       "utc": "2027-03-20T23:00:00Z"
     },
     {
@@ -7493,15 +7493,15 @@
       "utc": "2027-03-21T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-21-anaheim-ducks-vegas-golden-knights",
-      "weekend": "2027-03-21",
-      "name": "Anaheim Ducks v Vegas Golden Knights",
-      "utc": "2027-03-21T02:30:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-21-san-jose-sharks-carolina-hurricanes",
       "weekend": "2027-03-21",
       "name": "San Jose Sharks v Carolina Hurricanes",
+      "utc": "2027-03-21T02:30:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-21-anaheim-ducks-vegas-golden-knights",
+      "weekend": "2027-03-21",
+      "name": "Anaheim Ducks v Vegas Golden Knights",
       "utc": "2027-03-21T02:30:00Z"
     },
     {
@@ -7565,9 +7565,9 @@
       "utc": "2027-03-23T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-23-boston-bruins-buffalo-sabres",
+      "id": "hockey-nhl-2027-03-23-new-jersey-devils-philadelphia-flyers",
       "weekend": "2027-03-23",
-      "name": "Boston Bruins v Buffalo Sabres",
+      "name": "New Jersey Devils v Philadelphia Flyers",
       "utc": "2027-03-23T23:00:00Z"
     },
     {
@@ -7583,9 +7583,9 @@
       "utc": "2027-03-23T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-23-new-jersey-devils-philadelphia-flyers",
+      "id": "hockey-nhl-2027-03-23-boston-bruins-buffalo-sabres",
       "weekend": "2027-03-23",
-      "name": "New Jersey Devils v Philadelphia Flyers",
+      "name": "Boston Bruins v Buffalo Sabres",
       "utc": "2027-03-23T23:00:00Z"
     },
     {
@@ -7601,15 +7601,15 @@
       "utc": "2027-03-24T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-24-minnesota-wild-chicago-blackhawks",
-      "weekend": "2027-03-24",
-      "name": "Minnesota Wild v Chicago Blackhawks",
-      "utc": "2027-03-24T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-24-winnipeg-jets-st-louis-blues",
       "weekend": "2027-03-24",
       "name": "Winnipeg Jets v St. Louis Blues",
+      "utc": "2027-03-24T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-24-minnesota-wild-chicago-blackhawks",
+      "weekend": "2027-03-24",
+      "name": "Minnesota Wild v Chicago Blackhawks",
       "utc": "2027-03-24T00:00:00Z"
     },
     {
@@ -7667,12 +7667,6 @@
       "utc": "2027-03-25T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-25-columbus-blue-jackets-chicago-blackhawks",
-      "weekend": "2027-03-25",
-      "name": "Columbus Blue Jackets v Chicago Blackhawks",
-      "utc": "2027-03-25T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-25-buffalo-sabres-toronto-maple-leafs",
       "weekend": "2027-03-25",
       "name": "Buffalo Sabres v Toronto Maple Leafs",
@@ -7685,15 +7679,21 @@
       "utc": "2027-03-25T23:00:00Z"
     },
     {
+      "id": "hockey-nhl-2027-03-25-pittsburgh-penguins-new-jersey-devils",
+      "weekend": "2027-03-25",
+      "name": "Pittsburgh Penguins v New Jersey Devils",
+      "utc": "2027-03-25T23:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2027-03-25-carolina-hurricanes-dallas-stars",
       "weekend": "2027-03-25",
       "name": "Carolina Hurricanes v Dallas Stars",
       "utc": "2027-03-25T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-25-pittsburgh-penguins-new-jersey-devils",
+      "id": "hockey-nhl-2027-03-25-columbus-blue-jackets-chicago-blackhawks",
       "weekend": "2027-03-25",
-      "name": "Pittsburgh Penguins v New Jersey Devils",
+      "name": "Columbus Blue Jackets v Chicago Blackhawks",
       "utc": "2027-03-25T23:00:00Z"
     },
     {
@@ -7775,15 +7775,15 @@
       "utc": "2027-03-27T22:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-27-toronto-maple-leafs-ottawa-senators",
+      "id": "hockey-nhl-2027-03-27-montreal-canadiens-new-jersey-devils",
       "weekend": "2027-03-27",
-      "name": "Toronto Maple Leafs v Ottawa Senators",
+      "name": "Montreal Canadiens v New Jersey Devils",
       "utc": "2027-03-27T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-27-columbus-blue-jackets-st-louis-blues",
+      "id": "hockey-nhl-2027-03-27-toronto-maple-leafs-ottawa-senators",
       "weekend": "2027-03-27",
-      "name": "Columbus Blue Jackets v St. Louis Blues",
+      "name": "Toronto Maple Leafs v Ottawa Senators",
       "utc": "2027-03-27T23:00:00Z"
     },
     {
@@ -7793,9 +7793,9 @@
       "utc": "2027-03-27T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-27-montreal-canadiens-new-jersey-devils",
+      "id": "hockey-nhl-2027-03-27-colorado-avalanche-winnipeg-jets",
       "weekend": "2027-03-27",
-      "name": "Montreal Canadiens v New Jersey Devils",
+      "name": "Colorado Avalanche v Winnipeg Jets",
       "utc": "2027-03-27T23:00:00Z"
     },
     {
@@ -7805,9 +7805,9 @@
       "utc": "2027-03-27T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-27-colorado-avalanche-winnipeg-jets",
+      "id": "hockey-nhl-2027-03-27-columbus-blue-jackets-st-louis-blues",
       "weekend": "2027-03-27",
-      "name": "Colorado Avalanche v Winnipeg Jets",
+      "name": "Columbus Blue Jackets v St. Louis Blues",
       "utc": "2027-03-27T23:00:00Z"
     },
     {
@@ -7853,15 +7853,15 @@
       "utc": "2027-03-29T00:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-29-new-jersey-devils-carolina-hurricanes",
-      "weekend": "2027-03-29",
-      "name": "New Jersey Devils v Carolina Hurricanes",
-      "utc": "2027-03-29T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-29-new-york-rangers-minnesota-wild",
       "weekend": "2027-03-29",
       "name": "New York Rangers v Minnesota Wild",
+      "utc": "2027-03-29T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-29-new-jersey-devils-carolina-hurricanes",
+      "weekend": "2027-03-29",
+      "name": "New Jersey Devils v Carolina Hurricanes",
       "utc": "2027-03-29T23:00:00Z"
     },
     {
@@ -7877,21 +7877,15 @@
       "utc": "2027-03-30T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-30-detroit-red-wings-ottawa-senators",
-      "weekend": "2027-03-30",
-      "name": "Detroit Red Wings v Ottawa Senators",
-      "utc": "2027-03-30T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-03-30-boston-bruins-montreal-canadiens",
-      "weekend": "2027-03-30",
-      "name": "Boston Bruins v Montreal Canadiens",
-      "utc": "2027-03-30T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-03-30-tampa-bay-lightning-toronto-maple-leafs",
       "weekend": "2027-03-30",
       "name": "Tampa Bay Lightning v Toronto Maple Leafs",
+      "utc": "2027-03-30T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-03-30-detroit-red-wings-ottawa-senators",
+      "weekend": "2027-03-30",
+      "name": "Detroit Red Wings v Ottawa Senators",
       "utc": "2027-03-30T23:00:00Z"
     },
     {
@@ -7901,15 +7895,21 @@
       "utc": "2027-03-30T23:00:00Z"
     },
     {
+      "id": "hockey-nhl-2027-03-30-philadelphia-flyers-pittsburgh-penguins",
+      "weekend": "2027-03-30",
+      "name": "Philadelphia Flyers v Pittsburgh Penguins",
+      "utc": "2027-03-30T23:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2027-03-30-washington-capitals-chicago-blackhawks",
       "weekend": "2027-03-30",
       "name": "Washington Capitals v Chicago Blackhawks",
       "utc": "2027-03-30T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-03-30-philadelphia-flyers-pittsburgh-penguins",
+      "id": "hockey-nhl-2027-03-30-boston-bruins-montreal-canadiens",
       "weekend": "2027-03-30",
-      "name": "Philadelphia Flyers v Pittsburgh Penguins",
+      "name": "Boston Bruins v Montreal Canadiens",
       "utc": "2027-03-30T23:00:00Z"
     },
     {
@@ -8003,15 +8003,15 @@
       "utc": "2027-04-01T23:30:00Z"
     },
     {
-      "id": "hockey-nhl-2027-04-02-st-louis-blues-calgary-flames",
-      "weekend": "2027-04-02",
-      "name": "St. Louis Blues v Calgary Flames",
-      "utc": "2027-04-02T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-04-02-nashville-predators-chicago-blackhawks",
       "weekend": "2027-04-02",
       "name": "Nashville Predators v Chicago Blackhawks",
+      "utc": "2027-04-02T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-04-02-st-louis-blues-calgary-flames",
+      "weekend": "2027-04-02",
+      "name": "St. Louis Blues v Calgary Flames",
       "utc": "2027-04-02T00:00:00Z"
     },
     {
@@ -8021,15 +8021,15 @@
       "utc": "2027-04-02T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-04-02-detroit-red-wings-carolina-hurricanes",
-      "weekend": "2027-04-02",
-      "name": "Detroit Red Wings v Carolina Hurricanes",
-      "utc": "2027-04-02T23:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-04-02-new-york-islanders-ottawa-senators",
       "weekend": "2027-04-02",
       "name": "New York Islanders v Ottawa Senators",
+      "utc": "2027-04-02T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-04-02-detroit-red-wings-carolina-hurricanes",
+      "weekend": "2027-04-02",
+      "name": "Detroit Red Wings v Carolina Hurricanes",
       "utc": "2027-04-02T23:00:00Z"
     },
     {
@@ -8105,12 +8105,6 @@
       "utc": "2027-04-04T00:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-04-04-vancouver-canucks-san-jose-sharks",
-      "weekend": "2027-04-04",
-      "name": "Vancouver Canucks v San Jose Sharks",
-      "utc": "2027-04-04T02:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-04-04-anaheim-ducks-edmonton-oilers",
       "weekend": "2027-04-04",
       "name": "Anaheim Ducks v Edmonton Oilers",
@@ -8120,6 +8114,12 @@
       "id": "hockey-nhl-2027-04-04-utah-mammoth-vegas-golden-knights",
       "weekend": "2027-04-04",
       "name": "Utah Mammoth v Vegas Golden Knights",
+      "utc": "2027-04-04T02:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-04-04-vancouver-canucks-san-jose-sharks",
+      "weekend": "2027-04-04",
+      "name": "Vancouver Canucks v San Jose Sharks",
       "utc": "2027-04-04T02:00:00Z"
     },
     {
@@ -8231,15 +8231,15 @@
       "utc": "2027-04-06T23:45:00Z"
     },
     {
-      "id": "hockey-nhl-2027-04-07-nashville-predators-seattle-kraken",
-      "weekend": "2027-04-07",
-      "name": "Nashville Predators v Seattle Kraken",
-      "utc": "2027-04-07T00:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-04-07-minnesota-wild-chicago-blackhawks",
       "weekend": "2027-04-07",
       "name": "Minnesota Wild v Chicago Blackhawks",
+      "utc": "2027-04-07T00:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-04-07-nashville-predators-seattle-kraken",
+      "weekend": "2027-04-07",
+      "name": "Nashville Predators v Seattle Kraken",
       "utc": "2027-04-07T00:00:00Z"
     },
     {
@@ -8327,21 +8327,21 @@
       "utc": "2027-04-09T01:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-04-09-san-jose-sharks-minnesota-wild",
-      "weekend": "2027-04-09",
-      "name": "San Jose Sharks v Minnesota Wild",
-      "utc": "2027-04-09T02:00:00Z"
-    },
-    {
       "id": "hockey-nhl-2027-04-09-los-angeles-kings-vegas-golden-knights",
       "weekend": "2027-04-09",
       "name": "Los Angeles Kings v Vegas Golden Knights",
       "utc": "2027-04-09T02:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-04-09-winnipeg-jets-vancouver-canucks",
+      "id": "hockey-nhl-2027-04-09-san-jose-sharks-minnesota-wild",
       "weekend": "2027-04-09",
-      "name": "Winnipeg Jets v Vancouver Canucks",
+      "name": "San Jose Sharks v Minnesota Wild",
+      "utc": "2027-04-09T02:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-04-09-florida-panthers-boston-bruins",
+      "weekend": "2027-04-09",
+      "name": "Florida Panthers v Boston Bruins",
       "utc": "2027-04-09T23:00:00Z"
     },
     {
@@ -8351,9 +8351,9 @@
       "utc": "2027-04-09T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-04-09-florida-panthers-boston-bruins",
+      "id": "hockey-nhl-2027-04-09-winnipeg-jets-vancouver-canucks",
       "weekend": "2027-04-09",
-      "name": "Florida Panthers v Boston Bruins",
+      "name": "Winnipeg Jets v Vancouver Canucks",
       "utc": "2027-04-09T23:00:00Z"
     },
     {
@@ -8387,6 +8387,18 @@
       "utc": "2027-04-10T21:00:00Z"
     },
     {
+      "id": "hockey-nhl-2027-04-10-florida-panthers-carolina-hurricanes",
+      "weekend": "2027-04-10",
+      "name": "Florida Panthers v Carolina Hurricanes",
+      "utc": "2027-04-10T22:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-04-10-buffalo-sabres-detroit-red-wings",
+      "weekend": "2027-04-10",
+      "name": "Buffalo Sabres v Detroit Red Wings",
+      "utc": "2027-04-10T22:00:00Z"
+    },
+    {
       "id": "hockey-nhl-2027-04-10-new-jersey-devils-pittsburgh-penguins",
       "weekend": "2027-04-10",
       "name": "New Jersey Devils v Pittsburgh Penguins",
@@ -8399,27 +8411,9 @@
       "utc": "2027-04-10T22:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-04-10-buffalo-sabres-detroit-red-wings",
+      "id": "hockey-nhl-2027-04-10-ottawa-senators-montreal-canadiens",
       "weekend": "2027-04-10",
-      "name": "Buffalo Sabres v Detroit Red Wings",
-      "utc": "2027-04-10T22:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-04-10-florida-panthers-carolina-hurricanes",
-      "weekend": "2027-04-10",
-      "name": "Florida Panthers v Carolina Hurricanes",
-      "utc": "2027-04-10T22:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-04-10-new-york-rangers-toronto-maple-leafs",
-      "weekend": "2027-04-10",
-      "name": "New York Rangers v Toronto Maple Leafs",
-      "utc": "2027-04-10T23:00:00Z"
-    },
-    {
-      "id": "hockey-nhl-2027-04-10-nashville-predators-dallas-stars",
-      "weekend": "2027-04-10",
-      "name": "Nashville Predators v Dallas Stars",
+      "name": "Ottawa Senators v Montreal Canadiens",
       "utc": "2027-04-10T23:00:00Z"
     },
     {
@@ -8429,9 +8423,15 @@
       "utc": "2027-04-10T23:00:00Z"
     },
     {
-      "id": "hockey-nhl-2027-04-10-ottawa-senators-montreal-canadiens",
+      "id": "hockey-nhl-2027-04-10-nashville-predators-dallas-stars",
       "weekend": "2027-04-10",
-      "name": "Ottawa Senators v Montreal Canadiens",
+      "name": "Nashville Predators v Dallas Stars",
+      "utc": "2027-04-10T23:00:00Z"
+    },
+    {
+      "id": "hockey-nhl-2027-04-10-new-york-rangers-toronto-maple-leafs",
+      "weekend": "2027-04-10",
+      "name": "New York Rangers v Toronto Maple Leafs",
       "utc": "2027-04-10T23:00:00Z"
     },
     {
