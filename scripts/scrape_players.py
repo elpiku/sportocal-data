@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Scrapes and compiles current athlete, driver, and player rosters across all supported sports.
-Extracts every athlete, fighter, driver, and star from event JSONs in the repository.
+Scrapes and compiles complete athlete, driver, and player rosters strictly
+for the sports leagues and competitions tracked by SportoCal.
+Fetches official squad rosters from ESPN Core API and motorsport driver grids.
 Generates players.json at the repo root.
 
 Run: python scripts/scrape_players.py
@@ -10,13 +11,72 @@ Run: python scripts/scrape_players.py
 import json
 import re
 import sys
+import time
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_PATH = REPO_ROOT / "players.json"
 
-# Curated high-profile roster baseline for instant reliability
-CURATED_ATHLETES = [
+COUNTRY_FLAGS = {
+    "Afghanistan": "🇦🇫", "Albania": "🇦🇱", "Algeria": "🇩🇿", "Argentina": "🇦🇷", "Armenia": "🇦🇲",
+    "Australia": "🇦🇺", "Austria": "🇦🇹", "Azerbaijan": "🇦🇿", "Bahrain": "🇧🇭", "Belgium": "🇧🇪",
+    "Brazil": "🇧🇷", "Bulgaria": "🇧🇬", "Canada": "🇨🇦", "Chile": "🇨🇱", "China": "🇨🇳",
+    "Colombia": "🇨🇴", "Croatia": "🇭🇷", "Czech Republic": "🇨🇿", "Denmark": "🇩🇰", "Egypt": "🇪🇬",
+    "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Estonia": "🇪🇪", "Finland": "🇫🇮", "France": "🇫🇷", "Georgia": "🇬🇪",
+    "Germany": "🇩🇪", "Ghana": "🇬🇭", "Great Britain": "🇬🇧", "Greece": "🇬🇷", "Hungary": "🇭🇺",
+    "Iceland": "🇮🇸", "India": "🇮🇳", "Indonesia": "🇮🇩", "Ireland": "🇮🇪", "Israel": "🇮🇱",
+    "Italy": "🇮🇹", "Ivory Coast": "🇨🇮", "Cote d'Ivoire": "🇨🇮", "Jamaica": "🇯🇲", "Japan": "🇯🇵",
+    "Kazakhstan": "🇰🇿", "Kenya": "🇰🇪", "Lithuania": "🇱🇹", "Latvia": "🇱🇻", "Mali": "🇲🇱",
+    "Mexico": "🇲🇽", "Monaco": "🇲🇨", "Montenegro": "🇲🇪", "Morocco": "🇲🇦", "Netherlands": "🇳🇱",
+    "New Zealand": "🇳🇿", "Nigeria": "🇳🇬", "Northern Ireland": "🇬🇧", "Norway": "🇳🇴",
+    "Paraguay": "🇵🇾", "Peru": "🇵🇪", "Poland": "🇵🇱", "Portugal": "🇵🇹", "Qatar": "🇶🇦",
+    "Romania": "🇷🇴", "Russia": "🇷🇺", "Saudi Arabia": "🇸🇦", "Scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "Senegal": "🇸🇳", "Serbia": "🇷🇸", "Singapore": "🇸🇬", "Slovakia": "🇸🇰", "Slovenia": "🇸🇮",
+    "South Africa": "🇿🇦", "South Korea": "🇰🇷", "Spain": "🇪🇸", "Sweden": "🇸🇪", "Switzerland": "🇨🇭",
+    "Thailand": "🇹🇭", "Turkey": "🇹🇷", "Ukraine": "🇺🇦", "United Arab Emirates": "🇦🇪",
+    "United Kingdom": "🇬🇧", "United States": "🇺🇸", "USA": "🇺🇸", "Uruguay": "🇺🇾",
+    "Venezuela": "🇻🇪", "Wales": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+}
+
+def format_country(country_raw: str) -> str:
+    if not country_raw:
+        return "🌍 Global"
+    country_clean = country_raw.strip()
+    flag = COUNTRY_FLAGS.get(country_clean)
+    if not flag:
+        for c_name, c_flag in COUNTRY_FLAGS.items():
+            if c_name.lower() == country_clean.lower():
+                flag = c_flag
+                break
+    return f"{flag} {country_clean}" if flag else country_clean
+
+def fetch_json(url: str):
+    """Fetches JSON via requests if available, falling back to curl or urllib."""
+    try:
+        import requests
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+            'Accept': 'application/json, text/plain, */*'
+        }
+        resp = requests.get(url, headers=headers, timeout=12)
+        if resp.status_code == 200:
+            return resp.json()
+    except Exception:
+        pass
+
+    try:
+        import subprocess
+        cmd = ['curl.exe', '-s', url] if sys.platform == 'win32' else ['curl', '-s', url]
+        out = subprocess.check_output(cmd, timeout=12)
+        return json.loads(out.decode('utf-8'))
+    except Exception:
+        pass
+
+    return None
+
+# 1. Motorsport Drivers (Grid Rosters for the App's Racing Series)
+MOTORSPORT_ATHLETES = [
     # Formula 1
     {"name": "Max Verstappen", "team": "Red Bull Racing", "leagueId": "f1", "leagueName": "Formula 1", "country": "🇳🇱 Netherlands", "category": "MOTORSPORT"},
     {"name": "Lewis Hamilton", "team": "Ferrari", "leagueId": "f1", "leagueName": "Formula 1", "country": "🇬🇧 Great Britain", "category": "MOTORSPORT"},
@@ -49,6 +109,10 @@ CURATED_ATHLETES = [
     {"name": "Fabio Quartararo", "team": "Monster Yamaha", "leagueId": "motogp", "leagueName": "MotoGP", "country": "🇫🇷 France", "category": "MOTORSPORT"},
     {"name": "Maverick Viñales", "team": "Tech3 KTM", "leagueId": "motogp", "leagueName": "MotoGP", "country": "🇪🇸 Spain", "category": "MOTORSPORT"},
     {"name": "Enea Bastianini", "team": "Tech3 KTM", "leagueId": "motogp", "leagueName": "MotoGP", "country": "🇮🇹 Italy", "category": "MOTORSPORT"},
+    {"name": "Franco Morbidelli", "team": "VR46 Racing", "leagueId": "motogp", "leagueName": "MotoGP", "country": "🇮🇹 Italy", "category": "MOTORSPORT"},
+    {"name": "Fabio Di Giannantonio", "team": "VR46 Racing", "leagueId": "motogp", "leagueName": "MotoGP", "country": "🇮🇹 Italy", "category": "MOTORSPORT"},
+    {"name": "Alex Márquez", "team": "Gresini Racing", "leagueId": "motogp", "leagueName": "MotoGP", "country": "🇪🇸 Spain", "category": "MOTORSPORT"},
+    {"name": "Fermín Aldeguer", "team": "Gresini Racing", "leagueId": "motogp", "leagueName": "MotoGP", "country": "🇪🇸 Spain", "category": "MOTORSPORT"},
 
     # WRC Rally
     {"name": "Kalle Rovanperä", "team": "Toyota Gazoo Racing", "leagueId": "wrc", "leagueName": "WRC", "country": "🇫🇮 Finland", "category": "MOTORSPORT"},
@@ -59,178 +123,193 @@ CURATED_ATHLETES = [
     {"name": "Adrien Fourmaux", "team": "M-Sport Ford", "leagueId": "wrc", "leagueName": "WRC", "country": "🇫🇷 France", "category": "MOTORSPORT"},
     {"name": "Takamoto Katsuta", "team": "Toyota Gazoo Racing", "leagueId": "wrc", "leagueName": "WRC", "country": "🇯🇵 Japan", "category": "MOTORSPORT"},
     {"name": "Grégoire Munster", "team": "M-Sport Ford", "leagueId": "wrc", "leagueName": "WRC", "country": "🇱🇺 Luxembourg", "category": "MOTORSPORT"},
+    {"name": "Sami Pajari", "team": "Toyota Gazoo Racing", "leagueId": "wrc", "leagueName": "WRC", "country": "🇫🇮 Finland", "category": "MOTORSPORT"},
 
-    # Tennis - ATP Top Stars
-    {"name": "Carlos Alcaraz", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇪🇸 Spain", "category": "TENNIS"},
-    {"name": "Jannik Sinner", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇮🇹 Italy", "category": "TENNIS"},
-    {"name": "Novak Djokovic", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇷🇸 Serbia", "category": "TENNIS"},
-    {"name": "Daniil Medvedev", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇷🇺 Russia", "category": "TENNIS"},
-    {"name": "Alexander Zverev", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇩🇪 Germany", "category": "TENNIS"},
-    {"name": "Taylor Fritz", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
-    {"name": "Casper Ruud", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇳🇴 Norway", "category": "TENNIS"},
-    {"name": "Stefanos Tsitsipas", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇬🇷 Greece", "category": "TENNIS"},
-    {"name": "Holger Rune", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇩🇰 Denmark", "category": "TENNIS"},
-    {"name": "Grigor Dimitrov", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇧🇬 Bulgaria", "category": "TENNIS"},
-    {"name": "Alex de Minaur", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇦🇺 Australia", "category": "TENNIS"},
-    {"name": "Tommy Paul", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
-    {"name": "Ben Shelton", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
-    {"name": "Frances Tiafoe", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
-    {"name": "Andrey Rublev", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇷🇺 Russia", "category": "TENNIS"},
-    {"name": "Hubert Hurkacz", "team": "ATP Tour", "leagueId": "atp", "leagueName": "ATP Tour", "country": "🇵🇱 Poland", "category": "TENNIS"},
+    # IndyCar
+    {"name": "Alex Palou", "team": "Chip Ganassi Racing", "leagueId": "ntt-indycar", "leagueName": "IndyCar", "country": "🇪🇸 Spain", "category": "MOTORSPORT"},
+    {"name": "Will Power", "team": "Team Penske", "leagueId": "ntt-indycar", "leagueName": "IndyCar", "country": "🇦🇺 Australia", "category": "MOTORSPORT"},
+    {"name": "Scott McLaughlin", "team": "Team Penske", "leagueId": "ntt-indycar", "leagueName": "IndyCar", "country": "🇳🇿 New Zealand", "category": "MOTORSPORT"},
+    {"name": "Josef Newgarden", "team": "Team Penske", "leagueId": "ntt-indycar", "leagueName": "IndyCar", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Pato O'Ward", "team": "Arrow McLaren", "leagueId": "ntt-indycar", "leagueName": "IndyCar", "country": "🇲🇽 Mexico", "category": "MOTORSPORT"},
+    {"name": "Scott Dixon", "team": "Chip Ganassi Racing", "leagueId": "ntt-indycar", "leagueName": "IndyCar", "country": "🇳🇿 New Zealand", "category": "MOTORSPORT"},
+    {"name": "Colton Herta", "team": "Andretti Global", "leagueId": "ntt-indycar", "leagueName": "IndyCar", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Kyle Kirkwood", "team": "Andretti Global", "leagueId": "ntt-indycar", "leagueName": "IndyCar", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Marcus Armstrong", "team": "Meyer Shank Racing", "leagueId": "ntt-indycar", "leagueName": "IndyCar", "country": "🇳🇿 New Zealand", "category": "MOTORSPORT"},
+    {"name": "Felix Rosenqvist", "team": "Meyer Shank Racing", "leagueId": "ntt-indycar", "leagueName": "IndyCar", "country": "🇸🇪 Sweden", "category": "MOTORSPORT"},
 
-    # Tennis - WTA Top Stars
-    {"name": "Aryna Sabalenka", "team": "WTA Tour", "leagueId": "wta", "leagueName": "WTA Tour", "country": "🇧🇾 Belarus", "category": "TENNIS"},
-    {"name": "Iga Świątek", "team": "WTA Tour", "leagueId": "wta", "leagueName": "WTA Tour", "country": "🇵🇱 Poland", "category": "TENNIS"},
-    {"name": "Coco Gauff", "team": "WTA Tour", "leagueId": "wta", "leagueName": "WTA Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
-    {"name": "Elena Rybakina", "team": "WTA Tour", "leagueId": "wta", "leagueName": "WTA Tour", "country": "🇰🇿 Kazakhstan", "category": "TENNIS"},
-    {"name": "Jessica Pegula", "team": "WTA Tour", "leagueId": "wta", "leagueName": "WTA Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
-    {"name": "Jasmine Paolini", "team": "WTA Tour", "leagueId": "wta", "leagueName": "WTA Tour", "country": "🇮🇹 Italy", "category": "TENNIS"},
-    {"name": "Qinwen Zheng", "team": "WTA Tour", "leagueId": "wta", "leagueName": "WTA Tour", "country": "🇨🇳 China", "category": "TENNIS"},
-    {"name": "Emma Navarro", "team": "WTA Tour", "leagueId": "wta", "leagueName": "WTA Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
-    {"name": "Paula Badosa", "team": "WTA Tour", "leagueId": "wta", "leagueName": "WTA Tour", "country": "🇪🇸 Spain", "category": "TENNIS"},
-    {"name": "Maria Sakkari", "team": "WTA Tour", "leagueId": "wta", "leagueName": "WTA Tour", "country": "🇬🇷 Greece", "category": "TENNIS"},
-
-    # MMA / UFC
-    {"name": "Jon Jones", "team": "UFC Heavyweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇺🇸 USA", "category": "MMA"},
-    {"name": "Alex Pereira", "team": "UFC Light Heavyweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇧🇷 Brazil", "category": "MMA"},
-    {"name": "Ilia Topuria", "team": "UFC Featherweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇪🇸 Spain", "category": "MMA"},
-    {"name": "Islam Makhachev", "team": "UFC Lightweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇷🇺 Russia", "category": "MMA"},
-    {"name": "Sean O'Malley", "team": "UFC Bantamweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇺🇸 USA", "category": "MMA"},
-    {"name": "Merab Dvalishvili", "team": "UFC Bantamweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇬🇪 Georgia", "category": "MMA"},
-    {"name": "Dricus du Plessis", "team": "UFC Middleweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇿🇦 South Africa", "category": "MMA"},
-    {"name": "Israel Adesanya", "team": "UFC Middleweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇳🇿 New Zealand", "category": "MMA"},
-    {"name": "Belal Muhammad", "team": "UFC Welterweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇵🇸 Palestine", "category": "MMA"},
-    {"name": "Shavkat Rakhmonov", "team": "UFC Welterweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇰🇿 Kazakhstan", "category": "MMA"},
-    {"name": "Alexandre Pantoja", "team": "UFC Flyweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇧🇷 Brazil", "category": "MMA"},
-    {"name": "Max Holloway", "team": "UFC Featherweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇺🇸 USA", "category": "MMA"},
-    {"name": "Dustin Poirier", "team": "UFC Lightweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇺🇸 USA", "category": "MMA"},
-    {"name": "Justin Gaethje", "team": "UFC Lightweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇺🇸 USA", "category": "MMA"},
-    {"name": "Charles Oliveira", "team": "UFC Lightweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇧🇷 Brazil", "category": "MMA"},
-    {"name": "Khamzat Chimaev", "team": "UFC Middleweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇦🇪 UAE", "category": "MMA"},
-    {"name": "Tom Aspinall", "team": "UFC Heavyweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇬🇧 Great Britain", "category": "MMA"},
-    {"name": "Ciryl Gane", "team": "UFC Heavyweight", "leagueId": "ufc", "leagueName": "UFC", "country": "🇫🇷 France", "category": "MMA"},
-
-    # Football - Premier League
-    {"name": "Erling Haaland", "team": "Manchester City", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇳🇴 Norway", "category": "FOOTBALL"},
-    {"name": "Kevin De Bruyne", "team": "Manchester City", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇧🇪 Belgium", "category": "FOOTBALL"},
-    {"name": "Phil Foden", "team": "Manchester City", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇬🇧 England", "category": "FOOTBALL"},
-    {"name": "Rodri", "team": "Manchester City", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇪🇸 Spain", "category": "FOOTBALL"},
-    {"name": "Mohamed Salah", "team": "Liverpool FC", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇪🇬 Egypt", "category": "FOOTBALL"},
-    {"name": "Virgil van Dijk", "team": "Liverpool FC", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇳🇱 Netherlands", "category": "FOOTBALL"},
-    {"name": "Trent Alexander-Arnold", "team": "Liverpool FC", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇬🇧 England", "category": "FOOTBALL"},
-    {"name": "Bukayo Saka", "team": "Arsenal", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇬🇧 England", "category": "FOOTBALL"},
-    {"name": "Martin Ødegaard", "team": "Arsenal", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇳🇴 Norway", "category": "FOOTBALL"},
-    {"name": "Declan Rice", "team": "Arsenal", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇬🇧 England", "category": "FOOTBALL"},
-    {"name": "William Saliba", "team": "Arsenal", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇫🇷 France", "category": "FOOTBALL"},
-    {"name": "Cole Palmer", "team": "Chelsea", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇬🇧 England", "category": "FOOTBALL"},
-    {"name": "Enzo Fernández", "team": "Chelsea", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇦🇷 Argentina", "category": "FOOTBALL"},
-    {"name": "Bruno Fernandes", "team": "Manchester United", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇵🇹 Portugal", "category": "FOOTBALL"},
-    {"name": "Marcus Rashford", "team": "Manchester United", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇬🇧 England", "category": "FOOTBALL"},
-    {"name": "Son Heung-min", "team": "Tottenham Hotspur", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇰🇷 South Korea", "category": "FOOTBALL"},
-    {"name": "James Maddison", "team": "Tottenham Hotspur", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇬🇧 England", "category": "FOOTBALL"},
-    {"name": "Alexander Isak", "team": "Newcastle United", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇸🇪 Sweden", "category": "FOOTBALL"},
-    {"name": "Ollie Watkins", "team": "Aston Villa", "leagueId": "premierleague", "leagueName": "Premier League", "country": "🇬🇧 England", "category": "FOOTBALL"},
-
-    # Football - La Liga
-    {"name": "Kylian Mbappé", "team": "Real Madrid", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇫🇷 France", "category": "FOOTBALL"},
-    {"name": "Vinicius Junior", "team": "Real Madrid", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇧🇷 Brazil", "category": "FOOTBALL"},
-    {"name": "Jude Bellingham", "team": "Real Madrid", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇬🇧 England", "category": "FOOTBALL"},
-    {"name": "Federico Valverde", "team": "Real Madrid", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇺🇾 Uruguay", "category": "FOOTBALL"},
-    {"name": "Rodrygo", "team": "Real Madrid", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇧🇷 Brazil", "category": "FOOTBALL"},
-    {"name": "Luka Modrić", "team": "Real Madrid", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇭🇷 Croatia", "category": "FOOTBALL"},
-    {"name": "Lamine Yamal", "team": "FC Barcelona", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇪🇸 Spain", "category": "FOOTBALL"},
-    {"name": "Robert Lewandowski", "team": "FC Barcelona", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇵🇱 Poland", "category": "FOOTBALL"},
-    {"name": "Raphinha", "team": "FC Barcelona", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇧🇷 Brazil", "category": "FOOTBALL"},
-    {"name": "Pedri", "team": "FC Barcelona", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇪🇸 Spain", "category": "FOOTBALL"},
-    {"name": "Gavi", "team": "FC Barcelona", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇪🇸 Spain", "category": "FOOTBALL"},
-    {"name": "Dani Olmo", "team": "FC Barcelona", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇪🇸 Spain", "category": "FOOTBALL"},
-    {"name": "Antoine Griezmann", "team": "Atletico Madrid", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇫🇷 France", "category": "FOOTBALL"},
-    {"name": "Julián Alvarez", "team": "Atletico Madrid", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇦🇷 Argentina", "category": "FOOTBALL"},
-    {"name": "Nico Williams", "team": "Athletic Club", "leagueId": "laliga", "leagueName": "La Liga", "country": "🇪🇸 Spain", "category": "FOOTBALL"},
-
-    # Football - Bundesliga / Serie A / Ligue 1
-    {"name": "Harry Kane", "team": "Bayern Munich", "leagueId": "bundesliga", "leagueName": "Bundesliga", "country": "🇬🇧 England", "category": "FOOTBALL"},
-    {"name": "Jamal Musiala", "team": "Bayern Munich", "leagueId": "bundesliga", "leagueName": "Bundesliga", "country": "🇩🇪 Germany", "category": "FOOTBALL"},
-    {"name": "Florian Wirtz", "team": "Bayer Leverkusen", "leagueId": "bundesliga", "leagueName": "Bundesliga", "country": "🇩🇪 Germany", "category": "FOOTBALL"},
-    {"name": "Lautaro Martínez", "team": "Inter Milan", "leagueId": "seriea", "leagueName": "Serie A", "country": "🇦🇷 Argentina", "category": "FOOTBALL"},
-    {"name": "Nicolò Barella", "team": "Inter Milan", "leagueId": "seriea", "leagueName": "Serie A", "country": "🇮🇹 Italy", "category": "FOOTBALL"},
-    {"name": "Khvicha Kvaratskhelia", "team": "Napoli", "leagueId": "seriea", "leagueName": "Serie A", "country": "🇬🇪 Georgia", "category": "FOOTBALL"},
-    {"name": "Victor Osimhen", "team": "Galatasaray", "leagueId": "tur.1", "leagueName": "Super Lig", "country": "🇳🇬 Nigeria", "category": "FOOTBALL"},
-    {"name": "Ousmane Dembélé", "team": "Paris Saint-Germain", "leagueId": "ligue1", "leagueName": "Ligue 1", "country": "🇫🇷 France", "category": "FOOTBALL"},
-    {"name": "Achraf Hakimi", "team": "Paris Saint-Germain", "leagueId": "ligue1", "leagueName": "Ligue 1", "country": "🇲🇦 Morocco", "category": "FOOTBALL"},
-
-    # Basketball - NBA
-    {"name": "LeBron James", "team": "Los Angeles Lakers", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Anthony Davis", "team": "Los Angeles Lakers", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Stephen Curry", "team": "Golden State Warriors", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Luka Dončić", "team": "Dallas Mavericks", "leagueId": "nba", "leagueName": "NBA", "country": "🇸🇮 Slovenia", "category": "BASKETBALL"},
-    {"name": "Kyrie Irving", "team": "Dallas Mavericks", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Nikola Jokić", "team": "Denver Nuggets", "leagueId": "nba", "leagueName": "NBA", "country": "🇷🇸 Serbia", "category": "BASKETBALL"},
-    {"name": "Jamal Murray", "team": "Denver Nuggets", "leagueId": "nba", "leagueName": "NBA", "country": "🇨🇦 Canada", "category": "BASKETBALL"},
-    {"name": "Giannis Antetokounmpo", "team": "Milwaukee Bucks", "leagueId": "nba", "leagueName": "NBA", "country": "🇬🇷 Greece", "category": "BASKETBALL"},
-    {"name": "Damian Lillard", "team": "Milwaukee Bucks", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Jayson Tatum", "team": "Boston Celtics", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Jaylen Brown", "team": "Boston Celtics", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Shai Gilgeous-Alexander", "team": "Oklahoma City Thunder", "leagueId": "nba", "leagueName": "NBA", "country": "🇨🇦 Canada", "category": "BASKETBALL"},
-    {"name": "Chet Holmgren", "team": "Oklahoma City Thunder", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Victor Wembanyama", "team": "San Antonio Spurs", "leagueId": "nba", "leagueName": "NBA", "country": "🇫🇷 France", "category": "BASKETBALL"},
-    {"name": "Anthony Edwards", "team": "Minnesota Timberwolves", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Kevin Durant", "team": "Phoenix Suns", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Devin Booker", "team": "Phoenix Suns", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Joel Embiid", "team": "Philadelphia 76ers", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Paul George", "team": "Philadelphia 76ers", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Tyrese Haliburton", "team": "Indiana Pacers", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Ja Morant", "team": "Memphis Grizzlies", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Jimmy Butler", "team": "Miami Heat", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Bam Adebayo", "team": "Miami Heat", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Trae Young", "team": "Atlanta Hawks", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Zion Williamson", "team": "New Orleans Pelicans", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"},
-    {"name": "Paolo Banchero", "team": "Orlando Magic", "leagueId": "nba", "leagueName": "NBA", "country": "🇺🇸 USA", "category": "BASKETBALL"}
+    # NASCAR Cup Series
+    {"name": "Kyle Larson", "team": "Hendrick Motorsports", "leagueId": "nascar-cup", "leagueName": "NASCAR Cup", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Chase Elliott", "team": "Hendrick Motorsports", "leagueId": "nascar-cup", "leagueName": "NASCAR Cup", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "William Byron", "team": "Hendrick Motorsports", "leagueId": "nascar-cup", "leagueName": "NASCAR Cup", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Ryan Blaney", "team": "Team Penske", "leagueId": "nascar-cup", "leagueName": "NASCAR Cup", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Joey Logano", "team": "Team Penske", "leagueId": "nascar-cup", "leagueName": "NASCAR Cup", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Denny Hamlin", "team": "Joe Gibbs Racing", "leagueId": "nascar-cup", "leagueName": "NASCAR Cup", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Christopher Bell", "team": "Joe Gibbs Racing", "leagueId": "nascar-cup", "leagueName": "NASCAR Cup", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Tyler Reddick", "team": "23XI Racing", "leagueId": "nascar-cup", "leagueName": "NASCAR Cup", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Bubba Wallace", "team": "23XI Racing", "leagueId": "nascar-cup", "leagueName": "NASCAR Cup", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Ross Chastain", "team": "Trackhouse Racing", "leagueId": "nascar-cup", "leagueName": "NASCAR Cup", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Shane van Gisbergen", "team": "Trackhouse Racing", "leagueId": "nascar-cup", "leagueName": "NASCAR Cup", "country": "🇳🇿 New Zealand", "category": "MOTORSPORT"}
 ]
 
-def extract_athletes_from_repo_events():
-    """Scans MMA, Tennis, and Motorsport JSON files to extract all fighting pairs and drivers."""
-    extracted = []
-    
-    # 1. MMA events
-    for mma_file in REPO_ROOT.glob("mma/**/*.json"):
-        if "espn-all" not in str(mma_file) and mma_file.name != "index.json":
+# 2. Tennis Stars (ATP / WTA)
+TENNIS_ATHLETES = [
+    {"name": "Carlos Alcaraz", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇪🇸 Spain", "category": "TENNIS"},
+    {"name": "Jannik Sinner", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇮🇹 Italy", "category": "TENNIS"},
+    {"name": "Novak Djokovic", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇷🇸 Serbia", "category": "TENNIS"},
+    {"name": "Daniil Medvedev", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇷🇺 Russia", "category": "TENNIS"},
+    {"name": "Alexander Zverev", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇩🇪 Germany", "category": "TENNIS"},
+    {"name": "Taylor Fritz", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
+    {"name": "Casper Ruud", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇳🇴 Norway", "category": "TENNIS"},
+    {"name": "Stefanos Tsitsipas", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇬🇷 Greece", "category": "TENNIS"},
+    {"name": "Holger Rune", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇩🇰 Denmark", "category": "TENNIS"},
+    {"name": "Grigor Dimitrov", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇧🇬 Bulgaria", "category": "TENNIS"},
+    {"name": "Alex de Minaur", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇦🇺 Australia", "category": "TENNIS"},
+    {"name": "Tommy Paul", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
+    {"name": "Ben Shelton", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
+    {"name": "Frances Tiafoe", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
+    {"name": "Andrey Rublev", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇷🇺 Russia", "category": "TENNIS"},
+    {"name": "Hubert Hurkacz", "team": "ATP Tour", "leagueId": "tennis-atp", "leagueName": "ATP Tour", "country": "🇵🇱 Poland", "category": "TENNIS"},
+    {"name": "Aryna Sabalenka", "team": "WTA Tour", "leagueId": "tennis-wta", "leagueName": "WTA Tour", "country": "🇧🇾 Belarus", "category": "TENNIS"},
+    {"name": "Iga Świątek", "team": "WTA Tour", "leagueId": "tennis-wta", "leagueName": "WTA Tour", "country": "🇵🇱 Poland", "category": "TENNIS"},
+    {"name": "Coco Gauff", "team": "WTA Tour", "leagueId": "tennis-wta", "leagueName": "WTA Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
+    {"name": "Elena Rybakina", "team": "WTA Tour", "leagueId": "tennis-wta", "leagueName": "WTA Tour", "country": "🇰🇿 Kazakhstan", "category": "TENNIS"},
+    {"name": "Jessica Pegula", "team": "WTA Tour", "leagueId": "tennis-wta", "leagueName": "WTA Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
+    {"name": "Jasmine Paolini", "team": "WTA Tour", "leagueId": "tennis-wta", "leagueName": "WTA Tour", "country": "🇮🇹 Italy", "category": "TENNIS"},
+    {"name": "Qinwen Zheng", "team": "WTA Tour", "leagueId": "tennis-wta", "leagueName": "WTA Tour", "country": "🇨🇳 China", "category": "TENNIS"},
+    {"name": "Emma Navarro", "team": "WTA Tour", "leagueId": "tennis-wta", "leagueName": "WTA Tour", "country": "🇺🇸 USA", "category": "TENNIS"},
+    {"name": "Paula Badosa", "team": "WTA Tour", "leagueId": "tennis-wta", "leagueName": "WTA Tour", "country": "🇪🇸 Spain", "category": "TENNIS"}
+]
+
+# Supported Team Leagues that SportoCal has schedules for
+LEAGUES_TO_SCRAPE = [
+    ("soccer", "eng.1", "premierleague", "Premier League", "FOOTBALL"),
+    ("soccer", "esp.1", "laliga", "La Liga", "FOOTBALL"),
+    ("soccer", "ita.1", "seriea", "Serie A", "FOOTBALL"),
+    ("soccer", "ger.1", "bundesliga", "Bundesliga", "FOOTBALL"),
+    ("soccer", "fra.1", "soccer-fra.1", "Ligue 1", "FOOTBALL"),
+    ("soccer", "usa.1", "mls", "MLS", "FOOTBALL"),
+    ("soccer", "uefa.champions", "championsleague", "Champions League", "FOOTBALL"),
+    ("basketball", "nba", "nba", "NBA", "BASKETBALL"),
+    ("basketball", "wnba", "basketball-wnba", "WNBA", "BASKETBALL"),
+    ("hockey", "nhl", "hockey-nhl", "NHL", "HOCKEY")
+]
+
+def scrape_team_roster(sport, league_slug, league_id, league_name, category, team_entry):
+    team = team_entry.get('team', {})
+    team_id = team.get('id')
+    team_name = team.get('displayName') or team.get('name')
+    if not team_id or not team_name:
+        return []
+
+    roster_url = f"https://site.api.espn.com/apis/site/v2/sports/{sport}/{league_slug}/teams/{team_id}/roster"
+    r_data = fetch_json(roster_url)
+    if not r_data:
+        return []
+
+    raw_athletes = r_data.get('athletes', [])
+    flat_athletes = []
+    for entry in raw_athletes:
+        if isinstance(entry, dict) and 'items' in entry:
+            flat_athletes.extend(entry.get('items', []))
+        elif isinstance(entry, dict):
+            flat_athletes.append(entry)
+
+    athletes = []
+    for a in flat_athletes:
+        name = a.get('displayName') or a.get('fullName')
+        if not name or len(name) < 3:
             continue
+        country_raw = a.get('citizenship') or a.get('birthPlace', {}).get('country') or a.get('birthCountry', {}).get('abbreviation') or ''
+        athletes.append({
+            'name': name.strip(),
+            'team': team_name.strip(),
+            'leagueId': league_id,
+            'leagueName': league_name,
+            'country': format_country(country_raw),
+            'category': category
+        })
+    return athletes
+
+def scrape_all_team_leagues():
+    all_team_athletes = []
+    for sport, league_slug, league_id, league_name, category in LEAGUES_TO_SCRAPE:
+        print(f"Scraping team rosters for {league_name}...")
+        teams_url = f"https://site.api.espn.com/apis/site/v2/sports/{sport}/{league_slug}/teams"
+        data = fetch_json(teams_url)
+        if not data:
+            continue
+
+        try:
+            teams = data['sports'][0]['leagues'][0]['teams']
+        except (KeyError, IndexError):
+            continue
+
+        def worker(team_entry):
+            return scrape_team_roster(sport, league_slug, league_id, league_name, category, team_entry)
+
+        with ThreadPoolExecutor(max_workers=8) as pool:
+            results = pool.map(worker, teams)
+            count = 0
+            for r in results:
+                all_team_athletes.extend(r)
+                count += len(r)
+            print(f"  -> {league_name}: {count} players collected across {len(teams)} teams.")
+
+    return all_team_athletes
+
+def extract_fighters_from_mma_events():
+    """Scrapes UFC and PFL fighters listed on upcoming fight events."""
+    fighters = []
+    for mma_file in REPO_ROOT.glob("mma/**/*.json"):
         try:
             with open(mma_file, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                league_name = data.get("leagueName", "MMA")
-                sport_key = data.get("sportKey", "mma")
+                league_name = data.get("leagueName", "UFC")
+                sport_key = data.get("sportKey", "mma-ufc")
                 for event in data.get("events", []):
                     name = event.get("name", "")
-                    # Match 'A v B' or 'A vs B' or 'A-B'
                     match = re.search(r":\s*([A-Za-z\s]+)\s+(?:v|vs)\s+([A-Za-z\s]+)", name, re.IGNORECASE)
                     if match:
                         f1, f2 = match.group(1).strip(), match.group(2).strip()
                         if len(f1) > 2 and len(f2) > 2:
-                            extracted.append({"name": f1, "team": league_name, "leagueId": sport_key, "leagueName": league_name, "country": "🌍 Global", "category": "MMA"})
-                            extracted.append({"name": f2, "team": league_name, "leagueId": sport_key, "leagueName": league_name, "country": "🌍 Global", "category": "MMA"})
+                            fighters.append({"name": f1, "team": league_name, "leagueId": sport_key, "leagueName": league_name, "country": "🌍 Global", "category": "MMA"})
+                            fighters.append({"name": f2, "team": league_name, "leagueId": sport_key, "leagueName": league_name, "country": "🌍 Global", "category": "MMA"})
         except Exception:
             pass
+    return fighters
 
-    return extracted
+def main():
+    start_time = time.time()
+    print("=== Starting SportoCal Full League Athlete Scraper ===")
+    
+    athletes_dict = {}
 
-def scrape_players():
-    print("Scraping athlete, driver, and player database across all competitions...")
-    players_dict = {p["name"].lower(): p for p in CURATED_ATHLETES}
+    # 1. Add Motorsport Drivers
+    for a in MOTORSPORT_ATHLETES:
+        athletes_dict[a["name"].lower()] = a
 
-    # Add dynamically extracted fighters and athletes
-    for ath in extract_athletes_from_repo_events():
-        if ath["name"].lower() not in players_dict:
-            players_dict[ath["name"].lower()] = ath
+    # 2. Add Tennis Stars
+    for a in TENNIS_ATHLETES:
+        athletes_dict[a["name"].lower()] = a
 
-    result = list(players_dict.values())
+    # 3. Add MMA Fighters from real events in app
+    for a in extract_fighters_from_mma_events():
+        if a["name"].lower() not in athletes_dict:
+            athletes_dict[a["name"].lower()] = a
+
+    # 4. Scrape all full squad rosters for all leagues tracked by the app
+    team_athletes = scrape_all_team_leagues()
+    for a in team_athletes:
+        athletes_dict[a["name"].lower()] = a
+
+    result = list(athletes_dict.values())
     result.sort(key=lambda x: (x["category"], x["name"]))
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
 
-    print(f"Successfully compiled {len(result)} athlete profiles to {OUTPUT_PATH}")
+    print(f"\n[OK] Successfully generated {len(result)} total athletes to {OUTPUT_PATH}")
+    print(f"Finished in {time.time() - start_time:.1f}s")
 
 if __name__ == "__main__":
-    scrape_players()
+    main()
