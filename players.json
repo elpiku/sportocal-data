@@ -5472,14 +5472,6 @@
     "category": "BASKETBALL"
   },
   {
-    "name": "Taj Gibson",
-    "team": "New Orleans Pelicans",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
-  },
-  {
     "name": "Tamar Bates",
     "team": "Utah Jazz",
     "leagueId": "nba",
@@ -7436,7 +7428,7 @@
     "team": "Colorado Rapids",
     "leagueId": "mls",
     "leagueName": "MLS",
-    "country": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland",
+    "country": "🇺🇸 USA",
     "category": "FOOTBALL"
   },
   {
@@ -11020,7 +11012,7 @@
     "team": "Red Bull New York",
     "leagueId": "mls",
     "leagueName": "MLS",
-    "country": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland",
+    "country": "🇺🇸 USA",
     "category": "FOOTBALL"
   },
   {
@@ -13140,7 +13132,7 @@
     "team": "Red Bull New York",
     "leagueId": "mls",
     "leagueName": "MLS",
-    "country": "🇪🇸 Spain",
+    "country": "Honduras",
     "category": "FOOTBALL"
   },
   {
@@ -17448,14 +17440,6 @@
     "category": "FOOTBALL"
   },
   {
-    "name": "Godson Kyeremeh",
-    "team": "Le Havre AC",
-    "leagueId": "soccer-fra.1",
-    "leagueName": "Ligue 1",
-    "country": "🇫🇷 France",
-    "category": "FOOTBALL"
-  },
-  {
     "name": "Gonzalo García",
     "team": "Fulham",
     "leagueId": "premierleague",
@@ -20292,14 +20276,6 @@
     "team": "Feyenoord Rotterdam",
     "leagueId": "championsleague",
     "leagueName": "Champions League",
-    "country": "🇪🇸 Spain",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Javi Muñoz",
-    "team": "Getafe",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
     "country": "🇪🇸 Spain",
     "category": "FOOTBALL"
   },
@@ -24725,6 +24701,14 @@
     "leagueId": "premierleague",
     "leagueName": "Premier League",
     "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Liam O'Gara",
+    "team": "Real Salt Lake",
+    "leagueId": "mls",
+    "leagueName": "MLS",
+    "country": "🇺🇸 USA",
     "category": "FOOTBALL"
   },
   {
@@ -34336,6 +34320,14 @@
     "category": "FOOTBALL"
   },
   {
+    "name": "Ruben Ramos",
+    "team": "Sporting Kansas City",
+    "leagueId": "mls",
+    "leagueName": "MLS",
+    "country": "🇺🇸 USA",
+    "category": "FOOTBALL"
+  },
+  {
     "name": "Ruben Van Bommel",
     "team": "PSV Eindhoven",
     "leagueId": "championsleague",
@@ -34580,14 +34572,6 @@
     "team": "Manchester City",
     "leagueId": "championsleague",
     "leagueName": "Champions League",
-    "country": "🇵🇹 Portugal",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Rúben Ismael",
-    "team": "Sporting Kansas City",
-    "leagueId": "mls",
-    "leagueName": "MLS",
     "country": "🇵🇹 Portugal",
     "category": "FOOTBALL"
   },
@@ -35092,7 +35076,7 @@
     "team": "Inter Miami CF",
     "leagueId": "mls",
     "leagueName": "MLS",
-    "country": "🇦🇷 Argentina",
+    "country": "🇺🇸 USA",
     "category": "FOOTBALL"
   },
   {
@@ -36461,6 +36445,14 @@
     "leagueId": "mls",
     "leagueName": "MLS",
     "country": "🇨🇦 Canada",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Sékou Koné",
+    "team": "Red Bull New York",
+    "leagueId": "mls",
+    "leagueName": "MLS",
+    "country": "🇲🇱 Mali",
     "category": "FOOTBALL"
   },
   {
@@ -40232,6 +40224,14 @@
     "category": "HOCKEY"
   },
   {
+    "name": "Alex Formenton",
+    "team": "Edmonton Oilers",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "CAN",
+    "category": "HOCKEY"
+  },
+  {
     "name": "Alex Gagne",
     "team": "Colorado Avalanche",
     "leagueId": "hockey-nhl",
@@ -41525,14 +41525,6 @@
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "CAN",
-    "category": "HOCKEY"
-  },
-  {
-    "name": "Chris Kreider",
-    "team": "Anaheim Ducks",
-    "leagueId": "hockey-nhl",
-    "leagueName": "NHL",
-    "country": "🇺🇸 USA",
     "category": "HOCKEY"
   },
   {
@@ -48504,6 +48496,14 @@
     "category": "MMA"
   },
   {
+    "name": "Bilostenniy",
+    "team": "Professional Fighters League",
+    "leagueId": "mma-pfl",
+    "leagueName": "Professional Fighters League",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
     "name": "Bishop",
     "team": "Professional Fighters League",
     "leagueId": "mma-pfl",
@@ -48576,10 +48576,34 @@
     "category": "MMA"
   },
   {
+    "name": "Lapilus",
+    "team": "Professional Fighters League",
+    "leagueId": "mma-pfl",
+    "leagueName": "Professional Fighters League",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
     "name": "Malott",
     "team": "Ultimate Fighting Championship",
     "leagueId": "mma-ufc",
     "leagueName": "Ultimate Fighting Championship",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "McKee",
+    "team": "Professional Fighters League",
+    "leagueId": "mma-pfl",
+    "leagueName": "Professional Fighters League",
+    "country": "🌍 Global",
+    "category": "MMA"
+  },
+  {
+    "name": "Nemkov",
+    "team": "Professional Fighters League",
+    "leagueId": "mma-pfl",
+    "leagueName": "Professional Fighters League",
     "country": "🌍 Global",
     "category": "MMA"
   },

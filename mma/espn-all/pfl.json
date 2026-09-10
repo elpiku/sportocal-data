@@ -1,8 +1,8 @@
 {
   "sportKey": "mma-pfl",
   "leagueName": "Professional Fighters League",
-  "windowFrom": "20260826",
-  "windowTo": "20270606",
+  "windowFrom": "20260827",
+  "windowTo": "20270607",
   "events": [
     {
       "id": "mma-pfl-2026-10-17-pfl-chicago-carmouche-bishop-2",
@@ -11,15 +11,15 @@
       "utc": "2026-10-17T00:00:00Z"
     },
     {
-      "id": "mma-pfl-2026-11-14-pfl-dubai",
+      "id": "mma-pfl-2026-11-14-pfl-dubai-nemkov-bilostenniy",
       "weekend": "2026-11-14",
-      "name": "PFL Dubai",
+      "name": "PFL Dubai: Nemkov v Bilostenniy",
       "utc": "2026-11-14T14:00:00Z"
     },
     {
-      "id": "mma-pfl-2026-12-19-pfl-lyon",
+      "id": "mma-pfl-2026-12-19-pfl-lyon-lapilus-mckee",
       "weekend": "2026-12-19",
-      "name": "PFL Lyon",
+      "name": "PFL Lyon: Lapilus v McKee",
       "utc": "2026-12-19T14:00:00Z"
     }
   ]
