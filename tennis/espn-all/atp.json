@@ -1,8 +1,8 @@
 {
   "sportKey": "tennis-atp",
   "leagueName": "ATP",
-  "windowFrom": "20260827",
-  "windowTo": "20270607",
+  "windowFrom": "20260828",
+  "windowTo": "20270608",
   "events": [
     {
       "id": "tennis-atp-2026-08-22-winston-salem-open",
@@ -29,15 +29,15 @@
       "utc": "2026-09-23T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-09-30-china-open",
-      "weekend": "2026-09-30",
-      "name": "China Open",
-      "utc": "2026-09-30T04:00:00Z"
-    },
-    {
       "id": "tennis-atp-2026-09-30-kinoshita-group-japan-open-tennis-championships",
       "weekend": "2026-09-30",
       "name": "Kinoshita Group Japan Open Tennis Championships",
+      "utc": "2026-09-30T04:00:00Z"
+    },
+    {
+      "id": "tennis-atp-2026-09-30-china-open",
+      "weekend": "2026-09-30",
+      "name": "China Open",
       "utc": "2026-09-30T04:00:00Z"
     },
     {
@@ -45,12 +45,6 @@
       "weekend": "2026-10-07",
       "name": "Rolex Shanghai Masters",
       "utc": "2026-10-07T04:00:00Z"
-    },
-    {
-      "id": "tennis-atp-2026-10-19-grand-prix-auvergne-rh-ne-alpes",
-      "weekend": "2026-10-19",
-      "name": "Grand Prix Auvergne-Rh\u00f4ne-Alpes",
-      "utc": "2026-10-19T04:00:00Z"
     },
     {
       "id": "tennis-atp-2026-10-19-bnp-paribas-fortis-european-open",
@@ -62,6 +56,12 @@
       "id": "tennis-atp-2026-10-19-almaty-open",
       "weekend": "2026-10-19",
       "name": "Almaty Open",
+      "utc": "2026-10-19T04:00:00Z"
+    },
+    {
+      "id": "tennis-atp-2026-10-19-grand-prix-auvergne-rh-ne-alpes",
+      "weekend": "2026-10-19",
+      "name": "Grand Prix Auvergne-Rh\u00f4ne-Alpes",
       "utc": "2026-10-19T04:00:00Z"
     },
     {

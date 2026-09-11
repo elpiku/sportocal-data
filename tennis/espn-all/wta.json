@@ -1,8 +1,8 @@
 {
   "sportKey": "tennis-wta",
   "leagueName": "WTA",
-  "windowFrom": "20260827",
-  "windowTo": "20270607",
+  "windowFrom": "20260828",
+  "windowTo": "20270608",
   "events": [
     {
       "id": "tennis-wta-2026-08-22-abierto-gnp-seguros",
@@ -71,9 +71,9 @@
       "utc": "2026-09-14T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-21-singapore-tennis-open",
+      "id": "tennis-wta-2026-09-21-korea-open",
       "weekend": "2026-09-21",
-      "name": "Singapore Tennis Open",
+      "name": "Korea Open",
       "utc": "2026-09-21T04:00:00Z"
     },
     {
@@ -83,9 +83,9 @@
       "utc": "2026-09-21T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-21-korea-open",
+      "id": "tennis-wta-2026-09-21-singapore-tennis-open",
       "weekend": "2026-09-21",
-      "name": "Korea Open",
+      "name": "Singapore Tennis Open",
       "utc": "2026-09-21T04:00:00Z"
     },
     {
@@ -143,15 +143,15 @@
       "utc": "2026-10-12T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-12-roveretopen-citt-della-pace",
-      "weekend": "2026-10-12",
-      "name": "RoveretOpen Citt\u00e0 della Pace",
-      "utc": "2026-10-12T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-12-lisboa-belem-open",
       "weekend": "2026-10-12",
       "name": "Lisboa Belem Open",
+      "utc": "2026-10-12T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-12-roveretopen-citt-della-pace",
+      "weekend": "2026-10-12",
+      "name": "RoveretOpen Citt\u00e0 della Pace",
       "utc": "2026-10-12T04:00:00Z"
     },
     {
@@ -173,21 +173,15 @@
       "utc": "2026-10-19T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-10-26-guangzhou-open",
+      "weekend": "2026-10-26",
+      "name": "Guangzhou Open",
+      "utc": "2026-10-26T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-10-26-toray-pan-pacific-open-tennis",
       "weekend": "2026-10-26",
       "name": "Toray Pan Pacific Open Tennis",
-      "utc": "2026-10-26T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-26-abierto-de-curitiba",
-      "weekend": "2026-10-26",
-      "name": "Abierto de Curitiba",
-      "utc": "2026-10-26T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-26-queretaro-open",
-      "weekend": "2026-10-26",
-      "name": "Queretaro Open",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
@@ -197,16 +191,16 @@
       "utc": "2026-10-26T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-26-guangzhou-open",
+      "id": "tennis-wta-2026-10-26-queretaro-open",
       "weekend": "2026-10-26",
-      "name": "Guangzhou Open",
+      "name": "Queretaro Open",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-prudential-hong-kong-tennis-open",
-      "weekend": "2026-10-31",
-      "name": "Prudential Hong Kong Tennis Open",
-      "utc": "2026-10-31T04:00:00Z"
+      "id": "tennis-wta-2026-10-26-abierto-de-curitiba",
+      "weekend": "2026-10-26",
+      "name": "Abierto de Curitiba",
+      "utc": "2026-10-26T04:00:00Z"
     },
     {
       "id": "tennis-wta-2026-10-31-chennai-open",
@@ -215,9 +209,9 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-cali-open",
+      "id": "tennis-wta-2026-10-31-prudential-hong-kong-tennis-open",
       "weekend": "2026-10-31",
-      "name": "Cali Open",
+      "name": "Prudential Hong Kong Tennis Open",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -227,21 +221,27 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-10-31-cali-open",
+      "weekend": "2026-10-31",
+      "name": "Cali Open",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-10-31-american-tennis-open-miami",
       "weekend": "2026-10-31",
       "name": "American Tennis Open Miami",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-11-07-cundinamarca-open",
-      "weekend": "2026-11-07",
-      "name": "Cundinamarca Open",
-      "utc": "2026-11-07T05:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-11-07-wta-finals",
       "weekend": "2026-11-07",
       "name": "WTA Finals",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-11-07-cundinamarca-open",
+      "weekend": "2026-11-07",
+      "name": "Cundinamarca Open",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
