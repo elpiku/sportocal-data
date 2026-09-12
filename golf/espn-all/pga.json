@@ -1,8 +1,8 @@
 {
   "sportKey": "golf-pga",
   "leagueName": "PGA TOUR",
-  "windowFrom": "20260828",
-  "windowTo": "20270608",
+  "windowFrom": "20260829",
+  "windowTo": "20270609",
   "events": [
     {
       "id": "golf-pga-2026-08-27-tour-championship",
@@ -101,15 +101,15 @@
       "utc": "2027-02-11T05:00:00Z"
     },
     {
-      "id": "golf-pga-2027-02-18-the-genesis-invitational",
-      "weekend": "2027-02-18",
-      "name": "The Genesis Invitational",
-      "utc": "2027-02-18T05:00:00Z"
-    },
-    {
       "id": "golf-pga-2027-02-18-tbd-additional-event",
       "weekend": "2027-02-18",
       "name": "TBD (Additional Event)",
+      "utc": "2027-02-18T05:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-02-18-the-genesis-invitational",
+      "weekend": "2027-02-18",
+      "name": "The Genesis Invitational",
       "utc": "2027-02-18T05:00:00Z"
     },
     {
