@@ -673,7 +673,7 @@
   },
   {
     "name": "Brandon Ingram",
-    "team": "Toronto Raptors",
+    "team": "LA Clippers",
     "leagueId": "nba",
     "leagueName": "NBA",
     "country": "🇺🇸 USA",
@@ -1977,7 +1977,7 @@
   },
   {
     "name": "Gradey Dick",
-    "team": "Toronto Raptors",
+    "team": "LA Clippers",
     "leagueId": "nba",
     "leagueName": "NBA",
     "country": "🇺🇸 USA",
@@ -3257,7 +3257,7 @@
   },
   {
     "name": "Kawhi Leonard",
-    "team": "LA Clippers",
+    "team": "Toronto Raptors",
     "leagueId": "nba",
     "leagueName": "NBA",
     "country": "🇺🇸 USA",
@@ -5984,6 +5984,14 @@
     "category": "BASKETBALL"
   },
   {
+    "name": "Will Baker",
+    "team": "Atlanta Hawks",
+    "leagueId": "nba",
+    "leagueName": "NBA",
+    "country": "🇺🇸 USA",
+    "category": "BASKETBALL"
+  },
+  {
     "name": "Will Richard",
     "team": "Golden State Warriors",
     "leagueId": "nba",
@@ -7436,7 +7444,7 @@
     "team": "Colorado Rapids",
     "leagueId": "mls",
     "leagueName": "MLS",
-    "country": "🇺🇸 USA",
+    "country": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland",
     "category": "FOOTBALL"
   },
   {
@@ -8192,14 +8200,6 @@
     "category": "FOOTBALL"
   },
   {
-    "name": "Anass Salah-Eddine",
-    "team": "AS Roma",
-    "leagueId": "championsleague",
-    "leagueName": "Champions League",
-    "country": "🇲🇦 Morocco",
-    "category": "FOOTBALL"
-  },
-  {
     "name": "Anass Zaroury",
     "team": "Columbus Crew",
     "leagueId": "mls",
@@ -8796,7 +8796,7 @@
     "team": "AS Monaco",
     "leagueId": "soccer-fra.1",
     "leagueName": "Ligue 1",
-    "country": "🇪🇸 Spain",
+    "country": "Guinea-Bissau",
     "category": "FOOTBALL"
   },
   {
@@ -12972,7 +12972,7 @@
     "team": "Inter Miami CF",
     "leagueId": "mls",
     "leagueName": "MLS",
-    "country": "🇲🇽 Mexico",
+    "country": "🇦🇷 Argentina",
     "category": "FOOTBALL"
   },
   {
@@ -15444,7 +15444,7 @@
     "team": "Brighton & Hove Albion",
     "leagueId": "premierleague",
     "leagueName": "Premier League",
-    "country": "Republic of Ireland",
+    "country": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland",
     "category": "FOOTBALL"
   },
   {
@@ -18540,7 +18540,7 @@
     "team": "Portland Timbers",
     "leagueId": "mls",
     "leagueName": "MLS",
-    "country": "🇺🇸 USA",
+    "country": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland",
     "category": "FOOTBALL"
   },
   {
@@ -20296,6 +20296,14 @@
     "category": "FOOTBALL"
   },
   {
+    "name": "Javi Guerra",
+    "team": "Valencia",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇪🇸 Spain",
+    "category": "FOOTBALL"
+  },
+  {
     "name": "Javi Hernandez",
     "team": "Espanyol",
     "leagueId": "laliga",
@@ -20333,14 +20341,6 @@
     "leagueId": "championsleague",
     "leagueName": "Champions League",
     "country": "🇪🇸 Spain",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Javier Guerra",
-    "team": "Valencia",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "Bolivia",
     "category": "FOOTBALL"
   },
   {
@@ -20484,7 +20484,7 @@
     "team": "Sporting Kansas City",
     "leagueId": "mls",
     "leagueName": "MLS",
-    "country": "🇺🇸 USA",
+    "country": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland",
     "category": "FOOTBALL"
   },
   {
@@ -21893,14 +21893,6 @@
     "leagueId": "championsleague",
     "leagueName": "Champions League",
     "country": "🇪🇸 Spain",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Joseph Convers",
-    "team": "Inter Miami CF",
-    "leagueId": "mls",
-    "leagueName": "MLS",
-    "country": "🇺🇸 USA",
     "category": "FOOTBALL"
   },
   {
@@ -27340,6 +27332,14 @@
     "team": "Fenerbahce",
     "leagueId": "championsleague",
     "leagueName": "Champions League",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Mason Miley",
+    "team": "Newcastle United",
+    "leagueId": "premierleague",
+    "leagueName": "Premier League",
     "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
     "category": "FOOTBALL"
   },
@@ -34637,14 +34637,6 @@
     "leagueId": "mls",
     "leagueName": "MLS",
     "country": "🇵🇹 Portugal",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Rıdvan Harman",
-    "team": "Fenerbahce",
-    "leagueId": "championsleague",
-    "leagueName": "Champions League",
-    "country": "🌍 Global",
     "category": "FOOTBALL"
   },
   {
