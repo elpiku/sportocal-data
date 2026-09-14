@@ -29,27 +29,27 @@
       "utc": "2026-09-07T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-12-sp-open",
-      "weekend": "2026-09-12",
-      "name": "SP Open",
-      "utc": "2026-09-12T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-09-12-guadalajara-open-presentado-por-santander",
       "weekend": "2026-09-12",
       "name": "Guadalajara Open presentado por Santander",
       "utc": "2026-09-12T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-13-bbva-open-internacional-de-valencia",
-      "weekend": "2026-09-13",
-      "name": "BBVA Open Internacional De Valencia",
-      "utc": "2026-09-13T04:00:00Z"
+      "id": "tennis-wta-2026-09-12-sp-open",
+      "weekend": "2026-09-12",
+      "name": "SP Open",
+      "utc": "2026-09-12T04:00:00Z"
     },
     {
       "id": "tennis-wta-2026-09-13-caldas-da-rainha-ladies-open",
       "weekend": "2026-09-13",
       "name": "Caldas da Rainha Ladies Open",
+      "utc": "2026-09-13T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-09-13-bbva-open-internacional-de-valencia",
+      "weekend": "2026-09-13",
+      "name": "BBVA Open Internacional De Valencia",
       "utc": "2026-09-13T04:00:00Z"
     },
     {
@@ -71,12 +71,6 @@
       "utc": "2026-09-21T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-21-delta-motors-tolentino-open",
-      "weekend": "2026-09-21",
-      "name": "Delta Motors Tolentino Open",
-      "utc": "2026-09-21T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-09-21-eupago-porto-open",
       "weekend": "2026-09-21",
       "name": "Eupago Porto Open",
@@ -86,6 +80,12 @@
       "id": "tennis-wta-2026-09-21-ankara-open",
       "weekend": "2026-09-21",
       "name": "Ankara Open",
+      "utc": "2026-09-21T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-09-21-delta-motors-tolentino-open",
+      "weekend": "2026-09-21",
+      "name": "Delta Motors Tolentino Open",
       "utc": "2026-09-21T04:00:00Z"
     },
     {
@@ -125,15 +125,15 @@
       "utc": "2026-10-12T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-12-wuhan-open",
-      "weekend": "2026-10-12",
-      "name": "Wuhan Open",
-      "utc": "2026-10-12T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-12-roveretopen-citt-della-pace",
       "weekend": "2026-10-12",
       "name": "RoveretOpen Citt\u00e0 della Pace",
+      "utc": "2026-10-12T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-12-wuhan-open",
+      "weekend": "2026-10-12",
+      "name": "Wuhan Open",
       "utc": "2026-10-12T04:00:00Z"
     },
     {
@@ -167,12 +167,6 @@
       "utc": "2026-10-26T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-26-toray-pan-pacific-open-tennis",
-      "weekend": "2026-10-26",
-      "name": "Toray Pan Pacific Open Tennis",
-      "utc": "2026-10-26T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-26-queretaro-open",
       "weekend": "2026-10-26",
       "name": "Queretaro Open",
@@ -185,27 +179,21 @@
       "utc": "2026-10-26T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-10-26-toray-pan-pacific-open-tennis",
+      "weekend": "2026-10-26",
+      "name": "Toray Pan Pacific Open Tennis",
+      "utc": "2026-10-26T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-10-26-valle-d-aosta-ladies-open",
       "weekend": "2026-10-26",
       "name": "Valle D'Aosta Ladies Open",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-prudential-hong-kong-tennis-open",
-      "weekend": "2026-10-31",
-      "name": "Prudential Hong Kong Tennis Open",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-31-angola-ladies-open",
       "weekend": "2026-10-31",
       "name": "Angola Ladies Open",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-31-cali-open",
-      "weekend": "2026-10-31",
-      "name": "Cali Open",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -215,21 +203,33 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-10-31-prudential-hong-kong-tennis-open",
+      "weekend": "2026-10-31",
+      "name": "Prudential Hong Kong Tennis Open",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-31-cali-open",
+      "weekend": "2026-10-31",
+      "name": "Cali Open",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-10-31-american-tennis-open-miami",
       "weekend": "2026-10-31",
       "name": "American Tennis Open Miami",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-11-07-cundinamarca-open",
-      "weekend": "2026-11-07",
-      "name": "Cundinamarca Open",
-      "utc": "2026-11-07T05:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-11-07-wta-finals",
       "weekend": "2026-11-07",
       "name": "WTA Finals",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-11-07-cundinamarca-open",
+      "weekend": "2026-11-07",
+      "name": "Cundinamarca Open",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
@@ -251,15 +251,15 @@
       "utc": "2026-11-21T05:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-11-28-open-angers-loire-tr-laz",
-      "weekend": "2026-11-28",
-      "name": "Open Angers Loire Tr\u00e9laz\u00e9",
-      "utc": "2026-11-28T05:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-11-28-quito-open",
       "weekend": "2026-11-28",
       "name": "Quito Open",
+      "utc": "2026-11-28T05:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-11-28-open-angers-loire-tr-laz",
+      "weekend": "2026-11-28",
+      "name": "Open Angers Loire Tr\u00e9laz\u00e9",
       "utc": "2026-11-28T05:00:00Z"
     },
     {
