@@ -1,8 +1,8 @@
 {
   "sportKey": "tennis-wta",
   "leagueName": "WTA",
-  "windowFrom": "20260831",
-  "windowTo": "20270611",
+  "windowFrom": "20260901",
+  "windowTo": "20270612",
   "events": [
     {
       "id": "tennis-wta-2026-08-24-us-open",
@@ -11,15 +11,15 @@
       "utc": "2026-08-24T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-06-montreux-nestl-open",
-      "weekend": "2026-09-06",
-      "name": "Montreux Nestl\u00e9 Open",
-      "utc": "2026-09-06T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-09-06-atik-antalya-open",
       "weekend": "2026-09-06",
       "name": "ATIK Antalya Open",
+      "utc": "2026-09-06T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-09-06-montreux-nestl-open",
+      "weekend": "2026-09-06",
+      "name": "Montreux Nestl\u00e9 Open",
       "utc": "2026-09-06T04:00:00Z"
     },
     {
@@ -71,15 +71,15 @@
       "utc": "2026-09-21T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-21-eupago-porto-open",
-      "weekend": "2026-09-21",
-      "name": "Eupago Porto Open",
-      "utc": "2026-09-21T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-09-21-ankara-open",
       "weekend": "2026-09-21",
       "name": "Ankara Open",
+      "utc": "2026-09-21T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-09-21-eupago-porto-open",
+      "weekend": "2026-09-21",
+      "name": "Eupago Porto Open",
       "utc": "2026-09-21T04:00:00Z"
     },
     {
@@ -119,6 +119,12 @@
       "utc": "2026-10-05T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-10-12-roveretopen-citt-della-pace",
+      "weekend": "2026-10-12",
+      "name": "RoveretOpen Citt\u00e0 della Pace",
+      "utc": "2026-10-12T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-10-12-vanda-pharmaceuticals-mallorca-women-s-championships-presented-by-ecotrans-group",
       "weekend": "2026-10-12",
       "name": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
@@ -128,12 +134,6 @@
       "id": "tennis-wta-2026-10-12-lisboa-belem-open",
       "weekend": "2026-10-12",
       "name": "Lisboa Belem Open",
-      "utc": "2026-10-12T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-12-roveretopen-citt-della-pace",
-      "weekend": "2026-10-12",
-      "name": "RoveretOpen Citt\u00e0 della Pace",
       "utc": "2026-10-12T04:00:00Z"
     },
     {
@@ -173,9 +173,9 @@
       "utc": "2026-10-26T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-26-valle-d-aosta-ladies-open",
+      "id": "tennis-wta-2026-10-26-queretaro-open",
       "weekend": "2026-10-26",
-      "name": "Valle D'Aosta Ladies Open",
+      "name": "Queretaro Open",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
@@ -185,9 +185,9 @@
       "utc": "2026-10-26T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-26-queretaro-open",
+      "id": "tennis-wta-2026-10-26-valle-d-aosta-ladies-open",
       "weekend": "2026-10-26",
-      "name": "Queretaro Open",
+      "name": "Valle D'Aosta Ladies Open",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
@@ -197,21 +197,15 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-angola-ladies-open",
-      "weekend": "2026-10-31",
-      "name": "Angola Ladies Open",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-31-chennai-open",
       "weekend": "2026-10-31",
       "name": "Chennai Open",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-cali-open",
+      "id": "tennis-wta-2026-10-31-angola-ladies-open",
       "weekend": "2026-10-31",
-      "name": "Cali Open",
+      "name": "Angola Ladies Open",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -221,15 +215,21 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-11-07-wta-finals",
-      "weekend": "2026-11-07",
-      "name": "WTA Finals",
-      "utc": "2026-11-07T05:00:00Z"
+      "id": "tennis-wta-2026-10-31-cali-open",
+      "weekend": "2026-10-31",
+      "name": "Cali Open",
+      "utc": "2026-10-31T04:00:00Z"
     },
     {
       "id": "tennis-wta-2026-11-07-cundinamarca-open",
       "weekend": "2026-11-07",
       "name": "Cundinamarca Open",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-11-07-wta-finals",
+      "weekend": "2026-11-07",
+      "name": "WTA Finals",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
