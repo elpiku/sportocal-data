@@ -1,8 +1,8 @@
 {
   "sportKey": "tennis-wta",
   "leagueName": "WTA",
-  "windowFrom": "20260902",
-  "windowTo": "20270613",
+  "windowFrom": "20260903",
+  "windowTo": "20270614",
   "events": [
     {
       "id": "tennis-wta-2026-08-24-us-open",
@@ -11,15 +11,15 @@
       "utc": "2026-08-24T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-06-atik-antalya-open",
-      "weekend": "2026-09-06",
-      "name": "ATIK Antalya Open",
-      "utc": "2026-09-06T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-09-06-montreux-nestl-open",
       "weekend": "2026-09-06",
       "name": "Montreux Nestl\u00e9 Open",
+      "utc": "2026-09-06T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-09-06-atik-antalya-open",
+      "weekend": "2026-09-06",
+      "name": "ATIK Antalya Open",
       "utc": "2026-09-06T04:00:00Z"
     },
     {
@@ -71,6 +71,12 @@
       "utc": "2026-09-21T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-09-21-delta-motors-tolentino-open",
+      "weekend": "2026-09-21",
+      "name": "Delta Motors Tolentino Open",
+      "utc": "2026-09-21T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-09-21-ankara-open",
       "weekend": "2026-09-21",
       "name": "Ankara Open",
@@ -80,12 +86,6 @@
       "id": "tennis-wta-2026-09-21-eupago-porto-open",
       "weekend": "2026-09-21",
       "name": "Eupago Porto Open",
-      "utc": "2026-09-21T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-09-21-delta-motors-tolentino-open",
-      "weekend": "2026-09-21",
-      "name": "Delta Motors Tolentino Open",
       "utc": "2026-09-21T04:00:00Z"
     },
     {
@@ -119,6 +119,12 @@
       "utc": "2026-10-05T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-10-12-wuhan-open",
+      "weekend": "2026-10-12",
+      "name": "Wuhan Open",
+      "utc": "2026-10-12T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-10-12-vanda-pharmaceuticals-mallorca-women-s-championships-presented-by-ecotrans-group",
       "weekend": "2026-10-12",
       "name": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
@@ -137,10 +143,10 @@
       "utc": "2026-10-12T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-12-wuhan-open",
-      "weekend": "2026-10-12",
-      "name": "Wuhan Open",
-      "utc": "2026-10-12T04:00:00Z"
+      "id": "tennis-wta-2026-10-19-kinoshita-group-japan-open",
+      "weekend": "2026-10-19",
+      "name": "Kinoshita Group Japan Open",
+      "utc": "2026-10-19T04:00:00Z"
     },
     {
       "id": "tennis-wta-2026-10-19-ningbo-open",
@@ -152,12 +158,6 @@
       "id": "tennis-wta-2026-10-19-r-o-ladies-open-by-mundot-nis-tours",
       "weekend": "2026-10-19",
       "name": "R\u00edo Ladies Open by MundoT\u00eanis Tours",
-      "utc": "2026-10-19T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-19-kinoshita-group-japan-open",
-      "weekend": "2026-10-19",
-      "name": "Kinoshita Group Japan Open",
       "utc": "2026-10-19T04:00:00Z"
     },
     {
@@ -173,15 +173,15 @@
       "utc": "2026-10-26T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-26-abierto-de-curitiba",
-      "weekend": "2026-10-26",
-      "name": "Abierto de Curitiba",
-      "utc": "2026-10-26T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-26-queretaro-open",
       "weekend": "2026-10-26",
       "name": "Queretaro Open",
+      "utc": "2026-10-26T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-26-abierto-de-curitiba",
+      "weekend": "2026-10-26",
+      "name": "Abierto de Curitiba",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
@@ -197,9 +197,9 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-chennai-open",
+      "id": "tennis-wta-2026-10-31-cali-open",
       "weekend": "2026-10-31",
-      "name": "Chennai Open",
+      "name": "Cali Open",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -209,9 +209,9 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-cali-open",
+      "id": "tennis-wta-2026-10-31-chennai-open",
       "weekend": "2026-10-31",
-      "name": "Cali Open",
+      "name": "Chennai Open",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
