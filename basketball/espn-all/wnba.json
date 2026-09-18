@@ -1,8 +1,8 @@
 {
   "sportKey": "basketball-wnba",
   "leagueName": "Women's National Basketball Association",
-  "windowFrom": "20260903",
-  "windowTo": "20270614",
+  "windowFrom": "20260904",
+  "windowTo": "20270615",
   "events": [
     {
       "id": "wnba-2026-09-17-atlanta-dream-connecticut-sun",
@@ -11,27 +11,27 @@
       "utc": "2026-09-17T23:30:00Z"
     },
     {
-      "id": "wnba-2026-09-18-dallas-wings-los-angeles-sparks",
-      "weekend": "2026-09-18",
-      "name": "Dallas Wings v Los Angeles Sparks",
-      "utc": "2026-09-18T00:00:00Z"
-    },
-    {
       "id": "wnba-2026-09-18-chicago-sky-washington-mystics",
       "weekend": "2026-09-18",
       "name": "Chicago Sky v Washington Mystics",
       "utc": "2026-09-18T00:00:00Z"
     },
     {
-      "id": "wnba-2026-09-18-seattle-storm-las-vegas-aces",
+      "id": "wnba-2026-09-18-dallas-wings-los-angeles-sparks",
       "weekend": "2026-09-18",
-      "name": "Seattle Storm v Las Vegas Aces",
-      "utc": "2026-09-18T02:00:00Z"
+      "name": "Dallas Wings v Los Angeles Sparks",
+      "utc": "2026-09-18T00:00:00Z"
     },
     {
       "id": "wnba-2026-09-18-portland-fire-phoenix-mercury",
       "weekend": "2026-09-18",
       "name": "Portland Fire v Phoenix Mercury",
+      "utc": "2026-09-18T02:00:00Z"
+    },
+    {
+      "id": "wnba-2026-09-18-seattle-storm-las-vegas-aces",
+      "weekend": "2026-09-18",
+      "name": "Seattle Storm v Las Vegas Aces",
       "utc": "2026-09-18T02:00:00Z"
     },
     {
@@ -185,19 +185,19 @@
       "utc": "2026-09-25T02:00:00Z"
     },
     {
-      "id": "wnba-2026-09-27-tbd-tbd-3",
+      "id": "wnba-2026-09-27-tbd-tbd",
       "weekend": "2026-09-27",
       "name": "TBD v TBD",
       "utc": "2026-09-27T04:00:00Z"
     },
     {
-      "id": "wnba-2026-09-27-tbd-tbd",
+      "id": "wnba-2026-09-27-tbd-tbd-2",
       "weekend": "2026-09-27",
       "name": "TBD v TBD",
       "utc": "2026-09-27T18:00:00Z"
     },
     {
-      "id": "wnba-2026-09-27-tbd-tbd-2",
+      "id": "wnba-2026-09-27-tbd-tbd-3",
       "weekend": "2026-09-27",
       "name": "TBD v TBD",
       "utc": "2026-09-27T20:00:00Z"
@@ -257,16 +257,16 @@
       "utc": "2026-10-02T04:00:00Z"
     },
     {
-      "id": "wnba-2026-10-04-tbd-tbd",
+      "id": "wnba-2026-10-04-tbd-tbd-2",
       "weekend": "2026-10-04",
       "name": "TBD v TBD",
       "utc": "2026-10-04T04:00:00Z"
     },
     {
-      "id": "wnba-2026-10-04-tbd-tbd-2",
+      "id": "wnba-2026-10-04-tbd-tbd",
       "weekend": "2026-10-04",
       "name": "TBD v TBD",
-      "utc": "2026-10-04T04:00:00Z"
+      "utc": "2026-10-04T20:00:00Z"
     },
     {
       "id": "wnba-2026-10-07-tbd-tbd",

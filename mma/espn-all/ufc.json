@@ -1,8 +1,8 @@
 {
   "sportKey": "mma-ufc",
   "leagueName": "Ultimate Fighting Championship",
-  "windowFrom": "20260903",
-  "windowTo": "20270614",
+  "windowFrom": "20260904",
+  "windowTo": "20270615",
   "events": [
     {
       "id": "mma-ufc-2026-09-05-ufc-fight-night-hooker-parnasse",
@@ -105,6 +105,12 @@
       "weekend": "2026-11-14",
       "name": "UFC 334",
       "utc": "2026-11-14T22:00:00Z"
+    },
+    {
+      "id": "mma-ufc-2026-11-21-ufc-fight-night-qatar",
+      "weekend": "2026-11-21",
+      "name": "UFC Fight Night: Qatar",
+      "utc": "2026-11-21T14:00:00Z"
     },
     {
       "id": "mma-ufc-2026-12-12-ufc-335",
