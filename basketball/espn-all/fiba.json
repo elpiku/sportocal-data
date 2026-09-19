@@ -1,57 +1,9 @@
 {
   "sportKey": "basketball-fiba",
   "leagueName": "FIBA World Cup",
-  "windowFrom": "20260904",
-  "windowTo": "20270615",
+  "windowFrom": "20260905",
+  "windowTo": "20270616",
   "events": [
-    {
-      "id": "fiba-2026-09-04-mali-mali-japan-japan",
-      "weekend": "2026-09-04",
-      "name": "Mali Mali v Japan Japan",
-      "utc": "2026-09-04T09:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-04-puerto-rico-puerto-rico-australia-australia",
-      "weekend": "2026-09-04",
-      "name": "Puerto Rico Puerto Rico v Australia Australia",
-      "utc": "2026-09-04T09:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-04-china-china-united-states-united-states",
-      "weekend": "2026-09-04",
-      "name": "China China v United States United States",
-      "utc": "2026-09-04T12:15:00Z"
-    },
-    {
-      "id": "fiba-2026-09-04-nigeria-nigeria-south-korea-south-korea",
-      "weekend": "2026-09-04",
-      "name": "Nigeria Nigeria v South Korea South Korea",
-      "utc": "2026-09-04T12:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-04-t-rkiye-t-rkiye-belgium-belgium",
-      "weekend": "2026-09-04",
-      "name": "T\u00fcrkiye T\u00fcrkiye v Belgium Belgium",
-      "utc": "2026-09-04T15:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-04-germany-germany-spain-spain",
-      "weekend": "2026-09-04",
-      "name": "Germany Germany v Spain Spain",
-      "utc": "2026-09-04T15:45:00Z"
-    },
-    {
-      "id": "fiba-2026-09-04-italy-italy-czechia-czechia",
-      "weekend": "2026-09-04",
-      "name": "Italy Italy v Czechia Czechia",
-      "utc": "2026-09-04T18:15:00Z"
-    },
-    {
-      "id": "fiba-2026-09-04-france-france-hungary-hungary",
-      "weekend": "2026-09-04",
-      "name": "France France v Hungary Hungary",
-      "utc": "2026-09-04T19:00:00Z"
-    },
     {
       "id": "fiba-2026-09-05-spain-spain-mali-mali",
       "weekend": "2026-09-05",
@@ -101,22 +53,16 @@
       "utc": "2026-09-06T18:45:00Z"
     },
     {
-      "id": "fiba-2026-09-07-t-rkiye-t-rkiye-puerto-rico-puerto-rico",
-      "weekend": "2026-09-07",
-      "name": "T\u00fcrkiye T\u00fcrkiye v Puerto Rico Puerto Rico",
-      "utc": "2026-09-07T09:30:00Z"
-    },
-    {
       "id": "fiba-2026-09-07-australia-australia-belgium-belgium",
       "weekend": "2026-09-07",
       "name": "Australia Australia v Belgium Belgium",
       "utc": "2026-09-07T09:30:00Z"
     },
     {
-      "id": "fiba-2026-09-07-south-korea-south-korea-hungary-hungary",
+      "id": "fiba-2026-09-07-t-rkiye-t-rkiye-puerto-rico-puerto-rico",
       "weekend": "2026-09-07",
-      "name": "South Korea South Korea v Hungary Hungary",
-      "utc": "2026-09-07T12:30:00Z"
+      "name": "T\u00fcrkiye T\u00fcrkiye v Puerto Rico Puerto Rico",
+      "utc": "2026-09-07T09:30:00Z"
     },
     {
       "id": "fiba-2026-09-07-france-france-nigeria-nigeria",
@@ -125,15 +71,21 @@
       "utc": "2026-09-07T12:30:00Z"
     },
     {
-      "id": "fiba-2026-09-07-spain-spain-japan-japan",
+      "id": "fiba-2026-09-07-south-korea-south-korea-hungary-hungary",
       "weekend": "2026-09-07",
-      "name": "Spain Spain v Japan Japan",
-      "utc": "2026-09-07T15:50:00Z"
+      "name": "South Korea South Korea v Hungary Hungary",
+      "utc": "2026-09-07T12:30:00Z"
     },
     {
       "id": "fiba-2026-09-07-mali-mali-germany-germany",
       "weekend": "2026-09-07",
       "name": "Mali Mali v Germany Germany",
+      "utc": "2026-09-07T15:50:00Z"
+    },
+    {
+      "id": "fiba-2026-09-07-spain-spain-japan-japan",
+      "weekend": "2026-09-07",
+      "name": "Spain Spain v Japan Japan",
       "utc": "2026-09-07T15:50:00Z"
     },
     {
