@@ -8536,14 +8536,6 @@
     "category": "FOOTBALL"
   },
   {
-    "name": "Andres Herrera",
-    "team": "Columbus Crew",
-    "leagueId": "mls",
-    "leagueName": "MLS",
-    "country": "🇺🇸 USA",
-    "category": "FOOTBALL"
-  },
-  {
     "name": "Andrew Baiera",
     "team": "New York City FC",
     "leagueId": "mls",
@@ -8725,6 +8717,14 @@
     "leagueId": "laliga",
     "leagueName": "La Liga",
     "country": "🇪🇸 Spain",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Andrés Herrera",
+    "team": "Columbus Crew",
+    "leagueId": "mls",
+    "leagueName": "MLS",
+    "country": "🇦🇷 Argentina",
     "category": "FOOTBALL"
   },
   {
@@ -9449,7 +9449,7 @@
   },
   {
     "name": "Arnaud Bodart",
-    "team": "Lille",
+    "team": "Le Havre AC",
     "leagueId": "soccer-fra.1",
     "leagueName": "Ligue 1",
     "country": "🇧🇪 Belgium",
@@ -11949,14 +11949,6 @@
     "leagueId": "championsleague",
     "leagueName": "Champions League",
     "country": "🇫🇷 France",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Christopher Rogers",
-    "team": "Columbus Crew",
-    "leagueId": "mls",
-    "leagueName": "MLS",
-    "country": "🇺🇸 USA",
     "category": "FOOTBALL"
   },
   {
@@ -22320,14 +22312,6 @@
     "category": "FOOTBALL"
   },
   {
-    "name": "José Ángel Carmona",
-    "team": "Sevilla",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇪🇸 Spain",
-    "category": "FOOTBALL"
-  },
-  {
     "name": "José Ángel López",
     "team": "Espanyol",
     "leagueId": "laliga",
@@ -32552,6 +32536,14 @@
     "category": "FOOTBALL"
   },
   {
+    "name": "Pepe Carmona",
+    "team": "Sevilla",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇪🇸 Spain",
+    "category": "FOOTBALL"
+  },
+  {
     "name": "Pepelu",
     "team": "Valencia",
     "leagueId": "laliga",
@@ -40292,7 +40284,7 @@
     "team": "Los Angeles Kings",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "FIN",
     "category": "HOCKEY"
   },
   {
@@ -40516,7 +40508,7 @@
     "team": "Edmonton Oilers",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "FIN",
     "category": "HOCKEY"
   },
   {
@@ -40548,7 +40540,7 @@
     "team": "St. Louis Blues",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "FIN",
     "category": "HOCKEY"
   },
   {
@@ -41044,7 +41036,7 @@
     "team": "Chicago Blackhawks",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "🇺🇸 USA",
     "category": "HOCKEY"
   },
   {
@@ -41308,7 +41300,7 @@
     "team": "Nashville Predators",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "CAN",
     "category": "HOCKEY"
   },
   {
@@ -42012,7 +42004,7 @@
     "team": "Montreal Canadiens",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "CAN",
     "category": "HOCKEY"
   },
   {
@@ -43308,7 +43300,7 @@
     "team": "Edmonton Oilers",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "GER",
     "category": "HOCKEY"
   },
   {
@@ -44044,7 +44036,7 @@
     "team": "Chicago Blackhawks",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "CAN",
     "category": "HOCKEY"
   },
   {
@@ -45492,7 +45484,7 @@
     "team": "New Jersey Devils",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "CZE",
     "category": "HOCKEY"
   },
   {
@@ -45612,7 +45604,7 @@
     "team": "Montreal Canadiens",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "CAN",
     "category": "HOCKEY"
   },
   {
@@ -47732,7 +47724,7 @@
     "team": "Colorado Avalanche",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "SVK",
     "category": "HOCKEY"
   },
   {
@@ -48428,7 +48420,7 @@
     "team": "Detroit Red Wings",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "Czechoslovakia",
     "category": "HOCKEY"
   },
   {
@@ -48492,7 +48484,7 @@
     "team": "Dallas Stars",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "USSR",
     "category": "HOCKEY"
   },
   {
@@ -48844,7 +48836,7 @@
     "team": "New Jersey Devils",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "GER",
+    "country": "CAN",
     "category": "HOCKEY"
   },
   {
@@ -48948,7 +48940,7 @@
     "team": "Colorado Avalanche",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "USSR",
     "category": "HOCKEY"
   },
   {
@@ -50012,7 +50004,7 @@
     "team": "Dallas Stars",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "CAN",
     "category": "HOCKEY"
   },
   {
@@ -50820,7 +50812,7 @@
     "team": "Chicago Blackhawks",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "RUS",
     "category": "HOCKEY"
   },
   {
@@ -51196,7 +51188,7 @@
     "team": "Edmonton Oilers",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "CAN",
     "category": "HOCKEY"
   },
   {
@@ -51452,7 +51444,7 @@
     "team": "Seattle Kraken",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "CAN",
     "category": "HOCKEY"
   },
   {
@@ -52148,7 +52140,7 @@
     "team": "Montreal Canadiens",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
-    "country": "🌍 Global",
+    "country": "CAN",
     "category": "HOCKEY"
   },
   {
