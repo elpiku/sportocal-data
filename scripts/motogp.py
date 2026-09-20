@@ -87,11 +87,84 @@ def api_get(path: str, **params) -> list | dict:
     return res.json()
 
 
-def to_utc_iso(date_str: str) -> str | None:
+COUNTRY_TZ_MAP = {
+    "TH": "Asia/Bangkok",
+    "THA": "Asia/Bangkok",
+    "AT": "Europe/Vienna",
+    "AUT": "Europe/Vienna",
+    "ES": "Europe/Madrid",
+    "SPA": "Europe/Madrid",
+    "CAT": "Europe/Madrid",
+    "ARA": "Europe/Madrid",
+    "VAL": "Europe/Madrid",
+    "VC1": "Europe/Madrid",
+    "ES1": "Europe/Madrid",
+    "ES2": "Europe/Madrid",
+    "ES3": "Europe/Madrid",
+    "CT1": "Europe/Madrid",
+    "FR": "Europe/Paris",
+    "FRA": "Europe/Paris",
+    "IT": "Europe/Rome",
+    "ITA": "Europe/Rome",
+    "SM": "Europe/Rome",
+    "RSM": "Europe/Rome",
+    "DE": "Europe/Berlin",
+    "GER": "Europe/Berlin",
+    "NL": "Europe/Amsterdam",
+    "NED": "Europe/Amsterdam",
+    "GB": "Europe/London",
+    "GBR": "Europe/London",
+    "HU": "Europe/Budapest",
+    "HUN": "Europe/Budapest",
+    "CZ": "Europe/Prague",
+    "CZE": "Europe/Prague",
+    "PT": "Europe/Lisbon",
+    "POR": "Europe/Lisbon",
+    "QA": "Asia/Qatar",
+    "QAT": "Asia/Qatar",
+    "MY": "Asia/Kuala_Lumpur",
+    "MAL": "Asia/Kuala_Lumpur",
+    "MY2": "Asia/Kuala_Lumpur",
+    "JP": "Asia/Tokyo",
+    "JPN": "Asia/Tokyo",
+    "ID": "Asia/Makassar",
+    "INA": "Asia/Makassar",
+    "AU": "Australia/Melbourne",
+    "AUS": "Australia/Melbourne",
+    "BR": "America/Sao_Paulo",
+    "BRA": "America/Sao_Paulo",
+    "US": "America/Chicago",
+    "USA": "America/Chicago",
+}
+
+
+def resolve_circuit_tz(event: dict) -> str | None:
+    iso = (event.get("country") or {}).get("iso")
+    if iso and iso in COUNTRY_TZ_MAP:
+        return COUNTRY_TZ_MAP[iso]
+    short_name = event.get("short_name")
+    if short_name and short_name in COUNTRY_TZ_MAP:
+        return COUNTRY_TZ_MAP[short_name]
+    nation = (event.get("circuit") or {}).get("nation")
+    if nation and nation in COUNTRY_TZ_MAP:
+        return COUNTRY_TZ_MAP[nation]
+    return None
+
+
+def to_utc_iso(date_str: str, tz_name: str | None = None) -> str | None:
     if not date_str:
         return None
     try:
-        dt = dt_parser.parse(str(date_str))
+        import re
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        # MotoGP PulseLive API returns local track wall-clock time with a fake +00:00 suffix
+        clean_str = re.sub(r"[+-]\d{2}:?\d{2}$|Z$", "", str(date_str).strip())
+        dt = datetime.fromisoformat(clean_str)
+        if tz_name:
+            dt = dt.replace(tzinfo=ZoneInfo(tz_name))
+        else:
+            dt = dt.replace(tzinfo=timezone.utc)
         return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     except (ValueError, OverflowError):
         return None
@@ -158,6 +231,7 @@ def build_event_entries(event: dict, category_ids: dict[str, str]) -> dict[str, 
     event_name = event.get("name") or event.get("sponsored_name") or "Grand Prix"
     event_slug = slugify(event_name)
     fallback_date = event.get("date_start") or event.get("date_end")
+    circuit_tz = resolve_circuit_tz(event)
 
     entries = {cat: [] for cat in TARGET_CATEGORIES}
     for cat, category_uuid in category_ids.items():
@@ -168,7 +242,7 @@ def build_event_entries(event: dict, category_ids: dict[str, str]) -> dict[str, 
             # No session data available yet for this weekend/category -
             # fall back to a single race placeholder rather than dropping
             # the event entirely.
-            utc_iso = to_utc_iso(fallback_date)
+            utc_iso = to_utc_iso(fallback_date, circuit_tz)
             if utc_iso:
                 entries[cat].append({
                     "id": assign_id(f"{cat}-{SEASON_YEAR}-{event_slug}-race"),
@@ -179,7 +253,7 @@ def build_event_entries(event: dict, category_ids: dict[str, str]) -> dict[str, 
             continue
 
         for s in sessions:
-            utc_iso = to_utc_iso(s.get("date"))
+            utc_iso = to_utc_iso(s.get("date"), circuit_tz)
             if not utc_iso:
                 continue
             session_key, display_name = classify_session(s.get("type"), s.get("number"))

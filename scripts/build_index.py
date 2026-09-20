@@ -46,6 +46,11 @@ EXCLUDED_TOP_LEVEL = {".git", ".github", "scripts", "node_modules"}
 # each script's own output already contains.
 CURATED_NAMES = {
     "f1": "Formula 1",
+    "f2": "Formula 2",
+    "f3": "Formula 3",
+    "gt-world-challenge-europe": "GT World Challenge Europe",
+    "gb3": "GB3 Championship",
+    "gb4": "GB4 Championship",
     "wrc": "WRC",
     "nascar-cup": "NASCAR Cup Series",
     "nascar-oreilly": "NASCAR O'Reilly Series",

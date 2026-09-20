@@ -109,6 +109,21 @@ jobs:
       - name: Run F1 Scraper
         run: python scripts/scrape_f1.py || true
 
+      - name: Run F2 Scraper
+        run: python scripts/f2.py || true
+
+      - name: Run F3 Scraper
+        run: python scripts/f3.py || true
+
+      - name: Run GT World Challenge Europe Scraper
+        run: python scripts/gt_world_challenge_europe.py || true
+
+      - name: Run GB3 Championship Scraper
+        run: python scripts/gb3.py || true
+
+      - name: Run GB4 Championship Scraper
+        run: python scripts/gb4.py || true
+
       - name: Run MotoGP Scraper
         run: python scripts/motogp.py || true
 

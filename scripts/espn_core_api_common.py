@@ -120,6 +120,17 @@ def fetch_league_name(sport: str, league_slug: str) -> str:
     return name.strip() if isinstance(name, str) and name.strip() else league_slug
 
 
+def deduplicate_team_name(name: str) -> str:
+    words = name.strip().split()
+    if len(words) >= 2 and len(words) % 2 == 0:
+        half = len(words) // 2
+        first_half = " ".join(words[:half])
+        second_half = " ".join(words[half:])
+        if first_half.lower() == second_half.lower():
+            return first_half
+    return name.strip()
+
+
 def extract_teams(event: dict) -> tuple[str, str] | None:
     """(home_name, away_name) parsed from event name/shortName."""
     for field in ("name", "shortName"):
@@ -131,7 +142,7 @@ def extract_teams(event: dict) -> tuple[str, str] | None:
             if m:
                 home, away = m.group("home").strip(), m.group("away").strip()
                 if home and away:
-                    return home, away
+                    return deduplicate_team_name(home), deduplicate_team_name(away)
     return None
 
 

@@ -1,0 +1,174 @@
+{
+  "sportKey": "gb4",
+  "season": "2026",
+  "events": [
+    {
+      "id": "gb4-2026-oulton-park-quali",
+      "weekend": "Oulton Park",
+      "name": "Qualifying",
+      "utc": "2026-04-04T10:00:00Z"
+    },
+    {
+      "id": "gb4-2026-oulton-park-race-1",
+      "weekend": "Oulton Park",
+      "name": "Race 1",
+      "utc": "2026-04-04T14:10:00Z"
+    },
+    {
+      "id": "gb4-2026-oulton-park-race-2",
+      "weekend": "Oulton Park",
+      "name": "Race 2",
+      "utc": "2026-04-06T09:30:00Z"
+    },
+    {
+      "id": "gb4-2026-oulton-park-race-3",
+      "weekend": "Oulton Park",
+      "name": "Race 3",
+      "utc": "2026-04-06T14:20:00Z"
+    },
+    {
+      "id": "gb4-2026-silverstone-gp-quali",
+      "weekend": "Silverstone GP",
+      "name": "Qualifying",
+      "utc": "2026-04-25T09:10:00Z"
+    },
+    {
+      "id": "gb4-2026-silverstone-gp-race-1",
+      "weekend": "Silverstone GP",
+      "name": "Race 1",
+      "utc": "2026-04-25T13:20:00Z"
+    },
+    {
+      "id": "gb4-2026-silverstone-gp-race-2",
+      "weekend": "Silverstone GP",
+      "name": "Race 2",
+      "utc": "2026-04-26T08:45:00Z"
+    },
+    {
+      "id": "gb4-2026-silverstone-gp-race-3",
+      "weekend": "Silverstone GP",
+      "name": "Race 3",
+      "utc": "2026-04-26T13:45:00Z"
+    },
+    {
+      "id": "gb4-2026-donington-gp-quali",
+      "weekend": "Donington Park GP",
+      "name": "Qualifying",
+      "utc": "2026-05-23T09:20:00Z"
+    },
+    {
+      "id": "gb4-2026-donington-gp-race-1",
+      "weekend": "Donington Park GP",
+      "name": "Race 1",
+      "utc": "2026-05-23T13:30:00Z"
+    },
+    {
+      "id": "gb4-2026-donington-gp-race-2",
+      "weekend": "Donington Park GP",
+      "name": "Race 2",
+      "utc": "2026-05-24T09:00:00Z"
+    },
+    {
+      "id": "gb4-2026-donington-gp-race-3",
+      "weekend": "Donington Park GP",
+      "name": "Race 3",
+      "utc": "2026-05-24T13:50:00Z"
+    },
+    {
+      "id": "gb4-2026-snetterton-quali",
+      "weekend": "Snetterton 300",
+      "name": "Qualifying",
+      "utc": "2026-07-11T09:30:00Z"
+    },
+    {
+      "id": "gb4-2026-snetterton-race-1",
+      "weekend": "Snetterton 300",
+      "name": "Race 1",
+      "utc": "2026-07-11T13:40:00Z"
+    },
+    {
+      "id": "gb4-2026-snetterton-race-2",
+      "weekend": "Snetterton 300",
+      "name": "Race 2",
+      "utc": "2026-07-12T09:10:00Z"
+    },
+    {
+      "id": "gb4-2026-snetterton-race-3",
+      "weekend": "Snetterton 300",
+      "name": "Race 3",
+      "utc": "2026-07-12T14:00:00Z"
+    },
+    {
+      "id": "gb4-2026-silverstone-summer-quali",
+      "weekend": "Silverstone GP (Summer)",
+      "name": "Qualifying",
+      "utc": "2026-07-25T09:10:00Z"
+    },
+    {
+      "id": "gb4-2026-silverstone-summer-race-1",
+      "weekend": "Silverstone GP (Summer)",
+      "name": "Race 1",
+      "utc": "2026-07-25T13:30:00Z"
+    },
+    {
+      "id": "gb4-2026-silverstone-summer-race-2",
+      "weekend": "Silverstone GP (Summer)",
+      "name": "Race 2",
+      "utc": "2026-07-26T08:45:00Z"
+    },
+    {
+      "id": "gb4-2026-silverstone-summer-race-3",
+      "weekend": "Silverstone GP (Summer)",
+      "name": "Race 3",
+      "utc": "2026-07-26T13:50:00Z"
+    },
+    {
+      "id": "gb4-2026-brands-hatch-indy-quali",
+      "weekend": "Brands Hatch Indy",
+      "name": "Qualifying",
+      "utc": "2026-09-05T09:30:00Z"
+    },
+    {
+      "id": "gb4-2026-brands-hatch-indy-race-1",
+      "weekend": "Brands Hatch Indy",
+      "name": "Race 1",
+      "utc": "2026-09-05T13:40:00Z"
+    },
+    {
+      "id": "gb4-2026-brands-hatch-indy-race-2",
+      "weekend": "Brands Hatch Indy",
+      "name": "Race 2",
+      "utc": "2026-09-06T09:10:00Z"
+    },
+    {
+      "id": "gb4-2026-brands-hatch-indy-race-3",
+      "weekend": "Brands Hatch Indy",
+      "name": "Race 3",
+      "utc": "2026-09-06T14:00:00Z"
+    },
+    {
+      "id": "gb4-2026-donington-decider-quali",
+      "weekend": "Donington Park Decider",
+      "name": "Qualifying",
+      "utc": "2026-10-03T09:30:00Z"
+    },
+    {
+      "id": "gb4-2026-donington-decider-race-1",
+      "weekend": "Donington Park Decider",
+      "name": "Race 1",
+      "utc": "2026-10-03T13:40:00Z"
+    },
+    {
+      "id": "gb4-2026-donington-decider-race-2",
+      "weekend": "Donington Park Decider",
+      "name": "Race 2",
+      "utc": "2026-10-04T09:10:00Z"
+    },
+    {
+      "id": "gb4-2026-donington-decider-race-3",
+      "weekend": "Donington Park Decider",
+      "name": "Race 3",
+      "utc": "2026-10-04T14:00:00Z"
+    }
+  ]
+}

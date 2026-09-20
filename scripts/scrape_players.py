@@ -99,6 +99,49 @@ MOTORSPORT_ATHLETES = [
     {"name": "Lance Stroll", "team": "Aston Martin", "leagueId": "f1", "leagueName": "Formula 1", "country": "🇨🇦 Canada", "category": "MOTORSPORT"},
     {"name": "Kimi Antonelli", "team": "Mercedes", "leagueId": "f1", "leagueName": "Formula 1", "country": "🇮🇹 Italy", "category": "MOTORSPORT"},
 
+    # Formula 2
+    {"name": "Paul Aron", "team": "Hitech Pulse-Eight", "leagueId": "f2", "leagueName": "Formula 2", "country": "🇪🇪 Estonia", "category": "MOTORSPORT"},
+    {"name": "Zane Maloney", "team": "Rodin Motorsport", "leagueId": "f2", "leagueName": "Formula 2", "country": "🇧🇧 Barbados", "category": "MOTORSPORT"},
+    {"name": "Jak Crawford", "team": "DAMS Lucas Oil", "leagueId": "f2", "leagueName": "Formula 2", "country": "🇺🇸 USA", "category": "MOTORSPORT"},
+    {"name": "Dennis Hauger", "team": "MP Motorsport", "leagueId": "f2", "leagueName": "Formula 2", "country": "🇳🇴 Norway", "category": "MOTORSPORT"},
+    {"name": "Kush Maini", "team": "Invicta Racing", "leagueId": "f2", "leagueName": "Formula 2", "country": "🇮🇳 India", "category": "MOTORSPORT"},
+    {"name": "Victor Martins", "team": "ART Grand Prix", "leagueId": "f2", "leagueName": "Formula 2", "country": "🇫🇷 France", "category": "MOTORSPORT"},
+    {"name": "Josep María Martí", "team": "Campos Racing", "leagueId": "f2", "leagueName": "Formula 2", "country": "🇪🇸 Spain", "category": "MOTORSPORT"},
+    {"name": "Richard Verschoor", "team": "Trident", "leagueId": "f2", "leagueName": "Formula 2", "country": "🇳🇱 Netherlands", "category": "MOTORSPORT"},
+
+    # Formula 3
+    {"name": "Leonardo Fornaroli", "team": "Trident", "leagueId": "f3", "leagueName": "Formula 3", "country": "🇮🇹 Italy", "category": "MOTORSPORT"},
+    {"name": "Gabriele Minì", "team": "PREMA Racing", "leagueId": "f3", "leagueName": "Formula 3", "country": "🇮🇹 Italy", "category": "MOTORSPORT"},
+    {"name": "Luke Browning", "team": "Hitech Pulse-Eight", "leagueId": "f3", "leagueName": "Formula 3", "country": "🇬🇧 Great Britain", "category": "MOTORSPORT"},
+    {"name": "Arvid Lindblad", "team": "PREMA Racing", "leagueId": "f3", "leagueName": "Formula 3", "country": "🇬🇧 Great Britain", "category": "MOTORSPORT"},
+    {"name": "Dino Beganovic", "team": "PREMA Racing", "leagueId": "f3", "leagueName": "Formula 3", "country": "🇸🇪 Sweden", "category": "MOTORSPORT"},
+    {"name": "Christian Mansell", "team": "ART Grand Prix", "leagueId": "f3", "leagueName": "Formula 3", "country": "🇦🇺 Australia", "category": "MOTORSPORT"},
+    {"name": "Oliver Goethe", "team": "Campos Racing", "leagueId": "f3", "leagueName": "Formula 3", "country": "🇩🇪 Germany", "category": "MOTORSPORT"},
+
+    # GT World Challenge Europe
+    {"name": "Valentino Rossi", "team": "Team WRT (BMW)", "leagueId": "gt-world-challenge-europe", "leagueName": "GT World Challenge Europe", "country": "🇮🇹 Italy", "category": "MOTORSPORT"},
+    {"name": "Raffaele Marciello", "team": "Team WRT (BMW)", "leagueId": "gt-world-challenge-europe", "leagueName": "GT World Challenge Europe", "country": "🇨🇭 Switzerland", "category": "MOTORSPORT"},
+    {"name": "Maxime Martin", "team": "Team WRT (BMW)", "leagueId": "gt-world-challenge-europe", "leagueName": "GT World Challenge Europe", "country": "🇧🇪 Belgium", "category": "MOTORSPORT"},
+    {"name": "Jules Gounon", "team": "Mercedes-AMG Team", "leagueId": "gt-world-challenge-europe", "leagueName": "GT World Challenge Europe", "country": "🇦🇩 Andorra", "category": "MOTORSPORT"},
+    {"name": "Maro Engel", "team": "Mercedes-AMG Team", "leagueId": "gt-world-challenge-europe", "leagueName": "GT World Challenge Europe", "country": "🇩🇪 Germany", "category": "MOTORSPORT"},
+    {"name": "Charles Weerts", "team": "Team WRT (BMW)", "leagueId": "gt-world-challenge-europe", "leagueName": "GT World Challenge Europe", "country": "🇧🇪 Belgium", "category": "MOTORSPORT"},
+    {"name": "Dries Vanthoor", "team": "Team WRT (BMW)", "leagueId": "gt-world-challenge-europe", "leagueName": "GT World Challenge Europe", "country": "🇧🇪 Belgium", "category": "MOTORSPORT"},
+    {"name": "Mattia Drudi", "team": "Aston Martin Racing", "leagueId": "gt-world-challenge-europe", "leagueName": "GT World Challenge Europe", "country": "🇮🇹 Italy", "category": "MOTORSPORT"},
+
+    # GB3 Championship
+    {"name": "Louis Sharp", "team": "Rodin Motorsport", "leagueId": "gb3", "leagueName": "GB3 Championship", "country": "🇳🇿 New Zealand", "category": "MOTORSPORT"},
+    {"name": "John Bennett", "team": "JHR Developments", "leagueId": "gb3", "leagueName": "GB3 Championship", "country": "🇬🇧 Great Britain", "category": "MOTORSPORT"},
+    {"name": "Tymek Kucharczyk", "team": "Hitech Pulse-Eight", "leagueId": "gb3", "leagueName": "GB3 Championship", "country": "🇵🇱 Poland", "category": "MOTORSPORT"},
+    {"name": "Will Macintyre", "team": "Hitech Pulse-Eight", "leagueId": "gb3", "leagueName": "GB3 Championship", "country": "🇬🇧 Great Britain", "category": "MOTORSPORT"},
+    {"name": "McKenzie Cresswell", "team": "Elite Motorsport", "leagueId": "gb3", "leagueName": "GB3 Championship", "country": "🇬🇧 Great Britain", "category": "MOTORSPORT"},
+
+    # GB4 Championship
+    {"name": "Linus Granfors", "team": "Fortec Motorsport", "leagueId": "gb4", "leagueName": "GB4 Championship", "country": "🇸🇪 Sweden", "category": "MOTORSPORT"},
+    {"name": "Harry Burgoyne", "team": "KMR Sport", "leagueId": "gb4", "leagueName": "GB4 Championship", "country": "🇬🇧 Great Britain", "category": "MOTORSPORT"},
+    {"name": "Alisha Palmowski", "team": "Elite Motorsport", "leagueId": "gb4", "leagueName": "GB4 Championship", "country": "🇬🇧 Great Britain", "category": "MOTORSPORT"},
+    {"name": "Branden Templeton", "team": "Fox Motorsport", "leagueId": "gb4", "leagueName": "GB4 Championship", "country": "🇬🇧 Great Britain", "category": "MOTORSPORT"},
+    {"name": "Kip Foster", "team": "Walkinshaw EVR", "leagueId": "gb4", "leagueName": "GB4 Championship", "country": "🇦🇺 Australia", "category": "MOTORSPORT"},
+
     # MotoGP
     {"name": "Marc Márquez", "team": "Ducati Lenovo", "leagueId": "motogp", "leagueName": "MotoGP", "country": "🇪🇸 Spain", "category": "MOTORSPORT"},
     {"name": "Francesco Bagnaia", "team": "Ducati Lenovo", "leagueId": "motogp", "leagueName": "MotoGP", "country": "🇮🇹 Italy", "category": "MOTORSPORT"},

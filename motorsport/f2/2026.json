@@ -1,0 +1,342 @@
+{
+  "sportKey": "f2",
+  "season": "2026",
+  "events": [
+    {
+      "id": "f2-2026-melbourne-practice",
+      "weekend": "Melbourne Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-03-06T01:00:00Z"
+    },
+    {
+      "id": "f2-2026-melbourne-quali",
+      "weekend": "Melbourne Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-03-06T06:30:00Z"
+    },
+    {
+      "id": "f2-2026-melbourne-sprint",
+      "weekend": "Melbourne Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-03-07T03:15:00Z"
+    },
+    {
+      "id": "f2-2026-melbourne-feature",
+      "weekend": "Melbourne Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-03-08T00:30:00Z"
+    },
+    {
+      "id": "f2-2026-sakhir-practice",
+      "weekend": "Sakhir Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-04-10T08:05:00Z"
+    },
+    {
+      "id": "f2-2026-sakhir-quali",
+      "weekend": "Sakhir Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-04-10T13:55:00Z"
+    },
+    {
+      "id": "f2-2026-sakhir-sprint",
+      "weekend": "Sakhir Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-04-11T14:15:00Z"
+    },
+    {
+      "id": "f2-2026-sakhir-feature",
+      "weekend": "Sakhir Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-04-12T10:25:00Z"
+    },
+    {
+      "id": "f2-2026-jeddah-practice",
+      "weekend": "Jeddah Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-04-17T11:00:00Z"
+    },
+    {
+      "id": "f2-2026-jeddah-quali",
+      "weekend": "Jeddah Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-04-17T15:00:00Z"
+    },
+    {
+      "id": "f2-2026-jeddah-sprint",
+      "weekend": "Jeddah Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-04-18T15:15:00Z"
+    },
+    {
+      "id": "f2-2026-jeddah-feature",
+      "weekend": "Jeddah Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-04-19T13:25:00Z"
+    },
+    {
+      "id": "f2-2026-imola-practice",
+      "weekend": "Emilia Romagna Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-05-15T09:05:00Z"
+    },
+    {
+      "id": "f2-2026-imola-quali",
+      "weekend": "Emilia Romagna Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-05-15T14:00:00Z"
+    },
+    {
+      "id": "f2-2026-imola-sprint",
+      "weekend": "Emilia Romagna Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-05-16T12:15:00Z"
+    },
+    {
+      "id": "f2-2026-imola-feature",
+      "weekend": "Emilia Romagna Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-05-17T08:00:00Z"
+    },
+    {
+      "id": "f2-2026-monaco-practice",
+      "weekend": "Monaco Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-05-21T13:00:00Z"
+    },
+    {
+      "id": "f2-2026-monaco-quali",
+      "weekend": "Monaco Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-05-22T13:10:00Z"
+    },
+    {
+      "id": "f2-2026-monaco-sprint",
+      "weekend": "Monaco Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-05-23T12:15:00Z"
+    },
+    {
+      "id": "f2-2026-monaco-feature",
+      "weekend": "Monaco Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-05-24T07:40:00Z"
+    },
+    {
+      "id": "f2-2026-barcelona-practice",
+      "weekend": "Spanish Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-05-29T09:05:00Z"
+    },
+    {
+      "id": "f2-2026-barcelona-quali",
+      "weekend": "Spanish Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-05-29T13:55:00Z"
+    },
+    {
+      "id": "f2-2026-barcelona-sprint",
+      "weekend": "Spanish Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-05-30T12:15:00Z"
+    },
+    {
+      "id": "f2-2026-barcelona-feature",
+      "weekend": "Spanish Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-05-31T09:35:00Z"
+    },
+    {
+      "id": "f2-2026-spielberg-practice",
+      "weekend": "Austrian Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-06-26T08:05:00Z"
+    },
+    {
+      "id": "f2-2026-spielberg-quali",
+      "weekend": "Austrian Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-06-26T12:55:00Z"
+    },
+    {
+      "id": "f2-2026-spielberg-sprint",
+      "weekend": "Austrian Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-06-27T11:45:00Z"
+    },
+    {
+      "id": "f2-2026-spielberg-feature",
+      "weekend": "Austrian Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-06-28T08:35:00Z"
+    },
+    {
+      "id": "f2-2026-silverstone-practice",
+      "weekend": "British Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-07-03T09:00:00Z"
+    },
+    {
+      "id": "f2-2026-silverstone-quali",
+      "weekend": "British Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-07-03T14:05:00Z"
+    },
+    {
+      "id": "f2-2026-silverstone-sprint",
+      "weekend": "British Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-07-04T12:15:00Z"
+    },
+    {
+      "id": "f2-2026-silverstone-feature",
+      "weekend": "British Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-07-05T08:55:00Z"
+    },
+    {
+      "id": "f2-2026-spa-practice",
+      "weekend": "Belgian Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-07-24T09:05:00Z"
+    },
+    {
+      "id": "f2-2026-spa-quali",
+      "weekend": "Belgian Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-07-24T13:55:00Z"
+    },
+    {
+      "id": "f2-2026-spa-sprint",
+      "weekend": "Belgian Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-07-25T12:15:00Z"
+    },
+    {
+      "id": "f2-2026-spa-feature",
+      "weekend": "Belgian Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-07-26T08:00:00Z"
+    },
+    {
+      "id": "f2-2026-budapest-practice",
+      "weekend": "Hungarian Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-07-31T09:05:00Z"
+    },
+    {
+      "id": "f2-2026-budapest-quali",
+      "weekend": "Hungarian Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-07-31T14:00:00Z"
+    },
+    {
+      "id": "f2-2026-budapest-sprint",
+      "weekend": "Hungarian Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-08-01T12:15:00Z"
+    },
+    {
+      "id": "f2-2026-budapest-feature",
+      "weekend": "Hungarian Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-08-02T08:05:00Z"
+    },
+    {
+      "id": "f2-2026-monza-practice",
+      "weekend": "Italian Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-09-04T09:05:00Z"
+    },
+    {
+      "id": "f2-2026-monza-quali",
+      "weekend": "Italian Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-09-04T14:00:00Z"
+    },
+    {
+      "id": "f2-2026-monza-sprint",
+      "weekend": "Italian Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-09-05T12:15:00Z"
+    },
+    {
+      "id": "f2-2026-monza-feature",
+      "weekend": "Italian Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-09-06T08:05:00Z"
+    },
+    {
+      "id": "f2-2026-baku-practice",
+      "weekend": "Azerbaijan Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-09-25T07:00:00Z"
+    },
+    {
+      "id": "f2-2026-baku-quali",
+      "weekend": "Azerbaijan Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-09-25T11:00:00Z"
+    },
+    {
+      "id": "f2-2026-baku-sprint",
+      "weekend": "Azerbaijan Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-09-26T10:15:00Z"
+    },
+    {
+      "id": "f2-2026-baku-feature",
+      "weekend": "Azerbaijan Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-09-27T07:35:00Z"
+    },
+    {
+      "id": "f2-2026-lusail-practice",
+      "weekend": "Qatar Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-11-27T11:05:00Z"
+    },
+    {
+      "id": "f2-2026-lusail-quali",
+      "weekend": "Qatar Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-11-27T16:10:00Z"
+    },
+    {
+      "id": "f2-2026-lusail-sprint",
+      "weekend": "Qatar Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-11-28T16:20:00Z"
+    },
+    {
+      "id": "f2-2026-lusail-feature",
+      "weekend": "Qatar Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-11-29T12:20:00Z"
+    },
+    {
+      "id": "f2-2026-abudhabi-practice",
+      "weekend": "Abu Dhabi Grand Prix",
+      "name": "Free Practice",
+      "utc": "2026-12-04T07:05:00Z"
+    },
+    {
+      "id": "f2-2026-abudhabi-quali",
+      "weekend": "Abu Dhabi Grand Prix",
+      "name": "Qualifying",
+      "utc": "2026-12-04T11:00:00Z"
+    },
+    {
+      "id": "f2-2026-abudhabi-sprint",
+      "weekend": "Abu Dhabi Grand Prix",
+      "name": "Sprint Race",
+      "utc": "2026-12-05T12:15:00Z"
+    },
+    {
+      "id": "f2-2026-abudhabi-feature",
+      "weekend": "Abu Dhabi Grand Prix",
+      "name": "Feature Race",
+      "utc": "2026-12-06T09:15:00Z"
+    }
+  ]
+}
