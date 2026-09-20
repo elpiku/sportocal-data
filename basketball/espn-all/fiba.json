@@ -1,33 +1,9 @@
 {
   "sportKey": "basketball-fiba",
   "leagueName": "FIBA World Cup",
-  "windowFrom": "20260905",
-  "windowTo": "20270616",
+  "windowFrom": "20260906",
+  "windowTo": "20270617",
   "events": [
-    {
-      "id": "fiba-2026-09-05-spain-spain-mali-mali",
-      "weekend": "2026-09-05",
-      "name": "Spain Spain v Mali Mali",
-      "utc": "2026-09-05T09:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-05-hungary-hungary-nigeria-nigeria",
-      "weekend": "2026-09-05",
-      "name": "Hungary Hungary v Nigeria Nigeria",
-      "utc": "2026-09-05T12:15:00Z"
-    },
-    {
-      "id": "fiba-2026-09-05-japan-japan-germany-germany",
-      "weekend": "2026-09-05",
-      "name": "Japan Japan v Germany Germany",
-      "utc": "2026-09-05T16:00:00Z"
-    },
-    {
-      "id": "fiba-2026-09-05-south-korea-south-korea-france-france",
-      "weekend": "2026-09-05",
-      "name": "South Korea South Korea v France France",
-      "utc": "2026-09-05T18:45:00Z"
-    },
     {
       "id": "fiba-2026-09-06-australia-australia-t-rkiye-t-rkiye",
       "weekend": "2026-09-06",
@@ -65,15 +41,15 @@
       "utc": "2026-09-07T09:30:00Z"
     },
     {
-      "id": "fiba-2026-09-07-france-france-nigeria-nigeria",
-      "weekend": "2026-09-07",
-      "name": "France France v Nigeria Nigeria",
-      "utc": "2026-09-07T12:30:00Z"
-    },
-    {
       "id": "fiba-2026-09-07-south-korea-south-korea-hungary-hungary",
       "weekend": "2026-09-07",
       "name": "South Korea South Korea v Hungary Hungary",
+      "utc": "2026-09-07T12:30:00Z"
+    },
+    {
+      "id": "fiba-2026-09-07-france-france-nigeria-nigeria",
+      "weekend": "2026-09-07",
+      "name": "France France v Nigeria Nigeria",
       "utc": "2026-09-07T12:30:00Z"
     },
     {
@@ -89,15 +65,15 @@
       "utc": "2026-09-07T15:50:00Z"
     },
     {
-      "id": "fiba-2026-09-07-czechia-czechia-united-states-united-states",
-      "weekend": "2026-09-07",
-      "name": "Czechia Czechia v United States United States",
-      "utc": "2026-09-07T18:45:00Z"
-    },
-    {
       "id": "fiba-2026-09-07-china-china-italy-italy",
       "weekend": "2026-09-07",
       "name": "China China v Italy Italy",
+      "utc": "2026-09-07T18:45:00Z"
+    },
+    {
+      "id": "fiba-2026-09-07-czechia-czechia-united-states-united-states",
+      "weekend": "2026-09-07",
+      "name": "Czechia Czechia v United States United States",
       "utc": "2026-09-07T18:45:00Z"
     },
     {

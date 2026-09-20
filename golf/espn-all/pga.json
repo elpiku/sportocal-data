@@ -1,8 +1,8 @@
 {
   "sportKey": "golf-pga",
   "leagueName": "PGA TOUR",
-  "windowFrom": "20260905",
-  "windowTo": "20270616",
+  "windowFrom": "20260906",
+  "windowTo": "20270617",
   "events": [
     {
       "id": "golf-pga-2026-09-17-biltmore-championship-asheville",
@@ -173,15 +173,15 @@
       "utc": "2027-05-06T04:00:00Z"
     },
     {
-      "id": "golf-pga-2027-05-13-truist-championship",
-      "weekend": "2027-05-13",
-      "name": "Truist Championship",
-      "utc": "2027-05-13T04:00:00Z"
-    },
-    {
       "id": "golf-pga-2027-05-13-oneflight-myrtle-beach-classic",
       "weekend": "2027-05-13",
       "name": "ONEflight Myrtle Beach Classic",
+      "utc": "2027-05-13T04:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-05-13-truist-championship",
+      "weekend": "2027-05-13",
+      "name": "Truist Championship",
       "utc": "2027-05-13T04:00:00Z"
     },
     {
@@ -207,6 +207,12 @@
       "weekend": "2027-06-10",
       "name": "RBC Canadian Open",
       "utc": "2027-06-10T04:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-06-17-u-s-open",
+      "weekend": "2027-06-17",
+      "name": "U.S. Open",
+      "utc": "2027-06-17T04:00:00Z"
     }
   ]
 }
