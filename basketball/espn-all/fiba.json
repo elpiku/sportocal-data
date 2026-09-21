@@ -1,43 +1,19 @@
 {
   "sportKey": "basketball-fiba",
   "leagueName": "FIBA World Cup",
-  "windowFrom": "20260906",
-  "windowTo": "20270617",
+  "windowFrom": "20260907",
+  "windowTo": "20270618",
   "events": [
     {
-      "id": "fiba-2026-09-06-australia-t-rkiye",
-      "weekend": "2026-09-06",
-      "name": "Australia v T\u00fcrkiye",
-      "utc": "2026-09-06T09:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-06-czechia-china",
-      "weekend": "2026-09-06",
-      "name": "Czechia v China",
-      "utc": "2026-09-06T12:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-06-belgium-puerto-rico",
-      "weekend": "2026-09-06",
-      "name": "Belgium v Puerto Rico",
-      "utc": "2026-09-06T15:45:00Z"
-    },
-    {
-      "id": "fiba-2026-09-06-united-states-italy",
-      "weekend": "2026-09-06",
-      "name": "United States v Italy",
-      "utc": "2026-09-06T18:45:00Z"
+      "id": "fiba-2026-09-07-australia-belgium",
+      "weekend": "2026-09-07",
+      "name": "Australia v Belgium",
+      "utc": "2026-09-07T09:30:00Z"
     },
     {
       "id": "fiba-2026-09-07-t-rkiye-puerto-rico",
       "weekend": "2026-09-07",
       "name": "T\u00fcrkiye v Puerto Rico",
-      "utc": "2026-09-07T09:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-07-australia-belgium",
-      "weekend": "2026-09-07",
-      "name": "Australia v Belgium",
       "utc": "2026-09-07T09:30:00Z"
     },
     {
@@ -53,15 +29,15 @@
       "utc": "2026-09-07T12:30:00Z"
     },
     {
-      "id": "fiba-2026-09-07-spain-japan",
-      "weekend": "2026-09-07",
-      "name": "Spain v Japan",
-      "utc": "2026-09-07T15:50:00Z"
-    },
-    {
       "id": "fiba-2026-09-07-mali-germany",
       "weekend": "2026-09-07",
       "name": "Mali v Germany",
+      "utc": "2026-09-07T15:50:00Z"
+    },
+    {
+      "id": "fiba-2026-09-07-spain-japan",
+      "weekend": "2026-09-07",
+      "name": "Spain v Japan",
       "utc": "2026-09-07T15:50:00Z"
     },
     {
