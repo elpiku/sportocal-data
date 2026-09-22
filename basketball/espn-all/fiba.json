@@ -1,57 +1,9 @@
 {
   "sportKey": "basketball-fiba",
   "leagueName": "FIBA World Cup",
-  "windowFrom": "20260907",
-  "windowTo": "20270618",
+  "windowFrom": "20260908",
+  "windowTo": "20270619",
   "events": [
-    {
-      "id": "fiba-2026-09-07-australia-belgium",
-      "weekend": "2026-09-07",
-      "name": "Australia v Belgium",
-      "utc": "2026-09-07T09:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-07-t-rkiye-puerto-rico",
-      "weekend": "2026-09-07",
-      "name": "T\u00fcrkiye v Puerto Rico",
-      "utc": "2026-09-07T09:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-07-france-nigeria",
-      "weekend": "2026-09-07",
-      "name": "France v Nigeria",
-      "utc": "2026-09-07T12:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-07-south-korea-hungary",
-      "weekend": "2026-09-07",
-      "name": "South Korea v Hungary",
-      "utc": "2026-09-07T12:30:00Z"
-    },
-    {
-      "id": "fiba-2026-09-07-mali-germany",
-      "weekend": "2026-09-07",
-      "name": "Mali v Germany",
-      "utc": "2026-09-07T15:50:00Z"
-    },
-    {
-      "id": "fiba-2026-09-07-spain-japan",
-      "weekend": "2026-09-07",
-      "name": "Spain v Japan",
-      "utc": "2026-09-07T15:50:00Z"
-    },
-    {
-      "id": "fiba-2026-09-07-czechia-united-states",
-      "weekend": "2026-09-07",
-      "name": "Czechia v United States",
-      "utc": "2026-09-07T18:45:00Z"
-    },
-    {
-      "id": "fiba-2026-09-07-china-italy",
-      "weekend": "2026-09-07",
-      "name": "China v Italy",
-      "utc": "2026-09-07T18:45:00Z"
-    },
     {
       "id": "fiba-2026-09-08-japan-hungary",
       "weekend": "2026-09-08",

@@ -1,8 +1,8 @@
 {
   "sportKey": "tennis-atp",
   "leagueName": "ATP",
-  "windowFrom": "20260907",
-  "windowTo": "20270618",
+  "windowFrom": "20260908",
+  "windowTo": "20270619",
   "events": [
     {
       "id": "tennis-atp-2026-08-24-us-open",
@@ -23,15 +23,15 @@
       "utc": "2026-09-22T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-09-30-kinoshita-group-japan-open-tennis-championships",
-      "weekend": "2026-09-30",
-      "name": "Kinoshita Group Japan Open Tennis Championships",
-      "utc": "2026-09-30T04:00:00Z"
-    },
-    {
       "id": "tennis-atp-2026-09-30-china-open",
       "weekend": "2026-09-30",
       "name": "China Open",
+      "utc": "2026-09-30T04:00:00Z"
+    },
+    {
+      "id": "tennis-atp-2026-09-30-kinoshita-group-japan-open-tennis-championships",
+      "weekend": "2026-09-30",
+      "name": "Kinoshita Group Japan Open Tennis Championships",
       "utc": "2026-09-30T04:00:00Z"
     },
     {
@@ -41,9 +41,9 @@
       "utc": "2026-10-07T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-10-19-almaty-open",
+      "id": "tennis-atp-2026-10-19-bnp-paribas-fortis-european-open",
       "weekend": "2026-10-19",
-      "name": "Almaty Open",
+      "name": "BNP Paribas Fortis European Open",
       "utc": "2026-10-19T04:00:00Z"
     },
     {
@@ -53,9 +53,9 @@
       "utc": "2026-10-19T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-10-19-bnp-paribas-fortis-european-open",
+      "id": "tennis-atp-2026-10-19-almaty-open",
       "weekend": "2026-10-19",
-      "name": "BNP Paribas Fortis European Open",
+      "name": "Almaty Open",
       "utc": "2026-10-19T04:00:00Z"
     },
     {
