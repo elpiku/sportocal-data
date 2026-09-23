@@ -609,7 +609,7 @@
   },
   {
     "name": "Bez Mbeng",
-    "team": "Utah Jazz",
+    "team": "Miami Heat",
     "leagueId": "nba",
     "leagueName": "NBA",
     "country": "🇺🇸 USA",
@@ -849,7 +849,7 @@
   },
   {
     "name": "Buddy Hield",
-    "team": "Atlanta Hawks",
+    "team": "Charlotte Hornets",
     "leagueId": "nba",
     "leagueName": "NBA",
     "country": "Bahamas",
@@ -1665,7 +1665,7 @@
   },
   {
     "name": "Dorian Finney-Smith",
-    "team": "Charlotte Hornets",
+    "team": "Atlanta Hawks",
     "leagueId": "nba",
     "leagueName": "NBA",
     "country": "🇺🇸 USA",
@@ -3309,6 +3309,14 @@
     "leagueId": "nba",
     "leagueName": "NBA",
     "country": "🇱🇹 Lithuania",
+    "category": "BASKETBALL"
+  },
+  {
+    "name": "Kate Martin",
+    "team": "Chicago Sky",
+    "leagueId": "basketball-wnba",
+    "leagueName": "WNBA",
+    "country": "🇺🇸 USA",
     "category": "BASKETBALL"
   },
   {
@@ -5209,7 +5217,7 @@
   },
   {
     "name": "Ryan Nembhard",
-    "team": "Atlanta Hawks",
+    "team": "Charlotte Hornets",
     "leagueId": "nba",
     "leagueName": "NBA",
     "country": "🇨🇦 Canada",
@@ -15445,14 +15453,6 @@
     "leagueId": "soccer-fra.1",
     "leagueName": "Ligue 1",
     "country": "🇬🇭 Ghana",
-    "category": "FOOTBALL"
-  },
-  {
-    "name": "Eros Maddy",
-    "team": "AJ Auxerre",
-    "leagueId": "soccer-fra.1",
-    "leagueName": "Ligue 1",
-    "country": "🇳🇱 Netherlands",
     "category": "FOOTBALL"
   },
   {
@@ -40792,6 +40792,14 @@
     "category": "HOCKEY"
   },
   {
+    "name": "Alex Tracy",
+    "team": "Vegas Golden Knights",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "🇺🇸 USA",
+    "category": "HOCKEY"
+  },
+  {
     "name": "Alex Tuch",
     "team": "Washington Capitals",
     "leagueId": "hockey-nhl",
@@ -40810,6 +40818,14 @@
   {
     "name": "Alex Vlasic",
     "team": "Chicago Blackhawks",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "🇺🇸 USA",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Alex Weiermair",
+    "team": "Vegas Golden Knights",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "🇺🇸 USA",
@@ -40853,6 +40869,14 @@
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "CAN",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Alexander Levshyn",
+    "team": "Vegas Golden Knights",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "UKR",
     "category": "HOCKEY"
   },
   {
@@ -41842,6 +41866,14 @@
   {
     "name": "Berkly Catton",
     "team": "Seattle Kraken",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "CAN",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Bill Zonnon",
+    "team": "Pittsburgh Penguins",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "CAN",
@@ -42890,6 +42922,14 @@
   {
     "name": "Carter Verhaeghe",
     "team": "Florida Panthers",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "CAN",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Carter Wilkie",
+    "team": "Calgary Flames",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "CAN",
@@ -45261,6 +45301,14 @@
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "CZE",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Filip Ekberg",
+    "team": "Carolina Hurricanes",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "SWE",
     "category": "HOCKEY"
   },
   {
@@ -47664,6 +47712,14 @@
     "category": "HOCKEY"
   },
   {
+    "name": "Jonah Sivertson",
+    "team": "Vegas Golden Knights",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "CAN",
+    "category": "HOCKEY"
+  },
+  {
     "name": "Jonas Brodin",
     "team": "Minnesota Wild",
     "leagueId": "hockey-nhl",
@@ -48074,6 +48130,14 @@
   {
     "name": "Justin Danforth",
     "team": "Buffalo Sabres",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "CAN",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Justin Dowling",
+    "team": "New York Rangers",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "CAN",
@@ -48701,6 +48765,14 @@
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "🇺🇸 USA",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Kyle Walker",
+    "team": "Calgary Flames",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "CAN",
     "category": "HOCKEY"
   },
   {
@@ -49536,6 +49608,14 @@
     "category": "HOCKEY"
   },
   {
+    "name": "Marek Sklenicka",
+    "team": "Philadelphia Flyers",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "CZE",
+    "category": "HOCKEY"
+  },
+  {
     "name": "Marek Vanacker",
     "team": "Chicago Blackhawks",
     "leagueId": "hockey-nhl",
@@ -49722,6 +49802,14 @@
   {
     "name": "Mason Shaw",
     "team": "Minnesota Wild",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "CAN",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Mateo Nobert",
+    "team": "Vegas Golden Knights",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "CAN",
@@ -49989,6 +50077,14 @@
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "CAN",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Matthew Minchak",
+    "team": "Vegas Golden Knights",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "🇺🇸 USA",
     "category": "HOCKEY"
   },
   {
@@ -51472,6 +51568,14 @@
     "category": "HOCKEY"
   },
   {
+    "name": "Noel Pakarinen",
+    "team": "Vegas Golden Knights",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "🇺🇸 USA",
+    "category": "HOCKEY"
+  },
+  {
     "name": "Nolan Allan",
     "team": "San Jose Sharks",
     "leagueId": "hockey-nhl",
@@ -51701,6 +51805,14 @@
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "CAN",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Owen Flores",
+    "team": "Los Angeles Kings",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "🇺🇸 USA",
     "category": "HOCKEY"
   },
   {
@@ -51949,6 +52061,14 @@
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "CZE",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Petteri Rimpinen",
+    "team": "Los Angeles Kings",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "FIN",
     "category": "HOCKEY"
   },
   {
@@ -53512,6 +53632,14 @@
     "category": "HOCKEY"
   },
   {
+    "name": "Shane Smith",
+    "team": "Vegas Golden Knights",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "CAN",
+    "category": "HOCKEY"
+  },
+  {
     "name": "Shane Wright",
     "team": "Seattle Kraken",
     "leagueId": "hockey-nhl",
@@ -54784,6 +54912,14 @@
     "category": "HOCKEY"
   },
   {
+    "name": "Urho Vaakanainen",
+    "team": "New York Rangers",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "FIN",
+    "category": "HOCKEY"
+  },
+  {
     "name": "Uvis Balinskis",
     "team": "Florida Panthers",
     "leagueId": "hockey-nhl",
@@ -55232,6 +55368,14 @@
     "category": "HOCKEY"
   },
   {
+    "name": "Will McLaughlin",
+    "team": "Vegas Golden Knights",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "CAN",
+    "category": "HOCKEY"
+  },
+  {
     "name": "Will Reynolds",
     "team": "Seattle Kraken",
     "leagueId": "hockey-nhl",
@@ -55496,6 +55640,14 @@
     "category": "HOCKEY"
   },
   {
+    "name": "Yaroslav Bryzgalov",
+    "team": "Vancouver Canucks",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "BLR",
+    "category": "HOCKEY"
+  },
+  {
     "name": "Yegor Borikov",
     "team": "Utah Mammoth",
     "leagueId": "hockey-nhl",
@@ -55525,6 +55677,14 @@
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "BLR",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Yegor Rybkin",
+    "team": "Los Angeles Kings",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "RUS",
     "category": "HOCKEY"
   },
   {
