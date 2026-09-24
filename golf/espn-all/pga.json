@@ -1,8 +1,8 @@
 {
   "sportKey": "golf-pga",
   "leagueName": "PGA TOUR",
-  "windowFrom": "20260909",
-  "windowTo": "20270620",
+  "windowFrom": "20260910",
+  "windowTo": "20270621",
   "events": [
     {
       "id": "golf-pga-2026-09-17-biltmore-championship-asheville",
@@ -95,15 +95,15 @@
       "utc": "2027-02-11T05:00:00Z"
     },
     {
-      "id": "golf-pga-2027-02-18-tbd-additional-event",
-      "weekend": "2027-02-18",
-      "name": "TBD (Additional Event)",
-      "utc": "2027-02-18T05:00:00Z"
-    },
-    {
       "id": "golf-pga-2027-02-18-the-genesis-invitational",
       "weekend": "2027-02-18",
       "name": "The Genesis Invitational",
+      "utc": "2027-02-18T05:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-02-18-tbd-additional-event",
+      "weekend": "2027-02-18",
+      "name": "TBD (Additional Event)",
       "utc": "2027-02-18T05:00:00Z"
     },
     {
