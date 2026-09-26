@@ -124,6 +124,21 @@ jobs:
       - name: Run GB4 Championship Scraper
         run: python scripts/gb4.py || true
 
+      - name: Run FRECA Scraper
+        run: python scripts/freca.py || true
+
+      - name: Run Italian F4 Scraper
+        run: python scripts/italian_f4.py || true
+
+      - name: Run TCR Europe Scraper
+        run: python scripts/tcr_europe.py || true
+
+      - name: Run IMSA Scraper
+        run: python scripts/imsa.py || true
+
+      - name: Run Super Formula Scraper
+        run: python scripts/super_formula.py || true
+
       - name: Run MotoGP Scraper
         run: python scripts/motogp.py || true
 

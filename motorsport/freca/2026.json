@@ -1,0 +1,198 @@
+{
+  "sportKey": "freca",
+  "season": "2026",
+  "events": [
+    {
+      "id": "freca-2026-red-bull-ring-quali-1",
+      "weekend": "Red Bull Ring",
+      "name": "Qualifying 1",
+      "utc": "2026-04-25T07:30:00Z"
+    },
+    {
+      "id": "freca-2026-red-bull-ring-race-1",
+      "weekend": "Red Bull Ring",
+      "name": "Race 1",
+      "utc": "2026-04-25T11:45:00Z"
+    },
+    {
+      "id": "freca-2026-red-bull-ring-quali-2",
+      "weekend": "Red Bull Ring",
+      "name": "Qualifying 2",
+      "utc": "2026-04-26T07:15:00Z"
+    },
+    {
+      "id": "freca-2026-red-bull-ring-race-2",
+      "weekend": "Red Bull Ring",
+      "name": "Race 2",
+      "utc": "2026-04-26T12:05:00Z"
+    },
+    {
+      "id": "freca-2026-zandvoort-quali-1",
+      "weekend": "Circuit Zandvoort",
+      "name": "Qualifying 1",
+      "utc": "2026-05-23T07:30:00Z"
+    },
+    {
+      "id": "freca-2026-zandvoort-race-1",
+      "weekend": "Circuit Zandvoort",
+      "name": "Race 1",
+      "utc": "2026-05-23T11:45:00Z"
+    },
+    {
+      "id": "freca-2026-zandvoort-quali-2",
+      "weekend": "Circuit Zandvoort",
+      "name": "Qualifying 2",
+      "utc": "2026-05-24T07:15:00Z"
+    },
+    {
+      "id": "freca-2026-zandvoort-race-2",
+      "weekend": "Circuit Zandvoort",
+      "name": "Race 2",
+      "utc": "2026-05-24T12:05:00Z"
+    },
+    {
+      "id": "freca-2026-spa-quali-1",
+      "weekend": "Spa-Francorchamps",
+      "name": "Qualifying 1",
+      "utc": "2026-05-30T08:00:00Z"
+    },
+    {
+      "id": "freca-2026-spa-race-1",
+      "weekend": "Spa-Francorchamps",
+      "name": "Race 1",
+      "utc": "2026-05-30T12:20:00Z"
+    },
+    {
+      "id": "freca-2026-spa-quali-2",
+      "weekend": "Spa-Francorchamps",
+      "name": "Qualifying 2",
+      "utc": "2026-05-31T07:30:00Z"
+    },
+    {
+      "id": "freca-2026-spa-race-2",
+      "weekend": "Spa-Francorchamps",
+      "name": "Race 2",
+      "utc": "2026-05-31T13:10:00Z"
+    },
+    {
+      "id": "freca-2026-monza-quali-1",
+      "weekend": "Autodromo Nazionale Monza",
+      "name": "Qualifying 1",
+      "utc": "2026-06-20T07:30:00Z"
+    },
+    {
+      "id": "freca-2026-monza-race-1",
+      "weekend": "Autodromo Nazionale Monza",
+      "name": "Race 1",
+      "utc": "2026-06-20T12:00:00Z"
+    },
+    {
+      "id": "freca-2026-monza-quali-2",
+      "weekend": "Autodromo Nazionale Monza",
+      "name": "Qualifying 2",
+      "utc": "2026-06-21T07:30:00Z"
+    },
+    {
+      "id": "freca-2026-monza-race-2",
+      "weekend": "Autodromo Nazionale Monza",
+      "name": "Race 2",
+      "utc": "2026-06-21T12:15:00Z"
+    },
+    {
+      "id": "freca-2026-hungaroring-quali-1",
+      "weekend": "Hungaroring",
+      "name": "Qualifying 1",
+      "utc": "2026-07-04T07:30:00Z"
+    },
+    {
+      "id": "freca-2026-hungaroring-race-1",
+      "weekend": "Hungaroring",
+      "name": "Race 1",
+      "utc": "2026-07-04T11:45:00Z"
+    },
+    {
+      "id": "freca-2026-hungaroring-quali-2",
+      "weekend": "Hungaroring",
+      "name": "Qualifying 2",
+      "utc": "2026-07-05T07:15:00Z"
+    },
+    {
+      "id": "freca-2026-hungaroring-race-2",
+      "weekend": "Hungaroring",
+      "name": "Race 2",
+      "utc": "2026-07-05T12:05:00Z"
+    },
+    {
+      "id": "freca-2026-paul-ricard-quali-1",
+      "weekend": "Circuit Paul Ricard",
+      "name": "Qualifying 1",
+      "utc": "2026-07-18T07:30:00Z"
+    },
+    {
+      "id": "freca-2026-paul-ricard-race-1",
+      "weekend": "Circuit Paul Ricard",
+      "name": "Race 1",
+      "utc": "2026-07-18T12:00:00Z"
+    },
+    {
+      "id": "freca-2026-paul-ricard-quali-2",
+      "weekend": "Circuit Paul Ricard",
+      "name": "Qualifying 2",
+      "utc": "2026-07-19T07:15:00Z"
+    },
+    {
+      "id": "freca-2026-paul-ricard-race-2",
+      "weekend": "Circuit Paul Ricard",
+      "name": "Race 2",
+      "utc": "2026-07-19T12:10:00Z"
+    },
+    {
+      "id": "freca-2026-imola-quali-1",
+      "weekend": "Autodromo Enzo e Dino Ferrari Imola",
+      "name": "Qualifying 1",
+      "utc": "2026-09-05T07:30:00Z"
+    },
+    {
+      "id": "freca-2026-imola-race-1",
+      "weekend": "Autodromo Enzo e Dino Ferrari Imola",
+      "name": "Race 1",
+      "utc": "2026-09-05T12:00:00Z"
+    },
+    {
+      "id": "freca-2026-imola-quali-2",
+      "weekend": "Autodromo Enzo e Dino Ferrari Imola",
+      "name": "Qualifying 2",
+      "utc": "2026-09-06T07:15:00Z"
+    },
+    {
+      "id": "freca-2026-imola-race-2",
+      "weekend": "Autodromo Enzo e Dino Ferrari Imola",
+      "name": "Race 2",
+      "utc": "2026-09-06T12:15:00Z"
+    },
+    {
+      "id": "freca-2026-hockenheimring-quali-1",
+      "weekend": "Hockenheimring",
+      "name": "Qualifying 1",
+      "utc": "2026-09-12T07:30:00Z"
+    },
+    {
+      "id": "freca-2026-hockenheimring-race-1",
+      "weekend": "Hockenheimring",
+      "name": "Race 1",
+      "utc": "2026-09-12T11:55:00Z"
+    },
+    {
+      "id": "freca-2026-hockenheimring-quali-2",
+      "weekend": "Hockenheimring",
+      "name": "Qualifying 2",
+      "utc": "2026-09-13T07:15:00Z"
+    },
+    {
+      "id": "freca-2026-hockenheimring-race-2",
+      "weekend": "Hockenheimring",
+      "name": "Race 2",
+      "utc": "2026-09-13T12:05:00Z"
+    }
+  ]
+}

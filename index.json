@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-09-26T21:23:46Z",
-  "count": 82,
+  "count": 87,
   "leagues": [
     {
       "name": "NCAA - Football",
@@ -631,6 +631,14 @@
       "url": "https://elpiku.github.io/sportocal-data/motorsport/f3/2026.json"
     },
     {
+      "name": "Formula Regional European Championship",
+      "sportKey": "freca",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 32,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/freca/2026.json"
+    },
+    {
       "name": "GB3 Championship",
       "sportKey": "gb3",
       "category": "motorsport",
@@ -655,12 +663,28 @@
       "url": "https://elpiku.github.io/sportocal-data/motorsport/gt-world-challenge-europe/2026.json"
     },
     {
+      "name": "IMSA WeatherTech SportsCar Championship",
+      "sportKey": "imsa",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 22,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/imsa/2026.json"
+    },
+    {
       "name": "IndyCar NTT",
       "sportKey": "ntt-indycar",
       "category": "motorsport",
       "season": "2026",
       "eventCount": 92,
       "url": "https://elpiku.github.io/sportocal-data/motorsport/indycar/ntt/2026.json"
+    },
+    {
+      "name": "Italian F4 Championship",
+      "sportKey": "italian-f4",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 35,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/italian-f4/2026.json"
     },
     {
       "name": "Moto2",
@@ -709,6 +733,22 @@
       "season": "2026",
       "eventCount": 94,
       "url": "https://elpiku.github.io/sportocal-data/motorsport/nascar/oreilly/2026.json"
+    },
+    {
+      "name": "Super Formula",
+      "sportKey": "super-formula",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 24,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/super-formula/2026.json"
+    },
+    {
+      "name": "TCR Europe",
+      "sportKey": "tcr-europe",
+      "category": "motorsport",
+      "season": "2026",
+      "eventCount": 18,
+      "url": "https://elpiku.github.io/sportocal-data/motorsport/tcr-europe/2026.json"
     },
     {
       "name": "WRC",
