@@ -1,15 +1,9 @@
 {
   "sportKey": "tennis-atp",
   "leagueName": "ATP",
-  "windowFrom": "20260917",
-  "windowTo": "20270628",
+  "windowFrom": "20260918",
+  "windowTo": "20270629",
   "events": [
-    {
-      "id": "tennis-atp-2026-09-22-chengdu-open",
-      "weekend": "2026-09-22",
-      "name": "Chengdu Open",
-      "utc": "2026-09-22T04:00:00Z"
-    },
     {
       "id": "tennis-atp-2026-09-22-aito-hangzhou-open",
       "weekend": "2026-09-22",
@@ -17,15 +11,21 @@
       "utc": "2026-09-22T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-09-27-kinoshita-group-japan-open-tennis-championships",
-      "weekend": "2026-09-27",
-      "name": "Kinoshita Group Japan Open Tennis Championships",
-      "utc": "2026-09-27T04:00:00Z"
+      "id": "tennis-atp-2026-09-22-chengdu-open",
+      "weekend": "2026-09-22",
+      "name": "Chengdu Open",
+      "utc": "2026-09-22T04:00:00Z"
     },
     {
       "id": "tennis-atp-2026-09-27-china-open",
       "weekend": "2026-09-27",
       "name": "China Open",
+      "utc": "2026-09-27T04:00:00Z"
+    },
+    {
+      "id": "tennis-atp-2026-09-27-kinoshita-group-japan-open-tennis-championships",
+      "weekend": "2026-09-27",
+      "name": "Kinoshita Group Japan Open Tennis Championships",
       "utc": "2026-09-27T04:00:00Z"
     },
     {
@@ -35,9 +35,9 @@
       "utc": "2026-10-07T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-10-19-almaty-open",
+      "id": "tennis-atp-2026-10-19-bnp-paribas-fortis-european-open",
       "weekend": "2026-10-19",
-      "name": "Almaty Open",
+      "name": "BNP Paribas Fortis European Open",
       "utc": "2026-10-19T04:00:00Z"
     },
     {
@@ -47,21 +47,21 @@
       "utc": "2026-10-19T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-10-19-bnp-paribas-fortis-european-open",
+      "id": "tennis-atp-2026-10-19-almaty-open",
       "weekend": "2026-10-19",
-      "name": "BNP Paribas Fortis European Open",
+      "name": "Almaty Open",
       "utc": "2026-10-19T04:00:00Z"
-    },
-    {
-      "id": "tennis-atp-2026-10-26-erste-bank-open",
-      "weekend": "2026-10-26",
-      "name": "Erste Bank Open",
-      "utc": "2026-10-26T04:00:00Z"
     },
     {
       "id": "tennis-atp-2026-10-26-swiss-indoors-basel",
       "weekend": "2026-10-26",
       "name": "Swiss Indoors Basel",
+      "utc": "2026-10-26T04:00:00Z"
+    },
+    {
+      "id": "tennis-atp-2026-10-26-erste-bank-open",
+      "weekend": "2026-10-26",
+      "name": "Erste Bank Open",
       "utc": "2026-10-26T04:00:00Z"
     },
     {

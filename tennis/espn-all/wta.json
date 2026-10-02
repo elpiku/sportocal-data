@@ -1,8 +1,8 @@
 {
   "sportKey": "tennis-wta",
   "leagueName": "WTA",
-  "windowFrom": "20260917",
-  "windowTo": "20270628",
+  "windowFrom": "20260918",
+  "windowTo": "20270629",
   "events": [
     {
       "id": "tennis-wta-2026-09-12-guadalajara-open-presentado-por-santander",
@@ -35,16 +35,22 @@
       "utc": "2026-09-14T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-09-18-singapore-tennis-open-presented-by-bnp-paribas",
+      "weekend": "2026-09-18",
+      "name": "Singapore Tennis Open presented by BNP Paribas",
+      "utc": "2026-09-18T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-09-18-korea-open",
       "weekend": "2026-09-18",
       "name": "Korea Open",
       "utc": "2026-09-18T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-18-singapore-tennis-open-presented-by-bnp-paribas",
-      "weekend": "2026-09-18",
-      "name": "Singapore Tennis Open presented by BNP Paribas",
-      "utc": "2026-09-18T04:00:00Z"
+      "id": "tennis-wta-2026-09-20-turk-telekom-ankara-open",
+      "weekend": "2026-09-20",
+      "name": "Turk Telekom Ankara Open",
+      "utc": "2026-09-20T04:00:00Z"
     },
     {
       "id": "tennis-wta-2026-09-20-delta-motors-tolentino-open",
@@ -56,12 +62,6 @@
       "id": "tennis-wta-2026-09-20-eupago-porto-open",
       "weekend": "2026-09-20",
       "name": "Eupago Porto Open",
-      "utc": "2026-09-20T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-09-20-turk-telekom-ankara-open",
-      "weekend": "2026-09-20",
-      "name": "Turk Telekom Ankara Open",
       "utc": "2026-09-20T04:00:00Z"
     },
     {
@@ -95,15 +95,21 @@
       "utc": "2026-10-05T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-10-12-lisboa-belem-open",
+      "weekend": "2026-10-12",
+      "name": "Lisboa Belem Open",
+      "utc": "2026-10-12T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-10-12-vanda-pharmaceuticals-mallorca-women-s-championships-presented-by-ecotrans-group",
       "weekend": "2026-10-12",
       "name": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
       "utc": "2026-10-12T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-12-lisboa-belem-open",
+      "id": "tennis-wta-2026-10-12-roveretopen-citt-della-pace",
       "weekend": "2026-10-12",
-      "name": "Lisboa Belem Open",
+      "name": "RoveretOpen Citt\u00e0 della Pace",
       "utc": "2026-10-12T04:00:00Z"
     },
     {
@@ -113,10 +119,10 @@
       "utc": "2026-10-12T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-12-roveretopen-citt-della-pace",
-      "weekend": "2026-10-12",
-      "name": "RoveretOpen Citt\u00e0 della Pace",
-      "utc": "2026-10-12T04:00:00Z"
+      "id": "tennis-wta-2026-10-19-kinoshita-group-japan-open",
+      "weekend": "2026-10-19",
+      "name": "Kinoshita Group Japan Open",
+      "utc": "2026-10-19T04:00:00Z"
     },
     {
       "id": "tennis-wta-2026-10-19-ningbo-open",
@@ -131,27 +137,9 @@
       "utc": "2026-10-19T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-19-kinoshita-group-japan-open",
-      "weekend": "2026-10-19",
-      "name": "Kinoshita Group Japan Open",
-      "utc": "2026-10-19T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-26-toray-pan-pacific-open-tennis",
-      "weekend": "2026-10-26",
-      "name": "Toray Pan Pacific Open Tennis",
-      "utc": "2026-10-26T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-26-guangzhou-open",
       "weekend": "2026-10-26",
       "name": "Guangzhou Open",
-      "utc": "2026-10-26T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-26-queretaro-open",
-      "weekend": "2026-10-26",
-      "name": "Queretaro Open",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
@@ -161,9 +149,21 @@
       "utc": "2026-10-26T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-10-26-queretaro-open",
+      "weekend": "2026-10-26",
+      "name": "Queretaro Open",
+      "utc": "2026-10-26T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-10-26-valle-d-aosta-ladies-open",
       "weekend": "2026-10-26",
       "name": "Valle D'Aosta Ladies Open",
+      "utc": "2026-10-26T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-26-toray-pan-pacific-open-tennis",
+      "weekend": "2026-10-26",
+      "name": "Toray Pan Pacific Open Tennis",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
@@ -173,21 +173,15 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-prudential-hong-kong-tennis-open",
-      "weekend": "2026-10-31",
-      "name": "Prudential Hong Kong Tennis Open",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-31-cali-open",
-      "weekend": "2026-10-31",
-      "name": "Cali Open",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-31-angola-ladies-open",
       "weekend": "2026-10-31",
       "name": "Angola Ladies Open",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-31-prudential-hong-kong-tennis-open",
+      "weekend": "2026-10-31",
+      "name": "Prudential Hong Kong Tennis Open",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -197,15 +191,21 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-11-07-cundinamarca-open",
-      "weekend": "2026-11-07",
-      "name": "Cundinamarca Open",
-      "utc": "2026-11-07T05:00:00Z"
+      "id": "tennis-wta-2026-10-31-cali-open",
+      "weekend": "2026-10-31",
+      "name": "Cali Open",
+      "utc": "2026-10-31T04:00:00Z"
     },
     {
       "id": "tennis-wta-2026-11-07-wta-finals",
       "weekend": "2026-11-07",
       "name": "WTA Finals",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-11-07-cundinamarca-open",
+      "weekend": "2026-11-07",
+      "name": "Cundinamarca Open",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
