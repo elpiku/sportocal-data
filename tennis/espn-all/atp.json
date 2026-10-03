@@ -1,8 +1,8 @@
 {
   "sportKey": "tennis-atp",
   "leagueName": "ATP",
-  "windowFrom": "20260918",
-  "windowTo": "20270629",
+  "windowFrom": "20260919",
+  "windowTo": "20270630",
   "events": [
     {
       "id": "tennis-atp-2026-09-22-aito-hangzhou-open",
@@ -17,15 +17,15 @@
       "utc": "2026-09-22T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-09-27-kinoshita-group-japan-open-tennis-championships",
-      "weekend": "2026-09-27",
-      "name": "Kinoshita Group Japan Open Tennis Championships",
-      "utc": "2026-09-27T04:00:00Z"
-    },
-    {
       "id": "tennis-atp-2026-09-27-china-open",
       "weekend": "2026-09-27",
       "name": "China Open",
+      "utc": "2026-09-27T04:00:00Z"
+    },
+    {
+      "id": "tennis-atp-2026-09-27-kinoshita-group-japan-open-tennis-championships",
+      "weekend": "2026-09-27",
+      "name": "Kinoshita Group Japan Open Tennis Championships",
       "utc": "2026-09-27T04:00:00Z"
     },
     {
@@ -53,15 +53,15 @@
       "utc": "2026-10-19T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-10-26-erste-bank-open",
-      "weekend": "2026-10-26",
-      "name": "Erste Bank Open",
-      "utc": "2026-10-26T04:00:00Z"
-    },
-    {
       "id": "tennis-atp-2026-10-26-swiss-indoors-basel",
       "weekend": "2026-10-26",
       "name": "Swiss Indoors Basel",
+      "utc": "2026-10-26T04:00:00Z"
+    },
+    {
+      "id": "tennis-atp-2026-10-26-erste-bank-open",
+      "weekend": "2026-10-26",
+      "name": "Erste Bank Open",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
