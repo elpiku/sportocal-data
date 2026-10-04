@@ -1,27 +1,9 @@
 {
   "sportKey": "basketball-wnba",
   "leagueName": "Women's National Basketball Association",
-  "windowFrom": "20260919",
-  "windowTo": "20270630",
+  "windowFrom": "20260920",
+  "windowTo": "20270701",
   "events": [
-    {
-      "id": "wnba-2026-09-19-dallas-wings-phoenix-mercury",
-      "weekend": "2026-09-19",
-      "name": "Dallas Wings v Phoenix Mercury",
-      "utc": "2026-09-19T17:00:00Z"
-    },
-    {
-      "id": "wnba-2026-09-19-atlanta-dream-chicago-sky",
-      "weekend": "2026-09-19",
-      "name": "Atlanta Dream v Chicago Sky",
-      "utc": "2026-09-19T23:00:00Z"
-    },
-    {
-      "id": "wnba-2026-09-20-golden-state-valkyries-seattle-storm",
-      "weekend": "2026-09-20",
-      "name": "Golden State Valkyries v Seattle Storm",
-      "utc": "2026-09-20T01:00:00Z"
-    },
     {
       "id": "wnba-2026-09-20-connecticut-sun-minnesota-lynx",
       "weekend": "2026-09-20",
@@ -125,15 +107,15 @@
       "utc": "2026-09-25T00:00:00Z"
     },
     {
-      "id": "wnba-2026-09-25-phoenix-mercury-las-vegas-aces",
-      "weekend": "2026-09-25",
-      "name": "Phoenix Mercury v Las Vegas Aces",
-      "utc": "2026-09-25T02:00:00Z"
-    },
-    {
       "id": "wnba-2026-09-25-los-angeles-sparks-golden-state-valkyries",
       "weekend": "2026-09-25",
       "name": "Los Angeles Sparks v Golden State Valkyries",
+      "utc": "2026-09-25T02:00:00Z"
+    },
+    {
+      "id": "wnba-2026-09-25-phoenix-mercury-las-vegas-aces",
+      "weekend": "2026-09-25",
+      "name": "Phoenix Mercury v Las Vegas Aces",
       "utc": "2026-09-25T02:00:00Z"
     },
     {
@@ -233,15 +215,15 @@
       "utc": "2026-10-10T01:30:00Z"
     },
     {
-      "id": "wnba-2026-10-11-las-vegas-aces-golden-state-valkyries",
-      "weekend": "2026-10-11",
-      "name": "Las Vegas Aces v Golden State Valkyries",
-      "utc": "2026-10-11T04:00:00Z"
-    },
-    {
       "id": "wnba-2026-10-11-new-york-liberty-atlanta-dream",
       "weekend": "2026-10-11",
       "name": "New York Liberty v Atlanta Dream",
+      "utc": "2026-10-11T04:00:00Z"
+    },
+    {
+      "id": "wnba-2026-10-11-las-vegas-aces-golden-state-valkyries",
+      "weekend": "2026-10-11",
+      "name": "Las Vegas Aces v Golden State Valkyries",
       "utc": "2026-10-11T04:00:00Z"
     },
     {

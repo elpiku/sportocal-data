@@ -1,15 +1,9 @@
 {
   "sportKey": "mma-ufc",
   "leagueName": "Ultimate Fighting Championship",
-  "windowFrom": "20260919",
-  "windowTo": "20270630",
+  "windowFrom": "20260920",
+  "windowTo": "20270701",
   "events": [
-    {
-      "id": "mma-ufc-2026-09-19-ufc-331-van-pantoja-2",
-      "weekend": "2026-09-19",
-      "name": "UFC 331: Van v Pantoja 2",
-      "utc": "2026-09-19T21:00:00Z"
-    },
     {
       "id": "mma-ufc-2026-09-22-dana-white-s-contender-series-season-10-week-7",
       "weekend": "2026-09-22",
@@ -89,9 +83,9 @@
       "utc": "2026-11-21T14:00:00Z"
     },
     {
-      "id": "mma-ufc-2026-12-12-ufc-335",
+      "id": "mma-ufc-2026-12-12-ufc-335-oliveira-lopes",
       "weekend": "2026-12-12",
-      "name": "UFC 335",
+      "name": "UFC 335: Oliveira v Lopes",
       "utc": "2026-12-12T22:00:00Z"
     }
   ]

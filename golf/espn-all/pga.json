@@ -1,8 +1,8 @@
 {
   "sportKey": "golf-pga",
   "leagueName": "PGA Tour",
-  "windowFrom": "20260919",
-  "windowTo": "20270630",
+  "windowFrom": "20260920",
+  "windowTo": "20270701",
   "events": [
     {
       "id": "golf-pga-2026-09-17-biltmore-championship-asheville",
@@ -219,6 +219,12 @@
       "weekend": "2027-06-24",
       "name": "Travelers Championship",
       "utc": "2027-06-24T04:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-07-01-john-deere-classic",
+      "weekend": "2027-07-01",
+      "name": "John Deere Classic",
+      "utc": "2027-07-01T04:00:00Z"
     }
   ]
 }
