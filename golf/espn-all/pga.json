@@ -1,15 +1,9 @@
 {
   "sportKey": "golf-pga",
   "leagueName": "PGA Tour",
-  "windowFrom": "20260921",
-  "windowTo": "20270702",
+  "windowFrom": "20260922",
+  "windowTo": "20270703",
   "events": [
-    {
-      "id": "golf-pga-2026-09-17-biltmore-championship-asheville",
-      "weekend": "2026-09-17",
-      "name": "Biltmore Championship Asheville",
-      "utc": "2026-09-17T04:00:00Z"
-    },
     {
       "id": "golf-pga-2026-09-24-presidents-cup",
       "weekend": "2026-09-24",
@@ -173,15 +167,15 @@
       "utc": "2027-05-06T04:00:00Z"
     },
     {
-      "id": "golf-pga-2027-05-13-truist-championship",
-      "weekend": "2027-05-13",
-      "name": "Truist Championship",
-      "utc": "2027-05-13T04:00:00Z"
-    },
-    {
       "id": "golf-pga-2027-05-13-oneflight-myrtle-beach-classic",
       "weekend": "2027-05-13",
       "name": "ONEflight Myrtle Beach Classic",
+      "utc": "2027-05-13T04:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-05-13-truist-championship",
+      "weekend": "2027-05-13",
+      "name": "Truist Championship",
       "utc": "2027-05-13T04:00:00Z"
     },
     {

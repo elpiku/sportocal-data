@@ -1,15 +1,9 @@
 {
   "sportKey": "tennis-wta",
   "leagueName": "WTA",
-  "windowFrom": "20260921",
-  "windowTo": "20270702",
+  "windowFrom": "20260922",
+  "windowTo": "20270703",
   "events": [
-    {
-      "id": "tennis-wta-2026-09-12-sp-open",
-      "weekend": "2026-09-12",
-      "name": "SP Open",
-      "utc": "2026-09-12T04:00:00Z"
-    },
     {
       "id": "tennis-wta-2026-09-18-singapore-tennis-open-presented-by-bnp-paribas",
       "weekend": "2026-09-18",
@@ -29,15 +23,15 @@
       "utc": "2026-09-20T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-09-20-delta-motors-tolentino-open",
-      "weekend": "2026-09-20",
-      "name": "Delta Motors Tolentino Open",
-      "utc": "2026-09-20T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-09-20-eupago-porto-open",
       "weekend": "2026-09-20",
       "name": "Eupago Porto Open",
+      "utc": "2026-09-20T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-09-20-delta-motors-tolentino-open",
+      "weekend": "2026-09-20",
+      "name": "Delta Motors Tolentino Open",
       "utc": "2026-09-20T04:00:00Z"
     },
     {
@@ -71,12 +65,6 @@
       "utc": "2026-10-04T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-12-wuhan-open",
-      "weekend": "2026-10-12",
-      "name": "Wuhan Open",
-      "utc": "2026-10-12T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-12-vanda-pharmaceuticals-mallorca-women-s-championships-presented-by-ecotrans-group",
       "weekend": "2026-10-12",
       "name": "Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group",
@@ -89,16 +77,16 @@
       "utc": "2026-10-12T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-10-12-wuhan-open",
+      "weekend": "2026-10-12",
+      "name": "Wuhan Open",
+      "utc": "2026-10-12T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-10-12-lisboa-belem-open",
       "weekend": "2026-10-12",
       "name": "Lisboa Belem Open",
       "utc": "2026-10-12T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-19-ningbo-open",
-      "weekend": "2026-10-19",
-      "name": "Ningbo Open",
-      "utc": "2026-10-19T04:00:00Z"
     },
     {
       "id": "tennis-wta-2026-10-19-kinoshita-group-japan-open",
@@ -113,21 +101,15 @@
       "utc": "2026-10-19T04:00:00Z"
     },
     {
+      "id": "tennis-wta-2026-10-19-ningbo-open",
+      "weekend": "2026-10-19",
+      "name": "Ningbo Open",
+      "utc": "2026-10-19T04:00:00Z"
+    },
+    {
       "id": "tennis-wta-2026-10-26-guangzhou-open",
       "weekend": "2026-10-26",
       "name": "Guangzhou Open",
-      "utc": "2026-10-26T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-26-toray-pan-pacific-open-tennis",
-      "weekend": "2026-10-26",
-      "name": "Toray Pan Pacific Open Tennis",
-      "utc": "2026-10-26T04:00:00Z"
-    },
-    {
-      "id": "tennis-wta-2026-10-26-queretaro-open",
-      "weekend": "2026-10-26",
-      "name": "Queretaro Open",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
@@ -140,6 +122,18 @@
       "id": "tennis-wta-2026-10-26-valle-d-aosta-ladies-open",
       "weekend": "2026-10-26",
       "name": "Valle D'Aosta Ladies Open",
+      "utc": "2026-10-26T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-26-queretaro-open",
+      "weekend": "2026-10-26",
+      "name": "Queretaro Open",
+      "utc": "2026-10-26T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-26-toray-pan-pacific-open-tennis",
+      "weekend": "2026-10-26",
+      "name": "Toray Pan Pacific Open Tennis",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
@@ -173,15 +167,15 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-11-07-wta-finals",
-      "weekend": "2026-11-07",
-      "name": "WTA Finals",
-      "utc": "2026-11-07T05:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-11-07-cundinamarca-open",
       "weekend": "2026-11-07",
       "name": "Cundinamarca Open",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-11-07-wta-finals",
+      "weekend": "2026-11-07",
+      "name": "WTA Finals",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
