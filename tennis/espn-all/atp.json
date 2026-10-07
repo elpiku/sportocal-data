@@ -1,8 +1,8 @@
 {
   "sportKey": "tennis-atp",
   "leagueName": "ATP",
-  "windowFrom": "20260922",
-  "windowTo": "20270703",
+  "windowFrom": "20260923",
+  "windowTo": "20270704",
   "events": [
     {
       "id": "tennis-atp-2026-09-22-aito-hangzhou-open",
@@ -17,15 +17,15 @@
       "utc": "2026-09-22T04:00:00Z"
     },
     {
-      "id": "tennis-atp-2026-09-27-kinoshita-group-japan-open-tennis-championships",
-      "weekend": "2026-09-27",
-      "name": "Kinoshita Group Japan Open Tennis Championships",
-      "utc": "2026-09-27T04:00:00Z"
-    },
-    {
       "id": "tennis-atp-2026-09-27-china-open",
       "weekend": "2026-09-27",
       "name": "China Open",
+      "utc": "2026-09-27T04:00:00Z"
+    },
+    {
+      "id": "tennis-atp-2026-09-27-kinoshita-group-japan-open-tennis-championships",
+      "weekend": "2026-09-27",
+      "name": "Kinoshita Group Japan Open Tennis Championships",
       "utc": "2026-09-27T04:00:00Z"
     },
     {
