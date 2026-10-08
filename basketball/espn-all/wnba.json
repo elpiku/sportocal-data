@@ -1,21 +1,9 @@
 {
   "sportKey": "basketball-wnba",
   "leagueName": "Women's National Basketball Association",
-  "windowFrom": "20260923",
-  "windowTo": "20270704",
+  "windowFrom": "20260924",
+  "windowTo": "20270705",
   "events": [
-    {
-      "id": "wnba-2026-09-24-new-york-liberty-atlanta-dream",
-      "weekend": "2026-09-24",
-      "name": "New York Liberty v Atlanta Dream",
-      "utc": "2026-09-24T00:00:00Z"
-    },
-    {
-      "id": "wnba-2026-09-24-seattle-storm-dallas-wings",
-      "weekend": "2026-09-24",
-      "name": "Seattle Storm v Dallas Wings",
-      "utc": "2026-09-24T02:00:00Z"
-    },
     {
       "id": "wnba-2026-09-24-connecticut-sun-toronto-tempo",
       "weekend": "2026-09-24",
@@ -35,15 +23,15 @@
       "utc": "2026-09-25T00:00:00Z"
     },
     {
-      "id": "wnba-2026-09-25-los-angeles-sparks-golden-state-valkyries",
-      "weekend": "2026-09-25",
-      "name": "Los Angeles Sparks v Golden State Valkyries",
-      "utc": "2026-09-25T02:00:00Z"
-    },
-    {
       "id": "wnba-2026-09-25-phoenix-mercury-las-vegas-aces",
       "weekend": "2026-09-25",
       "name": "Phoenix Mercury v Las Vegas Aces",
+      "utc": "2026-09-25T02:00:00Z"
+    },
+    {
+      "id": "wnba-2026-09-25-los-angeles-sparks-golden-state-valkyries",
+      "weekend": "2026-09-25",
+      "name": "Los Angeles Sparks v Golden State Valkyries",
       "utc": "2026-09-25T02:00:00Z"
     },
     {
