@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:50:23Z",
+  "generatedAt": "2026-10-10T04:49:29Z",
   "count": 87,
   "leagues": [
     {
@@ -7,9 +7,9 @@
       "sportKey": "american-football-college-football",
       "category": "american-football",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
-      "eventCount": 688,
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
+      "eventCount": 683,
       "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/college-football.json"
     },
     {
@@ -17,8 +17,8 @@
       "sportKey": "american-football-nfl",
       "category": "american-football",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
       "eventCount": 252,
       "url": "https://elpiku.github.io/sportocal-data/american-football/espn-all/nfl.json"
     },
@@ -37,9 +37,9 @@
       "sportKey": "baseball-mlb",
       "category": "baseball",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
-      "eventCount": 1932,
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
+      "eventCount": 1930,
       "url": "https://elpiku.github.io/sportocal-data/baseball/espn-all/mlb.json"
     },
     {
@@ -75,9 +75,9 @@
       "sportKey": "basketball-nbl",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
-      "eventCount": 156,
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
+      "eventCount": 155,
       "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/nbl.json"
     },
     {
@@ -85,9 +85,9 @@
       "sportKey": "basketball-wnba",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
-      "eventCount": 27,
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
+      "eventCount": 23,
       "url": "https://elpiku.github.io/sportocal-data/basketball/espn-all/wnba.json"
     },
     {
@@ -543,8 +543,8 @@
       "sportKey": "golf-lpga",
       "category": "golf",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
       "eventCount": 25,
       "url": "https://elpiku.github.io/sportocal-data/golf/espn-all/lpga.json"
     },
@@ -553,8 +553,8 @@
       "sportKey": "golf-pga",
       "category": "golf",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
       "eventCount": 36,
       "url": "https://elpiku.github.io/sportocal-data/golf/espn-all/pga.json"
     },
@@ -571,9 +571,9 @@
       "sportKey": "hockey-nhl",
       "category": "hockey",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
-      "eventCount": 1362,
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
+      "eventCount": 1358,
       "url": "https://elpiku.github.io/sportocal-data/hockey/espn-all/nhl.json"
     },
     {
@@ -591,8 +591,8 @@
       "sportKey": "mma-pfl",
       "category": "mma",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
       "eventCount": 3,
       "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/pfl.json"
     },
@@ -601,8 +601,8 @@
       "sportKey": "mma-ufc",
       "category": "mma",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
       "eventCount": 13,
       "url": "https://elpiku.github.io/sportocal-data/mma/espn-all/ufc.json"
     },
@@ -771,8 +771,8 @@
       "sportKey": "tennis-atp",
       "category": "tennis",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
       "eventCount": 14,
       "url": "https://elpiku.github.io/sportocal-data/tennis/espn-all/atp.json"
     },
@@ -789,8 +789,8 @@
       "sportKey": "tennis-wta",
       "category": "tennis",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
       "eventCount": 35,
       "url": "https://elpiku.github.io/sportocal-data/tennis/espn-all/wta.json"
     },
@@ -807,9 +807,9 @@
       "sportKey": "volleyball-womens-college-volleyball",
       "category": "volleyball",
       "season": null,
-      "windowFrom": "20260925",
-      "windowTo": "20270706",
-      "eventCount": 2805,
+      "windowFrom": "20260926",
+      "windowTo": "20270707",
+      "eventCount": 2696,
       "url": "https://elpiku.github.io/sportocal-data/volleyball/espn-all/womens-college-volleyball.json"
     }
   ]
