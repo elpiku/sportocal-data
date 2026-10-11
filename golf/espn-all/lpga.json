@@ -1,8 +1,8 @@
 {
   "sportKey": "golf-lpga",
   "leagueName": "Ladies Pro Golf Association",
-  "windowFrom": "20260926",
-  "windowTo": "20270707",
+  "windowFrom": "20260927",
+  "windowTo": "20270708",
   "events": [
     {
       "id": "golf-lpga-2026-09-25-walmart-nw-arkansas-championship-pres-by-p-g",
@@ -153,6 +153,12 @@
       "weekend": "2027-06-24",
       "name": "KPMG Women's PGA Championship",
       "utc": "2027-06-24T04:00:00Z"
+    },
+    {
+      "id": "golf-lpga-2027-07-08-the-amundi-evian-championship",
+      "weekend": "2027-07-08",
+      "name": "The Amundi Evian Championship",
+      "utc": "2027-07-08T04:00:00Z"
     }
   ]
 }
