@@ -1,21 +1,9 @@
 {
   "sportKey": "basketball-nbl",
   "leagueName": "National Basketball League",
-  "windowFrom": "20260927",
-  "windowTo": "20270708",
+  "windowFrom": "20260928",
+  "windowTo": "20270709",
   "events": [
-    {
-      "id": "nbl-2026-09-27-adelaide-36ers-cairns-taipans",
-      "weekend": "2026-09-27",
-      "name": "Adelaide 36ers v Cairns Taipans",
-      "utc": "2026-09-27T06:00:00Z"
-    },
-    {
-      "id": "nbl-2026-09-27-sydney-kings-illawarra-hawks",
-      "weekend": "2026-09-27",
-      "name": "Sydney Kings v Illawarra Hawks",
-      "utc": "2026-09-27T08:00:00Z"
-    },
     {
       "id": "nbl-2026-09-30-new-zealand-breakers-cairns-taipans",
       "weekend": "2026-09-30",
@@ -827,15 +815,15 @@
       "utc": "2027-01-31T08:30:00Z"
     },
     {
-      "id": "nbl-2027-02-04-illawarra-hawks-brisbane-bullets",
-      "weekend": "2027-02-04",
-      "name": "Illawarra Hawks v Brisbane Bullets",
-      "utc": "2027-02-04T08:30:00Z"
-    },
-    {
       "id": "nbl-2027-02-04-new-zealand-breakers-south-east-melbourne-phoenix",
       "weekend": "2027-02-04",
       "name": "New Zealand Breakers v South East Melbourne Phoenix",
+      "utc": "2027-02-04T08:30:00Z"
+    },
+    {
+      "id": "nbl-2027-02-04-illawarra-hawks-brisbane-bullets",
+      "weekend": "2027-02-04",
+      "name": "Illawarra Hawks v Brisbane Bullets",
       "utc": "2027-02-04T08:30:00Z"
     },
     {

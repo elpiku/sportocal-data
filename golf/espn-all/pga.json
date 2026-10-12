@@ -1,8 +1,8 @@
 {
   "sportKey": "golf-pga",
   "leagueName": "PGA Tour",
-  "windowFrom": "20260927",
-  "windowTo": "20270708",
+  "windowFrom": "20260928",
+  "windowTo": "20270709",
   "events": [
     {
       "id": "golf-pga-2026-09-24-presidents-cup",
@@ -221,15 +221,15 @@
       "utc": "2027-07-01T04:00:00Z"
     },
     {
-      "id": "golf-pga-2027-07-08-isco-championship",
-      "weekend": "2027-07-08",
-      "name": "ISCO Championship",
-      "utc": "2027-07-08T04:00:00Z"
-    },
-    {
       "id": "golf-pga-2027-07-08-genesis-scottish-open",
       "weekend": "2027-07-08",
       "name": "Genesis Scottish Open",
+      "utc": "2027-07-08T04:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-07-08-isco-championship",
+      "weekend": "2027-07-08",
+      "name": "ISCO Championship",
       "utc": "2027-07-08T04:00:00Z"
     }
   ]
