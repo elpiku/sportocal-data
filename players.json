@@ -960,14 +960,6 @@
     "category": "BASKETBALL"
   },
   {
-    "name": "Caleb Houstan",
-    "team": "New Orleans Pelicans",
-    "leagueId": "nba",
-    "leagueName": "NBA",
-    "country": "🇨🇦 Canada",
-    "category": "BASKETBALL"
-  },
-  {
     "name": "Caleb Love",
     "team": "Philadelphia 76ers",
     "leagueId": "nba",
@@ -1268,14 +1260,6 @@
     "team": "Dallas Wings",
     "leagueId": "basketball-wnba",
     "leagueName": "WNBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
-  },
-  {
-    "name": "Chucky Hepburn",
-    "team": "Toronto Raptors",
-    "leagueId": "nba",
-    "leagueName": "NBA",
     "country": "🇺🇸 USA",
     "category": "BASKETBALL"
   },
@@ -4260,14 +4244,6 @@
     "team": "Minnesota Lynx",
     "leagueId": "basketball-wnba",
     "leagueName": "WNBA",
-    "country": "🇺🇸 USA",
-    "category": "BASKETBALL"
-  },
-  {
-    "name": "Lonnie Walker IV",
-    "team": "Denver Nuggets",
-    "leagueId": "nba",
-    "leagueName": "NBA",
     "country": "🇺🇸 USA",
     "category": "BASKETBALL"
   },
@@ -9864,14 +9840,6 @@
     "category": "FOOTBALL"
   },
   {
-    "name": "Arda Tagay",
-    "team": "Galatasaray",
-    "leagueId": "championsleague",
-    "leagueName": "Champions League",
-    "country": "🌍 Global",
-    "category": "FOOTBALL"
-  },
-  {
     "name": "Arda Yilmaz",
     "team": "Galatasaray",
     "leagueId": "championsleague",
@@ -13194,6 +13162,14 @@
   {
     "name": "Dani Barcia",
     "team": "Deportivo",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇪🇸 Spain",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Dani Carvajal",
+    "team": "Getafe",
     "leagueId": "laliga",
     "leagueName": "La Liga",
     "country": "🇪🇸 Spain",
@@ -21160,14 +21136,6 @@
     "category": "FOOTBALL"
   },
   {
-    "name": "Javi Guerra",
-    "team": "Valencia",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇪🇸 Spain",
-    "category": "FOOTBALL"
-  },
-  {
     "name": "Javi Hernandez",
     "team": "Espanyol",
     "leagueId": "laliga",
@@ -21205,6 +21173,14 @@
     "leagueId": "championsleague",
     "leagueName": "Champions League",
     "country": "🇪🇸 Spain",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Javier Guerra",
+    "team": "Valencia",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "Bolivia",
     "category": "FOOTBALL"
   },
   {
@@ -21356,7 +21332,7 @@
     "team": "Sporting Kansas City",
     "leagueId": "mls",
     "leagueName": "MLS",
-    "country": "🇺🇸 USA",
+    "country": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland",
     "category": "FOOTBALL"
   },
   {
@@ -22668,7 +22644,7 @@
     "team": "Levante",
     "leagueId": "laliga",
     "leagueName": "La Liga",
-    "country": "🇪🇸 Spain",
+    "country": "🇦🇷 Argentina",
     "category": "FOOTBALL"
   },
   {
@@ -23248,14 +23224,6 @@
     "category": "FOOTBALL"
   },
   {
-    "name": "Juan Antonio Cruz",
-    "team": "Málaga",
-    "leagueId": "laliga",
-    "leagueName": "La Liga",
-    "country": "🇪🇸 Spain",
-    "category": "FOOTBALL"
-  },
-  {
     "name": "Juan Arias",
     "team": "Real Salt Lake",
     "leagueId": "mls",
@@ -23282,6 +23250,14 @@
   {
     "name": "Juan Carlos Arana",
     "team": "Racing Santander",
+    "leagueId": "laliga",
+    "leagueName": "La Liga",
+    "country": "🇪🇸 Spain",
+    "category": "FOOTBALL"
+  },
+  {
+    "name": "Juan Cruz",
+    "team": "Málaga",
     "leagueId": "laliga",
     "leagueName": "La Liga",
     "country": "🇪🇸 Spain",
@@ -25628,7 +25604,7 @@
     "team": "Newcastle United",
     "leagueId": "premierleague",
     "leagueName": "Premier League",
-    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+    "country": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland",
     "category": "FOOTBALL"
   },
   {
@@ -29236,7 +29212,7 @@
     "team": "New York City FC",
     "leagueId": "mls",
     "leagueName": "MLS",
-    "country": "🇺🇸 USA",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
     "category": "FOOTBALL"
   },
   {
@@ -34036,7 +34012,7 @@
     "team": "Toronto FC",
     "leagueId": "mls",
     "leagueName": "MLS",
-    "country": "🇯🇲 Jamaica",
+    "country": "🇨🇦 Canada",
     "category": "FOOTBALL"
   },
   {
@@ -37952,11 +37928,11 @@
     "category": "FOOTBALL"
   },
   {
-    "name": "Thiago Fernández",
+    "name": "Thiago Fernandez",
     "team": "Levante",
     "leagueId": "laliga",
     "leagueName": "La Liga",
-    "country": "🇺🇾 Uruguay",
+    "country": "🇵🇾 Paraguay",
     "category": "FOOTBALL"
   },
   {
@@ -41848,14 +41824,6 @@
     "category": "HOCKEY"
   },
   {
-    "name": "Ben Hemmerling",
-    "team": "Vegas Golden Knights",
-    "leagueId": "hockey-nhl",
-    "leagueName": "NHL",
-    "country": "CAN",
-    "category": "HOCKEY"
-  },
-  {
     "name": "Ben Kindel",
     "team": "Pittsburgh Penguins",
     "leagueId": "hockey-nhl",
@@ -42200,6 +42168,14 @@
     "category": "HOCKEY"
   },
   {
+    "name": "Caleb Jones",
+    "team": "Buffalo Sabres",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "🇺🇸 USA",
+    "category": "HOCKEY"
+  },
+  {
     "name": "Calum Ritchie",
     "team": "New York Islanders",
     "leagueId": "hockey-nhl",
@@ -42261,14 +42237,6 @@
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "CAN",
-    "category": "HOCKEY"
-  },
-  {
-    "name": "Carl Grundstrom",
-    "team": "Philadelphia Flyers",
-    "leagueId": "hockey-nhl",
-    "leagueName": "NHL",
-    "country": "SWE",
     "category": "HOCKEY"
   },
   {
@@ -42506,6 +42474,14 @@
   {
     "name": "Colin Blackwell",
     "team": "Dallas Stars",
+    "leagueId": "hockey-nhl",
+    "leagueName": "NHL",
+    "country": "🇺🇸 USA",
+    "category": "HOCKEY"
+  },
+  {
+    "name": "Colin Ralph",
+    "team": "St. Louis Blues",
     "leagueId": "hockey-nhl",
     "leagueName": "NHL",
     "country": "🇺🇸 USA",
