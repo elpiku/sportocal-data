@@ -1,8 +1,8 @@
 {
   "sportKey": "tennis-wta",
   "leagueName": "WTA",
-  "windowFrom": "20260929",
-  "windowTo": "20270710",
+  "windowFrom": "20260930",
+  "windowTo": "20270711",
   "events": [
     {
       "id": "tennis-wta-2026-09-25-jingshan-tennis-open",
@@ -41,9 +41,9 @@
       "utc": "2026-10-09T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-11-vanda-pharmaceuticals-mallorca-women-s-championships",
+      "id": "tennis-wta-2026-10-11-lisboa-belem-open",
       "weekend": "2026-10-11",
-      "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
+      "name": "Lisboa Belem Open",
       "utc": "2026-10-11T04:00:00Z"
     },
     {
@@ -53,9 +53,9 @@
       "utc": "2026-10-11T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-11-lisboa-belem-open",
+      "id": "tennis-wta-2026-10-11-vanda-pharmaceuticals-mallorca-women-s-championships",
       "weekend": "2026-10-11",
-      "name": "Lisboa Belem Open",
+      "name": "Vanda Pharmaceuticals Mallorca Women's Championships",
       "utc": "2026-10-11T04:00:00Z"
     },
     {
@@ -89,15 +89,15 @@
       "utc": "2026-10-26T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-26-abierto-de-curitiba",
-      "weekend": "2026-10-26",
-      "name": "Abierto de Curitiba",
-      "utc": "2026-10-26T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-26-queretaro-open",
       "weekend": "2026-10-26",
       "name": "Queretaro Open",
+      "utc": "2026-10-26T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-26-abierto-de-curitiba",
+      "weekend": "2026-10-26",
+      "name": "Abierto de Curitiba",
       "utc": "2026-10-26T04:00:00Z"
     },
     {
@@ -107,15 +107,15 @@
       "utc": "2026-10-26T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-prudential-hong-kong-tennis-open",
-      "weekend": "2026-10-31",
-      "name": "Prudential Hong Kong Tennis Open",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-31-chennai-open",
       "weekend": "2026-10-31",
       "name": "Chennai Open",
+      "utc": "2026-10-31T04:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-10-31-prudential-hong-kong-tennis-open",
+      "weekend": "2026-10-31",
+      "name": "Prudential Hong Kong Tennis Open",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
@@ -125,27 +125,27 @@
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-10-31-angola-ladies-open",
-      "weekend": "2026-10-31",
-      "name": "Angola Ladies Open",
-      "utc": "2026-10-31T04:00:00Z"
-    },
-    {
       "id": "tennis-wta-2026-10-31-american-tennis-open-miami",
       "weekend": "2026-10-31",
       "name": "American Tennis Open Miami",
       "utc": "2026-10-31T04:00:00Z"
     },
     {
-      "id": "tennis-wta-2026-11-07-wta-finals",
-      "weekend": "2026-11-07",
-      "name": "WTA Finals",
-      "utc": "2026-11-07T05:00:00Z"
+      "id": "tennis-wta-2026-10-31-angola-ladies-open",
+      "weekend": "2026-10-31",
+      "name": "Angola Ladies Open",
+      "utc": "2026-10-31T04:00:00Z"
     },
     {
       "id": "tennis-wta-2026-11-07-cundinamarca-open",
       "weekend": "2026-11-07",
       "name": "Cundinamarca Open",
+      "utc": "2026-11-07T05:00:00Z"
+    },
+    {
+      "id": "tennis-wta-2026-11-07-wta-finals",
+      "weekend": "2026-11-07",
+      "name": "WTA Finals",
       "utc": "2026-11-07T05:00:00Z"
     },
     {
