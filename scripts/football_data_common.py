@@ -130,9 +130,22 @@ class FootballDataProvider(SportsProvider):
                     time.sleep(2 ** attempt)
                 continue
 
+            # Inspect official rate limit headers from football-data.org lookup tables
+            req_available = res.headers.get("X-RequestsAvailable")
+            reset_seconds = res.headers.get("X-RequestCounter-Reset")
+            if req_available is not None:
+                try:
+                    if int(req_available) <= 1:
+                        sleep_time = int(reset_seconds) if reset_seconds else 60
+                        print(f"  [football-data] Approaching rate limit ({req_available} available), pausing {sleep_time}s...", file=sys.stderr)
+                        time.sleep(sleep_time)
+                except (ValueError, TypeError):
+                    pass
+
             if res.status_code == 429:
-                print("  [football-data] 429 rate-limited - sleeping 65s", file=sys.stderr)
-                time.sleep(65)
+                sleep_time = int(reset_seconds) if reset_seconds else 65
+                print(f"  [football-data] 429 rate-limited - sleeping {sleep_time}s", file=sys.stderr)
+                time.sleep(sleep_time)
                 continue
 
             if res.status_code in (400, 403, 404):
