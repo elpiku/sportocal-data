@@ -283,8 +283,8 @@ def fetch_matches(competition_id: int, date_from: str, date_to: str) -> list[dic
 
 
 def _extract_match_name(match: dict) -> str | None:
-    home = (match.get("homeTeam") or {}).get("name") or (match.get("homeTeam") or {}).get("shortName")
-    away = (match.get("awayTeam") or {}).get("name") or (match.get("awayTeam") or {}).get("shortName")
+    home = (match.get("homeTeam") or {}).get("shortName") or (match.get("homeTeam") or {}).get("name")
+    away = (match.get("awayTeam") or {}).get("shortName") or (match.get("awayTeam") or {}).get("name")
     if home and away:
         return f"{home.strip()} v {away.strip()}"
     return None
