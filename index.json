@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T21:23:46Z",
+  "generatedAt": "2026-10-14T06:38:04Z",
   "count": 87,
   "leagues": [
     {
@@ -7,9 +7,10 @@
       "sportKey": "american-football-college-football",
       "category": "american-football",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 844,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 618,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/american-football/api-sports/college-football.json"
     },
     {
@@ -17,9 +18,10 @@
       "sportKey": "american-football-nfl",
       "category": "american-football",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 283,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 237,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/american-football/api-sports/nfl.json"
     },
     {
@@ -27,9 +29,10 @@
       "sportKey": "afl-afl",
       "category": "australian-football",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 4,
+      "windowFrom": "20260918",
+      "windowTo": "20270629",
+      "eventCount": 3,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/australian-football/api-sports/afl.json"
     },
     {
@@ -37,9 +40,10 @@
       "sportKey": "baseball-mlb",
       "category": "baseball",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 1942,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 1958,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/baseball/api-sports/mlb.json"
     },
     {
@@ -50,6 +54,7 @@
       "windowFrom": "20260910",
       "windowTo": "20270621",
       "eventCount": 8,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/basketball/api-sports/fiba.json"
     },
     {
@@ -68,6 +73,7 @@
       "windowFrom": "20260817",
       "windowTo": "20270528",
       "eventCount": 744,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/basketball/api-sports/nba-development.json"
     },
     {
@@ -75,9 +81,10 @@
       "sportKey": "basketball-nbl",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 167,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 152,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/basketball/api-sports/nbl.json"
     },
     {
@@ -85,9 +92,10 @@
       "sportKey": "basketball-wnba",
       "category": "basketball",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 59,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 17,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/basketball/api-sports/wnba.json"
     },
     {
@@ -98,6 +106,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 128,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/afc.champions.json"
     },
     {
@@ -108,6 +117,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 183,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/arg.1.json"
     },
     {
@@ -118,6 +128,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 288,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/bel.1.json"
     },
     {
@@ -128,6 +139,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 161,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/bra.1.json"
     },
     {
@@ -138,6 +150,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 176,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/bra.2.json"
     },
     {
@@ -156,6 +169,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 58,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/caf.champions.json"
     },
     {
@@ -166,6 +180,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 29,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/conmebol.libertadores.json"
     },
     {
@@ -176,6 +191,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 22,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/conmebol.sudamericana.json"
     },
     {
@@ -186,6 +202,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 74,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/concacaf.nations.league.json"
     },
     {
@@ -196,6 +213,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 8,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/arg.copa.json"
     },
     {
@@ -206,6 +224,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 8,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/bra.copa_do_brazil.json"
     },
     {
@@ -216,6 +235,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 36,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/ita.coppa_italia.json"
     },
     {
@@ -226,6 +246,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 288,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/ned.1.json"
     },
     {
@@ -236,6 +257,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 32,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/ned.cup.json"
     },
     {
@@ -246,6 +268,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 372,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/ned.2.json"
     },
     {
@@ -256,6 +279,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 90,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/ned.w.1.json"
     },
     {
@@ -266,6 +290,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 24,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/eng.league_cup.json"
     },
     {
@@ -276,6 +301,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 552,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/eng.2.json"
     },
     {
@@ -286,6 +312,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 175,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/eng.w.1.json"
     },
     {
@@ -296,6 +323,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 288,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/fra.1.json"
     },
     {
@@ -306,6 +334,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 288,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/fra.2.json"
     },
     {
@@ -316,6 +345,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 132,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/fra.w.1.json"
     },
     {
@@ -326,6 +356,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 288,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/ger.2.json"
     },
     {
@@ -336,6 +367,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 32,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/ger.dfb_pokal.json"
     },
     {
@@ -346,6 +378,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 380,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/ita.2.json"
     },
     {
@@ -356,6 +389,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 340,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/jpn.1.json"
     },
     {
@@ -374,6 +408,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 22,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/concacaf.leagues.cup.json"
     },
     {
@@ -392,6 +427,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 126,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/mex.1.json"
     },
     {
@@ -402,6 +438,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 93,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/usa.nwsl.json"
     },
     {
@@ -412,13 +449,14 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 298,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/por.1.json"
     },
     {
       "name": "Premier League",
       "sportKey": "premierleague",
       "category": "football",
-      "season": "2026-27",
+      "season": null,
       "eventCount": 380,
       "url": "https://elpiku.github.io/sportocal-data/football/premierleague/2027.json"
     },
@@ -430,6 +468,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 24,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/ksa.kings.cup.json"
     },
     {
@@ -440,6 +479,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 288,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/ksa.1.json"
     },
     {
@@ -450,6 +490,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 186,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/sco.1.json"
     },
     {
@@ -468,6 +509,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 429,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/esp.2.json"
     },
     {
@@ -478,6 +520,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 232,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/esp.w.1.json"
     },
     {
@@ -488,6 +531,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 47,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/por.taca.portugal.json"
     },
     {
@@ -498,6 +542,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 297,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/tur.1.json"
     },
     {
@@ -508,6 +553,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 2,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/usa.open.json"
     },
     {
@@ -526,6 +572,7 @@
       "windowFrom": "20260810",
       "windowTo": "20270521",
       "eventCount": 156,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/football/api-sports/uefa.nations.json"
     },
     {
@@ -536,6 +583,7 @@
       "windowFrom": "20260824",
       "windowTo": "20270604",
       "eventCount": 3,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/golf/api-sports/liv.json"
     },
     {
@@ -543,19 +591,21 @@
       "sportKey": "golf-lpga",
       "category": "golf",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 9,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 25,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/golf/api-sports/lpga.json"
     },
     {
-      "name": "PGA TOUR",
+      "name": "PGA Tour",
       "sportKey": "golf-pga",
       "category": "golf",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 35,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 37,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/golf/api-sports/pga.json"
     },
     {
@@ -571,9 +621,10 @@
       "sportKey": "hockey-nhl",
       "category": "hockey",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 1409,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 1339,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/hockey/api-sports/nhl.json"
     },
     {
@@ -584,6 +635,7 @@
       "windowFrom": "20260907",
       "windowTo": "20270618",
       "eventCount": 3,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/lacrosse/api-sports/pll.json"
     },
     {
@@ -591,9 +643,10 @@
       "sportKey": "mma-pfl",
       "category": "mma",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
       "eventCount": 3,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/mma/api-sports/pfl.json"
     },
     {
@@ -601,9 +654,10 @@
       "sportKey": "mma-ufc",
       "category": "mma",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 17,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 11,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/mma/api-sports/ufc.json"
     },
     {
@@ -611,7 +665,7 @@
       "sportKey": "f1",
       "category": "motorsport",
       "season": "2026",
-      "eventCount": 40,
+      "eventCount": 30,
       "url": "https://elpiku.github.io/sportocal-data/motorsport/f1/2026.json"
     },
     {
@@ -723,7 +777,7 @@
       "sportKey": "nascar-cup",
       "category": "motorsport",
       "season": "2026",
-      "eventCount": 112,
+      "eventCount": 110,
       "url": "https://elpiku.github.io/sportocal-data/motorsport/nascar/cup/2026.json"
     },
     {
@@ -731,7 +785,7 @@
       "sportKey": "nascar-oreilly",
       "category": "motorsport",
       "season": "2026",
-      "eventCount": 94,
+      "eventCount": 91,
       "url": "https://elpiku.github.io/sportocal-data/motorsport/nascar/oreilly/2026.json"
     },
     {
@@ -771,9 +825,10 @@
       "sportKey": "tennis-atp",
       "category": "tennis",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 15,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 12,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/tennis/api-sports/atp.json"
     },
     {
@@ -789,9 +844,10 @@
       "sportKey": "tennis-wta",
       "category": "tennis",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 44,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 30,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/tennis/api-sports/wta.json"
     },
     {
@@ -807,9 +863,10 @@
       "sportKey": "volleyball-womens-college-volleyball",
       "category": "volleyball",
       "season": null,
-      "windowFrom": "20260912",
-      "windowTo": "20270623",
-      "eventCount": 3561,
+      "windowFrom": "20260930",
+      "windowTo": "20270711",
+      "eventCount": 2534,
+      "provider": "api-sports",
       "url": "https://elpiku.github.io/sportocal-data/volleyball/api-sports/womens-college-volleyball.json"
     }
   ]
