@@ -1,96 +1,78 @@
 #!/usr/bin/env python3
 """
-Targeted Baseball Scraper for sportocal-data.
-Fetches MLB, College Baseball, and premier international baseball competitions.
-Outputs to baseball/espn-all/<slug>.json.
+Baseball generic scraper - API-Sports baseball API.
+Covers MLB, NPB, KBO, CPBL, NCAA Baseball.
+Requires env var: API_SPORTS_KEY
+Output: baseball/api-sports/<slug>.json
 """
-
-import json
 import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from espn_core_api_common import build_events, fetch_league_name  # noqa: E402
+from api_sports_common import ApiSportsClient, build_events_from_fixtures, write_league_file
 
-SPORT = "baseball"
 PAST_DAYS = 14
 FUTURE_DAYS = 270
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "baseball" / "espn-all"
-MIN_EVENTS_THRESHOLD = 5
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "baseball" / "api-sports"
+MIN_EVENTS = 5
 
-TARGET_LEAGUES = {
-    # Top Professional & International
-    "mlb": "MLB",
-    "college-baseball": "NCAA College Baseball",
-    "mexican-league": "Mexican Baseball League (LMB)",
-    "world-baseball-classic": "World Baseball Classic",
+TARGET_LEAGUES: dict[int, tuple[str, str]] = {
+    1: ("baseball-mlb",     "Major League Baseball"),
+    2: ("baseball-npb",     "Nippon Professional Baseball"),
+    3: ("baseball-kbo",     "KBO League"),
+    4: ("baseball-cpbl",    "CPBL"),
+    7: ("baseball-college", "NCAA Baseball"),
 }
-
-BLOCKED_KEYWORDS = ("friendly", "exhibition", ".u18", ".u15")
-
-
-def is_valid_slug(slug: str) -> bool:
-    if slug not in TARGET_LEAGUES:
-        return False
-    return not any(kw in slug.lower() for kw in BLOCKED_KEYWORDS)
 
 
 def main():
     today = datetime.now(timezone.utc).date()
-    date_from = (today - timedelta(days=PAST_DAYS)).strftime("%Y%m%d")
-    date_to = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y%m%d")
+    date_from = (today - timedelta(days=PAST_DAYS)).strftime("%Y-%m-%d")
+    date_to = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y-%m-%d")
+    date_from_s = date_from.replace("-", "")
+    date_to_s = date_to.replace("-", "")
+    season = today.year
 
-    print(f"Scraping {len(TARGET_LEAGUES)} targeted baseball leagues ({date_from} to {date_to})...", file=sys.stderr)
-    written, skipped = 0, 0
+    client = ApiSportsClient("baseball")
+    written = skipped = 0
 
-    for slug, preferred_name in TARGET_LEAGUES.items():
-        if not is_valid_slug(slug):
-            continue
-
-        print(f"Fetching: {preferred_name} [{slug}]", file=sys.stderr)
+    for league_id, (sport_key, league_name) in TARGET_LEAGUES.items():
+        slug = sport_key.replace("baseball-", "")
+        print(f"Fetching {league_name}...", file=sys.stderr)
         try:
-            events = build_events(
-                sport=SPORT,
-                league_slug=slug,
-                id_prefix=f"baseball-{slug}",
-                sport_key=f"baseball-{slug}",
-                date_from=date_from,
-                date_to=date_to,
-                round_prefix="Game",
-            )
+            data = client._get("games", {"league": league_id, "season": season, "date": date_from})
+            fixtures = (data or {}).get("response", [])
         except Exception as err:
-            print(f"  ERROR: {slug} failed ({err!r}), skipping.", file=sys.stderr)
-            continue
-
-        if len(events) < MIN_EVENTS_THRESHOLD:
-            print(f"  {slug}: only {len(events)} events, skipping.", file=sys.stderr)
+            print(f"  ERROR: {err!r}", file=sys.stderr)
             skipped += 1
             continue
 
-        league_name = fetch_league_name(SPORT, slug)
-        display_name = preferred_name if league_name == slug else league_name
-
-        output_path = OUTPUT_DIR / f"{slug}.json"
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(
-            json.dumps(
-                {
-                    "sportKey": f"baseball-{slug}",
-                    "leagueName": display_name,
-                    "windowFrom": date_from,
-                    "windowTo": date_to,
-                    "events": events,
-                },
-                indent=2,
-            )
-            + "\n"
+        normalised = [
+            {
+                "teams": g.get("teams"),
+                "fixture": {"date": g.get("date")},
+                "league": {"round": g.get("week") or league_name},
+            }
+            for g in fixtures
+        ]
+        events = build_events_from_fixtures(normalised, slug, sport_key)
+        ok = write_league_file(
+            OUTPUT_DIR / f"{slug}.json",
+            sport_key,
+            league_name,
+            date_from_s,
+            date_to_s,
+            events,
+            MIN_EVENTS,
         )
-        print(f"  Wrote {len(events)} events to {output_path.name}", file=sys.stderr)
-        written += 1
+        if ok:
+            written += 1
+        else:
+            skipped += 1
 
-    print(f"\nCompleted: {written} written, {skipped} skipped.", file=sys.stderr)
+    print(f"Done: {written} written, {skipped} skipped.", file=sys.stderr)
 
 
 if __name__ == "__main__":

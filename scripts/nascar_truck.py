@@ -16,12 +16,9 @@ docstring for the full reasoning behind it:
     themselves don't include the sponsor race name, just track name and
     session times.
 
-Unlike nascar_cup.py, this has no season-wide fallback source: ESPN's
-racing API doesn't expose a separate Truck Series league in the same
-shape as its NASCAR Cup one, and rather than guess at an unverified
-endpoint, this just aborts loudly (via common.write_output's min_events
-check) if the Jayski pipeline fails, instead of risking silent wrong
-data from an untested fallback.
+Unlike nascar_cup.py, this has no season-wide fallback source: if the
+Jayski pipeline fails, this aborts loudly (via common.write_output's min_events
+check) instead of risking silent wrong data from an untested fallback.
 
 Run this from the repo root: python scripts/nascar_truck.py
 """

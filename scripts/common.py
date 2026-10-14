@@ -6,12 +6,40 @@ from here to avoid re-implementing the same fetch/id-safety/write logic.
 """
 
 import json
+import os
 import sys
 import re
 import time
 from pathlib import Path
 
 import requests
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
+
+def load_dotenv(env_path: Path | None = None):
+    """Load key-value pairs from .env into os.environ if not already set."""
+    if env_path is None:
+        env_path = REPO_ROOT / ".env"
+    if not env_path.is_file():
+        return
+    try:
+        content = env_path.read_text(encoding="utf-8")
+        for line in content.splitlines():
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, val = line.split("=", 1)
+            key = key.strip()
+            val = val.strip().strip("'\"")
+            if key and key not in os.environ:
+                os.environ[key] = val
+    except Exception as e:
+        print(f"Warning: Failed to load .env: {e}", file=sys.stderr)
+
+
+# Automatically load .env on import
+load_dotenv()
 
 HEADERS = {
     "User-Agent": (

@@ -17,12 +17,9 @@ nascar_cup.py's docstring for the full reasoning behind it:
     the PDFs themselves don't include the sponsor race name, just track
     name and session times.
 
-Unlike nascar_cup.py, this has no season-wide fallback source: ESPN's
-racing API doesn't expose a separate O'Reilly/Xfinity league in the same
-shape as its NASCAR Cup one, and rather than guess at an unverified
-endpoint, this just aborts loudly (via common.write_output's min_events
-check) if the Jayski pipeline fails, instead of risking silent wrong
-data from an untested fallback.
+Unlike nascar_cup.py, this has no season-wide fallback source: if the
+Jayski pipeline fails, this aborts loudly (via common.write_output's min_events
+check) instead of risking silent wrong data from an untested fallback.
 
 Run this from the repo root: python scripts/nascar_oreilly.py
 """
@@ -268,53 +265,6 @@ def to_utc_iso(date_str: str) -> str | None:
     return dt.astimezone(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def fetch_espn_fallback_events(jayski_titles: dict) -> list[dict]:
-    print("Jayski pipeline produced nothing - falling back to ESPN (race-only)...", file=sys.stderr)
-    url = "https://sports.core.api.espn.com/v2/sports/racing/leagues/nascar-secondary/events"
-    try:
-        res = requests.get(url, headers=HEADERS, params={"limit": 100}, timeout=15)
-        res.raise_for_status()
-        items = res.json().get("items", [])
-    except Exception as err:
-        print(f"ESPN fallback failed: {err}", file=sys.stderr)
-        return []
-
-    assign_id = make_unique_id_assigner()
-    events = []
-    for item in items:
-        event_url = item.get("$ref") if isinstance(item, dict) else item
-        if not event_url:
-            continue
-        try:
-            ev_res = requests.get(event_url, headers=HEADERS, timeout=10)
-            if ev_res.status_code != 200:
-                continue
-            ev = ev_res.json()
-        except requests.RequestException:
-            continue
-
-        utc_iso = to_utc_iso(ev.get("date"))
-        if not utc_iso:
-            continue
-        espn_name = ev.get("name") or ev.get("shortName") or "NASCAR O'Reilly Race"
-
-        try:
-            local_dt = datetime.strptime(utc_iso, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=UTC).astimezone(ET_TZ)
-            weekend_name = jayski_titles.get((local_dt.month, local_dt.day), espn_name)
-        except Exception:
-            weekend_name = espn_name
-
-        base_id = f"noaps-{SEASON_YEAR}-{slugify(weekend_name)}-race"
-        events.append({
-            "id": assign_id(base_id),
-            "weekend": weekend_name,
-            "name": "Race",
-            "utc": utc_iso,
-        })
-
-    return events
-
-
 def main():
     print("Fetching official race titles from Jayski...", file=sys.stderr)
     try:
@@ -326,9 +276,6 @@ def main():
 
     events = fetch_pdf_based_events(jayski_titles)
     print(f"Parsed {len(events)} sessions from PDFs", file=sys.stderr)
-
-    if not events:
-        events = fetch_espn_fallback_events(jayski_titles)
 
     events.sort(key=lambda e: e["utc"])
 

@@ -1,40 +1,52 @@
 #!/usr/bin/env python3
 """
-NBA schedule scraper for the sportocal-data repo.
-See espn_core_api_common.py for the shared ESPN Core API fetching logic
-and its caveats (why sports.core.api.espn.com and not site.api.espn.com).
+NBA schedule scraper - powered by BALLDONTLIE.
+Requires env var: BALLDONTLIE_KEY
 
-Run this from the repo root: python scripts/nba.py
+Run from repo root: python scripts/nba.py
+Output: basketball/nba/<year>.json
 """
 
+import json
 import sys
 from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from espn_core_api_common import run_league_scraper  # noqa: E402
+from balldontlie_common import fetch_nba_games, build_nba_events  # noqa: E402
 
-# NBA season runs Oct(year) - Jun(year+1) (preseason in Oct, Finals typically
-# wrap by mid-June). Targets the season currently underway/about to start
-# relative to today, same pattern as the soccer scripts.
 today = date.today()
+# NBA season Oct(year) – Jun(year+1)
 SEASON_START_YEAR = today.year if today.month >= 8 else today.year - 1
 SEASON_LABEL = f"{SEASON_START_YEAR}-{str(SEASON_START_YEAR + 1)[-2:]}"
-DATE_FROM = f"{SEASON_START_YEAR}1001"
-DATE_TO = f"{SEASON_START_YEAR + 1}0630"
+DATE_FROM = f"{SEASON_START_YEAR}-10-01"
+DATE_TO   = f"{SEASON_START_YEAR + 1}-06-30"
 
-OUTPUT_PATH = Path(__file__).resolve().parent.parent / "basketball" / "nba" / f"{SEASON_START_YEAR + 1}.json"
+OUTPUT_PATH = (
+    Path(__file__).resolve().parent.parent
+    / "basketball" / "nba" / f"{SEASON_START_YEAR + 1}.json"
+)
 
 if __name__ == "__main__":
-    run_league_scraper(
-        sport="basketball",
-        league_slug="nba",
-        id_prefix="nba",
-        sport_key="nba",
-        season_label=SEASON_LABEL,
-        output_path=OUTPUT_PATH,
-        date_from=DATE_FROM,
-        date_to=DATE_TO,
-        round_prefix="Week",
-        min_events=800,  # 82-game x 30-team regular season alone is 1230 games; playoffs add more
-    )
+    print(f"Fetching NBA {SEASON_LABEL} ({DATE_FROM} → {DATE_TO})…", file=sys.stderr)
+    games  = fetch_nba_games(DATE_FROM, DATE_TO)
+    events = build_nba_events(games, id_prefix="nba")
+    print(f"Got {len(events)} games.", file=sys.stderr)
+
+    if len(events) < 800:
+        print(
+            f"WARNING: only {len(events)} events (expected 1230+ for full season). "
+            "Not writing to avoid overwriting good data.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    data = {
+        "sportKey": "nba",
+        "leagueName": "NBA",
+        "season": SEASON_LABEL,
+        "events": events,
+    }
+    OUTPUT_PATH.write_text(json.dumps(data, indent=2) + "\n")
+    print(f"Wrote {len(events)} events → {OUTPUT_PATH}", file=sys.stderr)

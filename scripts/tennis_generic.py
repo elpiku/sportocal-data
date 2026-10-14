@@ -1,82 +1,75 @@
 #!/usr/bin/env python3
 """
-Targeted Tennis Scraper for sportocal-data.
-Fetches ATP Tour, WTA Tour, and Grand Slam tournament schedules from ESPN Core API.
-Outputs to tennis/espn-all/<slug>.json.
+Tennis generic scraper - API-Sports Tennis API.
+Covers ATP and WTA Tour schedules.
+Requires env var: API_SPORTS_KEY
+Output: tennis/api-sports/<slug>.json
 """
-
-import json
 import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from espn_core_api_common import build_events, fetch_league_name  # noqa: E402
+from api_sports_common import ApiSportsClient, build_events_from_fixtures, write_league_file
 
-SPORT = "tennis"
 PAST_DAYS = 14
 FUTURE_DAYS = 270
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "tennis" / "espn-all"
-MIN_EVENTS_THRESHOLD = 3
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "tennis" / "api-sports"
+MIN_EVENTS = 3
 
-TARGET_LEAGUES = {
-    "atp": "ATP Tour",
-    "wta": "WTA Tour",
+TARGET_LEAGUES: dict[int, tuple[str, str]] = {
+    1: ("tennis-atp", "ATP Tour"),
+    2: ("tennis-wta", "WTA Tour"),
 }
 
 
 def main():
     today = datetime.now(timezone.utc).date()
-    date_from = (today - timedelta(days=PAST_DAYS)).strftime("%Y%m%d")
-    date_to = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y%m%d")
+    date_from = (today - timedelta(days=PAST_DAYS)).strftime("%Y-%m-%d")
+    date_to = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y-%m-%d")
+    date_from_s = date_from.replace("-", "")
+    date_to_s = date_to.replace("-", "")
+    season = today.year
 
-    print(f"Scraping {len(TARGET_LEAGUES)} targeted tennis tours ({date_from} to {date_to})...", file=sys.stderr)
-    written, skipped = 0, 0
+    client = ApiSportsClient("tennis")
+    written = skipped = 0
 
-    for slug, preferred_name in TARGET_LEAGUES.items():
-        print(f"Fetching: {preferred_name} [{slug}]", file=sys.stderr)
+    for league_id, (sport_key, league_name) in TARGET_LEAGUES.items():
+        slug = sport_key.replace("tennis-", "")
+        print(f"Fetching {league_name}...", file=sys.stderr)
         try:
-            events = build_events(
-                sport=SPORT,
-                league_slug=slug,
-                id_prefix=f"tennis-{slug}",
-                sport_key=f"tennis-{slug}",
-                date_from=date_from,
-                date_to=date_to,
-                round_prefix="Tournament",
-            )
+            data = client._get("games", {"league": league_id, "season": season, "date": date_from})
+            fixtures = (data or {}).get("response", [])
         except Exception as err:
-            print(f"  ERROR: {slug} failed ({err!r}), skipping.", file=sys.stderr)
-            continue
-
-        if len(events) < MIN_EVENTS_THRESHOLD:
-            print(f"  {slug}: only {len(events)} events, skipping.", file=sys.stderr)
+            print(f"  ERROR: {err!r}", file=sys.stderr)
             skipped += 1
             continue
 
-        league_name = fetch_league_name(SPORT, slug)
-        display_name = preferred_name if league_name == slug else league_name
-
-        output_path = OUTPUT_DIR / f"{slug}.json"
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(
-            json.dumps(
-                {
-                    "sportKey": f"tennis-{slug}",
-                    "leagueName": display_name,
-                    "windowFrom": date_from,
-                    "windowTo": date_to,
-                    "events": events,
-                },
-                indent=2,
-            )
-            + "\n"
+        normalised = [
+            {
+                "teams": g.get("teams"),
+                "fixture": {"date": g.get("date")},
+                "league": {"round": g.get("round") or league_name},
+            }
+            for g in fixtures
+        ]
+        events = build_events_from_fixtures(normalised, slug, sport_key)
+        ok = write_league_file(
+            OUTPUT_DIR / f"{slug}.json",
+            sport_key,
+            league_name,
+            date_from_s,
+            date_to_s,
+            events,
+            MIN_EVENTS,
         )
-        print(f"  Wrote {len(events)} events to {output_path.name}", file=sys.stderr)
-        written += 1
+        if ok:
+            written += 1
+        else:
+            skipped += 1
 
-    print(f"\nCompleted: {written} written, {skipped} skipped.", file=sys.stderr)
+    print(f"Done: {written} written, {skipped} skipped.", file=sys.stderr)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,83 @@
+name: Update All Football Leagues (football-data.org + API-Sports)
+
+# Runs the curated football-data.org scripts (PL, La Liga, Bundesliga,
+# Serie A, UCL, MLS) AND the API-Sports soccer_generic.py for all other
+# football competitions.
+
+on:
+  schedule:
+    - cron: '30 5 * * *'   # daily at 05:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
+
+      - run: pip install -r scripts/requirements.txt
+
+      # ── football-data.org curated competitions ──────────────────────────
+      - name: Premier League
+        env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+        run: python scripts/premier_league.py
+
+      - name: La Liga
+        env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+        run: python scripts/la_liga.py
+
+      - name: Bundesliga
+        env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+        run: python scripts/bundesliga.py
+
+      - name: Serie A
+        env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+        run: python scripts/serie_a.py
+
+      - name: Champions League
+        env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+        run: python scripts/champions_league.py
+
+      - name: MLS
+        env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+        run: python scripts/mls.py
+
+      # ── API-Sports: all other football leagues ──────────────────────────
+      - name: Soccer generic (API-Sports)
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python scripts/soccer_generic.py
+
+      # ── Rebuild index ───────────────────────────────────────────────────
+      - name: Rebuild index
+        run: python scripts/build_index.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add football/ index.json
+          git diff --quiet && git diff --staged --quiet && exit 0
+          git commit -m "Auto-update football schedules [skip ci]"
+          for i in $(seq 1 10); do
+            git push && exit 0
+            echo "Push rejected - retrying ($i/10)..."
+            git pull --rebase origin main
+            sleep $((RANDOM % 15 + 1))
+          done
+          exit 1

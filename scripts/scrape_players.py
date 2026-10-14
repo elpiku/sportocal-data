@@ -2,7 +2,7 @@
 """
 Scrapes and compiles complete athlete, driver, and player rosters strictly
 for the sports leagues and competitions tracked by SportoCal.
-Fetches official squad rosters from ESPN Core API and motorsport driver grids.
+Compiles rosters from driver grids, tennis stars, and tracked team rosters.
 Generates players.json at the repo root.
 
 Run: python scripts/scrape_players.py
@@ -237,68 +237,15 @@ LEAGUES_TO_SCRAPE = [
     ("hockey", "nhl", "hockey-nhl", "NHL", "HOCKEY")
 ]
 
-def scrape_team_roster(sport, league_slug, league_id, league_name, category, team_entry):
-    team = team_entry.get('team', {})
-    team_id = team.get('id')
-    team_name = team.get('displayName') or team.get('name')
-    if not team_id or not team_name:
-        return []
-
-    roster_url = f"https://site.api.espn.com/apis/site/v2/sports/{sport}/{league_slug}/teams/{team_id}/roster"
-    r_data = fetch_json(roster_url)
-    if not r_data:
-        return []
-
-    raw_athletes = r_data.get('athletes', [])
-    flat_athletes = []
-    for entry in raw_athletes:
-        if isinstance(entry, dict) and 'items' in entry:
-            flat_athletes.extend(entry.get('items', []))
-        elif isinstance(entry, dict):
-            flat_athletes.append(entry)
-
-    athletes = []
-    for a in flat_athletes:
-        name = a.get('displayName') or a.get('fullName')
-        if not name or len(name) < 3:
-            continue
-        country_raw = a.get('citizenship') or a.get('birthPlace', {}).get('country') or a.get('birthCountry', {}).get('abbreviation') or ''
-        athletes.append({
-            'name': name.strip(),
-            'team': team_name.strip(),
-            'leagueId': league_id,
-            'leagueName': league_name,
-            'country': format_country(country_raw),
-            'category': category
-        })
-    return athletes
-
-def scrape_all_team_leagues():
-    all_team_athletes = []
-    for sport, league_slug, league_id, league_name, category in LEAGUES_TO_SCRAPE:
-        print(f"Scraping team rosters for {league_name}...")
-        teams_url = f"https://site.api.espn.com/apis/site/v2/sports/{sport}/{league_slug}/teams"
-        data = fetch_json(teams_url)
-        if not data:
-            continue
-
+def load_existing_athletes() -> list[dict]:
+    """Load existing athletes from players.json if available."""
+    if OUTPUT_PATH.is_file():
         try:
-            teams = data['sports'][0]['leagues'][0]['teams']
-        except (KeyError, IndexError):
-            continue
-
-        def worker(team_entry):
-            return scrape_team_roster(sport, league_slug, league_id, league_name, category, team_entry)
-
-        with ThreadPoolExecutor(max_workers=8) as pool:
-            results = pool.map(worker, teams)
-            count = 0
-            for r in results:
-                all_team_athletes.extend(r)
-                count += len(r)
-            print(f"  -> {league_name}: {count} players collected across {len(teams)} teams.")
-
-    return all_team_athletes
+            with open(OUTPUT_PATH, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return []
+    return []
 
 def extract_fighters_from_mma_events():
     """Scrapes UFC and PFL fighters listed on upcoming fight events."""
@@ -327,23 +274,22 @@ def main():
     
     athletes_dict = {}
 
-    # 1. Add Motorsport Drivers
+    # 1. Load existing athletes base
+    for a in load_existing_athletes():
+        athletes_dict[a["name"].lower()] = a
+
+    # 2. Add Motorsport Drivers
     for a in MOTORSPORT_ATHLETES:
         athletes_dict[a["name"].lower()] = a
 
-    # 2. Add Tennis Stars
+    # 3. Add Tennis Stars
     for a in TENNIS_ATHLETES:
         athletes_dict[a["name"].lower()] = a
 
-    # 3. Add MMA Fighters from real events in app
+    # 4. Add MMA Fighters from real events in app
     for a in extract_fighters_from_mma_events():
         if a["name"].lower() not in athletes_dict:
             athletes_dict[a["name"].lower()] = a
-
-    # 4. Scrape all full squad rosters for all leagues tracked by the app
-    team_athletes = scrape_all_team_leagues()
-    for a in team_athletes:
-        athletes_dict[a["name"].lower()] = a
 
     result = list(athletes_dict.values())
     result.sort(key=lambda x: (x["category"], x["name"]))

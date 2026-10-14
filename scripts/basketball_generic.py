@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 """
-Targeted Basketball Scraper for sportocal-data.
-Fetches top-tier professional leagues, college basketball, and international tournaments.
-Outputs to basketball/espn-all/<slug>.json.
+Basketball generic scraper — API-Sports basketball API.
+Covers WNBA, FIBA, NBL, college basketball, and other leagues.
+(NBA is handled separately by nba.py via BALLDONTLIE.)
+
+Requires env var: API_SPORTS_KEY
+Output: basketball/api-sports/<slug>.json
 """
 
 import json
@@ -12,108 +15,88 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from espn_core_api_common import build_events, fetch_league_name  # noqa: E402
+from api_sports_common import (  # noqa: E402
+    ApiSportsClient,
+    build_events_from_fixtures,
+    write_league_file,
+)
 
-SPORT = "basketball"
-PAST_DAYS = 14
+PAST_DAYS  = 14
 FUTURE_DAYS = 270
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "basketball" / "espn-all"
-MIN_EVENTS_THRESHOLD = 5
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "basketball" / "api-sports"
+MIN_EVENTS = 5
 
-TARGET_LEAGUES = {
-    # Top Professional & Developmental
-    "wnba": "WNBA",
-    "nba-g-league": "NBA G League",
-
-    # College Basketball
-    "mens-college-basketball": "NCAA Men's Basketball",
-    "womens-college-basketball": "NCAA Women's Basketball",
-
-    # Top International & European
-    "fiba": "FIBA Basketball World Cup",
-    "fiba-americup": "FIBA AmeriCup",
-    "fiba-eurobasket": "FIBA EuroBasket",
-    "nbl": "NBL (Australia)",
+# API-Sports basketball league IDs
+# https://www.api-sports.io/documentation/basketball/v1#tag/leagues
+TARGET_LEAGUES: dict[int, tuple[str, str]] = {
+    12:  ("basketball-wnba",            "WNBA"),
+    116: ("basketball-nba-g-league",    "NBA G League"),
+    117: ("basketball-college-men",     "NCAA Men's Basketball"),
+    118: ("basketball-college-women",   "NCAA Women's Basketball"),
+    29:  ("basketball-fiba",            "FIBA Basketball World Cup"),
+    28:  ("basketball-fiba-americas",   "FIBA AmeriCup"),
+    27:  ("basketball-fiba-eurobasket", "FIBA EuroBasket"),
+    131: ("basketball-nbl",             "NBL (Australia)"),
+    # EuroLeague
+    120: ("basketball-euroleague",      "EuroLeague"),
+    121: ("basketball-eurocup",         "EuroCup"),
 }
-
-BLOCKED_KEYWORDS = ("friendly", "exhibition", ".u20", ".u19", ".u18", ".u17")
-
-
-def is_valid_slug(slug: str) -> bool:
-    if slug == "nba":
-        return False  # Handled by standalone nba.py
-    if any(kw in slug.lower() for kw in BLOCKED_KEYWORDS):
-        return False
-    return True
-
-
-def get_target_leagues() -> dict[str, str]:
-    if len(sys.argv) > 1:
-        raw = sys.argv[1]
-        slugs = [s.strip() for s in raw.split(",") if s.strip()]
-        return {s: TARGET_LEAGUES.get(s, s) for s in slugs}
-    env_slugs = os.environ.get("SPORT_LEAGUE_SLUGS", "")
-    if env_slugs:
-        slugs = [s.strip() for s in env_slugs.split(",") if s.strip()]
-        return {s: TARGET_LEAGUES.get(s, s) for s in slugs}
-    return TARGET_LEAGUES
 
 
 def main():
-    targets = get_target_leagues()
-    today = datetime.now(timezone.utc).date()
-    date_from = (today - timedelta(days=PAST_DAYS)).strftime("%Y%m%d")
-    date_to = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y%m%d")
+    today       = datetime.now(timezone.utc).date()
+    date_from   = (today - timedelta(days=PAST_DAYS)).strftime("%Y-%m-%d")
+    date_to     = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y-%m-%d")
+    date_from_s = (today - timedelta(days=PAST_DAYS)).strftime("%Y%m%d")
+    date_to_s   = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y%m%d")
 
-    print(f"Scraping {len(targets)} basketball league(s) ({date_from} to {date_to})...", file=sys.stderr)
-    written, skipped = 0, 0
+    # API-Sports basketball uses a single season year or "yyyy-yyyy"
+    season = today.year if today.month >= 8 else today.year - 1
 
-    for slug, preferred_name in targets.items():
-        if not is_valid_slug(slug):
-            continue
+    client  = ApiSportsClient("basketball")
+    written = skipped = 0
 
-        print(f"Fetching: {preferred_name} [{slug}]", file=sys.stderr)
+    # Allow running a specific subset from env or CLI
+    env_ids = os.environ.get("BBALL_LEAGUE_IDS", "")
+    if env_ids:
+        ids = [int(i.strip()) for i in env_ids.split(",") if i.strip().isdigit()]
+        targets = {k: TARGET_LEAGUES[k] for k in ids if k in TARGET_LEAGUES}
+    else:
+        targets = TARGET_LEAGUES
+
+    for league_id, (sport_key, league_name) in targets.items():
+        slug = sport_key.replace("basketball-", "")
+        print(f"Fetching {league_name} (id={league_id})…", file=sys.stderr)
         try:
-            events = build_events(
-                sport=SPORT,
-                league_slug=slug,
-                id_prefix=slug,
-                sport_key=f"basketball-{slug}",
-                date_from=date_from,
-                date_to=date_to,
-                round_prefix="Week",
-            )
+            # API-Sports basketball uses /games not /fixtures
+            data = client._get("games", {"league": league_id, "season": season,
+                                          "from": date_from, "to": date_to})
+            fixtures = (data or {}).get("response", [])
         except Exception as err:
-            print(f"  ERROR: {slug} failed ({err!r}), skipping.", file=sys.stderr)
-            continue
-
-        if len(events) < MIN_EVENTS_THRESHOLD:
-            print(f"  {slug}: only {len(events)} events, skipping.", file=sys.stderr)
+            print(f"  ERROR: {err!r}", file=sys.stderr)
             skipped += 1
             continue
 
-        league_name = fetch_league_name(SPORT, slug)
-        display_name = preferred_name if league_name == slug else league_name
+        # Normalise game → fixture-like shape for build_events_from_fixtures
+        normalised = []
+        for g in fixtures:
+            normalised.append({
+                "teams": g.get("teams"),
+                "fixture": {"date": (g.get("date") or {}).get("start")},
+                "league":  {"round": g.get("week")},
+            })
 
+        events = build_events_from_fixtures(normalised, id_prefix=slug, sport_key=sport_key)
         output_path = OUTPUT_DIR / f"{slug}.json"
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(
-            json.dumps(
-                {
-                    "sportKey": f"basketball-{slug}",
-                    "leagueName": display_name,
-                    "windowFrom": date_from,
-                    "windowTo": date_to,
-                    "events": events,
-                },
-                indent=2,
-            )
-            + "\n"
+        ok = write_league_file(
+            output_path, sport_key, league_name, date_from_s, date_to_s, events, MIN_EVENTS
         )
-        print(f"  Wrote {len(events)} events to {output_path.name}", file=sys.stderr)
-        written += 1
+        if ok:
+            written += 1
+        else:
+            skipped += 1
 
-    print(f"\nCompleted: {written} written, {skipped} skipped.", file=sys.stderr)
+    print(f"\nDone: {written} written, {skipped} skipped.", file=sys.stderr)
 
 
 if __name__ == "__main__":
