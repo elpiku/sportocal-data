@@ -1,100 +1,81 @@
 #!/usr/bin/env python3
 """
-Targeted Rugby Scraper for sportocal-data.
-Fetches Six Nations, Rugby Championship, Premiership, Champions Cup, Super Rugby, NRL, Super League.
-Outputs to rugby/espn-all/<slug>.json.
+Rugby generic scraper - API-Sports rugby API.
+Covers Six Nations, Rugby Championship, Premiership, Champions Cup, Super Rugby, NRL.
+Requires env var: API_SPORTS_KEY
+Output: rugby/api-sports/<slug>.json
 """
-
-import json
 import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from espn_core_api_common import build_events, fetch_league_name  # noqa: E402
+from api_sports_common import ApiSportsClient, build_events_from_fixtures, write_league_file
 
 PAST_DAYS = 14
 FUTURE_DAYS = 270
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "rugby" / "espn-all"
-MIN_EVENTS_THRESHOLD = 3
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "rugby" / "api-sports"
+MIN_EVENTS = 3
 
-# (sport_type, slug) -> Preferred Name
-TARGET_LEAGUES = {
-    # Rugby Union
-    ("rugby", "six-nations"): "Six Nations",
-    ("rugby", "rugby-championship"): "The Rugby Championship",
-    ("rugby", "premiership-rugby"): "Gallagher Premiership Rugby",
-    ("rugby", "european-rugby-champions-cup"): "Investec Champions Cup",
-    ("rugby", "super-rugby"): "Super Rugby Pacific",
-    ("rugby", "world-cup"): "Rugby World Cup",
-
-    # Rugby League
-    ("rugby-league", "nrl"): "NRL (National Rugby League)",
-    ("rugby-league", "super-league"): "Betfred Super League",
+TARGET_LEAGUES: dict[int, tuple[str, str]] = {
+    5:  ("rugby-six-nations",      "Six Nations"),
+    6:  ("rugby-championship",      "The Rugby Championship"),
+    1:  ("rugby-premiership",       "Gallagher Premiership Rugby"),
+    8:  ("rugby-champions-cup",     "Investec Champions Cup"),
+    7:  ("rugby-super-rugby",       "Super Rugby Pacific"),
+    9:  ("rugby-world-cup",         "Rugby World Cup"),
+    11: ("rugby-nrl",               "NRL"),
+    12: ("rugby-super-league",      "Super League"),
 }
-
-BLOCKED_KEYWORDS = ("friendly", "exhibition", ".u20")
-
-
-def is_valid_slug(slug: str) -> bool:
-    return not any(kw in slug.lower() for kw in BLOCKED_KEYWORDS)
 
 
 def main():
     today = datetime.now(timezone.utc).date()
-    date_from = (today - timedelta(days=PAST_DAYS)).strftime("%Y%m%d")
-    date_to = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y%m%d")
+    date_from = (today - timedelta(days=PAST_DAYS)).strftime("%Y-%m-%d")
+    date_to = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y-%m-%d")
+    date_from_s = date_from.replace("-", "")
+    date_to_s = date_to.replace("-", "")
+    season = today.year if today.month >= 2 else today.year - 1
 
-    print(f"Scraping {len(TARGET_LEAGUES)} targeted rugby competitions ({date_from} to {date_to})...", file=sys.stderr)
-    written, skipped = 0, 0
+    client = ApiSportsClient("rugby")
+    written = skipped = 0
 
-    for (sport, slug), preferred_name in TARGET_LEAGUES.items():
-        if not is_valid_slug(slug):
-            continue
-
-        print(f"Fetching: {preferred_name} [{sport}/{slug}]", file=sys.stderr)
+    for league_id, (sport_key, league_name) in TARGET_LEAGUES.items():
+        slug = sport_key.replace("rugby-", "")
+        print(f"Fetching {league_name}...", file=sys.stderr)
         try:
-            events = build_events(
-                sport=sport,
-                league_slug=slug,
-                id_prefix=f"rugby-{slug}",
-                sport_key=f"rugby-{slug}",
-                date_from=date_from,
-                date_to=date_to,
-                round_prefix="Round",
-            )
+            data = client._get("games", {"league": league_id, "season": season, "date": date_from})
+            fixtures = (data or {}).get("response", [])
         except Exception as err:
-            print(f"  ERROR: {sport}/{slug} failed ({err!r}), skipping.", file=sys.stderr)
-            continue
-
-        if len(events) < MIN_EVENTS_THRESHOLD:
-            print(f"  {slug}: only {len(events)} events, skipping.", file=sys.stderr)
+            print(f"  ERROR: {err!r}", file=sys.stderr)
             skipped += 1
             continue
 
-        league_name = fetch_league_name(sport, slug)
-        display_name = preferred_name if league_name == slug else league_name
-
-        output_path = OUTPUT_DIR / f"{slug}.json"
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(
-            json.dumps(
-                {
-                    "sportKey": f"rugby-{slug}",
-                    "leagueName": display_name,
-                    "windowFrom": date_from,
-                    "windowTo": date_to,
-                    "events": events,
-                },
-                indent=2,
-            )
-            + "\n"
+        normalised = [
+            {
+                "teams": g.get("teams"),
+                "fixture": {"date": g.get("date")},
+                "league": {"round": g.get("week")},
+            }
+            for g in fixtures
+        ]
+        events = build_events_from_fixtures(normalised, slug, sport_key)
+        ok = write_league_file(
+            OUTPUT_DIR / f"{slug}.json",
+            sport_key,
+            league_name,
+            date_from_s,
+            date_to_s,
+            events,
+            MIN_EVENTS,
         )
-        print(f"  Wrote {len(events)} events to {output_path.name}", file=sys.stderr)
-        written += 1
+        if ok:
+            written += 1
+        else:
+            skipped += 1
 
-    print(f"\nCompleted: {written} written, {skipped} skipped.", file=sys.stderr)
+    print(f"Done: {written} written, {skipped} skipped.", file=sys.stderr)
 
 
 if __name__ == "__main__":

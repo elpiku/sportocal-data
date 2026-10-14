@@ -18,12 +18,6 @@ Three sources, three different jobs:
     each weekend - the PDFs themselves don't include the sponsor race
     name, just track name and session times.
 
-  - ESPN's Core API is kept as a season-wide fallback: if the PDF
-    pipeline comes back with nothing at all (e.g. Jayski's page structure
-    changes), this falls back to ESPN for race-only events, same as the
-    previous version of this script. It cannot supply practice/qualifying
-    since ESPN's NASCAR feed doesn't expose separate sessions.
-
 Two other sources were considered and dropped entirely - see the notes
 above the JAYSKI_* URLs below.
 
@@ -59,11 +53,6 @@ JAYSKI_SCHEDULE_URL = f"https://www.jayski.com/nascar-cup-series/{SEASON_YEAR}-n
 # contains no event data to scrape (motorsport.com ships bare column
 # headers like "PRACTICE 1"/"QUALIFYING"/"RACE" with no rows; nascar.com
 # literally ships the text "Loading race information...").
-
-ESPN_CORE_API_URL = (
-    f"https://sports.core.api.espn.com/v2/sports/racing/leagues/nascar-premier/"
-    f"seasons/{SEASON_YEAR}/types/2/events?limit=100"
-)
 
 ET_TZ = ZoneInfo("America/New_York")
 UTC = ZoneInfo("UTC")
@@ -280,62 +269,6 @@ def fetch_pdf_based_events(jayski_titles: dict) -> list[dict]:
     return events
 
 
-# --- ESPN fallback (used only if the PDF pipeline yields nothing) ---------
-
-def to_utc_iso(date_str: str) -> str | None:
-    if not date_str:
-        return None
-    d = date_str.strip()
-    if d.endswith("Z"):
-        d = d[:-1] + "+00:00"
-    try:
-        dt = datetime.fromisoformat(d)
-    except ValueError:
-        return None
-    if dt.tzinfo is None:
-        dt = dt.replace(tzinfo=UTC)
-    return dt.astimezone(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
-
-
-def fetch_espn_fallback_events(jayski_titles: dict) -> list[dict]:
-    print("PDF pipeline produced nothing - falling back to ESPN (race-only)...", file=sys.stderr)
-    res = requests.get(ESPN_CORE_API_URL, headers=HEADERS, timeout=15)
-    res.raise_for_status()
-    items = res.json().get("items", [])
-
-    assign_id = make_unique_id_assigner()
-    events = []
-    for item in items:
-        event_url = item.get("$ref") if isinstance(item, dict) else item
-        if not event_url:
-            continue
-        try:
-            ev_res = requests.get(event_url, headers=HEADERS, timeout=10)
-            if ev_res.status_code != 200:
-                continue
-            ev = ev_res.json()
-        except requests.RequestException:
-            continue
-
-        utc_iso = to_utc_iso(ev.get("date"))
-        if not utc_iso:
-            continue
-        espn_name = ev.get("name") or ev.get("shortName") or "NASCAR Cup Race"
-
-        local_dt = datetime.strptime(utc_iso, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=UTC).astimezone(ET_TZ)
-        weekend_name = jayski_titles.get((local_dt.month, local_dt.day), espn_name)
-
-        base_id = f"cup-{SEASON_YEAR}-{slugify(weekend_name)}-race"
-        events.append({
-            "id": assign_id(base_id),
-            "weekend": weekend_name,
-            "name": "Race",
-            "utc": utc_iso,
-        })
-
-    return events
-
-
 def main():
     print("Fetching official race titles from Jayski...", file=sys.stderr)
     try:
@@ -347,9 +280,6 @@ def main():
 
     events = fetch_pdf_based_events(jayski_titles)
     print(f"Parsed {len(events)} sessions from PDFs", file=sys.stderr)
-
-    if not events:
-        events = fetch_espn_fallback_events(jayski_titles)
 
     events.sort(key=lambda e: e["utc"])
 

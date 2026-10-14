@@ -1,33 +1,12 @@
 #!/usr/bin/env python3
 """
-Builds a single index.json at the repo root listing every available
-league/competition file in the repo - so a consuming app (or anything
-else) can fetch ONE file and get the full, always-current list instead
-of hardcoding every path.
+Builds a single index.json listing every available league/competition
+file in the repo.
 
-Two kinds of files get indexed, handled differently:
+Indexed files carry sportKey + events fields and may have a leagueName.
+CURATED_NAMES maps sportKey -> display name for those that don't.
 
-  - "espn-all" bulk-discovered files (basketball/espn-all/wnba.json etc.)
-    already carry a "leagueName" field written by basketball_generic.py /
-    soccer_generic.py - fully self-describing, no manual work needed here
-    ever, even as new leagues get discovered or drop off.
-
-  - Curated files (motorsport/f1/2026.json etc.) don't carry a display
-    name in their own JSON, just a bare "sportKey" - CURATED_NAMES below
-    is the one place that needs a new line whenever a brand-new curated
-    scraper is added. That's the only manual step left anywhere in this
-    pipeline; the Android app itself never needs touching again.
-
-Stale duplicate seasons (e.g. basketball/nba/2026.json AND .../2027.json
-both existing because a scraper's very first successful run landed in a
-different file than an old manually-seeded placeholder) are resolved by
-keeping only the file with the highest year in its filename per folder.
-
-Non-schedule files (motorsport/wrc/championship.json, .../schedule.json -
-standings/calendar data, not the {sportKey, events} shape) are skipped
-since they don't fit this index's format.
-
-Run this from the repo root: python scripts/build_index.py
+Run from repo root: python scripts/build_index.py
 """
 
 import json
@@ -41,10 +20,13 @@ BASE_URL = "https://elpiku.github.io/sportocal-data"
 
 EXCLUDED_TOP_LEVEL = {".git", ".github", "scripts", "node_modules"}
 
-# The one place a human needs to add a line when a new *curated* (fixed-
-# path, non-"espn-all") scraper is introduced. Keyed by the "sportKey"
-# each script's own output already contains.
+# Folders that contain licensed API data
+LICENSED_FOLDERS = {"api-sports", "football-data", "balldontlie"}
+
+# Display names for curated (fixed-path) files keyed by sportKey.
+# Only needed when the JSON file itself doesn't carry a "leagueName" field.
 CURATED_NAMES = {
+    # Motorsport
     "f1": "Formula 1",
     "f2": "Formula 2",
     "f3": "Formula 3",
@@ -65,16 +47,26 @@ CURATED_NAMES = {
     "moto2": "Moto2",
     "moto3": "Moto3",
     "wec": "World Endurance Championship",
+    # Football (from football-data.org curated scripts)
     "premierleague": "Premier League",
     "laliga": "La Liga",
     "seriea": "Serie A",
     "bundesliga": "Bundesliga",
     "uefachampionsleague": "UEFA Champions League",
+    "uefaeuropaleague": "UEFA Europa League",
+    "uefaconferenceleague": "UEFA Conference League",
     "championsleague": "UEFA Champions League",
+    "ligue1": "Ligue 1",
+    "eredivisie": "Eredivisie",
+    "primeiraliga": "Primeira Liga",
+    "championship": "EFL Championship",
     "mls": "MLS",
+    # Basketball (curated)
     "nba": "NBA",
+    # Tennis (curated)
     "atp": "ATP Tour",
     "wta": "WTA Tour",
+    # Hockey (curated)
     "nhl": "NHL",
 }
 
@@ -87,31 +79,31 @@ def year_from_filename(path: Path) -> int:
 def find_all_json_files() -> list[Path]:
     return [
         p for p in REPO_ROOT.rglob("*.json")
-        if p.name != "index.json" and EXCLUDED_TOP_LEVEL.isdisjoint(p.relative_to(REPO_ROOT).parts)
+        if p.name != "index.json"
+        and EXCLUDED_TOP_LEVEL.isdisjoint(p.relative_to(REPO_ROOT).parts)
     ]
 
 
 def build_index() -> list[dict]:
     files = find_all_json_files()
 
-    # Group curated (non-espn-all) files by their parent folder so stale
-    # duplicate seasons in the same folder can be resolved to just the
-    # newest one before building final entries.
-    by_folder: dict[Path, list[Path]] = {}
-    espn_all_files: list[Path] = []
+    # Separate by provider folder type
+    licensed_files: list[Path] = []   # api-sports/, football-data/, balldontlie/
+    curated_by_folder: dict[Path, list[Path]] = {}  # everything else
 
     for f in files:
         rel = f.relative_to(REPO_ROOT)
-        if "espn-all" in rel.parts:
-            espn_all_files.append(f)
+        parts = set(rel.parts)
+        if parts & LICENSED_FOLDERS:
+            licensed_files.append(f)
         else:
-            by_folder.setdefault(f.parent, []).append(f)
+            curated_by_folder.setdefault(f.parent, []).append(f)
 
     entries = []
     skipped_no_name = 0
 
-    # Curated files: one winner per folder (highest season-year filename)
-    for folder, candidates in by_folder.items():
+    # ── Curated files (one winner per folder = highest year filename) ────────
+    for folder, candidates in curated_by_folder.items():
         candidates.sort(key=year_from_filename)
         chosen = candidates[-1]
         try:
@@ -121,15 +113,15 @@ def build_index() -> list[dict]:
             continue
 
         if "sportKey" not in data or "events" not in data:
-            continue  # not a schedule file (e.g. wrc/championship.json) - skip
+            continue  # non-schedule file (e.g. championship.json) — skip
 
         sport_key = data["sportKey"]
-        name = CURATED_NAMES.get(sport_key)
+        name = data.get("leagueName") or CURATED_NAMES.get(sport_key)
         if not name:
             skipped_no_name += 1
             print(
-                f"  WARNING: no display name for sportKey '{sport_key}' ({chosen.relative_to(REPO_ROOT)}) - "
-                f"add it to CURATED_NAMES in this script. Using the raw sportKey for now.",
+                f"  WARNING: no display name for sportKey '{sport_key}' "
+                f"({chosen.relative_to(REPO_ROOT)}) — add to CURATED_NAMES.",
                 file=sys.stderr,
             )
             name = sport_key
@@ -144,9 +136,8 @@ def build_index() -> list[dict]:
             "url": f"{BASE_URL}/{rel.as_posix()}",
         })
 
-    # espn-all files: self-describing via "leagueName", no dedup needed
-    # (each slug only ever has one file, no season-year in the filename)
-    for f in espn_all_files:
+    # ── Licensed API files (api-sports/, football-data/, etc.) ──────────────
+    for f in licensed_files:
         try:
             data = json.loads(f.read_text())
         except (json.JSONDecodeError, OSError) as err:
@@ -157,21 +148,28 @@ def build_index() -> list[dict]:
             continue
 
         rel = f.relative_to(REPO_ROOT)
+        provider_folder = next(
+            (p for p in rel.parts if p in LICENSED_FOLDERS), "licensed"
+        )
         entries.append({
-            "name": data.get("leagueName") or data["sportKey"],
+            "name": data.get("leagueName") or CURATED_NAMES.get(data["sportKey"], data["sportKey"]),
             "sportKey": data["sportKey"],
             "category": rel.parts[0],
-            "season": None,  # espn-all uses a rolling window, not a fixed season
+            "season": data.get("season"),
             "windowFrom": data.get("windowFrom"),
             "windowTo": data.get("windowTo"),
             "eventCount": len(data["events"]),
+            "provider": provider_folder,
             "url": f"{BASE_URL}/{rel.as_posix()}",
         })
 
     entries.sort(key=lambda e: (e["category"], e["name"]))
 
     if skipped_no_name:
-        print(f"\n{skipped_no_name} curated file(s) had no display name mapped - see warnings above.", file=sys.stderr)
+        print(
+            f"\n{skipped_no_name} curated file(s) had no display name — see warnings above.",
+            file=sys.stderr,
+        )
 
     return entries
 
@@ -179,7 +177,9 @@ def build_index() -> list[dict]:
 def main():
     entries = build_index()
     output = {
-        "generatedAt": __import__("datetime").datetime.now(__import__("datetime").timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "generatedAt": __import__("datetime").datetime.now(
+            __import__("datetime").timezone.utc
+        ).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "count": len(entries),
         "leagues": entries,
     }

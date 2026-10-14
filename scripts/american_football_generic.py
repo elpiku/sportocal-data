@@ -1,96 +1,72 @@
 #!/usr/bin/env python3
 """
-Targeted American Football Scraper for sportocal-data.
-Fetches NFL, College Football (NCAA), CFL, and UFL.
-Outputs to american-football/espn-all/<slug>.json.
+American football generic scraper — API-Sports american-football API.
+Covers NFL, NCAA College Football.
+
+Requires env var: API_SPORTS_KEY
+Output: american-football/api-sports/<slug>.json
 """
 
-import json
 import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from espn_core_api_common import build_events, fetch_league_name  # noqa: E402
+from api_sports_common import ApiSportsClient, build_events_from_fixtures, write_league_file  # noqa: E402
 
-SPORT = "football"
-PAST_DAYS = 14
+PAST_DAYS   = 14
 FUTURE_DAYS = 270
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "american-football" / "espn-all"
-MIN_EVENTS_THRESHOLD = 5
+OUTPUT_DIR  = Path(__file__).resolve().parent.parent / "american-football" / "api-sports"
+MIN_EVENTS  = 5
 
-TARGET_LEAGUES = {
-    # Top Professional & College
-    "nfl": "NFL",
-    "college-football": "NCAA College Football",
-    "cfl": "CFL (Canadian Football League)",
-    "ufl": "UFL (United Football League)",
+# API-Sports american-football league IDs
+TARGET_LEAGUES: dict[int, tuple[str, str]] = {
+    1:   ("american-football-nfl",            "National Football League"),
+    2:   ("american-football-college-football","NCAA College Football"),
+    3:   ("american-football-cfl",            "Canadian Football League"),
 }
-
-BLOCKED_KEYWORDS = ("exhibition", "pro_bowl")
-
-
-def is_valid_slug(slug: str) -> bool:
-    if slug not in TARGET_LEAGUES:
-        return False
-    return not any(kw in slug.lower() for kw in BLOCKED_KEYWORDS)
 
 
 def main():
-    today = datetime.now(timezone.utc).date()
-    date_from = (today - timedelta(days=PAST_DAYS)).strftime("%Y%m%d")
-    date_to = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y%m%d")
+    today       = datetime.now(timezone.utc).date()
+    date_from   = (today - timedelta(days=PAST_DAYS)).strftime("%Y-%m-%d")
+    date_to     = (today + timedelta(days=FUTURE_DAYS)).strftime("%Y-%m-%d")
+    date_from_s = date_from.replace("-", "")
+    date_to_s   = date_to.replace("-", "")
+    season = today.year if today.month >= 7 else today.year - 1
 
-    print(f"Scraping {len(TARGET_LEAGUES)} targeted football leagues ({date_from} to {date_to})...", file=sys.stderr)
-    written, skipped = 0, 0
+    client  = ApiSportsClient("american-football")
+    written = skipped = 0
 
-    for slug, preferred_name in TARGET_LEAGUES.items():
-        if not is_valid_slug(slug):
-            continue
+    env_ids = os.environ.get("AMFOOTBALL_LEAGUE_IDS", "")
+    targets = (
+        {int(i): TARGET_LEAGUES[int(i)] for i in env_ids.split(",")
+         if i.strip().isdigit() and int(i) in TARGET_LEAGUES}
+        if env_ids else TARGET_LEAGUES
+    )
 
-        print(f"Fetching: {preferred_name} [{slug}]", file=sys.stderr)
+    for league_id, (sport_key, league_name) in targets.items():
+        slug = sport_key.replace("american-football-", "")
+        print(f"Fetching {league_name} (id={league_id})…", file=sys.stderr)
         try:
-            events = build_events(
-                sport=SPORT,
-                league_slug=slug,
-                id_prefix=f"football-{slug}",
-                sport_key=f"american-football-{slug}",
-                date_from=date_from,
-                date_to=date_to,
-                round_prefix="Week",
-            )
+            data = client._get("games", {"league": league_id, "season": season})
+            fixtures = (data or {}).get("response", [])
         except Exception as err:
-            print(f"  ERROR: {slug} failed ({err!r}), skipping.", file=sys.stderr)
-            continue
+            print(f"  ERROR: {err!r}", file=sys.stderr); skipped += 1; continue
 
-        if len(events) < MIN_EVENTS_THRESHOLD:
-            print(f"  {slug}: only {len(events)} events, skipping.", file=sys.stderr)
-            skipped += 1
-            continue
+        normalised = [{
+            "teams":   g.get("teams"),
+            "fixture": {"date": (g.get("game") or {}).get("date", {}).get("date")},
+            "league":  {"round": (g.get("game") or {}).get("week")},
+        } for g in fixtures]
 
-        league_name = fetch_league_name(SPORT, slug)
-        display_name = preferred_name if league_name == slug else league_name
+        events = build_events_from_fixtures(normalised, slug, sport_key)
+        ok = write_league_file(OUTPUT_DIR / f"{slug}.json", sport_key, league_name,
+                               date_from_s, date_to_s, events, MIN_EVENTS)
+        written += ok; skipped += not ok
 
-        output_path = OUTPUT_DIR / f"{slug}.json"
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(
-            json.dumps(
-                {
-                    "sportKey": f"american-football-{slug}",
-                    "leagueName": display_name,
-                    "windowFrom": date_from,
-                    "windowTo": date_to,
-                    "events": events,
-                },
-                indent=2,
-            )
-            + "\n"
-        )
-        print(f"  Wrote {len(events)} events to {output_path.name}", file=sys.stderr)
-        written += 1
-
-    print(f"\nCompleted: {written} written, {skipped} skipped.", file=sys.stderr)
+    print(f"\nDone: {written} written, {skipped} skipped.", file=sys.stderr)
 
 
 if __name__ == "__main__":

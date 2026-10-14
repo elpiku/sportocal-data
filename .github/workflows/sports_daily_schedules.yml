@@ -1,14 +1,13 @@
-name: Daily Multi-Sport Schedules Scraper
+name: Daily Sports Data Update (API-Sports)
+
+# Master daily workflow that refreshes all API-Sports-powered sports:
+# american football, hockey, rugby, tennis, MMA, volleyball, handball, baseball, AFL.
+# Football and basketball have their own dedicated workflows.
 
 on:
   schedule:
-    # Runs every 6 hours to keep all sports, leagues, rosters, and countries fresh
-    - cron: '0 */6 * * *'
+    - cron: '0 5 * * *'   # daily at 05:00 UTC
   workflow_dispatch:
-
-concurrency:
-  group: sportocal-data-sync
-  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -17,171 +16,75 @@ jobs:
   scrape-all-sports:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
 
-      - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests beautifulsoup4 python-dateutil pytz pypdf playwright
-          if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
+      - run: pip install -r scripts/requirements.txt
 
-      - name: Run American Football Scraper
-        run: python scripts/american_football_generic.py || true
+      - name: American Football (NFL + NCAA)
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python scripts/american_football_generic.py
 
-      - name: Run Baseball Scraper
-        run: python scripts/baseball_generic.py || true
+      - name: Ice Hockey (NHL, PWHL, IIHF)
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python scripts/hockey_generic.py
 
-      - name: Run Basketball Scraper
-        run: python scripts/basketball_generic.py || true
+      - name: Rugby (Six Nations, Super Rugby, NRL, etc.)
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python scripts/rugby_generic.py
 
-      - name: Run Hockey Scraper
-        run: python scripts/hockey_generic.py || true
+      - name: Tennis (ATP, WTA)
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python scripts/tennis_generic.py
 
-      - name: Run Soccer Generic Scraper
-        run: python scripts/soccer_generic.py || true
+      - name: MMA (UFC, PFL, Bellator)
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python scripts/mma_generic.py
 
-      - name: Run MMA Scraper
-        run: python scripts/mma_generic.py || true
+      - name: Volleyball
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python scripts/volleyball_generic.py
 
-      - name: Run Rugby Scraper
-        run: python scripts/rugby_generic.py || true
+      - name: Handball
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python scripts/handball_generic.py
 
-      - name: Run Cricket Scraper
-        run: python scripts/cricket_generic.py || true
+      - name: Baseball (MLB, NPB, KBO, College)
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python scripts/baseball_generic.py
 
-      - name: Run Australian Rules Football Scraper
-        run: python scripts/australian_football_generic.py || true
+      - name: AFL (Australian Football)
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python scripts/australian_football_generic.py
 
-      - name: Run Golf Scraper
-        run: python scripts/golf_generic.py || true
-
-      - name: Run Tennis Scraper
-        run: python scripts/tennis_generic.py || true
-
-      - name: Run Boxing Scraper
-        run: python scripts/boxing_generic.py || true
-
-      - name: Run Softball Scraper
-        run: python scripts/softball_generic.py || true
-
-      - name: Run Lacrosse Scraper
-        run: python scripts/lacrosse_generic.py || true
-
-      - name: Run Volleyball Scraper
-        run: python scripts/volleyball_generic.py || true
-
-      - name: Run Gymnastics Scraper
-        run: python scripts/gymnastics_generic.py || true
-
-      - name: Run Wrestling Scraper
-        run: python scripts/wrestling_generic.py || true
-
-      - name: Run Action Sports Scraper
-        run: python scripts/action_sports_generic.py || true
-
-      - name: Run Water Polo Scraper
-        run: python scripts/water_polo_generic.py || true
-
-      - name: Run Premier League Scraper
-        run: python scripts/premier_league.py || true
-
-      - name: Run La Liga Scraper
-        run: python scripts/la_liga.py || true
-
-      - name: Run Bundesliga Scraper
-        run: python scripts/bundesliga.py || true
-
-      - name: Run Serie A Scraper
-        run: python scripts/serie_a.py || true
-
-      - name: Run Champions League Scraper
-        run: python scripts/champions_league.py || true
-
-      - name: Run MLS Scraper
-        run: python scripts/mls.py || true
-
-      - name: Run F1 Scraper
-        run: python scripts/scrape_f1.py || true
-
-      - name: Run F2 Scraper
-        run: python scripts/f2.py || true
-
-      - name: Run F3 Scraper
-        run: python scripts/f3.py || true
-
-      - name: Run GT World Challenge Europe Scraper
-        run: python scripts/gt_world_challenge_europe.py || true
-
-      - name: Run GB3 Championship Scraper
-        run: python scripts/gb3.py || true
-
-      - name: Run GB4 Championship Scraper
-        run: python scripts/gb4.py || true
-
-      - name: Run FRECA Scraper
-        run: python scripts/freca.py || true
-
-      - name: Run Italian F4 Scraper
-        run: python scripts/italian_f4.py || true
-
-      - name: Run TCR Europe Scraper
-        run: python scripts/tcr_europe.py || true
-
-      - name: Run IMSA Scraper
-        run: python scripts/imsa.py || true
-
-      - name: Run Super Formula Scraper
-        run: python scripts/super_formula.py || true
-
-      - name: Run MotoGP Scraper
-        run: python scripts/motogp.py || true
-
-      - name: Run WRC Scraper
-        run: python scripts/wrc_scraper.py || true
-
-      - name: Run IndyCar Scraper
-        run: python scripts/scrape_indycar.py || true
-
-      - name: Run WEC Scraper
-        run: python scripts/wec_schedule_scraper.py || true
-
-      - name: Run NASCAR Cup Scraper
-        run: python scripts/nascar_cup.py || true
-
-      - name: Run NASCAR O'Reilly Scraper
-        run: python scripts/nascar_oreilly.py || true
-
-      - name: Run NASCAR Truck Scraper
-        run: python scripts/nascar_truck.py || true
-
-      - name: Run Players Scraper
-        run: python scripts/scrape_players.py || true
-
-      - name: Run Countries Scraper
-        run: python scripts/scrape_countries.py || true
-
-      - name: Rebuild index.json
+      - name: Rebuild index
         run: python scripts/build_index.py
 
-      - name: Commit and push updated schedules
+      - name: Commit and push if changed
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if ! git diff-index --quiet --cached HEAD; then
-            git commit -m "chore(schedules): update daily multi-sport schedules and index.json"
-            for i in 1 2 3 4 5; do
-              git push origin main && exit 0
-              echo "Push rejected (another workflow likely pushed first) - pulling and retrying ($i/5)..."
-              git pull --rebase origin main
-              sleep $((RANDOM % 10 + 1))
-            done
-            echo "Failed to push after 5 attempts" >&2
-            exit 1
-          fi
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add american-football/ hockey/ rugby/ tennis/ mma/ volleyball/ handball/ baseball/ australian-football/ index.json
+          git diff --quiet && git diff --staged --quiet && exit 0
+          git commit -m "Auto-update daily sports schedules [skip ci]"
+          for i in $(seq 1 10); do
+            git push && exit 0
+            echo "Push rejected - retrying ($i/10)..."
+            git pull --rebase origin main
+            sleep $((RANDOM % 15 + 1))
+          done
+          exit 1
