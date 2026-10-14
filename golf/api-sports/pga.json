@@ -1,21 +1,9 @@
 {
   "sportKey": "golf-pga",
-  "leagueName": "PGA TOUR",
-  "windowFrom": "20260912",
-  "windowTo": "20270623",
+  "leagueName": "PGA Tour",
+  "windowFrom": "20260930",
+  "windowTo": "20270711",
   "events": [
-    {
-      "id": "golf-pga-2026-09-17-biltmore-championship-asheville",
-      "weekend": "2026-09-17",
-      "name": "Biltmore Championship Asheville",
-      "utc": "2026-09-17T04:00:00Z"
-    },
-    {
-      "id": "golf-pga-2026-09-24-presidents-cup",
-      "weekend": "2026-09-24",
-      "name": "Presidents Cup",
-      "utc": "2026-09-24T04:00:00Z"
-    },
     {
       "id": "golf-pga-2026-10-01-bank-of-utah-championship",
       "weekend": "2026-10-01",
@@ -213,6 +201,30 @@
       "weekend": "2027-06-17",
       "name": "U.S. Open",
       "utc": "2027-06-17T04:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-06-24-travelers-championship",
+      "weekend": "2027-06-24",
+      "name": "Travelers Championship",
+      "utc": "2027-06-24T04:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-07-01-john-deere-classic",
+      "weekend": "2027-07-01",
+      "name": "John Deere Classic",
+      "utc": "2027-07-01T04:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-07-08-genesis-scottish-open",
+      "weekend": "2027-07-08",
+      "name": "Genesis Scottish Open",
+      "utc": "2027-07-08T04:00:00Z"
+    },
+    {
+      "id": "golf-pga-2027-07-08-isco-championship",
+      "weekend": "2027-07-08",
+      "name": "ISCO Championship",
+      "utc": "2027-07-08T04:00:00Z"
     }
   ]
 }
