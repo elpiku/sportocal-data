@@ -1,1841 +1,1843 @@
 {
   "sportKey": "bundesliga",
-  "season": "2026-27",
+  "leagueName": "Bundesliga",
+  "windowFrom": "20260701",
+  "windowTo": "20270630",
   "events": [
     {
-      "id": "bundesliga-2026-08-28-bayern-munich-vfb-stuttgart",
-      "weekend": "2026-08-28",
-      "name": "Bayern Munich v VfB Stuttgart",
+      "id": "bl-2026-08-28-bayern-v-stuttgart",
+      "weekend": "Matchday 1",
+      "name": "Bayern v Stuttgart",
       "utc": "2026-08-28T18:30:00Z"
     },
     {
-      "id": "bundesliga-2026-08-29-1-fc-union-berlin-eintracht-frankfurt",
-      "weekend": "2026-08-29",
-      "name": "1. FC Union Berlin v Eintracht Frankfurt",
+      "id": "bl-2026-08-29-rb-leipzig-v-m-gladbach",
+      "weekend": "Matchday 1",
+      "name": "RB Leipzig v M'gladbach",
       "utc": "2026-08-29T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-08-29-fc-cologne-tsg-hoffenheim",
-      "weekend": "2026-08-29",
-      "name": "FC Cologne v TSG Hoffenheim",
+      "id": "bl-2026-08-29-mainz-v-sc-paderborn",
+      "weekend": "Matchday 1",
+      "name": "Mainz v SC Paderborn",
       "utc": "2026-08-29T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-08-29-mainz-sc-paderborn-07",
-      "weekend": "2026-08-29",
-      "name": "Mainz v SC Paderborn 07",
+      "id": "bl-2026-08-29-union-berlin-v-frankfurt",
+      "weekend": "Matchday 1",
+      "name": "Union Berlin v Frankfurt",
       "utc": "2026-08-29T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-08-29-rb-leipzig-borussia-m-nchengladbach",
-      "weekend": "2026-08-29",
-      "name": "RB Leipzig v Borussia M\u00f6nchengladbach",
+      "id": "bl-2026-08-29-elversberg-v-leverkusen",
+      "weekend": "Matchday 1",
+      "name": "Elversberg v Leverkusen",
       "utc": "2026-08-29T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-08-29-sv-elversberg-bayer-leverkusen",
-      "weekend": "2026-08-29",
-      "name": "SV Elversberg v Bayer Leverkusen",
+      "id": "bl-2026-08-29-1-fc-k-ln-v-hoffenheim",
+      "weekend": "Matchday 1",
+      "name": "1. FC K\u00f6ln v Hoffenheim",
       "utc": "2026-08-29T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-08-29-borussia-dortmund-hamburg-sv",
-      "weekend": "2026-08-29",
-      "name": "Borussia Dortmund v Hamburg SV",
+      "id": "bl-2026-08-29-dortmund-v-hsv",
+      "weekend": "Matchday 1",
+      "name": "Dortmund v HSV",
       "utc": "2026-08-29T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-08-30-sc-freiburg-werder-bremen",
-      "weekend": "2026-08-30",
-      "name": "SC Freiburg v Werder Bremen",
+      "id": "bl-2026-08-30-freiburg-v-bremen",
+      "weekend": "Matchday 1",
+      "name": "Freiburg v Bremen",
       "utc": "2026-08-30T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-08-30-fc-augsburg-schalke-04",
-      "weekend": "2026-08-30",
-      "name": "FC Augsburg v Schalke 04",
+      "id": "bl-2026-08-30-augsburg-v-schalke",
+      "weekend": "Matchday 1",
+      "name": "Augsburg v Schalke",
       "utc": "2026-08-30T15:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-04-vfb-stuttgart-fc-cologne",
-      "weekend": "2026-09-04",
-      "name": "VfB Stuttgart v FC Cologne",
+      "id": "bl-2026-09-04-stuttgart-v-1-fc-k-ln",
+      "weekend": "Matchday 2",
+      "name": "Stuttgart v 1. FC K\u00f6ln",
       "utc": "2026-09-04T18:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-05-bayer-leverkusen-1-fc-union-berlin",
-      "weekend": "2026-09-05",
-      "name": "Bayer Leverkusen v 1. FC Union Berlin",
+      "id": "bl-2026-09-05-bremen-v-rb-leipzig",
+      "weekend": "Matchday 2",
+      "name": "Bremen v RB Leipzig",
       "utc": "2026-09-05T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-05-borussia-m-nchengladbach-sv-elversberg",
-      "weekend": "2026-09-05",
-      "name": "Borussia M\u00f6nchengladbach v SV Elversberg",
+      "id": "bl-2026-09-05-hoffenheim-v-dortmund",
+      "weekend": "Matchday 2",
+      "name": "Hoffenheim v Dortmund",
       "utc": "2026-09-05T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-05-sc-paderborn-07-sc-freiburg",
-      "weekend": "2026-09-05",
-      "name": "SC Paderborn 07 v SC Freiburg",
+      "id": "bl-2026-09-05-leverkusen-v-union-berlin",
+      "weekend": "Matchday 2",
+      "name": "Leverkusen v Union Berlin",
       "utc": "2026-09-05T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-05-tsg-hoffenheim-borussia-dortmund",
-      "weekend": "2026-09-05",
-      "name": "TSG Hoffenheim v Borussia Dortmund",
+      "id": "bl-2026-09-05-m-gladbach-v-elversberg",
+      "weekend": "Matchday 2",
+      "name": "M'gladbach v Elversberg",
       "utc": "2026-09-05T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-05-werder-bremen-rb-leipzig",
-      "weekend": "2026-09-05",
-      "name": "Werder Bremen v RB Leipzig",
+      "id": "bl-2026-09-05-sc-paderborn-v-freiburg",
+      "weekend": "Matchday 2",
+      "name": "SC Paderborn v Freiburg",
       "utc": "2026-09-05T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-05-schalke-04-bayern-munich",
-      "weekend": "2026-09-05",
-      "name": "Schalke 04 v Bayern Munich",
+      "id": "bl-2026-09-05-schalke-v-bayern",
+      "weekend": "Matchday 2",
+      "name": "Schalke v Bayern",
       "utc": "2026-09-05T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-06-hamburg-sv-mainz",
-      "weekend": "2026-09-06",
-      "name": "Hamburg SV v Mainz",
+      "id": "bl-2026-09-06-hsv-v-mainz",
+      "weekend": "Matchday 2",
+      "name": "HSV v Mainz",
       "utc": "2026-09-06T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-06-eintracht-frankfurt-fc-augsburg",
-      "weekend": "2026-09-06",
-      "name": "Eintracht Frankfurt v FC Augsburg",
+      "id": "bl-2026-09-06-frankfurt-v-augsburg",
+      "weekend": "Matchday 2",
+      "name": "Frankfurt v Augsburg",
       "utc": "2026-09-06T15:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-11-1-fc-union-berlin-schalke-04",
-      "weekend": "2026-09-11",
-      "name": "1. FC Union Berlin v Schalke 04",
+      "id": "bl-2026-09-11-union-berlin-v-schalke",
+      "weekend": "Matchday 3",
+      "name": "Union Berlin v Schalke",
       "utc": "2026-09-11T18:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-12-borussia-dortmund-sc-paderborn-07",
-      "weekend": "2026-09-12",
-      "name": "Borussia Dortmund v SC Paderborn 07",
+      "id": "bl-2026-09-12-hoffenheim-v-stuttgart",
+      "weekend": "Matchday 3",
+      "name": "Hoffenheim v Stuttgart",
       "utc": "2026-09-12T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-12-fc-augsburg-bayer-leverkusen",
-      "weekend": "2026-09-12",
-      "name": "FC Augsburg v Bayer Leverkusen",
+      "id": "bl-2026-09-12-dortmund-v-sc-paderborn",
+      "weekend": "Matchday 3",
+      "name": "Dortmund v SC Paderborn",
       "utc": "2026-09-12T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-12-mainz-eintracht-frankfurt",
-      "weekend": "2026-09-12",
-      "name": "Mainz v Eintracht Frankfurt",
+      "id": "bl-2026-09-12-augsburg-v-leverkusen",
+      "weekend": "Matchday 3",
+      "name": "Augsburg v Leverkusen",
       "utc": "2026-09-12T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-12-sc-freiburg-borussia-m-nchengladbach",
-      "weekend": "2026-09-12",
-      "name": "SC Freiburg v Borussia M\u00f6nchengladbach",
+      "id": "bl-2026-09-12-mainz-v-frankfurt",
+      "weekend": "Matchday 3",
+      "name": "Mainz v Frankfurt",
       "utc": "2026-09-12T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-12-tsg-hoffenheim-vfb-stuttgart",
-      "weekend": "2026-09-12",
-      "name": "TSG Hoffenheim v VfB Stuttgart",
+      "id": "bl-2026-09-12-freiburg-v-m-gladbach",
+      "weekend": "Matchday 3",
+      "name": "Freiburg v M'gladbach",
       "utc": "2026-09-12T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-12-fc-cologne-werder-bremen",
-      "weekend": "2026-09-12",
-      "name": "FC Cologne v Werder Bremen",
+      "id": "bl-2026-09-12-1-fc-k-ln-v-bremen",
+      "weekend": "Matchday 3",
+      "name": "1. FC K\u00f6ln v Bremen",
       "utc": "2026-09-12T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-13-rb-leipzig-hamburg-sv",
-      "weekend": "2026-09-13",
-      "name": "RB Leipzig v Hamburg SV",
+      "id": "bl-2026-09-13-rb-leipzig-v-hsv",
+      "weekend": "Matchday 3",
+      "name": "RB Leipzig v HSV",
       "utc": "2026-09-13T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-13-sv-elversberg-bayern-munich",
-      "weekend": "2026-09-13",
-      "name": "SV Elversberg v Bayern Munich",
+      "id": "bl-2026-09-13-elversberg-v-bayern",
+      "weekend": "Matchday 3",
+      "name": "Elversberg v Bayern",
       "utc": "2026-09-13T15:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-18-bayern-munich-1-fc-union-berlin",
-      "weekend": "2026-09-18",
-      "name": "Bayern Munich v 1. FC Union Berlin",
+      "id": "bl-2026-09-18-bayern-v-union-berlin",
+      "weekend": "Matchday 4",
+      "name": "Bayern v Union Berlin",
       "utc": "2026-09-18T18:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-19-borussia-m-nchengladbach-mainz",
-      "weekend": "2026-09-19",
-      "name": "Borussia M\u00f6nchengladbach v Mainz",
+      "id": "bl-2026-09-19-hsv-v-1-fc-k-ln",
+      "weekend": "Matchday 4",
+      "name": "HSV v 1. FC K\u00f6ln",
       "utc": "2026-09-19T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-19-eintracht-frankfurt-sc-freiburg",
-      "weekend": "2026-09-19",
-      "name": "Eintracht Frankfurt v SC Freiburg",
+      "id": "bl-2026-09-19-m-gladbach-v-mainz",
+      "weekend": "Matchday 4",
+      "name": "M'gladbach v Mainz",
       "utc": "2026-09-19T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-19-hamburg-sv-fc-cologne",
-      "weekend": "2026-09-19",
-      "name": "Hamburg SV v FC Cologne",
+      "id": "bl-2026-09-19-bremen-v-augsburg",
+      "weekend": "Matchday 4",
+      "name": "Bremen v Augsburg",
       "utc": "2026-09-19T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-19-werder-bremen-fc-augsburg",
-      "weekend": "2026-09-19",
-      "name": "Werder Bremen v FC Augsburg",
+      "id": "bl-2026-09-19-frankfurt-v-freiburg",
+      "weekend": "Matchday 4",
+      "name": "Frankfurt v Freiburg",
       "utc": "2026-09-19T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-19-vfb-stuttgart-borussia-dortmund",
-      "weekend": "2026-09-19",
-      "name": "VfB Stuttgart v Borussia Dortmund",
+      "id": "bl-2026-09-19-stuttgart-v-dortmund",
+      "weekend": "Matchday 4",
+      "name": "Stuttgart v Dortmund",
       "utc": "2026-09-19T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-20-bayer-leverkusen-rb-leipzig",
-      "weekend": "2026-09-20",
-      "name": "Bayer Leverkusen v RB Leipzig",
+      "id": "bl-2026-09-20-leverkusen-v-rb-leipzig",
+      "weekend": "Matchday 4",
+      "name": "Leverkusen v RB Leipzig",
       "utc": "2026-09-20T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-20-schalke-04-sv-elversberg",
-      "weekend": "2026-09-20",
-      "name": "Schalke 04 v SV Elversberg",
+      "id": "bl-2026-09-20-schalke-v-elversberg",
+      "weekend": "Matchday 4",
+      "name": "Schalke v Elversberg",
       "utc": "2026-09-20T15:30:00Z"
     },
     {
-      "id": "bundesliga-2026-09-20-sc-paderborn-07-tsg-hoffenheim",
-      "weekend": "2026-09-20",
-      "name": "SC Paderborn 07 v TSG Hoffenheim",
+      "id": "bl-2026-09-20-sc-paderborn-v-hoffenheim",
+      "weekend": "Matchday 4",
+      "name": "SC Paderborn v Hoffenheim",
       "utc": "2026-09-20T17:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-10-1-fc-union-berlin-sv-elversberg",
-      "weekend": "2026-10-10",
-      "name": "1. FC Union Berlin v SV Elversberg",
-      "utc": "2026-10-10T18:00:00Z"
+      "id": "bl-2026-10-09-dortmund-v-bremen",
+      "weekend": "Matchday 5",
+      "name": "Dortmund v Bremen",
+      "utc": "2026-10-09T18:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-10-borussia-dortmund-werder-bremen",
-      "weekend": "2026-10-10",
-      "name": "Borussia Dortmund v Werder Bremen",
-      "utc": "2026-10-10T18:00:00Z"
+      "id": "bl-2026-10-10-mainz-v-leverkusen",
+      "weekend": "Matchday 5",
+      "name": "Mainz v Leverkusen",
+      "utc": "2026-10-10T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-10-fc-augsburg-bayern-munich",
-      "weekend": "2026-10-10",
-      "name": "FC Augsburg v Bayern Munich",
-      "utc": "2026-10-10T18:00:00Z"
+      "id": "bl-2026-10-10-sc-paderborn-v-stuttgart",
+      "weekend": "Matchday 5",
+      "name": "SC Paderborn v Stuttgart",
+      "utc": "2026-10-10T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-10-fc-cologne-borussia-m-nchengladbach",
-      "weekend": "2026-10-10",
-      "name": "FC Cologne v Borussia M\u00f6nchengladbach",
-      "utc": "2026-10-10T18:00:00Z"
+      "id": "bl-2026-10-10-union-berlin-v-elversberg",
+      "weekend": "Matchday 5",
+      "name": "Union Berlin v Elversberg",
+      "utc": "2026-10-10T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-10-mainz-bayer-leverkusen",
-      "weekend": "2026-10-10",
-      "name": "Mainz v Bayer Leverkusen",
-      "utc": "2026-10-10T18:00:00Z"
+      "id": "bl-2026-10-10-hoffenheim-v-hsv",
+      "weekend": "Matchday 5",
+      "name": "Hoffenheim v HSV",
+      "utc": "2026-10-10T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-10-rb-leipzig-eintracht-frankfurt",
-      "weekend": "2026-10-10",
-      "name": "RB Leipzig v Eintracht Frankfurt",
-      "utc": "2026-10-10T18:00:00Z"
+      "id": "bl-2026-10-10-augsburg-v-bayern",
+      "weekend": "Matchday 5",
+      "name": "Augsburg v Bayern",
+      "utc": "2026-10-10T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-10-sc-freiburg-schalke-04",
-      "weekend": "2026-10-10",
-      "name": "SC Freiburg v Schalke 04",
-      "utc": "2026-10-10T18:00:00Z"
+      "id": "bl-2026-10-10-rb-leipzig-v-frankfurt",
+      "weekend": "Matchday 5",
+      "name": "RB Leipzig v Frankfurt",
+      "utc": "2026-10-10T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-10-sc-paderborn-07-vfb-stuttgart",
-      "weekend": "2026-10-10",
-      "name": "SC Paderborn 07 v VfB Stuttgart",
-      "utc": "2026-10-10T18:00:00Z"
+      "id": "bl-2026-10-11-1-fc-k-ln-v-m-gladbach",
+      "weekend": "Matchday 5",
+      "name": "1. FC K\u00f6ln v M'gladbach",
+      "utc": "2026-10-11T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-10-tsg-hoffenheim-hamburg-sv",
-      "weekend": "2026-10-10",
-      "name": "TSG Hoffenheim v Hamburg SV",
-      "utc": "2026-10-10T18:00:00Z"
+      "id": "bl-2026-10-11-freiburg-v-schalke",
+      "weekend": "Matchday 5",
+      "name": "Freiburg v Schalke",
+      "utc": "2026-10-11T15:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-17-1-fc-union-berlin-borussia-dortmund",
-      "weekend": "2026-10-17",
-      "name": "1. FC Union Berlin v Borussia Dortmund",
-      "utc": "2026-10-17T18:00:00Z"
+      "id": "bl-2026-10-16-frankfurt-v-1-fc-k-ln",
+      "weekend": "Matchday 6",
+      "name": "Frankfurt v 1. FC K\u00f6ln",
+      "utc": "2026-10-16T18:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-17-bayer-leverkusen-sc-freiburg",
-      "weekend": "2026-10-17",
-      "name": "Bayer Leverkusen v SC Freiburg",
-      "utc": "2026-10-17T18:00:00Z"
+      "id": "bl-2026-10-17-union-berlin-v-dortmund",
+      "weekend": "Matchday 6",
+      "name": "Union Berlin v Dortmund",
+      "utc": "2026-10-17T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-17-bayern-munich-rb-leipzig",
-      "weekend": "2026-10-17",
-      "name": "Bayern Munich v RB Leipzig",
-      "utc": "2026-10-17T18:00:00Z"
+      "id": "bl-2026-10-17-hsv-v-stuttgart",
+      "weekend": "Matchday 6",
+      "name": "HSV v Stuttgart",
+      "utc": "2026-10-17T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-17-borussia-m-nchengladbach-tsg-hoffenheim",
-      "weekend": "2026-10-17",
-      "name": "Borussia M\u00f6nchengladbach v TSG Hoffenheim",
-      "utc": "2026-10-17T18:00:00Z"
+      "id": "bl-2026-10-17-bremen-v-sc-paderborn",
+      "weekend": "Matchday 6",
+      "name": "Bremen v SC Paderborn",
+      "utc": "2026-10-17T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-17-eintracht-frankfurt-fc-cologne",
-      "weekend": "2026-10-17",
-      "name": "Eintracht Frankfurt v FC Cologne",
-      "utc": "2026-10-17T18:00:00Z"
+      "id": "bl-2026-10-17-elversberg-v-augsburg",
+      "weekend": "Matchday 6",
+      "name": "Elversberg v Augsburg",
+      "utc": "2026-10-17T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-17-hamburg-sv-vfb-stuttgart",
-      "weekend": "2026-10-17",
-      "name": "Hamburg SV v VfB Stuttgart",
-      "utc": "2026-10-17T18:00:00Z"
+      "id": "bl-2026-10-17-schalke-v-mainz",
+      "weekend": "Matchday 6",
+      "name": "Schalke v Mainz",
+      "utc": "2026-10-17T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-17-schalke-04-mainz",
-      "weekend": "2026-10-17",
-      "name": "Schalke 04 v Mainz",
-      "utc": "2026-10-17T18:00:00Z"
+      "id": "bl-2026-10-17-bayern-v-rb-leipzig",
+      "weekend": "Matchday 6",
+      "name": "Bayern v RB Leipzig",
+      "utc": "2026-10-17T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-17-sv-elversberg-fc-augsburg",
-      "weekend": "2026-10-17",
-      "name": "SV Elversberg v FC Augsburg",
-      "utc": "2026-10-17T18:00:00Z"
+      "id": "bl-2026-10-18-leverkusen-v-freiburg",
+      "weekend": "Matchday 6",
+      "name": "Leverkusen v Freiburg",
+      "utc": "2026-10-18T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-17-werder-bremen-sc-paderborn-07",
-      "weekend": "2026-10-17",
-      "name": "Werder Bremen v SC Paderborn 07",
-      "utc": "2026-10-17T18:00:00Z"
+      "id": "bl-2026-10-18-m-gladbach-v-hoffenheim",
+      "weekend": "Matchday 6",
+      "name": "M'gladbach v Hoffenheim",
+      "utc": "2026-10-18T15:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-24-borussia-dortmund-eintracht-frankfurt",
-      "weekend": "2026-10-24",
-      "name": "Borussia Dortmund v Eintracht Frankfurt",
-      "utc": "2026-10-24T18:00:00Z"
+      "id": "bl-2026-10-23-stuttgart-v-m-gladbach",
+      "weekend": "Matchday 7",
+      "name": "Stuttgart v M'gladbach",
+      "utc": "2026-10-23T18:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-24-fc-augsburg-1-fc-union-berlin",
-      "weekend": "2026-10-24",
-      "name": "FC Augsburg v 1. FC Union Berlin",
-      "utc": "2026-10-24T18:00:00Z"
+      "id": "bl-2026-10-24-mainz-v-bremen",
+      "weekend": "Matchday 7",
+      "name": "Mainz v Bremen",
+      "utc": "2026-10-24T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-24-fc-cologne-schalke-04",
-      "weekend": "2026-10-24",
-      "name": "FC Cologne v Schalke 04",
-      "utc": "2026-10-24T18:00:00Z"
+      "id": "bl-2026-10-24-1-fc-k-ln-v-schalke",
+      "weekend": "Matchday 7",
+      "name": "1. FC K\u00f6ln v Schalke",
+      "utc": "2026-10-24T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-24-mainz-werder-bremen",
-      "weekend": "2026-10-24",
-      "name": "Mainz v Werder Bremen",
-      "utc": "2026-10-24T18:00:00Z"
+      "id": "bl-2026-10-24-rb-leipzig-v-elversberg",
+      "weekend": "Matchday 7",
+      "name": "RB Leipzig v Elversberg",
+      "utc": "2026-10-24T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-24-rb-leipzig-sv-elversberg",
-      "weekend": "2026-10-24",
-      "name": "RB Leipzig v SV Elversberg",
-      "utc": "2026-10-24T18:00:00Z"
+      "id": "bl-2026-10-24-sc-paderborn-v-hsv",
+      "weekend": "Matchday 7",
+      "name": "SC Paderborn v HSV",
+      "utc": "2026-10-24T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-24-sc-freiburg-bayern-munich",
-      "weekend": "2026-10-24",
-      "name": "SC Freiburg v Bayern Munich",
-      "utc": "2026-10-24T18:00:00Z"
+      "id": "bl-2026-10-24-augsburg-v-union-berlin",
+      "weekend": "Matchday 7",
+      "name": "Augsburg v Union Berlin",
+      "utc": "2026-10-24T13:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-24-sc-paderborn-07-hamburg-sv",
-      "weekend": "2026-10-24",
-      "name": "SC Paderborn 07 v Hamburg SV",
-      "utc": "2026-10-24T18:00:00Z"
+      "id": "bl-2026-10-24-dortmund-v-frankfurt",
+      "weekend": "Matchday 7",
+      "name": "Dortmund v Frankfurt",
+      "utc": "2026-10-24T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-24-tsg-hoffenheim-bayer-leverkusen",
-      "weekend": "2026-10-24",
-      "name": "TSG Hoffenheim v Bayer Leverkusen",
-      "utc": "2026-10-24T18:00:00Z"
+      "id": "bl-2026-10-25-hoffenheim-v-leverkusen",
+      "weekend": "Matchday 7",
+      "name": "Hoffenheim v Leverkusen",
+      "utc": "2026-10-25T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-24-vfb-stuttgart-borussia-m-nchengladbach",
-      "weekend": "2026-10-24",
-      "name": "VfB Stuttgart v Borussia M\u00f6nchengladbach",
-      "utc": "2026-10-24T18:00:00Z"
+      "id": "bl-2026-10-25-freiburg-v-bayern",
+      "weekend": "Matchday 7",
+      "name": "Freiburg v Bayern",
+      "utc": "2026-10-25T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-31-1-fc-union-berlin-fc-cologne",
-      "weekend": "2026-10-31",
-      "name": "1. FC Union Berlin v FC Cologne",
-      "utc": "2026-10-31T18:00:00Z"
+      "id": "bl-2026-10-30-elversberg-v-mainz",
+      "weekend": "Matchday 8",
+      "name": "Elversberg v Mainz",
+      "utc": "2026-10-30T19:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-31-bayer-leverkusen-vfb-stuttgart",
-      "weekend": "2026-10-31",
-      "name": "Bayer Leverkusen v VfB Stuttgart",
-      "utc": "2026-10-31T18:00:00Z"
+      "id": "bl-2026-10-31-m-gladbach-v-sc-paderborn",
+      "weekend": "Matchday 8",
+      "name": "M'gladbach v SC Paderborn",
+      "utc": "2026-10-31T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-31-bayern-munich-borussia-dortmund",
-      "weekend": "2026-10-31",
-      "name": "Bayern Munich v Borussia Dortmund",
-      "utc": "2026-10-31T18:00:00Z"
+      "id": "bl-2026-10-31-schalke-v-rb-leipzig",
+      "weekend": "Matchday 8",
+      "name": "Schalke v RB Leipzig",
+      "utc": "2026-10-31T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-31-borussia-m-nchengladbach-sc-paderborn-07",
-      "weekend": "2026-10-31",
-      "name": "Borussia M\u00f6nchengladbach v SC Paderborn 07",
-      "utc": "2026-10-31T18:00:00Z"
+      "id": "bl-2026-10-31-augsburg-v-freiburg",
+      "weekend": "Matchday 8",
+      "name": "Augsburg v Freiburg",
+      "utc": "2026-10-31T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-31-eintracht-frankfurt-hamburg-sv",
-      "weekend": "2026-10-31",
-      "name": "Eintracht Frankfurt v Hamburg SV",
-      "utc": "2026-10-31T18:00:00Z"
+      "id": "bl-2026-10-31-bremen-v-hoffenheim",
+      "weekend": "Matchday 8",
+      "name": "Bremen v Hoffenheim",
+      "utc": "2026-10-31T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-31-fc-augsburg-sc-freiburg",
-      "weekend": "2026-10-31",
-      "name": "FC Augsburg v SC Freiburg",
-      "utc": "2026-10-31T18:00:00Z"
+      "id": "bl-2026-10-31-leverkusen-v-stuttgart",
+      "weekend": "Matchday 8",
+      "name": "Leverkusen v Stuttgart",
+      "utc": "2026-10-31T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-31-schalke-04-rb-leipzig",
-      "weekend": "2026-10-31",
-      "name": "Schalke 04 v RB Leipzig",
-      "utc": "2026-10-31T18:00:00Z"
+      "id": "bl-2026-10-31-bayern-v-dortmund",
+      "weekend": "Matchday 8",
+      "name": "Bayern v Dortmund",
+      "utc": "2026-10-31T17:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-31-sv-elversberg-mainz",
-      "weekend": "2026-10-31",
-      "name": "SV Elversberg v Mainz",
-      "utc": "2026-10-31T18:00:00Z"
+      "id": "bl-2026-11-01-union-berlin-v-1-fc-k-ln",
+      "weekend": "Matchday 8",
+      "name": "Union Berlin v 1. FC K\u00f6ln",
+      "utc": "2026-11-01T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-10-31-werder-bremen-tsg-hoffenheim",
-      "weekend": "2026-10-31",
-      "name": "Werder Bremen v TSG Hoffenheim",
-      "utc": "2026-10-31T18:00:00Z"
+      "id": "bl-2026-11-01-frankfurt-v-hsv",
+      "weekend": "Matchday 8",
+      "name": "Frankfurt v HSV",
+      "utc": "2026-11-01T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-07-borussia-dortmund-sv-elversberg",
-      "weekend": "2026-11-07",
-      "name": "Borussia Dortmund v SV Elversberg",
-      "utc": "2026-11-07T20:00:00Z"
+      "id": "bl-2026-11-06-hsv-v-m-gladbach",
+      "weekend": "Matchday 9",
+      "name": "HSV v M'gladbach",
+      "utc": "2026-11-06T19:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-07-fc-cologne-bayer-leverkusen",
-      "weekend": "2026-11-07",
-      "name": "FC Cologne v Bayer Leverkusen",
-      "utc": "2026-11-07T20:00:00Z"
+      "id": "bl-2026-11-07-rb-leipzig-v-augsburg",
+      "weekend": "Matchday 9",
+      "name": "RB Leipzig v Augsburg",
+      "utc": "2026-11-07T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-07-hamburg-sv-borussia-m-nchengladbach",
-      "weekend": "2026-11-07",
-      "name": "Hamburg SV v Borussia M\u00f6nchengladbach",
-      "utc": "2026-11-07T20:00:00Z"
+      "id": "bl-2026-11-07-dortmund-v-elversberg",
+      "weekend": "Matchday 9",
+      "name": "Dortmund v Elversberg",
+      "utc": "2026-11-07T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-07-mainz-bayern-munich",
-      "weekend": "2026-11-07",
-      "name": "Mainz v Bayern Munich",
-      "utc": "2026-11-07T20:00:00Z"
+      "id": "bl-2026-11-07-mainz-v-bayern",
+      "weekend": "Matchday 9",
+      "name": "Mainz v Bayern",
+      "utc": "2026-11-07T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-07-rb-leipzig-fc-augsburg",
-      "weekend": "2026-11-07",
-      "name": "RB Leipzig v FC Augsburg",
-      "utc": "2026-11-07T20:00:00Z"
+      "id": "bl-2026-11-07-sc-paderborn-v-frankfurt",
+      "weekend": "Matchday 9",
+      "name": "SC Paderborn v Frankfurt",
+      "utc": "2026-11-07T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-07-sc-freiburg-1-fc-union-berlin",
-      "weekend": "2026-11-07",
-      "name": "SC Freiburg v 1. FC Union Berlin",
-      "utc": "2026-11-07T20:00:00Z"
+      "id": "bl-2026-11-07-stuttgart-v-bremen",
+      "weekend": "Matchday 9",
+      "name": "Stuttgart v Bremen",
+      "utc": "2026-11-07T17:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-07-sc-paderborn-07-eintracht-frankfurt",
-      "weekend": "2026-11-07",
-      "name": "SC Paderborn 07 v Eintracht Frankfurt",
-      "utc": "2026-11-07T20:00:00Z"
+      "id": "bl-2026-11-08-1-fc-k-ln-v-leverkusen",
+      "weekend": "Matchday 9",
+      "name": "1. FC K\u00f6ln v Leverkusen",
+      "utc": "2026-11-08T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-07-tsg-hoffenheim-schalke-04",
-      "weekend": "2026-11-07",
-      "name": "TSG Hoffenheim v Schalke 04",
-      "utc": "2026-11-07T20:00:00Z"
+      "id": "bl-2026-11-08-freiburg-v-union-berlin",
+      "weekend": "Matchday 9",
+      "name": "Freiburg v Union Berlin",
+      "utc": "2026-11-08T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-07-vfb-stuttgart-werder-bremen",
-      "weekend": "2026-11-07",
-      "name": "VfB Stuttgart v Werder Bremen",
-      "utc": "2026-11-07T20:00:00Z"
+      "id": "bl-2026-11-08-hoffenheim-v-schalke",
+      "weekend": "Matchday 9",
+      "name": "Hoffenheim v Schalke",
+      "utc": "2026-11-08T18:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-21-1-fc-union-berlin-rb-leipzig",
-      "weekend": "2026-11-21",
-      "name": "1. FC Union Berlin v RB Leipzig",
-      "utc": "2026-11-21T20:00:00Z"
+      "id": "bl-2026-11-20-bayern-v-1-fc-k-ln",
+      "weekend": "Matchday 10",
+      "name": "Bayern v 1. FC K\u00f6ln",
+      "utc": "2026-11-20T19:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-21-bayer-leverkusen-sc-paderborn-07",
-      "weekend": "2026-11-21",
-      "name": "Bayer Leverkusen v SC Paderborn 07",
-      "utc": "2026-11-21T20:00:00Z"
+      "id": "bl-2026-11-21-leverkusen-v-sc-paderborn",
+      "weekend": "Matchday 10",
+      "name": "Leverkusen v SC Paderborn",
+      "utc": "2026-11-21T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-21-bayern-munich-fc-cologne",
-      "weekend": "2026-11-21",
-      "name": "Bayern Munich v FC Cologne",
-      "utc": "2026-11-21T20:00:00Z"
+      "id": "bl-2026-11-21-union-berlin-v-rb-leipzig",
+      "weekend": "Matchday 10",
+      "name": "Union Berlin v RB Leipzig",
+      "utc": "2026-11-21T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-21-borussia-m-nchengladbach-borussia-dortmund",
-      "weekend": "2026-11-21",
-      "name": "Borussia M\u00f6nchengladbach v Borussia Dortmund",
-      "utc": "2026-11-21T20:00:00Z"
+      "id": "bl-2026-11-21-elversberg-v-freiburg",
+      "weekend": "Matchday 10",
+      "name": "Elversberg v Freiburg",
+      "utc": "2026-11-21T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-21-eintracht-frankfurt-tsg-hoffenheim",
-      "weekend": "2026-11-21",
-      "name": "Eintracht Frankfurt v TSG Hoffenheim",
-      "utc": "2026-11-21T20:00:00Z"
+      "id": "bl-2026-11-21-m-gladbach-v-dortmund",
+      "weekend": "Matchday 10",
+      "name": "M'gladbach v Dortmund",
+      "utc": "2026-11-21T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-21-fc-augsburg-mainz",
-      "weekend": "2026-11-21",
-      "name": "FC Augsburg v Mainz",
-      "utc": "2026-11-21T20:00:00Z"
+      "id": "bl-2026-11-21-frankfurt-v-hoffenheim",
+      "weekend": "Matchday 10",
+      "name": "Frankfurt v Hoffenheim",
+      "utc": "2026-11-21T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-21-schalke-04-vfb-stuttgart",
-      "weekend": "2026-11-21",
-      "name": "Schalke 04 v VfB Stuttgart",
-      "utc": "2026-11-21T20:00:00Z"
+      "id": "bl-2026-11-21-schalke-v-stuttgart",
+      "weekend": "Matchday 10",
+      "name": "Schalke v Stuttgart",
+      "utc": "2026-11-21T17:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-21-sv-elversberg-sc-freiburg",
-      "weekend": "2026-11-21",
-      "name": "SV Elversberg v SC Freiburg",
-      "utc": "2026-11-21T20:00:00Z"
+      "id": "bl-2026-11-22-augsburg-v-mainz",
+      "weekend": "Matchday 10",
+      "name": "Augsburg v Mainz",
+      "utc": "2026-11-22T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-21-werder-bremen-hamburg-sv",
-      "weekend": "2026-11-21",
-      "name": "Werder Bremen v Hamburg SV",
-      "utc": "2026-11-21T20:00:00Z"
+      "id": "bl-2026-11-22-bremen-v-hsv",
+      "weekend": "Matchday 10",
+      "name": "Bremen v HSV",
+      "utc": "2026-11-22T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-28-borussia-dortmund-bayer-leverkusen",
-      "weekend": "2026-11-28",
-      "name": "Borussia Dortmund v Bayer Leverkusen",
-      "utc": "2026-11-28T20:00:00Z"
+      "id": "bl-2026-11-27-bremen-v-m-gladbach",
+      "weekend": "Matchday 11",
+      "name": "Bremen v M'gladbach",
+      "utc": "2026-11-27T19:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-28-fc-cologne-sv-elversberg",
-      "weekend": "2026-11-28",
-      "name": "FC Cologne v SV Elversberg",
-      "utc": "2026-11-28T20:00:00Z"
+      "id": "bl-2026-11-28-1-fc-k-ln-v-elversberg",
+      "weekend": "Matchday 11",
+      "name": "1. FC K\u00f6ln v Elversberg",
+      "utc": "2026-11-28T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-28-hamburg-sv-bayern-munich",
-      "weekend": "2026-11-28",
-      "name": "Hamburg SV v Bayern Munich",
-      "utc": "2026-11-28T20:00:00Z"
+      "id": "bl-2026-11-28-mainz-v-union-berlin",
+      "weekend": "Matchday 11",
+      "name": "Mainz v Union Berlin",
+      "utc": "2026-11-28T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-28-mainz-1-fc-union-berlin",
-      "weekend": "2026-11-28",
-      "name": "Mainz v 1. FC Union Berlin",
-      "utc": "2026-11-28T20:00:00Z"
+      "id": "bl-2026-11-28-sc-paderborn-v-schalke",
+      "weekend": "Matchday 11",
+      "name": "SC Paderborn v Schalke",
+      "utc": "2026-11-28T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-28-sc-freiburg-rb-leipzig",
-      "weekend": "2026-11-28",
-      "name": "SC Freiburg v RB Leipzig",
-      "utc": "2026-11-28T20:00:00Z"
+      "id": "bl-2026-11-28-hsv-v-bayern",
+      "weekend": "Matchday 11",
+      "name": "HSV v Bayern",
+      "utc": "2026-11-28T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-28-sc-paderborn-07-schalke-04",
-      "weekend": "2026-11-28",
-      "name": "SC Paderborn 07 v Schalke 04",
-      "utc": "2026-11-28T20:00:00Z"
+      "id": "bl-2026-11-28-stuttgart-v-frankfurt",
+      "weekend": "Matchday 11",
+      "name": "Stuttgart v Frankfurt",
+      "utc": "2026-11-28T17:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-28-tsg-hoffenheim-fc-augsburg",
-      "weekend": "2026-11-28",
-      "name": "TSG Hoffenheim v FC Augsburg",
-      "utc": "2026-11-28T20:00:00Z"
+      "id": "bl-2026-11-29-freiburg-v-rb-leipzig",
+      "weekend": "Matchday 11",
+      "name": "Freiburg v RB Leipzig",
+      "utc": "2026-11-29T14:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-28-vfb-stuttgart-eintracht-frankfurt",
-      "weekend": "2026-11-28",
-      "name": "VfB Stuttgart v Eintracht Frankfurt",
-      "utc": "2026-11-28T20:00:00Z"
+      "id": "bl-2026-11-29-hoffenheim-v-augsburg",
+      "weekend": "Matchday 11",
+      "name": "Hoffenheim v Augsburg",
+      "utc": "2026-11-29T16:30:00Z"
     },
     {
-      "id": "bundesliga-2026-11-28-werder-bremen-borussia-m-nchengladbach",
-      "weekend": "2026-11-28",
-      "name": "Werder Bremen v Borussia M\u00f6nchengladbach",
-      "utc": "2026-11-28T20:00:00Z"
+      "id": "bl-2026-11-29-dortmund-v-leverkusen",
+      "weekend": "Matchday 11",
+      "name": "Dortmund v Leverkusen",
+      "utc": "2026-11-29T18:30:00Z"
     },
     {
-      "id": "bundesliga-2026-12-05-1-fc-union-berlin-hamburg-sv",
-      "weekend": "2026-12-05",
-      "name": "1. FC Union Berlin v Hamburg SV",
-      "utc": "2026-12-05T20:00:00Z"
+      "id": "bl-2026-12-05-union-berlin-v-hsv",
+      "weekend": "Matchday 12",
+      "name": "Union Berlin v HSV",
+      "utc": "2026-12-05T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-05-bayer-leverkusen-borussia-m-nchengladbach",
-      "weekend": "2026-12-05",
-      "name": "Bayer Leverkusen v Borussia M\u00f6nchengladbach",
-      "utc": "2026-12-05T20:00:00Z"
+      "id": "bl-2026-12-05-schalke-v-dortmund",
+      "weekend": "Matchday 12",
+      "name": "Schalke v Dortmund",
+      "utc": "2026-12-05T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-05-bayern-munich-sc-paderborn-07",
-      "weekend": "2026-12-05",
-      "name": "Bayern Munich v SC Paderborn 07",
-      "utc": "2026-12-05T20:00:00Z"
+      "id": "bl-2026-12-05-leverkusen-v-m-gladbach",
+      "weekend": "Matchday 12",
+      "name": "Leverkusen v M'gladbach",
+      "utc": "2026-12-05T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-05-eintracht-frankfurt-werder-bremen",
-      "weekend": "2026-12-05",
-      "name": "Eintracht Frankfurt v Werder Bremen",
-      "utc": "2026-12-05T20:00:00Z"
+      "id": "bl-2026-12-05-frankfurt-v-bremen",
+      "weekend": "Matchday 12",
+      "name": "Frankfurt v Bremen",
+      "utc": "2026-12-05T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-05-fc-augsburg-fc-cologne",
-      "weekend": "2026-12-05",
-      "name": "FC Augsburg v FC Cologne",
-      "utc": "2026-12-05T20:00:00Z"
-    },
-    {
-      "id": "bundesliga-2026-12-05-rb-leipzig-mainz",
-      "weekend": "2026-12-05",
+      "id": "bl-2026-12-05-rb-leipzig-v-mainz",
+      "weekend": "Matchday 12",
       "name": "RB Leipzig v Mainz",
-      "utc": "2026-12-05T20:00:00Z"
+      "utc": "2026-12-05T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-05-sc-freiburg-tsg-hoffenheim",
-      "weekend": "2026-12-05",
-      "name": "SC Freiburg v TSG Hoffenheim",
-      "utc": "2026-12-05T20:00:00Z"
+      "id": "bl-2026-12-05-elversberg-v-stuttgart",
+      "weekend": "Matchday 12",
+      "name": "Elversberg v Stuttgart",
+      "utc": "2026-12-05T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-05-schalke-04-borussia-dortmund",
-      "weekend": "2026-12-05",
-      "name": "Schalke 04 v Borussia Dortmund",
-      "utc": "2026-12-05T20:00:00Z"
+      "id": "bl-2026-12-05-freiburg-v-hoffenheim",
+      "weekend": "Matchday 12",
+      "name": "Freiburg v Hoffenheim",
+      "utc": "2026-12-05T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-05-sv-elversberg-vfb-stuttgart",
-      "weekend": "2026-12-05",
-      "name": "SV Elversberg v VfB Stuttgart",
-      "utc": "2026-12-05T20:00:00Z"
+      "id": "bl-2026-12-05-bayern-v-sc-paderborn",
+      "weekend": "Matchday 12",
+      "name": "Bayern v SC Paderborn",
+      "utc": "2026-12-05T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-12-borussia-dortmund-fc-augsburg",
-      "weekend": "2026-12-12",
-      "name": "Borussia Dortmund v FC Augsburg",
-      "utc": "2026-12-12T20:00:00Z"
+      "id": "bl-2026-12-05-augsburg-v-1-fc-k-ln",
+      "weekend": "Matchday 12",
+      "name": "Augsburg v 1. FC K\u00f6ln",
+      "utc": "2026-12-05T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-12-borussia-m-nchengladbach-eintracht-frankfurt",
-      "weekend": "2026-12-12",
-      "name": "Borussia M\u00f6nchengladbach v Eintracht Frankfurt",
-      "utc": "2026-12-12T20:00:00Z"
+      "id": "bl-2026-12-12-sc-paderborn-v-elversberg",
+      "weekend": "Matchday 13",
+      "name": "SC Paderborn v Elversberg",
+      "utc": "2026-12-12T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-12-fc-cologne-rb-leipzig",
-      "weekend": "2026-12-12",
-      "name": "FC Cologne v RB Leipzig",
-      "utc": "2026-12-12T20:00:00Z"
+      "id": "bl-2026-12-12-bremen-v-leverkusen",
+      "weekend": "Matchday 13",
+      "name": "Bremen v Leverkusen",
+      "utc": "2026-12-12T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-12-hamburg-sv-schalke-04",
-      "weekend": "2026-12-12",
-      "name": "Hamburg SV v Schalke 04",
-      "utc": "2026-12-12T20:00:00Z"
+      "id": "bl-2026-12-12-stuttgart-v-union-berlin",
+      "weekend": "Matchday 13",
+      "name": "Stuttgart v Union Berlin",
+      "utc": "2026-12-12T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-12-mainz-sc-freiburg",
-      "weekend": "2026-12-12",
-      "name": "Mainz v SC Freiburg",
-      "utc": "2026-12-12T20:00:00Z"
+      "id": "bl-2026-12-12-dortmund-v-augsburg",
+      "weekend": "Matchday 13",
+      "name": "Dortmund v Augsburg",
+      "utc": "2026-12-12T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-12-sc-paderborn-07-sv-elversberg",
-      "weekend": "2026-12-12",
-      "name": "SC Paderborn 07 v SV Elversberg",
-      "utc": "2026-12-12T20:00:00Z"
+      "id": "bl-2026-12-12-hsv-v-schalke",
+      "weekend": "Matchday 13",
+      "name": "HSV v Schalke",
+      "utc": "2026-12-12T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-12-tsg-hoffenheim-bayern-munich",
-      "weekend": "2026-12-12",
-      "name": "TSG Hoffenheim v Bayern Munich",
-      "utc": "2026-12-12T20:00:00Z"
+      "id": "bl-2026-12-12-mainz-v-freiburg",
+      "weekend": "Matchday 13",
+      "name": "Mainz v Freiburg",
+      "utc": "2026-12-12T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-12-vfb-stuttgart-1-fc-union-berlin",
-      "weekend": "2026-12-12",
-      "name": "VfB Stuttgart v 1. FC Union Berlin",
-      "utc": "2026-12-12T20:00:00Z"
+      "id": "bl-2026-12-12-1-fc-k-ln-v-rb-leipzig",
+      "weekend": "Matchday 13",
+      "name": "1. FC K\u00f6ln v RB Leipzig",
+      "utc": "2026-12-12T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-12-werder-bremen-bayer-leverkusen",
-      "weekend": "2026-12-12",
-      "name": "Werder Bremen v Bayer Leverkusen",
-      "utc": "2026-12-12T20:00:00Z"
+      "id": "bl-2026-12-12-hoffenheim-v-bayern",
+      "weekend": "Matchday 13",
+      "name": "Hoffenheim v Bayern",
+      "utc": "2026-12-12T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-19-1-fc-union-berlin-tsg-hoffenheim",
-      "weekend": "2026-12-19",
-      "name": "1. FC Union Berlin v TSG Hoffenheim",
-      "utc": "2026-12-19T20:00:00Z"
+      "id": "bl-2026-12-12-m-gladbach-v-frankfurt",
+      "weekend": "Matchday 13",
+      "name": "M'gladbach v Frankfurt",
+      "utc": "2026-12-12T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-19-bayer-leverkusen-eintracht-frankfurt",
-      "weekend": "2026-12-19",
-      "name": "Bayer Leverkusen v Eintracht Frankfurt",
-      "utc": "2026-12-19T20:00:00Z"
+      "id": "bl-2026-12-19-schalke-v-m-gladbach",
+      "weekend": "Matchday 14",
+      "name": "Schalke v M'gladbach",
+      "utc": "2026-12-19T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-19-bayern-munich-werder-bremen",
-      "weekend": "2026-12-19",
-      "name": "Bayern Munich v Werder Bremen",
-      "utc": "2026-12-19T20:00:00Z"
+      "id": "bl-2026-12-19-bayern-v-bremen",
+      "weekend": "Matchday 14",
+      "name": "Bayern v Bremen",
+      "utc": "2026-12-19T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-19-fc-augsburg-sc-paderborn-07",
-      "weekend": "2026-12-19",
-      "name": "FC Augsburg v SC Paderborn 07",
-      "utc": "2026-12-19T20:00:00Z"
+      "id": "bl-2026-12-19-elversberg-v-hsv",
+      "weekend": "Matchday 14",
+      "name": "Elversberg v HSV",
+      "utc": "2026-12-19T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-19-mainz-fc-cologne",
-      "weekend": "2026-12-19",
-      "name": "Mainz v FC Cologne",
-      "utc": "2026-12-19T20:00:00Z"
+      "id": "bl-2026-12-19-leverkusen-v-frankfurt",
+      "weekend": "Matchday 14",
+      "name": "Leverkusen v Frankfurt",
+      "utc": "2026-12-19T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-19-rb-leipzig-borussia-dortmund",
-      "weekend": "2026-12-19",
-      "name": "RB Leipzig v Borussia Dortmund",
-      "utc": "2026-12-19T20:00:00Z"
+      "id": "bl-2026-12-19-freiburg-v-stuttgart",
+      "weekend": "Matchday 14",
+      "name": "Freiburg v Stuttgart",
+      "utc": "2026-12-19T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-19-sc-freiburg-vfb-stuttgart",
-      "weekend": "2026-12-19",
-      "name": "SC Freiburg v VfB Stuttgart",
-      "utc": "2026-12-19T20:00:00Z"
+      "id": "bl-2026-12-19-rb-leipzig-v-dortmund",
+      "weekend": "Matchday 14",
+      "name": "RB Leipzig v Dortmund",
+      "utc": "2026-12-19T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-19-schalke-04-borussia-m-nchengladbach",
-      "weekend": "2026-12-19",
-      "name": "Schalke 04 v Borussia M\u00f6nchengladbach",
-      "utc": "2026-12-19T20:00:00Z"
+      "id": "bl-2026-12-19-mainz-v-1-fc-k-ln",
+      "weekend": "Matchday 14",
+      "name": "Mainz v 1. FC K\u00f6ln",
+      "utc": "2026-12-19T00:00:00Z"
     },
     {
-      "id": "bundesliga-2026-12-19-sv-elversberg-hamburg-sv",
-      "weekend": "2026-12-19",
-      "name": "SV Elversberg v Hamburg SV",
-      "utc": "2026-12-19T20:00:00Z"
+      "id": "bl-2026-12-19-union-berlin-v-hoffenheim",
+      "weekend": "Matchday 14",
+      "name": "Union Berlin v Hoffenheim",
+      "utc": "2026-12-19T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-09-borussia-dortmund-mainz",
-      "weekend": "2027-01-09",
-      "name": "Borussia Dortmund v Mainz",
-      "utc": "2027-01-09T20:00:00Z"
+      "id": "bl-2026-12-19-augsburg-v-sc-paderborn",
+      "weekend": "Matchday 14",
+      "name": "Augsburg v SC Paderborn",
+      "utc": "2026-12-19T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-09-borussia-m-nchengladbach-bayern-munich",
-      "weekend": "2027-01-09",
-      "name": "Borussia M\u00f6nchengladbach v Bayern Munich",
-      "utc": "2027-01-09T20:00:00Z"
+      "id": "bl-2027-01-09-stuttgart-v-augsburg",
+      "weekend": "Matchday 15",
+      "name": "Stuttgart v Augsburg",
+      "utc": "2027-01-09T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-09-eintracht-frankfurt-schalke-04",
-      "weekend": "2027-01-09",
-      "name": "Eintracht Frankfurt v Schalke 04",
-      "utc": "2027-01-09T20:00:00Z"
+      "id": "bl-2027-01-09-hsv-v-leverkusen",
+      "weekend": "Matchday 15",
+      "name": "HSV v Leverkusen",
+      "utc": "2027-01-09T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-09-fc-cologne-sc-freiburg",
-      "weekend": "2027-01-09",
-      "name": "FC Cologne v SC Freiburg",
-      "utc": "2027-01-09T20:00:00Z"
+      "id": "bl-2027-01-09-1-fc-k-ln-v-freiburg",
+      "weekend": "Matchday 15",
+      "name": "1. FC K\u00f6ln v Freiburg",
+      "utc": "2027-01-09T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-09-hamburg-sv-bayer-leverkusen",
-      "weekend": "2027-01-09",
-      "name": "Hamburg SV v Bayer Leverkusen",
-      "utc": "2027-01-09T20:00:00Z"
+      "id": "bl-2027-01-09-frankfurt-v-schalke",
+      "weekend": "Matchday 15",
+      "name": "Frankfurt v Schalke",
+      "utc": "2027-01-09T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-09-sc-paderborn-07-rb-leipzig",
-      "weekend": "2027-01-09",
-      "name": "SC Paderborn 07 v RB Leipzig",
-      "utc": "2027-01-09T20:00:00Z"
+      "id": "bl-2027-01-09-hoffenheim-v-elversberg",
+      "weekend": "Matchday 15",
+      "name": "Hoffenheim v Elversberg",
+      "utc": "2027-01-09T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-09-tsg-hoffenheim-sv-elversberg",
-      "weekend": "2027-01-09",
-      "name": "TSG Hoffenheim v SV Elversberg",
-      "utc": "2027-01-09T20:00:00Z"
+      "id": "bl-2027-01-09-m-gladbach-v-bayern",
+      "weekend": "Matchday 15",
+      "name": "M'gladbach v Bayern",
+      "utc": "2027-01-09T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-09-vfb-stuttgart-fc-augsburg",
-      "weekend": "2027-01-09",
-      "name": "VfB Stuttgart v FC Augsburg",
-      "utc": "2027-01-09T20:00:00Z"
+      "id": "bl-2027-01-09-dortmund-v-mainz",
+      "weekend": "Matchday 15",
+      "name": "Dortmund v Mainz",
+      "utc": "2027-01-09T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-09-werder-bremen-1-fc-union-berlin",
-      "weekend": "2027-01-09",
-      "name": "Werder Bremen v 1. FC Union Berlin",
-      "utc": "2027-01-09T20:00:00Z"
+      "id": "bl-2027-01-09-bremen-v-union-berlin",
+      "weekend": "Matchday 15",
+      "name": "Bremen v Union Berlin",
+      "utc": "2027-01-09T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-13-1-fc-union-berlin-sc-paderborn-07",
-      "weekend": "2027-01-13",
-      "name": "1. FC Union Berlin v SC Paderborn 07",
-      "utc": "2027-01-13T20:00:00Z"
+      "id": "bl-2027-01-09-sc-paderborn-v-rb-leipzig",
+      "weekend": "Matchday 15",
+      "name": "SC Paderborn v RB Leipzig",
+      "utc": "2027-01-09T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-13-bayern-munich-bayer-leverkusen",
-      "weekend": "2027-01-13",
-      "name": "Bayern Munich v Bayer Leverkusen",
-      "utc": "2027-01-13T20:00:00Z"
+      "id": "bl-2027-01-13-mainz-v-hoffenheim",
+      "weekend": "Matchday 16",
+      "name": "Mainz v Hoffenheim",
+      "utc": "2027-01-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-13-fc-augsburg-borussia-m-nchengladbach",
-      "weekend": "2027-01-13",
-      "name": "FC Augsburg v Borussia M\u00f6nchengladbach",
-      "utc": "2027-01-13T20:00:00Z"
+      "id": "bl-2027-01-13-freiburg-v-hsv",
+      "weekend": "Matchday 16",
+      "name": "Freiburg v HSV",
+      "utc": "2027-01-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-13-fc-cologne-borussia-dortmund",
-      "weekend": "2027-01-13",
-      "name": "FC Cologne v Borussia Dortmund",
-      "utc": "2027-01-13T20:00:00Z"
+      "id": "bl-2027-01-13-schalke-v-bremen",
+      "weekend": "Matchday 16",
+      "name": "Schalke v Bremen",
+      "utc": "2027-01-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-13-mainz-tsg-hoffenheim",
-      "weekend": "2027-01-13",
-      "name": "Mainz v TSG Hoffenheim",
-      "utc": "2027-01-13T20:00:00Z"
+      "id": "bl-2027-01-13-rb-leipzig-v-stuttgart",
+      "weekend": "Matchday 16",
+      "name": "RB Leipzig v Stuttgart",
+      "utc": "2027-01-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-13-rb-leipzig-vfb-stuttgart",
-      "weekend": "2027-01-13",
-      "name": "RB Leipzig v VfB Stuttgart",
-      "utc": "2027-01-13T20:00:00Z"
+      "id": "bl-2027-01-13-union-berlin-v-sc-paderborn",
+      "weekend": "Matchday 16",
+      "name": "Union Berlin v SC Paderborn",
+      "utc": "2027-01-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-13-sc-freiburg-hamburg-sv",
-      "weekend": "2027-01-13",
-      "name": "SC Freiburg v Hamburg SV",
-      "utc": "2027-01-13T20:00:00Z"
+      "id": "bl-2027-01-13-bayern-v-leverkusen",
+      "weekend": "Matchday 16",
+      "name": "Bayern v Leverkusen",
+      "utc": "2027-01-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-13-schalke-04-werder-bremen",
-      "weekend": "2027-01-13",
-      "name": "Schalke 04 v Werder Bremen",
-      "utc": "2027-01-13T20:00:00Z"
+      "id": "bl-2027-01-13-augsburg-v-m-gladbach",
+      "weekend": "Matchday 16",
+      "name": "Augsburg v M'gladbach",
+      "utc": "2027-01-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-13-sv-elversberg-eintracht-frankfurt",
-      "weekend": "2027-01-13",
-      "name": "SV Elversberg v Eintracht Frankfurt",
-      "utc": "2027-01-13T20:00:00Z"
+      "id": "bl-2027-01-13-elversberg-v-frankfurt",
+      "weekend": "Matchday 16",
+      "name": "Elversberg v Frankfurt",
+      "utc": "2027-01-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-16-bayer-leverkusen-schalke-04",
-      "weekend": "2027-01-16",
-      "name": "Bayer Leverkusen v Schalke 04",
-      "utc": "2027-01-16T20:00:00Z"
+      "id": "bl-2027-01-13-1-fc-k-ln-v-dortmund",
+      "weekend": "Matchday 16",
+      "name": "1. FC K\u00f6ln v Dortmund",
+      "utc": "2027-01-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-16-borussia-dortmund-sc-freiburg",
-      "weekend": "2027-01-16",
-      "name": "Borussia Dortmund v SC Freiburg",
-      "utc": "2027-01-16T20:00:00Z"
+      "id": "bl-2027-01-16-bremen-v-elversberg",
+      "weekend": "Matchday 17",
+      "name": "Bremen v Elversberg",
+      "utc": "2027-01-16T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-16-borussia-m-nchengladbach-1-fc-union-berlin",
-      "weekend": "2027-01-16",
-      "name": "Borussia M\u00f6nchengladbach v 1. FC Union Berlin",
-      "utc": "2027-01-16T20:00:00Z"
+      "id": "bl-2027-01-16-frankfurt-v-bayern",
+      "weekend": "Matchday 17",
+      "name": "Frankfurt v Bayern",
+      "utc": "2027-01-16T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-16-eintracht-frankfurt-bayern-munich",
-      "weekend": "2027-01-16",
-      "name": "Eintracht Frankfurt v Bayern Munich",
-      "utc": "2027-01-16T20:00:00Z"
+      "id": "bl-2027-01-16-sc-paderborn-v-1-fc-k-ln",
+      "weekend": "Matchday 17",
+      "name": "SC Paderborn v 1. FC K\u00f6ln",
+      "utc": "2027-01-16T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-16-hamburg-sv-fc-augsburg",
-      "weekend": "2027-01-16",
-      "name": "Hamburg SV v FC Augsburg",
-      "utc": "2027-01-16T20:00:00Z"
+      "id": "bl-2027-01-16-hoffenheim-v-rb-leipzig",
+      "weekend": "Matchday 17",
+      "name": "Hoffenheim v RB Leipzig",
+      "utc": "2027-01-16T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-16-sc-paderborn-07-fc-cologne",
-      "weekend": "2027-01-16",
-      "name": "SC Paderborn 07 v FC Cologne",
-      "utc": "2027-01-16T20:00:00Z"
+      "id": "bl-2027-01-16-leverkusen-v-schalke",
+      "weekend": "Matchday 17",
+      "name": "Leverkusen v Schalke",
+      "utc": "2027-01-16T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-16-tsg-hoffenheim-rb-leipzig",
-      "weekend": "2027-01-16",
-      "name": "TSG Hoffenheim v RB Leipzig",
-      "utc": "2027-01-16T20:00:00Z"
+      "id": "bl-2027-01-16-stuttgart-v-mainz",
+      "weekend": "Matchday 17",
+      "name": "Stuttgart v Mainz",
+      "utc": "2027-01-16T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-16-vfb-stuttgart-mainz",
-      "weekend": "2027-01-16",
-      "name": "VfB Stuttgart v Mainz",
-      "utc": "2027-01-16T20:00:00Z"
+      "id": "bl-2027-01-16-hsv-v-augsburg",
+      "weekend": "Matchday 17",
+      "name": "HSV v Augsburg",
+      "utc": "2027-01-16T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-16-werder-bremen-sv-elversberg",
-      "weekend": "2027-01-16",
-      "name": "Werder Bremen v SV Elversberg",
-      "utc": "2027-01-16T20:00:00Z"
+      "id": "bl-2027-01-16-m-gladbach-v-union-berlin",
+      "weekend": "Matchday 17",
+      "name": "M'gladbach v Union Berlin",
+      "utc": "2027-01-16T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-23-bayer-leverkusen-sv-elversberg",
-      "weekend": "2027-01-23",
-      "name": "Bayer Leverkusen v SV Elversberg",
-      "utc": "2027-01-23T20:00:00Z"
+      "id": "bl-2027-01-16-dortmund-v-freiburg",
+      "weekend": "Matchday 17",
+      "name": "Dortmund v Freiburg",
+      "utc": "2027-01-16T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-23-borussia-m-nchengladbach-rb-leipzig",
-      "weekend": "2027-01-23",
-      "name": "Borussia M\u00f6nchengladbach v RB Leipzig",
-      "utc": "2027-01-23T20:00:00Z"
+      "id": "bl-2027-01-23-bremen-v-freiburg",
+      "weekend": "Matchday 18",
+      "name": "Bremen v Freiburg",
+      "utc": "2027-01-23T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-23-eintracht-frankfurt-1-fc-union-berlin",
-      "weekend": "2027-01-23",
-      "name": "Eintracht Frankfurt v 1. FC Union Berlin",
-      "utc": "2027-01-23T20:00:00Z"
+      "id": "bl-2027-01-23-hsv-v-dortmund",
+      "weekend": "Matchday 18",
+      "name": "HSV v Dortmund",
+      "utc": "2027-01-23T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-23-hamburg-sv-borussia-dortmund",
-      "weekend": "2027-01-23",
-      "name": "Hamburg SV v Borussia Dortmund",
-      "utc": "2027-01-23T20:00:00Z"
+      "id": "bl-2027-01-23-sc-paderborn-v-mainz",
+      "weekend": "Matchday 18",
+      "name": "SC Paderborn v Mainz",
+      "utc": "2027-01-23T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-23-sc-paderborn-07-mainz",
-      "weekend": "2027-01-23",
-      "name": "SC Paderborn 07 v Mainz",
-      "utc": "2027-01-23T20:00:00Z"
+      "id": "bl-2027-01-23-schalke-v-augsburg",
+      "weekend": "Matchday 18",
+      "name": "Schalke v Augsburg",
+      "utc": "2027-01-23T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-23-schalke-04-fc-augsburg",
-      "weekend": "2027-01-23",
-      "name": "Schalke 04 v FC Augsburg",
-      "utc": "2027-01-23T20:00:00Z"
+      "id": "bl-2027-01-23-hoffenheim-v-1-fc-k-ln",
+      "weekend": "Matchday 18",
+      "name": "Hoffenheim v 1. FC K\u00f6ln",
+      "utc": "2027-01-23T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-23-tsg-hoffenheim-fc-cologne",
-      "weekend": "2027-01-23",
-      "name": "TSG Hoffenheim v FC Cologne",
-      "utc": "2027-01-23T20:00:00Z"
+      "id": "bl-2027-01-23-stuttgart-v-bayern",
+      "weekend": "Matchday 18",
+      "name": "Stuttgart v Bayern",
+      "utc": "2027-01-23T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-23-vfb-stuttgart-bayern-munich",
-      "weekend": "2027-01-23",
-      "name": "VfB Stuttgart v Bayern Munich",
-      "utc": "2027-01-23T20:00:00Z"
+      "id": "bl-2027-01-23-m-gladbach-v-rb-leipzig",
+      "weekend": "Matchday 18",
+      "name": "M'gladbach v RB Leipzig",
+      "utc": "2027-01-23T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-23-werder-bremen-sc-freiburg",
-      "weekend": "2027-01-23",
-      "name": "Werder Bremen v SC Freiburg",
-      "utc": "2027-01-23T20:00:00Z"
+      "id": "bl-2027-01-23-frankfurt-v-union-berlin",
+      "weekend": "Matchday 18",
+      "name": "Frankfurt v Union Berlin",
+      "utc": "2027-01-23T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-30-1-fc-union-berlin-bayer-leverkusen",
-      "weekend": "2027-01-30",
-      "name": "1. FC Union Berlin v Bayer Leverkusen",
-      "utc": "2027-01-30T20:00:00Z"
+      "id": "bl-2027-01-23-leverkusen-v-elversberg",
+      "weekend": "Matchday 18",
+      "name": "Leverkusen v Elversberg",
+      "utc": "2027-01-23T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-30-bayern-munich-schalke-04",
-      "weekend": "2027-01-30",
-      "name": "Bayern Munich v Schalke 04",
-      "utc": "2027-01-30T20:00:00Z"
+      "id": "bl-2027-01-30-elversberg-v-m-gladbach",
+      "weekend": "Matchday 19",
+      "name": "Elversberg v M'gladbach",
+      "utc": "2027-01-30T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-30-borussia-dortmund-tsg-hoffenheim",
-      "weekend": "2027-01-30",
-      "name": "Borussia Dortmund v TSG Hoffenheim",
-      "utc": "2027-01-30T20:00:00Z"
+      "id": "bl-2027-01-30-augsburg-v-frankfurt",
+      "weekend": "Matchday 19",
+      "name": "Augsburg v Frankfurt",
+      "utc": "2027-01-30T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-30-fc-augsburg-eintracht-frankfurt",
-      "weekend": "2027-01-30",
-      "name": "FC Augsburg v Eintracht Frankfurt",
-      "utc": "2027-01-30T20:00:00Z"
+      "id": "bl-2027-01-30-mainz-v-hsv",
+      "weekend": "Matchday 19",
+      "name": "Mainz v HSV",
+      "utc": "2027-01-30T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-30-fc-cologne-vfb-stuttgart",
-      "weekend": "2027-01-30",
-      "name": "FC Cologne v VfB Stuttgart",
-      "utc": "2027-01-30T20:00:00Z"
+      "id": "bl-2027-01-30-rb-leipzig-v-bremen",
+      "weekend": "Matchday 19",
+      "name": "RB Leipzig v Bremen",
+      "utc": "2027-01-30T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-30-mainz-hamburg-sv",
-      "weekend": "2027-01-30",
-      "name": "Mainz v Hamburg SV",
-      "utc": "2027-01-30T20:00:00Z"
+      "id": "bl-2027-01-30-1-fc-k-ln-v-stuttgart",
+      "weekend": "Matchday 19",
+      "name": "1. FC K\u00f6ln v Stuttgart",
+      "utc": "2027-01-30T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-30-rb-leipzig-werder-bremen",
-      "weekend": "2027-01-30",
-      "name": "RB Leipzig v Werder Bremen",
-      "utc": "2027-01-30T20:00:00Z"
+      "id": "bl-2027-01-30-union-berlin-v-leverkusen",
+      "weekend": "Matchday 19",
+      "name": "Union Berlin v Leverkusen",
+      "utc": "2027-01-30T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-30-sc-freiburg-sc-paderborn-07",
-      "weekend": "2027-01-30",
-      "name": "SC Freiburg v SC Paderborn 07",
-      "utc": "2027-01-30T20:00:00Z"
+      "id": "bl-2027-01-30-freiburg-v-sc-paderborn",
+      "weekend": "Matchday 19",
+      "name": "Freiburg v SC Paderborn",
+      "utc": "2027-01-30T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-01-30-sv-elversberg-borussia-m-nchengladbach",
-      "weekend": "2027-01-30",
-      "name": "SV Elversberg v Borussia M\u00f6nchengladbach",
-      "utc": "2027-01-30T20:00:00Z"
+      "id": "bl-2027-01-30-dortmund-v-hoffenheim",
+      "weekend": "Matchday 19",
+      "name": "Dortmund v Hoffenheim",
+      "utc": "2027-01-30T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-06-bayer-leverkusen-fc-augsburg",
-      "weekend": "2027-02-06",
-      "name": "Bayer Leverkusen v FC Augsburg",
-      "utc": "2027-02-06T20:00:00Z"
+      "id": "bl-2027-01-30-bayern-v-schalke",
+      "weekend": "Matchday 19",
+      "name": "Bayern v Schalke",
+      "utc": "2027-01-30T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-06-bayern-munich-sv-elversberg",
-      "weekend": "2027-02-06",
-      "name": "Bayern Munich v SV Elversberg",
-      "utc": "2027-02-06T20:00:00Z"
+      "id": "bl-2027-02-06-frankfurt-v-mainz",
+      "weekend": "Matchday 20",
+      "name": "Frankfurt v Mainz",
+      "utc": "2027-02-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-06-borussia-m-nchengladbach-sc-freiburg",
-      "weekend": "2027-02-06",
-      "name": "Borussia M\u00f6nchengladbach v SC Freiburg",
-      "utc": "2027-02-06T20:00:00Z"
+      "id": "bl-2027-02-06-m-gladbach-v-freiburg",
+      "weekend": "Matchday 20",
+      "name": "M'gladbach v Freiburg",
+      "utc": "2027-02-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-06-eintracht-frankfurt-mainz",
-      "weekend": "2027-02-06",
-      "name": "Eintracht Frankfurt v Mainz",
-      "utc": "2027-02-06T20:00:00Z"
+      "id": "bl-2027-02-06-schalke-v-union-berlin",
+      "weekend": "Matchday 20",
+      "name": "Schalke v Union Berlin",
+      "utc": "2027-02-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-06-hamburg-sv-rb-leipzig",
-      "weekend": "2027-02-06",
-      "name": "Hamburg SV v RB Leipzig",
-      "utc": "2027-02-06T20:00:00Z"
+      "id": "bl-2027-02-06-hsv-v-rb-leipzig",
+      "weekend": "Matchday 20",
+      "name": "HSV v RB Leipzig",
+      "utc": "2027-02-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-06-sc-paderborn-07-borussia-dortmund",
-      "weekend": "2027-02-06",
-      "name": "SC Paderborn 07 v Borussia Dortmund",
-      "utc": "2027-02-06T20:00:00Z"
+      "id": "bl-2027-02-06-leverkusen-v-augsburg",
+      "weekend": "Matchday 20",
+      "name": "Leverkusen v Augsburg",
+      "utc": "2027-02-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-06-schalke-04-1-fc-union-berlin",
-      "weekend": "2027-02-06",
-      "name": "Schalke 04 v 1. FC Union Berlin",
-      "utc": "2027-02-06T20:00:00Z"
+      "id": "bl-2027-02-06-bremen-v-1-fc-k-ln",
+      "weekend": "Matchday 20",
+      "name": "Bremen v 1. FC K\u00f6ln",
+      "utc": "2027-02-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-06-vfb-stuttgart-tsg-hoffenheim",
-      "weekend": "2027-02-06",
-      "name": "VfB Stuttgart v TSG Hoffenheim",
-      "utc": "2027-02-06T20:00:00Z"
+      "id": "bl-2027-02-06-stuttgart-v-hoffenheim",
+      "weekend": "Matchday 20",
+      "name": "Stuttgart v Hoffenheim",
+      "utc": "2027-02-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-06-werder-bremen-fc-cologne",
-      "weekend": "2027-02-06",
-      "name": "Werder Bremen v FC Cologne",
-      "utc": "2027-02-06T20:00:00Z"
+      "id": "bl-2027-02-06-bayern-v-elversberg",
+      "weekend": "Matchday 20",
+      "name": "Bayern v Elversberg",
+      "utc": "2027-02-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-13-1-fc-union-berlin-bayern-munich",
-      "weekend": "2027-02-13",
-      "name": "1. FC Union Berlin v Bayern Munich",
-      "utc": "2027-02-13T20:00:00Z"
+      "id": "bl-2027-02-06-sc-paderborn-v-dortmund",
+      "weekend": "Matchday 20",
+      "name": "SC Paderborn v Dortmund",
+      "utc": "2027-02-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-13-borussia-dortmund-vfb-stuttgart",
-      "weekend": "2027-02-13",
-      "name": "Borussia Dortmund v VfB Stuttgart",
-      "utc": "2027-02-13T20:00:00Z"
+      "id": "bl-2027-02-13-1-fc-k-ln-v-hsv",
+      "weekend": "Matchday 21",
+      "name": "1. FC K\u00f6ln v HSV",
+      "utc": "2027-02-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-13-fc-augsburg-werder-bremen",
-      "weekend": "2027-02-13",
-      "name": "FC Augsburg v Werder Bremen",
-      "utc": "2027-02-13T20:00:00Z"
+      "id": "bl-2027-02-13-mainz-v-m-gladbach",
+      "weekend": "Matchday 21",
+      "name": "Mainz v M'gladbach",
+      "utc": "2027-02-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-13-fc-cologne-hamburg-sv",
-      "weekend": "2027-02-13",
-      "name": "FC Cologne v Hamburg SV",
-      "utc": "2027-02-13T20:00:00Z"
+      "id": "bl-2027-02-13-union-berlin-v-bayern",
+      "weekend": "Matchday 21",
+      "name": "Union Berlin v Bayern",
+      "utc": "2027-02-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-13-mainz-borussia-m-nchengladbach",
-      "weekend": "2027-02-13",
-      "name": "Mainz v Borussia M\u00f6nchengladbach",
-      "utc": "2027-02-13T20:00:00Z"
+      "id": "bl-2027-02-13-elversberg-v-schalke",
+      "weekend": "Matchday 21",
+      "name": "Elversberg v Schalke",
+      "utc": "2027-02-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-13-rb-leipzig-bayer-leverkusen",
-      "weekend": "2027-02-13",
-      "name": "RB Leipzig v Bayer Leverkusen",
-      "utc": "2027-02-13T20:00:00Z"
+      "id": "bl-2027-02-13-dortmund-v-stuttgart",
+      "weekend": "Matchday 21",
+      "name": "Dortmund v Stuttgart",
+      "utc": "2027-02-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-13-sc-freiburg-eintracht-frankfurt",
-      "weekend": "2027-02-13",
-      "name": "SC Freiburg v Eintracht Frankfurt",
-      "utc": "2027-02-13T20:00:00Z"
+      "id": "bl-2027-02-13-hoffenheim-v-sc-paderborn",
+      "weekend": "Matchday 21",
+      "name": "Hoffenheim v SC Paderborn",
+      "utc": "2027-02-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-13-sv-elversberg-schalke-04",
-      "weekend": "2027-02-13",
-      "name": "SV Elversberg v Schalke 04",
-      "utc": "2027-02-13T20:00:00Z"
+      "id": "bl-2027-02-13-freiburg-v-frankfurt",
+      "weekend": "Matchday 21",
+      "name": "Freiburg v Frankfurt",
+      "utc": "2027-02-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-13-tsg-hoffenheim-sc-paderborn-07",
-      "weekend": "2027-02-13",
-      "name": "TSG Hoffenheim v SC Paderborn 07",
-      "utc": "2027-02-13T20:00:00Z"
+      "id": "bl-2027-02-13-augsburg-v-bremen",
+      "weekend": "Matchday 21",
+      "name": "Augsburg v Bremen",
+      "utc": "2027-02-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-20-bayer-leverkusen-mainz",
-      "weekend": "2027-02-20",
-      "name": "Bayer Leverkusen v Mainz",
-      "utc": "2027-02-20T20:00:00Z"
+      "id": "bl-2027-02-13-rb-leipzig-v-leverkusen",
+      "weekend": "Matchday 21",
+      "name": "RB Leipzig v Leverkusen",
+      "utc": "2027-02-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-20-bayern-munich-fc-augsburg",
-      "weekend": "2027-02-20",
-      "name": "Bayern Munich v FC Augsburg",
-      "utc": "2027-02-20T20:00:00Z"
+      "id": "bl-2027-02-20-schalke-v-freiburg",
+      "weekend": "Matchday 22",
+      "name": "Schalke v Freiburg",
+      "utc": "2027-02-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-20-borussia-m-nchengladbach-fc-cologne",
-      "weekend": "2027-02-20",
-      "name": "Borussia M\u00f6nchengladbach v FC Cologne",
-      "utc": "2027-02-20T20:00:00Z"
+      "id": "bl-2027-02-20-stuttgart-v-sc-paderborn",
+      "weekend": "Matchday 22",
+      "name": "Stuttgart v SC Paderborn",
+      "utc": "2027-02-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-20-eintracht-frankfurt-rb-leipzig",
-      "weekend": "2027-02-20",
-      "name": "Eintracht Frankfurt v RB Leipzig",
-      "utc": "2027-02-20T20:00:00Z"
+      "id": "bl-2027-02-20-m-gladbach-v-1-fc-k-ln",
+      "weekend": "Matchday 22",
+      "name": "M'gladbach v 1. FC K\u00f6ln",
+      "utc": "2027-02-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-20-hamburg-sv-tsg-hoffenheim",
-      "weekend": "2027-02-20",
-      "name": "Hamburg SV v TSG Hoffenheim",
-      "utc": "2027-02-20T20:00:00Z"
+      "id": "bl-2027-02-20-bremen-v-dortmund",
+      "weekend": "Matchday 22",
+      "name": "Bremen v Dortmund",
+      "utc": "2027-02-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-20-schalke-04-sc-freiburg",
-      "weekend": "2027-02-20",
-      "name": "Schalke 04 v SC Freiburg",
-      "utc": "2027-02-20T20:00:00Z"
+      "id": "bl-2027-02-20-hsv-v-hoffenheim",
+      "weekend": "Matchday 22",
+      "name": "HSV v Hoffenheim",
+      "utc": "2027-02-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-20-sv-elversberg-1-fc-union-berlin",
-      "weekend": "2027-02-20",
-      "name": "SV Elversberg v 1. FC Union Berlin",
-      "utc": "2027-02-20T20:00:00Z"
+      "id": "bl-2027-02-20-leverkusen-v-mainz",
+      "weekend": "Matchday 22",
+      "name": "Leverkusen v Mainz",
+      "utc": "2027-02-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-20-vfb-stuttgart-sc-paderborn-07",
-      "weekend": "2027-02-20",
-      "name": "VfB Stuttgart v SC Paderborn 07",
-      "utc": "2027-02-20T20:00:00Z"
+      "id": "bl-2027-02-20-frankfurt-v-rb-leipzig",
+      "weekend": "Matchday 22",
+      "name": "Frankfurt v RB Leipzig",
+      "utc": "2027-02-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-20-werder-bremen-borussia-dortmund",
-      "weekend": "2027-02-20",
-      "name": "Werder Bremen v Borussia Dortmund",
-      "utc": "2027-02-20T20:00:00Z"
+      "id": "bl-2027-02-20-bayern-v-augsburg",
+      "weekend": "Matchday 22",
+      "name": "Bayern v Augsburg",
+      "utc": "2027-02-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-27-borussia-dortmund-1-fc-union-berlin",
-      "weekend": "2027-02-27",
-      "name": "Borussia Dortmund v 1. FC Union Berlin",
-      "utc": "2027-02-27T20:00:00Z"
+      "id": "bl-2027-02-20-elversberg-v-union-berlin",
+      "weekend": "Matchday 22",
+      "name": "Elversberg v Union Berlin",
+      "utc": "2027-02-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-27-fc-augsburg-sv-elversberg",
-      "weekend": "2027-02-27",
-      "name": "FC Augsburg v SV Elversberg",
-      "utc": "2027-02-27T20:00:00Z"
+      "id": "bl-2027-02-27-stuttgart-v-hsv",
+      "weekend": "Matchday 23",
+      "name": "Stuttgart v HSV",
+      "utc": "2027-02-27T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-27-fc-cologne-eintracht-frankfurt",
-      "weekend": "2027-02-27",
-      "name": "FC Cologne v Eintracht Frankfurt",
-      "utc": "2027-02-27T20:00:00Z"
+      "id": "bl-2027-02-27-1-fc-k-ln-v-frankfurt",
+      "weekend": "Matchday 23",
+      "name": "1. FC K\u00f6ln v Frankfurt",
+      "utc": "2027-02-27T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-27-mainz-schalke-04",
-      "weekend": "2027-02-27",
-      "name": "Mainz v Schalke 04",
-      "utc": "2027-02-27T20:00:00Z"
+      "id": "bl-2027-02-27-freiburg-v-leverkusen",
+      "weekend": "Matchday 23",
+      "name": "Freiburg v Leverkusen",
+      "utc": "2027-02-27T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-27-rb-leipzig-bayern-munich",
-      "weekend": "2027-02-27",
-      "name": "RB Leipzig v Bayern Munich",
-      "utc": "2027-02-27T20:00:00Z"
+      "id": "bl-2027-02-27-augsburg-v-elversberg",
+      "weekend": "Matchday 23",
+      "name": "Augsburg v Elversberg",
+      "utc": "2027-02-27T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-27-sc-freiburg-bayer-leverkusen",
-      "weekend": "2027-02-27",
-      "name": "SC Freiburg v Bayer Leverkusen",
-      "utc": "2027-02-27T20:00:00Z"
+      "id": "bl-2027-02-27-mainz-v-schalke",
+      "weekend": "Matchday 23",
+      "name": "Mainz v Schalke",
+      "utc": "2027-02-27T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-27-sc-paderborn-07-werder-bremen",
-      "weekend": "2027-02-27",
-      "name": "SC Paderborn 07 v Werder Bremen",
-      "utc": "2027-02-27T20:00:00Z"
+      "id": "bl-2027-02-27-hoffenheim-v-m-gladbach",
+      "weekend": "Matchday 23",
+      "name": "Hoffenheim v M'gladbach",
+      "utc": "2027-02-27T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-27-tsg-hoffenheim-borussia-m-nchengladbach",
-      "weekend": "2027-02-27",
-      "name": "TSG Hoffenheim v Borussia M\u00f6nchengladbach",
-      "utc": "2027-02-27T20:00:00Z"
+      "id": "bl-2027-02-27-sc-paderborn-v-bremen",
+      "weekend": "Matchday 23",
+      "name": "SC Paderborn v Bremen",
+      "utc": "2027-02-27T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-02-27-vfb-stuttgart-hamburg-sv",
-      "weekend": "2027-02-27",
-      "name": "VfB Stuttgart v Hamburg SV",
-      "utc": "2027-02-27T20:00:00Z"
+      "id": "bl-2027-02-27-rb-leipzig-v-bayern",
+      "weekend": "Matchday 23",
+      "name": "RB Leipzig v Bayern",
+      "utc": "2027-02-27T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-03-1-fc-union-berlin-fc-augsburg",
-      "weekend": "2027-03-03",
-      "name": "1. FC Union Berlin v FC Augsburg",
-      "utc": "2027-03-03T20:00:00Z"
+      "id": "bl-2027-02-27-dortmund-v-union-berlin",
+      "weekend": "Matchday 23",
+      "name": "Dortmund v Union Berlin",
+      "utc": "2027-02-27T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-03-bayer-leverkusen-tsg-hoffenheim",
-      "weekend": "2027-03-03",
-      "name": "Bayer Leverkusen v TSG Hoffenheim",
-      "utc": "2027-03-03T20:00:00Z"
+      "id": "bl-2027-03-03-frankfurt-v-dortmund",
+      "weekend": "Matchday 24",
+      "name": "Frankfurt v Dortmund",
+      "utc": "2027-03-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-03-bayern-munich-sc-freiburg",
-      "weekend": "2027-03-03",
-      "name": "Bayern Munich v SC Freiburg",
-      "utc": "2027-03-03T20:00:00Z"
+      "id": "bl-2027-03-03-schalke-v-1-fc-k-ln",
+      "weekend": "Matchday 24",
+      "name": "Schalke v 1. FC K\u00f6ln",
+      "utc": "2027-03-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-03-borussia-m-nchengladbach-vfb-stuttgart",
-      "weekend": "2027-03-03",
-      "name": "Borussia M\u00f6nchengladbach v VfB Stuttgart",
-      "utc": "2027-03-03T20:00:00Z"
+      "id": "bl-2027-03-03-leverkusen-v-hoffenheim",
+      "weekend": "Matchday 24",
+      "name": "Leverkusen v Hoffenheim",
+      "utc": "2027-03-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-03-eintracht-frankfurt-borussia-dortmund",
-      "weekend": "2027-03-03",
-      "name": "Eintracht Frankfurt v Borussia Dortmund",
-      "utc": "2027-03-03T20:00:00Z"
+      "id": "bl-2027-03-03-bayern-v-freiburg",
+      "weekend": "Matchday 24",
+      "name": "Bayern v Freiburg",
+      "utc": "2027-03-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-03-hamburg-sv-sc-paderborn-07",
-      "weekend": "2027-03-03",
-      "name": "Hamburg SV v SC Paderborn 07",
-      "utc": "2027-03-03T20:00:00Z"
+      "id": "bl-2027-03-03-bremen-v-mainz",
+      "weekend": "Matchday 24",
+      "name": "Bremen v Mainz",
+      "utc": "2027-03-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-03-schalke-04-fc-cologne",
-      "weekend": "2027-03-03",
-      "name": "Schalke 04 v FC Cologne",
-      "utc": "2027-03-03T20:00:00Z"
+      "id": "bl-2027-03-03-union-berlin-v-augsburg",
+      "weekend": "Matchday 24",
+      "name": "Union Berlin v Augsburg",
+      "utc": "2027-03-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-03-sv-elversberg-rb-leipzig",
-      "weekend": "2027-03-03",
-      "name": "SV Elversberg v RB Leipzig",
-      "utc": "2027-03-03T20:00:00Z"
+      "id": "bl-2027-03-03-elversberg-v-rb-leipzig",
+      "weekend": "Matchday 24",
+      "name": "Elversberg v RB Leipzig",
+      "utc": "2027-03-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-03-werder-bremen-mainz",
-      "weekend": "2027-03-03",
-      "name": "Werder Bremen v Mainz",
-      "utc": "2027-03-03T20:00:00Z"
+      "id": "bl-2027-03-03-m-gladbach-v-stuttgart",
+      "weekend": "Matchday 24",
+      "name": "M'gladbach v Stuttgart",
+      "utc": "2027-03-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-06-borussia-dortmund-bayern-munich",
-      "weekend": "2027-03-06",
-      "name": "Borussia Dortmund v Bayern Munich",
-      "utc": "2027-03-06T20:00:00Z"
+      "id": "bl-2027-03-03-hsv-v-sc-paderborn",
+      "weekend": "Matchday 24",
+      "name": "HSV v SC Paderborn",
+      "utc": "2027-03-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-06-fc-cologne-1-fc-union-berlin",
-      "weekend": "2027-03-06",
-      "name": "FC Cologne v 1. FC Union Berlin",
-      "utc": "2027-03-06T20:00:00Z"
+      "id": "bl-2027-03-06-dortmund-v-bayern",
+      "weekend": "Matchday 25",
+      "name": "Dortmund v Bayern",
+      "utc": "2027-03-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-06-hamburg-sv-eintracht-frankfurt",
-      "weekend": "2027-03-06",
-      "name": "Hamburg SV v Eintracht Frankfurt",
-      "utc": "2027-03-06T20:00:00Z"
+      "id": "bl-2027-03-06-freiburg-v-augsburg",
+      "weekend": "Matchday 25",
+      "name": "Freiburg v Augsburg",
+      "utc": "2027-03-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-06-mainz-sv-elversberg",
-      "weekend": "2027-03-06",
-      "name": "Mainz v SV Elversberg",
-      "utc": "2027-03-06T20:00:00Z"
+      "id": "bl-2027-03-06-mainz-v-elversberg",
+      "weekend": "Matchday 25",
+      "name": "Mainz v Elversberg",
+      "utc": "2027-03-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-06-rb-leipzig-schalke-04",
-      "weekend": "2027-03-06",
-      "name": "RB Leipzig v Schalke 04",
-      "utc": "2027-03-06T20:00:00Z"
+      "id": "bl-2027-03-06-hsv-v-frankfurt",
+      "weekend": "Matchday 25",
+      "name": "HSV v Frankfurt",
+      "utc": "2027-03-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-06-sc-freiburg-fc-augsburg",
-      "weekend": "2027-03-06",
-      "name": "SC Freiburg v FC Augsburg",
-      "utc": "2027-03-06T20:00:00Z"
+      "id": "bl-2027-03-06-stuttgart-v-leverkusen",
+      "weekend": "Matchday 25",
+      "name": "Stuttgart v Leverkusen",
+      "utc": "2027-03-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-06-sc-paderborn-07-borussia-m-nchengladbach",
-      "weekend": "2027-03-06",
-      "name": "SC Paderborn 07 v Borussia M\u00f6nchengladbach",
-      "utc": "2027-03-06T20:00:00Z"
+      "id": "bl-2027-03-06-rb-leipzig-v-schalke",
+      "weekend": "Matchday 25",
+      "name": "RB Leipzig v Schalke",
+      "utc": "2027-03-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-06-tsg-hoffenheim-werder-bremen",
-      "weekend": "2027-03-06",
-      "name": "TSG Hoffenheim v Werder Bremen",
-      "utc": "2027-03-06T20:00:00Z"
+      "id": "bl-2027-03-06-sc-paderborn-v-m-gladbach",
+      "weekend": "Matchday 25",
+      "name": "SC Paderborn v M'gladbach",
+      "utc": "2027-03-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-06-vfb-stuttgart-bayer-leverkusen",
-      "weekend": "2027-03-06",
-      "name": "VfB Stuttgart v Bayer Leverkusen",
-      "utc": "2027-03-06T20:00:00Z"
+      "id": "bl-2027-03-06-1-fc-k-ln-v-union-berlin",
+      "weekend": "Matchday 25",
+      "name": "1. FC K\u00f6ln v Union Berlin",
+      "utc": "2027-03-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-13-1-fc-union-berlin-sc-freiburg",
-      "weekend": "2027-03-13",
-      "name": "1. FC Union Berlin v SC Freiburg",
-      "utc": "2027-03-13T20:00:00Z"
+      "id": "bl-2027-03-06-hoffenheim-v-bremen",
+      "weekend": "Matchday 25",
+      "name": "Hoffenheim v Bremen",
+      "utc": "2027-03-06T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-13-bayer-leverkusen-fc-cologne",
-      "weekend": "2027-03-13",
-      "name": "Bayer Leverkusen v FC Cologne",
-      "utc": "2027-03-13T20:00:00Z"
+      "id": "bl-2027-03-13-union-berlin-v-freiburg",
+      "weekend": "Matchday 26",
+      "name": "Union Berlin v Freiburg",
+      "utc": "2027-03-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-13-bayern-munich-mainz",
-      "weekend": "2027-03-13",
-      "name": "Bayern Munich v Mainz",
-      "utc": "2027-03-13T20:00:00Z"
+      "id": "bl-2027-03-13-elversberg-v-dortmund",
+      "weekend": "Matchday 26",
+      "name": "Elversberg v Dortmund",
+      "utc": "2027-03-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-13-borussia-m-nchengladbach-hamburg-sv",
-      "weekend": "2027-03-13",
-      "name": "Borussia M\u00f6nchengladbach v Hamburg SV",
-      "utc": "2027-03-13T20:00:00Z"
+      "id": "bl-2027-03-13-frankfurt-v-sc-paderborn",
+      "weekend": "Matchday 26",
+      "name": "Frankfurt v SC Paderborn",
+      "utc": "2027-03-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-13-eintracht-frankfurt-sc-paderborn-07",
-      "weekend": "2027-03-13",
-      "name": "Eintracht Frankfurt v SC Paderborn 07",
-      "utc": "2027-03-13T20:00:00Z"
+      "id": "bl-2027-03-13-augsburg-v-rb-leipzig",
+      "weekend": "Matchday 26",
+      "name": "Augsburg v RB Leipzig",
+      "utc": "2027-03-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-13-fc-augsburg-rb-leipzig",
-      "weekend": "2027-03-13",
-      "name": "FC Augsburg v RB Leipzig",
-      "utc": "2027-03-13T20:00:00Z"
+      "id": "bl-2027-03-13-m-gladbach-v-hsv",
+      "weekend": "Matchday 26",
+      "name": "M'gladbach v HSV",
+      "utc": "2027-03-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-13-schalke-04-tsg-hoffenheim",
-      "weekend": "2027-03-13",
-      "name": "Schalke 04 v TSG Hoffenheim",
-      "utc": "2027-03-13T20:00:00Z"
+      "id": "bl-2027-03-13-bremen-v-stuttgart",
+      "weekend": "Matchday 26",
+      "name": "Bremen v Stuttgart",
+      "utc": "2027-03-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-13-sv-elversberg-borussia-dortmund",
-      "weekend": "2027-03-13",
-      "name": "SV Elversberg v Borussia Dortmund",
-      "utc": "2027-03-13T20:00:00Z"
+      "id": "bl-2027-03-13-schalke-v-hoffenheim",
+      "weekend": "Matchday 26",
+      "name": "Schalke v Hoffenheim",
+      "utc": "2027-03-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-13-werder-bremen-vfb-stuttgart",
-      "weekend": "2027-03-13",
-      "name": "Werder Bremen v VfB Stuttgart",
-      "utc": "2027-03-13T20:00:00Z"
+      "id": "bl-2027-03-13-bayern-v-mainz",
+      "weekend": "Matchday 26",
+      "name": "Bayern v Mainz",
+      "utc": "2027-03-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-20-borussia-dortmund-borussia-m-nchengladbach",
-      "weekend": "2027-03-20",
-      "name": "Borussia Dortmund v Borussia M\u00f6nchengladbach",
-      "utc": "2027-03-20T18:00:00Z"
+      "id": "bl-2027-03-13-leverkusen-v-1-fc-k-ln",
+      "weekend": "Matchday 26",
+      "name": "Leverkusen v 1. FC K\u00f6ln",
+      "utc": "2027-03-13T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-20-fc-cologne-bayern-munich",
-      "weekend": "2027-03-20",
-      "name": "FC Cologne v Bayern Munich",
-      "utc": "2027-03-20T18:00:00Z"
+      "id": "bl-2027-03-20-1-fc-k-ln-v-bayern",
+      "weekend": "Matchday 27",
+      "name": "1. FC K\u00f6ln v Bayern",
+      "utc": "2027-03-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-20-hamburg-sv-werder-bremen",
-      "weekend": "2027-03-20",
-      "name": "Hamburg SV v Werder Bremen",
-      "utc": "2027-03-20T18:00:00Z"
+      "id": "bl-2027-03-20-hoffenheim-v-frankfurt",
+      "weekend": "Matchday 27",
+      "name": "Hoffenheim v Frankfurt",
+      "utc": "2027-03-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-20-mainz-fc-augsburg",
-      "weekend": "2027-03-20",
-      "name": "Mainz v FC Augsburg",
-      "utc": "2027-03-20T18:00:00Z"
+      "id": "bl-2027-03-20-dortmund-v-m-gladbach",
+      "weekend": "Matchday 27",
+      "name": "Dortmund v M'gladbach",
+      "utc": "2027-03-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-20-rb-leipzig-1-fc-union-berlin",
-      "weekend": "2027-03-20",
-      "name": "RB Leipzig v 1. FC Union Berlin",
-      "utc": "2027-03-20T18:00:00Z"
+      "id": "bl-2027-03-20-mainz-v-augsburg",
+      "weekend": "Matchday 27",
+      "name": "Mainz v Augsburg",
+      "utc": "2027-03-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-20-sc-freiburg-sv-elversberg",
-      "weekend": "2027-03-20",
-      "name": "SC Freiburg v SV Elversberg",
-      "utc": "2027-03-20T18:00:00Z"
+      "id": "bl-2027-03-20-stuttgart-v-schalke",
+      "weekend": "Matchday 27",
+      "name": "Stuttgart v Schalke",
+      "utc": "2027-03-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-20-sc-paderborn-07-bayer-leverkusen",
-      "weekend": "2027-03-20",
-      "name": "SC Paderborn 07 v Bayer Leverkusen",
-      "utc": "2027-03-20T18:00:00Z"
+      "id": "bl-2027-03-20-rb-leipzig-v-union-berlin",
+      "weekend": "Matchday 27",
+      "name": "RB Leipzig v Union Berlin",
+      "utc": "2027-03-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-20-tsg-hoffenheim-eintracht-frankfurt",
-      "weekend": "2027-03-20",
-      "name": "TSG Hoffenheim v Eintracht Frankfurt",
-      "utc": "2027-03-20T18:00:00Z"
+      "id": "bl-2027-03-20-freiburg-v-elversberg",
+      "weekend": "Matchday 27",
+      "name": "Freiburg v Elversberg",
+      "utc": "2027-03-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-03-20-vfb-stuttgart-schalke-04",
-      "weekend": "2027-03-20",
-      "name": "VfB Stuttgart v Schalke 04",
-      "utc": "2027-03-20T18:00:00Z"
+      "id": "bl-2027-03-20-hsv-v-bremen",
+      "weekend": "Matchday 27",
+      "name": "HSV v Bremen",
+      "utc": "2027-03-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-03-1-fc-union-berlin-mainz",
-      "weekend": "2027-04-03",
-      "name": "1. FC Union Berlin v Mainz",
-      "utc": "2027-04-03T18:00:00Z"
+      "id": "bl-2027-03-20-sc-paderborn-v-leverkusen",
+      "weekend": "Matchday 27",
+      "name": "SC Paderborn v Leverkusen",
+      "utc": "2027-03-20T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-03-bayer-leverkusen-borussia-dortmund",
-      "weekend": "2027-04-03",
-      "name": "Bayer Leverkusen v Borussia Dortmund",
-      "utc": "2027-04-03T18:00:00Z"
+      "id": "bl-2027-04-03-rb-leipzig-v-freiburg",
+      "weekend": "Matchday 28",
+      "name": "RB Leipzig v Freiburg",
+      "utc": "2027-04-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-03-bayern-munich-hamburg-sv",
-      "weekend": "2027-04-03",
-      "name": "Bayern Munich v Hamburg SV",
-      "utc": "2027-04-03T18:00:00Z"
+      "id": "bl-2027-04-03-elversberg-v-1-fc-k-ln",
+      "weekend": "Matchday 28",
+      "name": "Elversberg v 1. FC K\u00f6ln",
+      "utc": "2027-04-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-03-borussia-m-nchengladbach-werder-bremen",
-      "weekend": "2027-04-03",
-      "name": "Borussia M\u00f6nchengladbach v Werder Bremen",
-      "utc": "2027-04-03T18:00:00Z"
+      "id": "bl-2027-04-03-bayern-v-hsv",
+      "weekend": "Matchday 28",
+      "name": "Bayern v HSV",
+      "utc": "2027-04-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-03-eintracht-frankfurt-vfb-stuttgart",
-      "weekend": "2027-04-03",
-      "name": "Eintracht Frankfurt v VfB Stuttgart",
-      "utc": "2027-04-03T18:00:00Z"
+      "id": "bl-2027-04-03-augsburg-v-hoffenheim",
+      "weekend": "Matchday 28",
+      "name": "Augsburg v Hoffenheim",
+      "utc": "2027-04-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-03-fc-augsburg-tsg-hoffenheim",
-      "weekend": "2027-04-03",
-      "name": "FC Augsburg v TSG Hoffenheim",
-      "utc": "2027-04-03T18:00:00Z"
+      "id": "bl-2027-04-03-m-gladbach-v-bremen",
+      "weekend": "Matchday 28",
+      "name": "M'gladbach v Bremen",
+      "utc": "2027-04-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-03-rb-leipzig-sc-freiburg",
-      "weekend": "2027-04-03",
-      "name": "RB Leipzig v SC Freiburg",
-      "utc": "2027-04-03T18:00:00Z"
+      "id": "bl-2027-04-03-frankfurt-v-stuttgart",
+      "weekend": "Matchday 28",
+      "name": "Frankfurt v Stuttgart",
+      "utc": "2027-04-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-03-schalke-04-sc-paderborn-07",
-      "weekend": "2027-04-03",
-      "name": "Schalke 04 v SC Paderborn 07",
-      "utc": "2027-04-03T18:00:00Z"
+      "id": "bl-2027-04-03-union-berlin-v-mainz",
+      "weekend": "Matchday 28",
+      "name": "Union Berlin v Mainz",
+      "utc": "2027-04-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-03-sv-elversberg-fc-cologne",
-      "weekend": "2027-04-03",
-      "name": "SV Elversberg v FC Cologne",
-      "utc": "2027-04-03T18:00:00Z"
+      "id": "bl-2027-04-03-leverkusen-v-dortmund",
+      "weekend": "Matchday 28",
+      "name": "Leverkusen v Dortmund",
+      "utc": "2027-04-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-10-borussia-dortmund-schalke-04",
-      "weekend": "2027-04-10",
-      "name": "Borussia Dortmund v Schalke 04",
-      "utc": "2027-04-10T18:00:00Z"
+      "id": "bl-2027-04-03-schalke-v-sc-paderborn",
+      "weekend": "Matchday 28",
+      "name": "Schalke v SC Paderborn",
+      "utc": "2027-04-03T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-10-borussia-m-nchengladbach-bayer-leverkusen",
-      "weekend": "2027-04-10",
-      "name": "Borussia M\u00f6nchengladbach v Bayer Leverkusen",
-      "utc": "2027-04-10T18:00:00Z"
+      "id": "bl-2027-04-10-stuttgart-v-elversberg",
+      "weekend": "Matchday 29",
+      "name": "Stuttgart v Elversberg",
+      "utc": "2027-04-10T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-10-fc-cologne-fc-augsburg",
-      "weekend": "2027-04-10",
-      "name": "FC Cologne v FC Augsburg",
-      "utc": "2027-04-10T18:00:00Z"
+      "id": "bl-2027-04-10-sc-paderborn-v-bayern",
+      "weekend": "Matchday 29",
+      "name": "SC Paderborn v Bayern",
+      "utc": "2027-04-10T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-10-hamburg-sv-1-fc-union-berlin",
-      "weekend": "2027-04-10",
-      "name": "Hamburg SV v 1. FC Union Berlin",
-      "utc": "2027-04-10T18:00:00Z"
+      "id": "bl-2027-04-10-hoffenheim-v-freiburg",
+      "weekend": "Matchday 29",
+      "name": "Hoffenheim v Freiburg",
+      "utc": "2027-04-10T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-10-mainz-rb-leipzig",
-      "weekend": "2027-04-10",
+      "id": "bl-2027-04-10-mainz-v-rb-leipzig",
+      "weekend": "Matchday 29",
       "name": "Mainz v RB Leipzig",
-      "utc": "2027-04-10T18:00:00Z"
+      "utc": "2027-04-10T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-10-sc-paderborn-07-bayern-munich",
-      "weekend": "2027-04-10",
-      "name": "SC Paderborn 07 v Bayern Munich",
-      "utc": "2027-04-10T18:00:00Z"
+      "id": "bl-2027-04-10-bremen-v-frankfurt",
+      "weekend": "Matchday 29",
+      "name": "Bremen v Frankfurt",
+      "utc": "2027-04-10T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-10-tsg-hoffenheim-sc-freiburg",
-      "weekend": "2027-04-10",
-      "name": "TSG Hoffenheim v SC Freiburg",
-      "utc": "2027-04-10T18:00:00Z"
+      "id": "bl-2027-04-10-dortmund-v-schalke",
+      "weekend": "Matchday 29",
+      "name": "Dortmund v Schalke",
+      "utc": "2027-04-10T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-10-vfb-stuttgart-sv-elversberg",
-      "weekend": "2027-04-10",
-      "name": "VfB Stuttgart v SV Elversberg",
-      "utc": "2027-04-10T18:00:00Z"
+      "id": "bl-2027-04-10-hsv-v-union-berlin",
+      "weekend": "Matchday 29",
+      "name": "HSV v Union Berlin",
+      "utc": "2027-04-10T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-10-werder-bremen-eintracht-frankfurt",
-      "weekend": "2027-04-10",
-      "name": "Werder Bremen v Eintracht Frankfurt",
-      "utc": "2027-04-10T18:00:00Z"
+      "id": "bl-2027-04-10-m-gladbach-v-leverkusen",
+      "weekend": "Matchday 29",
+      "name": "M'gladbach v Leverkusen",
+      "utc": "2027-04-10T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-17-1-fc-union-berlin-vfb-stuttgart",
-      "weekend": "2027-04-17",
-      "name": "1. FC Union Berlin v VfB Stuttgart",
-      "utc": "2027-04-17T18:00:00Z"
+      "id": "bl-2027-04-10-1-fc-k-ln-v-augsburg",
+      "weekend": "Matchday 29",
+      "name": "1. FC K\u00f6ln v Augsburg",
+      "utc": "2027-04-10T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-17-bayer-leverkusen-werder-bremen",
-      "weekend": "2027-04-17",
-      "name": "Bayer Leverkusen v Werder Bremen",
-      "utc": "2027-04-17T18:00:00Z"
+      "id": "bl-2027-04-17-leverkusen-v-bremen",
+      "weekend": "Matchday 30",
+      "name": "Leverkusen v Bremen",
+      "utc": "2027-04-17T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-17-bayern-munich-tsg-hoffenheim",
-      "weekend": "2027-04-17",
-      "name": "Bayern Munich v TSG Hoffenheim",
-      "utc": "2027-04-17T18:00:00Z"
+      "id": "bl-2027-04-17-frankfurt-v-m-gladbach",
+      "weekend": "Matchday 30",
+      "name": "Frankfurt v M'gladbach",
+      "utc": "2027-04-17T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-17-eintracht-frankfurt-borussia-m-nchengladbach",
-      "weekend": "2027-04-17",
-      "name": "Eintracht Frankfurt v Borussia M\u00f6nchengladbach",
-      "utc": "2027-04-17T18:00:00Z"
+      "id": "bl-2027-04-17-union-berlin-v-stuttgart",
+      "weekend": "Matchday 30",
+      "name": "Union Berlin v Stuttgart",
+      "utc": "2027-04-17T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-17-fc-augsburg-borussia-dortmund",
-      "weekend": "2027-04-17",
-      "name": "FC Augsburg v Borussia Dortmund",
-      "utc": "2027-04-17T18:00:00Z"
+      "id": "bl-2027-04-17-bayern-v-hoffenheim",
+      "weekend": "Matchday 30",
+      "name": "Bayern v Hoffenheim",
+      "utc": "2027-04-17T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-17-rb-leipzig-fc-cologne",
-      "weekend": "2027-04-17",
-      "name": "RB Leipzig v FC Cologne",
-      "utc": "2027-04-17T18:00:00Z"
+      "id": "bl-2027-04-17-schalke-v-hsv",
+      "weekend": "Matchday 30",
+      "name": "Schalke v HSV",
+      "utc": "2027-04-17T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-17-sc-freiburg-mainz",
-      "weekend": "2027-04-17",
-      "name": "SC Freiburg v Mainz",
-      "utc": "2027-04-17T18:00:00Z"
+      "id": "bl-2027-04-17-elversberg-v-sc-paderborn",
+      "weekend": "Matchday 30",
+      "name": "Elversberg v SC Paderborn",
+      "utc": "2027-04-17T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-17-schalke-04-hamburg-sv",
-      "weekend": "2027-04-17",
-      "name": "Schalke 04 v Hamburg SV",
-      "utc": "2027-04-17T18:00:00Z"
+      "id": "bl-2027-04-17-augsburg-v-dortmund",
+      "weekend": "Matchday 30",
+      "name": "Augsburg v Dortmund",
+      "utc": "2027-04-17T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-17-sv-elversberg-sc-paderborn-07",
-      "weekend": "2027-04-17",
-      "name": "SV Elversberg v SC Paderborn 07",
-      "utc": "2027-04-17T18:00:00Z"
+      "id": "bl-2027-04-17-freiburg-v-mainz",
+      "weekend": "Matchday 30",
+      "name": "Freiburg v Mainz",
+      "utc": "2027-04-17T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-24-borussia-dortmund-rb-leipzig",
-      "weekend": "2027-04-24",
-      "name": "Borussia Dortmund v RB Leipzig",
-      "utc": "2027-04-24T18:00:00Z"
+      "id": "bl-2027-04-17-rb-leipzig-v-1-fc-k-ln",
+      "weekend": "Matchday 30",
+      "name": "RB Leipzig v 1. FC K\u00f6ln",
+      "utc": "2027-04-17T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-24-borussia-m-nchengladbach-schalke-04",
-      "weekend": "2027-04-24",
-      "name": "Borussia M\u00f6nchengladbach v Schalke 04",
-      "utc": "2027-04-24T18:00:00Z"
+      "id": "bl-2027-04-24-bremen-v-bayern",
+      "weekend": "Matchday 31",
+      "name": "Bremen v Bayern",
+      "utc": "2027-04-24T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-24-eintracht-frankfurt-bayer-leverkusen",
-      "weekend": "2027-04-24",
-      "name": "Eintracht Frankfurt v Bayer Leverkusen",
-      "utc": "2027-04-24T18:00:00Z"
+      "id": "bl-2027-04-24-1-fc-k-ln-v-mainz",
+      "weekend": "Matchday 31",
+      "name": "1. FC K\u00f6ln v Mainz",
+      "utc": "2027-04-24T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-24-fc-cologne-mainz",
-      "weekend": "2027-04-24",
-      "name": "FC Cologne v Mainz",
-      "utc": "2027-04-24T18:00:00Z"
+      "id": "bl-2027-04-24-hsv-v-elversberg",
+      "weekend": "Matchday 31",
+      "name": "HSV v Elversberg",
+      "utc": "2027-04-24T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-24-hamburg-sv-sv-elversberg",
-      "weekend": "2027-04-24",
-      "name": "Hamburg SV v SV Elversberg",
-      "utc": "2027-04-24T18:00:00Z"
+      "id": "bl-2027-04-24-dortmund-v-rb-leipzig",
+      "weekend": "Matchday 31",
+      "name": "Dortmund v RB Leipzig",
+      "utc": "2027-04-24T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-24-sc-paderborn-07-fc-augsburg",
-      "weekend": "2027-04-24",
-      "name": "SC Paderborn 07 v FC Augsburg",
-      "utc": "2027-04-24T18:00:00Z"
+      "id": "bl-2027-04-24-hoffenheim-v-union-berlin",
+      "weekend": "Matchday 31",
+      "name": "Hoffenheim v Union Berlin",
+      "utc": "2027-04-24T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-24-tsg-hoffenheim-1-fc-union-berlin",
-      "weekend": "2027-04-24",
-      "name": "TSG Hoffenheim v 1. FC Union Berlin",
-      "utc": "2027-04-24T18:00:00Z"
+      "id": "bl-2027-04-24-sc-paderborn-v-augsburg",
+      "weekend": "Matchday 31",
+      "name": "SC Paderborn v Augsburg",
+      "utc": "2027-04-24T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-24-vfb-stuttgart-sc-freiburg",
-      "weekend": "2027-04-24",
-      "name": "VfB Stuttgart v SC Freiburg",
-      "utc": "2027-04-24T18:00:00Z"
+      "id": "bl-2027-04-24-stuttgart-v-freiburg",
+      "weekend": "Matchday 31",
+      "name": "Stuttgart v Freiburg",
+      "utc": "2027-04-24T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-04-24-werder-bremen-bayern-munich",
-      "weekend": "2027-04-24",
-      "name": "Werder Bremen v Bayern Munich",
-      "utc": "2027-04-24T18:00:00Z"
+      "id": "bl-2027-04-24-m-gladbach-v-schalke",
+      "weekend": "Matchday 31",
+      "name": "M'gladbach v Schalke",
+      "utc": "2027-04-24T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-08-1-fc-union-berlin-werder-bremen",
-      "weekend": "2027-05-08",
-      "name": "1. FC Union Berlin v Werder Bremen",
-      "utc": "2027-05-08T18:00:00Z"
+      "id": "bl-2027-04-24-frankfurt-v-leverkusen",
+      "weekend": "Matchday 31",
+      "name": "Frankfurt v Leverkusen",
+      "utc": "2027-04-24T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-08-bayer-leverkusen-hamburg-sv",
-      "weekend": "2027-05-08",
-      "name": "Bayer Leverkusen v Hamburg SV",
-      "utc": "2027-05-08T18:00:00Z"
+      "id": "bl-2027-05-08-schalke-v-frankfurt",
+      "weekend": "Matchday 32",
+      "name": "Schalke v Frankfurt",
+      "utc": "2027-05-08T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-08-bayern-munich-borussia-m-nchengladbach",
-      "weekend": "2027-05-08",
-      "name": "Bayern Munich v Borussia M\u00f6nchengladbach",
-      "utc": "2027-05-08T18:00:00Z"
+      "id": "bl-2027-05-08-rb-leipzig-v-sc-paderborn",
+      "weekend": "Matchday 32",
+      "name": "RB Leipzig v SC Paderborn",
+      "utc": "2027-05-08T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-08-fc-augsburg-vfb-stuttgart",
-      "weekend": "2027-05-08",
-      "name": "FC Augsburg v VfB Stuttgart",
-      "utc": "2027-05-08T18:00:00Z"
+      "id": "bl-2027-05-08-freiburg-v-1-fc-k-ln",
+      "weekend": "Matchday 32",
+      "name": "Freiburg v 1. FC K\u00f6ln",
+      "utc": "2027-05-08T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-08-mainz-borussia-dortmund",
-      "weekend": "2027-05-08",
-      "name": "Mainz v Borussia Dortmund",
-      "utc": "2027-05-08T18:00:00Z"
+      "id": "bl-2027-05-08-mainz-v-dortmund",
+      "weekend": "Matchday 32",
+      "name": "Mainz v Dortmund",
+      "utc": "2027-05-08T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-08-rb-leipzig-sc-paderborn-07",
-      "weekend": "2027-05-08",
-      "name": "RB Leipzig v SC Paderborn 07",
-      "utc": "2027-05-08T18:00:00Z"
+      "id": "bl-2027-05-08-augsburg-v-stuttgart",
+      "weekend": "Matchday 32",
+      "name": "Augsburg v Stuttgart",
+      "utc": "2027-05-08T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-08-sc-freiburg-fc-cologne",
-      "weekend": "2027-05-08",
-      "name": "SC Freiburg v FC Cologne",
-      "utc": "2027-05-08T18:00:00Z"
+      "id": "bl-2027-05-08-union-berlin-v-bremen",
+      "weekend": "Matchday 32",
+      "name": "Union Berlin v Bremen",
+      "utc": "2027-05-08T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-08-schalke-04-eintracht-frankfurt",
-      "weekend": "2027-05-08",
-      "name": "Schalke 04 v Eintracht Frankfurt",
-      "utc": "2027-05-08T18:00:00Z"
+      "id": "bl-2027-05-08-elversberg-v-hoffenheim",
+      "weekend": "Matchday 32",
+      "name": "Elversberg v Hoffenheim",
+      "utc": "2027-05-08T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-08-sv-elversberg-tsg-hoffenheim",
-      "weekend": "2027-05-08",
-      "name": "SV Elversberg v TSG Hoffenheim",
-      "utc": "2027-05-08T18:00:00Z"
+      "id": "bl-2027-05-08-leverkusen-v-hsv",
+      "weekend": "Matchday 32",
+      "name": "Leverkusen v HSV",
+      "utc": "2027-05-08T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-15-bayer-leverkusen-bayern-munich",
-      "weekend": "2027-05-15",
-      "name": "Bayer Leverkusen v Bayern Munich",
-      "utc": "2027-05-15T18:00:00Z"
+      "id": "bl-2027-05-08-bayern-v-m-gladbach",
+      "weekend": "Matchday 32",
+      "name": "Bayern v M'gladbach",
+      "utc": "2027-05-08T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-15-borussia-dortmund-fc-cologne",
-      "weekend": "2027-05-15",
-      "name": "Borussia Dortmund v FC Cologne",
-      "utc": "2027-05-15T18:00:00Z"
+      "id": "bl-2027-05-15-frankfurt-v-elversberg",
+      "weekend": "Matchday 33",
+      "name": "Frankfurt v Elversberg",
+      "utc": "2027-05-15T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-15-borussia-m-nchengladbach-fc-augsburg",
-      "weekend": "2027-05-15",
-      "name": "Borussia M\u00f6nchengladbach v FC Augsburg",
-      "utc": "2027-05-15T18:00:00Z"
+      "id": "bl-2027-05-15-sc-paderborn-v-union-berlin",
+      "weekend": "Matchday 33",
+      "name": "SC Paderborn v Union Berlin",
+      "utc": "2027-05-15T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-15-eintracht-frankfurt-sv-elversberg",
-      "weekend": "2027-05-15",
-      "name": "Eintracht Frankfurt v SV Elversberg",
-      "utc": "2027-05-15T18:00:00Z"
+      "id": "bl-2027-05-15-stuttgart-v-rb-leipzig",
+      "weekend": "Matchday 33",
+      "name": "Stuttgart v RB Leipzig",
+      "utc": "2027-05-15T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-15-hamburg-sv-sc-freiburg",
-      "weekend": "2027-05-15",
-      "name": "Hamburg SV v SC Freiburg",
-      "utc": "2027-05-15T18:00:00Z"
+      "id": "bl-2027-05-15-dortmund-v-1-fc-k-ln",
+      "weekend": "Matchday 33",
+      "name": "Dortmund v 1. FC K\u00f6ln",
+      "utc": "2027-05-15T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-15-sc-paderborn-07-1-fc-union-berlin",
-      "weekend": "2027-05-15",
-      "name": "SC Paderborn 07 v 1. FC Union Berlin",
-      "utc": "2027-05-15T18:00:00Z"
+      "id": "bl-2027-05-15-hsv-v-freiburg",
+      "weekend": "Matchday 33",
+      "name": "HSV v Freiburg",
+      "utc": "2027-05-15T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-15-tsg-hoffenheim-mainz",
-      "weekend": "2027-05-15",
-      "name": "TSG Hoffenheim v Mainz",
-      "utc": "2027-05-15T18:00:00Z"
+      "id": "bl-2027-05-15-leverkusen-v-bayern",
+      "weekend": "Matchday 33",
+      "name": "Leverkusen v Bayern",
+      "utc": "2027-05-15T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-15-vfb-stuttgart-rb-leipzig",
-      "weekend": "2027-05-15",
-      "name": "VfB Stuttgart v RB Leipzig",
-      "utc": "2027-05-15T18:00:00Z"
+      "id": "bl-2027-05-15-bremen-v-schalke",
+      "weekend": "Matchday 33",
+      "name": "Bremen v Schalke",
+      "utc": "2027-05-15T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-15-werder-bremen-schalke-04",
-      "weekend": "2027-05-15",
-      "name": "Werder Bremen v Schalke 04",
-      "utc": "2027-05-15T18:00:00Z"
+      "id": "bl-2027-05-15-m-gladbach-v-augsburg",
+      "weekend": "Matchday 33",
+      "name": "M'gladbach v Augsburg",
+      "utc": "2027-05-15T00:00:00Z"
     },
     {
-      "id": "bundesliga-2027-05-22-1-fc-union-berlin-borussia-m-nchengladbach",
-      "weekend": "2027-05-22",
-      "name": "1. FC Union Berlin v Borussia M\u00f6nchengladbach",
+      "id": "bl-2027-05-15-hoffenheim-v-mainz",
+      "weekend": "Matchday 33",
+      "name": "Hoffenheim v Mainz",
+      "utc": "2027-05-15T00:00:00Z"
+    },
+    {
+      "id": "bl-2027-05-22-rb-leipzig-v-hoffenheim",
+      "weekend": "Matchday 34",
+      "name": "RB Leipzig v Hoffenheim",
       "utc": "2027-05-22T13:30:00Z"
     },
     {
-      "id": "bundesliga-2027-05-22-bayern-munich-eintracht-frankfurt",
-      "weekend": "2027-05-22",
-      "name": "Bayern Munich v Eintracht Frankfurt",
+      "id": "bl-2027-05-22-union-berlin-v-m-gladbach",
+      "weekend": "Matchday 34",
+      "name": "Union Berlin v M'gladbach",
       "utc": "2027-05-22T13:30:00Z"
     },
     {
-      "id": "bundesliga-2027-05-22-fc-augsburg-hamburg-sv",
-      "weekend": "2027-05-22",
-      "name": "FC Augsburg v Hamburg SV",
+      "id": "bl-2027-05-22-mainz-v-stuttgart",
+      "weekend": "Matchday 34",
+      "name": "Mainz v Stuttgart",
       "utc": "2027-05-22T13:30:00Z"
     },
     {
-      "id": "bundesliga-2027-05-22-fc-cologne-sc-paderborn-07",
-      "weekend": "2027-05-22",
-      "name": "FC Cologne v SC Paderborn 07",
+      "id": "bl-2027-05-22-schalke-v-leverkusen",
+      "weekend": "Matchday 34",
+      "name": "Schalke v Leverkusen",
       "utc": "2027-05-22T13:30:00Z"
     },
     {
-      "id": "bundesliga-2027-05-22-mainz-vfb-stuttgart",
-      "weekend": "2027-05-22",
-      "name": "Mainz v VfB Stuttgart",
+      "id": "bl-2027-05-22-elversberg-v-bremen",
+      "weekend": "Matchday 34",
+      "name": "Elversberg v Bremen",
       "utc": "2027-05-22T13:30:00Z"
     },
     {
-      "id": "bundesliga-2027-05-22-rb-leipzig-tsg-hoffenheim",
-      "weekend": "2027-05-22",
-      "name": "RB Leipzig v TSG Hoffenheim",
+      "id": "bl-2027-05-22-bayern-v-frankfurt",
+      "weekend": "Matchday 34",
+      "name": "Bayern v Frankfurt",
       "utc": "2027-05-22T13:30:00Z"
     },
     {
-      "id": "bundesliga-2027-05-22-sc-freiburg-borussia-dortmund",
-      "weekend": "2027-05-22",
-      "name": "SC Freiburg v Borussia Dortmund",
+      "id": "bl-2027-05-22-augsburg-v-hsv",
+      "weekend": "Matchday 34",
+      "name": "Augsburg v HSV",
       "utc": "2027-05-22T13:30:00Z"
     },
     {
-      "id": "bundesliga-2027-05-22-schalke-04-bayer-leverkusen",
-      "weekend": "2027-05-22",
-      "name": "Schalke 04 v Bayer Leverkusen",
+      "id": "bl-2027-05-22-freiburg-v-dortmund",
+      "weekend": "Matchday 34",
+      "name": "Freiburg v Dortmund",
       "utc": "2027-05-22T13:30:00Z"
     },
     {
-      "id": "bundesliga-2027-05-22-sv-elversberg-werder-bremen",
-      "weekend": "2027-05-22",
-      "name": "SV Elversberg v Werder Bremen",
+      "id": "bl-2027-05-22-1-fc-k-ln-v-sc-paderborn",
+      "weekend": "Matchday 34",
+      "name": "1. FC K\u00f6ln v SC Paderborn",
       "utc": "2027-05-22T13:30:00Z"
     }
   ]
