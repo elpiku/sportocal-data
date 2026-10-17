@@ -142,6 +142,9 @@ class ApiSportsClient(SportsProvider):
 
             try:
                 data = res.json()
+                errors = data.get("errors")
+                if errors:
+                    print(f"  [API-Sports/{self.sport}] API returned errors: {errors}", file=sys.stderr)
                 cache.set("api-sports", cache_key, data)
                 return data
             except ValueError as err:
