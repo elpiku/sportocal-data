@@ -78,13 +78,13 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add american-football/ hockey/ rugby/ tennis/ mma/ volleyball/ handball/ baseball/ australian-football/ index.json
+          git add --ignore-missing american-football/ hockey/ rugby/ tennis/ mma/ volleyball/ handball/ baseball/ australian-football/ index.json
           git diff --quiet && git diff --staged --quiet && exit 0
           git commit -m "Auto-update daily sports schedules [skip ci]"
           for i in $(seq 1 10); do
             git push && exit 0
             echo "Push rejected - retrying ($i/10)..."
-            git pull --rebase origin main
+            git pull --rebase -X ours origin main || git rebase --abort
             sleep $((RANDOM % 15 + 1))
           done
           exit 1
