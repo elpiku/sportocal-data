@@ -78,7 +78,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add --ignore-missing american-football/ hockey/ rugby/ tennis/ mma/ volleyball/ handball/ baseball/ australian-football/ index.json
+          for dir in american-football hockey rugby tennis mma volleyball handball baseball australian-football; do
+            [ -d "$dir" ] && git add "$dir/"
+          done
+          git add index.json
           git diff --quiet && git diff --staged --quiet && exit 0
           git commit -m "Auto-update daily sports schedules [skip ci]"
           for i in $(seq 1 10); do
